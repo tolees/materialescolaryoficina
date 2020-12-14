@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013TGF75O/?tag=tolees-21'
 descuento: '26.94'
+average: '11.61'
 ---
 
 Está [AmazonBasics  Mochila de estilo clásico  Azul  Azulón ](https://www.amazon.es/dp/B013TGF75O/?tag=tolees-21) con 26.94 de descuento por 11.61 EUR (original: 15.89 EUR) en el siguiente enlace!

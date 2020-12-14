@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000BFWJTO/?tag=tolees-21'
 descuento: '52.80'
+average: '33.04'
 ---
 
 Tienes [Cross Tech3+ - Bolígrafo multi-funcional  color negro](https://www.amazon.es/dp/B000BFWJTO/?tag=tolees-21) con un 52.80 % de descuento con precio de oferta de 33.04 EUR (original: 70 EUR) en el siguiente enlace!

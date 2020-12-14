@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077CYGDFH/?tag=tolees-21'
 descuento: '52.04'
+average: '6.45'
 ---
 
 Ahora mismo tienes [Speedo Equipment Mesh Bag Mochila  Unisex Adulto  Azul Ultramar/Naranja Fluorescente  One Size](https://www.amazon.es/dp/B077CYGDFH/?tag=tolees-21) a 6.45 EUR (original: 13.45 EUR) (52.04 %  de descuento) en el siguiente enlace!

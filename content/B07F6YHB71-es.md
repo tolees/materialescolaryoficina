@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6YHB71/?tag=tolees-21'
 descuento: '32.40'
+average: '25'
 ---
 
 Tienes [Reebok DA1261 Junior Motion TR BP Mochila Tipo Casual  25 cm  20 litros  Negro](https://www.amazon.es/dp/B07F6YHB71/?tag=tolees-21) con un 32.40 % de descuento con precio de oferta de 25 EUR (original: 36.98 EUR) en el siguiente enlace!

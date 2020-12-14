@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EGATKO6/?tag=tolees-21'
 descuento: '50.10'
+average: '24.95'
 ---
 
 Está [Vans Van Doren III Backpack Mochila Tipo Casual  52 cm  29 Liters  Gris  Heather Suiting ](https://www.amazon.es/dp/B01EGATKO6/?tag=tolees-21) con 50.10 de descuento por 24.95 EUR (original: 50 EUR) en el siguiente enlace!

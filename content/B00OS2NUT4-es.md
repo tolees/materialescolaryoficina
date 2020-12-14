@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OS2NUT4/?tag=tolees-21'
 descuento: '31.87'
+average: '68.13'
 ---
 
 Tienes [The North Face Borealis Mochila   Negro  50 x 34.5 x 22 cm  28 Liter](https://www.amazon.es/dp/B00OS2NUT4/?tag=tolees-21) con un 31.87 % de descuento con precio de oferta de 68.13 EUR (original: 100 EUR) en el siguiente enlace!

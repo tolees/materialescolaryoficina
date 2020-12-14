@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PGSAOE8/?tag=tolees-21'
 descuento: '67.97'
+average: '3.92'
 ---
 
 Ahora mismo tienes [L Oréal Paris Lápiz de Ojos Super Liner Smokissime Black Smoky](https://www.amazon.es/dp/B00PGSAOE8/?tag=tolees-21) a 3.92 EUR (original: 12.24 EUR) (67.97 %  de descuento) en el siguiente enlace!

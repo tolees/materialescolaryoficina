@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014EBP3U2/?tag=tolees-21'
 descuento: '45.16'
+average: '87.74'
 ---
 
 Está [Salomon Skin Pro Mochila de Hidratación  Unisex Adulto  Negro  Black/Bright Red   15 L](https://www.amazon.es/dp/B014EBP3U2/?tag=tolees-21) con 45.16 de descuento por 87.74 EUR (original: 160 EUR) en el siguiente enlace!

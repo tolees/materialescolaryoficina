@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXWML7U/?tag=tolees-21'
 descuento: '36.17'
+average: '8.93'
 ---
 
 Ahora mismo tienes [Mickey Mouse Mochila Cremallera Frontal 24x21x8 cms. Mickey Color 0 AST0945](https://www.amazon.es/dp/B01LXWML7U/?tag=tolees-21) a 8.93 EUR (original: 13.99 EUR) (36.17 %  de descuento) en el siguiente enlace!

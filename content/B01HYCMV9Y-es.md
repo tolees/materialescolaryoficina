@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HYCMV9Y/?tag=tolees-21'
 descuento: '51.68'
+average: '129.99'
 ---
 
 Está [GREENCUT EBW700 Kit Sulfatador Fumigador Mochila Liquido-Polvo y Soplador  2130 W  Naranja  26 L  42 cc](https://www.amazon.es/dp/B01HYCMV9Y/?tag=tolees-21) con 51.68 de descuento por 129.99 EUR (original: 269 EUR) en el siguiente enlace!

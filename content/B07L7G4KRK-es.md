@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L7G4KRK/?tag=tolees-21'
 descuento: '64.33'
+average: '11.99'
 ---
 
 Tienes [Lápiz Para Cejas De 3 Paquetes Con Gel Para Cejas Y Brocha Para Cejas  Delineador De Cejas a Prueba De Manchas a Prueba De Agua De Larga Duración  Negro/ Marrón Claro/ Marrón Oscuro ](https://www.amazon.es/dp/B07L7G4KRK/?tag=tolees-21) con un 64.33 % de descuento con precio de oferta de 11.99 EUR (original: 33.61 EUR) en el siguiente enlace!

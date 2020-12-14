@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OSE8E0C/?tag=tolees-21'
 descuento: '39.10'
+average: '42.63'
 ---
 
 Ahora mismo tienes [The North Face Vault Mochila  Unisex Adulto  Negro  TNF Black   Talla Única](https://www.amazon.es/dp/B00OSE8E0C/?tag=tolees-21) a 42.63 EUR (original: 70 EUR) (39.10 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TIBH5XM/?tag=tolees-21'
 descuento: '73.50'
+average: '7.95'
 ---
 
 Ahora mismo tienes [Targus TBB571EU Prospect - Mochila para portátil de 15.6"  negro](https://www.amazon.es/dp/B00TIBH5XM/?tag=tolees-21) a 7.95 EUR (original: 30 EUR) (73.50 %  de descuento) en el siguiente enlace!

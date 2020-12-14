@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0054JDX0Q/?tag=tolees-21'
 descuento: '62.47'
+average: '5.61'
 ---
 
 Tienes [Highlander - Mochila de excursión Dublin  Color Rosa/Gris  15 litros  DS135-PK-01](https://www.amazon.es/dp/B0054JDX0Q/?tag=tolees-21) con un 62.47 % de descuento con precio de oferta de 5.61 EUR (original: 14.95 EUR) en el siguiente enlace!

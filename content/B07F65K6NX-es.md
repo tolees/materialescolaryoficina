@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F65K6NX/?tag=tolees-21'
 descuento: '31.60'
+average: '12.99'
 ---
 
 Tienes [Ratón inalámbrico de Alto Rendimiento Profesional Portátil de Oficina casa Juego Ratón ABS fotoeléctrico 3 Teclas de Conexión Reproductor Notebook Tablet PC calculadora](https://www.amazon.es/dp/B07F65K6NX/?tag=tolees-21) con un 31.60 % de descuento con precio de oferta de 12.99 EUR (original: 18.99 EUR) en el siguiente enlace!

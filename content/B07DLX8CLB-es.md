@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLX8CLB/?tag=tolees-21'
 descuento: '27.61'
+average: '151.29'
 ---
 
 Tienes [SAMSONITE Pro-DLX 5 - Backpack Expandable for 15.6   Laptop 21/26L  1.4 KG Mochila Tipo Casual  44 cm  21 Liters  Negro  Black ](https://www.amazon.es/dp/B07DLX8CLB/?tag=tolees-21) con un 27.61 % de descuento con precio de oferta de 151.29 EUR (original: 209 EUR) en el siguiente enlace!

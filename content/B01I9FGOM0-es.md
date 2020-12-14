@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01I9FGOM0/?tag=tolees-21'
 descuento: '43.49'
+average: '7.64'
 ---
 
 Está [Trolls 2100001571 Mochila Infantil](https://www.amazon.es/dp/B01I9FGOM0/?tag=tolees-21) con 43.49 de descuento por 7.64 EUR (original: 13.52 EUR) en el siguiente enlace!

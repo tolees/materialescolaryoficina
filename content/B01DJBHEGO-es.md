@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DJBHEGO/?tag=tolees-21'
 descuento: '32.38'
+average: '11.59'
 ---
 
 Está [Parker Jotter Chelsea Orange bolígrafo CT](https://www.amazon.es/dp/B01DJBHEGO/?tag=tolees-21) con 32.38 de descuento por 11.59 EUR (original: 17.14 EUR) en el siguiente enlace!

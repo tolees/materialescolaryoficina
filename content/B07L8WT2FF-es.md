@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L8WT2FF/?tag=tolees-21'
 descuento: '74.30'
+average: '17.99'
 ---
 
 Ahora mismo tienes [TOPERSUN Lápiz de Color 72 Colores Regalo Ideal para Artistas  Adultos y Niños](https://www.amazon.es/dp/B07L8WT2FF/?tag=tolees-21) a 17.99 EUR (original: 69.99 EUR) (74.30 %  de descuento) en el siguiente enlace!

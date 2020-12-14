@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFV42DW/?tag=tolees-21'
 descuento: '46.53'
+average: '8.55'
 ---
 
 Está [Roxy Da Rock Estuche Escolar  Mujer  Verde/Blanco  Bright White AX Boheme Border   Talla Única](https://www.amazon.es/dp/B07DFV42DW/?tag=tolees-21) con 46.53 de descuento por 8.55 EUR (original: 15.99 EUR) en el siguiente enlace!

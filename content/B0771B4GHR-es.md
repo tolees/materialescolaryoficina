@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0771B4GHR/?tag=tolees-21'
 descuento: '47.60'
+average: '11.13'
 ---
 
 Está [qimh Pro tijeras de podar  tijeras de podar de jardín de alta resistencia  Razor Sharp SK5 de acero al carbono cuchillas para cortes precisos  ligero comodidad  ideal para árboles  plantas  setos](https://www.amazon.es/dp/B0771B4GHR/?tag=tolees-21) con 47.60 de descuento por 11.13 EUR (original: 21.24 EUR) en el siguiente enlace!

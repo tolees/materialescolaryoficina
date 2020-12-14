@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01847IQXI/?tag=tolees-21'
 descuento: '71.56'
+average: '19.11'
 ---
 
 Ahora mismo tienes [Mi-Pac Gold  Mochila Tipo Casual  41 cm  17 litros  Cow Pocket C/B](https://www.amazon.es/dp/B01847IQXI/?tag=tolees-21) a 19.11 EUR (original: 67.2 EUR) (71.56 %  de descuento) en el siguiente enlace!

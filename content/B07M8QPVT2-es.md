@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8QPVT2/?tag=tolees-21'
 descuento: '44.24'
+average: '52.97'
 ---
 
 Ahora mismo tienes [The North Face Borealis Classic Mochila  Unisex Adulto  Urban Navy/Vint  Talla Única](https://www.amazon.es/dp/B07M8QPVT2/?tag=tolees-21) a 52.97 EUR (original: 95 EUR) (44.24 %  de descuento) en el siguiente enlace!

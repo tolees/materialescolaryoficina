@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZRHA1Y6/?tag=tolees-21'
 descuento: '55.67'
+average: '19.95'
 ---
 
 Está [Dakine Wonder Mochila Poliéster Negro  Gris - Mochila para portátiles y netbooks  Poliéster  Negro  Gris  Monótono  600 D  Hombres  Bolsillo Lateral ](https://www.amazon.es/dp/B00ZRHA1Y6/?tag=tolees-21) con 55.67 de descuento por 19.95 EUR (original: 45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KTVSY8M/?tag=tolees-21'
 descuento: '44.45'
+average: '24.99'
 ---
 
 Tienes [Columbia Beacon Mochila  Unisex Adulto  Tapestry  Graphite  O/S](https://www.amazon.es/dp/B07KTVSY8M/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 24.99 EUR (original: 44.99 EUR) en el siguiente enlace!

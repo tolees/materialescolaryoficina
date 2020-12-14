@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFV71ZN/?tag=tolees-21'
 descuento: '33.56'
+average: '19.9'
 ---
 
 Tienes [Mochila Bullpadel X-Compact Silver](https://www.amazon.es/dp/B07DFV71ZN/?tag=tolees-21) con un 33.56 % de descuento con precio de oferta de 19.9 EUR (original: 29.95 EUR) en el siguiente enlace!

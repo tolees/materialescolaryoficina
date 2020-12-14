@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G3R1ZP2/?tag=tolees-21'
 descuento: '30.08'
+average: '279'
 ---
 
 Está [Porsche Design Business Backpack BackPack MVZ 2 Shyrt 2.0 Nylon Nailon I](https://www.amazon.es/dp/B07G3R1ZP2/?tag=tolees-21) con 30.08 de descuento por 279 EUR (original: 399 EUR) en el siguiente enlace!

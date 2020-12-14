@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IRXD5WQ/?tag=tolees-21'
 descuento: '65.40'
+average: '25.95'
 ---
 
 Tienes [Dakine 10001284 Mochila  Hombre  Negro  33 L](https://www.amazon.es/dp/B01IRXD5WQ/?tag=tolees-21) con un 65.40 % de descuento con precio de oferta de 25.95 EUR (original: 75 EUR) en el siguiente enlace!

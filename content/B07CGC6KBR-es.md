@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CGC6KBR/?tag=tolees-21'
 descuento: '92.21'
+average: '3.61'
 ---
 
 Está [KingNew - Afilador de cuchillos para cocina  cuchillos  tijeras de cuchilla profesional  herramienta afilada  verde ](https://www.amazon.es/dp/B07CGC6KBR/?tag=tolees-21) con 92.21 de descuento por 3.61 EUR (original: 46.34 EUR) en el siguiente enlace!

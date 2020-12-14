@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BF639CR/?tag=tolees-21'
 descuento: '58.76'
+average: '32.99'
 ---
 
 Está [Pluma 3D Fede  Lápiz 3D con[12 Rollo Filamento de PLA ]en 12 Colores de 1 75mm Cada Uno de 3 3m y Un Total de 39 6m  Boligrafo 3D con Pantalla LCD para Impresión 3D Regalo para Niños y Adultos](https://www.amazon.es/dp/B07BF639CR/?tag=tolees-21) con 58.76 de descuento por 32.99 EUR (original: 79.99 EUR) en el siguiente enlace!

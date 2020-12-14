@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BNVRXKE/?tag=tolees-21'
 descuento: '57.71'
+average: '35.95'
 ---
 
 Está [Dakine Duel 26L Mochila Poliéster Negro - Mochila para portátiles y netbooks  Poliéster  Negro  Monótono  600 D  Unisex  Bolsillo Frontal  Bolsillo Lateral ](https://www.amazon.es/dp/B01BNVRXKE/?tag=tolees-21) con 57.71 de descuento por 35.95 EUR (original: 85 EUR) en el siguiente enlace!

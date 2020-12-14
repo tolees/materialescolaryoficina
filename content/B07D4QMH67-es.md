@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4QMH67/?tag=tolees-21'
 descuento: '49.47'
+average: '48'
 ---
 
 Tienes [Fjällräven Kanken Mochila tipo casual  38 cm  16 litros  Glacier Verde](https://www.amazon.es/dp/B07D4QMH67/?tag=tolees-21) con un 49.47 % de descuento con precio de oferta de 48 EUR (original: 95 EUR) en el siguiente enlace!

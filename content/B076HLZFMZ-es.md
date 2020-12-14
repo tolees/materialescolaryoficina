@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076HLZFMZ/?tag=tolees-21'
 descuento: '41.31'
+average: '26.99'
 ---
 
 Está [Oflamn Mochilas Portátil 14 Pulgadas - Maletín para Portátiles de Negocios Resistente al Agua - Water Resistant Business Laptop Backpack  black ](https://www.amazon.es/dp/B076HLZFMZ/?tag=tolees-21) con 41.31 de descuento por 26.99 EUR (original: 45.99 EUR) en el siguiente enlace!

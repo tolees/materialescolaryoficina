@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHV3FJH/?tag=tolees-21'
 descuento: '32.19'
+average: '33.9'
 ---
 
 Está [Roxy Here You Are Mix Mochila Mediana  Mujer  Gris/Negro  True Black Dots for Days   23.5 l](https://www.amazon.es/dp/B07DHV3FJH/?tag=tolees-21) con 32.19 de descuento por 33.9 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BYKLCNF/?tag=tolees-21'
 descuento: '63.70'
+average: '1.47'
 ---
 
 Está [Biotop Pack de 2 rotuladores para Etiquetas con Tinta Resistentes al Agua B2165](https://www.amazon.es/dp/B07BYKLCNF/?tag=tolees-21) con 63.70 de descuento por 1.47 EUR (original: 4.05 EUR) en el siguiente enlace!

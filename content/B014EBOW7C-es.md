@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014EBOW7C/?tag=tolees-21'
 descuento: '38.17'
+average: '40.19'
 ---
 
 Tienes [Salomon Trail 20 Backpack  Unisex Adulto  Negro  Black/Bright Red   20 L](https://www.amazon.es/dp/B014EBOW7C/?tag=tolees-21) con un 38.17 % de descuento con precio de oferta de 40.19 EUR (original: 65 EUR) en el siguiente enlace!

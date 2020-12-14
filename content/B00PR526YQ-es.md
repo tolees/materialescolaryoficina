@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PR526YQ/?tag=tolees-21'
 descuento: '74.90'
+average: '8.2'
 ---
 
 Está [rOtring Tikky - Rotulador roller de punta fina  azul  caja de 12](https://www.amazon.es/dp/B00PR526YQ/?tag=tolees-21) con 74.90 de descuento por 8.2 EUR (original: 32.67 EUR) en el siguiente enlace!

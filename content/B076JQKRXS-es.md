@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076JQKRXS/?tag=tolees-21'
 descuento: '52.78'
+average: '66.11'
 ---
 
 Está [Salomon Mochila ligera  10 L  para running  senderismo o ciclismo  40 x 13 x 17 cm  SKIN PRO 10 SET  Azul  L40137000](https://www.amazon.es/dp/B076JQKRXS/?tag=tolees-21) con 52.78 de descuento por 66.11 EUR (original: 140 EUR) en el siguiente enlace!

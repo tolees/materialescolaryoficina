@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X9ZQ4J1/?tag=tolees-21'
 descuento: '70.02'
+average: '9.41'
 ---
 
 Ahora mismo tienes [Love & Child LC218M 2017 Mochila Escolar  42 cm](https://www.amazon.es/dp/B06X9ZQ4J1/?tag=tolees-21) a 9.41 EUR (original: 31.39 EUR) (70.02 %  de descuento) en el siguiente enlace!

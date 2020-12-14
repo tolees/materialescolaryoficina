@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P1CGP7Y/?tag=tolees-21'
 descuento: '50.00'
+average: '74.5'
 ---
 
 Tienes [Tous MOCHILA KAOS UNIQUE](https://www.amazon.es/dp/B07P1CGP7Y/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 74.5 EUR (original: 149 EUR) en el siguiente enlace!

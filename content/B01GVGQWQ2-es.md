@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GVGQWQ2/?tag=tolees-21'
 descuento: '55.51'
+average: '4'
 ---
 
 Tienes [STAR WARS Mochila Junior](https://www.amazon.es/dp/B01GVGQWQ2/?tag=tolees-21) con un 55.51 % de descuento con precio de oferta de 4 EUR (original: 8.99 EUR) en el siguiente enlace!

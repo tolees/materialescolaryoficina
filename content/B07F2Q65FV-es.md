@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2Q65FV/?tag=tolees-21'
 descuento: '54.29'
+average: '32'
 ---
 
 Ahora mismo tienes [Helly Hansen Loke Backpack Mochila  Unisex  Rojo  Cherry Tomato   25L](https://www.amazon.es/dp/B07F2Q65FV/?tag=tolees-21) a 32 EUR (original: 70 EUR) (54.29 %  de descuento) en el siguiente enlace!

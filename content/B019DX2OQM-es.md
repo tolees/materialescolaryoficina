@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019DX2OQM/?tag=tolees-21'
 descuento: '54.22'
+average: '3.85'
 ---
 
 Tienes [Marcador fluorescente STABILO BOSS Mini - Edición limitada Funnimals - Pack con 5 colores](https://www.amazon.es/dp/B019DX2OQM/?tag=tolees-21) con un 54.22 % de descuento con precio de oferta de 3.85 EUR (original: 8.41 EUR) en el siguiente enlace!

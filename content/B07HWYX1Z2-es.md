@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HWYX1Z2/?tag=tolees-21'
 descuento: '27.60'
+average: '202'
 ---
 
 Está [Leonhard Heyden Chicago Mochila para portátil 15.6? Negro](https://www.amazon.es/dp/B07HWYX1Z2/?tag=tolees-21) con 27.60 de descuento por 202 EUR (original: 279 EUR) en el siguiente enlace!

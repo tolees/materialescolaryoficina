@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2CMKST/?tag=tolees-21'
 descuento: '60.02'
+average: '15.99'
 ---
 
 Tienes [Portabebé Asiento de Cadera Cintura de Taburete Baby Waist Stool Posiciones Asiento Multifunción Mochila de Honda Seguro Hebilla para 0 - 36 meses Niños  Rojo ](https://www.amazon.es/dp/B07D2CMKST/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 15.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0055QDHEA/?tag=tolees-21'
 descuento: '32.24'
+average: '16.94'
 ---
 
 Está [Nike NK Heritage BKPK-Label Mochila  Adultos Unisex  Rush Pink/Black/Orange Blaze  One Size](https://www.amazon.es/dp/B0055QDHEA/?tag=tolees-21) con 32.24 de descuento por 16.94 EUR (original: 25 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DD1LBN3/?tag=tolees-21'
 descuento: '36.32'
+average: '34.99'
 ---
 
 Ahora mismo tienes [Puma Prime Archive Bow Backpack  Mujer  Whisper White  OSFA](https://www.amazon.es/dp/B07DD1LBN3/?tag=tolees-21) a 34.99 EUR (original: 54.95 EUR) (36.32 %  de descuento) en el siguiente enlace!

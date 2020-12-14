@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079TL48RX/?tag=tolees-21'
 descuento: '31.63'
+average: '40.99'
 ---
 
 Está [BLACK+DECKER BDCT12N-XJ - Grapadora clavadora 12 V  acepta grapas 6-14 mm  clavos 12 y 15 mm](https://www.amazon.es/dp/B079TL48RX/?tag=tolees-21) con 31.63 de descuento por 40.99 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQT1Z5R/?tag=tolees-21'
 descuento: '40.06'
+average: '20.95'
 ---
 
 Está [Puma Academy Backpack  Unisex Adulto  Strong Blue  OSFA](https://www.amazon.es/dp/B07DQT1Z5R/?tag=tolees-21) con 40.06 de descuento por 20.95 EUR (original: 34.95 EUR) en el siguiente enlace!

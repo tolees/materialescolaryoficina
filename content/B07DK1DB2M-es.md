@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK1DB2M/?tag=tolees-21'
 descuento: '47.84'
+average: '52.16'
 ---
 
 Está [The North Face Recon Mochila  Unisex Adultos  Flag Blue Light/TNF White  One Size](https://www.amazon.es/dp/B07DK1DB2M/?tag=tolees-21) con 47.84 de descuento por 52.16 EUR (original: 100 EUR) en el siguiente enlace!

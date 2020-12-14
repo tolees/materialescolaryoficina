@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4GWWN3/?tag=tolees-21'
 descuento: '38.77'
+average: '85.72'
 ---
 
 Ahora mismo tienes [Osprey Sirrus 26  mochila de senderismo con ventilación para mujer - Ruska Purple  O/S ](https://www.amazon.es/dp/B01N4GWWN3/?tag=tolees-21) a 85.72 EUR (original: 140 EUR) (38.77 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJCQD11/?tag=tolees-21'
 descuento: '73.48'
+average: '11.02'
 ---
 
 Tienes [Miquel Rius Miquelrius-16919 Mochila Triple  Espiga 16919](https://www.amazon.es/dp/B07CJCQD11/?tag=tolees-21) con un 73.48 % de descuento con precio de oferta de 11.02 EUR (original: 41.56 EUR) en el siguiente enlace!

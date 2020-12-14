@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072XG8ZCD/?tag=tolees-21'
 descuento: '29.59'
+average: '11.9'
 ---
 
 Ahora mismo tienes [Bolsa de hidratación para mochila de senderismo  sistema de hidratación con reserva de agua para 1 l  1 5 l  2 l y 3 l  de la marca AONIJIE  1L ](https://www.amazon.es/dp/B072XG8ZCD/?tag=tolees-21) a 11.9 EUR (original: 16.9 EUR) (29.59 %  de descuento) en el siguiente enlace!

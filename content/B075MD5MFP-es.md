@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075MD5MFP/?tag=tolees-21'
 descuento: '27.37'
+average: '6.5'
 ---
 
 Ahora mismo tienes [Play-Doh Hasbro c3898eu4 6 Unidades  Colores primarios plastilina](https://www.amazon.es/dp/B075MD5MFP/?tag=tolees-21) a 6.5 EUR (original: 8.95 EUR) (27.37 %  de descuento) en el siguiente enlace!

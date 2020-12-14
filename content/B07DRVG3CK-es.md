@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRVG3CK/?tag=tolees-21'
 descuento: '29.82'
+average: '200'
 ---
 
 Está [Piquadro Circle Mochila Tipo Casual  36 cm  Rojo  Rosso ](https://www.amazon.es/dp/B07DRVG3CK/?tag=tolees-21) con 29.82 de descuento por 200 EUR (original: 285 EUR) en el siguiente enlace!

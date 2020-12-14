@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HD7VG7Y/?tag=tolees-21'
 descuento: '57.85'
+average: '29.08'
 ---
 
 Ahora mismo tienes [Wenger 600665 Developer - Mochila con compartimento acolchado para portátiles  15.4"  color negro](https://www.amazon.es/dp/B00HD7VG7Y/?tag=tolees-21) a 29.08 EUR (original: 68.99 EUR) (57.85 %  de descuento) en el siguiente enlace!

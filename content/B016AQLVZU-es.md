@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016AQLVZU/?tag=tolees-21'
 descuento: '41.85'
+average: '15.45'
 ---
 
 Está [Approx APPNBBUNDLE4 - Mochila para portátil de hasta 15 6” + ratón óptico USB  Color Negro y Azul](https://www.amazon.es/dp/B016AQLVZU/?tag=tolees-21) con 41.85 de descuento por 15.45 EUR (original: 26.57 EUR) en el siguiente enlace!

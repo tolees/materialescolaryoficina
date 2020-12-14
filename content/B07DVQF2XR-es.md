@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVQF2XR/?tag=tolees-21'
 descuento: '27.36'
+average: '39.95'
 ---
 
 Tienes [Salomon Mochila de running y senderismo 10L  trail 10  azul  Night Sky  y  verde  Sulphur Spring ](https://www.amazon.es/dp/B07DVQF2XR/?tag=tolees-21) con un 27.36 % de descuento con precio de oferta de 39.95 EUR (original: 55 EUR) en el siguiente enlace!

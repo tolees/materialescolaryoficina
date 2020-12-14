@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WGJEUYU/?tag=tolees-21'
 descuento: '49.95'
+average: '32.53'
 ---
 
 Tienes [Eastpak Mochila de a diario  17 L](https://www.amazon.es/dp/B00WGJEUYU/?tag=tolees-21) con un 49.95 % de descuento con precio de oferta de 32.53 EUR (original: 65 EUR) en el siguiente enlace!

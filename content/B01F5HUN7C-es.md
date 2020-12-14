@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F5HUN7C/?tag=tolees-21'
 descuento: '27.12'
+average: '18.95'
 ---
 
 Está [Umbro 30614U-090 Mochila  Hombres  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B01F5HUN7C/?tag=tolees-21) con 27.12 de descuento por 18.95 EUR (original: 26 EUR) en el siguiente enlace!

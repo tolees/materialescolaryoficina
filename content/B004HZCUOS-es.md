@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004HZCUOS/?tag=tolees-21'
 descuento: '50.20'
+average: '12.45'
 ---
 
 Está [Nike Y Nk Elmntl Bkpk Mochila  Unisex Niños  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B004HZCUOS/?tag=tolees-21) con 50.20 de descuento por 12.45 EUR (original: 25 EUR) en el siguiente enlace!

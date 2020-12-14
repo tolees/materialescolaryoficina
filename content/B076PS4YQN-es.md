@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076PS4YQN/?tag=tolees-21'
 descuento: '42.39'
+average: '23.96'
 ---
 
 Ahora mismo tienes [Sharpie 2025161 - Rotuladores permanentes  punta fina  paquete de 24  color negro](https://www.amazon.es/dp/B076PS4YQN/?tag=tolees-21) a 23.96 EUR (original: 41.59 EUR) (42.39 %  de descuento) en el siguiente enlace!

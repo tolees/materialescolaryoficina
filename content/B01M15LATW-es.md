@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M15LATW/?tag=tolees-21'
 descuento: '36.78'
+average: '28.45'
 ---
 
 Está [VAUDE Pecki 14 Mochila  Unisex Niños   Marine/Rojo   Talla única](https://www.amazon.es/dp/B01M15LATW/?tag=tolees-21) con 36.78 de descuento por 28.45 EUR (original: 45 EUR) en el siguiente enlace!

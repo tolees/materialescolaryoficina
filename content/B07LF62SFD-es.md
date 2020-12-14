@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LF62SFD/?tag=tolees-21'
 descuento: '45.28'
+average: '8.47'
 ---
 
 Tienes [BIC Gel-ocity Original - Caja de 12 unidades  bolígrafos de Gel  colores surtidos](https://www.amazon.es/dp/B07LF62SFD/?tag=tolees-21) con un 45.28 % de descuento con precio de oferta de 8.47 EUR (original: 15.48 EUR) en el siguiente enlace!

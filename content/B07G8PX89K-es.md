@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G8PX89K/?tag=tolees-21'
 descuento: '34.73'
+average: '96.6'
 ---
 
 Ahora mismo tienes [Guess - Elliana Backpack  Mujer  Negro  Blush   22x29x10.5 cm  W x H L ](https://www.amazon.es/dp/B07G8PX89K/?tag=tolees-21) a 96.6 EUR (original: 148 EUR) (34.73 %  de descuento) en el siguiente enlace!

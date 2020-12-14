@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0764HHD8B/?tag=tolees-21'
 descuento: '40.16'
+average: '44.88'
 ---
 
 Está [The North Face Equipment TNF Mochila Jester  Unisex adulto  Shady Blue/Urban Navy  Talla única](https://www.amazon.es/dp/B0764HHD8B/?tag=tolees-21) con 40.16 de descuento por 44.88 EUR (original: 75 EUR) en el siguiente enlace!

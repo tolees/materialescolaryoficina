@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZ2HDC5/?tag=tolees-21'
 descuento: '60.41'
+average: '18.37'
 ---
 
 Ahora mismo tienes [Deuter StepOut 12  Mochila Unisex Adulto  Rojo  Cardinal/Maron   24x36x45 cm  W x H x L ](https://www.amazon.es/dp/B07BZ2HDC5/?tag=tolees-21) a 18.37 EUR (original: 46.4 EUR) (60.41 %  de descuento) en el siguiente enlace!

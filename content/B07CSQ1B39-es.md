@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CSQ1B39/?tag=tolees-21'
 descuento: '60.02'
+average: '15.99'
 ---
 
 Ahora mismo tienes [Syming Mochila Senderismo con Cubierta De Lluvia para Aventura Al Aire Libre Viaje Camping Impermeable  55L+10L Azul ](https://www.amazon.es/dp/B07CSQ1B39/?tag=tolees-21) a 15.99 EUR (original: 39.99 EUR) (60.02 %  de descuento) en el siguiente enlace!

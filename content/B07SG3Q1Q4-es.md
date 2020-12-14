@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SG3Q1Q4/?tag=tolees-21'
 descuento: '36.56'
+average: '32.98'
 ---
 
 Tienes [Vbiger Mochilas Escolares Niña Unicornio Mochila Infantil Adolescentes Sets 3 en 1 para 7 a 16 Años  Azul Oscuro ](https://www.amazon.es/dp/B07SG3Q1Q4/?tag=tolees-21) con un 36.56 % de descuento con precio de oferta de 32.98 EUR (original: 51.99 EUR) en el siguiente enlace!

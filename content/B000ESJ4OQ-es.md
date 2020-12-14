@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000ESJ4OQ/?tag=tolees-21'
 descuento: '45.36'
+average: '3'
 ---
 
 Está [CASIO HL820VER - Calculadora](https://www.amazon.es/dp/B000ESJ4OQ/?tag=tolees-21) con 45.36 de descuento por 3 EUR (original: 5.49 EUR) en el siguiente enlace!

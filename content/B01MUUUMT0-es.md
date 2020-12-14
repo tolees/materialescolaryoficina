@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MUUUMT0/?tag=tolees-21'
 descuento: '32.22'
+average: '22.3'
 ---
 
 Está [Converse Accesorios 10003330-A03 Mochila Tipo Casual  45 cm  19 litros  Naranja](https://www.amazon.es/dp/B01MUUUMT0/?tag=tolees-21) con 32.22 de descuento por 22.3 EUR (original: 32.9 EUR) en el siguiente enlace!

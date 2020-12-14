@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G49RJBW/?tag=tolees-21'
 descuento: '40.07'
+average: '8.99'
 ---
 
 Ahora mismo tienes [BYou Pencil Grips Herramienta de Corrección de Postura de Agarre para Escritura de Bolígrafos 8 Piezas Multicolor Silicona Suave Titular de Lápiz para Niños 4 Colores](https://www.amazon.es/dp/B07G49RJBW/?tag=tolees-21) a 8.99 EUR (original: 15 EUR) (40.07 %  de descuento) en el siguiente enlace!

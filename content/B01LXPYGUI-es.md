@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXPYGUI/?tag=tolees-21'
 descuento: '34.67'
+average: '23.06'
 ---
 
 Está [Parker IM - Bolígrafo Roller  Punto fino  color Negro  Black Lacquer Chrome trim ](https://www.amazon.es/dp/B01LXPYGUI/?tag=tolees-21) con 34.67 de descuento por 23.06 EUR (original: 35.3 EUR) en el siguiente enlace!

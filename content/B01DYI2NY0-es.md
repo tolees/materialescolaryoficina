@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DYI2NY0/?tag=tolees-21'
 descuento: '74.77'
+average: '25.12'
 ---
 
 Tienes [Bergner Nature Set de 11 Cuchillos  Tijeras y Tacoma  Acero Inoxidable  Marrón  36 cm](https://www.amazon.es/dp/B01DYI2NY0/?tag=tolees-21) con un 74.77 % de descuento con precio de oferta de 25.12 EUR (original: 99.55 EUR) en el siguiente enlace!

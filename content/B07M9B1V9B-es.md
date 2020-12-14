@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M9B1V9B/?tag=tolees-21'
 descuento: '42.26'
+average: '54.85'
 ---
 
 Ahora mismo tienes [The North Face Borealis Classic Mochila  Unisex Adulto  Rojo  Fiery Red/TNF Black   Talla Única](https://www.amazon.es/dp/B07M9B1V9B/?tag=tolees-21) a 54.85 EUR (original: 95 EUR) (42.26 %  de descuento) en el siguiente enlace!

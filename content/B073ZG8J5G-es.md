@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073ZG8J5G/?tag=tolees-21'
 descuento: '44.99'
+average: '22'
 ---
 
 Ahora mismo tienes [Minions  GRU Mi Villano Favorito MC-33-MN Mochila Infantil](https://www.amazon.es/dp/B073ZG8J5G/?tag=tolees-21) a 22 EUR (original: 39.99 EUR) (44.99 %  de descuento) en el siguiente enlace!

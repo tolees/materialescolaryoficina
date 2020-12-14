@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N465QHC/?tag=tolees-21'
 descuento: '49.96'
+average: '6.48'
 ---
 
 Está [adidas Trefoil   Mochila Unisex Adultos  Azul  talla única](https://www.amazon.es/dp/B01N465QHC/?tag=tolees-21) con 49.96 de descuento por 6.48 EUR (original: 12.95 EUR) en el siguiente enlace!

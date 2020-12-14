@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DP6ZT65/?tag=tolees-21'
 descuento: '36.08'
+average: '60.72'
 ---
 
 Tienes [Eastpak Provider Mochila Infantil  44 cm  33 Liters   Sundowntown ](https://www.amazon.es/dp/B07DP6ZT65/?tag=tolees-21) con un 36.08 % de descuento con precio de oferta de 60.72 EUR (original: 95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH9H88M/?tag=tolees-21'
 descuento: '39.48'
+average: '13.89'
 ---
 
 Ahora mismo tienes [Puma Phase Backpack II Mochilla  Unisex Adulto  Rosa  Peach Bud   OSFA](https://www.amazon.es/dp/B07JH9H88M/?tag=tolees-21) a 13.89 EUR (original: 22.95 EUR) (39.48 %  de descuento) en el siguiente enlace!

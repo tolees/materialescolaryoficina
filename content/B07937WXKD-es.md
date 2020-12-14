@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07937WXKD/?tag=tolees-21'
 descuento: '25.49'
+average: '141.5'
 ---
 
 Ahora mismo tienes [BABYBJÖRN Mochila Porta Bebé One Air  Azul marino  3D Mesh ](https://www.amazon.es/dp/B07937WXKD/?tag=tolees-21) a 141.5 EUR (original: 189.9 EUR) (25.49 %  de descuento) en el siguiente enlace!

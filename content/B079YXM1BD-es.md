@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079YXM1BD/?tag=tolees-21'
 descuento: '36.83'
+average: '18.95'
 ---
 
 Ahora mismo tienes [Nike Mochila  One Size  Obsidian/Black/Black](https://www.amazon.es/dp/B079YXM1BD/?tag=tolees-21) a 18.95 EUR (original: 30 EUR) (36.83 %  de descuento) en el siguiente enlace!

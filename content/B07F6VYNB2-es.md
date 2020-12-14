@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6VYNB2/?tag=tolees-21'
 descuento: '44.80'
+average: '27.6'
 ---
 
 Tienes [Salomon Mochila Ligera para Senderismo o Ciclismo  10 L  Unisex Adulto  Azul  Mediterranea   Trailblazer 10](https://www.amazon.es/dp/B07F6VYNB2/?tag=tolees-21) con un 44.80 % de descuento con precio de oferta de 27.6 EUR (original: 50 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGW488G/?tag=tolees-21'
 descuento: '28.53'
+average: '16.48'
 ---
 
 Tienes [adidas DJ1422 Mochila  Unisex Adulto  M](https://www.amazon.es/dp/B07DGW488G/?tag=tolees-21) con un 28.53 % de descuento con precio de oferta de 16.48 EUR (original: 23.06 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJCGM45/?tag=tolees-21'
 descuento: '43.10'
+average: '19.34'
 ---
 
 Está [Kukuxumusu-16593 Mochila Grande  motormix  Miquel-Rius 16593](https://www.amazon.es/dp/B07CJCGM45/?tag=tolees-21) con 43.10 de descuento por 19.34 EUR (original: 33.99 EUR) en el siguiente enlace!

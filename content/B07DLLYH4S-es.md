@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLYH4S/?tag=tolees-21'
 descuento: '48.89'
+average: '45.99'
 ---
 
 Ahora mismo tienes [Soradoo 40L Mochila de Senderismo Impermeable Ergonómica Casual Deportiva morral con Cubierta de Lluvia Sistema de transporte Extraíble para Viaje Trekking Marcha Excursiones Acampada Escalada Macutos](https://www.amazon.es/dp/B07DLLYH4S/?tag=tolees-21) a 45.99 EUR (original: 89.99 EUR) (48.89 %  de descuento) en el siguiente enlace!

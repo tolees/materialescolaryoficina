@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078TCX7F8/?tag=tolees-21'
 descuento: '43.25'
+average: '20.99'
 ---
 
 Tienes [Mochila cordón KAUKKO Bolsa deportiva unisex para nadar / surfear / viajar / hacer senderismo / yoga  azul ](https://www.amazon.es/dp/B078TCX7F8/?tag=tolees-21) con un 43.25 % de descuento con precio de oferta de 20.99 EUR (original: 36.99 EUR) en el siguiente enlace!

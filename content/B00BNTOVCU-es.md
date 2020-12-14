@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BNTOVCU/?tag=tolees-21'
 descuento: '47.98'
+average: '40.05'
 ---
 
 Tienes [Highlander Discovery RUC181-BK - Mochila de senderismo  Negro/ Gris  65 L](https://www.amazon.es/dp/B00BNTOVCU/?tag=tolees-21) con un 47.98 % de descuento con precio de oferta de 40.05 EUR (original: 76.99 EUR) en el siguiente enlace!

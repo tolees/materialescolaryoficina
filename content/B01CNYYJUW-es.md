@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CNYYJUW/?tag=tolees-21'
 descuento: '34.93'
+average: '9.76'
 ---
 
 Está [STAEDTLER Rotuladores para pizarra blanca Lumocolor  inodoro  secado rápido y recargable. Paquete de 8 unidades de colores variados. 351 WP8](https://www.amazon.es/dp/B01CNYYJUW/?tag=tolees-21) con 34.93 de descuento por 9.76 EUR (original: 15 EUR) en el siguiente enlace!

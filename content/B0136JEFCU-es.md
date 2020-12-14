@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0136JEFCU/?tag=tolees-21'
 descuento: '29.29'
+average: '3.5'
 ---
 
 Está [Astor Eyeartists Brow Liner Lápiz de Cejas Tono 081 Brown - 4 gr](https://www.amazon.es/dp/B0136JEFCU/?tag=tolees-21) con 29.29 de descuento por 3.5 EUR (original: 4.95 EUR) en el siguiente enlace!

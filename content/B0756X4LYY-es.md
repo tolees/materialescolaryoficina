@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0756X4LYY/?tag=tolees-21'
 descuento: '60.01'
+average: '19.99'
 ---
 
 Está [5 en 1 Multifunción Mochila Portabebé Ergonómica Portador de Bebé Transpirable Adjustable Fular Portabebés Asiento de Cadera Marsupios Portabebé para Bebé Recién Nacidos   Claret](https://www.amazon.es/dp/B0756X4LYY/?tag=tolees-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

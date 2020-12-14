@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZZQGSXG/?tag=tolees-21'
 descuento: '71.66'
+average: '8.5'
 ---
 
 Tienes [REYLEO Mochila Viaje Casual Impermeable del Ocio Camping Deporte Aire Libre - 19L Azul y Naranja](https://www.amazon.es/dp/B06ZZQGSXG/?tag=tolees-21) con un 71.66 % de descuento con precio de oferta de 8.5 EUR (original: 29.99 EUR) en el siguiente enlace!

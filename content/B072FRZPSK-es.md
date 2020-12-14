@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072FRZPSK/?tag=tolees-21'
 descuento: '40.11'
+average: '26.95'
 ---
 
 Tienes [Nike NKCRT BKPK Mochila  Adultos Unisex  Black/White  One Size](https://www.amazon.es/dp/B072FRZPSK/?tag=tolees-21) con un 40.11 % de descuento con precio de oferta de 26.95 EUR (original: 45 EUR) en el siguiente enlace!

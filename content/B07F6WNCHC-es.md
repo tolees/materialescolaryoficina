@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6WNCHC/?tag=tolees-21'
 descuento: '44.80'
+average: '27.6'
 ---
 
 Está [Salomon Mochila Ligera para Senderismo o Ciclismo  10 L  Unisex Adulto  Gris  Urban Chic   Trailblazer 10](https://www.amazon.es/dp/B07F6WNCHC/?tag=tolees-21) con 44.80 de descuento por 27.6 EUR (original: 50 EUR) en el siguiente enlace!

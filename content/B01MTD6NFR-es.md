@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTD6NFR/?tag=tolees-21'
 descuento: '45.39'
+average: '76.45'
 ---
 
 Está [berghaus Freeflow Mochila  Unisex Adulto  Mykonos Blue  40L](https://www.amazon.es/dp/B01MTD6NFR/?tag=tolees-21) con 45.39 de descuento por 76.45 EUR (original: 140 EUR) en el siguiente enlace!

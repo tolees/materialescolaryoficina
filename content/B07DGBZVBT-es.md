@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGBZVBT/?tag=tolees-21'
 descuento: '56.01'
+average: '21.99'
 ---
 
 Está [Plumas para impresión 3D  NEWSTYLE 3D Pluma Inteligente Pen Bolígrafo de Impresión Estereoscópica con Soporte de Seguridad para Crear y Modelar Figuras 3D](https://www.amazon.es/dp/B07DGBZVBT/?tag=tolees-21) con 56.01 de descuento por 21.99 EUR (original: 49.99 EUR) en el siguiente enlace!

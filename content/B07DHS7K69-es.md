@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHS7K69/?tag=tolees-21'
 descuento: '60.09'
+average: '19.95'
 ---
 
 Ahora mismo tienes [Roxy Shadow Swell Mochila Mediana  Mujer  Gris  Heritage Heather   24 l](https://www.amazon.es/dp/B07DHS7K69/?tag=tolees-21) a 19.95 EUR (original: 49.99 EUR) (60.09 %  de descuento) en el siguiente enlace!

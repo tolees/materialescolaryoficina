@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFVLPW6/?tag=tolees-21'
 descuento: '36.93'
+average: '31.53'
 ---
 
 Está [Quiksilver SCHOOLIEII M BKPK KVJ0 Mochila Grande  Hombre  Black  One Size](https://www.amazon.es/dp/B07DFVLPW6/?tag=tolees-21) con 36.93 de descuento por 31.53 EUR (original: 49.99 EUR) en el siguiente enlace!

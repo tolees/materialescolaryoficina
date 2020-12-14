@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSQLQG/?tag=tolees-21'
 descuento: '50.12'
+average: '18.95'
 ---
 
 Está [DC Shoes Backstack  Mochila Mediana para Hombre  Negro  Black/Grey   One size](https://www.amazon.es/dp/B07DHSQLQG/?tag=tolees-21) con 50.12 de descuento por 18.95 EUR (original: 37.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVFPQWY/?tag=tolees-21'
 descuento: '40.00'
+average: '59.99'
 ---
 
 Está [SKYSPER 60L Mochila de Senderismo con Cubierta Lluvia Impermeable Trekking Deportiva Macutos para Montañismo Escalada Marcha Camping Deporte Al Aire Libre Viaje Deportes Hombres Mujeres](https://www.amazon.es/dp/B07GVFPQWY/?tag=tolees-21) con 40.00 de descuento por 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!

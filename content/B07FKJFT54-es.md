@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKJFT54/?tag=tolees-21'
 descuento: '49.24'
+average: '38.07'
 ---
 
 Está [The North Face Jester - Mochila para Mujer  Tin Grey Dark  Spiced Coral  Talla Única](https://www.amazon.es/dp/B07FKJFT54/?tag=tolees-21) con 49.24 de descuento por 38.07 EUR (original: 75 EUR) en el siguiente enlace!

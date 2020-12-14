@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLF42TQ/?tag=tolees-21'
 descuento: '37.93'
+average: '25'
 ---
 
 Está [Padded PAK R Mochila Tipo Casual  40 cm  24 Liters  Negro  Black-Moss ](https://www.amazon.es/dp/B07DLF42TQ/?tag=tolees-21) con 37.93 de descuento por 25 EUR (original: 40.28 EUR) en el siguiente enlace!

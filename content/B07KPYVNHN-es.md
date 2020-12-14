@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPYVNHN/?tag=tolees-21'
 descuento: '27.51'
+average: '36.24'
 ---
 
 Está [DC Shoes The Locker Backpack  Hombre  Nautical Blue  1 Size](https://www.amazon.es/dp/B07KPYVNHN/?tag=tolees-21) con 27.51 de descuento por 36.24 EUR (original: 49.99 EUR) en el siguiente enlace!

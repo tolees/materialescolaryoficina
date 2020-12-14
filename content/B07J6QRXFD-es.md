@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J6QRXFD/?tag=tolees-21'
 descuento: '41.37'
+average: '17.59'
 ---
 
 Está [Safta - LOL Surprise Oficial Mochila Infantil](https://www.amazon.es/dp/B07J6QRXFD/?tag=tolees-21) con 41.37 de descuento por 17.59 EUR (original: 30 EUR) en el siguiente enlace!

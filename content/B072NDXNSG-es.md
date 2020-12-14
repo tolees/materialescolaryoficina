@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072NDXNSG/?tag=tolees-21'
 descuento: '50.28'
+average: '8.95'
 ---
 
 Tienes [Nike Heritage Gmsk  Mochila Unisex Adultos  Rosa  Rush Pink/White   Talla unica  17x15x25 cm ](https://www.amazon.es/dp/B072NDXNSG/?tag=tolees-21) con un 50.28 % de descuento con precio de oferta de 8.95 EUR (original: 18 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4PYG5K/?tag=tolees-21'
 descuento: '29.99'
+average: '63'
 ---
 
 Está [Fjällräven 23510 2018 Mochila tipo casual  16 litros  Deep Forest](https://www.amazon.es/dp/B07D4PYG5K/?tag=tolees-21) con 29.99 de descuento por 63 EUR (original: 89.99 EUR) en el siguiente enlace!

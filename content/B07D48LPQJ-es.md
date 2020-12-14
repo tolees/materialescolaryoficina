@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D48LPQJ/?tag=tolees-21'
 descuento: '68.80'
+average: '12.45'
 ---
 
 Está [Pro-Dg KM-37990 2018 Mochila Infantil  40 cm](https://www.amazon.es/dp/B07D48LPQJ/?tag=tolees-21) con 68.80 de descuento por 12.45 EUR (original: 39.9 EUR) en el siguiente enlace!

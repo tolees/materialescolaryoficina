@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075GNX4JF/?tag=tolees-21'
 descuento: '55.91'
+average: '8.99'
 ---
 
 Está [Undercover Mochila Infantil  Rojo  Negro  - 10120074](https://www.amazon.es/dp/B075GNX4JF/?tag=tolees-21) con 55.91 de descuento por 8.99 EUR (original: 20.39 EUR) en el siguiente enlace!

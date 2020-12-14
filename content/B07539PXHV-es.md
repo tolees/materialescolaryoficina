@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07539PXHV/?tag=tolees-21'
 descuento: '71.23'
+average: '39.99'
 ---
 
 Tienes [Jungle King Gran Capacidad 30 L Agua Densidad Senderismo Viaje Mochila Mujer Hombre Daypack para Outdoor Sport  Camping y Viajes  Amarillo](https://www.amazon.es/dp/B07539PXHV/?tag=tolees-21) con un 71.23 % de descuento con precio de oferta de 39.99 EUR (original: 139 EUR) en el siguiente enlace!

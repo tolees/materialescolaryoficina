@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U1FUW2U/?tag=tolees-21'
 descuento: '32.68'
+average: '4.1'
 ---
 
 Tienes [Faber-Castell 183526 – Sacapuntas doble  Mariquita Incluye Borrador](https://www.amazon.es/dp/B00U1FUW2U/?tag=tolees-21) con un 32.68 % de descuento con precio de oferta de 4.1 EUR (original: 6.09 EUR) en el siguiente enlace!

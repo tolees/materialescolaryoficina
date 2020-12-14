@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLN8YZ/?tag=tolees-21'
 descuento: '44.45'
+average: '49.99'
 ---
 
 Tienes [SKYSPER 40L Mochila de Senderismo Impermeable Ergonómica Casual Deportiva morral con Cubierta de Lluvia Sistema de transporte Extraíble para Viaje Trekking Marcha Excursiones Acampada Escalada Macutos](https://www.amazon.es/dp/B07DLLN8YZ/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 49.99 EUR (original: 89.99 EUR) en el siguiente enlace!

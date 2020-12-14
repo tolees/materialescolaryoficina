@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y3WN79Y/?tag=tolees-21'
 descuento: '62.53'
+average: '26.23'
 ---
 
 Está [Vans Clamber Backpack Mochila Tipo Casual  51 cm  26.5 Liters  Azul  Delft/Toffee ](https://www.amazon.es/dp/B06Y3WN79Y/?tag=tolees-21) con 62.53 de descuento por 26.23 EUR (original: 70 EUR) en el siguiente enlace!

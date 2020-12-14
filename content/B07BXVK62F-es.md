@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BXVK62F/?tag=tolees-21'
 descuento: '25.68'
+average: '10.97'
 ---
 
 Tienes [Liangery - Tijeras pequeñas plegables  portátiles  de acero inoxidable  elásticas  herramienta de corte para viajes  color plateado](https://www.amazon.es/dp/B07BXVK62F/?tag=tolees-21) con un 25.68 % de descuento con precio de oferta de 10.97 EUR (original: 14.76 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KE35OE4/?tag=tolees-21'
 descuento: '45.79'
+average: '32.5'
 ---
 
 Está [arena Spiky 2 Large Mochila  Unisex Adulto  Plateado  Silver/Team   36x24x45 cm  W x H x L ](https://www.amazon.es/dp/B01KE35OE4/?tag=tolees-21) con 45.79 de descuento por 32.5 EUR (original: 59.95 EUR) en el siguiente enlace!

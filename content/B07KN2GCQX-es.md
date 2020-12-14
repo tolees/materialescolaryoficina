@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KN2GCQX/?tag=tolees-21'
 descuento: '91.63'
+average: '1'
 ---
 
 Tienes [adidas Linear Core  Mochila Unisex Adulto  Azul  True Blue/White   1x37x47 centimeters  W x H x L ](https://www.amazon.es/dp/B07KN2GCQX/?tag=tolees-21) con un 91.63 % de descuento con precio de oferta de 1 EUR (original: 11.95 EUR) en el siguiente enlace!

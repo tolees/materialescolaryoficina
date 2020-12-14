@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0197ZPHQ0/?tag=tolees-21'
 descuento: '34.56'
+average: '88.35'
 ---
 
 Ahora mismo tienes [VAUDE Brenta 40 Mochila  Unisex Adulto  Negro  40/49 l](https://www.amazon.es/dp/B0197ZPHQ0/?tag=tolees-21) a 88.35 EUR (original: 135 EUR) (34.56 %  de descuento) en el siguiente enlace!

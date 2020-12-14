@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL49T3C/?tag=tolees-21'
 descuento: '32.22'
+average: '39.99'
 ---
 
 Ahora mismo tienes [Grapadora y punzadora eléctrica  grapadora automática CNASA 24/6 y juego de punzones para niños y oficina  grapadora para papel A4  con adaptador de CA](https://www.amazon.es/dp/B07FL49T3C/?tag=tolees-21) a 39.99 EUR (original: 59 EUR) (32.22 %  de descuento) en el siguiente enlace!

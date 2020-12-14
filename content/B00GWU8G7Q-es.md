@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GWU8G7Q/?tag=tolees-21'
 descuento: '32.45'
+average: '148.61'
 ---
 
 Tienes [The North Face Rolling Thunder  Mochila con ruedas  Negro  Tnf Black   49 cm/33L](https://www.amazon.es/dp/B00GWU8G7Q/?tag=tolees-21) con un 32.45 % de descuento con precio de oferta de 148.61 EUR (original: 220 EUR) en el siguiente enlace!

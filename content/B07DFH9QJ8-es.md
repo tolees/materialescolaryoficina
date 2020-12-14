@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFH9QJ8/?tag=tolees-21'
 descuento: '50.06'
+average: '19.95'
 ---
 
 Tienes [adidas Real BP Mochila  Unisex Adultos  S](https://www.amazon.es/dp/B07DFH9QJ8/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 19.95 EUR (original: 39.95 EUR) en el siguiente enlace!

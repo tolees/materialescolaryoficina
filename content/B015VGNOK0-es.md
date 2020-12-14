@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015VGNOK0/?tag=tolees-21'
 descuento: '47.79'
+average: '8.85'
 ---
 
 Tienes [Miles del Futuro Mochila Preescolar  Color Naranja  6.44 litros](https://www.amazon.es/dp/B015VGNOK0/?tag=tolees-21) con un 47.79 % de descuento con precio de oferta de 8.85 EUR (original: 16.95 EUR) en el siguiente enlace!

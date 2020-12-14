@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071GL73BQ/?tag=tolees-21'
 descuento: '34.89'
+average: '12.99'
 ---
 
 Tienes [Mochila preescolar Octonautas Exploradores 28cm con carro](https://www.amazon.es/dp/B071GL73BQ/?tag=tolees-21) con un 34.89 % de descuento con precio de oferta de 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!

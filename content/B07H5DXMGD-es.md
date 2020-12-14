@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H5DXMGD/?tag=tolees-21'
 descuento: '80.24'
+average: '9.88'
 ---
 
 Tienes [Tijeras Podar  Tijeras de jardín Kits Tijeras de podar Tree Trimmer with Safety Lock](https://www.amazon.es/dp/B07H5DXMGD/?tag=tolees-21) con un 80.24 % de descuento con precio de oferta de 9.88 EUR (original: 50 EUR) en el siguiente enlace!

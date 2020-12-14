@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ86FM6/?tag=tolees-21'
 descuento: '30.14'
+average: '20.95'
 ---
 
 Tienes [Under Armour UA Roland - Mochila  Unisex Adulto  Marrón  Desert Sand/Black/Steel 290   Talla única](https://www.amazon.es/dp/B07CZ86FM6/?tag=tolees-21) con un 30.14 % de descuento con precio de oferta de 20.95 EUR (original: 29.99 EUR) en el siguiente enlace!

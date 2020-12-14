@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKDNQLL/?tag=tolees-21'
 descuento: '50.10'
+average: '34.93'
 ---
 
 Está [The North Face Vault Mochila para Mujer  Storm Blue Wing Teal  One Size](https://www.amazon.es/dp/B07FKDNQLL/?tag=tolees-21) con 50.10 de descuento por 34.93 EUR (original: 70 EUR) en el siguiente enlace!

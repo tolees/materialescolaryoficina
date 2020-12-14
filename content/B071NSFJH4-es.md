@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NSFJH4/?tag=tolees-21'
 descuento: '84.20'
+average: '11.85'
 ---
 
 Tienes [Burton Kettle Mochila  Mujer  Negro  Faded Multi Fleck   Talla Única](https://www.amazon.es/dp/B071NSFJH4/?tag=tolees-21) con un 84.20 % de descuento con precio de oferta de 11.85 EUR (original: 75 EUR) en el siguiente enlace!

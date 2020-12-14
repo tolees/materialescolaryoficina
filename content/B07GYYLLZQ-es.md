@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GYYLLZQ/?tag=tolees-21'
 descuento: '40.10'
+average: '239'
 ---
 
 Está [Porsche Design Shyrt 2.0 Nylon Mochila 14? Azul Oscuro](https://www.amazon.es/dp/B07GYYLLZQ/?tag=tolees-21) con 40.10 de descuento por 239 EUR (original: 399 EUR) en el siguiente enlace!

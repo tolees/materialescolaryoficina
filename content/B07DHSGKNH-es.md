@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSGKNH/?tag=tolees-21'
 descuento: '47.38'
+average: '19.99'
 ---
 
 Está [DC Shoes Backstack  Mochila Mediana para Hombre  Azul  Marine/Red   One size](https://www.amazon.es/dp/B07DHSGKNH/?tag=tolees-21) con 47.38 de descuento por 19.99 EUR (original: 37.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0742N1HKV/?tag=tolees-21'
 descuento: '41.42'
+average: '46.86'
 ---
 
 Ahora mismo tienes [Salomon Mochila ligera para running 3L  agile 2  set  rojo y gris  Graphite ](https://www.amazon.es/dp/B0742N1HKV/?tag=tolees-21) a 46.86 EUR (original: 80 EUR) (41.42 %  de descuento) en el siguiente enlace!

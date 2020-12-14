@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XXF6T24/?tag=tolees-21'
 descuento: '72.59'
+average: '10.43'
 ---
 
 Tienes [Jordi Labanda 16636 Mochila Grande  20l](https://www.amazon.es/dp/B06XXF6T24/?tag=tolees-21) con un 72.59 % de descuento con precio de oferta de 10.43 EUR (original: 38.05 EUR) en el siguiente enlace!

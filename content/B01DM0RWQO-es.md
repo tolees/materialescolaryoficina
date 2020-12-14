@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DM0RWQO/?tag=tolees-21'
 descuento: '72.08'
+average: '10.05'
 ---
 
 Está [Disney New Wonder S Dory Mochila Infantil  5.5 litros  Color Azul](https://www.amazon.es/dp/B01DM0RWQO/?tag=tolees-21) con 72.08 de descuento por 10.05 EUR (original: 36 EUR) en el siguiente enlace!

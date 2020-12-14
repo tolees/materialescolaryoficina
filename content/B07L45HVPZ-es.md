@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L45HVPZ/?tag=tolees-21'
 descuento: '49.46'
+average: '35.38'
 ---
 
 Está [The North Face Vault Mochila  Multicolor  One Size](https://www.amazon.es/dp/B07L45HVPZ/?tag=tolees-21) con 49.46 de descuento por 35.38 EUR (original: 70 EUR) en el siguiente enlace!

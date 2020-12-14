@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000Y8P8GE/?tag=tolees-21'
 descuento: '44.51'
+average: '7.38'
 ---
 
 Está [Faithfull SCTS6 - Tijeras de peluquería  6"  doble cara ](https://www.amazon.es/dp/B000Y8P8GE/?tag=tolees-21) con 44.51 de descuento por 7.38 EUR (original: 13.3 EUR) en el siguiente enlace!

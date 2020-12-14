@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DF4XKNY/?tag=tolees-21'
 descuento: '56.04'
+average: '21.96'
 ---
 
 Ahora mismo tienes [adidas Training BP  Mochila Unisex Adultos  Multicolor  Tinmis Nocmét   36x24x45 cm  W x H x L ](https://www.amazon.es/dp/B07DF4XKNY/?tag=tolees-21) a 21.96 EUR (original: 49.95 EUR) (56.04 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QJZHW1U/?tag=tolees-21'
 descuento: '26.73'
+average: '11.98'
 ---
 
 Está [Post-It Super Sticky 6556SR - Pack de 6 blocs de notas  76 x 127 mm  colores surtidos](https://www.amazon.es/dp/B00QJZHW1U/?tag=tolees-21) con 26.73 de descuento por 11.98 EUR (original: 16.35 EUR) en el siguiente enlace!

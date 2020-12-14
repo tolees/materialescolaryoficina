@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IRFCMAG/?tag=tolees-21'
 descuento: '51.23'
+average: '12.68'
 ---
 
 Tienes [Collistar 32417 - Lápiz de ojos](https://www.amazon.es/dp/B00IRFCMAG/?tag=tolees-21) con un 51.23 % de descuento con precio de oferta de 12.68 EUR (original: 26 EUR) en el siguiente enlace!

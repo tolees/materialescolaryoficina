@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076QQCLSQ/?tag=tolees-21'
 descuento: '25.56'
+average: '6.29'
 ---
 
 Está [Casio - Calculadora de bolsillo  10 dígitos  color azul claro 310UC-LB Taschenrechner  10-stellig](https://www.amazon.es/dp/B076QQCLSQ/?tag=tolees-21) con 25.56 de descuento por 6.29 EUR (original: 8.45 EUR) en el siguiente enlace!

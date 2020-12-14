@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CY12K2D/?tag=tolees-21'
 descuento: '56.53'
+average: '21.3'
 ---
 
 Tienes [American Tourister Urban Groove Lifestyle Laptop Backpack 3 15.6" Mochila tipo casual  50 cm  27.5 liters  Varios colores  Camo Cartoon ](https://www.amazon.es/dp/B07CY12K2D/?tag=tolees-21) con un 56.53 % de descuento con precio de oferta de 21.3 EUR (original: 49 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GXF45BK/?tag=tolees-21'
 descuento: '77.80'
+average: '9.99'
 ---
 
 Está [Oflamn Mochila para Ordenador portátil con Puerto de Carga USB College Bookbag Vintage Unisex Mochila Casual Fit 15.6"Laptop  Azul ](https://www.amazon.es/dp/B07GXF45BK/?tag=tolees-21) con 77.80 de descuento por 9.99 EUR (original: 45 EUR) en el siguiente enlace!

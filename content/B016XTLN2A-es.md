@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016XTLN2A/?tag=tolees-21'
 descuento: '40.44'
+average: '49.95'
 ---
 
 Tienes [Razer Mercenary - Mochila](https://www.amazon.es/dp/B016XTLN2A/?tag=tolees-21) con un 40.44 % de descuento con precio de oferta de 49.95 EUR (original: 83.87 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079DPRZ6Y/?tag=tolees-21'
 descuento: '48.29'
+average: '14.99'
 ---
 
 Está [Set de rotuladores con punta de pincel - 20 colores - Rotuladores Pincel con tinta acuarelable  a base de agua  no toxica - Punta Suave  Delicada  Flexible Perfecta para caligrafía manga  comic](https://www.amazon.es/dp/B079DPRZ6Y/?tag=tolees-21) con 48.29 de descuento por 14.99 EUR (original: 28.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFQXJ6F/?tag=tolees-21'
 descuento: '59.82'
+average: '39.78'
 ---
 
 Está [PRODG Samoa Trolley Travel GT Mochila Tipo Casual  51 cm  42 Litros  Verde](https://www.amazon.es/dp/B07DFQXJ6F/?tag=tolees-21) con 59.82 de descuento por 39.78 EUR (original: 99 EUR) en el siguiente enlace!

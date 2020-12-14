@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NMNCYHE/?tag=tolees-21'
 descuento: '25.52'
+average: '37.24'
 ---
 
 Tienes [berghaus Twenty4sevenplus Mochila  Unisex Adulto  Eclipse  25L](https://www.amazon.es/dp/B00NMNCYHE/?tag=tolees-21) con un 25.52 % de descuento con precio de oferta de 37.24 EUR (original: 50 EUR) en el siguiente enlace!

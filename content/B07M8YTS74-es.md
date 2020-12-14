@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8YTS74/?tag=tolees-21'
 descuento: '54.69'
+average: '17.44'
 ---
 
 Ahora mismo tienes [OneMoreT Mochila de paja para mujer  mochila de verano para adolescentes y niñas  mochilas de viaje de calidad  rosa](https://www.amazon.es/dp/B07M8YTS74/?tag=tolees-21) a 17.44 EUR (original: 38.49 EUR) (54.69 %  de descuento) en el siguiente enlace!

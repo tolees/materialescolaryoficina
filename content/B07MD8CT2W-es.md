@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MD8CT2W/?tag=tolees-21'
 descuento: '49.28'
+average: '27.77'
 ---
 
 Ahora mismo tienes [Enchantimals Oficial Mochila Espalda Ergonómica Con Carro Safta Evolution](https://www.amazon.es/dp/B07MD8CT2W/?tag=tolees-21) a 27.77 EUR (original: 54.75 EUR) (49.28 %  de descuento) en el siguiente enlace!

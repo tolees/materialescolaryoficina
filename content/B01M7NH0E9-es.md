@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M7NH0E9/?tag=tolees-21'
 descuento: '52.64'
+average: '42.62'
 ---
 
 Ahora mismo tienes [Eastpak Provider Mochila  33 litros  Marrón  Crafty Brown ](https://www.amazon.es/dp/B01M7NH0E9/?tag=tolees-21) a 42.62 EUR (original: 90 EUR) (52.64 %  de descuento) en el siguiente enlace!

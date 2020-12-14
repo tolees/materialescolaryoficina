@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAPGQAK/?tag=tolees-21'
 descuento: '51.76'
+average: '21.71'
 ---
 
 Está [SALEWA Maxitrek 16 BP Mochila  Unisex Adulto  Azul  Royal Blue   24x36x45 cm  W x H x L ](https://www.amazon.es/dp/B01NAPGQAK/?tag=tolees-21) con 51.76 de descuento por 21.71 EUR (original: 45 EUR) en el siguiente enlace!

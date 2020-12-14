@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ1PN66/?tag=tolees-21'
 descuento: '29.62'
+average: '19.7'
 ---
 
 Ahora mismo tienes [Springfield 5 Gym - Mochila Básica  Mujer  Gamma Marrón](https://www.amazon.es/dp/B07KZ1PN66/?tag=tolees-21) a 19.7 EUR (original: 27.99 EUR) (29.62 %  de descuento) en el siguiente enlace!

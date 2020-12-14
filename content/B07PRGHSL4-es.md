@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PRGHSL4/?tag=tolees-21'
 descuento: '50.50'
+average: '2.97'
 ---
 
 Ahora mismo tienes [Paper Mate bolígrafos de gel  punta de aguja suave  0 5 mm   negro  12 unidades](https://www.amazon.es/dp/B07PRGHSL4/?tag=tolees-21) a 2.97 EUR (original: 6 EUR) (50.50 %  de descuento) en el siguiente enlace!

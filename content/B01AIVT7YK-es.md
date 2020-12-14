@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AIVT7YK/?tag=tolees-21'
 descuento: '35.51'
+average: '8.68'
 ---
 
 Ahora mismo tienes [AmazonBasics - Mochila ligera plegable](https://www.amazon.es/dp/B01AIVT7YK/?tag=tolees-21) a 8.68 EUR (original: 13.46 EUR) (35.51 %  de descuento) en el siguiente enlace!

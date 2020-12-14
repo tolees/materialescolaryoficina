@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0765W4YNM/?tag=tolees-21'
 descuento: '47.20'
+average: '8.95'
 ---
 
 Está [Star Wars - Mochila - Star Wars Darth Vader](https://www.amazon.es/dp/B0765W4YNM/?tag=tolees-21) con 47.20 de descuento por 8.95 EUR (original: 16.95 EUR) en el siguiente enlace!

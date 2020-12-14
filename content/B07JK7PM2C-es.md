@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JK7PM2C/?tag=tolees-21'
 descuento: '43.00'
+average: '56.99'
 ---
 
 Está [Tableta Gráfica  VEIKK-A30 Tableta Gráfica Portátil con 8192 Capa Pasiva Lápiz y Tableta 5080 LPI para Mano Izquierda/Derecha  Gesto Inteligente con 4 Teclas Táctiles](https://www.amazon.es/dp/B07JK7PM2C/?tag=tolees-21) con 43.00 de descuento por 56.99 EUR (original: 99.99 EUR) en el siguiente enlace!

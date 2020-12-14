@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5TPGPS/?tag=tolees-21'
 descuento: '26.25'
+average: '18.4'
 ---
 
 Tienes [Marvel CD-21-2266 2018 Mochila Tipo Casual  40 cm  1 litro](https://www.amazon.es/dp/B07D5TPGPS/?tag=tolees-21) con un 26.25 % de descuento con precio de oferta de 18.4 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3QHP9E/?tag=tolees-21'
 descuento: '71.69'
+average: '1.99'
 ---
 
 Está [BIC Intensity - Pack de 8 rotuladores de punta fina  color surtido](https://www.amazon.es/dp/B01N3QHP9E/?tag=tolees-21) con 71.69 de descuento por 1.99 EUR (original: 7.03 EUR) en el siguiente enlace!

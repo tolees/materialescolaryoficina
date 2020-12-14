@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVX3MMR/?tag=tolees-21'
 descuento: '35.23'
+average: '116.58'
 ---
 
 Está [Salomon Mochila ligera de hidratación 12 l  adv skin 12 set  azul  Hawaiian Surf y Night Sky   talla: M y L](https://www.amazon.es/dp/B07DVX3MMR/?tag=tolees-21) con 35.23 de descuento por 116.58 EUR (original: 180 EUR) en el siguiente enlace!

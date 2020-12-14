@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079MHQS23/?tag=tolees-21'
 descuento: '31.08'
+average: '25.5'
 ---
 
 Tienes [Pepe Jeans 6042361 Trade Mochila Escolar  42 cm  22.79 litros](https://www.amazon.es/dp/B079MHQS23/?tag=tolees-21) con un 31.08 % de descuento con precio de oferta de 25.5 EUR (original: 37 EUR) en el siguiente enlace!

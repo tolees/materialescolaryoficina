@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LSZ2V5C/?tag=tolees-21'
 descuento: '30.02'
+average: '17.46'
 ---
 
 Ahora mismo tienes [Adidas Lin Per Bp  Mochila Unisex Adulto  Negro  Negro/Negro/Blanco   Talla única](https://www.amazon.es/dp/B01LSZ2V5C/?tag=tolees-21) a 17.46 EUR (original: 24.95 EUR) (30.02 %  de descuento) en el siguiente enlace!

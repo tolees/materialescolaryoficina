@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BNZRN46/?tag=tolees-21'
 descuento: '63.73'
+average: '19.95'
 ---
 
 Ahora mismo tienes [Dakine  - Mochila Atlas  49 x 30 x 20 cm  25 litros  color gris  Carbon ](https://www.amazon.es/dp/B01BNZRN46/?tag=tolees-21) a 19.95 EUR (original: 55 EUR) (63.73 %  de descuento) en el siguiente enlace!

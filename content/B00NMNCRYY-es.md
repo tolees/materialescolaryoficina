@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NMNCRYY/?tag=tolees-21'
 descuento: '26.51'
+average: '33.07'
 ---
 
 Tienes [berghaus Twenty4sevenplus Mochila  Unisex Adulto  Black  20L](https://www.amazon.es/dp/B00NMNCRYY/?tag=tolees-21) con un 26.51 % de descuento con precio de oferta de 33.07 EUR (original: 45 EUR) en el siguiente enlace!

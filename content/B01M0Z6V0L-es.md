@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0Z6V0L/?tag=tolees-21'
 descuento: '39.51'
+average: '27.45'
 ---
 
 Está [PARKER Urban bolígrafo roller  color metálico “metro”  recambio de tinta negra para punta fina  en blíster  1975442 ](https://www.amazon.es/dp/B01M0Z6V0L/?tag=tolees-21) con 39.51 de descuento por 27.45 EUR (original: 45.38 EUR) en el siguiente enlace!

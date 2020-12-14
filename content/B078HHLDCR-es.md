@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HHLDCR/?tag=tolees-21'
 descuento: '61.46'
+average: '13.87'
 ---
 
 Tienes [Springfield 963798  Mochila para Hombre   Gamma Grises   15x15x15 cm  W x H x L ](https://www.amazon.es/dp/B078HHLDCR/?tag=tolees-21) con un 61.46 % de descuento con precio de oferta de 13.87 EUR (original: 35.99 EUR) en el siguiente enlace!

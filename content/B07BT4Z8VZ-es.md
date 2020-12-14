@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BT4Z8VZ/?tag=tolees-21'
 descuento: '60.55'
+average: '22.03'
 ---
 
 Está [Pistola de pegamento caliente  Ragnaros 60 W pistola de pegamento termofusible  cálido  de incandescencia rápido con la tecnología de calefacción PTC  ideal para Arts  Crafts  sellado y réparations rápidos  30pcs barras de pegamento fourni](https://www.amazon.es/dp/B07BT4Z8VZ/?tag=tolees-21) con 60.55 de descuento por 22.03 EUR (original: 55.84 EUR) en el siguiente enlace!

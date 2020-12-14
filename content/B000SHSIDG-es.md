@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000SHSIDG/?tag=tolees-21'
 descuento: '85.66'
+average: '2.76'
 ---
 
 Tienes [Rexel Office Pencil - Pack de 144 lápices HB  madera natural   color marrón](https://www.amazon.es/dp/B000SHSIDG/?tag=tolees-21) con un 85.66 % de descuento con precio de oferta de 2.76 EUR (original: 19.25 EUR) en el siguiente enlace!

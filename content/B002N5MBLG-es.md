@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002N5MBLG/?tag=tolees-21'
 descuento: '46.77'
+average: '11.04'
 ---
 
 Está [Uni-ball Signo - Bolígrafo roller de gel con purpurina  8 unidades   colores variados](https://www.amazon.es/dp/B002N5MBLG/?tag=tolees-21) con 46.77 de descuento por 11.04 EUR (original: 20.74 EUR) en el siguiente enlace!

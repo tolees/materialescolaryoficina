@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6W14XW/?tag=tolees-21'
 descuento: '46.93'
+average: '14.86'
 ---
 
 Tienes [Reebok DA1670 Mochila  S](https://www.amazon.es/dp/B07F6W14XW/?tag=tolees-21) con un 46.93 % de descuento con precio de oferta de 14.86 EUR (original: 28 EUR) en el siguiente enlace!
