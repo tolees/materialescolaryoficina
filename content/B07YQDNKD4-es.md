@@ -24,7 +24,7 @@ Ahora mismo tienes [Kipling Upgrade Mochila Escolar  Azul  Building ](https://ww
 
 🔎:
 
-- Edificio
 - ACTUALIZACIÓN
+- Edificio
 
 [Visítala!!!](https://www.amazon.es/dp/B07YQDNKD4/?tag=tolees-21)
