@@ -25,10 +25,10 @@ Está [Rotulador punta fina STABILO point 88 - Estuche Sombras de azul con 8 col
 
 ℹ️:
 
-- Ideal para mandalas y arte terapia
 - Calidad alemana
 - Punta 0.4 mm de fibra con refuerzo de metal
 - Gama de 46 colores
+- Ideal para mandalas y arte terapia
 - Calidad alemana
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MTRTAK6/?tag=tolees-21)
