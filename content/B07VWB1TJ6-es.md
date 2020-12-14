@@ -25,8 +25,8 @@ Ahora mismo tienes [LOL SURPRISE Jeans  Mochila Tiempo Libre y Sportwear Infanti
 
 🔎:
 
-- Mochila tiempo libre y sportwear unisex infantil
 - Material duro lol surprise
 - Mochila de lol surprise jeans (kd-113504lol)
+- Mochila tiempo libre y sportwear unisex infantil
 
 [Visítala!!!](https://www.amazon.es/dp/B07VWB1TJ6/?tag=tolees-21)

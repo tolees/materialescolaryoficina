@@ -25,10 +25,10 @@ Está [APLI 11696 - Notas adhesivas CLASSIC 40 x 50 mm 3 blocs de 100 hojas colo
 
 ℹ️:
 
-- Son ideales para dejar tus mensajes en todas las superficies
-- Las notas "classic" están fabricadas con papel certificado fsc y adhesivo en base agua
 - El tamaño de nota más pequeño para tus mensajes cortos y efectivos
-- El adhesivo reposicionable permite pegarlas y despegarlas más de una vez
 - 3 blocs de 100 hojas de notas adhesivas de 40 x 50 mm en color amarillo estándar
+- Las notas "classic" están fabricadas con papel certificado fsc y adhesivo en base agua
+- Son ideales para dejar tus mensajes en todas las superficies
+- El adhesivo reposicionable permite pegarlas y despegarlas más de una vez
 
 [Ver la oferta!!](https://www.amazon.es/dp/B007ORIPFO/?tag=tolees-21)

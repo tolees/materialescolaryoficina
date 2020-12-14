@@ -25,14 +25,14 @@ Está [Moleskine - Set de Escritura Inteligente  Cuaderno Digital y Bolígrafo +
 
 ℹ️:
 
-- El Pen + combina la practicidad del papel con todas las ventajas de la creatividad digital; simple de usar y agradable para escribir
-- El sistema de escritura inteligente te permite digitalizar notas escritas a mano y añadir fácilmente etiquetas para ordenarlas
-- El cuaderno te permite fijar tus ideas a mano sobre el papel y gracias a Moleskine Pen + transferir todas las notas a la pantalla de tu teléfono en tiempo real gracias a la aplicación Moleskine Notes
-- Cuaderno inteligente con tapa dura y papel especial para trabajar con Pen+; bolsillo interior plegable y cierre elástico
-- El Pen + reconoce el número de cada página, cubiertas, diseños y formatos diferentes, por lo que puedes cambiar fácilmente de un cuaderno a otro y desarrollar tus ideas sobre la marcha
-- Coloca el lápiz en la página para transferir palabras, gráficos, ideas y dibujos y mostrarlos directamente en tu smartphone o tableta; su clip se sujeta al cuaderno o agenda
 - Tus trazos pueden ser capturados y asociados con audio en tiempo real; comparte tu proyecto por correo electrónico tocando el icono del sobre en la parte superior de la página
-- La tecnología invisible incorporada en cada página permite al Pen + reconocer dónde se encuentra dentro del cuaderno y transferir las notas tomadas a mano desde la página a la pantalla, en tiempo real
+- El cuaderno te permite fijar tus ideas a mano sobre el papel y gracias a Moleskine Pen + transferir todas las notas a la pantalla de tu teléfono en tiempo real gracias a la aplicación Moleskine Notes
 - Están disponibles con páginas rayadas, blancas o punteadas, y en varios tamaños
+- El sistema de escritura inteligente te permite digitalizar notas escritas a mano y añadir fácilmente etiquetas para ordenarlas
+- La tecnología invisible incorporada en cada página permite al Pen + reconocer dónde se encuentra dentro del cuaderno y transferir las notas tomadas a mano desde la página a la pantalla, en tiempo real
+- Coloca el lápiz en la página para transferir palabras, gráficos, ideas y dibujos y mostrarlos directamente en tu smartphone o tableta; su clip se sujeta al cuaderno o agenda
+- Cuaderno inteligente con tapa dura y papel especial para trabajar con Pen+; bolsillo interior plegable y cierre elástico
+- El Pen + combina la practicidad del papel con todas las ventajas de la creatividad digital; simple de usar y agradable para escribir
+- El Pen + reconoce el número de cada página, cubiertas, diseños y formatos diferentes, por lo que puedes cambiar fácilmente de un cuaderno a otro y desarrollar tus ideas sobre la marcha
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HSJQNVD/?tag=tolees-21)
