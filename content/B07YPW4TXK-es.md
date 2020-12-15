@@ -25,10 +25,10 @@ Ahora mismo tienes [Disney Mochila Frozen True To Myself 38 cm  Azul](https://ww
 
 🔎:
 
-- Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda
-- De next door
 - Asa superior reforzada para llevarla en mano
-- Doble compartimento principal para los libros y un bolsillo frontal para guardar pequeños accesorios y el almuerzo
+- De next door
+- Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda
 - Mochila de 29 cm x 38 cm x 16 cm fabricada en microfibra con frontal en pvc
+- Doble compartimento principal para los libros y un bolsillo frontal para guardar pequeños accesorios y el almuerzo
 
 [Visítala!!!](https://www.amazon.es/dp/B07YPW4TXK/?tag=tolees-21)
