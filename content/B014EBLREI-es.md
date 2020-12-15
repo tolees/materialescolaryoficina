@@ -26,9 +26,9 @@ Ahora mismo tienes [Osprey Farpoint 55 Mochila de Viaje  Hombre  Gris  Volcanic 
 🔎:
 
 - Cierre escondido para la zona pectoral
-- Armazón periférica de peso liviano
 - Arnés y cinturón de malla troquelada
 - Panel con cierre para acceso al compartimiento principal con cierres de bloqueo
 - con arnés y cinturón de cadera desmontable
+- Armazón periférica de peso liviano
 
 [Visítala!!!](https://www.amazon.es/dp/B014EBLREI/?tag=tolees-21)
