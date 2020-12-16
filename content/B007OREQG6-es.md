@@ -25,10 +25,10 @@ Está [APLI 11897 - Notas adhesivas  75 x 75 mm  color Amarillo Brillante](https
 
 ℹ️:
 
-- El adhesivo reposicionable permite pegarlas y despegarlas más de una vez
-- El tamaño de notas clásico por excelencia
 - Las notas "funny" están fabricadas con papel certificado fsc y adhesivo en base agua
 - Son ideales si quieres destacar tus mensajes con colores llamativos y flúorescentes
+- El tamaño de notas clásico por excelencia
 - Bloc de 100 hojas de notas adhesivas de 75 x 75 mm en color amarillo flúor
+- El adhesivo reposicionable permite pegarlas y despegarlas más de una vez
 
 [Ver la oferta!!](https://www.amazon.es/dp/B007OREQG6/?tag=tolees-21)
