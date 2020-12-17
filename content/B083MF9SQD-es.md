@@ -26,8 +26,8 @@ Ahora mismo tienes [Loctite 2586797 Pegamento  Transparente](https://www.amazon.
 🔎:
 
 - Fuerza instantánea – este pegamento rápido consigue una fuerza de unión máxima en 3 segundos; es un adhesivo que puede usarse en todo tipo de materiales
-- Uso intensivo – este pegamento transparente y universal ofrece una fuerza y un rendimiento máximos para lograr el mejor resultado; para un uso frecuente y profesional
 - Triple resistencia – la nueva fórmula de este adhesivo impermeable con triple resistencia es resistente al lavavajillas, a los impactos y a temperaturas extremas
+- Uso intensivo – este pegamento transparente y universal ofrece una fuerza y un rendimiento máximos para lograr el mejor resultado; para un uso frecuente y profesional
 - Envío y detalles – loctite super glue-3 xxl, bote de pegamento multimaterial líquido con más contenido y nueva fórmula de etilcianoacrilato, transparente, 1x20 g bote, n.º artículo: 2586797
 - Gota a gota – este tubo de pegamento líquido y transparente de uso profesional se aplica gota a gota sobre superficies limpias y secas; ideal para superficies extensas
 
