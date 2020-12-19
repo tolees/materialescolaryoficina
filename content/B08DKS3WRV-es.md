@@ -26,9 +26,9 @@ Ahora mismo tienes [Depesche 11146 - Libro para Colorear con Lentejuelas  20 5 x
 🔎:
 
 - Con muchas pegatinas y plantillas.
-- Tamaño: aprox. 20,5 x 24 x 1,5 cm.
-- Práctica encuadernación de anillas para facilitar las hojas.
-- Diseño: TOPModel.
 - Libro para colorear para niñas con corazón de lentejuelas
+- Tamaño: aprox. 20,5 x 24 x 1,5 cm.
+- Diseño: TOPModel.
+- Práctica encuadernación de anillas para facilitar las hojas.
 
 [Visítala!!!](https://www.amazon.es/dp/B08DKS3WRV/?tag=tolees-21)
