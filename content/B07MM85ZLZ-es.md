@@ -25,10 +25,10 @@ Ahora mismo tienes [Staedtler 364 CWP10. Rotuladores fluorescentes Textsurfer Cl
 
 🔎:
 
-- Punta biselada ultrasuave de aproximadamente 1 y 5 mm de ancho; perfecto para escribir en papel, fax y fotocopias
-- Ink Jet Safe. Tinta permanente de secado rápido, que no emborrona las impresiones a chorro de tinta ni los textos manuscritos
 - Gran depósito de tinta recargable que, junto al cuerpo y capuchón en polipropileno, otorgan una alta durabilidad; es seguro para viajar en avión
-- 10 marcadores con colores variados de tonalidades pastel presentados en una caja transparente, ideal para un almacenamiento eficiente.
 - Marcadores fluorescentes de gran calidad, recomendados para subrayar, resaltar y colorear superficies amplias.
+- Punta biselada ultrasuave de aproximadamente 1 y 5 mm de ancho; perfecto para escribir en papel, fax y fotocopias
+- 10 marcadores con colores variados de tonalidades pastel presentados en una caja transparente, ideal para un almacenamiento eficiente.
+- Ink Jet Safe. Tinta permanente de secado rápido, que no emborrona las impresiones a chorro de tinta ni los textos manuscritos
 
 [Visítala!!!](https://www.amazon.es/dp/B07MM85ZLZ/?tag=tolees-21)

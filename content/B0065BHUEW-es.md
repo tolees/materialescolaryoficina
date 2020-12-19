@@ -25,8 +25,8 @@ Ahora mismo tienes [Fjällräven Kånken Mini Mochila de Senderismo Unisex Adult
 
 🔎:
 
-- Simple shoulder straps and Handle AT the top
 - Small frontal pocket
+- Simple shoulder straps and Handle AT the top
 - Mini back pack
 
 [Visítala!!!](https://www.amazon.es/dp/B0065BHUEW/?tag=tolees-21)
