@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Pepe Jeans Jareth Backpack 45cm Double C al 17.08 % de descuento'
+date: 
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516d3IDtvhL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07NPWHRJC-es'
+actualPrice: 41.45 EUR
+currency: EUR
+price: 41.45
+comparePrice: 49.99 EUR
+prodname: 'Pepe Jeans Jareth Backpack 45cm Double Compartment Adaptable to Trolley'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07NPWHRJC/?tag=tolees-21'
+descuento: '17.08'
+average: '41.45'
+---
+
+Está [Pepe Jeans Jareth Backpack 45cm Double Compartment Adaptable to Trolley](https://www.amazon.es/dp/B07NPWHRJC/?tag=tolees-21) con 17.08 de descuento por 41.45 EUR (original: 49.99 EUR) en el siguiente enlace!
+
+[![Pepe Jeans Jareth Backpack 45cm Double C](https://images-eu.ssl-images-amazon.com/images/I/516d3IDtvhL._SL200_.jpg)](https://www.amazon.es/dp/B07NPWHRJC/?tag=tolees-21)
+
+ℹ️:
+
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07NPWHRJC/?tag=tolees-21)
