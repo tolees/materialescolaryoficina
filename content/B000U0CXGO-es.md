@@ -25,9 +25,9 @@ Tienes [Stabilo Zebrui 8820-02 - Estuche con 20 puntafinas de colores](https://w
 
 ℹ️:
 
-- Calidad alemana
 - Número 1 en Europa
 - Punta 0,4 mm de fibra con refuerzo de metal
 - Gama de 30 colores
+- Calidad alemana
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000U0CXGO/?tag=tolees-21)
