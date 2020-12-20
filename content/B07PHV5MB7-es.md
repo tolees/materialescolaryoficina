@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI Kids Dinosaurios - Bolsa de pegatin al 21.48 % de descuento'
-date: 2020-12-19 19:15:02
+date: 2020-12-20 19:49:50
 image: 'https://m.media-amazon.com/images/I/418f8gZvPXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [APLI Kids Dinosaurios - Bolsa de pegatinas luminiscentes](https://www.ama
 
 ℹ️:
 
+- Dinosaurios luminiscentes de plástico sólido en 3d
 - Ideales para decorar habitaciones, cuadernos, carpetas, etc
 - Incluyen un punto de adhesivo permanente en la parte trasera para poder pegarlas donde quieras
 - Cada bolsa incluye 9 dinosaurios de tamaño surtido y formas surtidas
 - Formas que brillan en la oscuridad con un grosor de 2 mm
-- Dinosaurios luminiscentes de plástico sólido en 3d
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PHV5MB7/?tag=tolees-21)
