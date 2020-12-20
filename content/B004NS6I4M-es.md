@@ -27,8 +27,8 @@ Ahora mismo tienes [Waterman Hémisphère bolígrafo  acero inoxidable con adorn
 
 - Se ha elaborado meticulosamente en Francia para aportar un toque de distinción a su estilo de escritura
 - Cuerpo refinado de acero inoxidable cepillado, adorno estilizado chapado en oro de 23 quilates, clip esbelto y anillo ancho que transmite un toque fresco y pulcro
-- Se presenta en un estuche de regalo prémium de Waterman de color azul oscuro, por lo que resulta adecuado para celebrar las ocasiones más señaladas
-- Diseño esbelto que proporciona un contacto ligero al escribir y una elegante silueta
 - La punta de bola hábilmente diseñada genera trazos fluidos que se secan con rapidez, lo cual le da rienda suelta para expresarse con espontaneidad en cualquier momento y lugar
+- Diseño esbelto que proporciona un contacto ligero al escribir y una elegante silueta
+- Se presenta en un estuche de regalo prémium de Waterman de color azul oscuro, por lo que resulta adecuado para celebrar las ocasiones más señaladas
 
 [Visítala!!!](https://www.amazon.es/dp/B004NS6I4M/?tag=tolees-21)
