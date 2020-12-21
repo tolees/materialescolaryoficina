@@ -25,9 +25,9 @@ Ahora mismo tienes [Parker Jotter XL bolígrafo | oro rosa mate monochrome | pun
 
 🔎:
 
-- Producto presentado en un inconfundible estuche de regalo Parker
-- Este bolígrafo ligero y simplificado cuenta con un diseño retráctil que permite su apertura con un característico clic
 - Un capuchón y un barril en un oro rosa mate sofisticado a la par que llamativo, combinados con el clip de flecha distintivo
+- Este bolígrafo ligero y simplificado cuenta con un diseño retráctil que permite su apertura con un característico clic
+- Producto presentado en un inconfundible estuche de regalo Parker
 - Equipado con tecnología de tinta Quinkflow para una escritura más fluida, limpia y homogénea
 - El icónico bolígrafo Jotter con un cuerpo más grande, perfecto para todos aquellos que disfrutan de la comodidad que ofrece un bolígrafo de mayor tamaño
 
