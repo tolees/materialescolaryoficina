@@ -25,8 +25,8 @@ Está [Bolígrafos Multicolor TOP MODEL](https://www.amazon.es/dp/B078W6CCX6/?ta
 
 ℹ️:
 
-- Bolígrafos con punta de fibra, topmodel (006321)
 - Marcadores top model
 - Bolígrafos instrumentos de escritura
+- Bolígrafos con punta de fibra, topmodel (006321)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B078W6CCX6/?tag=tolees-21)
