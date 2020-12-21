@@ -25,9 +25,9 @@ Ahora mismo tienes [Kipling City Pack S  Mochila para Mujer  Azul  True Navy   2
 
 🔎:
 
+- Material exterior: Sintético
 - Cierre: Cremallera
 - Composición: Sintético
-- Material exterior: Sintético
 - Revestimiento: Sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B077V6BWXT/?tag=tolees-21)
