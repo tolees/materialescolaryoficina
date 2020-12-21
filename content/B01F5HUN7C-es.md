@@ -19,11 +19,11 @@ descuento: '27.12'
 average: '18.95'
 ---
 
-Está [Umbro 30614U-090 Mochila  Hombres  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B01F5HUN7C/?tag=tolees-21) con 27.12 de descuento por 18.95 EUR (original: 26 EUR) en el siguiente enlace!
+Ahora mismo tienes [Umbro 30614U-090 Mochila  Hombres  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B01F5HUN7C/?tag=tolees-21) a 18.95 EUR (original: 26 EUR) (27.12 %  de descuento) en el siguiente enlace!
 
 [![Umbro 30614U-090 Mochila  Hombres  Negro](https://images-eu.ssl-images-amazon.com/images/I/41DGeBXqwbL._SL200_.jpg)](https://www.amazon.es/dp/B01F5HUN7C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01F5HUN7C/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01F5HUN7C/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '15.96'
 ---
 
-Ahora mismo tienes [Puma Phase Backpack Mochilla  Hombre  Sweet Lavender/Indigo  OSFA](https://www.amazon.es/dp/B07HH54B1G/?tag=tolees-21) a 15.96 EUR (original: 19.95 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Está [Puma Phase Backpack Mochilla  Hombre  Sweet Lavender/Indigo  OSFA](https://www.amazon.es/dp/B07HH54B1G/?tag=tolees-21) con 20.00 de descuento por 15.96 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![Puma Phase Backpack Mochilla  Hombre  Sw](https://images-eu.ssl-images-amazon.com/images/I/41R91nXSPlL._SL200_.jpg)](https://www.amazon.es/dp/B07HH54B1G/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07HH54B1G/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07HH54B1G/?tag=tolees-21)

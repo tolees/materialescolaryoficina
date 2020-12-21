@@ -19,11 +19,11 @@ descuento: '15.03'
 average: '47.88'
 ---
 
-Ahora mismo tienes [PaperPro 02210-220V-EU - Grapadora eléctrica  con compartimiento magnético  25 hojas  color negro](https://www.amazon.es/dp/B019DSW1GU/?tag=tolees-21) a 47.88 EUR (original: 56.35 EUR) (15.03 %  de descuento) en el siguiente enlace!
+Está [PaperPro 02210-220V-EU - Grapadora eléctrica  con compartimiento magnético  25 hojas  color negro](https://www.amazon.es/dp/B019DSW1GU/?tag=tolees-21) con 15.03 de descuento por 47.88 EUR (original: 56.35 EUR) en el siguiente enlace!
 
 [![PaperPro 02210-220V-EU - Grapadora eléct](https://images-eu.ssl-images-amazon.com/images/I/419Mot-nIML._SL200_.jpg)](https://www.amazon.es/dp/B019DSW1GU/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B019DSW1GU/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B019DSW1GU/?tag=tolees-21)

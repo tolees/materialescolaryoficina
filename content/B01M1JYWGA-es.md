@@ -19,11 +19,11 @@ descuento: '31.25'
 average: '54.99'
 ---
 
-Ahora mismo tienes [MONTIS ALPIZ Air 30 - Mochila de Senderismo  Deporte y Uso Diario - 30 L - 800 g](https://www.amazon.es/dp/B01M1JYWGA/?tag=tolees-21) a 54.99 EUR (original: 79.99 EUR) (31.25 %  de descuento) en el siguiente enlace!
+Está [MONTIS ALPIZ Air 30 - Mochila de Senderismo  Deporte y Uso Diario - 30 L - 800 g](https://www.amazon.es/dp/B01M1JYWGA/?tag=tolees-21) con 31.25 de descuento por 54.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![MONTIS ALPIZ Air 30 - Mochila de Senderi](https://images-eu.ssl-images-amazon.com/images/I/416ooEUhaaL._SL200_.jpg)](https://www.amazon.es/dp/B01M1JYWGA/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01M1JYWGA/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01M1JYWGA/?tag=tolees-21)

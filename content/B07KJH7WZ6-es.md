@@ -19,11 +19,11 @@ descuento: '39.98'
 average: '15.51'
 ---
 
-Ahora mismo tienes [adidas CLAS BP 3s Sports Backpack  Unisex Adulto  Black/White  NS](https://www.amazon.es/dp/B07KJH7WZ6/?tag=tolees-21) a 15.51 EUR (original: 25.84 EUR) (39.98 %  de descuento) en el siguiente enlace!
+Está [adidas CLAS BP 3s Sports Backpack  Unisex Adulto  Black/White  NS](https://www.amazon.es/dp/B07KJH7WZ6/?tag=tolees-21) con 39.98 de descuento por 15.51 EUR (original: 25.84 EUR) en el siguiente enlace!
 
 [![adidas CLAS BP 3s Sports Backpack  Unise](https://images-eu.ssl-images-amazon.com/images/I/41ZXbZmd9OL._SL200_.jpg)](https://www.amazon.es/dp/B07KJH7WZ6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07KJH7WZ6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KJH7WZ6/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '18.34'
 average: '48.99'
 ---
 
-Ahora mismo tienes [Super Mario Maker 2 + Lápiz táctil](https://www.amazon.es/dp/B07RKKFNX1/?tag=tolees-21) a 48.99 EUR (original: 59.99 EUR) (18.34 %  de descuento) en el siguiente enlace!
+Está [Super Mario Maker 2 + Lápiz táctil](https://www.amazon.es/dp/B07RKKFNX1/?tag=tolees-21) con 18.34 de descuento por 48.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Super Mario Maker 2 + Lápiz táctil](http://images.amazon.com/images/P/B07RKKFNX1.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B07RKKFNX1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07RKKFNX1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07RKKFNX1/?tag=tolees-21)

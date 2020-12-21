@@ -19,11 +19,11 @@ descuento: '29.96'
 average: '10.99'
 ---
 
-Está [Juego de brújula  Brújula de Muscccm para geometría Kit de geometría matemática 8 piezas - Brújula de dibujo de suministros de estudiantes  transportador  reglas  recambios de plomo a lápiz](https://www.amazon.es/dp/B07GSYXKFR/?tag=tolees-21) con 29.96 de descuento por 10.99 EUR (original: 15.69 EUR) en el siguiente enlace!
+Ahora mismo tienes [Juego de brújula  Brújula de Muscccm para geometría Kit de geometría matemática 8 piezas - Brújula de dibujo de suministros de estudiantes  transportador  reglas  recambios de plomo a lápiz](https://www.amazon.es/dp/B07GSYXKFR/?tag=tolees-21) a 10.99 EUR (original: 15.69 EUR) (29.96 %  de descuento) en el siguiente enlace!
 
 [![Juego de brújula  Brújula de Muscccm par](https://images-eu.ssl-images-amazon.com/images/I/51WF3-yM7WL._SL200_.jpg)](https://www.amazon.es/dp/B07GSYXKFR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07GSYXKFR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07GSYXKFR/?tag=tolees-21)

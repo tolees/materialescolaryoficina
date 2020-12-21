@@ -19,11 +19,11 @@ descuento: '33.25'
 average: '7.95'
 ---
 
-Ahora mismo tienes [Dakine 8160105 Kit Escolar  Unisex Adulto  Negro  Tory   Talla Única](https://www.amazon.es/dp/B01N1LV66N/?tag=tolees-21) a 7.95 EUR (original: 11.91 EUR) (33.25 %  de descuento) en el siguiente enlace!
+Está [Dakine 8160105 Kit Escolar  Unisex Adulto  Negro  Tory   Talla Única](https://www.amazon.es/dp/B01N1LV66N/?tag=tolees-21) con 33.25 de descuento por 7.95 EUR (original: 11.91 EUR) en el siguiente enlace!
 
 [![Dakine 8160105 Kit Escolar  Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41BEkovzYFL._SL200_.jpg)](https://www.amazon.es/dp/B01N1LV66N/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01N1LV66N/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N1LV66N/?tag=tolees-21)

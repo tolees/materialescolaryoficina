@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.27 % en Nikon Coolpix W100 - Cámara Digital comp'
+title: 'Nikon Coolpix W100 - Cámara Digital comp al 40.27 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4171chW8PpL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.27'
 average: '89'
 ---
 
-Tienes [Nikon Coolpix W100 - Cámara Digital compacta de 13.2 MP  Pantalla LCD de 2.7"  CMOS  Snapbridge  VR  Objetivo Nikkor  USB  vídeo Full HD  WiFi  Amarillo - Kit con Mochila](https://www.amazon.es/dp/B01M1HAEP4/?tag=tolees-21) con un 40.27 % de descuento con precio de oferta de 89 EUR (original: 149 EUR) en el siguiente enlace!
+Tienes [Nikon Coolpix W100 - Cámara Digital compacta de 13.2 MP  Pantalla LCD de 2.7"  CMOS  Snapbridge  VR  Objetivo Nikkor  USB  vídeo Full HD  WiFi  Amarillo - Kit con Mochila](https://www.amazon.es/dp/B01M1HAEP4/?tag=tolees-21) con precio final de  89 EUR (original: 149 EUR) (40.27 %  de rebaja) aqui!
 
 [![Nikon Coolpix W100 - Cámara Digital comp](https://images-eu.ssl-images-amazon.com/images/I/4171chW8PpL._SL200_.jpg)](https://www.amazon.es/dp/B01M1HAEP4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01M1HAEP4/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B01M1HAEP4/?tag=tolees-21)

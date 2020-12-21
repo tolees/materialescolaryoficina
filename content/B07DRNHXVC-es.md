@@ -19,11 +19,11 @@ descuento: '25.00'
 average: '21'
 ---
 
-Está [Pepe Jeans Olaia Blue Casual Backpack](https://www.amazon.es/dp/B07DRNHXVC/?tag=tolees-21) con 25.00 de descuento por 21 EUR (original: 28 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans Olaia Blue Casual Backpack](https://www.amazon.es/dp/B07DRNHXVC/?tag=tolees-21) a 21 EUR (original: 28 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
 [![Pepe Jeans Olaia Blue Casual Backpack](https://images-eu.ssl-images-amazon.com/images/I/519sRyr1cAL._SL200_.jpg)](https://www.amazon.es/dp/B07DRNHXVC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DRNHXVC/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DRNHXVC/?tag=tolees-21)
