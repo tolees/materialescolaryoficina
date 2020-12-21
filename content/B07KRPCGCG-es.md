@@ -26,8 +26,8 @@ Ahora mismo tienes [Play Doh - Confetti Compound Collection  Hasbro  B3423EU7 ](
 🔎:
 
 - Se ha añadido confeti colorido a cada color
-- Incluye 6 colores con confeti únicos
-- Genial para dar rienda suelta a tu creatividad
 - Incluye 2 cortadores
+- Genial para dar rienda suelta a tu creatividad
+- Incluye 6 colores con confeti únicos
 
 [Visítala!!!](https://www.amazon.es/dp/B07KRPCGCG/?tag=tolees-21)
