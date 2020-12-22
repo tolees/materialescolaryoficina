@@ -27,9 +27,9 @@ Ahora mismo tienes [Apli Kids 12146 Pegamento de barra  Rojo  21 g](https://www.
 
 - Apta para uso escolar y manualidades para ni?os, adecuado a la normativa
 - Perfecta para materiales porosos: pega todo tipo de papel, cart?n, cartulina y fotos, entre otros
+- Su f?rmula permite un mejor deslizamiento del stick y una mayor eficiencia para pegar de forma r?pida, f?cil y limpia
 - Barra adhesiva libre de solventes y no t?xica
 - Barra de pegamento adhesiva blanca en formato stick de 21 g
 - De secado instant?neo, no arruga o humedece el papel y no deja grumos ni residuo tras su aplicaci?n
-- Su f?rmula permite un mejor deslizamiento del stick y una mayor eficiencia para pegar de forma r?pida, f?cil y limpia
 
 [Visítala!!!](https://www.amazon.es/dp/B00GKBQKP2/?tag=tolees-21)
