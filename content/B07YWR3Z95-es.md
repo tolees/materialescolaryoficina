@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Descuento del 35.45 % en Play-Doh - Pony De Rodeo  Hasbro  E67265'
-date: 2020-12-20 09:52:17
+title: 'Descuento del 36.17 % en Play-Doh - Pony De Rodeo  Hasbro  E67265'
+date: 2020-12-22 10:21:32
 image: 'https://m.media-amazon.com/images/I/411I4QLVq3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07YWR3Z95-es'
-actualPrice: 9.03 EUR
+actualPrice: 8.93 EUR
 currency: EUR
-price: 9.03
+price: 8.93
 comparePrice: 13.99 EUR
 prodname: 'Play-Doh - Pony De Rodeo  Hasbro  E67265L0 '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07YWR3Z95/?tag=tolees-21'
-descuento: '35.45'
-average: '9.03'
+descuento: '36.17'
+average: '8.996666666666666'
 ---
 
-Tienes [Play-Doh - Pony De Rodeo  Hasbro  E67265L0 ](https://www.amazon.es/dp/B07YWR3Z95/?tag=tolees-21) con un 35.45 % de descuento con precio de oferta de 9.03 EUR (original: 13.99 EUR) en el siguiente enlace!
+Tienes [Play-Doh - Pony De Rodeo  Hasbro  E67265L0 ](https://www.amazon.es/dp/B07YWR3Z95/?tag=tolees-21) con un 36.17 % de descuento con precio de oferta de 8.93 EUR (original: 13.99 EUR) en el siguiente enlace!
 
 [![Play-Doh - Pony De Rodeo  Hasbro  E67265](https://m.media-amazon.com/images/I/411I4QLVq3L._SL200_.jpg)](https://www.amazon.es/dp/B07YWR3Z95/?tag=tolees-21)
 
