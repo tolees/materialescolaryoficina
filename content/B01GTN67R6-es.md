@@ -25,8 +25,8 @@ Está [Tech air TANZ0701V5 - Mochila para portátil de 15.6"  Color Negro](https
 
 ℹ️:
 
-- Correas de hombro de longitud ajustable
 - Tiene dos compartimentos completos y dos bolsillos
+- Correas de hombro de longitud ajustable
 - Relleno trasero ventilado y correa elástica para detener el movimiento
 - Ofrece protección para la computadora portátil
 
