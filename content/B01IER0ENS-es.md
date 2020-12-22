@@ -25,9 +25,9 @@ Tienes [Rivacase 7490  PS  Poliéster Negro Mochila - Mochila para portátiles y
 
 ℹ️:
 
-- - Dimensiones externas: 300 x 430 x 155 mm
 - - Dimensiones internas: 280 x 420 x 110 mm
 - Esta prenda 7490 SLR Backpack – Mochila para cámara DSLR, negro
 - - Peso producto: 0.905 kg
+- - Dimensiones externas: 300 x 430 x 155 mm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IER0ENS/?tag=tolees-21)
