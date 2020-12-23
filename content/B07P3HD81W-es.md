@@ -26,9 +26,9 @@ Está [HUION HS610 Tableta de Dibujo de gráficos 10x6.25 Pulgadas Función de i
 ℹ️:
 
 - Botones Touch Ring + Practical Express: incluye 12 botones express personalizados y un anillo táctil. El botón Express se puede personalizar a tu gusto, ahorrándote mucho tiempo.
-- Compatibilidad del sistema operativo: Windows 7 o superior, MacOS 10.12 o posterior y Android 6.0 o posterior (dispositivos compatibles con OTG).
 - Compatible con Android OS 6.0: permite a los usuarios conectar su teléfono a la tableta a través de OTG para una mejor portabilidad.
 - Excelente rendimiento del lápiz: el HS610 viene con un lápiz PW100 sin pilas, con una presión del lápiz de 8192 y un soporte de inclinación de ± 60 °, para que pueda disfrutar del trazo del lápiz mientras dibuja.
 - Espacio de trabajo: el espacio de trabajo del PC / portátil es de 254 x 158.8 mm y el área de trabajo del teléfono móvil / tableta es de 158.8 x 99.2 mm.
+- Compatibilidad del sistema operativo: Windows 7 o superior, MacOS 10.12 o posterior y Android 6.0 o posterior (dispositivos compatibles con OTG).
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07P3HD81W/?tag=tolees-21)

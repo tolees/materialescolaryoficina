@@ -25,10 +25,10 @@ Ahora mismo tienes [Mochila Mujer Antirrobo Impermeable  Multiusos Daypacks con 
 
 🔎:
 
-- Large Laptop Backpack: Large main zipper pocket with dedicated laptop compartment for screen sizes up to 15.6", open pocket provide for your reading material and work documents, roomy space with organized pockets to your daily need
-- Multi-function Backpack: Large main compartment with a laptop slot, a document area, two side pockets for water bottles and umbrella, front organizer compartment with many open pockets for your notebooks, pens, pencils, and one anti-theft hidden pocket on the back
 - USB Port Design: The Laptop backpack with built in USB charger outside and built in charging cable inside,enable to charge your phone without opening the large backpack while traveling or walking(Please note that the power bank are not included in the package)
 - Comforty: The Lightweight Bookbag perfectly tailored for humans back and shoulders.The risers are well padded so that nothing presses or pinches.Subtle back cushions made of breathable mesh fabric ensure good ventilation on the back even on warmer days.
+- Multi-function Backpack: Large main compartment with a laptop slot, a document area, two side pockets for water bottles and umbrella, front organizer compartment with many open pockets for your notebooks, pens, pencils, and one anti-theft hidden pocket on the back
+- Large Laptop Backpack: Large main zipper pocket with dedicated laptop compartment for screen sizes up to 15.6", open pocket provide for your reading material and work documents, roomy space with organized pockets to your daily need
 - High Quality Material: The laptop backpack is made of water resistant and durable polyester fabric with metal zippers, which is quite durable. Reinforced edges and steel frame of the main compartment keep the perfect shape of the bag and durable of usage. External dimensions: 28 x 20 x 43 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZKL2KFC/?tag=tolees-21)
