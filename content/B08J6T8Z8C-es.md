@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Touch Cámara Instantánea  Cámara  con un 28.58 % de descuento'
-date: 2020-12-22 02:25:42
+date: 2020-12-23 08:19:14
 image: 'https://m.media-amazon.com/images/I/419oVxZsFVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08J6T8Z8C/?tag=tolees-21'
 descuento: '28.58'
-average: '69.32333333333332'
+average: '68.115'
 ---
 
 En este momento está [Dragon Touch Cámara Instantánea  Cámara de Fotos para Niños 26MP FHD 1920*1080 con Cámara Dual  Papel de impresión  Pegatinas  Bolígrafos de Colores  Bolsa de Cámara  Type C  1000mA  InstantFun2 Rojo](https://www.amazon.es/dp/B08J6T8Z8C/?tag=tolees-21) a 49.99 EUR (original: 69.99 EUR) (28.58 %  de descuento) en el siguiente enlace!
