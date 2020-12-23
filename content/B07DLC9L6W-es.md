@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi City  Mochila para Portátiles  al 28.79 % de descuento'
-date: 2020-12-17 10:00:54
+date: 2020-12-22 23:46:01
 image: 'https://m.media-amazon.com/images/I/51lbplDjL+L._SL200_.jpg'
 comments: true
 category: ofertas
