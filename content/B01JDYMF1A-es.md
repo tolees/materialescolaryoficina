@@ -27,7 +27,7 @@ Está [Tech air TANB0700v3 maletines para portátil 39 6 cm  15.6"  - Funda  Fun
 
 - Material de poliéster duradero que resiste a cualquier cambio de agenda
 - Compartimento especial para su portátil de 15.6” y bolsillo especial para su tableta
-- Bolsillo oculto en el panel lumbar que protege los objetos pequeños de valor con acolchado transpirable
 - Las correas para hombro articuladas se mueven fácilmente para adaptarse a diversas constituciones
+- Bolsillo oculto en el panel lumbar que protege los objetos pequeños de valor con acolchado transpirable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01JDYMF1A/?tag=tolees-21)
