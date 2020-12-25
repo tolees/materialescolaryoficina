@@ -25,9 +25,9 @@ Tienes [Staedtler Noris - Lapiceros  Material Escolar  Pack de 12  Gris](https:/
 
 ℹ️:
 
-- Punto fino de 2 mm
 - Caja con 12 lápices de la misma graduación
 - Graduación HB
+- Punto fino de 2 mm
 - Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000GPI5ME/?tag=tolees-21)
