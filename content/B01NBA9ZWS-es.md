@@ -25,8 +25,8 @@ Tienes [Converse Edc Pack Poly Mochila Tipo Casual  45 cm  19 litros  Negro](htt
 
 🔎:
 
+- Mochila 19 L - Compartimento portátil
 - Trasera acolachada
 - Dimensiones 27 x 45 x 13,5 cm
-- Mochila 19 L - Compartimento portátil
 
 [Comprar!!!](https://www.amazon.es/dp/B01NBA9ZWS/?tag=tolees-21)
