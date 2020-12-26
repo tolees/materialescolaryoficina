@@ -25,10 +25,10 @@ En este momento está [HUION INSPIROY H430P Tableta Gráfica de Dibujo para Pad 
 
 🔎:
 
+- Compatible con Android: no solo es compatible con Windows o Mac OS, también es compatible con dispositivos Android ahora; Puede descargar el firmware de actualización gratuito correspondiente en el sitio web oficial y puede conectar fácilmente su teléfono a la tableta con el conector OTG USB-C / Micro USB. SOLO Android 6.0+. NOTA: el cursor no se mostrará en la serie SAMSUNG Galaxy S en la actualidad. Si no está seguro de si el producto es compatible con su teléfono o si tiene algún problema, co
 - Ideal para Juego Osu! dibujar, bocetar, firmar y escribir a mano en Microsoft office Word, Excel, PDF, One Note etc.
 - 4 Teclas Rápidas personalizables para mejorar tu flujo de trabajo. Está disponible para usuarios diestros y zurdos.
 - Diseño de Portal: 122mm x 76mm de área de trabajo, 6.3mm de grosor y 135g de peso, es más fino y ligero que un teléfono móvil, y es muy cómodo de transportar.
-- Compatible con Android: no solo es compatible con Windows o Mac OS, también es compatible con dispositivos Android ahora; Puede descargar el firmware de actualización gratuito correspondiente en el sitio web oficial y puede conectar fácilmente su teléfono a la tableta con el conector OTG USB-C / Micro USB. SOLO Android 6.0+. NOTA: el cursor no se mostrará en la serie SAMSUNG Galaxy S en la actualidad. Si no está seguro de si el producto es compatible con su teléfono o si tiene algún problema, co
 - Lápiz Sin Batería que reconoce 4096 niveles de presión: el lápiz no necesita pilas ni necesita recargarse. Con la presión del lápiz actualizada, es más sensible y asegura un mejor control de las líneas gruesas y finas.
 
 [Aquí!!!](https://www.amazon.es/dp/B078JJ8VNS/?tag=tolees-21)
