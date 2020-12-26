@@ -25,8 +25,8 @@ En este momento está [Cross Classic Century Medallista Bolígrafo - Oro / Chrom
 
 🔎:
 
-- Una colaboración atemporal y de buen gusto de adornos de cromo pulido y bañados en oro de 23 quilates
-- Estuche para regalo Premium
 - Mecanismo de giro para extraer e introducir la punta
+- Estuche para regalo Premium
+- Una colaboración atemporal y de buen gusto de adornos de cromo pulido y bañados en oro de 23 quilates
 
 [Aquí!!!](https://www.amazon.es/dp/B004E3GGNO/?tag=tolees-21)
