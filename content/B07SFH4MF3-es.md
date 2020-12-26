@@ -25,10 +25,10 @@ En este momento está [Samsonite B-Lite Icon - 3-Way Laptop Backpack Exp Mochila
 
 🔎:
 
+- Amplia oferta de tamaños para cabina, incluido el tamaño de 56 cm de British Airways, ampliada con un Spinner 55 EXP con función de bolsillo superior (con bolsa de artículos de aseo extraíble; pendiente de patente) y dos estilos Underseater. El Upright 45, que viene con un puerto USB, puede colocarse bajo el asiento delantero, de forma cómoda y a mano en todo momento. La mochila 3-way EXP tiene el tamaño ideal para llevarla como segundo bulto de equipaje de mano, aceptado por la mayoría de las compañías aéreas
 - Expandible con compartimento oculto con cremallera para disfrutar de más espacio para el equipaje
 - B-Lite Icon 3-way laptop backpack expandible 15.6 inch: 30 x 10 x 40 cm - 18 L - 0, 80 kg. Compartimento para portátil 15.6 pulgadas
-- Con Smart Sleeve que se desliza en el tirador de un upright o spinner
 - Exquisitos detalles y acabado
-- Amplia oferta de tamaños para cabina, incluido el tamaño de 56 cm de British Airways, ampliada con un Spinner 55 EXP con función de bolsillo superior (con bolsa de artículos de aseo extraíble; pendiente de patente) y dos estilos Underseater. El Upright 45, que viene con un puerto USB, puede colocarse bajo el asiento delantero, de forma cómoda y a mano en todo momento. La mochila 3-way EXP tiene el tamaño ideal para llevarla como segundo bulto de equipaje de mano, aceptado por la mayoría de las compañías aéreas
+- Con Smart Sleeve que se desliza en el tirador de un upright o spinner
 
 [Aquí!!!](https://www.amazon.es/dp/B07SFH4MF3/?tag=tolees-21)
