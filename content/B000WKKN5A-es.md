@@ -25,10 +25,10 @@ Tienes [Pentel 100526 - Juego de ceras pastel al aceite  50 unidades   multicolo
 
 ℹ️:
 
+- Oil Pastels with a creamy softness - easy to use
 - Apply directly to canvas, paper or other media for thick, thin, rough or smooth effects
+- Blend smoothly and easily for subtle shades, tints or colour mixtures
 - Dilute with turps of mineral spirits for liquid-like application in order to blend and shade colours
 - Fade-resistant colours
-- Blend smoothly and easily for subtle shades, tints or colour mixtures
-- Oil Pastels with a creamy softness - easy to use
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000WKKN5A/?tag=tolees-21)
