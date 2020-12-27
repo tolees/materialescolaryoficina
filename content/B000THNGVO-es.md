@@ -25,9 +25,9 @@ Tienes [Pentel - Fudepen recargable  color Inchiostro Base Acqua punta larga](ht
 
 ℹ️:
 
-- Model number: XFL2L
-- XFL2L
-- In Bister Pack
 - Pentel Fude Brush Pen
+- XFL2L
+- Model number: XFL2L
+- In Bister Pack
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000THNGVO/?tag=tolees-21)
