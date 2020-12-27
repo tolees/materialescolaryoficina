@@ -25,10 +25,10 @@ En este momento está [Trust GXT 1255 Outlaw - Mochila para Videojuegos  15 6 Pu
 
 🔎:
 
+- Compartimento acolchado para portátil de hasta 15,6 pulgadas. Cubierta frontal resistente para protección adicional.
+- Puerto de carga USB integrado para cargar tu smartphone mientras te desplazas (batería externa y cable de carga USB, no incluido).
 - Práctica funda protectora para el almacenamiento seguro de gafas y accesorios (juegos). Base impermeable y cubierta de lluvia integrada.
 - Cierre de pecho ajustable, correas acolchadas y ventilación en la espalda para mayor comodidad.
 - 4 compartimentos especiales para el transporte seguro de ratón, auriculares, tablet y otros accesorios. 2 bolsillos laterales de malla para fácil acceso.
-- Compartimento acolchado para portátil de hasta 15,6 pulgadas. Cubierta frontal resistente para protección adicional.
-- Puerto de carga USB integrado para cargar tu smartphone mientras te desplazas (batería externa y cable de carga USB, no incluido).
 
 [Aquí!!!](https://www.amazon.es/dp/B07TX98K3V/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Filarmonica  Pack de Belleza  Incluye Palitos de Naranjo  Corta Cutícul
 
 🔎:
 
-- Tijera de manicura curva de cero carbono para cortar uñas. Con puntas delgadas y afiladas
-- Pinza para depilar con punta sesgada que facilita la extracción del vello incluso para los más cortos y rebeldes de las cejas
 - Corta cutículas de acero inoxidable con punta en forma de V que ayuda a E limar las cutículas de forma rápida y suave
 - 6 palitos de naranjo para ayudar a eliminar las cutículas con una superficie pulida que no daña la piel
+- Tijera de manicura curva de cero carbono para cortar uñas. Con puntas delgadas y afiladas
+- Pinza para depilar con punta sesgada que facilita la extracción del vello incluso para los más cortos y rebeldes de las cejas
 - Lima especial para eliminar durezas con suavidad, alisar y reparar los talones
 
 [Comprar!!!](https://www.amazon.es/dp/B07VPW9F9C/?tag=tolees-21)
