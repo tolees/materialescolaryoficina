@@ -25,8 +25,8 @@ Tienes [Pilot Supergrip - Blíster de bolígrafos  4 unidades](https://www.amazo
 
 ℹ️:
 
-- 4 unidades
 - Azul, 4 unidades
+- 4 unidades
 - Blister Pilot Supergrip
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015CQYJLW/?tag=tolees-21)
