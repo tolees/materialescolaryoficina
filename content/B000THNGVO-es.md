@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 23.61 % en Pentel - Fudepen recargable  color Inchi'
-date: 2020-12-26 02:24:45
+date: 2020-12-27 02:29:48
 image: 'https://m.media-amazon.com/images/I/416vczORVSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000THNGVO/?tag=tolees-21'
 descuento: '23.61'
-average: '6.765105485232072'
+average: '6.760882352941181'
 ---
 
 Tienes [Pentel - Fudepen recargable  color Inchiostro Base Acqua punta larga](https://www.amazon.es/dp/B000THNGVO/?tag=tolees-21) con un 23.61 % de descuento con precio de oferta de 5.76 EUR (original: 7.54 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Tienes [Pentel - Fudepen recargable  color Inchiostro Base Acqua punta larga](ht
 
 ℹ️:
 
-- Punta ancha de tamaño medio
-- Adecuado para realizar la caligrafía de los cómicos manga
-- Recargable mediante XFR refill
-- Viene envasado en blister
+- Model number: XFL2L
+- XFL2L
+- In Bister Pack
+- Pentel Fude Brush Pen
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000THNGVO/?tag=tolees-21)

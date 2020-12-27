@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.76 % en Pentel 100526 - Juego de ceras pastel al'
-date: 2020-12-26 02:26:32
+date: 2020-12-27 02:30:37
 image: 'https://m.media-amazon.com/images/I/518KBXtoAlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000WKKN5A/?tag=tolees-21'
 descuento: '25.76'
-average: '8.437272727272731'
+average: '8.449555555555559'
 ---
 
 Tienes [Pentel 100526 - Juego de ceras pastel al aceite  50 unidades   multicolor](https://www.amazon.es/dp/B000WKKN5A/?tag=tolees-21) con un 25.76 % de descuento con precio de oferta de 8.99 EUR (original: 12.11 EUR) en el siguiente enlace!
@@ -25,10 +25,9 @@ Tienes [Pentel 100526 - Juego de ceras pastel al aceite  50 unidades   multicolo
 
 ℹ️:
 
-- Oil Pastels with a creamy softness - easy to use
-- Apply directly to canvas, paper or other media for thick, thin, rough or smooth effects
-- Blend smoothly and easily for subtle shades, tints or colour mixtures
-- Dilute with turps of mineral spirits for liquid-like application in order to blend and shade colours
-- Fade-resistant colours
+- Se diluye con aguarrás de alcoholes minerales
+- Colores opacos intensivos para papel y cartón, así como madera, lino o arcilla
+- Punto tipográfico medio
+- Paquete de 50 unidades
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000WKKN5A/?tag=tolees-21)
