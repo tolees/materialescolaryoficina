@@ -25,10 +25,10 @@ Tienes [APLI Kids - Letras y números transparentes 36 uds.](https://www.amazon.
 
 ℹ️:
 
-- Práctico formato maxi, en bote con tapa, ideal para escuelas
+- Su grueso y transparencia las hacen ideales para mesas de luz, así como para que los más pequeños empiecen a formar palabras y secuencias numéricas
 - Recomendado para niños a partir de 3 años
+- Práctico formato maxi, en bote con tapa, ideal para escuelas
 - Piezas de altura aproximada 50 mm
 - Kit con 36 números y letras de plástico transparente en diferentes colores: amarillo, rojo, verde y azul
-- Su grueso y transparencia las hacen ideales para mesas de luz, así como para que los más pequeños empiecen a formar palabras y secuencias numéricas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PGQFT5Y/?tag=tolees-21)
