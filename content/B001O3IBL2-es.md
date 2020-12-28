@@ -25,9 +25,9 @@ Ahora mismo tienes [BIC Cristal Original Fine - Bolígrafos punta fina  0.8 mm  
 
 🔎:
 
-- De la marca BIC
+- De alta precisión para escribir en cualquier tipo de papel
 - Color negro
 - Punta 0.8 mm
-- De alta precisión para escribir en cualquier tipo de papel
+- De la marca BIC
 
 [Visítala!!!](https://www.amazon.es/dp/B001O3IBL2/?tag=tolees-21)
