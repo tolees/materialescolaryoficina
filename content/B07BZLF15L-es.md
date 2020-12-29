@@ -26,7 +26,7 @@ Tienes [NIKE Y Nk Acdmy Team Bkpk Sports Backpack  Unisex adulto  black/black/ w
 ℹ️:
 
 - Sizes: 45, 5 x 30, 5 x 12, 5 cm
-- Padded and adjustable shoulder straps
 - Large main Compartiment
+- Padded and adjustable shoulder straps
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BZLF15L/?tag=tolees-21)
