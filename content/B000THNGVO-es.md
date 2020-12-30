@@ -26,8 +26,8 @@ Tienes [Pentel - Fudepen recargable  color Inchiostro Base Acqua punta larga](ht
 ℹ️:
 
 - Adecuado para realizar la caligrafía de los cómicos manga
-- Punta ancha de tamaño medio
 - Viene envasado en blister
+- Punta ancha de tamaño medio
 - Recargable mediante XFR refill
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000THNGVO/?tag=tolees-21)

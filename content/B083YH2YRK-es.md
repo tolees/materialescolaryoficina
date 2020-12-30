@@ -25,7 +25,7 @@ Ahora mismo tienes [Desigual Accessories PU Backpack Medium  Mochila. para Mujer
 
 🔎:
 
-- Azul
 - Desigual; Accesorios; Backpack; Blue
+- Azul
 
 [Visítala!!!](https://www.amazon.es/dp/B083YH2YRK/?tag=tolees-21)
