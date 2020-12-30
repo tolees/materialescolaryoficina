@@ -25,8 +25,8 @@ Tienes [Alpino DP00006201 - Pastilla plastilina](https://www.amazon.es/dp/B0159B
 
 🔎:
 
-- Ideal para su colección de oficina
 - De alta calidad
+- Ideal para su colección de oficina
 - Con un diseño moderno y elegante
 
 [Comprar!!!](https://www.amazon.es/dp/B0159BEDAW/?tag=tolees-21)
