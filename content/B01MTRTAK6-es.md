@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rotulador punta fina STABILO point 88 -  al 36.59 % de descuento'
-date: 2020-12-14 14:12:56
+date: 2020-12-30 12:39:24
 image: 'https://m.media-amazon.com/images/I/41qXNGfpEiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTRTAK6/?tag=tolees-21'
 descuento: '36.59'
-average: '5.505000000000001'
+average: '5.553333333333334'
 ---
 
 Está [Rotulador punta fina STABILO point 88 - Estuche Sombras de azul con 8 colores](https://www.amazon.es/dp/B01MTRTAK6/?tag=tolees-21) con 36.59 de descuento por 5.65 EUR (original: 8.91 EUR) en el siguiente enlace!
@@ -26,9 +26,9 @@ Está [Rotulador punta fina STABILO point 88 - Estuche Sombras de azul con 8 col
 ℹ️:
 
 - Calidad alemana
-- Punta 0.4 mm de fibra con refuerzo de metal
-- Gama de 46 colores
 - Ideal para mandalas y arte terapia
+- Punta 0.4 mm de fibra con refuerzo de metal
 - Calidad alemana
+- Gama de 46 colores
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MTRTAK6/?tag=tolees-21)
