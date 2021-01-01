@@ -26,7 +26,7 @@ Ahora mismo tienes [Alpino AL000177 - Estuche 12 lápices](https://www.amazon.es
 🔎:
 
 - De alta calidad
-- Con un diseño moderno y elegante
 - Ideal para su colección de oficina
+- Con un diseño moderno y elegante
 
 [Visítala!!!](https://www.amazon.es/dp/B00AO0D7LU/?tag=tolees-21)
