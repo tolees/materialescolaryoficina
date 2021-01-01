@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tech air TANZ0701V5 - Mochila para portá al 37.62 % de descuento'
-date: 2020-12-22 16:55:32
+date: 2020-12-31 23:24:50
 image: 'https://m.media-amazon.com/images/I/41d24sbC7NL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GTN67R6/?tag=tolees-21'
 descuento: '37.62'
-average: '17.21'
+average: '16.74666666666667'
 ---
 
 Está [Tech air TANZ0701V5 - Mochila para portátil de 15.6"  Color Negro](https://www.amazon.es/dp/B01GTN67R6/?tag=tolees-21) con 37.62 de descuento por 15.82 EUR (original: 25.36 EUR) en el siguiente enlace!
@@ -26,8 +26,8 @@ Está [Tech air TANZ0701V5 - Mochila para portátil de 15.6"  Color Negro](https
 ℹ️:
 
 - Correas de hombro de longitud ajustable
-- Tiene dos compartimentos completos y dos bolsillos
-- Ofrece protección para la computadora portátil
 - Relleno trasero ventilado y correa elástica para detener el movimiento
+- Ofrece protección para la computadora portátil
+- Tiene dos compartimentos completos y dos bolsillos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GTN67R6/?tag=tolees-21)
