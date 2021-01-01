@@ -25,9 +25,9 @@ Está [Tech air TANZ0701V5 - Mochila para portátil de 15.6"  Color Negro](https
 
 ℹ️:
 
+- Tiene dos compartimentos completos y dos bolsillos
+- Ofrece protección para la computadora portátil
 - Correas de hombro de longitud ajustable
 - Relleno trasero ventilado y correa elástica para detener el movimiento
-- Ofrece protección para la computadora portátil
-- Tiene dos compartimentos completos y dos bolsillos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GTN67R6/?tag=tolees-21)
