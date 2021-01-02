@@ -25,8 +25,8 @@ Está [Case Logic Bryker - Mochila  15.6"  Color Negro](https://www.amazon.es/dp
 
 ℹ️:
 
-- Espacio para portátil y tablet
-- Cremalleras duraderas
 - Materiales de calidad
+- Cremalleras duraderas
+- Espacio para portátil y tablet
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N7OW91Z/?tag=tolees-21)
