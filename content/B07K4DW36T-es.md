@@ -26,8 +26,8 @@ Está [BESTLIFE - Mochila Trolley para Portátil 15.6    Tablet y Conector USB  
 ℹ️:
 
 - Conector USB al exterior para cargar el móvil, doble cursor en los compartimentos principales; bolsillo frontal de gran formato, más organizador interior y bolsillo con cremallera
-- Compartimento de gran capacidad con mosquetón para impedir su apertura, alojamiento para portátil y tablet hasta 15, 6, bolsillo elástico y cintas para sujetar el equipaje
 - Compartimentos principales con forro interior y acolchados
+- Compartimento de gran capacidad con mosquetón para impedir su apertura, alojamiento para portátil y tablet hasta 15, 6, bolsillo elástico y cintas para sujetar el equipaje
 - Respaldo con compartimento oculto para hombreras con faldón cubre ruedas; asa de mano acolchada en la parte superior, base con ruedas silenciosas y doble pata
 - Bolsillo superior con asa extraible de 96 cm; de altura, regulable en 2 posiciones, con pulsador; cremalleras impermeables
 
