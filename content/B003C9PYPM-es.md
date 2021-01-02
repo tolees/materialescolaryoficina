@@ -25,10 +25,10 @@ Tienes [BIC Velleda – Rotulador para pizarra  color blanco  Pack de 2  –�
 
 🔎:
 
-- Estos 2 rotuladores Velleda 1721 de BIC tienen una punta fina compatible con pizarras y pizarras blancas Velleda.
 - Estos rotuladores escriben en negro: su tapa y su punta a juego con el color de la tinta, están aquí para recordarte.
-- Su olor neutro es perfecto para trabajos largos de escuela o uso en casa sin molestias.
 - Gracias a su tinta a base de cetona, se borran en seco muy fácilmente, incluso después de varios días.
 - Con una punta bloqueada y resistente, estos rotuladores Velleda son perfectamente adecuados para su uso por niños.
+- Su olor neutro es perfecto para trabajos largos de escuela o uso en casa sin molestias.
+- Estos 2 rotuladores Velleda 1721 de BIC tienen una punta fina compatible con pizarras y pizarras blancas Velleda.
 
 [Comprar!!!](https://www.amazon.es/dp/B003C9PYPM/?tag=tolees-21)
