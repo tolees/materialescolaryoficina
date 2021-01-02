@@ -25,8 +25,8 @@ Ahora mismo tienes [Samsonite XBR - Laptop Backpack 15.6" Mochila tipo casual  4
 
 🔎:
 
-- Mejora de la ergonomía con correas de hombro rediseñadas y asas suaves al tacto.
 - Ligereza, durabilidad, funcionalidad y resistencia.
+- Mejora de la ergonomía con correas de hombro rediseñadas y asas suaves al tacto.
 - Exclusivo compartimento para portátil Smart Fit, que se adapta fácilmente a diferentes tamaños de portátil.
 - Sistema de protección Laptop Pillow con tecnología de absorción de impactos.
 
