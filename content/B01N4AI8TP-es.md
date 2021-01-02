@@ -25,10 +25,10 @@ En este momento está [Apli Paper Ref. 14550 Puzzle Mapa Mundi Martina Hogan](ht
 
 🔎:
 
-- Para niños de más de 3 años
-- Desarrolla la psicomotricidad fina y la concentración
 - Gracias a las ilustraciones de este puzzle, se le puede enseñar al niño el mapa mundi con sus continentes
-- Presentado en una práctica caja metálica
 - Producto ideal para aprender jugando
+- Para niños de más de 3 años
+- Presentado en una práctica caja metálica
+- Desarrolla la psicomotricidad fina y la concentración
 
 [Aquí!!!](https://www.amazon.es/dp/B01N4AI8TP/?tag=tolees-21)
