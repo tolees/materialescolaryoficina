@@ -25,8 +25,8 @@ Tienes [Leotec SketchBoard Eight - Pizarra electrónica Inteligente con lápiz  
 
 ℹ️:
 
-- Cuentan con un pequeño botón de borrado, basta con pulsarlo para borrar todo lo dibujado y comenzar de nuevo
 - Gracias a que utiliza una única pila para su funcionamiento del tipo CR2020, puede utilizarse de manera continuada aproximadamente unas 80.000 veces
+- Cuentan con un pequeño botón de borrado, basta con pulsarlo para borrar todo lo dibujado y comenzar de nuevo
 - Incorpora un extraordinario panel LCD de cristal líquido flexible con superficie táctil sobre el que tomar notas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00UDQXRKQ/?tag=tolees-21)
