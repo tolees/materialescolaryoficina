@@ -25,10 +25,10 @@ En este momento está [Movom Cactus Cartera Escolar Rosa 38x28x6 cms Poliéster]
 
 🔎:
 
-- Mochila bandolera de 38 cm x 28 cm x 6 cm fabricada en Poliéster
-- Compartimento principal con capacidad para transportar un portátil de hasta 14" pulgadas (34 cm alto x 24 cm ancho x 3 cm profundo) y todos los apuntes
 - De Joumma Bags
 - Bandolera ajustable para mayor comodidad y posibilidad de llevarla tipo maletín
 - Bolsillo trasero para llevar los gadgets, efectos personales o material escolar
+- Compartimento principal con capacidad para transportar un portátil de hasta 14" pulgadas (34 cm alto x 24 cm ancho x 3 cm profundo) y todos los apuntes
+- Mochila bandolera de 38 cm x 28 cm x 6 cm fabricada en Poliéster
 
 [Aquí!!!](https://www.amazon.es/dp/B07P163TRR/?tag=tolees-21)
