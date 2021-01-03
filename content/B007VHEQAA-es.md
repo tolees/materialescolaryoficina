@@ -25,9 +25,9 @@ Ahora mismo tienes [Paper Mate S0959910 - Pack de 12 bolígrafos  color negro](h
 
 🔎:
 
-- Adecuado para una escritura sin esfuerzo
-- Sistema de tinta que se inicia rápidamente sin arrastrar
-- Forma hexagonal para una mayor comodidad y una mejor verificación de escritura
 - Con asa de goma ergonómica para comodidad y control de escritura
+- Sistema de tinta que se inicia rápidamente sin arrastrar
+- Adecuado para una escritura sin esfuerzo
+- Forma hexagonal para una mayor comodidad y una mejor verificación de escritura
 
 [Visítala!!!](https://www.amazon.es/dp/B007VHEQAA/?tag=tolees-21)
