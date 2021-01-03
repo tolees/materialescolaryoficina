@@ -25,10 +25,10 @@ En este momento está [Manfrotto MFMBBP-D1 - Mochila profesional para drones DJI
 
 🔎:
 
-- Con espacio específico para portátil de 17" y tablet
 - Para transportar un drone con sus accesorios, cámara adicional y trípode
-- Específica para los distintos modelos DJI Phantom con sus accesorios
-- Se puede transportar el drone sin desmontar las aspas, simplemente abriendo la cremallera central
 - Compartimento para Drone: 30 x 16 x 41 cm
+- Se puede transportar el drone sin desmontar las aspas, simplemente abriendo la cremallera central
+- Con espacio específico para portátil de 17" y tablet
+- Específica para los distintos modelos DJI Phantom con sus accesorios
 
 [Aquí!!!](https://www.amazon.es/dp/B018WJUW8A/?tag=tolees-21)
