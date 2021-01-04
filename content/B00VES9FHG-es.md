@@ -25,11 +25,11 @@ Tienes [Lenovo Pen Pro - Lápiz para tablet  20 g  73 mm  219 mm  43 mm   Negro]
 
 🔎:
 
-- Diseñado para dispositivos con capacidad de pantalla táctil ThinkPad
-- Con 2048 niveles de sensibilidad a la presión
+- Alimentado por una batería AAAA
 - Diseño delgado y ligero
 - De color negro
 - Incluye un soporte de USB de la pluma de la caja
-- Alimentado por una batería AAAA
+- Diseñado para dispositivos con capacidad de pantalla táctil ThinkPad
+- Con 2048 niveles de sensibilidad a la presión
 
 [Comprar!!!](https://www.amazon.es/dp/B00VES9FHG/?tag=tolees-21)
