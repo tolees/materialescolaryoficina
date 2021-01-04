@@ -25,8 +25,8 @@ Ahora mismo tienes [Case Logic RBP217 - Mochila para Ordenador portátil](https:
 
 🔎:
 
-- Materiales de calidad
-- Espacio para portátil y tablet
 - Cremalleras duraderas
+- Espacio para portátil y tablet
+- Materiales de calidad
 
 [Visítala!!!](https://www.amazon.es/dp/B008OFNWQ2/?tag=tolees-21)
