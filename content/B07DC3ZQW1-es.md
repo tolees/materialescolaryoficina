@@ -25,9 +25,9 @@ Está [XP-PEN Deco 02 Tableta de Dibujo Gráfico con P06 Lápiz Pasivo sin Bater
 
 ℹ️:
 
-- nuevos de Type C Conector USB de la nueva Type C Conector USB permite un fácil de enchufar y enchufar. el aumenta la vida útil y ofrece más estabilidad.
 - compatible con la mayoría de los sistemas operativos y aplicaciones El Deco 02 tableta es compatible con Windows 10/8/7, Mac OS 10.8 x o superior; El Deco 02 Tablet es compatible con todos los habituales gráficos aplicaciones como Photoshop, Adobe Illustrator, SAI, Painter, CDR, clip Studio, etc.
 - El nuevo anillo multifunción El nuevo anillo multifunción del deco 02 tabletas gráficas es ahora en la mediados colocado, lo que lo hace para zurdos y diestros como es alcanzable. gira la rueda en ambas direcciones para realizar ajustes y sin esfuerzo en tu área de trabajo poder navegar.
 - portátil y duradero diseño La 10 x 5.63 cm superficie de dibujo activa ofrece suficiente espacio para dibujar, pintar y obras creativas. el Deco 02 gráficos bandeja es sólo 9 mm de grosor y así también muy fácil, y también es gracias a nuestra caracteres de recubrimientos menos susceptible a arañazos.
+- nuevos de Type C Conector USB de la nueva Type C Conector USB permite un fácil de enchufar y enchufar. el aumenta la vida útil y ofrece más estabilidad.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC3ZQW1/?tag=tolees-21)
