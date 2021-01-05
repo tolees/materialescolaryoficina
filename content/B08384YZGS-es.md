@@ -25,8 +25,8 @@ Tienes [Hurley U Bloke Solid Backpack Mochila  Hombre  Pacific Blue  1SIZE](http
 
 🔎:
 
-- Compartimento principal grande
 - 100% poliéster
+- Compartimento principal grande
 - Bolsillo amplio con organizador interno en la parte delantera para ofrecer más espacio
 
 [Comprar!!!](https://www.amazon.es/dp/B08384YZGS/?tag=tolees-21)
