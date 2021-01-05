@@ -25,8 +25,8 @@ Tienes [Fjallraven Kånken No. 2 Laptop 15" Backpack  Unisex Adulto  Acorn  OneS
 
 🔎:
 
-- Classic backpack 
 - With a Padded Compartiment for a laptop computer
 - Padded shoulder straps
+- Classic backpack 
 
 [Comprar!!!](https://www.amazon.es/dp/B07D4LGRLB/?tag=tolees-21)
