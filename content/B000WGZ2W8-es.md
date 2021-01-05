@@ -25,10 +25,10 @@ En este momento está [Staedtler NORIS CLUB 550 01  compás escolar de precisió
 
 🔎:
 
-- Su adaptador universal permite crear círculos precisos con todos los instrumentos de escritura y dibujo.
 - De color azul y plateado, viene en un estuche de plástico transparente con tapa abatible.
-- Longitud de 156 mm. Su diámetro máximo es de 260 mm. y, con alargadera, 395 mm aproximadamente.
+- Su adaptador universal permite crear círculos precisos con todos los instrumentos de escritura y dibujo.
 - Se ajusta fácilmente gracias a su rueda central y mecanismo de ajuste rápido.
 - Aguja y minas intercambiables. Aguja roma para prevenir lesiones. Las patas articuladas facilitan el dibujo de radios grandes.
+- Longitud de 156 mm. Su diámetro máximo es de 260 mm. y, con alargadera, 395 mm aproximadamente.
 
 [Aquí!!!](https://www.amazon.es/dp/B000WGZ2W8/?tag=tolees-21)
