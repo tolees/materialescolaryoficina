@@ -25,10 +25,10 @@ En este momento está [Herschel Retreat Backpack - Mochila casual unisex  Azul  
 
 🔎:
 
-- Contoured shoulder straps
-- Signature striped fabric liner
-- External sleeve pocket
 - Fully padded and fleece lined 15" laptop sleeve
+- Signature striped fabric liner
+- Contoured shoulder straps
 - Reinforced bottom
+- External sleeve pocket
 
 [Aquí!!!](https://www.amazon.es/dp/B00B2ED5H8/?tag=tolees-21)
