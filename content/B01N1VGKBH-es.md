@@ -25,8 +25,8 @@ Está [FJÄLLRÄVEN Kånken Mini Mochila  Unisex Adulto  Verde/Chess Pattern  29
 
 ℹ️:
 
-- Tejido vinilo muy resistente
-- Mochila clásica modelo Kanken mini
 - Ideal para uso diario
+- Mochila clásica modelo Kanken mini
+- Tejido vinilo muy resistente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N1VGKBH/?tag=tolees-21)
