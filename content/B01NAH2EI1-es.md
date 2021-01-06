@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apli Paper Ref. 14534 Juego de Gomets de al 21.95 % de descuento'
-date: 2021-01-05 06:26:30
+date: 2021-01-06 12:41:10
 image: 'https://m.media-amazon.com/images/I/518Nt9-GmAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Apli Paper Ref. 14534 Juego de Gomets design by Martina Hogan](https://ww
 
 ℹ️:
 
+- Desarrolla la coordinación óculo-manual y la visión espacial
 - Juego compuesto de 16 hojas a cumplimentar y 12 hojas de gomets removibles
 - Estimula la psicomotricidad fina
-- El niño debe cumplimentar los dibujos con gomets
 - Cada figura indica las formas y colores de gomets necesarios para acabar el dibujo
-- Desarrolla la coordinación óculo-manual y la visión espacial
+- El niño debe cumplimentar los dibujos con gomets
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NAH2EI1/?tag=tolees-21)
