@@ -25,10 +25,10 @@ En este momento está [BIC Cristal Original Bolígrafos Punta Media  1 0 mm  - A
 
 🔎:
 
-- The classic BIC Cristal Original pen is the world’s best-selling ballpoint pen and this box of 50 contains all blue Biro pens
-- The super-durable BIC Cristal Original pen has enough blue ink to write for an average of 3 km
 - The medium 1.0 mm point glides across the page with unmatched comfort for smooth smudge-free writing
 - Efficient design thats simple and trusted. Includes a clear barrel for checking your ink level
+- The super-durable BIC Cristal Original pen has enough blue ink to write for an average of 3 km
 - Made with minimal materials and proudly certified by the NF Environnement eco-label
+- The classic BIC Cristal Original pen is the world’s best-selling ballpoint pen and this box of 50 contains all blue Biro pens
 
 [Aquí!!!](https://www.amazon.es/dp/B000I5VY8Y/?tag=tolees-21)
