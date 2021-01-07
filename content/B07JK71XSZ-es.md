@@ -25,9 +25,9 @@ Está [TOTTO Estuches Escolares  Estuches Tres compartimientos  Estampados - Est
 
 ℹ️:
 
-- El estuche Tablero incorpora:-Tres compartimentos-Tejido en poliéster de alta densidad-Tiradores ergonómicos en PVC
 - Práctico y funcional, el estuche escolar Tablero es perfecto para llevar todos los materiales a clase de forma ordenada y sin ocupar demasiado espacio gracias a su diseño compacto. Disponible en varios colores ¡elige tu favorito!
-- Estuche escolar tres compartimentos - Tablero
 - Alto: 11,00 cm Ancho: 22,00 cm Profundidad: 3,50 cm
+- Estuche escolar tres compartimentos - Tablero
+- El estuche Tablero incorpora:-Tres compartimentos-Tejido en poliéster de alta densidad-Tiradores ergonómicos en PVC
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JK71XSZ/?tag=tolees-21)
