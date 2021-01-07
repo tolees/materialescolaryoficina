@@ -25,10 +25,10 @@ Ahora mismo tienes [Mochila Pepe Jeans Malila  Azul  31x42x17.5 cm](https://www.
 
 🔎:
 
-- Mochila de 31 cm x 42 cm x 17,5 cm fabricada en poliéster
+- De joumma bags
 - Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda y banda trasera para adaptar la mochila a un carro opcional o llevarla enganchada a la maleta
 - Bolsillo frontal de cremallera para acceder fácilmente a los accesorios y los gadgets
+- Mochila de 31 cm x 42 cm x 17,5 cm fabricada en poliéster
 - Con salida para auriculares y puerto usintegrado con cable para conectar a una batería externa
-- De joumma bags
 
 [Visítala!!!](https://www.amazon.es/dp/B084R2T2RS/?tag=tolees-21)
