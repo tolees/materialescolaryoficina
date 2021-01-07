@@ -25,14 +25,14 @@ Tienes [Loctite Super Glue-3 Original Mini Trio  pegamento universal con triple 
 
 🔎:
 
-- Máxima fuerza de unión
-- Multimateriales – Loctite Super Glue-3 Original Mini Trio sirve como pegamento rápido para metal, porcelana, plástico*, caucho, cuero*, madera y mármol
-- Envío y detalles – Loctite Super Glue-3 Original Mini Trio, tubo de adhesivo universal líquido, muy resistente gracias a su nueva fórmula transparente, 3x1 g tubo, n.º artículo: 2229418
-- Triple resistencia – La nueva fórmula del adhesivo impermeable con triple resistencia es resistente al agua y al lavavajillas, a los impactos, y a temperaturas extremas
-- Nueva fórmula resistente al agua
-- Práctico envase de una dosis
 - Producto siempre fresco listo para utilizar
-- Antiobstrucción – Este pegamento fuerte, transparente e instantáneo tiene un tapón antiobstrucción. Ideal para que tu adhesivo multiusos siempre esté preparado
+- Envío y detalles – Loctite Super Glue-3 Original Mini Trio, tubo de adhesivo universal líquido, muy resistente gracias a su nueva fórmula transparente, 3x1 g tubo, n.º artículo: 2229418
 - Con solo una gota – Este pegamento líquido, transparente e instantáneo se aplica con tan solo una gota en superficies limpias y secas. Se seca en solo 3 segundos
+- Práctico envase de una dosis
+- Antiobstrucción – Este pegamento fuerte, transparente e instantáneo tiene un tapón antiobstrucción. Ideal para que tu adhesivo multiusos siempre esté preparado
+- Triple resistencia – La nueva fórmula del adhesivo impermeable con triple resistencia es resistente al agua y al lavavajillas, a los impactos, y a temperaturas extremas
+- Multimateriales – Loctite Super Glue-3 Original Mini Trio sirve como pegamento rápido para metal, porcelana, plástico*, caucho, cuero*, madera y mármol
+- Nueva fórmula resistente al agua
+- Máxima fuerza de unión
 
 [Comprar!!!](https://www.amazon.es/dp/B00BFXVJ4C/?tag=tolees-21)
