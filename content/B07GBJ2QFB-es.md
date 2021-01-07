@@ -25,8 +25,8 @@ Ahora mismo tienes [Black Diamond Mission 35 Mochila  Unisex adulto  Cobalt-Blac
 
 🔎:
 
-- Hidratación compatible
 - Diseño desmontable: cinturón extraíble con cinturón de cincha fijo y sábana extraíble
 - Carga superior, con tapa extraíble, cierre de falda con cordón de ajuste y correa de cuerda oculta
+- Hidratación compatible
 
 [Visítala!!!](https://www.amazon.es/dp/B07GBJ2QFB/?tag=tolees-21)
