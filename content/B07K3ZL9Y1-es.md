@@ -25,10 +25,10 @@ Está [dPois Leggings Niña Leggings Cintura Elástica Pantalones Largos de Láp
 
 ℹ️:
 
+- Perfecto para fiestas de cumpleaños, actuaciones, disfraces, concursos de baile y cualquier otra ocasión especial.
+- Leggings Wet look Stretchy style para niña chica.
+- La Tabla de tallas significa rangos de edad para las niñas, pero son solo para orientación general.
 - Cintura elástica ofrece buena elasticidad. Tejido suave y liso, cómodo de llevar.
 - Los colores metálicos brillantes se pueden combinar con cualquier color superior y tienen ese look de moda y atuendo elegante.
-- La Tabla de tallas significa rangos de edad para las niñas, pero son solo para orientación general.
-- Leggings Wet look Stretchy style para niña chica.
-- Perfecto para fiestas de cumpleaños, actuaciones, disfraces, concursos de baile y cualquier otra ocasión especial.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07K3ZL9Y1/?tag=tolees-21)
