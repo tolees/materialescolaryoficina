@@ -25,9 +25,9 @@ Está [American Tourister Upbeat - Mochila  42.5 cm  19.5 L  Rosa  Pink Gelato  
 
 ℹ️:
 
-- Incluye soporte para botellas.
-- Mochila: 29 x 19 x 42 cm. 5 cm - 19. 5 l: 0,40 kg.
 - Correas ergonómicas para los hombros.
+- Mochila: 29 x 19 x 42 cm. 5 cm - 19. 5 l: 0,40 kg.
+- Incluye soporte para botellas.
 - Diseño urbano de moda con detalles de color llamativos.
 - Tejido impermeable.
 
