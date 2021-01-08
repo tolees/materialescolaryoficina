@@ -25,9 +25,9 @@ Está [Caja metálica 36 lápices de colores con mina grande Ø3 5 mm 213  multi
 
 ℹ️:
 
-- Lápices hexagonales con mina 3.5 mm, resistente a la rotura
 - LPS (Lead protection system) es el sistema de protección de la mina, que aumenta su resistencia
-- Estuche de metal
+- Lápices hexagonales con mina 3.5 mm, resistente a la rotura
 - 36 lápices de colore surtidos
+- Estuche de metal
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004TOI6ZY/?tag=tolees-21)
