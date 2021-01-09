@@ -25,10 +25,10 @@ Tienes [Marcador STABILO BOSS ORIGINAL Pastel - Estuche con 4 colores pastel  ro
 
 ℹ️:
 
+- Tecnología stabilo anti-secado hasta 4 horas destapado sin secarse
+- Marcador fluorescente y diseño clásico desde 1975
 - Tinta con base de agua
 - Tinta de alta calidad y comodidad de escritura
-- Tecnología stabilo anti-secado hasta 4 horas destapado sin secarse
 - Disponible en 9 colores neón y 10 colores pastel
-- Marcador fluorescente y diseño clásico desde 1975
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081TMBL5R/?tag=tolees-21)
