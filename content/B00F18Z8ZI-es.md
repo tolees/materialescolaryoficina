@@ -25,8 +25,8 @@ En este momento está [Fjällräven Kånken No. 2 Mochila de senderismo  Unisex 
 
 🔎:
 
-- Classic backpack 
-- With Handle and details in leather
 - Large main pocket, frontal pocket and Padded Sitting PAD
+- With Handle and details in leather
+- Classic backpack 
 
 [Aquí!!!](https://www.amazon.es/dp/B00F18Z8ZI/?tag=tolees-21)
