@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Descuento del 31.26 % en Samsonte Hexa-Packs - Mochila para portá'
-date: 2020-11-24 12:01:50
+title: 'Samsonte Hexa-Packs - Mochila para portá con un 50.00 % de descuento'
+date: 2021-01-10 18:42:37
 image: 'https://m.media-amazon.com/images/I/31RLYH17CyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07N9NPHC8-es'
-actualPrice: 81.8 EUR
+actualPrice: 59.5 EUR
 currency: EUR
-price: 81.8
+price: 59.5
 comparePrice: 119.0 EUR
 prodname: 'Samsonte Hexa-Packs - Mochila para portátil  Azul  Shadow Blue .  Azul  - 116874/1791'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N9NPHC8/?tag=tolees-21'
-descuento: '31.26'
+descuento: '50.00'
+average: '70.64999999999999'
 ---
 
-Tienes [Samsonte Hexa-Packs - Mochila para portátil  Azul  Shadow Blue .  Azul  - 116874/1791](https://www.amazon.es/dp/B07N9NPHC8/?tag=tolees-21) con un 31.26 % de descuento con precio de oferta de 81.8 EUR (original: 119.0 EUR) en el siguiente enlace!
+En este momento está [Samsonte Hexa-Packs - Mochila para portátil  Azul  Shadow Blue .  Azul  - 116874/1791](https://www.amazon.es/dp/B07N9NPHC8/?tag=tolees-21) a 59.5 EUR (original: 119.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Samsonte Hexa-Packs - Mochila para portá](https://m.media-amazon.com/images/I/31RLYH17CyL._SL200_.jpg)](https://www.amazon.es/dp/B07N9NPHC8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Dimensiones: 33 x 17 x 50 cm - 22 L - 1 kg. Compartimento para portátil 15.6\".
+- Todos los modelos ofrecen una organización interior bien equipada que incluye una zona para el portátil y funda para la tablet
+- Los pack Day, Sports y Travel cuentan con un conector para el cargador en la parte superior y cintas de compresión de fácil acceso para un ajuste del tamaño óptimo
+- Solapa práctica integrada en el pack Work y pack Travel
+- Exterior fabricado de material diseñado 100% a partir de botellas de plástico PET recicladas
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07N9NPHC8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07N9NPHC8/?tag=tolees-21)
