@@ -25,9 +25,9 @@ Tienes [3 Claveles 152 Tijeras Electricistas Clásica  Aislante  Acero de Carbon
 
 🔎:
 
-- Tijera electricista forjada en caliente
-- Material: acero carbono
-- Mayor resistencia a la oxidación gracias al acabado en níquel
 - Mangos aislantes en PVC
+- Tijera electricista forjada en caliente
+- Mayor resistencia a la oxidación gracias al acabado en níquel
+- Material: acero carbono
 
 [Comprar!!!](https://www.amazon.es/dp/B00C5J5MD4/?tag=tolees-21)
