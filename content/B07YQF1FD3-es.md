@@ -25,9 +25,9 @@ En este momento está [Kipling Cute Mochila Escolar  Azul  Statement ](https://w
 
 🔎:
 
-- Declaración
-- Bonito.
 - KI333057N
+- Bonito.
 - Estuches.
+- Declaración
 
 [Aquí!!!](https://www.amazon.es/dp/B07YQF1FD3/?tag=tolees-21)
