@@ -25,8 +25,8 @@ Ahora mismo tienes [Pentel SES15C Brush Sign Pen rotulador punta fibra flexible 
 
 🔎:
 
-- Punta flexible de fibra para trazos gruesos y finos con una sola herramienta.
 - Tinta a base de agua.
+- Punta flexible de fibra para trazos gruesos y finos con una sola herramienta.
 - 12 colores brillantes (negro, rojo, azul, verde, marrón, naranja, amarillo, gris, rosa, azul, morado, ocra).
 - Ideal para letreros, ilustraciones, caligrafía y para hacer bocetos y bocetos.
 - Producto fabricado con un 82% de material reciclado (excepto piezas consumibles y/o de repuesto).
