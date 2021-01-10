@@ -25,8 +25,8 @@ Tienes [Kipling City Pack Medium Backpack Mochila  18.5x32x37 cm  LxWxH   Grey G
 
 ℹ️:
 
+- Para mujer
 - Classics
 - Mochila
-- Para mujer
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B083YCV5VF/?tag=tolees-21)
