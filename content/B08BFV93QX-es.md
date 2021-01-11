@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Depesche- Libro para Colorear con Lentej con un 53.46 % de descuento'
-date: 2020-12-30 21:24:32
+date: 2021-01-11 13:42:54
 image: 'https://m.media-amazon.com/images/I/519H3iHE7FL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ En este momento está [Depesche- Libro para Colorear con Lentejuelas  Fantasy Mo
 
 🔎:
 
-- Práctica encuadernación de anillas para facilitar las hojas.
-- Tamaño: aprox. 20,5 x 24 x 1,5 cm.
+- Diseño: Fantasy Model Mermaid
+- Tamaño: aprox. 20,5 x 24 x 1,5 cm
 - Libro para colorear con cola de sirena para niñas
-- Diseño: Fantasy Model Mermaid.
-- Con muchas pegatinas y plantillas.
+- Práctica encuadernación de anillas para facilitar las hojas
+- Con muchas pegatinas y plantillas
 
 [Aquí!!!](https://www.amazon.es/dp/B08BFV93QX/?tag=tolees-21)
