@@ -26,8 +26,8 @@ Tienes [Pentel Superb Negro  Azul  Verde  Rosa  Rojo  Violeta 6pieza s  - Bolíg
 🔎:
 
 - Con casquillo
-- Paquete de 6 unidades
 - Ancho de línea de 0.7 mm
+- Paquete de 6 unidades
 - Con cuerpo transparente para el control inmediato de la alimentación de tinta
 - Colores surtidos: negro, azul, verde, rosa, rojo, violeta
 

@@ -25,8 +25,8 @@ Tienes [Pentel 100526 - Juego de ceras pastel al aceite  50 unidades   multicolo
 
 ℹ️:
 
-- Se diluye con aguarrás de alcoholes minerales
 - Colores opacos intensivos para papel y cartón, así como madera, lino o arcilla
+- Se diluye con aguarrás de alcoholes minerales
 - Punto tipográfico medio
 - Paquete de 50 unidades
 
