@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Staedtler NORIS CLUB 550 01  compás esco con un 32.55 % de descuento'
-date: 2021-01-05 13:45:26
+date: 2021-01-11 19:12:12
 image: 'https://m.media-amazon.com/images/I/41Nt9YpvxxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000WGZ2W8/?tag=tolees-21'
 descuento: '32.55'
-average: '10.98695652173913'
+average: '10.867199999999999'
 ---
 
 En este momento está [Staedtler NORIS CLUB 550 01  compás escolar de precisión con rueda de ajuste](https://www.amazon.es/dp/B000WGZ2W8/?tag=tolees-21) a 9.49 EUR (original: 14.07 EUR) (32.55 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ En este momento está [Staedtler NORIS CLUB 550 01  compás escolar de precisió
 
 🔎:
 
+- Longitud de 156 mm. Su diámetro máximo es de 260 mm. y, con alargadera, 395 mm aproximadamente.
 - Aguja y minas intercambiables. Aguja roma para prevenir lesiones. Las patas articuladas facilitan el dibujo de radios grandes.
 - Se ajusta fácilmente gracias a su rueda central y mecanismo de ajuste rápido.
 - Su adaptador universal permite crear círculos precisos con todos los instrumentos de escritura y dibujo.
-- Longitud de 156 mm. Su diámetro máximo es de 260 mm. y, con alargadera, 395 mm aproximadamente.
 - De color azul y plateado, viene en un estuche de plástico transparente con tapa abatible.
 
 [Aquí!!!](https://www.amazon.es/dp/B000WGZ2W8/?tag=tolees-21)
