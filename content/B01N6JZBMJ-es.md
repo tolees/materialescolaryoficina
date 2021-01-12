@@ -25,9 +25,9 @@ Está [Fjallraven Kånken No. 2 Mini Backpack  Unisex Adulto  Deep Red  OneSize]
 
 ℹ️:
 
-- Tipo de fábrica: 65% Polyester, 35% Cotton
-- Classic mini backpack
 - Large main pocket, frontal pocket and Padded Sitting PAD
+- Classic mini backpack
 - With Handle and details in leather
+- Tipo de fábrica: 65% Polyester, 35% Cotton
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6JZBMJ/?tag=tolees-21)
