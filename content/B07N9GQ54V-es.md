@@ -25,10 +25,10 @@ Tienes [Samsonite Hexa-Packs - Mochila para portátil  Lila  berenjena ](https:/
 
 🔎:
 
+- Dimensiones: 31 x 16 x 43 cm - 16 L - 0,70 kg
 - Todos los modelos ofrecen una organización interior bien equipada que incluye una zona para el portátil y funda para la tablet
 - Exterior fabricado de material diseñado 100% a partir de botellas de plástico PET recicladas
-- Los pack Day, Sports y Travel cuentan con un conector para el cargador en la parte superior y cintas de compresión de fácil acceso para un ajuste del tamaño óptimo
 - Compartimento para portátil 14\"
-- Dimensiones: 31 x 16 x 43 cm - 16 L - 0,70 kg
+- Los pack Day, Sports y Travel cuentan con un conector para el cargador en la parte superior y cintas de compresión de fácil acceso para un ajuste del tamaño óptimo
 
 [Comprar!!!](https://www.amazon.es/dp/B07N9GQ54V/?tag=tolees-21)
