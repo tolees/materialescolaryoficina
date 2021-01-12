@@ -25,10 +25,10 @@ Está [NIKE Brasilia - Mochila de entrenamiento  Unisex  Mochila  BA5892  Rojo/A
 
 ℹ️:
 
-- Dimensiones: la mochila ligera es de 48 cm de alto x 33 cm de ancho x 17 cm de profundidad y viene en una variedad de colores divertidos para adaptarse a tu estilo de vida en movimiento.
-- Mochila extragrande: la mochila Nike tiene un compartimento principal grande con doble cremallera para un almacenamiento seguro, y bolsillos laterales perfectos para sostener una botella de agua vertical durante el transporte.
 - Amplio almacenamiento: con una funda interna acolchada para almacenar de forma segura tu portátil y un bolsillo con cremallera en la parte delantera para un almacenamiento de fácil acceso, esta mochila grande es perfecta como mochila escolar, mochila de viaje y mucho más.
 - Mochila resistente al agua: mantén el equipo en tu mochila seco mientras estás en movimiento, con su revestimiento resistente al agua.
+- Mochila extragrande: la mochila Nike tiene un compartimento principal grande con doble cremallera para un almacenamiento seguro, y bolsillos laterales perfectos para sostener una botella de agua vertical durante el transporte.
 - Diseño cómodo: lleva tu mochila Nike en tu espalda con sus cómodas correas acolchadas para los hombros o lleva la mochila utilizando su bucle de transporte en la parte superior para una opción alternativa.
+- Dimensiones: la mochila ligera es de 48 cm de alto x 33 cm de ancho x 17 cm de profundidad y viene en una variedad de colores divertidos para adaptarse a tu estilo de vida en movimiento.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07H2WV6B6/?tag=tolees-21)
