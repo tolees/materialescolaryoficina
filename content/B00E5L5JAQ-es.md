@@ -25,14 +25,14 @@ Tienes [Loctite Super Glue-3 Precisión  pegamento transparente de máxima preci
 
 ℹ️:
 
-- Fácil regulación del goteo que permite obtener una precisión absoluta
-- Fácil regulación de goteo – Este pegamento universal y líquido en botella es de fácil administración gracias a la boquilla que permite una precisión absoluta.
-- Especialmente indicado para un uso frecuente
-- Aplicaciones precisas – Este pegamento fuerte con regulación gota a gota cuenta con una boquilla extra larga que permite llegar a los rincones de más difícil acceso.
-- Envío y detalles – Loctite Super Glue-3 Precisión, botella de pegamento líquido universal muy preciso con nueva fórmula de etilcianoacrilato, transparente, 1x10 g botella, n.º artículo: 2056072
 - Nueva fórmula resistente al agua
 - Fuerza máxima – El pegamento rápido con una fuerza de unión máxima pega en 3 segundos todo tipo de materiales, como porcelana, madera, plástico*, metal, goma o cuero*.
-- Triple resistencia – Este adhesivo impermeable y transparente ofrece triple resistencia: es resistente al lavavajillas, a los impactos y a temperaturas extremas.
+- Envío y detalles – Loctite Super Glue-3 Precisión, botella de pegamento líquido universal muy preciso con nueva fórmula de etilcianoacrilato, transparente, 1x10 g botella, n.º artículo: 2056072
+- Especialmente indicado para un uso frecuente
+- Fácil regulación del goteo que permite obtener una precisión absoluta
+- Fácil regulación de goteo – Este pegamento universal y líquido en botella es de fácil administración gracias a la boquilla que permite una precisión absoluta.
 - Boquilla extra larga que permite llegar a los rincones de más difícil acceso
+- Triple resistencia – Este adhesivo impermeable y transparente ofrece triple resistencia: es resistente al lavavajillas, a los impactos y a temperaturas extremas.
+- Aplicaciones precisas – Este pegamento fuerte con regulación gota a gota cuenta con una boquilla extra larga que permite llegar a los rincones de más difícil acceso.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00E5L5JAQ/?tag=tolees-21)

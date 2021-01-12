@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell 4257890 TC-EN 20 E - Grapadora E con un 33.39 % de descuento'
-date: 2021-01-10 13:52:19
+date: 2021-01-12 16:43:49
 image: 'https://m.media-amazon.com/images/I/41Nera0uFeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y6JR88L/?tag=tolees-21'
 descuento: '33.39'
-average: '20.741379310344826'
+average: '20.69032258064516'
 ---
 
 En este momento está [Einhell 4257890 TC-EN 20 E - Grapadora Electrica Potencia  240 V  20 disparos por minuto  longitud de grapa 6-14 mm  longitud de clavo 14 mm  incluidas 1000 grapas y 500 clavos](https://www.amazon.es/dp/B06Y6JR88L/?tag=tolees-21) a 19.95 EUR (original: 29.95 EUR) (33.39 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ En este momento está [Einhell 4257890 TC-EN 20 E - Grapadora Electrica Potencia
 
 🔎:
 
-- Anchura de la grapa de 11.4 mm
-- Longitud de grapa de 6 - 14 mm
 - Golpes por minuto: 30
-- Longitud de la grapa 14 mm
+- Longitud de grapa de 6 - 14 mm
 - Regulación electrónica de la potencia de impacto
+- Longitud de la grapa 14 mm
+- Anchura de la grapa de 11.4 mm
 
 [Aquí!!!](https://www.amazon.es/dp/B06Y6JR88L/?tag=tolees-21)
