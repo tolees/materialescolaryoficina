@@ -28,7 +28,7 @@ En este momento está [Pentel PG1015 - Portaminas 0.5mm](https://www.amazon.es/d
 - Ideal para escritura general o dibujo técnico por su boquilla de 4 mm
 - Portaminas retráctil metálico calibrado de lujo con cuerpo en acero mate muy funcional. Sujeción estriada y con bolitas de caucho para dibujar o escribir sin fatiga. Ideal para escritura general o dibujo técnico por su boquilla de 4 mm. La boquilla se retrae apretando la parte superior del clip. Indicador de dureza de mina. Contiene 2 minas Super Hi-Polymer HB de 0,5mm de grosor y un borrador Z2-1N.
 - Portaminas retráctil metálico calibrado de lujo con cuerpo en acero mate muy funcional
-- La boquilla se retrae apretando la parte superior del clip
 - Sujeción estriada y con bolitas de caucho para dibujar o escribir sin fatiga
+- La boquilla se retrae apretando la parte superior del clip
 
 [Aquí!!!](https://www.amazon.es/dp/B001E3GUBK/?tag=tolees-21)
