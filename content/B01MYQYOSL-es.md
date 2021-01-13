@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rotulador puntafina STABILO point 88 - E al 36.59 % de descuento'
-date: 2021-01-13 21:59:58
+date: 2021-01-13 22:00:17
 image: 'https://m.media-amazon.com/images/I/41Dq6qt0sTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYQYOSL/?tag=tolees-21'
 descuento: '36.59'
-average: '5.66375'
+average: '5.662941176470588'
 ---
 
 Está [Rotulador puntafina STABILO point 88 - Estuche con 8 colores pastel](https://www.amazon.es/dp/B01MYQYOSL/?tag=tolees-21) con 36.59 de descuento por 5.65 EUR (original: 8.91 EUR) en el siguiente enlace!
@@ -26,8 +26,8 @@ Está [Rotulador puntafina STABILO point 88 - Estuche con 8 colores pastel](http
 ℹ️:
 
 - Marca : stabilo
-- De alta calidad
 - Tipo : de fibra
+- De alta calidad
 - Trazo : 0,4 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MYQYOSL/?tag=tolees-21)

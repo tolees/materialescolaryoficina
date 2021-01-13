@@ -25,8 +25,8 @@ Ahora mismo tienes [Huawei 51994014 - Matebook Mochila Swift  Gris  425 x 300 x 
 
 🔎:
 
+- Estilo y portabilidad; protección efectiva
 - Imagen moderna y juvenil
 - Protege tu portátil Matebook mientras lo llevas; universal y compatible con HUAWEI Matebook X Series/E/D Series/Matebook Series
-- Estilo y portabilidad; protección efectiva
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086QHWV7D/?tag=tolees-21)
