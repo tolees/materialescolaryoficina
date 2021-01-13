@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Casio FX-570ES PLUS - Calculadora cientí al 25.91 % de rebaja'
+date: 2020-02-29 09:38:41
+image: 'https://m.media-amazon.com/images/I/41dSZRrjmML._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B0009FTXWC-es'
+actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
+comparePrice: 26.98 EUR
+prodname: 'Casio FX-570ES PLUS - Calculadora científica 80 x 162 x 13.8 mm  plata/azul'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B0009FTXWC/?tag=tolees-21'
+descuento: '25.91'
+average: '19.25'
+---
+
+Tienes [Casio FX-570ES PLUS - Calculadora científica 80 x 162 x 13.8 mm  plata/azul](https://www.amazon.es/dp/B0009FTXWC/?tag=tolees-21) con precio final de  19.99 EUR (original: 26.98 EUR) (25.91 %  de rebaja) aqui!
+
+[![Casio FX-570ES PLUS - Calculadora cientí](https://m.media-amazon.com/images/I/41dSZRrjmML._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0009FTXWC/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B0009FTXWC/?tag=tolees-21)

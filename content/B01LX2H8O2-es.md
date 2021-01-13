@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Parker Urban 1931570 - Bolígrafo roller  al 47.11 % de descuento'
+date: 2020-01-30 22:39:40
+image: 'https://m.media-amazon.com/images/I/411P5iRerML._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B01LX2H8O2-es'
+actualPrice: 40.0 EUR
+currency: EUR
+price: 40.0
+comparePrice: 75.63 EUR
+prodname: 'Parker Urban 1931570 - Bolígrafo roller  morado oscuro  recambio de tinta negra para punta fina '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B01LX2H8O2/?tag=tolees-21'
+descuento: '47.11'
+average: '40.0'
+---
+
+Ahora mismo tienes [Parker Urban 1931570 - Bolígrafo roller  morado oscuro  recambio de tinta negra para punta fina ](https://www.amazon.es/dp/B01LX2H8O2/?tag=tolees-21) a 40.0 EUR (original: 75.63 EUR) (47.11 %  de descuento) en el siguiente enlace!
+
+[![Parker Urban 1931570 - Bolígrafo roller ](https://m.media-amazon.com/images/I/411P5iRerML._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LX2H8O2/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B01LX2H8O2/?tag=tolees-21)
