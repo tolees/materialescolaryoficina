@@ -25,10 +25,10 @@ Está [Elmer s - Pegamento líquido uso escolar Elmer  blanco  lavable  946 ml;
 
 ℹ️:
 
+- Podrás hacer slime de pegamento y personalizarlo con los colores que más te gusten
 - La suave fórmula ofrece una fantástica base para slime
+- El pegamento PVA es perfecto para papel, ropa y todo tipo de manualidades
 - Fijación perfecta para conseguir los mejores resultados
 - Lavable e indicado para uso infantil (no para niños menores de 3 años)
-- El pegamento PVA es perfecto para papel, ropa y todo tipo de manualidades
-- Podrás hacer slime de pegamento y personalizarlo con los colores que más te gusten
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077MBY6RH/?tag=tolees-21)
