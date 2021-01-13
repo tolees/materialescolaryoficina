@@ -25,9 +25,9 @@ Está [Smile - Mochila antirrobo The Rock para portátil de hasta 15 6 pulgadas 
 
 ℹ️:
 
+- La cremallera para abrir la mochila está oculta en la parte de la espalda.
 - Mochila escolar antirrobo para portátiles / tablets de hasta 15,6 pulgadas y sus accesorios.
 - La Mochila incluye: - 1 x Puerto USB - 1 x Cinta Para trolley
-- La cremallera para abrir la mochila está oculta en la parte de la espalda.
 - La parte trasera de la mochila es transpirable y está acolchada. El interior de esta mochila anti ladrones tambén está acolchado, y además compartimentado para que puedas llevar todos los accesorios que necesitas y siempre bien protegidos.
 - Fabricada el 100% en Polyester, el exterior está confeccionado en materiales resistentes e impermeables.
 - Esta mochila tiene una asa superior regulable y acolchada para poder colgar la mochila cuando lo necesites. También tiene dos bolsillos, uno frontal con cierre de cremallera, y uno posterior.
