@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI 11912 - Índices adhesivos  12 x 45  al 47.49 % de rebaja'
-date: 2021-01-07 06:53:23
+date: 2021-01-14 20:40:57
 image: 'https://m.media-amazon.com/images/I/41+U8OjkfdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007ORIYQ4/?tag=tolees-21'
 descuento: '47.49'
-average: '1.5214285714285716'
+average: '1.5322222222222224'
 ---
 
 Tienes [APLI 11912 - Índices adhesivos  12 x 45   film colores flúor](https://www.amazon.es/dp/B007ORIYQ4/?tag=tolees-21) con precio final de  1.57 EUR (original: 2.99 EUR) (47.49 %  de rebaja) aqui!
@@ -25,8 +25,8 @@ Tienes [APLI 11912 - Índices adhesivos  12 x 45   film colores flúor](https://
 
 🔎:
 
-- Colores: Azul flúor, verde flúor, amarillo flúor, naranja flúor y rosa flúor
 - Pack de 5 colores de índices film
 - Tamaño: 45 x 12 mm
+- Colores: Azul flúor, verde flúor, amarillo flúor, naranja flúor y rosa flúor
 
-[Comprar!!!](https://www.amazon.es/dp/B007ORIYQ4/?tag=tolees-21)
+[🛒 Comprar!!!](https://www.amazon.es/dp/B007ORIYQ4/?tag=tolees-21)
