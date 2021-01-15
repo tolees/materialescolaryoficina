@@ -25,10 +25,10 @@ En este momento está [Faber-Castell 117500 - Caja con 12 ecolápices bicolor gr
 
 🔎:
 
+- Mina protegida contra la rotura
 - Ecolápiz bicolor grueso Castell 873
-- Forma hexagonal, color rojo y azul
 - Para marcar y subrayar textos
 - Barniz ecológico a base de agua
-- Mina protegida contra la rotura
+- Forma hexagonal, color rojo y azul
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00563FZCY/?tag=tolees-21)
