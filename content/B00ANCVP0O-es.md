@@ -25,12 +25,12 @@ Tienes [HP - Calculadora científica 10S+](https://www.amazon.es/dp/B00ANCVP0O/?
 
 ℹ️:
 
-- Diseño sencillo y fácil de usar
-- Calculadora científica
-- Ideal para los exámenes: ajuste la cantidad de decimales a visualizar con el toque de un botón
-- Pantalla lineal; 5 x 6 puntos x 12 dígitos
-- Panel solar integrado en la parte frontal de la calculadora
 - Dimensiones: 7,72 x 1,5 x 14,7 cm
+- Diseño sencillo y fácil de usar
+- Panel solar integrado en la parte frontal de la calculadora
 - Amplia gama de funciones algebraicas, trigonométricas, de probabilidad y estadística para sus clases de matemáticas y ciencias
+- Pantalla lineal; 5 x 6 puntos x 12 dígitos
+- Ideal para los exámenes: ajuste la cantidad de decimales a visualizar con el toque de un botón
+- Calculadora científica
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ANCVP0O/?tag=tolees-21)
