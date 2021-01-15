@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 23.49 % en HP - Calculadora científica 10S+'
-date: 2021-01-14 11:58:55
+date: 2021-01-15 16:29:08
 image: 'https://m.media-amazon.com/images/I/416MPRVb-5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ANCVP0O/?tag=tolees-21'
 descuento: '23.49'
-average: '8.043999999999999'
+average: '8.128571428571428'
 ---
 
 Tienes [HP - Calculadora científica 10S+](https://www.amazon.es/dp/B00ANCVP0O/?tag=tolees-21) con un 23.49 % de descuento con precio de oferta de 8.34 EUR (original: 10.9 EUR) en el siguiente enlace!
@@ -26,11 +26,11 @@ Tienes [HP - Calculadora científica 10S+](https://www.amazon.es/dp/B00ANCVP0O/?
 ℹ️:
 
 - Diseño sencillo y fácil de usar
-- Pantalla lineal; 5 x 6 puntos x 12 dígitos
-- Amplia gama de funciones algebraicas, trigonométricas, de probabilidad y estadística para sus clases de matemáticas y ciencias
+- Calculadora científica
 - Ideal para los exámenes: ajuste la cantidad de decimales a visualizar con el toque de un botón
+- Pantalla lineal; 5 x 6 puntos x 12 dígitos
 - Panel solar integrado en la parte frontal de la calculadora
 - Dimensiones: 7,72 x 1,5 x 14,7 cm
-- Calculadora científica
+- Amplia gama de funciones algebraicas, trigonométricas, de probabilidad y estadística para sus clases de matemáticas y ciencias
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ANCVP0O/?tag=tolees-21)
