@@ -25,10 +25,10 @@ Ahora mismo tienes [APLI Kids - Bolsa de gomets cara feliz-2  3 hojas adhesivo r
 
 🔎:
 
-- Stickers conform to toy standard EN71-3.
-- Removable adhesive
+- Useful for teachers and parents
 - Sticks and removes without leaving marks.
 - Happy and sad face stickers
-- Useful for teachers and parents
+- Removable adhesive
+- Stickers conform to toy standard EN71-3.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0162EJBBG/?tag=tolees-21)
