@@ -26,9 +26,9 @@ En este momento está [Staedtler Noris 120S1 BK4DST. Lápices de madera certific
 🔎:
 
 - Lapiceros resistentes a a la rotura gracias a la especial formulación de la mina y a su doble encoladura de 2 mm.
-- Diseño ergonómico y cómodo que permite una experiencia única de escritura, apta para uso profesional y uso escolar.
-- Lápices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
 - Lápiz de alta calidad, de diseño hexagonal, óptimo para escribir, dibujar y esbozar.
+- Lápices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
 - Pack de lápices clásicos de dureza media, HB 2, con los que se obtiene una escritura suave y equilibrada, goma de borrar blanca y afilalápices de plástico.
+- Diseño ergonómico y cómodo que permite una experiencia única de escritura, apta para uso profesional y uso escolar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001P5QCD8/?tag=tolees-21)

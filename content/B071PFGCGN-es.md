@@ -26,8 +26,8 @@ Está [Microsoft Surface Pen lápiz digital Platino 20 g - Lápiz para tablet.](
 ℹ️:
 
 - Peso ligero de 20 gramos
-- Alimentación por batería 1 x aaaa
 - Conexión a través de bluetooth 4. 0
+- Alimentación por batería 1 x aaaa
 - Compatible con microsoft surface pro 3, surface 3, surface pro 4, surface pro y surface book
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071PFGCGN/?tag=tolees-21)
