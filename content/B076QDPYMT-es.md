@@ -25,10 +25,10 @@ Está [Alpinestar defender backpack Mochila tecnica y ligera.  Mujer  red  OS](h
 
 ℹ️:
 
+- Panel trasero acolchado y correas de hombro
+- Mochila de viaje con todas las funciones, capacidad de 23, 2 litros, mochila de gran tamaño 100% de nylon en poli balístico con paneles de lona resistente
+- capacité 13, 2 litres
 - logo bordado de marca
 - funda interna para portátil y organizador interno
-- capacité 13, 2 litres
-- Mochila de viaje con todas las funciones, capacidad de 23, 2 litros, mochila de gran tamaño 100% de nylon en poli balístico con paneles de lona resistente
-- Panel trasero acolchado y correas de hombro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076QDPYMT/?tag=tolees-21)
