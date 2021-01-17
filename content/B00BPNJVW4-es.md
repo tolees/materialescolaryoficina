@@ -26,8 +26,8 @@ Tienes [Case Logic BEBP215 - Mochila para Ordenador portátil](https://www.amazo
 🔎:
 
 - Materiales de calidad
-- Espacio para portátil y tablet
 - Cremalleras duraderas
+- Espacio para portátil y tablet
 - Capacidad electrónica completa con compartimentos que se ajustan a un portátil de 15,6 "y un iPad o una tableta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BPNJVW4/?tag=tolees-21)
