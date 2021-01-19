@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WG7YJH9-es NU NUVO Híbrido PU Funda de Pantalla de activación/Soporte...'
-tags: [ 'tole.es','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

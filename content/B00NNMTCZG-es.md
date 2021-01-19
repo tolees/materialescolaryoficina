@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NNMTCZG-es 3 Claveles 7 Tijeras de Costura Multiusos Acero de Carbono...'
-tags: [ 'tole.es','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 11.87 EUR
 currency: EUR
 price: 11.87

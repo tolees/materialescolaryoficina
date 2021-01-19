@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000FFT1KA-es STAEDTLER Ergo Soft - Lápices de Colores 12 Unidades...'
-tags: [ 'tole.es','lápices','lápices', ]
+tags: [ 'lápices','lápices', ]
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

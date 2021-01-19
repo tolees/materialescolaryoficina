@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CMDCWH-es Samsonite Guardit UP 14.1" Mochila Negro - Funda Mochila...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 58.8 EUR
 currency: EUR
 price: 58.8

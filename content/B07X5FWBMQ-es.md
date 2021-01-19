@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5FWBMQ-es Sokey - Protector de esquinas protección para niños y...'
-tags: [ 'tole.es','cinta','adhesiva', ]
+tags: [ 'cinta','adhesiva', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

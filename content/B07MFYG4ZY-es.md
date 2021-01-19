@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFYG4ZY-es Sunshine smile Conjunto de Herramientas para Bonsai...'
-tags: [ 'tole.es','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XP3F5TT-es Cámara enchufable Grabadora de conferencias Grabadora de...'
-tags: [ 'tole.es','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDP8DF4-es Post-it Extreme Notes - Cuaderno de notas 2 unidades 114 x...'
-tags: [ 'tole.es','post-it', ]
+tags: [ 'post-it', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

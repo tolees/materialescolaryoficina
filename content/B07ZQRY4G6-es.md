@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQRY4G6-es Arteza Recambios de bolígrafo de gel azul | Paquete de 50...'
-tags: [ 'tole.es','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 9.51 EUR
 currency: EUR
 price: 9.51

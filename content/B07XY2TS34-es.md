@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XY2TS34-es int!rend Caja de regalo | incluye 10 rotuladores metálicos...'
-tags: [ 'tole.es','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVNDT6T-es Kit de cuidado profesional para barba y bigote: aceite...'
-tags: [ 'tole.es','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

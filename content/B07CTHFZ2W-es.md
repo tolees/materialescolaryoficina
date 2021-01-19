@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTHFZ2W-es E·Durable Mini Pistola manualidades con 50 Piezas Barras...'
-tags: [ 'tole.es','barras','de','pegamento', ]
+tags: [ 'barras','de','pegamento', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

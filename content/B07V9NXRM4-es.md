@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9NXRM4-es Pepe Jeans Mochila 33 cm 10.3 Liters Negro'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 56 EUR
 currency: EUR
 price: 56

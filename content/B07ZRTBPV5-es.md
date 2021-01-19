@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRTBPV5-es Unicornio regalos para niñas paquete de 5 mochila con...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

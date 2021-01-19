@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5LVG13-es Juego de 10 pinceles de pintura profesional de AOOK para...'
-tags: [ 'tole.es','acuarelas', ]
+tags: [ 'acuarelas', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSYS3YB-es Kit de cuidado para barba hombre • Sapiens • Aceite barba...'
-tags: [ 'tole.es','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

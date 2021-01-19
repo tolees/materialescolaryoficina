@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009GGTPMS-es Jovi 71 - Plastilina color verde claro'
-tags: [ 'tole.es','plastilina', ]
+tags: [ 'plastilina', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

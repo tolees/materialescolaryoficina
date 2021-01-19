@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9CCT8R-es Samsonite Karissa Biz - Mochila 40 cm Rojo Formula Red'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 94.23 EUR
 currency: EUR
 price: 94.23

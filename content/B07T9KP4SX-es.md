@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9KP4SX-es Mochila Doble Cremallera Pepe Jeans Uma azul marino'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

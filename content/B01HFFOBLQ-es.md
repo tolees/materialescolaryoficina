@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HFFOBLQ-es Rotulador con Punta Fina de Pincel de Pelo para Caligrafia...'
-tags: [ 'tole.es','rotulador', ]
+tags: [ 'rotulador', ]
 actualPrice: 8.28 EUR
 currency: EUR
 price: 8.28

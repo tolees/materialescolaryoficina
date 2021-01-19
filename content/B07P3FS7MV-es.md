@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3FS7MV-es Pepe Jeans Joseline Mochila cartera portaordenador'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 33.15 EUR
 currency: EUR
 price: 33.15

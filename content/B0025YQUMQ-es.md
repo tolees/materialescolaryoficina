@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0025YQUMQ-es Jovi-725265 Caja de 15 Barras de plastilina 216047'
-tags: [ 'tole.es','plastilina', ]
+tags: [ 'plastilina', ]
 actualPrice: 4.78 EUR
 currency: EUR
 price: 4.78

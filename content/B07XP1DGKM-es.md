@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XP1DGKM-es Cartucho de Fono Giratorio con lápiz de Repuesto Negro y...'
-tags: [ 'tole.es','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

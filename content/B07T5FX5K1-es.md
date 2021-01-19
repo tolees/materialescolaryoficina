@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T5FX5K1-es Mochila 42cm adaptable Pepe Jeans Ariel'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

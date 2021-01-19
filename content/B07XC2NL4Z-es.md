@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XC2NL4Z-es Head Core Backpack Bolsa de Tenis Adultos Unisex...'
-tags: [ 'tole.es','backpack', ]
+tags: [ 'backpack', ]
 actualPrice: 22.91 EUR
 currency: EUR
 price: 22.91

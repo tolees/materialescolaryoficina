@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071RN51KN-es UCEC® Set de 6 Tijeras Coloridas Decorativas Tijeras...'
-tags: [ 'tole.es','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

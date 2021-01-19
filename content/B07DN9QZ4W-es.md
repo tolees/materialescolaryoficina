@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DN9QZ4W-es Juego de 16 imanes de neodimio Imanes fuertes adhesivos...'
-tags: [ 'tole.es','cinta','adhesiva', ]
+tags: [ 'cinta','adhesiva', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

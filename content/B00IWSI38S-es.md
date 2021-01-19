@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IWSI38S-es BOLIGRAFO BIC Cristal Oro'
-tags: [ 'tole.es','boligrafo','bic','cristal', ]
+tags: [ 'boligrafo','bic','cristal', ]
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083JVRVSR-es Mochila para Niños de La Escuela Conjunto de 3 Piezas de...'
-tags: [ 'tole.es','mochila','escolar', ]
+tags: [ 'mochila','escolar', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXL895P-es Under Armour Patterson Mochila Unisex Adulto Multicolor...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

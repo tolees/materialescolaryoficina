@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYH3GKG-es BelleStyle Agua Dibujo Pintura 100*70cm Doodle Alfombra de...'
-tags: [ 'tole.es','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

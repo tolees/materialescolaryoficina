@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0006SVBO0-es BIC 4 colores Original bolígrafos Retráctiles punta media...'
-tags: [ 'tole.es','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FLW5B8-es Baby Playpen - Centro de actividades para niños juego de...'
-tags: [ 'tole.es','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

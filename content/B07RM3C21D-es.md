@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM3C21D-es Mochila Mochila Escolar Mochila Deportiva Mochila para el...'
-tags: [ 'tole.es','mochila','escolar', ]
+tags: [ 'mochila','escolar', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000J69ZTM-es Pilot 495518 - Bolígrafo Azul Azul Transparente 12...'
-tags: [ 'tole.es','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

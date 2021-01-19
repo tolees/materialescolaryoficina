@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N3LEMN4-es Soarpop SA007 Mochila para ordenador portátil de hasta...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

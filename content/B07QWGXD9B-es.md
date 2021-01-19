@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWGXD9B-es Set de Geometría Set de Matemáticas10 Piezas Que Incluye...'
-tags: [ 'tole.es','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

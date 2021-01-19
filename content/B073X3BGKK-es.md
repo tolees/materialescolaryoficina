@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073X3BGKK-es Eastpak Back To Work Mochila 43 cm 27 L Azul Cloud Navy'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

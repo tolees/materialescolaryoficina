@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017LTBGE6-es Boma B47008400013 - Cinta adhesiva para reparación 50 mm x...'
-tags: [ 'tole.es','cinta','adhesiva', ]
+tags: [ 'cinta','adhesiva', ]
 actualPrice: 8.77 EUR
 currency: EUR
 price: 8.77

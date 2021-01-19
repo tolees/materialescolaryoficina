@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC9FWSP-es Mochila dos compartimentos con portatablet Pepe Jeans...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 56 EUR
 currency: EUR
 price: 56

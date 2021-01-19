@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRXCRMG-es Edding 1200 – Rotuladores de colores pastel – Punta...'
-tags: [ 'tole.es','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

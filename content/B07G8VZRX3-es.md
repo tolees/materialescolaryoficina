@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8VZRX3-es Xnuoyo Mochila Antirrobo de Portátil 15 6 Pulgada Mochila...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 26.39 EUR
 currency: EUR
 price: 26.39

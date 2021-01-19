@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00028XNNG-es DYMO LW 99014 Etiquetas de envío / distintivos blanco 54...'
-tags: [ 'tole.es','dymo', ]
+tags: [ 'dymo', ]
 actualPrice: 23.82 EUR
 currency: EUR
 price: 23.82

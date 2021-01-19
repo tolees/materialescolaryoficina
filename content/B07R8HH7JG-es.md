@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R8HH7JG-es Vans OLD SKOOL III BACKPACK Mochila tipo casual 42 cm 22 L...'
-tags: [ 'tole.es','backpack','mochila', ]
+tags: [ 'backpack','mochila', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

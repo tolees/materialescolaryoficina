@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH4CP5F-es WowPrint - Mochila con diseño de caballos para el hombro...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 29.87 EUR
 currency: EUR
 price: 29.87

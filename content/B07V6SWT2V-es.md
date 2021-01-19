@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6SWT2V-es Kipling SEOUL Mochila tipo casual 44 cm 27 liters Negro...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 43.29 EUR
 currency: EUR
 price: 43.29

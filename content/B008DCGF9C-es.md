@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008DCGF9C-es Alpino-490251 Pack de 12 lápices Colores Surtidos...'
-tags: [ 'tole.es','lápices','lápices', ]
+tags: [ 'lápices','lápices', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

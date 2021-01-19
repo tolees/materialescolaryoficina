@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SHPKB4-es Pilot BXGPN-V5 - Bolígrafo Azul 12 unidades'
-tags: [ 'tole.es','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

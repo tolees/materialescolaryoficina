@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D17JA2C-es Samsonite Paradiver Light - Mochila M 40 cm 16 L Blanco White'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9

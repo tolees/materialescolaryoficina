@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089YTPR34-es Vans Old Skool Iii - Mochila para hombre color talla OS'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

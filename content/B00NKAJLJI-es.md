@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NKAJLJI-es Faber Castell 554224 - Estuche de cartón con 24...'
-tags: [ 'tole.es','faber','castell','rotuladores', ]
+tags: [ 'faber','castell','rotuladores', ]
 actualPrice: 3.81 EUR
 currency: EUR
 price: 3.81

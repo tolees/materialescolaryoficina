@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010DGR3VO-es PLATERO P-U01B Mochila unisex para computador portátil 15...'
-tags: [ 'tole.es','mochila','mochila','unisex', ]
+tags: [ 'mochila','mochila','unisex', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

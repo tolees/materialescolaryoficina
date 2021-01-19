@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LD5SAEY-es Conté Colouring Lápices de colores - colores Surtidos Caja...'
-tags: [ 'tole.es','lápices','lápices', ]
+tags: [ 'lápices','lápices', ]
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47

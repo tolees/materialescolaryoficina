@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0839DY4DS-es Cortador de perilla de bonsai Ichiias cortador de perilla...'
-tags: [ 'tole.es','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 23.69 EUR
 currency: EUR
 price: 23.69

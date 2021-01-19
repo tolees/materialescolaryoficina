@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894TXW5N-es Bolígrafos de Contorno de Doble Línea Baozun 21Colores...'
-tags: [ 'tole.es','bolígrafos','rotuladores', ]
+tags: [ 'bolígrafos','rotuladores', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

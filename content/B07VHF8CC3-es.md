@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHF8CC3-es CARIOCA Estuche Pixel | Estuche 3 Cremalleras con Material...'
-tags: [ 'tole.es','lápices','escolar','lápices','material','escolar','rotuladores', ]
+tags: [ 'lápices','escolar','lápices','material','escolar','rotuladores', ]
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

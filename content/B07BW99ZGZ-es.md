@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BW99ZGZ-es Hot One Cambios De Color Monederos y Bolsos Luminosos...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 35.71 EUR
 currency: EUR
 price: 35.71

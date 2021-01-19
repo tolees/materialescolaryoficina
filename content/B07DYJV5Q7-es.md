@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYJV5Q7-es Pepe Jeans Cross Mochila con carro doble compartimento 44...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 38.14 EUR
 currency: EUR
 price: 38.14

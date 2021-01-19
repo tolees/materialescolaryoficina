@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRGWWX8-es Columbus A08432 Mochila Plegable Unisex Adulto Azul Talla...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

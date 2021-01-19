@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WGX91E-es Staedler 326 WP10 - Estuche con 10 rotuladores Multicolor'
-tags: [ 'tole.es','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

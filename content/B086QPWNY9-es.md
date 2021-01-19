@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QPWNY9-es Smyidel 2020 Nuevo Dibujo en Color 3D Puzzle con 12...'
-tags: [ 'tole.es','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

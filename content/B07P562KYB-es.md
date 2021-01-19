@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P562KYB-es Mochila de paseo Pepe Jeans Molly gris'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

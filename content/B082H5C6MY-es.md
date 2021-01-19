@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082H5C6MY-es Toplock Mochila antirrobo Azul Impermeable con Cierre...'
-tags: [ 'tole.es','backpack','mochila', ]
+tags: [ 'backpack','mochila', ]
 actualPrice: 18.84 EUR
 currency: EUR
 price: 18.84

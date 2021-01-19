@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WV1GQB-es Lápices de acuarela para colorear 20 pinceles para...'
-tags: [ 'tole.es','colorear','lápices','lápices', ]
+tags: [ 'colorear','lápices','lápices', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

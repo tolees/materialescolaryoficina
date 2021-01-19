@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M31R4VM-es BIC 4 colores Shine Bolígrafo Retráctil punta media 1 0 mm...'
-tags: [ 'tole.es','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

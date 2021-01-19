@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVC2WQN-es Castle Art Supplies 72 lápices de colores en estuche con...'
-tags: [ 'tole.es','lápices','lápices', ]
+tags: [ 'lápices','lápices', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

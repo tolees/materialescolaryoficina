@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXP61DF-es Hethrone Rotuladores Punta Pincel 100 Color Rotuladores...'
-tags: [ 'tole.es','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

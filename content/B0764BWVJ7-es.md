@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0764BWVJ7-es Stabilo Boss Original - Marcador color pastel Set 2 1'
-tags: [ 'tole.es','stabilo','stabilo', ]
+tags: [ 'stabilo','stabilo', ]
 actualPrice: 14.17 EUR
 currency: EUR
 price: 14.17

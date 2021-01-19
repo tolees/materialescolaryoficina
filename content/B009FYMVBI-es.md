@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009FYMVBI-es BIC Matic Fun 0 7 HB Portaminas Automático – Diseño en...'
-tags: [ 'tole.es','portaminas', ]
+tags: [ 'portaminas', ]
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48

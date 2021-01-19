@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQW9J99-es Mochila para portátil Mochila para Estudiantes Mochila...'
-tags: [ 'tole.es','mochila','escolar', ]
+tags: [ 'mochila','escolar', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

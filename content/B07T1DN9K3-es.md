@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1DN9K3-es Don Algodón Mochila Mujer Casual Nailon Rojo'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

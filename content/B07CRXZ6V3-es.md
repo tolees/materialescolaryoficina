@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRXZ6V3-es Wenger Ibex - Mochila para portátil de 17" con Bolsillo...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 79.65 EUR
 currency: EUR
 price: 79.65

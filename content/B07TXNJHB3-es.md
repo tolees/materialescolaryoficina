@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXNJHB3-es NEWSTYLE Set Para El Cuidado Del Bebé 12 Unids Bebé Kit de...'
-tags: [ 'tole.es','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

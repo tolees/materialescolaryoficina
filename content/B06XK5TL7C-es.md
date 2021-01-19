@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XK5TL7C-es Rimmel London Brow This Way Fibre Pencil Lápiz de Cejas...'
-tags: [ 'tole.es','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

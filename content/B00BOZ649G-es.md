@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BOZ649G-es HP NW277AAB1S - Calculadora pantalla LCD'
-tags: [ 'tole.es','calculadora', ]
+tags: [ 'calculadora', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018WJUW8A-es Manfrotto MFMBBP-D1 - Mochila profesional para drones DJI'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0
@@ -26,9 +26,9 @@ En este momento está [Manfrotto MFMBBP-D1 - Mochila profesional para drones DJI
 
 🔎:
 
-- Para transportar un drone con sus accesorios, cámara adicional y trípode
 - Compartimento para Drone: 30 x 16 x 41 cm
 - Específica para los distintos modelos DJI Phantom con sus accesorios
+- Para transportar un drone con sus accesorios, cámara adicional y trípode
 - Con espacio específico para portátil de 17" y tablet
 - Se puede transportar el drone sin desmontar las aspas, simplemente abriendo la cremallera central
 

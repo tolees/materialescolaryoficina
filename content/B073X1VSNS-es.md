@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073X1VSNS-es Eastpak Padded Pak r Mochila 40 cm 24 L Azul Cloud Navy'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL1K1VK-es Head Tour Team Backpack Bolsa de Tenis Adultos Unisex...'
-tags: [ 'tole.es','backpack', ]
+tags: [ 'backpack', ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

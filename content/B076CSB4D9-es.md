@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CSB4D9-es Samsonite Network 3 39 6 cm 15.6" Mochila Azul - Funda...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJPE2A-es Faber-Castell 128524 - Estuche de cartón con 24 tizas...'
-tags: [ 'tole.es','faber-castell', ]
+tags: [ 'faber-castell', ]
 actualPrice: 37.06 EUR
 currency: EUR
 price: 37.06

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1HBYXR-es Kipling CLASS ROOM - Mochila escolar 28 liters Azul TRUE NAVY'
-tags: [ 'tole.es','mochila','escolar', ]
+tags: [ 'mochila','escolar', ]
 actualPrice: 57.06 EUR
 currency: EUR
 price: 57.06

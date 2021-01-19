@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG9BY1G-es iPad Lápiz Stylus Tiempo de Trabajo de 40 Horas Espera de...'
-tags: [ 'tole.es','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

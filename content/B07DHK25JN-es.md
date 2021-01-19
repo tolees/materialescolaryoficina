@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHK25JN-es Mochila de Portáti Hap Tim Hombre Mujer Mochila con Funda...'
-tags: [ 'tole.es','mochila','escolar', ]
+tags: [ 'mochila','escolar', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFQ996X-es Quiksilver Schoolie 30l-Mochila Grande para Hombre...'
-tags: [ 'tole.es','backpack', ]
+tags: [ 'backpack', ]
 actualPrice: 36.84 EUR
 currency: EUR
 price: 36.84

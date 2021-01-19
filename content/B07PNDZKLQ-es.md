@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNDZKLQ-es SKYSPER 60L / 65L Mochila de Senderismo Impermeable...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

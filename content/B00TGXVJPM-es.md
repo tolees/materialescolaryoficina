@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TGXVJPM-es BIC Velleda Pocket rotuladores Punta Ancha - colores...'
-tags: [ 'tole.es','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 4.81 EUR
 currency: EUR
 price: 4.81

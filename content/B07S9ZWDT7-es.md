@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9ZWDT7-es Maui & Sons Hawai Mochila 40 cm + estuche escolar color...'
-tags: [ 'tole.es','mochila','escolar', ]
+tags: [ 'mochila','escolar', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

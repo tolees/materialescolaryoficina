@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004S0UEMW-es Chicco Happy Hand - Set de cuidado de uñas para bebés:...'
-tags: [ 'tole.es','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

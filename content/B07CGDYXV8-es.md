@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGDYXV8-es Lifewit Mochila Antirrobo para Ordenador Portátil 15 6...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

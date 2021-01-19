@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9Z8ZG3-es American Tourister Urban Groove Disney - Backpack Medium...'
-tags: [ 'tole.es','backpack','mochila', ]
+tags: [ 'backpack','mochila', ]
 actualPrice: 37.86 EUR
 currency: EUR
 price: 37.86

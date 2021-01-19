@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKJMRVQ-es Bolsa de pañales de tela portátil reutilizable a prueba de...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

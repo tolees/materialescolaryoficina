@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X32KSKZ-es EFERRI Mochila Cuvat Negro 23x12x29 cm'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 20.47 EUR
 currency: EUR
 price: 20.47

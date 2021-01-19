@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWX078L-es APLI 13462 - Pack de 10 rollos de papel Electra 76.5 x 65...'
-tags: [ 'tole.es','apli', ]
+tags: [ 'apli', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

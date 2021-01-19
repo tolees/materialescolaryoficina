@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHX7HMC-es Parfois - Mochila con Estampado De Fruta - Mujeres -...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

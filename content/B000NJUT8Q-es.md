@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NJUT8Q-es BIC Velleda 1701 ECOlutions rotuladores de Pizarra punta...'
-tags: [ 'tole.es','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

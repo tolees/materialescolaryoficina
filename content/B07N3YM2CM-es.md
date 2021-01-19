@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3YM2CM-es Carlos belleza instrumento instrumento de masaje de los...'
-tags: [ 'tole.es','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

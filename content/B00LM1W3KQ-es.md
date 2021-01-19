@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LM1W3KQ-es Conté Colouring rotuladores - colores Surtidos Caja...'
-tags: [ 'tole.es','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47

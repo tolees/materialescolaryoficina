@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000TKF71I-es Staedtler Stick 430M3CP5. Bolígrafos de bola. Caja con 50...'
-tags: [ 'tole.es','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

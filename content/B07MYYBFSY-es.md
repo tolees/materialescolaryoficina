@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYYBFSY-es COO Funda Teclado iPad 9.7 Funda iPad 2018 con Ranura para...'
-tags: [ 'tole.es','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHCR31P-es iMangoo Adaptador de Carga para lápiz de Apple 2 Unidades...'
-tags: [ 'tole.es','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

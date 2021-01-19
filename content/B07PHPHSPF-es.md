@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHPHSPF-es Scratch Tools juego de lápices de colores de doble punta...'
-tags: [ 'tole.es','colorear','lápices','lápices', ]
+tags: [ 'colorear','lápices','lápices', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

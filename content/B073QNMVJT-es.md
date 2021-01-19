@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QNMVJT-es Zecti Mochila profesional antigolpes para cámara DSLR...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 50.56 EUR
 currency: EUR
 price: 50.56

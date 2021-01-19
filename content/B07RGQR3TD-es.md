@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGQR3TD-es American Tourister Urban Groove Lifestyle - 17.3 pulgadas...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 30.87 EUR
 currency: EUR
 price: 30.87

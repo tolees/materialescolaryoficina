@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T26WRGM-es Pepe Jeans Pam Mochila Multicolor 40 cm'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N36WGZQ-es Ulikey Medidor de Suelo con 10 Piezas de Herramientas...'
-tags: [ 'tole.es','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

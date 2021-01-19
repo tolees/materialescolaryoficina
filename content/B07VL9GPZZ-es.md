@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VL9GPZZ-es CARIOCA BOX |42736/10 - Caja de Lata Azul con 100...'
-tags: [ 'tole.es','colorear','rotuladores', ]
+tags: [ 'colorear','rotuladores', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

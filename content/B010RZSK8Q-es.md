@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010RZSK8Q-es Lixada Mochila de Senderismo 50L/60L con Cubierta...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

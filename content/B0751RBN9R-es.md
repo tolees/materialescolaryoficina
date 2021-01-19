@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0751RBN9R-es iskn The Slate 2+ Lápiz y Papel Tableta gráfica'
-tags: [ 'tole.es','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 122.35 EUR
 currency: EUR
 price: 122.35

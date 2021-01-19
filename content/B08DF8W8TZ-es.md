@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DF8W8TZ-es Mochila Infantil 3D Estuche Escolar y Bolsa Merienda de...'
-tags: [ 'tole.es','mochila','escolar','material','escolar', ]
+tags: [ 'mochila','escolar','material','escolar', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

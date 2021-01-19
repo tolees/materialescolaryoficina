@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBNJNLX-es Parfois - Mochila Estampada - Mujeres - Tallas L - Rosa'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

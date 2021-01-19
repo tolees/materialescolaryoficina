@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6RC2XN-es Kipling Clas Seoul S Mochila con Compartimento para...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

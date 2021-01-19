@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4MCGLV-es Kipling ELLETTRONICO Mochila Tipo Casual 24 cm 2 Liters...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

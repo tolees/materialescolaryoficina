@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q617CWX-es DURAGADGET Mochila Camuflaje con Compartimentos...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KS31X6N-es UtoteBag Mochila Deporte Convertible Bolsa Gimnasio Viaje...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

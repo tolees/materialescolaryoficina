@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Z67SHS-es Mochila antirrobo para computadora portátil /portátil y...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

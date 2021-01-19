@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSMJWJN-es Juego de 200 bolígrafos de gel 100 colores de gel y 100...'
-tags: [ 'tole.es','bolígrafos','colorear', ]
+tags: [ 'bolígrafos','colorear', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

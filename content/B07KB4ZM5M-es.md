@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KB4ZM5M-es Miquelrius - Mochila Grande Poliéster Con Carro Cierres...'
-tags: [ 'tole.es','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 16.44 EUR
 currency: EUR
 price: 16.44

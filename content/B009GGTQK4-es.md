@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009GGTQK4-es Jovi 71 - Plastilina color negro'
-tags: [ 'tole.es','plastilina', ]
+tags: [ 'plastilina', ]
 actualPrice: 1.92 EUR
 currency: EUR
 price: 1.92

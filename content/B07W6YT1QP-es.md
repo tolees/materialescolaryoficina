@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6YT1QP-es Vuelta al cole pencil case regalos originales para Chicas...'
-tags: [ 'tole.es','bolígrafos','mochila','escolar', ]
+tags: [ 'bolígrafos','mochila','escolar', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

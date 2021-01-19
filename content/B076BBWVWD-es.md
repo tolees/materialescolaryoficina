@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BBWVWD-es Joymoze Cartera Escolar para Niñas Impermeable - Linda...'
-tags: [ 'tole.es','mochila','escolar', ]
+tags: [ 'mochila','escolar', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

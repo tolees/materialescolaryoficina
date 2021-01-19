@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00000IRGG-es Cross Classic Century - Bolígrafo color oro de 10kts'
-tags: [ 'tole.es','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 84.54 EUR
 currency: EUR
 price: 84.54

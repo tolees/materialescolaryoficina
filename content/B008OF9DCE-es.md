@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008OF9DCE-es Apli - Etiquetas Adhesivas multi3 para Inkjet Laser y...'
-tags: [ 'tole.es','apli', ]
+tags: [ 'apli', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

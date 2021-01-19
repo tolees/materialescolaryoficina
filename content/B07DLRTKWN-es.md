@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLRTKWN-es Uworth Mochila Escolar Infantil Guarderia Niña Mochila...'
-tags: [ 'tole.es','mochila','escolar', ]
+tags: [ 'mochila','escolar', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1TR3GF-es Tommy Hilfiger - Sport Mix Backpack Solid Carteras Hombre...'
-tags: [ 'tole.es','backpack', ]
+tags: [ 'backpack', ]
 actualPrice: 49.81 EUR
 currency: EUR
 price: 49.81
