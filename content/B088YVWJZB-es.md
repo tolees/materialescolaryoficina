@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088YVWJZB-es Masthome Tabla de Cortar de Cocina de plástico de Doble...'
-tags: tole.es, tijeras
+tags: [ 'tole.es','tijeras', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

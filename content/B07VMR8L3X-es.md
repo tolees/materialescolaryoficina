@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMR8L3X-es Memoryee Stranger Things 3D de impresión Unisex Niño Bolsa...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

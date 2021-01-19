@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C9VBXSH-es Vanguard Sedona Wanderlust - Mochila fotográfica Color Verde'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 69.04 EUR
 currency: EUR
 price: 69.04

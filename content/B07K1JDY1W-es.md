@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1JDY1W-es El Potro Pipe Mochila Mujer para Portátil 35 x 25 x 10 cm...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

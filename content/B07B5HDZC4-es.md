@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B5HDZC4-es GABOL Mochila Trolley Cabina Saga. Bolsa de Viaje 50 cm 15...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 29.76 EUR
 currency: EUR
 price: 29.76

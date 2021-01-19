@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7YM4QM-es Bolígrafo Grabador de Voz Digital Portatil POVO 16GB...'
-tags: tole.es, bolígrafo
+tags: [ 'tole.es','bolígrafo', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJZRPLZ-es Under Armour Patterson Backpack Mochila Unisex Adulto Gris...'
-tags: tole.es, backpack, mochila
+tags: [ 'tole.es','backpack','mochila', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

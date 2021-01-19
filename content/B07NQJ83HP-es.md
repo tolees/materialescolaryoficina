@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQJ83HP-es ZZKKO Animal Llama Mochilas Escolar Libro Bolsa de Viaje...'
-tags: tole.es, escolar
+tags: [ 'tole.es','escolar', ]
 actualPrice: 30.55 EUR
 currency: EUR
 price: 30.55

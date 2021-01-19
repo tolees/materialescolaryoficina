@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1B2ZJ5-es The North Face Equipment TNF Mochila Borealis Unisex...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

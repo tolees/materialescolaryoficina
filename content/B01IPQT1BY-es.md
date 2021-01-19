@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IPQT1BY-es 52 pz Caja de papelería para niños con marcadores crayones...'
-tags: tole.es, goma, de, borrar
+tags: [ 'tole.es','goma','de','borrar', ]
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

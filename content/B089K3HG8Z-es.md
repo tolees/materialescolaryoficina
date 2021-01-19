@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089K3HG8Z-es Symiu Herramientas Electricas De Juguete 19 Piezas Juegos...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

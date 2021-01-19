@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K93QS8L-es Karactermania Harry Potter Pride Gryffindor Mochila Tipo...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 66.76 EUR
 currency: EUR
 price: 66.76

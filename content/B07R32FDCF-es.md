@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R32FDCF-es Mochila Mujer Hombre-Mochila Antirrobo Portatil 15.6...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

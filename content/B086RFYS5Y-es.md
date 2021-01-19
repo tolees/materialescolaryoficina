@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086RFYS5Y-es Miquel Rius Agenda Escolar Rígida de Espiral 155x213 Mm...'
-tags: tole.es, escolar
+tags: [ 'tole.es','escolar', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGHLMH6-es Juego de 27 rollos de cinta adhesiva de papel japonés...'
-tags: tole.es, cinta, adhesiva
+tags: [ 'tole.es','cinta','adhesiva', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

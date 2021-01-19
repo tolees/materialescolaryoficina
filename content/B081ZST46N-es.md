@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081ZST46N-es CestMall Scratch Art Hojas Dibujo Scratch Láminas para...'
-tags: tole.es, lápices, lápices
+tags: [ 'tole.es','lápices','lápices', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

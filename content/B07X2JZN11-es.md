@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2JZN11-es Eastpak Padded Pak R - Mochila Azul Blakout Next 24L 40 x...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

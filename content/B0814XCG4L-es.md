@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814XCG4L-es adidas Fest Bag Tref Sports Backpack Unisex Adulto White NS'
-tags: tole.es, backpack
+tags: [ 'tole.es','backpack', ]
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

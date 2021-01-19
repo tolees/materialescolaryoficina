@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088CXYZKJ-es Aottom 36 Colores con Rotuladores Punta Pincel Rotuladores...'
-tags: tole.es, rotuladores
+tags: [ 'tole.es','rotuladores', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

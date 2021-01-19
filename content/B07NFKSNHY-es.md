@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFKSNHY-es Kipling ECHO Bolsa escolar 50 cm 29 liters Multicolor...'
-tags: tole.es, escolar
+tags: [ 'tole.es','escolar', ]
 actualPrice: 148.16 EUR
 currency: EUR
 price: 148.16

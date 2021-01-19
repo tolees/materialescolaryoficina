@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1DK8YV-es Kipling SEOUL PACKABLE - Mochila escolar 22.5 liters...'
-tags: tole.es, mochila, escolar
+tags: [ 'tole.es','mochila','escolar', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

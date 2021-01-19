@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY17ZRG-es Parker Jotter Originals Rotulador Roller Acabado Amarillo...'
-tags: tole.es, rotulador
+tags: [ 'tole.es','rotulador', ]
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

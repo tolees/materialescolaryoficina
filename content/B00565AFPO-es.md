@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00565AFPO-es APLI 2414 - Etiquetas Blancas permanentes 63 5 x 38 1 mm...'
-tags: tole.es, apli
+tags: [ 'tole.es','apli', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

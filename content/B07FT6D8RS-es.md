@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FT6D8RS-es Mochila de pañales para cambiar pañales con diseño abierto...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

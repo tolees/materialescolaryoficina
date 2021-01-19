@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZGB45T-es NEWHEY Mochila Ordenador Portatil 15.6 Pulgadas Hombre con...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 32.86 EUR
 currency: EUR
 price: 32.86

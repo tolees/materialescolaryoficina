@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P813MSL-es Leathario Portafolio A4 Piel Portadocumentos Cremalleras...'
-tags: tole.es, calculadora
+tags: [ 'tole.es','calculadora', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

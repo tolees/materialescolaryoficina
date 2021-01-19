@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JCPJSZ-es Wacom Intuos Tableta Gráfica con Lápiz Softwares Creativos...'
-tags: tole.es, lápiz
+tags: [ 'tole.es','lápiz', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

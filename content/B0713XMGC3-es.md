@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0713XMGC3-es aeioubaby.com Tabla RECOMPENSAS Magnética Grande | Pizarra...'
-tags: tole.es, rotuladores
+tags: [ 'tole.es','rotuladores', ]
 actualPrice: 16.06 EUR
 currency: EUR
 price: 16.06

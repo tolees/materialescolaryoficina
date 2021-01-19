@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XX8WVP-es Acmebon Mochila Escolar de Ocio Ligera y Moderna - Cartera...'
-tags: tole.es, mochila, escolar
+tags: [ 'tole.es','mochila','escolar', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

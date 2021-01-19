@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CY7R9RL-es American Tourister Urban Groove Lifestyle Laptop Backpack...'
-tags: tole.es, backpack, mochila
+tags: [ 'tole.es','backpack','mochila', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LX63TC-es Casio FX-85SP X II - Calculadora Científica Recomendada...'
-tags: tole.es, calculadora
+tags: [ 'tole.es','calculadora', ]
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

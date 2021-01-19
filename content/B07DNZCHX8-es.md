@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNZCHX8-es Eastpak Orbit Mochila Infantil 34 cm 10 Liters Rosa...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

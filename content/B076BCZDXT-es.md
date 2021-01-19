@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BCZDXT-es CASIO SL-310UC-PK - Calculadora 0.8 x 7 x 11.8 cm color Rosa'
-tags: tole.es, calculadora
+tags: [ 'tole.es','calculadora', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

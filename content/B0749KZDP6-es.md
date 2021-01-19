@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0749KZDP6-es Pizarra blanca magnética de borrado en seco con calendario...'
-tags: tole.es, escolar
+tags: [ 'tole.es','escolar', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

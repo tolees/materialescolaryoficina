@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL48XLJ-es Mochila Lona Mochila para Portátil 17.3 Pulgadas Vintage...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXRFZHX-es Samsonite Qibyte Laptop Backpack 17.3" Mochila Tipo Casual...'
-tags: tole.es, backpack, mochila
+tags: [ 'tole.es','backpack','mochila', ]
 actualPrice: 47.57 EUR
 currency: EUR
 price: 47.57

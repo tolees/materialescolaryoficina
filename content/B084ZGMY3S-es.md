@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZGMY3S-es Cyelk Afilador de Cuchillos Profesional 4 Etapas Knife...'
-tags: tole.es, tijeras
+tags: [ 'tole.es','tijeras', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

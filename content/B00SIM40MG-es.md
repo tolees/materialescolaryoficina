@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SIM40MG-es Skip Hop Zoo Pack - Mochila diseño unicorn color turquesa'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

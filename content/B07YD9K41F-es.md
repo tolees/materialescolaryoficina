@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD9K41F-es Anano Mochila de Senderismo actualización de 40 L Mochila...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5TGGVS-es KitchenBoss Bolsas de Vacío 1 Rolls 20x1500cm con Caja de...'
-tags: tole.es, tijeras
+tags: [ 'tole.es','tijeras', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

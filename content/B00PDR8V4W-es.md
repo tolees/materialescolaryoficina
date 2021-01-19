@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PDR8V4W-es Carioca Joy - Rotuladores superlavables de punta fina pack...'
-tags: tole.es, rotuladores
+tags: [ 'tole.es','rotuladores', ]
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

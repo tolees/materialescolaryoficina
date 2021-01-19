@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C75DSKK-es Maped Color Peps Jungle - Rotuladores de Colores 24 Unidades'
-tags: tole.es, rotuladores
+tags: [ 'tole.es','rotuladores', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

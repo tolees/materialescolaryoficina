@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2Q4QM8-es Carretilla Plegable Wilbest Carritos Porta Equipajes con 4...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

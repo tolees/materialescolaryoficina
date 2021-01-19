@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CG6IFIO-es Ceras PLASTIDECOR Pastel Estuche DE 12'
-tags: tole.es, plastidecor
+tags: [ 'tole.es','plastidecor', ]
 actualPrice: 1.51 EUR
 currency: EUR
 price: 1.51

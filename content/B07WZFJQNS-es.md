@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZFJQNS-es Eastpak Padded Pak R Mochila 24 L Rojo Melange Print Lines...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 28.09 EUR
 currency: EUR
 price: 28.09

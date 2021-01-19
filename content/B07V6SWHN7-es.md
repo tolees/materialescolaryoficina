@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6SWHN7-es Kipling SEOUL XL Mochila tipo casual 45 cm 33 litros...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 50.39 EUR
 currency: EUR
 price: 50.39

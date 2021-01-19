@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GS5GV9F-es Rotuladores de Pintura Acrílica Keten 12 Colores...'
-tags: tole.es, rotuladores
+tags: [ 'tole.es','rotuladores', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

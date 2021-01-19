@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJKGJG-es Apli 1298 - Etiquetas 100 hojas'
-tags: tole.es, apli
+tags: [ 'tole.es','apli', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

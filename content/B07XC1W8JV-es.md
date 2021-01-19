@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XC1W8JV-es Nene Toys – Pizarra Mágica con Luz para Niños y Niñas de 3...'
-tags: tole.es, bolígrafos
+tags: [ 'tole.es','bolígrafos', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

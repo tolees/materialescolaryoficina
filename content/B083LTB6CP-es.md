@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LTB6CP-es Mochila para Portátil XQXA Mochila Unisex Impermeable para...'
-tags: tole.es, mochila, mochila, unisex
+tags: [ 'tole.es','mochila','mochila','unisex', ]
 actualPrice: 22.77 EUR
 currency: EUR
 price: 22.77

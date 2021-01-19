@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YRJXZDQ-es DazSpirit Bolígrafo de Tinta Invisible 20Pcs lápiz espía Y...'
-tags: tole.es, bolígrafo, lápiz
+tags: [ 'tole.es','bolígrafo','lápiz', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

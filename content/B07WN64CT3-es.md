@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WN64CT3-es Memoryee 3D Lienzo de Stranger Things Estudiantes Lápiz...'
-tags: tole.es, lápiz
+tags: [ 'tole.es','lápiz', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

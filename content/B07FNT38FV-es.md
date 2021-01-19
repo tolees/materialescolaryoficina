@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNT38FV-es AmazonBasics Mochila para todos los días azul marino'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

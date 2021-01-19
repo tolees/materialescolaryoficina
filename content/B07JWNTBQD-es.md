@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWNTBQD-es Lowepro Whistler Backpack 350 AW II Negro - Funda Gris'
-tags: tole.es, backpack
+tags: [ 'tole.es','backpack', ]
 actualPrice: 218.89 EUR
 currency: EUR
 price: 218.89

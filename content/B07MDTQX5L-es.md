@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDTQX5L-es The North Face Base Camp-M Mochila Duffel Unisex Adulto...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 78.62 EUR
 currency: EUR
 price: 78.62

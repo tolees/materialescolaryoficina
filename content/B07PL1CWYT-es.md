@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PL1CWYT-es Parker Jotter Originals Colección de bolígrafos acabado...'
-tags: tole.es, bolígrafos
+tags: [ 'tole.es','bolígrafos', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

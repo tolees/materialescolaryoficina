@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXTKV9R-es Eastpak Orbit Mini Mochila 34 cm 10 L Azul Cloud Navy'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

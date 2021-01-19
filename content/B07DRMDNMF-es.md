@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRMDNMF-es Mochila con carro Pepe Jeans Olaia doble compartimento...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKB36D3-es Element Cypress Bpk Backpack para Hombre napa red U'
-tags: tole.es, backpack
+tags: [ 'tole.es','backpack', ]
 actualPrice: 33.02 EUR
 currency: EUR
 price: 33.02

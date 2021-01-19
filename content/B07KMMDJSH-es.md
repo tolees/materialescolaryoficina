@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMMDJSH-es Play-Doh - Pack 12 Botes Rojos Hasbro E4826F02'
-tags: tole.es, play-doh
+tags: [ 'tole.es','play-doh', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

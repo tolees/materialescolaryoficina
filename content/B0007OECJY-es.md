@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0007OECJY-es Faber-Castell 110012 - Lápices 12 unidades;Faber-Castel...'
-tags: tole.es, faber-castell, lápices, lápices
+tags: [ 'tole.es','faber-castell','lápices','lápices', ]
 actualPrice: 17.06 EUR
 currency: EUR
 price: 17.06

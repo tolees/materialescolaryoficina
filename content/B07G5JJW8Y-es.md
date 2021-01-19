@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5JJW8Y-es Forever Ninette Origin-Cute Mochila Tipo Casual 44...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 33.2 EUR
 currency: EUR
 price: 33.2

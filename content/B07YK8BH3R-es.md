@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YK8BH3R-es EKKONG Scratch Art Manualidades para Niños 48PCS Scratch...'
-tags: tole.es, lápices, lápices
+tags: [ 'tole.es','lápices','lápices', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

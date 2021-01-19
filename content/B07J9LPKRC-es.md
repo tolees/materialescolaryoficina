@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9LPKRC-es Mochila para portátil Movom Business con bandolera Negra'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

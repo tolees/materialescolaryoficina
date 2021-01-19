@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AXT5RS2-es Petrus 624824 Grapadora Eléctrica Grapa 10 Hojas Funciona...'
-tags: tole.es, grapadora
+tags: [ 'tole.es','grapadora', ]
 actualPrice: 23.78 EUR
 currency: EUR
 price: 23.78

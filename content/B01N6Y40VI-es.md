@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6Y40VI-es Pritt Roller Compact corrector roller para tapar errores...'
-tags: tole.es, bolígrafo, pritt
+tags: [ 'tole.es','bolígrafo','pritt', ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

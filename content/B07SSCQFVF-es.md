@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSCQFVF-es Coronel Tapiocca Classic Mochila Estilo para Hombre Cuero...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 41.69 EUR
 currency: EUR
 price: 41.69

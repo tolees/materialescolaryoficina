@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSNTH6Y-es Roxy Sugar Baby - Mochila Mediana para Mujer Mochila...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 28.52 EUR
 currency: EUR
 price: 28.52

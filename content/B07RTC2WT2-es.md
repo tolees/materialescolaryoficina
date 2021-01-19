@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTC2WT2-es Tommy Hilfiger - Modern Nylon Backpack Shoppers y bolsos...'
-tags: tole.es, backpack
+tags: [ 'tole.es','backpack', ]
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3L4M9V-es Gomas de Borrar Animal 30PCS Al Azar Juguete Desmontable...'
-tags: tole.es, lápiz, gomas, de, borrar
+tags: [ 'tole.es','lápiz','gomas','de','borrar', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

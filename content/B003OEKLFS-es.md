@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003OEKLFS-es Faber Castell 166004 - Estuche con 4 rotuladores...'
-tags: tole.es, faber, castell, rotuladores
+tags: [ 'tole.es','faber','castell','rotuladores', ]
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

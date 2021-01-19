@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFDKH8T-es Pepe Jeans 7742065 Mochila Casual 28 cm 6.72 litros Marrón'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

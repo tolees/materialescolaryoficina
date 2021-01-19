@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GS8HO34-es Caja de 3 rotuladores de punta fina Pigma Micron modelo...'
-tags: tole.es, rotuladores
+tags: [ 'tole.es','rotuladores', ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

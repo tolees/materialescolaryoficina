@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FRBRHTG-es Club Atlético de Madrid Atlético de Madrid Mochila con...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

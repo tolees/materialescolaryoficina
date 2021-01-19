@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TOGJBUG-es Anker - Set de Material Escolar GRU Mi Villano Favorito...'
-tags: tole.es, escolar, material, escolar
+tags: [ 'tole.es','escolar','material','escolar', ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

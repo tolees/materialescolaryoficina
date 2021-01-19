@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8WKK28-es LIANCHENYI Runway - Mochila de viaje'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

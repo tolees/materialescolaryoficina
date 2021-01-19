@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQ24YWY-es Colisal 40L Mochila Senderismo Mochilas Trekking Mujer...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

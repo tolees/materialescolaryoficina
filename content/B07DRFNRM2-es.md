@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRFNRM2-es homgeek Cuchillos de Cocina Juego de Cuchillos Profesional...'
-tags: tole.es, tijeras
+tags: [ 'tole.es','tijeras', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJ81NW-es Kipling City Pack S Mochila para Mujer Multicolor Navy...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 33.93 EUR
 currency: EUR
 price: 33.93

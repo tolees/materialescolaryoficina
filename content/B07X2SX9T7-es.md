@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2SX9T7-es Eastpak Padded Pak r Mochila 40 cm 24 L Rosa Seashell Pink'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

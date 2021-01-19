@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6TQYDR-es Samsonite Zalia 2.0 Mochila para portátiles y netbooks...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 119.14 EUR
 currency: EUR
 price: 119.14

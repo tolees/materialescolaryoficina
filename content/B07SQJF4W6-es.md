@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQJF4W6-es American Tourister Fun Limit - Mochila Color Negro Neon Palms'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

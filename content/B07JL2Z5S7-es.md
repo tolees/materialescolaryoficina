@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JL2Z5S7-es Under Armour Gametime BP Mochila Unisex Adulto Negro OSFA'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

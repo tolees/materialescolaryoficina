@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8BW53V-es Acmebon Mochilas Modernas espaciosas y Lindas para niñas...'
-tags: tole.es, escolar
+tags: [ 'tole.es','escolar', ]
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

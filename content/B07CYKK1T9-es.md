@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYKK1T9-es NOBES Tableta de Escritura LCD 8.5 Inch LCD Tablero de...'
-tags: tole.es, lápiz
+tags: [ 'tole.es','lápiz', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

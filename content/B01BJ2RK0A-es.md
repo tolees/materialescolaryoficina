@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BJ2RK0A-es Mochila Infantil Star Wars'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

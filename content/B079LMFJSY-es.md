@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079LMFJSY-es AmazonBasics - Mochila compacta de viaje Rojo para viajes...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 47.12 EUR
 currency: EUR
 price: 47.12

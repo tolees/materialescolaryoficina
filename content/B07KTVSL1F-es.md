@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTVSL1F-es Columbia Street Elite 25L Mochila Unisex Adulto Shark O/S'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 56.01 EUR
 currency: EUR
 price: 56.01

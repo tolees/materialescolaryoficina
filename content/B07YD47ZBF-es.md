@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD47ZBF-es Catekro Caja de Almacenamiento de Oficina de Gran...'
-tags: tole.es, bolígrafo
+tags: [ 'tole.es','bolígrafo', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

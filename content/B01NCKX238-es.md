@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCKX238-es MOUNTAINTOP 60L Mochila de Senderismo Impermeable...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

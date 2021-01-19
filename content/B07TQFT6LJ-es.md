@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQFT6LJ-es Rotuladores metálicos Kaliwa Juego de 10 Colores Surtidos...'
-tags: tole.es, rotuladores
+tags: [ 'tole.es','rotuladores', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

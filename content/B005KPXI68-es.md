@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005KPXI68-es Rotuladores Mágicos Magic Markers - 20 Uds'
-tags: tole.es, rotuladores
+tags: [ 'tole.es','rotuladores', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

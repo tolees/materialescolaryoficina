@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0117PU0KQ-es 3 Claveles Tijeras Costura y Multiusos Profesional Mango...'
-tags: tole.es, tijeras
+tags: [ 'tole.es','tijeras', ]
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

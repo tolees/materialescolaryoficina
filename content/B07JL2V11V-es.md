@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JL2V11V-es Under Armour UA Undeniable SP 2.0 Accesorio Mochila...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

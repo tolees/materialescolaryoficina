@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G87DZBJ-es INT!REND Rotuladores punta de pincel 51 SET | Compuesto...'
-tags: tole.es, rotuladores
+tags: [ 'tole.es','rotuladores', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

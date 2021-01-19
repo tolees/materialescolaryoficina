@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLJ7MR6-es Mochila vintage de cuero unisex | Hecho a mano | Mochila...'
-tags: tole.es, mochila, escolar
+tags: [ 'tole.es','mochila','escolar', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

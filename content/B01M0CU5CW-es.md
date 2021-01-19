@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0CU5CW-es Tech air TAECB001 maletines para portátil 39 6 cm 15.6"...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 19.91 EUR
 currency: EUR
 price: 19.91

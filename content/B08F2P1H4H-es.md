@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F2P1H4H-es Smatoy Organizador de Escritorio Papelería de Madera para...'
-tags: tole.es, bolígrafos
+tags: [ 'tole.es','bolígrafos', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

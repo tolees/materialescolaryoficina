@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011K8OJTI-es Black Diamond Speed 22 Mochila Unisex Adulto Sulfur'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 64.13 EUR
 currency: EUR
 price: 64.13

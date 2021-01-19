@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CL2Y6KK-es BIC 4 Colores Sun Retractable Bolígrafos retráctiles punta...'
-tags: tole.es, bolígrafos
+tags: [ 'tole.es','bolígrafos', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

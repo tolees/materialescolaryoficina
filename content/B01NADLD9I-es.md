@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NADLD9I-es Rotulador punta media STABILO pointMax - Estuche con 12...'
-tags: tole.es, stabilo, rotulador, stabilo
+tags: [ 'tole.es','stabilo','rotulador','stabilo', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

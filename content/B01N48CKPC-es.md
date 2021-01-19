@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N48CKPC-es Rotulador punta media 0 8 STABILO pointMax - Estuche con 8...'
-tags: tole.es, stabilo, rotulador, stabilo
+tags: [ 'tole.es','stabilo','rotulador','stabilo', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

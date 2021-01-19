@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YXVZFC-es Tijeras de Podar Profesional Yunque y Jardín OSPREY 190...'
-tags: tole.es, tijeras
+tags: [ 'tole.es','tijeras', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

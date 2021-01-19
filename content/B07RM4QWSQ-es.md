@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM4QWSQ-es Mochila Infantil Personaje Disney LA Dama Y EL VAGABUNDO'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

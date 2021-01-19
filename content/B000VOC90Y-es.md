@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VOC90Y-es WENGER 600638 Ibex - Mochila para portátil de 17" color azul'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 65.96 EUR
 currency: EUR
 price: 65.96

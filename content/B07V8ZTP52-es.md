@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8ZTP52-es Tommy Hilfiger - Kids Core Backpack Mochilas Unisex Niños...'
-tags: tole.es, backpack
+tags: [ 'tole.es','backpack', ]
 actualPrice: 36.24 EUR
 currency: EUR
 price: 36.24

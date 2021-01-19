@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NXRQ83-es Mayka - Cinta Adhesiva Grande IMC TOYS 97148'
-tags: tole.es, cinta, adhesiva
+tags: [ 'tole.es','cinta','adhesiva', ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

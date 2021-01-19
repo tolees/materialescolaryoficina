@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH3YSJ5-es DazSpirit 7Piezas boligrafo de Tinta Invisible Y mágico de...'
-tags: tole.es, boligrafo
+tags: [ 'tole.es','boligrafo', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

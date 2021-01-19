@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9JBXVQ-es Parfois - Mochila Detalles Efecto Ante - Mujeres - Tallas...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 13 EUR
 currency: EUR
 price: 13

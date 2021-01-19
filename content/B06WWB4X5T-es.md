@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWB4X5T-es Jordi Labanda Floral Mochila Grande 20 L'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

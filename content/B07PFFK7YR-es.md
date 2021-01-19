@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFFK7YR-es Samsonite Ziproll Mochila para portátil de 13.3 pulgadas...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

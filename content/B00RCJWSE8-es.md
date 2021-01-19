@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RCJWSE8-es 3M Post-It 654-SS-VP24COL-EU - Pack de 24 x 90 notas...'
-tags: tole.es, post-it
+tags: [ 'tole.es','post-it', ]
 actualPrice: 21.94 EUR
 currency: EUR
 price: 21.94

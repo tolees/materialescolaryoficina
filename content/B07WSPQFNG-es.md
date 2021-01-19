@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSPQFNG-es YONKINY Mochila Portátil Escolares Juveniles Chica Chico...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

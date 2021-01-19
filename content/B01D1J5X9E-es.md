@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D1J5X9E-es Samsonite Xbr Mochila Tipo Casual 15.6" 47 cm 22 L Color...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 111.13 EUR
 currency: EUR
 price: 111.13

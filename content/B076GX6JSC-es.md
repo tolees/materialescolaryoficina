@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076GX6JSC-es Kipling CLAS SEOUL Mochila escolar 45 cm 25 litros Beige...'
-tags: tole.es, mochila, escolar
+tags: [ 'tole.es','mochila','escolar', ]
 actualPrice: 44.46 EUR
 currency: EUR
 price: 44.46

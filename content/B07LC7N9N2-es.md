@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LC7N9N2-es Selighting Mochila Cámara Réflex Profesional y Impermeable...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

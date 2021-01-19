@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9RBRMM-es JOTHIN Hombre Mochila Táctica 40L Grandes Bolsa de...'
-tags: tole.es, backpack, mochila
+tags: [ 'tole.es','backpack','mochila', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

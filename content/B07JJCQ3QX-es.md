@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJCQ3QX-es ASUS ROG Ranger BP1500 maletines para portátil 39 6 cm...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

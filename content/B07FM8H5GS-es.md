@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM8H5GS-es Estudiantes estuche ElectriBrite Estuche lapices Estuche...'
-tags: tole.es, lápices, lápices
+tags: [ 'tole.es','lápices','lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

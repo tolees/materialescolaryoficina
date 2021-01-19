@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHV185D-es American Tourister Urban Groove - 14 Pulgadas Mochila para...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 25.81 EUR
 currency: EUR
 price: 25.81

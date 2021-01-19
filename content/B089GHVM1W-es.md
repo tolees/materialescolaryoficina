@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GHVM1W-es Mochila para Portátil Hombre 18 4 Pulgadas Impermeable...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 39.83 EUR
 currency: EUR
 price: 39.83

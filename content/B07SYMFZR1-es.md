@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYMFZR1-es Pepe Jeans Pam - Mochila Saco Multicolor 44 cm'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

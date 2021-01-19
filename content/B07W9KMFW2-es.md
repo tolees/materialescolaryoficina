@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W9KMFW2-es PUREBOX Mochila para portátil para hombre mochila escolar...'
-tags: tole.es, mochila, escolar
+tags: [ 'tole.es','mochila','escolar', ]
 actualPrice: 19.3 EUR
 currency: EUR
 price: 19.3

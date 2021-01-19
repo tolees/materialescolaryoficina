@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBNV96Y-es Samsonite Disney Ultimate 2.0 - Mochila Infantil S+ 35 cm...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 31.88 EUR
 currency: EUR
 price: 31.88

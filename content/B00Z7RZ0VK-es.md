@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z7RZ0VK-es Otterbox Symmetry Folio Protección Anti-caídas con Tapa...'
-tags: tole.es, lápiz
+tags: [ 'tole.es','lápiz', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3WS4GC-es LOSMILE Mujer Bolsos mochila Bolsos de mano Bolsos...'
-tags: tole.es, backpack, mochila
+tags: [ 'tole.es','backpack','mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

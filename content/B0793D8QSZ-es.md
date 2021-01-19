@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793D8QSZ-es BABYBJÖRN One Air - Mochila Porta Bebé 3D Tejido de red...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

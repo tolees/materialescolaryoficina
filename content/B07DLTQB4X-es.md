@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLTQB4X-es iSuperb Estuche Escolar Estudiantes Bolsa para Lapices...'
-tags: tole.es, escolar
+tags: [ 'tole.es','escolar', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

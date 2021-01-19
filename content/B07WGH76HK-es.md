@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGH76HK-es Pepe Jeans Pepeb Miller Mochila para Portátil 15 6" Marrón'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 67.88 EUR
 currency: EUR
 price: 67.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5ZT3X3-es Calculadoras Científicas - Calculadora Científica...'
-tags: tole.es, calculadora, escolar
+tags: [ 'tole.es','calculadora','escolar', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

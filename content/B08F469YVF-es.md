@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F469YVF-es 12 lápices de colores diferentes con sacapuntas lápices de...'
-tags: tole.es, lápices, lápices
+tags: [ 'tole.es','lápices','lápices', ]
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

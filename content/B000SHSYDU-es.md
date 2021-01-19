@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SHSYDU-es Staedtler 334-57 - Bolígrafo Gris Oliva'
-tags: tole.es, bolígrafo
+tags: [ 'tole.es','bolígrafo', ]
 actualPrice: 0.96 EUR
 currency: EUR
 price: 0.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079L8DHGH-es AmazonBasics - Mochila compacta de viaje Negro para viajes...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 42.25 EUR
 currency: EUR
 price: 42.25

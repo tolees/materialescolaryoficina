@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSJ5ZCW-es iSuperb Estuche para Lápices Desplegable Encantador Bolso...'
-tags: tole.es, lápices, lápices
+tags: [ 'tole.es','lápices','lápices', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

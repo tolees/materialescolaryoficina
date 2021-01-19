@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NJXSHQ-es zhi wei Mochila Portatil 15.6 Pulgadas Mochila Hombre...'
-tags: tole.es, backpack, mochila
+tags: [ 'tole.es','backpack','mochila', ]
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

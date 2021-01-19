@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQPLB5H-es Pepe Jeans Calvin Mochila Adaptable Multicolor 44 cm'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

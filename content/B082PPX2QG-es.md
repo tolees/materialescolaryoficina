@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PPX2QG-es BONNYCO Bolígrafo Tinta Invisible y Libreta Pack x 32...'
-tags: tole.es, bolígrafo
+tags: [ 'tole.es','bolígrafo', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

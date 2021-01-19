@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPC4KX3-es Ceras Manley 10 Colores 6cm =000330='
-tags: tole.es, manley
+tags: [ 'tole.es','manley', ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

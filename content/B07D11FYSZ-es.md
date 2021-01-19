@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D11FYSZ-es Kipling CLASSIC NIMAN FOLD Mochila tipo casual 49 cm 21...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 48.61 EUR
 currency: EUR
 price: 48.61

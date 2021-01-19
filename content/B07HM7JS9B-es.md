@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HM7JS9B-es Play-Doh Camión De Grava Hasbro E4293EU4'
-tags: tole.es, play-doh
+tags: [ 'tole.es','play-doh', ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OZQAYG-es Rotulador STABILO Pen 68 - Estuche premium Colorparade con...'
-tags: tole.es, stabilo, rotulador, stabilo
+tags: [ 'tole.es','stabilo','rotulador','stabilo', ]
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

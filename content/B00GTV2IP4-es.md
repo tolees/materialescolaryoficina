@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GTV2IP4-es AUSONIA - 31110 Tijeras DE PODA Profesionales para HUERTOS...'
-tags: tole.es, tijeras
+tags: [ 'tole.es','tijeras', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

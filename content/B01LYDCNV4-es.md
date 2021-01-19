@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYDCNV4-es Parker Urban 1931586 - Bolígrafo roller purpurina plateada...'
-tags: tole.es, bolígrafo
+tags: [ 'tole.es','bolígrafo', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

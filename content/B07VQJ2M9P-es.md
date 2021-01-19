@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQJ2M9P-es Carioca Color Box | 100 Rotuladores Super Lavables con una...'
-tags: tole.es, colorear, rotuladores
+tags: [ 'tole.es','colorear','rotuladores', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

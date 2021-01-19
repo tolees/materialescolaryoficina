@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L34KWP0-es BIC Kids Kid Couleur - Pack de 20 rotuladores de colorear...'
-tags: tole.es, colorear, rotuladores
+tags: [ 'tole.es','colorear','rotuladores', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGL1Q3J-es Evaduol Mochilas Escolares Infantil Mochila Niña Colegio...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

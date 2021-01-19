@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJ289SY-es Calculadora YEBMoo calculadora de tabla de 12 dígitos con...'
-tags: tole.es, calculadora
+tags: [ 'tole.es','calculadora', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

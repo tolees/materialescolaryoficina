@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074V7NX1J-es CUILEE Mochila para niños bebés Mochilas para niños con...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

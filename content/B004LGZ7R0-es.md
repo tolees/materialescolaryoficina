@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LGZ7R0-es Mammut Classic Bumbag 0001 Mochila Unisex Adultos Negro...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 15.15 EUR
 currency: EUR
 price: 15.15

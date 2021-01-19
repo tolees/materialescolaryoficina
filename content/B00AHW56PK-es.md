@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AHW56PK-es Staedtler Pigment liner Fineliner 0.1mm - Rotulador Negro'
-tags: tole.es, rotulador
+tags: [ 'tole.es','rotulador', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

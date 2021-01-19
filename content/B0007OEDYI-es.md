@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0007OEDYI-es STAEDTLER 334 SB10 - Bolígrafo punta fina 10 unidades'
-tags: tole.es, bolígrafo
+tags: [ 'tole.es','bolígrafo', ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

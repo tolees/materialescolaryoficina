@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PX9TTX6-es HOTLIFE Funda Teclado para iPad Mini 5 2019/Mini 4 2015...'
-tags: tole.es, lápiz
+tags: [ 'tole.es','lápiz', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

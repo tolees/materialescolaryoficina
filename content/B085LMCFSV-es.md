@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LMCFSV-es MKTOSASA - Mochila Multiusos en Resistente poliéster 600D...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

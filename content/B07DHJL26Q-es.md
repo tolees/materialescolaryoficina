@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHJL26Q-es Mochila de Portáti Hombre Mujer Mochila con funda...'
-tags: tole.es, mochila, escolar
+tags: [ 'tole.es','mochila','escolar', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

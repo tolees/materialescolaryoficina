@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5YWCQ8-es Casio FX-83GTX - Calculadora científica Color Azul'
-tags: tole.es, calculadora
+tags: [ 'tole.es','calculadora', ]
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072TZ1WQ2-es XP-PEN Star 06 Tableta Gráfica Dibujo 10 x 6 Pulgada. 2.4G...'
-tags: tole.es, lápiz
+tags: [ 'tole.es','lápiz', ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

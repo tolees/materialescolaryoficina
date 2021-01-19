@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWCS286-es AGPTEK Bolsa Deporte y Viaje para Mujer y Hombre con...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

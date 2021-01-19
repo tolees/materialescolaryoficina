@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088HHMCQK-es Ritches Diario de Puntos A5 - Cuaderno de Tapa Dura de...'
-tags: tole.es, bolígrafo
+tags: [ 'tole.es','bolígrafo', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

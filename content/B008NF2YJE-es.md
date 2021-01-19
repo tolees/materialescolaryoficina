@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008NF2YJE-es Case Logic - Mochila para portátiles de 16"/40 cm Color...'
-tags: tole.es, mochila
+tags: [ 'tole.es','mochila', ]
 actualPrice: 36.74 EUR
 currency: EUR
 price: 36.74
