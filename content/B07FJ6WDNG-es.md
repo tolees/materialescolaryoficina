@@ -27,8 +27,8 @@ Está [Pentel GFKPN Pocket Brush bolígrafo de tinta de pigmentos para caligraf�
 ℹ️:
 
 - Bolígrafo de punta fina de tinta gris con pigmentos
-- Bolígrafo recargable con 4 cartuchos de tinta FP10.
 - Tinta resistente al agua y a la luz.
 - Pelo sintético duradero y muy resistente.
+- Bolígrafo recargable con 4 cartuchos de tinta FP10.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FJ6WDNG/?tag=tolees-21)
