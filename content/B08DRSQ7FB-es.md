@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510QUEUi6CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DRSQ7FB-es'
+slug: 'B08DRSQ7FB-es Guizu 9 Bolsas de Colores DIY + 12 bolígrafos de Colores  Bolsas de Colores para Graffiti para niños  Manualidades para niños  artículos para Fiestas  Regalos de cumpleaños'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

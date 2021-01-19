@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417DdusC0qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6SWHN7-es'
+slug: 'B07V6SWHN7-es Kipling SEOUL XL Mochila tipo casual  45 cm  33 litros  Plateado  Metallic Glow '
 actualPrice: 50.39 EUR
 currency: EUR
 price: 50.39

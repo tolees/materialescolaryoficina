@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51woHjrSNbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G87DZBJ-es'
+slug: 'B07G87DZBJ-es INT!REND Rotuladores punta de pincel 51 SET | Compuesto por 24 rotuladores acuarelables profesionales  2 pinceles  20 hojas papel de acuarela  5 plantillas para dibujar'
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

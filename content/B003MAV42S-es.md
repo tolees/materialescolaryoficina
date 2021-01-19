@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E7SkZUUGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003MAV42S-es'
+slug: 'B003MAV42S-es Flamastry Stabilo Power 30 sztuk'
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

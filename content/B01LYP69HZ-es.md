@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kZ3JTeD8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYP69HZ-es'
+slug: 'B01LYP69HZ-es Parker IM - Bolígrafo Roller  Punto fino  color Acero  Brushed Metal Golden trim '
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

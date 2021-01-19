@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jfBrBOh1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLSMK38-es'
+slug: 'B07DLSMK38-es American Tourister Urban Groove - 15.6 pulgadas Mochila para portátil  50 cm  27 L  Azul  Blue '
 actualPrice: 31.77 EUR
 currency: EUR
 price: 31.77

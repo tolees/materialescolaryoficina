@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TaRmhaZuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXP551Z-es'
+slug: 'B07VXP551Z-es XP-PEN Artist 13.3 Pro Tableta de Dibujo Pantalla Digital Portátil de 13.3 Pulgadas con Lápiz sin Batería para Diseño de Arte'
 actualPrice: 280.49 EUR
 currency: EUR
 price: 280.49

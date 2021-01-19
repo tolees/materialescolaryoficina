@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5191J13eqpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDYRVDZ-es'
+slug: 'B08CDYRVDZ-es Juego de pintura de acuarela  48 colores profesionales  12 colores metálicos brillantes  lápiz de dibujo  bolígrafo de línea de gancho  caja de metal para niños  adultos  principiantes y profesionales'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/616Y8zhMRhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TX7M8HS-es'
+slug: 'B07TX7M8HS-es BeebeeRun 12pcs Mochilas Dinosaurio Bolsas de Cuerdas para Infantil Niños niñas Mochila con Cordón Party Bolsas Saco de Deporte Infantil Fiesta de Cumpleaños Regalos'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

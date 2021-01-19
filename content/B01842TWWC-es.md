@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21DKTw6eIdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01842TWWC-es'
+slug: 'B01842TWWC-es Faber Castell B-9067-2B - Blíster tubo de 12 minas  0.7 mm 2B  color negro'
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

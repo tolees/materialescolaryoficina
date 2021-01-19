@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413s8nsS8gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M65PBTK-es'
+slug: 'B07M65PBTK-es UTOTEBAG Mochila Portátil 15.6 Pulgadas Mochilas para Ordenador Portatil Antirrobo Impermeable con Puerto USB Ocio/Negocio/Viaje  Hombre/Mujer- Gris '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

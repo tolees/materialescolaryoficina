@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OD2WHoFkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9RBRMM-es'
+slug: 'B07L9RBRMM-es JOTHIN Hombre Mochila Táctica 40L Grandes Bolsa de Senderismo Impermeable Deporte Mochilas de Camping Resistente Tela Oxford Backpack USB  marrón '
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

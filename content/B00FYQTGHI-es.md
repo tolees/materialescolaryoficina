@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uYuK+-MsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FYQTGHI-es'
+slug: 'B00FYQTGHI-es Apli 13243- Recambio Barras de Cola Termofusible Ø 7 5 mm X 10 cm 10 Barras  Transparente - 10 Uds.'
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

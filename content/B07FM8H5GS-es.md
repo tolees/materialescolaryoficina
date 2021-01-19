@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FSy9OdJ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FM8H5GS-es'
+slug: 'B07FM8H5GS-es Estudiantes estuche  ElectriBrite Estuche lapices  Estuche de lápices para niñas  estuche de lápices para adolescentes de 7 8 x 3 2 pulgadas'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

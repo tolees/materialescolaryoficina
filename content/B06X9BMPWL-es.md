@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510rOs2veyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9BMPWL-es'
+slug: 'B06X9BMPWL-es Transformers Play-Doh Autobot Sqweeks  Multicolor  24 x 24 x 15 cm  Hasbro C0935EU4 '
 actualPrice: 30.44 EUR
 currency: EUR
 price: 30.44

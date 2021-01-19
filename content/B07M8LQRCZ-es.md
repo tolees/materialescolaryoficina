@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512uYTZ9ISL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8LQRCZ-es'
+slug: 'B07M8LQRCZ-es Antirrobo Mochila Seguridad Impermeable con Bloqueo Mochila Hombre Portátil 15 6 Pulgadas con Puerto de USB Mochila de Viaje del Trabajo Viaje Negocio Multifuncional Daypack Gris'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

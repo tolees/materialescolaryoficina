@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ArsOumd+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7G46LZ-es'
+slug: 'B07K7G46LZ-es Viedouce Mochila para Portátiles Escolares Mochilas Antirrobo Impermeable Daypacks con Puerto de Carga USB & Puerto de Auriculares Negocio Mochila Portátil para Hombre Mujer  Azul-17.3 Pulgadas '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RqsOrjyPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQRY4G6-es'
+slug: 'B07ZQRY4G6-es Arteza Recambios de bolígrafo de gel azul | Paquete de 50 recargas de bolígrafo de tinta de gel azul | Secado rápido  sin tóxicos | Punta fina para escribir  tomar notas y dibujar'
 actualPrice: 9.51 EUR
 currency: EUR
 price: 9.51

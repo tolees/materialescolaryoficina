@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iD4fM8FCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSPP8WY-es'
+slug: 'B07YSPP8WY-es Bolígrafo Gel Pluma de Papelería Suministros Escuela Oficina Bolígrafos de Tinta Gel 0.5mm Azul  10 piezas '
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

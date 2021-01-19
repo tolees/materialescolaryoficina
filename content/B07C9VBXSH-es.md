@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Wib2383-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C9VBXSH-es'
+slug: 'B07C9VBXSH-es Vanguard Sedona Wanderlust - Mochila fotográfica  Color Verde'
 actualPrice: 69.04 EUR
 currency: EUR
 price: 69.04

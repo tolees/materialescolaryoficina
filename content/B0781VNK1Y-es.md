@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bBq8seBxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781VNK1Y-es'
+slug: 'B0781VNK1Y-es BIC Kids Evolution ECOlutions Lápices para Colorear - colores Surtidos  Blíster de 36 unidades'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413c8EPTbcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751RBN9R-es'
+slug: 'B0751RBN9R-es iskn The Slate 2+ Lápiz y Papel Tableta gráfica'
 actualPrice: 122.35 EUR
 currency: EUR
 price: 122.35

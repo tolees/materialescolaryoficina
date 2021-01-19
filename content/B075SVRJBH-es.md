@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TNIoDmwDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075SVRJBH-es'
+slug: 'B075SVRJBH-es Joymoze Bonita Mochila Escolar Impermeable para Niños y Niñas - Cartera Ligera de Estampado Elegante Cactus'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

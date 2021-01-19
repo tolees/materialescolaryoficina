@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P4J1u2CuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FG12H6Z-es'
+slug: 'B08FG12H6Z-es Voova Mochila de Pañales para Mamá Papá con Cambiar de Mat  Estilo Versátil Resistente al Agua Bolsa de Pañales para Bebés  Gran Capacidad de Pañales Cambiador de Bolsa con Correas de Cochecito Negro'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

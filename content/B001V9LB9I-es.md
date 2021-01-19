@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qfA8Mqx4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001V9LB9I-es'
+slug: 'B001V9LB9I-es Rimmel London  Lápiz de Cejas  Marrón Oscuro  1 4 g'
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

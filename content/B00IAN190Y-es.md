@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CsfamU72L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IAN190Y-es'
+slug: 'B00IAN190Y-es Sammies by Samsonite - Bolsa escolar'
 actualPrice: 4.46 EUR
 currency: EUR
 price: 4.46

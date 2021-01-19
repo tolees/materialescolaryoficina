@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5105i57jsIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LG18LS-es'
+slug: 'B079LG18LS-es AmazonBasics - Mochila compacta de viaje  Morado  para viajes de fin de semana'
 actualPrice: 54.15 EUR
 currency: EUR
 price: 54.15

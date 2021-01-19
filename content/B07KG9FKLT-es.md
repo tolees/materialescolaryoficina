@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jNw2wTtyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG9FKLT-es'
+slug: 'B07KG9FKLT-es Heiyo Lápiz Surface 200 Horas de Trabajo y 360 días de Espera  Activos Surface Lápiz Puntero Compatible con Surface Go/Pro 3/Pro 4/Pro 2017  Surface Laptop/Book/Studio'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

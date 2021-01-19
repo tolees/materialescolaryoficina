@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EnQI0Y2eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWGXD9B-es'
+slug: 'B07QWGXD9B-es Set de Geometría Set de Matemáticas10 Piezas Que Incluye brújula  transportador  regla  Lápiz Espere Con Caja de Almacenamiento '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

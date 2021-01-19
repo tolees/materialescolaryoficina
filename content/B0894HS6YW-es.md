@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HEo1gyriL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894HS6YW-es'
+slug: 'B0894HS6YW-es Dazspirit 36 Colores Caja Acuarelas Profesionales & Papel de Acuarela. Versátil  Vibrante y Portátil  36 colores '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

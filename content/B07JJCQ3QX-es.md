@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413ZLXGSk0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJCQ3QX-es'
+slug: 'B07JJCQ3QX-es ASUS ROG Ranger BP1500 maletines para portátil 39 6 cm  15.6"  Mochila Negro  Gris - Funda  Mochila  39 6 cm  15.6"   720 g  Negro  Gris '
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

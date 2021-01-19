@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5106Bn5jvQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL48XLJ-es'
+slug: 'B07HL48XLJ-es Mochila Lona  Mochila para Portátil 17.3 Pulgadas  Vintage Recorrido del Morral al Aire Libre Acampada Y Senderismo  Ba8-Black '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

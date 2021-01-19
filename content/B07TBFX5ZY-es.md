@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U6pRRh2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBFX5ZY-es'
+slug: 'B07TBFX5ZY-es Quiksilver Burst - Mochila Mediana Para Hombre Mochila Mediana  Hombre  Black  1SZ'
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gMvPf0UxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XYSWOMC-es'
+slug: 'B00XYSWOMC-es Capital Sports Travel S Bolsa de deporte 45l  Tejido impermeable  compartimento apertura forma D  fácil llenado  material robusto  asa y correas  transportable mano  hombro  mochila espalda  negra '
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

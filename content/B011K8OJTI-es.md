@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417mVwy4aAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B011K8OJTI-es'
+slug: 'B011K8OJTI-es Black Diamond Speed 22 Mochila  Unisex Adulto  Sulfur'
 actualPrice: 64.13 EUR
 currency: EUR
 price: 64.13

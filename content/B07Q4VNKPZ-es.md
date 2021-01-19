@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J+vnRnhrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4VNKPZ-es'
+slug: 'B07Q4VNKPZ-es CARE OF by PUMA Mochila 23L  Azul  Navy Blazer   One Size  Label: One Size'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

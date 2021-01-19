@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510y4jtyHwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000FFT1KA-es'
+slug: 'B000FFT1KA-es STAEDTLER Ergo Soft - Lápices de Colores  12 Unidades   Multicolor'
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

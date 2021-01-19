@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aa1V9uYHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJO5O8-es'
+slug: 'B000KJO5O8-es Apli 10198 - Etiquetas  25 hojas'
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

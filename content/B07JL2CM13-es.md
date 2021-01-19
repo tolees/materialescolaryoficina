@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412Dw6ZTdHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JL2CM13-es'
+slug: 'B07JL2CM13-es Under Armour UA Undeniable SP 2.0 Accesorio  Mochila Deportiva  Unisex  Rojo  OSFA'
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

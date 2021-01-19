@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510AfG2a8IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLH4MGJ-es'
+slug: 'B07XLH4MGJ-es Agenda 2021  Agenda Académica A5 Semanal para ver la agenda de enero de 2021 a diciembre de 2021  agenda semanal con funda de cuero  bolsillo interior con presilla para bolígrafo y 88 páginas de notas'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

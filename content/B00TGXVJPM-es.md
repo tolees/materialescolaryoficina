@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510xrcj03DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TGXVJPM-es'
+slug: 'B00TGXVJPM-es BIC Velleda Pocket rotuladores Punta Ancha - colores Surtidos  Caja de 4 unidades'
 actualPrice: 4.81 EUR
 currency: EUR
 price: 4.81

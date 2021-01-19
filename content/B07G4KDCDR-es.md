@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+KWW98BKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4KDCDR-es'
+slug: 'B07G4KDCDR-es Real Madrid CF 611854662 Mochila Adaptable a Carro  Niños  Blanco  43 cm'
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

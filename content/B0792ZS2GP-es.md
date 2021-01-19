@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fpJPrCwFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792ZS2GP-es'
+slug: 'B0792ZS2GP-es BABYBJÖRN  One- Mochila Porta Bebé  2018 Edition  Algodón Mix  Vaquero Gris/Gris Oscuro'
 actualPrice: 125.41 EUR
 currency: EUR
 price: 125.41

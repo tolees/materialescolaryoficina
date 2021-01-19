@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LYr4i7bzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083WWM1MR-es'
+slug: 'B083WWM1MR-es Mochila Safta Espalda Ergonómica con Carro Safta Evolution'
 actualPrice: 27.14 EUR
 currency: EUR
 price: 27.14

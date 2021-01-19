@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G9+IcQKoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ6C3DT-es'
+slug: 'B07KQ6C3DT-es Millet Ubic 40 - Mochila  Unisex Adulto  Negro  Talla Única'
 actualPrice: 112.95 EUR
 currency: EUR
 price: 112.95

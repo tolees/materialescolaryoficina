@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61mUVOzxLlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXP61DF-es'
+slug: 'B07RXP61DF-es Hethrone Rotuladores Punta Pincel 100 Color Rotuladores Doble Punta Acuarelables Profesionales  Dual Tip Brush Pen para Adultos Niños Caligrafía  Lettering  Bocetos  Dibujo'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

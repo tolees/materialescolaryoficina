@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Aj9sYG-0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019KHVA7K-es'
+slug: 'B019KHVA7K-es Arena Fastpack 2.1 Mochila  Unisex Adulto  Negro  Black/Fluo Yell   36x24x45 cm  W x H x L '
 actualPrice: 55.61 EUR
 currency: EUR
 price: 55.61

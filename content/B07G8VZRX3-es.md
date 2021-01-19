@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+ipCuxr5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8VZRX3-es'
+slug: 'B07G8VZRX3-es Xnuoyo Mochila Antirrobo de Portátil  15 6 Pulgada Mochila Ordenador Portatil Resistente al Agua con el Puerto de Carga y Auriculares USB para Hombre Mujer Oficina Trabajo Diario Negocio  Gris'
 actualPrice: 26.39 EUR
 currency: EUR
 price: 26.39

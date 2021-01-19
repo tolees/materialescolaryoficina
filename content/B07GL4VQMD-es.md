@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cMuOjdbsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GL4VQMD-es'
+slug: 'B07GL4VQMD-es Deuter Kid Comfort Mochila Tipo Casual 72 Centimeters 14 Rojo  Maron '
 actualPrice: 127.84 EUR
 currency: EUR
 price: 127.84

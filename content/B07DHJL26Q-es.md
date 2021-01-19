@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iPa-Jy83L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHJL26Q-es'
+slug: 'B07DHJL26Q-es Mochila de Portáti Hombre Mujer Mochila con funda ajustable para computadora de hasta 15.6 pulgadas  Mochila escolar impermeable para el viaje de trabajo diario de negocios - Azul gris  7651-BG '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

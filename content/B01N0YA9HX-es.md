@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QsT4po2hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0YA9HX-es'
+slug: 'B01N0YA9HX-es APLI Kids - Caja sellos Animales de la granja con tinta   color/modelo surtido'
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Nw5fh9KRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005FQDDJ4-es'
+slug: 'B005FQDDJ4-es Max Factor Khol Pencil Eyeliner Lápiz de Ojos Tono 50 Charcoal Grey - 4 gr'
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

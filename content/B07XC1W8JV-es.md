@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dbNabVtiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XC1W8JV-es'
+slug: 'B07XC1W8JV-es Nene Toys – Pizarra Mágica con Luz para Niños y Niñas de 3 a 12 años [Nuevo Modelo] – Juguete Educativo que Desarrolla Creatividad - Incluye 2 Bolígrafos + 5 Plantillas + 2 Tinta Invisible [Tamaño A3]'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410UqK9TuZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KB4ZM5M-es'
+slug: 'B07KB4ZM5M-es Miquelrius - Mochila Grande Poliéster Con Carro Cierres Cremallera Sakura'
 actualPrice: 16.44 EUR
 currency: EUR
 price: 16.44

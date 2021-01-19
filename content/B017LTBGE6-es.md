@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417ut2QAGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017LTBGE6-es'
+slug: 'B017LTBGE6-es Boma B47008400013 - Cinta adhesiva para reparación  50 mm x 10 m   color marrón'
 actualPrice: 8.77 EUR
 currency: EUR
 price: 8.77

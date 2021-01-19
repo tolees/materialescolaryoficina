@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ry3ASAL-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SM8NL5G-es'
+slug: 'B07SM8NL5G-es Cabin Max Metz 20L 40x20x25 cm Maleta de Cabina Pequeña Mochila de Viaje Stowaway Ideal para Llevar Debajo del Asiento en Ryanair  Azul Atlantico '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

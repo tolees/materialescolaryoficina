@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JZ4oXdrkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FLW5B8-es'
+slug: 'B075FLW5B8-es Baby Playpen - Centro de actividades para niños  juego de seguridad en el patio  interior y exterior  con 14 paneles  bolígrafo  8 panel '
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

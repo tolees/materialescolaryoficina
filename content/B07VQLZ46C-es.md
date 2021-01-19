@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mdJhDMLEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQLZ46C-es'
+slug: 'B07VQLZ46C-es Depesche 10709 Magic Scratch Book Miss Melody - Libro para Colorear'
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YvwHEAw4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084YBZFLT-es'
+slug: 'B084YBZFLT-es Targus Drifter II mochila con 3 grandes compartimentos  mochila para ordenador de hasta 17 pulgadas  mochila impermeable con correas acolchadas - negro/gris  TBB23901GL'
 actualPrice: 32.37 EUR
 currency: EUR
 price: 32.37

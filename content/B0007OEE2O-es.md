@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K8N5lheeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0007OEE2O-es'
+slug: 'B0007OEE2O-es Rotulador punta fina STABILO point 88 - Estuche con 20 colores'
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21bvIHjkUYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TGV5NEC-es'
+slug: 'B00TGV5NEC-es L Oréal Paris Lápiz de Labios Lip Liner Couture by Color Riche 630'
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51k20n7Vb7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2Q4QM8-es'
+slug: 'B07C2Q4QM8-es Carretilla Plegable Wilbest  Carritos Porta Equipajes con 4 Ruedas Carga Máxima 70 kg/165 lbs - Después de Plegar se Puede Poner en la Mochila - Negro'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+4qN+1FmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVFBTPN-es'
+slug: 'B07BVFBTPN-es Mochila Hombre para Portátil  Mochila Antirrobo Impermeable Mochilas para portatil 17.3 Pulgadas con Cargador USB Mochila Viajes para Ocio/Negocio-Negro'
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413PmSvl06L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RVNDT6T-es'
+slug: 'B07RVNDT6T-es Kit de cuidado profesional para barba y bigote: aceite hidratante  cera natural  cepillo  peine de madera  tijeras  navaja y perfilador de afeitado - Set de productos y accesorios para barbero'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

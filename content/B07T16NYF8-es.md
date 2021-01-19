@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ywilKRjOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T16NYF8-es'
+slug: 'B07T16NYF8-es Pepe Jeans Daniela  Mochila Escolar Adaptable  42 cm  20.83 Litros  Multicolor'
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

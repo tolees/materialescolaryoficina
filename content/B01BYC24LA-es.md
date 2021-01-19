@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aVMj5D-CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BYC24LA-es'
+slug: 'B01BYC24LA-es AtmosFlare- Disney Boligrafo 3D  Miscelanea  Giochi Preziosi Spagna D3D00000 '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

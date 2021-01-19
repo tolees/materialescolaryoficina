@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KHJOe4UiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KO6GO8M-es'
+slug: 'B00KO6GO8M-es BIC Cristal Soft bolígrafos punta media  1 2 mm  - Azul  Blíster de 4 unidades'
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

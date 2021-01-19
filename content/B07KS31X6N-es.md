@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4189A7YM3rL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KS31X6N-es'
+slug: 'B07KS31X6N-es UtoteBag Mochila Deporte Convertible Bolsa Gimnasio Viaje Bolsa Hombro para Hombre Mujer Ordenador portátil Mochila 17.3   Multiusos Lona Cilíndrico Alta Capacidad Mochila 42L Lienzo Negro '
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

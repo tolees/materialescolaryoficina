@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51cLObtUEsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LMFJSY-es'
+slug: 'B079LMFJSY-es AmazonBasics - Mochila compacta de viaje  Rojo  para viajes de fin de semana'
 actualPrice: 47.12 EUR
 currency: EUR
 price: 47.12

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sbvbJhqUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FT6D8RS-es'
+slug: 'B07FT6D8RS-es Mochila de pañales para cambiar pañales con diseño abierto Abierto Gran capacidad Bolsa de momias a prueba de agua Multifunción Elegante para mamá/papá Viajar con un bebé  Chevron '
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

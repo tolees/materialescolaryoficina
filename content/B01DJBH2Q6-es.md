@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41taB6lD6KL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DJBH2Q6-es'
+slug: 'B01DJBH2Q6-es Parker Jotter Stainless Steel bolígrafo CT'
 actualPrice: 13.53 EUR
 currency: EUR
 price: 13.53

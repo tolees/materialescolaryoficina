@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XK6IWPjVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TB7DNV-es'
+slug: 'B079TB7DNV-es Alpino AL010760 - Estuche 36 lápices'
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41psD+vDGeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRLVGHS-es'
+slug: 'B07DRLVGHS-es Kipling CLAS SEOUL Mochila escolar  45 cm  25 liters  Morado  Active Lilac Bl '
 actualPrice: 52.25 EUR
 currency: EUR
 price: 52.25

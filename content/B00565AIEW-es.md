@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00565AIEW-es'
+slug: 'B00565AIEW-es Apli 2412 - Etiquetas  100 hojas'
 actualPrice: 16.29 EUR
 currency: EUR
 price: 16.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SpKtu3uqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KTB4UG-es'
+slug: 'B000KTB4UG-es BIC Kids Evolution Triangle ECOlutions Lápices de colores Triangulares - colores Surtidos  Blíster de 12 unidades'
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

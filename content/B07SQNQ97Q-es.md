@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31AtD2knkiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQNQ97Q-es'
+slug: 'B07SQNQ97Q-es Parfois - Mochila Efecto Piel - Mujeres - Tallas M - Blanco'
 actualPrice: 13 EUR
 currency: EUR
 price: 13

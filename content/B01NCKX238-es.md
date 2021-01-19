@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cqClKv8jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCKX238-es'
+slug: 'B01NCKX238-es MOUNTAINTOP 60L Mochila de Senderismo Impermeable Multifuncio/Mochila Trekking/Escalada Mochila/Mochila de Camping/Mochila de Viaje con Cubierta de Lluvia 81 x 32 x 23 cm'
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

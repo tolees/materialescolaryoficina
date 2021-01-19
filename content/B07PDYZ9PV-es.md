@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mu9Zy3IHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDYZ9PV-es'
+slug: 'B07PDYZ9PV-es Samsonite 2WM - Mochila para portátil M de 15.6 pulgadas - Roll Top  64 cm  20 L  Marrón  Saffron '
 actualPrice: 96.17 EUR
 currency: EUR
 price: 96.17

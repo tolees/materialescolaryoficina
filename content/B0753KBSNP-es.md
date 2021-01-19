@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cDM1+b+GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753KBSNP-es'
+slug: 'B0753KBSNP-es Parker Jotter  Bolígrafo  1  Bronze Gothic'
 actualPrice: 17.36 EUR
 currency: EUR
 price: 17.36

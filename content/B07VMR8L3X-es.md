@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cLAM2TOVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMR8L3X-es'
+slug: 'B07VMR8L3X-es Memoryee Stranger Things 3D de impresión Unisex Niño Bolsa para la Escuela Collection Mochila de Lona portátil Libro Satchel Bolsa de Senderismo - 15L / 32 x 17 x 42 cm'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

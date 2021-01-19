@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415GGtYkHhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL1K1VK-es'
+slug: 'B07HL1K1VK-es Head Tour Team Backpack Bolsa de Tenis  Adultos Unisex  Navy/Azul  Otro'
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

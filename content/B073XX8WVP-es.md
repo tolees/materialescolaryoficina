@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zkh+2mJOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XX8WVP-es'
+slug: 'B073XX8WVP-es Acmebon Mochila Escolar de Ocio Ligera y Moderna - Cartera Escolar para Niñas y Niños con Lindo Estampado Cactus 626'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

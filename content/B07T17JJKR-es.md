@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uJkUUgPsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T17JJKR-es'
+slug: 'B07T17JJKR-es Armani Exchange Liz - Mochila  28 x 8 x 26 cm  color Azul  talla 28x8x26 cm  B x H x T '
 actualPrice: 66.83 EUR
 currency: EUR
 price: 66.83

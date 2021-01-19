@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dBIM48OsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074NWRLD3-es'
+slug: 'B074NWRLD3-es Bolsa grande de viaje  Bolsa de deporte Mochila  Mochila para hombres señora Bolsillo de computadora 40L  Gris '
 actualPrice: 30.52 EUR
 currency: EUR
 price: 30.52

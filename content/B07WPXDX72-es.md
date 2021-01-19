@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510O-WCU9xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WPXDX72-es'
+slug: 'B07WPXDX72-es Mochilas Infantiles  Mochilas para Niños Niñas  Bolsa de Jardín de Infancia Mochila Infantil de Animales Dibujos Lindos para Niños Bolsa Escuela para Niños de 3-7 años  Azul Oscuro '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

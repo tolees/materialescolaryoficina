@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GDwGr7rLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QK8LB1-es'
+slug: 'B075QK8LB1-es CYBEX Gold Mochila Portabebés MAIRA.tie  desde el nacimiento hasta los 2 años aprox.  3 5 – 15 kg aprox.   100% Algodón  Lavastone Black'
 actualPrice: 110.16 EUR
 currency: EUR
 price: 110.16

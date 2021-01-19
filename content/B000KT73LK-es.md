@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wjHM8O5yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KT73LK-es'
+slug: 'B000KT73LK-es Faber-Castell 117511 - Estuche de metal con 120 ecolápices acuarelables  multicolor'
 actualPrice: 166.72 EUR
 currency: EUR
 price: 166.72

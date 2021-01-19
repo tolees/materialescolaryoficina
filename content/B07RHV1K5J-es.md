@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CtIwOdaGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHV1K5J-es'
+slug: 'B07RHV1K5J-es American Tourister Urban Groove - 15.6 Pulgadas Mochila para portátil  48 cm  33.5 L  Negro  Black '
 actualPrice: 44.37 EUR
 currency: EUR
 price: 44.37

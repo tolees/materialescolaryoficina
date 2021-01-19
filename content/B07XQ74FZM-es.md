@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nUPwQLhqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQ74FZM-es'
+slug: 'B07XQ74FZM-es Bolígrafo Por Scriveiner London - Bolígrafo de Gama Alta Negro con Acabado de 24 Quilates  Recambio Negro Schmidt  Regalos Hombre y Mujer  Bolígrafos Profesionales de Diseño'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

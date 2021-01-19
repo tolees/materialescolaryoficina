@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41E3XbXd2nL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DPCMVP-es'
+slug: 'B079DPCMVP-es Cuaderno Inteligente Reutilizable - NEWYES Libreta de B5 con Bolígrafo Borrable Usar Agua y Calor Para Limpiar Usa Aplicación Subirlas Notas a la Nube Everlast Notebook'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

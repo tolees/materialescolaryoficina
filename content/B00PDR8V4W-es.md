@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OaowdhfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PDR8V4W-es'
+slug: 'B00PDR8V4W-es Carioca Joy - Rotuladores superlavables de punta fina  pack de 24 piezas  2.6 mm'
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

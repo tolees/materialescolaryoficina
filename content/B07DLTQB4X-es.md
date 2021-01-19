@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hJZrayIiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLTQB4X-es'
+slug: 'B07DLTQB4X-es iSuperb Estuche Escolar Estudiantes Bolsa para Lapices Adolescentes Papelería Bolsa Caso Plumier Pencil Case para Niñas Colegio Color Sólido 19 8 X 8 X 5cm'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

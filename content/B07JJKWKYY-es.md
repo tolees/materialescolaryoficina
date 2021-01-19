@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e5EQsVq6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJKWKYY-es'
+slug: 'B07JJKWKYY-es Under Armour Gametime BP Mochila  Unisex Adulto  Gris  OSFA'
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

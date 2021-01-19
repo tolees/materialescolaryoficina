@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UDyATUMRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJ289SY-es'
+slug: 'B07CJ289SY-es Calculadora  YEBMoo calculadora de tabla de 12 dígitos con gran pantalla electrónica. Calculadora de energía solar y pilas AA  color negro  Calculator-black '
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

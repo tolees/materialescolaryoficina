@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TehmMfuBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZH5PWF-es'
+slug: 'B086ZH5PWF-es Bolígrafo de 10 colores Bolígrafo de gel de dibujos animados lindo Bolígrafo retráctil multifuncional Bolígrafo Escolar Suministros de papelería de oficina escolar - Aleatorio'
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

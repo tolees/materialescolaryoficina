@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LqgzriZqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZN3VDT-es'
+slug: 'B077ZN3VDT-es MagiDeal Accesorio para Tablero LCD de Notas Escritura Dibujo Cubierta Protector de Tela/Lápiz Óptico - Lápiz Negro 4.8 Pulgadas'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

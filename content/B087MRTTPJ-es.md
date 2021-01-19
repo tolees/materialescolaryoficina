@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PsZ2lXgWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087MRTTPJ-es'
+slug: 'B087MRTTPJ-es DMM Supplies Mochila Happy Animals Ovejita Guardería  Unisex niños  Rosa  Talla del Producto'
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

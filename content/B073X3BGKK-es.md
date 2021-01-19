@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419EhMSVsvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073X3BGKK-es'
+slug: 'B073X3BGKK-es Eastpak Back To Work Mochila  43 cm  27 L  Azul  Cloud Navy '
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

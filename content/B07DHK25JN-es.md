@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rYGoICBcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHK25JN-es'
+slug: 'B07DHK25JN-es Mochila de Portáti  Hap Tim Hombre Mujer Mochila con Funda Ajustable para computadora de hasta 15.6 Pulgadas  Mochila Escolar Impermeable para el Viaje de Trabajo Diario de Negocios - Gris  7651-G '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

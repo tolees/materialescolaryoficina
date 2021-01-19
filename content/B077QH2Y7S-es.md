@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E4Gmw7QKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QH2Y7S-es'
+slug: 'B077QH2Y7S-es Ergobaby Mochila Portabebés Ergonomicas Coleccion Original  Azul Marino'
 actualPrice: 80.67 EUR
 currency: EUR
 price: 80.67

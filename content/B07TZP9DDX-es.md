@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mhAiBcO+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZP9DDX-es'
+slug: 'B07TZP9DDX-es Disney Mochila para Niños Coco'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

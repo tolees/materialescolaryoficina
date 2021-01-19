@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51l9XG+N3eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSYS3YB-es'
+slug: 'B07YSYS3YB-es Kit de cuidado para barba hombre • Sapiens • Aceite barba y bálsamo 100% origen natural HECHO EN FRANCIA • Cepillo barba de cerdas de jabalí  Peine de madera  Tijeras de punta redonda y Bolsa de tela'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

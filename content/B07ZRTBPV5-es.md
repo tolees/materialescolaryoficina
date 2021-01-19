@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hF4fVCXSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRTBPV5-es'
+slug: 'B07ZRTBPV5-es Unicornio regalos para niñas paquete de 5  mochila con cordón de unicornio/bolsa de maquillaje/collar con colgante de unicornio/brazalete/anillo de unicornio'
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

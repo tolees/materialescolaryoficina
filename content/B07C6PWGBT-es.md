@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qWGQPBowL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C6PWGBT-es'
+slug: 'B07C6PWGBT-es RUVALINO Mochila para Ordenador Portátil  Se Adapta a Portátiles de 15.6-17" Negro'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

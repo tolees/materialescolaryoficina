@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5108FqjNOrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTHKC4G-es'
+slug: 'B07QTHKC4G-es HOMIEE Mochila para Portátil con Puerto de Carga USB/Puerto para Auriculares Bolsa antirrobo Liviana - Adaptable para 15.6 Pulgadas  Mochila Informal Delgada  Impermeable Viajes  Universidad'
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

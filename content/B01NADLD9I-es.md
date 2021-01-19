@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51k80RV4hzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NADLD9I-es'
+slug: 'B01NADLD9I-es Rotulador punta media STABILO pointMax - Estuche con 12 colores'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

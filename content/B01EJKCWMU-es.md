@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IoTgOiTXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EJKCWMU-es'
+slug: 'B01EJKCWMU-es Moleskine - Set de Escritura Inteligente  Cuaderno Digital y Bolígrafo + Smart Bolígrafo  Cuaderno con Tapa Dura Negra Apto para Uso con Bolígrafo Moleskine+  Hojas Punteadas  Color Negro'
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

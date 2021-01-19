@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cvDqGFlOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHPHSPF-es'
+slug: 'B07PHPHSPF-es Scratch Tools  juego de lápices de colores de doble punta para colorear para niños  suministros de arte 14 piezas'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ehKXL2tlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00028XNNG-es'
+slug: 'B00028XNNG-es DYMO LW 99014 Etiquetas de envío / distintivos  blanco  54 mm x 101 mm'
 actualPrice: 23.82 EUR
 currency: EUR
 price: 23.82

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/618YbhoBqJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WV1GQB-es'
+slug: 'B078WV1GQB-es Lápices de acuarela para colorear  20 pinceles para manualidades  colorear libros  bocetos  pintura de caligrafía  con 1 pincel de agua con punta de fieltro'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

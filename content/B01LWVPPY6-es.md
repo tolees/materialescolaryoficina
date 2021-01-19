@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411o5yiVC2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWVPPY6-es'
+slug: 'B01LWVPPY6-es Marcador STABILO BOSS Original Pastel - Caja con 10 unidades - Color rubor rosa'
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aPuvWQejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRJXZDQ-es'
+slug: 'B07YRJXZDQ-es DazSpirit Bolígrafo de Tinta Invisible  20Pcs lápiz espía Y mágico de luz UV para Mensajes Secretos y Fiestas Noticias Regalos Sencillas mágicas'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tWDY9ZHtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P562KYB-es'
+slug: 'B07P562KYB-es Mochila de paseo Pepe Jeans Molly gris'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

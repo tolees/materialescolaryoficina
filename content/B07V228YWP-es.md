@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XD+B84JGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V228YWP-es'
+slug: 'B07V228YWP-es Joymoze Mochila para Universidad Resistente al Agua y Moderna  Macuto Casual para Niña Adolescente Tulipán'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jYBSV33QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2XK4JT-es'
+slug: 'B07Y2XK4JT-es How.R.U Mochilas para Portátiles Y Netbooks Mochila Ordenador  Mochila Estanca  Mochila Ejecutivo Hombre  Mochila Negocios  Mochila Negras  Morral Negro Cargador'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+EnEuVxqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8YQ6J1-es'
+slug: 'B07P8YQ6J1-es Cartera Escolar Enso Trust Me'
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

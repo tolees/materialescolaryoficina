@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uB8ckWi+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2T4WMK-es'
+slug: 'B07K2T4WMK-es Agarrador de Lápiz  Firesara Nuevo diseño ergonómicas empuñaduras de lápiz de arco iris para niños Escritura a mano  Lápiz Agarre Postura Corrección Capacitación Ayudas de escritura para adultos Niños'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

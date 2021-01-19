@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M7gDckT6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P91XXXQ-es'
+slug: 'B07P91XXXQ-es Milán - Expositor 20 bolígrafos Compact verde'
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

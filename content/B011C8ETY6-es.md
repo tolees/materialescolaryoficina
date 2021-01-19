@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ye+j6Ql8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011C8ETY6-es'
+slug: 'B011C8ETY6-es APLI Kids - Bolsa de gomets cara feliz  3 hojas adhesivo removible'
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

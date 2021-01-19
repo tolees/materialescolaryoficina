@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416Qu5IXw8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000C6RHBW-es'
+slug: 'B000C6RHBW-es Faber-Castell 110060 - Set de lápices de colores  multicolor'
 actualPrice: 74.43 EUR
 currency: EUR
 price: 74.43

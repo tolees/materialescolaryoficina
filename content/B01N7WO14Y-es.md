@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61+fzZ7ZfHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7WO14Y-es'
+slug: 'B01N7WO14Y-es Zenacolor - 120 Lápices de Colores con Caja de Metal - 120 Colores Únicos - Fácil Acceso con 3 Bandejas'
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

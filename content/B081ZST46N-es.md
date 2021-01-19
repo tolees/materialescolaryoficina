@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r0z+ja1EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081ZST46N-es'
+slug: 'B081ZST46N-es CestMall Scratch Art  Hojas Dibujo Scratch Láminas para Rascar Creativas Papel para Dibujar con Niños  Manualidades  Escribir Listas  2 lápices de Madera100 Hojas de Papel Negro'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51v67K-mnQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSMJWJN-es'
+slug: 'B07MSMJWJN-es Juego de 200 bolígrafos de gel  100 colores de gel y 100 recambios de color  perfectos para libros de colorear para adultos  marcadores de dibujo'
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

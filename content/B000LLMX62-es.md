@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TpaY-7QlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LLMX62-es'
+slug: 'B000LLMX62-es STAEDTLER FIMO soft ofenhärtende Modelliermasse  Kartonetui mit 24 sortierten Basic-Farben  24 Halbblöcke à 25 g'
 actualPrice: 20.41 EUR
 currency: EUR
 price: 20.41

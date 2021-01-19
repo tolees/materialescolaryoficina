@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EYiwE3BWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LM1WFDG-es'
+slug: 'B00LM1WFDG-es BIC Kids Learner Portaminas HB con Minas de Recambio  1 3 mm  – Rosa o Azul  Blíster de 1+2 unidades'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

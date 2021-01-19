@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y8yCGRu0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QPWNY9-es'
+slug: 'B086QPWNY9-es Smyidel 2020 Nuevo Dibujo en Color 3D Puzzle con 12 bolígrafos de Acuarela  día del niño  DIY Kid Puzzle Toys para niños pequeños Niños Niñas Regalo Edad 5 6 7 8 9 10 11 12 años  A '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

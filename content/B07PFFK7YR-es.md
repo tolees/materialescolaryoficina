@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TXG3nB+HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFFK7YR-es'
+slug: 'B07PFFK7YR-es Samsonite Ziproll Mochila para portátil de 13.3 pulgadas  37 cm  19 L   Negro  Black '
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

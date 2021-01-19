@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21PEOTz+acL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OUV1TBY-es'
+slug: 'B00OUV1TBY-es Bourjois Sourcil Precision Lápiz de cejas Tono 6 Blond Clair - 4 gr.'
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

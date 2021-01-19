@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ciBhDlmHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008CQWOAS-es'
+slug: 'B008CQWOAS-es Loctite Super Glue-3 Original  pegamento universal con triple resistencia  adhesivo transparente  pegamento instantáneo y fuerza instantánea  1x3 g'
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

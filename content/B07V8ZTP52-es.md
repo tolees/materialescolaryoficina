@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eGyQckUkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8ZTP52-es'
+slug: 'B07V8ZTP52-es Tommy Hilfiger - Kids Core Backpack  Mochilas Unisex Niños  Azul  Desert Sky   1x1x1 cm  W x H L '
 actualPrice: 36.24 EUR
 currency: EUR
 price: 36.24

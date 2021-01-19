@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Qq7cLMDbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CCJK9Z9-es'
+slug: 'B08CCJK9Z9-es A5/RedBronze 新品 Diario de piel en relieve vintage con juego de bolígrafos dorados A5 hecho a mano cuaderno de bocetos  diario de viaje y cuaderno para escribir  regalo para mujeres y hombres'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QNVPtU7pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YKQG7GB-es'
+slug: 'B07YKQG7GB-es Rotuladores de pincel de caligrafía de doble punta  24 rotuladores de pintura de acuarela Rotuladores de arte Rotuladores de punta fina Bullet Journal para diario  rotulación a mano  libro'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

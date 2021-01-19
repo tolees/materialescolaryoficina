@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kK0FlpB-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHBQS8B-es'
+slug: 'B07RHBQS8B-es Memoria USB 3.0 64 GB  3 en 1 Pen Drive Tipo C USB 3.0 Micro USB OTG Lápiz USB Flash Drive con Llavero Metal Impermeable A Prueba de Golpes Compatible con Windows Android PC Tablets'
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

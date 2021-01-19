@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61sMAp4iOVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FDW78C-es'
+slug: 'B088FDW78C-es Rotuladores de Pintura Acrílica 18 Colores，0.7mm Permanente Marcadores para Pintura de Tela  Cristal  Metal  Ceramica  Madera  Piedras  Plastico  Porcelana  Vidrio  Huevo de Pascua DIY'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

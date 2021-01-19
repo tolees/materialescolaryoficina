@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V3U-jlrdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016U5NPA0-es'
+slug: 'B016U5NPA0-es NAVIGATOR A4  80 g/m² papel universal 10x Reams  5 000 Sheets  - 2x Box'
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

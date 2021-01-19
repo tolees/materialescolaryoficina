@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3102OFCocwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY17ZRG-es'
+slug: 'B07TY17ZRG-es Parker Jotter Originals Rotulador Roller  Acabado Amarillo Clásico  Punta Fina  Tinta Negra'
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

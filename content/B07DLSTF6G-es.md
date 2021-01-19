@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rzARfQr3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLSTF6G-es'
+slug: 'B07DLSTF6G-es Samsonite PRO-DLX 5 - Backpack for 14.1" Laptop 1.2 KG Mochila tipo casual  42 cm  14 liters  Negro  Black '
 actualPrice: 146.53 EUR
 currency: EUR
 price: 146.53

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r5DFzO-RL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LY5AF0-es'
+slug: 'B000LY5AF0-es Faber-Castell 112160 - Estuche de metal con 60 ecolápices Pitt pastel  multicolor'
 actualPrice: 57.46 EUR
 currency: EUR
 price: 57.46

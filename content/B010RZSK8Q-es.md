@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51UnVEJVESL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B010RZSK8Q-es'
+slug: 'B010RZSK8Q-es Lixada Mochila de Senderismo 50L/60L con Cubierta Impermeable Mochila de Marcha Trekking Camping Deporte al Aire Libre'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

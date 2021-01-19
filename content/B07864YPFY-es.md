@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j37P-fa1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07864YPFY-es'
+slug: 'B07864YPFY-es Play-Doh Helados Deliciosos  Hasbro E0042EU4    color/modelo surtido'
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

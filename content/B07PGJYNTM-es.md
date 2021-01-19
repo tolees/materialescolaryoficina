@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s4Bx5fFqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGJYNTM-es'
+slug: 'B07PGJYNTM-es Samsonite Checkmate Central Opening - Mochila para portátil  44 cm   Negro  Negro  - 116124/1041'
 actualPrice: 120.13 EUR
 currency: EUR
 price: 120.13

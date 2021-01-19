@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316DQfXAwtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6TQYDR-es'
+slug: 'B07Z6TQYDR-es Samsonite Zalia 2.0  Mochila para portátiles y netbooks para Mujer  Negro  Black   M  36.5 cm - 11.5 L '
 actualPrice: 119.14 EUR
 currency: EUR
 price: 119.14

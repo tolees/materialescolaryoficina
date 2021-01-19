@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NtVEHO6zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781YW3KV-es'
+slug: 'B0781YW3KV-es BIC Kids Evolution Stripes Lápices de colores - colores Surtidos  Blíster de 18 unidades'
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

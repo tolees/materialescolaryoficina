@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aJDnyqViL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQVFVBV-es'
+slug: 'B07FQVFVBV-es Targus Groove X2 Compact Carbón Vegetal Mochila - Mochila para portátiles y netbooks  Carbón Vegetal  Monótono  300 D  38 1 cm  15"   Bolsillo Frontal  Bolsillo con Cremallera '
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

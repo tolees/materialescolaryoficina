@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-n1R6+DkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8YJ6R3-es'
+slug: 'B07L8YJ6R3-es Brrnoo 16L Gabinete de Esterilización UV  2 en 1 Caja de Desinfección de Gran Capacidad  Equipo de Esterilización de Salud para Salones de Belleza para Toallas y Tijeras Calientes  etc. Blanco '
 actualPrice: 68.59 EUR
 currency: EUR
 price: 68.59

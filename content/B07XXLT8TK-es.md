@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61WOOA1MqTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XXLT8TK-es'
+slug: 'B07XXLT8TK-es Demeu 6000 Banda Goma Trenzado:5000 Bandas Trenzadas  14 Colores 500 broches 150 Cuentas más  100 Cuentas Letras .Conjunto Trenzada Mayores 6 años Edad 40 Colgantes  12 crochetes Mochila'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WE8785LFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0CU5CW-es'
+slug: 'B01M0CU5CW-es Tech air TAECB001 maletines para portátil 39 6 cm  15.6"  Mochila para Tablet Negro - Funda  Mochila para Tablet  39 6 cm  15.6"   660 g  Negro '
 actualPrice: 19.91 EUR
 currency: EUR
 price: 19.91

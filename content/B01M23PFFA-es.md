@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+hHFbbTzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M23PFFA-es'
+slug: 'B01M23PFFA-es Parker IM - Bolígrafo  Punta mediana  color Negro  Black Lacquer Golden trim '
 actualPrice: 17.03 EUR
 currency: EUR
 price: 17.03

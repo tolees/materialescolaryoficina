@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bmgN6Z0tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T26WRGM-es'
+slug: 'B07T26WRGM-es Pepe Jeans Pam Mochila  Multicolor  40 cm'
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

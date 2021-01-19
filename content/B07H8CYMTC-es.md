@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FpxFzEjfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8CYMTC-es'
+slug: 'B07H8CYMTC-es Colorful Art Co Set Rotuladores punta pincel acuarela - 20 colores vivos - Premium Rotuladores de color de punta pincel suave & rotulador agua - Rotuladores Pintar Rotulado Caligrafía Arts and Crafts'
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

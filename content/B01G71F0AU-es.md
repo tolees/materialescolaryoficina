@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NMEEZ3OvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G71F0AU-es'
+slug: 'B01G71F0AU-es Bourjois Liner Feutre Lápiz de ojos Tono 16 Noir - 7 gr.'
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

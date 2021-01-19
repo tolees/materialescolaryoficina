@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OsfO10TDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G285ZKM-es'
+slug: 'B07G285ZKM-es 10 Dry Erase Pocket | Fundas Reutilizables Fichas Papel A4 |Tamaño Grande 36x26cm| PET Reciclable Ecológico |10 Colores 10 Rotuladores 2 Borradores 2Globos|Material Escolar Colegio Guardería Ludoteca'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

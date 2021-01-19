@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pghQ8vMQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQFT6LJ-es'
+slug: 'B07TQFT6LJ-es Rotuladores metálicos  Kaliwa Juego de 10 Colores Surtidos Rotuladores Permanente para Hacer Regalo de Cumpleaños  Tarjetas  Scrapbooking  Foto de Bricolaje  Album de piedra  Pintura de Roca Vidrio'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

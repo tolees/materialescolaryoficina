@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Iu6ycje7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CNYYJP2-es'
+slug: 'B01CNYYJP2-es Staedtler Lumocolor 350 WP8. Rotuladores permanentes con punta biselada. Estuche con 8 marcadores de colores variados.'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

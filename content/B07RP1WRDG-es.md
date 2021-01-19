@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LsqqW6G2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RP1WRDG-es'
+slug: 'B07RP1WRDG-es Urban Armor Gear Plyo Funda para Apple Ipad Air 3 2019 / Ipad Pro 10.5 2017 Case con Estándar Militar Estadounidense [Soporte Del Lápiz Táctil] - Transparente'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

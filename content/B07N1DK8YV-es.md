@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ekYanEjZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1DK8YV-es'
+slug: 'B07N1DK8YV-es Kipling SEOUL PACKABLE - Mochila escolar  22.5 liters  Morado  PLUM LIGHT '
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

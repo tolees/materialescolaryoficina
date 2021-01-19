@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zEiI+mKQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003OEKLFS-es'
+slug: 'B003OEKLFS-es Faber Castell 166004 - Estuche con 4 rotuladores calibrados ECCO Pigment con grosores de trazo: 0.1  0.3  0.5  0.7  color negro'
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

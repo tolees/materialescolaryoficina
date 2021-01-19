@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V49joo9aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSNQ1BS-es'
+slug: 'B07TSNQ1BS-es Valentino by Mario - Superman  Bolsos mochila Mujer  Azul  Navy   16x32x29 cm  B x H T '
 actualPrice: 83.47 EUR
 currency: EUR
 price: 83.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DOkL99x+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NNNK1Z-es'
+slug: 'B089NNNK1Z-es Viaje al Aire Libre Carga USB Hombres Mujeres Mochila Impermeable Lona Adolescentes Estudiante Mochila Escolar Mochila portátil de Viaje - Negro'
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

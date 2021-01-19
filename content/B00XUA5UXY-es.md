@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61gA7fTuDWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XUA5UXY-es'
+slug: 'B00XUA5UXY-es Alpino DA000125 - Estuche 12 ceras'
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

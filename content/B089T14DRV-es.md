@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413DGMX68+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089T14DRV-es'
+slug: 'B089T14DRV-es UMBRO Padded Roll Top Backpack'
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

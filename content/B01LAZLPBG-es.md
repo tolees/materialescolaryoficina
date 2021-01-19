@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zFPChrInL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LAZLPBG-es'
+slug: 'B01LAZLPBG-es V-SOL Vintage Floral Bolsa Bolsillo Escolar de Lápiz Bolígrafo Pluma Ethnic Modelo C'
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

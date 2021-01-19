@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aeFZZuwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0117PU0KQ-es'
+slug: 'B0117PU0KQ-es 3 Claveles Tijeras Costura y Multiusos  Profesional  Mango TPR  Acero Inoxidable  Tamaño: 30 cm-12"  Multicolor  25 cm  10" '
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

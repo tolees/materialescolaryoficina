@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WUnNZ3EDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHX7HMC-es'
+slug: 'B07SHX7HMC-es Parfois - Mochila con Estampado De Fruta - Mujeres - Tallas L - Naranja 1'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

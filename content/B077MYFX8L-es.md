@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512DPyL1fsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MYFX8L-es'
+slug: 'B077MYFX8L-es Staedtler Design Journey 3001 TB18. Rotuladores acuarelables de doble punta. Caja con 18 marcadores de colores variados.'
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

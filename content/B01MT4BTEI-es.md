@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VqjzTtArL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT4BTEI-es'
+slug: 'B01MT4BTEI-es GRÜNTEK Tijeras de podar y cortar Flores  Frutas y Verduras COLIBRI 170 mm. Tijera de jadin y Vendimia'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

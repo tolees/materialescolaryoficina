@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qL2BuIlSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B37DV3B-es'
+slug: 'B07B37DV3B-es Alpino DP00007301 - Pastilla plastilina'
 actualPrice: 0.94 EUR
 currency: EUR
 price: 0.94

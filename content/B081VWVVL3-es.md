@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zCBGXdzsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081VWVVL3-es'
+slug: 'B081VWVVL3-es Vans Ss20 Realm Backpack  OS Negro Mochila  Mochila Real  VN0A3UI64SG1  Verde  VN0A3UI64SG1'
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qSrdF3ssL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CY7R9RL-es'
+slug: 'B07CY7R9RL-es American Tourister Urban Groove Lifestyle Laptop Backpack 5 17.3" Mochila tipo casual  45 cm  28 liters  Rojo  Red '
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

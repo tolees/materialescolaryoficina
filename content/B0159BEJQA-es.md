@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dNgNRrj0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0159BEJQA-es'
+slug: 'B0159BEJQA-es Alpino DP00005601 - Pastilla plastilina'
 actualPrice: 0.42 EUR
 currency: EUR
 price: 0.42

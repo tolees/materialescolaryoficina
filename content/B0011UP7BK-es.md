@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412lDdkozIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0011UP7BK-es'
+slug: 'B0011UP7BK-es STABILO CarbOthello - Lápiz de color tiza-pastel - Caja de metal con 60 colores'
 actualPrice: 90.81 EUR
 currency: EUR
 price: 90.81

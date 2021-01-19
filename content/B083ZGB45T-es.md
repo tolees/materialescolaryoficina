@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rUdwH0J7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZGB45T-es'
+slug: 'B083ZGB45T-es NEWHEY Mochila Ordenador Portatil 15.6 Pulgadas Hombre con Puerto de Carga USB Impermeable Mochila Viaje Hombre y Mujer para Estudios Negocio Gris'
 actualPrice: 32.86 EUR
 currency: EUR
 price: 32.86

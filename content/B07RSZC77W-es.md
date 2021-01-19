@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bnVL44qpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RSZC77W-es'
+slug: 'B07RSZC77W-es LUNCIA Mochila Termica Nevera Flexible Portátil Resistente al Agua Mochila de Refrigeración Porta Alimentos Suave para la Playa/Picnic/Día de Campo/Barbacoa'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

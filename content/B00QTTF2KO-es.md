@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z%2BKdsMQJL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QTTF2KO-es'
+slug: 'B00QTTF2KO-es Bourjois Liner Pinceau Lápiz de ojos Tono 35 Ultra Black  2.5 ml'
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

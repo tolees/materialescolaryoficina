@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F7o3AHodL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002LCWBM-es'
+slug: 'B0002LCWBM-es Fiskars 1003859 - Tijeras para niños  color azul or verde'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

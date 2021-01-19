@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c2XPl8VNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LC9BF33-es'
+slug: 'B07LC9BF33-es Samsonite Mochila de a Diario  Azul  Azul  - 115333/1090'
 actualPrice: 101.49 EUR
 currency: EUR
 price: 101.49

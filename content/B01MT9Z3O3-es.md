@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AguDtzm7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT9Z3O3-es'
+slug: 'B01MT9Z3O3-es WOLFWILL Tijeras de Perro  5 Herramientas para Cortar el Pelo a Mascotas  Kit de Peluquería Canina Perros y Gatos Corte Professional Acero Inoxidable Tijeras Curvas'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31plN3rad-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005Z0OW1I-es'
+slug: 'B005Z0OW1I-es Pilot 151927 - Bolígrafo borrable  color rojo'
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

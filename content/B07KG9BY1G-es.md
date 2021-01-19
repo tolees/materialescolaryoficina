@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FioG7j0wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG9BY1G-es'
+slug: 'B07KG9BY1G-es iPad Lápiz Stylus  Tiempo de Trabajo de 40 Horas Espera de 30 días & Lápiz Capacitivo Activo con Punta y Precisa Aprobado por CE & RoHs Estilos de Pantalla Táctil Compatible de iPad Serie'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zqMUS0rOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT4XR49-es'
+slug: 'B07PT4XR49-es Grip BE-TOOL - Juego de bolígrafos de punta redonda de tinta de gel para uso escolar y doméstico  0 5 mm  12 unidades  color negro  negro'
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

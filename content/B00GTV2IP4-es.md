@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-jbKeQ5kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GTV2IP4-es'
+slug: 'B00GTV2IP4-es AUSONIA - 31110 Tijeras DE PODA Profesionales para HUERTOS DE FRUTALES DE Doble Corte con Hojas DE Acero FORJADAS EN Caliente Y TEMPLADAS  Mangos Revestido DE PLÁSTICO Y Cierre DE Seguridad con RODIL'
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001J8FHIW-es'
+slug: 'B001J8FHIW-es Apli 1277 - Etiquetas  100 hojas'
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

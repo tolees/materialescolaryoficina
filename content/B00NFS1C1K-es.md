@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OHcLxJ%2B9L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NFS1C1K-es'
+slug: 'B00NFS1C1K-es Bestway Dura-Trek - Mochila  65 litros  70 x 32 x 22 cm'
 actualPrice: 30.72 EUR
 currency: EUR
 price: 30.72

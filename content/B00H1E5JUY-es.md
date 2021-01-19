@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41leu2I8gEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H1E5JUY-es'
+slug: 'B00H1E5JUY-es Jovi 71 - Plastilina  color rojo'
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

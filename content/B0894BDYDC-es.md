@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SHD7pIEVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894BDYDC-es'
+slug: 'B0894BDYDC-es Mochila Hombre Mochila Escolares Juveniles Mochila Universidad Mochila Portatil 17 Pulgadas Mochila para PC con Puerto USB Mochila Enrollable Impermeable - Negro'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

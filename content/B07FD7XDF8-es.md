@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mttdEimjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD7XDF8-es'
+slug: 'B07FD7XDF8-es Mochila para Portátil de Negocios Impermeable Mochila Antirrobo de Viaje Estudiantes Universitarios Hombres y Mujeres Bolsa  Negro'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

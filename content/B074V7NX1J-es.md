@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zV3m+JJFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074V7NX1J-es'
+slug: 'B074V7NX1J-es CUILEE Mochila para niños bebés Mochilas para niños con Conejo Mascotas para guardería Niños  Roja '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zjcnRgGpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X32KSKZ-es'
+slug: 'B07X32KSKZ-es EFERRI Mochila Cuvat  Negro  23x12x29 cm'
 actualPrice: 20.47 EUR
 currency: EUR
 price: 20.47

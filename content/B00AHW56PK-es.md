@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21F6QuNQJ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AHW56PK-es'
+slug: 'B00AHW56PK-es Staedtler Pigment liner Fineliner 0.1mm - Rotulador  Negro '
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jdco6-a0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXTKV9R-es'
+slug: 'B07KXTKV9R-es Eastpak Orbit Mini Mochila  34 cm  10 L  Azul  Cloud Navy '
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

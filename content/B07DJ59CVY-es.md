@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jxio6KeRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ59CVY-es'
+slug: 'B07DJ59CVY-es Soarpop Mochila Escolar Portatil de Estilo Clásico para Hombre Mujer Niña Niño  Azul '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

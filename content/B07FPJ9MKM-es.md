@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iOYgMG9cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPJ9MKM-es'
+slug: 'B07FPJ9MKM-es Real Madrid CF Bolsa de Deporte  Mochila con zapatillero Equipaje para niños  Blanco  50 cm'
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

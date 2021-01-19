@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cz7TLLoHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THV2KWX-es'
+slug: 'B07THV2KWX-es Armani Exchange - Liz Backpack  Mochilas Mujer  Negro  Nero Black   28x8x26 cm  B x H T '
 actualPrice: 55.34 EUR
 currency: EUR
 price: 55.34

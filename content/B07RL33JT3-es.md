@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DDbC6kzPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RL33JT3-es'
+slug: 'B07RL33JT3-es American Tourister Urban Groove Lifestyle - 17.3 Pulgadas Mochila para portátil 45 cm  28 L  Marrón  Saffron '
 actualPrice: 29.43 EUR
 currency: EUR
 price: 29.43

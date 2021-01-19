@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N3k2nuyWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083M3J7SJ-es'
+slug: 'B083M3J7SJ-es Bolsa de pañales de tela portátil reutilizable a prueba de agua Mochila con bolsillo con cremallera Bolsa de viaje Organizador de bolsa de viaje para bebés - Multicolor'
 actualPrice: 3.51 EUR
 currency: EUR
 price: 3.51

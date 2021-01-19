@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51G5NpQsERL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4MCGLV-es'
+slug: 'B07V4MCGLV-es Kipling ELLETTRONICO Mochila Tipo Casual  24 cm  2 Liters  Negro  Carbon Metallic '
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

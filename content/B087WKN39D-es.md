@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41feMC3egVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WKN39D-es'
+slug: 'B087WKN39D-es WERNNSAI Luau Flamenco Suministros para la Fiesta - 12 PCS Bolsa de Favor de Fiesta con Cordón Bolsa Hawaiano Bolsa de Regalo de Fiesta para Chicas Cumpleaños Baby Shower Mochila Bolsas de Regalos'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

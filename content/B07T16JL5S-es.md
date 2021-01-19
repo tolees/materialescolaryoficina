@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MflIYJzhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T16JL5S-es'
+slug: 'B07T16JL5S-es Mochila Adaptable Pepe Jeans Daniela'
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

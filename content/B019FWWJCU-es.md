@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Xmh72OQFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019FWWJCU-es'
+slug: 'B019FWWJCU-es Lápices Colore. Lápices con goma de borrar  grafito  HB número 2  madera  color amarillo. Ideal para escribir  dibujar y bocetear  con goma para niños y adultos  144 unidades  color amarillo 144 Count'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

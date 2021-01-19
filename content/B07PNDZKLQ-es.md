@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EtYohR29L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNDZKLQ-es'
+slug: 'B07PNDZKLQ-es SKYSPER 60L / 65L Mochila de Senderismo Impermeable Mochila de Trekking Macutos Deportiva Morral con Cubierta de Lluvia para Viaje Picnic Marcha Camping Escalada Deporte al Aire Libre Hombre Mujer'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

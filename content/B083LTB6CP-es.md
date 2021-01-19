@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vS9zkuGaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LTB6CP-es'
+slug: 'B083LTB6CP-es Mochila para Portátil XQXA Mochila Unisex Impermeable para Ordenador Portátil de hasta 15.6 Pulgadas Con Anillo de bloqueo antirrobo y Puerto USB para Carga para los Estudios Trabajo o Viajes - Negro'
 actualPrice: 22.77 EUR
 currency: EUR
 price: 22.77

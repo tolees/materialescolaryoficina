@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vt3rhKIXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008DCGF9C-es'
+slug: 'B008DCGF9C-es Alpino-490251 Pack de 12 lápices  Colores Surtidos  Multicolor  Industrias Massats 113 '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

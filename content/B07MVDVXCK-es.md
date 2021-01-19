@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Wtg1xoq5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVDVXCK-es'
+slug: 'B07MVDVXCK-es Lápiz Capacitivo con Estación de Carga magnética  Soporte de 30 días de 1 45 mm Punta Fina Universal Compatible con iPhone  iPad  Android  Samsung  Huawei  Surface  Tableta y Smartphone  Azul '
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

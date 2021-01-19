@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WHtlNxOZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQW9J99-es'
+slug: 'B07WQW9J99-es Mochila para portátil Mochila para Estudiantes Mochila Escolar de Stranger Things Mochila de Viaje con Puerto de Carga USB'
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

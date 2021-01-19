@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HGK0lVVGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R8HH7JG-es'
+slug: 'B07R8HH7JG-es Vans OLD SKOOL III BACKPACK Mochila tipo casual  42 cm  22 L  Rojo  Cerise '
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XJ8CtUudL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088PM31HF-es'
+slug: 'B088PM31HF-es Vans Realm Mochila para mujer  diseño floral  color negro'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

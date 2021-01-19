@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pbVfgR8QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QB9LSP-es'
+slug: 'B075QB9LSP-es Troika - Bolígrafo  pequeño   regla de centímetro/pulgadas  destornillador plano/de estrella  lápiz  amarillo   mina negra  incluye 2 minas de repuesto  aluminio/latón/acero  mate  color amarillo'
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

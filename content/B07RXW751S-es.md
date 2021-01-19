@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+3fulyRFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXW751S-es'
+slug: 'B07RXW751S-es Diesel Discover-me Mirano  Mochila para Hombre  Multicolor  Black/White/Blue   15x44x30 centimeters  W x H x L '
 actualPrice: 23.27 EUR
 currency: EUR
 price: 23.27

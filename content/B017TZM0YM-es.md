@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qvDDUFE8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017TZM0YM-es'
+slug: 'B017TZM0YM-es Winsor & Newton - Bloc de 50 hojas de papel para rotuladores  A3'
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

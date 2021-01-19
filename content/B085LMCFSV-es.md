@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z-aOPyoNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LMCFSV-es'
+slug: 'B085LMCFSV-es MKTOSASA - Mochila Multiusos en Resistente poliéster 600D de Acabado Denim. De diseño Urbano  Incluye Compartimento isotérmico Independiente con Cobertura de PEVA para Fiambrera - 30x62x13 Gris'
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

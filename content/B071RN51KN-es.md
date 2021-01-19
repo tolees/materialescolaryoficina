@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ulc-IMdvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RN51KN-es'
+slug: 'B071RN51KN-es UCEC® Set de 6 Tijeras Coloridas Decorativas  Tijeras Dentadas de Diferentes Diseños Para Manualidades  Ideal Para Usos de Estudiantes  Profesores  Para Cortar Papeles o Cartulinas'
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

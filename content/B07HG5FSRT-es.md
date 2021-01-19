@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PqvnPtyLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG5FSRT-es'
+slug: 'B07HG5FSRT-es WowPrint Animal Dragonfly - Mochila para libros  mochila escolar  senderismo  viajes  mochila casual'
 actualPrice: 24.34 EUR
 currency: EUR
 price: 24.34

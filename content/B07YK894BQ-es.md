@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415A3zqxAvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YK894BQ-es'
+slug: 'B07YK894BQ-es Pawhut Transportin Carrito Perro 2 en 1 Mochila Carrito Plegable 65x37x46cm Mascotas Perro Gato'
 actualPrice: 60.34 EUR
 currency: EUR
 price: 60.34

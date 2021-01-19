@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jv2s+gNEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WGX91E-es'
+slug: 'B000WGX91E-es Staedler 326 WP10 - Estuche con 10 rotuladores  Multicolor'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

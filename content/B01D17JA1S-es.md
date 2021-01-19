@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e8D4XqyUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D17JA1S-es'
+slug: 'B01D17JA1S-es Samsonite Paradiver Light - 15.6 Pulgadas Mochila para Portátil L  45 cm  19 L  Negro  Black '
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

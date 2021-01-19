@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rFd7DUARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081FQNGKG-es'
+slug: 'B081FQNGKG-es STABILO Pen 68 brush Rotulador punta de pincel - Estuche de metal con 25 colores'
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

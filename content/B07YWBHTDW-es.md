@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GkfOwGmHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWBHTDW-es'
+slug: 'B07YWBHTDW-es PHYLES Tablero de Dibujo Mágico  Pizarra 3D Mágico con Luces LED para Niños  Boceto  Arte  Juguetes Educativos  Incluye 10 Plantillas  4 Bolígrafos  1 Paño de Limpieza  New Azul '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

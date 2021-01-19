@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vY+a2+XQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC121BR-es'
+slug: 'B07WC121BR-es Antirrobo Mochilas Portatil 15.6 Pulgadas Impermeable Hombre Mochila con Puerto de Carga USB para Oficina Trabajo Diario Negocio - Negro'
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

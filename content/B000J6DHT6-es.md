@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NBOgRnJ6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000J6DHT6-es'
+slug: 'B000J6DHT6-es CASIO FC-100V Calculadora Financiera  13.7 x 80 x 161 mm  color gris'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

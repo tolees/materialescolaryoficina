@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416Vl6nbKZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5Y4X8N-es'
+slug: 'B08B5Y4X8N-es Pegatina pizarra tamaño 78 8” x 23 6” pizarra adhesiva calendario poster decoración para la casa  la cocina  el despacho  regalos: tizas  tijeras  regla y esponja para borrar '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

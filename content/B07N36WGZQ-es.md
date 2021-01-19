@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O4kk69x0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N36WGZQ-es'
+slug: 'B07N36WGZQ-es Ulikey Medidor de Suelo con 10 Piezas de Herramientas Bonsai  Miniherramientas de trasplante  Incluye podadora  Tijeras para Doblar  rastrillo pequeño  recortador de brotes  Cepillo de Limpieza'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

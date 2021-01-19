@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZoWv5vK6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2DNXC4-es'
+slug: 'B07T2DNXC4-es Estuche de Actividades para niños de +3 años  Plantillas y Libro de Actividades de 60 Páginas con Pegatinas Reutilizables  Papel Multicolor  Páginas para Colorear y mucho más por Art with Smile'
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

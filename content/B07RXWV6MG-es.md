@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412pTJY9OmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXWV6MG-es'
+slug: 'B07RXWV6MG-es Diesel Discover-me Mirano  Mochila para Hombre  Azul  Blue Nights   15x44x30 centimeters  W x H x L '
 actualPrice: 41.12 EUR
 currency: EUR
 price: 41.12

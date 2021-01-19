@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pcisU-XZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0159DRWPI-es'
+slug: 'B0159DRWPI-es Faber Castell B-136300 - Portaminas TK-Fine con goma de borrar y 3 minas finas  graduación HB  trazo 0.3 mm  color verde'
 actualPrice: 3.71 EUR
 currency: EUR
 price: 3.71

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B7lDNfxoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBZJCDX-es'
+slug: 'B07VBZJCDX-es zhi wei Mochila Antirrobo Impermeable Mochila para Ordenador Portátil Hombre 15.6 Pulgadas con Puerto de Carga USB para Hombre Mujer Multifuncional Daypacks Viaje Negocio Trabajo Negro'
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

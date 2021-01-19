@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xxClSYQEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MPHS1D-es'
+slug: 'B079MPHS1D-es Play Doh - Rex The Chomper  Hasbro  E1952EU5 '
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

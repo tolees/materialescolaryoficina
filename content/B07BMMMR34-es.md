@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NLlmslrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMMMR34-es'
+slug: 'B07BMMMR34-es Koooper Libro Aventuras up  Álbum de Fotos DIY  Album up  Tijeras  Pegatinas Cumpleaños/Aniversario/Boda/Graduación'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

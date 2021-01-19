@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Nll1t4d-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9KP4SX-es'
+slug: 'B07T9KP4SX-es Mochila Doble Cremallera Pepe Jeans Uma azul marino'
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

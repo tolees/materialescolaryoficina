@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b3pEsUhdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZ323JS-es'
+slug: 'B07SZ323JS-es Mochila 40cm con carro Pepe Jeans Pam'
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

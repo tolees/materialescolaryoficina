@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413hBB9tUUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZK1BF8-es'
+slug: 'B073ZK1BF8-es Carioca Maletín TITA | Lápices de Colores  Caja Portátil de Lápices Super Resistentes en Resina con Cuerpo Hexagonal y Mina Super Resistente a Las Caídas  Colores Surtidos  120 Uds'
 actualPrice: 17.17 EUR
 currency: EUR
 price: 17.17

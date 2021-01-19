@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CWeqLVGvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081VVLH2Z-es'
+slug: 'B081VVLH2Z-es Vans Ss20 Realm BackPACK  OS Negro mochila  Mochila real  VN0A3UI6PUB1  Exuberancia'
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4193JMkkaOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WG7YJH9-es'
+slug: 'B07WG7YJH9-es NU NUVO Híbrido PU Funda de Pantalla de activación/Soporte de Cuerpo Completo para iPad Pro 10.5 y 2017 iPad Air 2019 Cubierta a Prueba de Golpes Construido con Soporte para lápiz  Rojo'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

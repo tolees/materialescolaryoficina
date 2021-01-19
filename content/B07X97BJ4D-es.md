@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qArKtwTSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X97BJ4D-es'
+slug: 'B07X97BJ4D-es KingsLong Mochila Portatil Mujer &Hombre Mochila Pare Laptop 15.6" Mochila Casual Ligera Enrollable Resistente al Agua Mochila para Urbana Estudiantes Viaje computadora portátil  Negro '
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

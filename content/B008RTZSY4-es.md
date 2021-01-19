@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HX3gnmV9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008RTZSY4-es'
+slug: 'B008RTZSY4-es Tipp-Ex Shake n Squeeze Corrector Líquido  8 ml  - Blíster de 2+1  multicolor'
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

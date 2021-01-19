@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516nUSBZO6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRFNRM2-es'
+slug: 'B07DRFNRM2-es homgeek Cuchillos de Cocina  Juego de Cuchillos Profesional Hecho de Acero alemán X50Cr15 Incluye Bloque de Madera  Afilador de Cuchillos  Tijeras  15 Piezas'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

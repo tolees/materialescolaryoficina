@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51F2dJ7U92L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BB0IYU-es'
+slug: 'B001BB0IYU-es Post-It 6820 - Notas adhesivas  76 x 76 mm  color amarillo'
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

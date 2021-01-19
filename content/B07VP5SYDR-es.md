@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ijnK+VmuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VP5SYDR-es'
+slug: 'B07VP5SYDR-es Mochila Casual Pelo Lion King'
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

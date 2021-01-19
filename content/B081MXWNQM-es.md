@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417eJpji0HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081MXWNQM-es'
+slug: 'B081MXWNQM-es SHIELDON Mochila para Portátil 17 Pulgadas  Mochila Ordenador Hombre Mochila Antirrobo Impermeable con Cinta Reflectiva  Mochila Grande Escalable Mochila de Viaje Mochilas Negocios  23-38L  Negro'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

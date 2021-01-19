@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DiMlwmZ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000JJN4P0-es'
+slug: 'B000JJN4P0-es Targus TSB700EU - Mochila Sport con Ruedas para portátiles de hasta 15.6"  Negro'
 actualPrice: 60.28 EUR
 currency: EUR
 price: 60.28

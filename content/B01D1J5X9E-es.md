@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414n98D30oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1J5X9E-es'
+slug: 'B01D1J5X9E-es Samsonite Xbr Mochila Tipo Casual  15.6"  47 cm  22 L  Color Negro'
 actualPrice: 111.13 EUR
 currency: EUR
 price: 111.13

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519eblpOxnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W9KMFW2-es'
+slug: 'B07W9KMFW2-es PUREBOX Mochila para portátil para hombre  mochila escolar antirrobo de 15.6 a 17.3 pulgadas  compacta  resistente al agua  mochila de viaje para hombres con puerto de carga USB e interfaz de auriculares con bolsillos RFID'
 actualPrice: 19.3 EUR
 currency: EUR
 price: 19.3

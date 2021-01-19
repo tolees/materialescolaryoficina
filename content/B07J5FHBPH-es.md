@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K-xATxgzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5FHBPH-es'
+slug: 'B07J5FHBPH-es Parker Jotter Originals - Colección de bolígrafos  surtido de acabados retro  punta mediana  cuatro unidades  tinta negra'
 actualPrice: 21.53 EUR
 currency: EUR
 price: 21.53

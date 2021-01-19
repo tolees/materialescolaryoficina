@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E4WrKcgdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YV6FKMM-es'
+slug: 'B07YV6FKMM-es Toozey Cortauñas para Perros y Gatos Pequeños/Medianos - 14W Motor Potente y Corte Liso Seguro  Tijeras de Garra de Dos Velocidades para Perros y Gatos  Blanco'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

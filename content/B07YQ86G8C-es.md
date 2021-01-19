@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416mv%2BbPrxL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQ86G8C-es'
+slug: 'B07YQ86G8C-es Karactermania Frozen Element - Mochila Bouquet  Multicolor  Pequeña'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJKGJG-es'
+slug: 'B000KJKGJG-es Apli 1298 - Etiquetas  100 hojas'
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

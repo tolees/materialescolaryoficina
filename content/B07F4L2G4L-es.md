@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TbRlnhzSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F4L2G4L-es'
+slug: 'B07F4L2G4L-es Mr.Wonderful 8435460731317 Mochila I Make U Look Cool'
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

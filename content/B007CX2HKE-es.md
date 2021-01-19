@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kdsdf4wZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007CX2HKE-es'
+slug: 'B007CX2HKE-es BIC 4 colores Original bolígrafos Retráctiles punta media  1 0 mm  - Blíster de 2+1'
 actualPrice: 3.8 EUR
 currency: EUR
 price: 3.8

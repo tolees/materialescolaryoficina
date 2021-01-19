@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414dbVwq3%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC9FWSP-es'
+slug: 'B07VC9FWSP-es Mochila dos compartimentos con portatablet Pepe Jeans Daphne Ocre'
 actualPrice: 56 EUR
 currency: EUR
 price: 56

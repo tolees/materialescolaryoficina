@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h6ZiFQ1ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTC2WT2-es'
+slug: 'B07RTC2WT2-es Tommy Hilfiger - Modern Nylon Backpack  Shoppers y bolsos de hombro Hombre  Multicolor  Sky Captain   12.5x46x31.5 cm  W x H L '
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

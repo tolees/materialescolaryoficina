@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tC3drPrzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDTQX5L-es'
+slug: 'B07MDTQX5L-es The North Face Base Camp-M Mochila Duffel  Unisex Adulto  acrylorg/pcntrd  OS'
 actualPrice: 78.62 EUR
 currency: EUR
 price: 78.62

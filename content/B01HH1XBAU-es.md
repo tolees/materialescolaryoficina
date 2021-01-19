@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JkBZooCYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HH1XBAU-es'
+slug: 'B01HH1XBAU-es Superwings - Escritorio Completo con bolígrafo electrónico  Giochi Preziosi UPW18000 '
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

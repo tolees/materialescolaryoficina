@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gw0hdqXTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDW692B-es'
+slug: 'B07MDW692B-es BAIGIO Mochila Antirrobo Portátil 15.6 Pulgadas Hombre Mochila Laptop USB Impermeable con Cerradura para Viajes Negocio Trabajo Oficina'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

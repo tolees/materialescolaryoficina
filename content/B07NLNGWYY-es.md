@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BkGQOL68L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLNGWYY-es'
+slug: 'B07NLNGWYY-es Artesania Cerda Mochila Infantil 3D Avengers Capitan America  Color Azul  31 cm'
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

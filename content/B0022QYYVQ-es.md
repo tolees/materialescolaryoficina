@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OyWN+4cUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0022QYYVQ-es'
+slug: 'B0022QYYVQ-es Post-It 70005040152 - Dispensador 3+1 índex 1/2""'
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

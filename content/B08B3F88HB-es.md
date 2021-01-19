@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411mXlRjhGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3F88HB-es'
+slug: 'B08B3F88HB-es Jarra de Leche de Acero Inoxidable  350 ml Taza de Café de Mano con Marca de Medición y Lápiz Artístico de Leche'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411dsaOM2jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFB47SW-es'
+slug: 'B07KFB47SW-es Scratch Art JBSON 30 Hojas Dibujo Scratch Láminas para Rascar Creativas Papel para Dibujar con Niños  Manualidades  Escribir Listas  Incluye 4 Plantillas de Plantillas de Dibujo y 10 lápices de Madera'
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

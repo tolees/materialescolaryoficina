@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Phvup8Y2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JCPJSZ-es'
+slug: 'B079JCPJSZ-es Wacom Intuos  Tableta Gráfica con Lápiz  Softwares Creativos  USB/Bluetooth/Inalámbrico y alámbrico  Mediano  Verde Pistacho'
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

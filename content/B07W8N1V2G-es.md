@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61FGDpzsM1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8N1V2G-es'
+slug: 'B07W8N1V2G-es Pintura para Porcelana y Cerámica  RATEL 20 colores No tóxico Pintura de porcelana Rotuladores de pintura acrílica  Permanente Rotuladores para tazas de bricolaje  tazas  platos  cerámica  cerámica'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

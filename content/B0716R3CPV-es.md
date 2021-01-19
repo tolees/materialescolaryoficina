@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310JjqpwO3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0716R3CPV-es'
+slug: 'B0716R3CPV-es Bourjois Khol & Contour Lápiz de ojos Tono 3 Misti-gris - 4 gr.'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

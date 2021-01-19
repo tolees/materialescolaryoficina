@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ldaWzzw5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQJ83HP-es'
+slug: 'B07NQJ83HP-es ZZKKO Animal Llama Mochilas Escolar Libro Bolsa de Viaje Senderismo Camping Daypack'
 actualPrice: 30.55 EUR
 currency: EUR
 price: 30.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rqBx5S5oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0025YQUMQ-es'
+slug: 'B0025YQUMQ-es Jovi-725265 Caja de 15 Barras de plastilina  216047 '
 actualPrice: 4.78 EUR
 currency: EUR
 price: 4.78

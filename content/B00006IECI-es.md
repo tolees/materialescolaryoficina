@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eI8DgnoiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00006IECI-es'
+slug: 'B00006IECI-es Cross - Bolígrafo utrasuave brillante cromo - Ref 3502'
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

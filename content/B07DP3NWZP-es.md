@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jlS6IUEtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP3NWZP-es'
+slug: 'B07DP3NWZP-es Eastpak EK62030W Mochila Poliéster Negro/Blanco - Mochila para portátiles y netbooks  Poliéster  Negro/Blanco  Ciudad  Estampado  Unisex  300 mm '
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

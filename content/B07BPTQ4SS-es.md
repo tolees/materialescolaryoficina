@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SEu9o5NuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPTQ4SS-es'
+slug: 'B07BPTQ4SS-es Rotuladores Metalizados  Rymall Rotuladores de Colores Marker Pen 12 Qaquetes para Album de Recortes de Fotos de Uso en Cualquier Superficie de Papel de Vidrio Cerámica de Plástico'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

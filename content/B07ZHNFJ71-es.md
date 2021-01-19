@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KxXDT4DsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHNFJ71-es'
+slug: 'B07ZHNFJ71-es Dakine Grom 13L - Mochila Minidsbrly'
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EAUUzFZdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1DGKFY-es'
+slug: 'B07N1DGKFY-es Kipling SEOUL - Mochila escolar  27 litros  Negro  LIVELY BLACK '
 actualPrice: 56.21 EUR
 currency: EUR
 price: 56.21

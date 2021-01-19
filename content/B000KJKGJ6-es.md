@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513l7fo-EYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJKGJ6-es'
+slug: 'B000KJKGJ6-es Apli 1272 - Etiquetas  100 hojas'
 actualPrice: 14.85 EUR
 currency: EUR
 price: 14.85

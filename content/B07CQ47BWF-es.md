@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Pkq+nZnuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ47BWF-es'
+slug: 'B07CQ47BWF-es 41 Piezas Set Dibujo Artistico Con Lapices Acuarelables  Lapices De Dibujo  Lapiz Grafito En Cartuchera Lapices para Colorear Libros Y Páginas  El mejor regalo para estudiantes  niños'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

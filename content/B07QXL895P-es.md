@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v4+EACagL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXL895P-es'
+slug: 'B07QXL895P-es Under Armour Patterson Mochila  Unisex Adulto  Multicolor  46.7 x 30.2 x 11.4 cm'
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

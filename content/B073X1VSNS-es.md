@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HpYPDpviL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073X1VSNS-es'
+slug: 'B073X1VSNS-es Eastpak Padded Pak r Mochila  40 cm  24 L  Azul  Cloud Navy '
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

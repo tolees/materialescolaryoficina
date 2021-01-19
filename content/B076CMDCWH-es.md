@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U4MYLaYmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CMDCWH-es'
+slug: 'B076CMDCWH-es Samsonite Guardit UP 14.1" Mochila Negro - Funda  Mochila para Tablet  35 8 cm  14.1"   Tirante para Hombro  700 g  Negro '
 actualPrice: 58.8 EUR
 currency: EUR
 price: 58.8

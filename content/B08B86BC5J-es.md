@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WP7Uut+jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B86BC5J-es'
+slug: 'B08B86BC5J-es Mochila Niña 3 en 1 Sets de Bolsas Escolares Primaria Mochilas Infantiles Mochilas Unicornio Niño Mochila con Bolsa del Almuerzo + Estuche'
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SjIZYVycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CBHQI9W-es'
+slug: 'B00CBHQI9W-es L´Oréal Paris Make Up Artist Eyeliner Super Liner Blackbuster  Lápiz de Ojos Trazo Fino y Grueso  Color Negro'
 actualPrice: 4.57 EUR
 currency: EUR
 price: 4.57

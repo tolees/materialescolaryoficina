@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21tpSdE8puL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XP3F5TT-es'
+slug: 'B07XP3F5TT-es Cámara enchufable Grabadora de conferencias Grabadora de Video Lápiz de grabación Exquisito Portátil Compacto Negocio eficiente 32Gb - Negro'
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

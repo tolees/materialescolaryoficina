@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312msG0tKiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BG0U7G-es'
+slug: 'B000BG0U7G-es Cross Tech3+ - Bolígrafo multi-funcional  color cromado brillante'
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

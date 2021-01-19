@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ERhObXH9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JYSQ2S2-es'
+slug: 'B01JYSQ2S2-es Chicco Easy Fit Mochila ergonómica portabebé  hasta 9 kg  color negro  Black Night '
 actualPrice: 38.35 EUR
 currency: EUR
 price: 38.35

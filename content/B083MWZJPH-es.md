@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51neyK2WQiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083MWZJPH-es'
+slug: 'B083MWZJPH-es RJEU Mochila Mujer  15.6-17.3 Pulgadas Mochila Ordenador Portatil con Puerto de Carga USB para la Escola  Universidad  Viajes  Negocios  Flor-26L '
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

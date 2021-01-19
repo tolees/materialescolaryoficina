@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OR9SzBMHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSB1Z14-es'
+slug: 'B07YSB1Z14-es TOMSHOO Mochila de Hidratación Mochila conVejiga de Agua de 3.92Litros  Espacio del Compartimiento Principal es de 18 litros para Correr Ciclismo No Incluye Botellas de Agua y Vejigas   Rojo '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

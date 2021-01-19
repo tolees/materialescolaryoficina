@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CXdfVpavL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DPK4IPO-es'
+slug: 'B01DPK4IPO-es The North Face Borealis Classic Mochila  Unisex Adulto  Negro  TNF Black   Talla Única'
 actualPrice: 65.94 EUR
 currency: EUR
 price: 65.94

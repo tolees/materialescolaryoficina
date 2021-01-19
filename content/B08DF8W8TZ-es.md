@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f6qXlMj9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DF8W8TZ-es'
+slug: 'B08DF8W8TZ-es Mochila Infantil 3D  Estuche Escolar y Bolsa Merienda de Cuerdas Pack - Peppa Pig | Mochilas Escolares para Niñas y Niños a Partir de 3 Años | Material Escolar Vuelta al Cole de Peppa Pig'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

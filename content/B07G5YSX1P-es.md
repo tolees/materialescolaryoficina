@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e26huN2xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5YSX1P-es'
+slug: 'B07G5YSX1P-es Mochila para portátil Pepe Jeans Bromley Verde 13 3"'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

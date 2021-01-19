@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419Hp4Z-+QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0007OEDZC-es'
+slug: 'B0007OEDZC-es STABILO BOSS Original Marcador fluorescente multicolor- Estuche con 8 colores'
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

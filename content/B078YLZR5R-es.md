@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ywkao4MGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YLZR5R-es'
+slug: 'B078YLZR5R-es Thule EnRoute - Mochila de 23L  Color Azul'
 actualPrice: 57.92 EUR
 currency: EUR
 price: 57.92

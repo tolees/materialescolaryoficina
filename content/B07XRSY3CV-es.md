@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51d4sKj6FeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRSY3CV-es'
+slug: 'B07XRSY3CV-es Smyidel Tabla de Dibujo Portátil para Niños  Tablero de Dibujo de Graffiti  Bloc de Dibujo portátil borrable  Reutilizable 12 bolígrafos borrables de Color 14 Página  Bird '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00565AFPO-es'
+slug: 'B00565AFPO-es APLI 2414 - Etiquetas Blancas permanentes 63 5 x 38 1 mm 100 Hojas'
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

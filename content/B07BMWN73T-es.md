@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t3YWyRgoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMWN73T-es'
+slug: 'B07BMWN73T-es 40L Mochila Hombre Senderismo Deporte Viaje Grande Trekking Mujer Trabajo Casual Backpack Antirrobo Impermeable Camp Caminata Portátil Bolsa Mochila  Negra'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

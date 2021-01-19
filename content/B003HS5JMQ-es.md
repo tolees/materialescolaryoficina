@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ch-uuiyCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003HS5JMQ-es'
+slug: 'B003HS5JMQ-es Skip Hop- Pajaro Zoo Mochila  Color Azul  S  2194 '
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ztV19DFEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHQY3S7-es'
+slug: 'B07PHQY3S7-es Zenacolor 24 Lápices de Colores Acuarelables  Numerados con Pincel en Caja Metálica Set de Ecolápices Acuarelables de Colores - Únicos y Diferentes - Coloreado para Adultos y Artistas'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

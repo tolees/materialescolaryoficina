@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MWENfe2eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HFFOBLQ-es'
+slug: 'B01HFFOBLQ-es Rotulador con Punta Fina de Pincel de Pelo para Caligrafia China y Japonesa 4326'
 actualPrice: 8.28 EUR
 currency: EUR
 price: 8.28

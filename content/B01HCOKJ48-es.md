@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412t+wNDS7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HCOKJ48-es'
+slug: 'B01HCOKJ48-es TYR Alliance 45L Mochila  Unisex Adulto  Rojo/Negro  Talla Única'
 actualPrice: 48.45 EUR
 currency: EUR
 price: 48.45

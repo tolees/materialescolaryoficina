@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zcOl5T0+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0839DY4DS-es'
+slug: 'B0839DY4DS-es Cortador de perilla de bonsai Ichiias  cortador de perilla de acero inoxidable de 180 mm Tijeras de corte de bola Herramientas de bonsai de jardín de modelado de paisajes'
 actualPrice: 23.69 EUR
 currency: EUR
 price: 23.69

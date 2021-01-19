@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gfstG1Y1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8QM8B3-es'
+slug: 'B07F8QM8B3-es Cabin Max Maleta con Ruedas  Maletas de Viaje Cabina 55x40x20  Convertible en Mochila – Equipaje con Ruedas de 44 litros y 1 7 kilogramos de Peso  Oxide Red '
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

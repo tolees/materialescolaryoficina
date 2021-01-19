@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419liKB63oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J37W7YV-es'
+slug: 'B07J37W7YV-es Under Armour Hustle 4.0 Mochila  Unisex Adulto  Gris  OSFA'
 actualPrice: 39.58 EUR
 currency: EUR
 price: 39.58

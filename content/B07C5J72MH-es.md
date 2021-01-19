@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51h7KJeQ-dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5J72MH-es'
+slug: 'B07C5J72MH-es Kit Set Cuidado Barba con Libre Champu Barba Peine Barba Cepillo Barba Aceite Barba Balsamo Barba Barba Tijeras Productos Hidratante Acondicionador Barba'
 actualPrice: 20.91 EUR
 currency: EUR
 price: 20.91

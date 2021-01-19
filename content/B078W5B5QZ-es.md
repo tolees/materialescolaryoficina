@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51goZBoPiBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078W5B5QZ-es'
+slug: 'B078W5B5QZ-es 24 bolígrafos para colorear  punta de fieltro de 0 4 mm  rotuladores de punta doble  rotuladores de pincel  bolígrafos de dibujo simulación acuarela'
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

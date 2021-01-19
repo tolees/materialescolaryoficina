@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QftFC3D9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDDGQ6D-es'
+slug: 'B07RDDGQ6D-es Xnuoyo 17.3 Pulgadas Mochila Hombre  Impermeable Mochila con Puerto de USB，Mochila de Gran Capacidad para Hombre Mujer Oficina Trabajo Diario Negocio Multifuncional  Negro '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

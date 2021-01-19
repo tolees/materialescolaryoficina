@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NbQDDKxtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J9Z2YND-es'
+slug: 'B07J9Z2YND-es Mochila para portátil 13 3 pulgadas Movom Business Azul'
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

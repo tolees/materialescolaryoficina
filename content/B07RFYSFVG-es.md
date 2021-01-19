@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HqdYS+lZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFYSFVG-es'
+slug: 'B07RFYSFVG-es Winsor & Newton - Set de Rotuladores ProMarker  12 + 1 Unidades  Set 2  Colores Surtidos'
 actualPrice: 23.65 EUR
 currency: EUR
 price: 23.65

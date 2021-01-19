@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IIF0rXCkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJ6WDNG-es'
+slug: 'B07FJ6WDNG-es Pentel GFKPN Pocket Brush bolígrafo de tinta de pigmentos para caligrafía  bocetos y dibujos  color gris + 4 cartuchos'
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73
@@ -27,7 +27,7 @@ Está [Pentel GFKPN Pocket Brush bolígrafo de tinta de pigmentos para caligraf�
 
 - Tinta resistente al agua y a la luz.
 - Bolígrafo de punta fina de tinta gris con pigmentos
-- Bolígrafo recargable con 4 cartuchos de tinta FP10.
 - Pelo sintético duradero y muy resistente.
+- Bolígrafo recargable con 4 cartuchos de tinta FP10.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FJ6WDNG/?tag=tolees-21)

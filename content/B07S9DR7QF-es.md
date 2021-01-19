@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r0rVgQw5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9DR7QF-es'
+slug: 'B07S9DR7QF-es adidas AC Class BP Sports Backpack  Unisex Adulto  Maroon  NS'
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

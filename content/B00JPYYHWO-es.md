@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HB3gVyXZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JPYYHWO-es'
+slug: 'B00JPYYHWO-es Eastpak Back To Work Mochila  43 cm  27 L  Gris  Sunday Grey '
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

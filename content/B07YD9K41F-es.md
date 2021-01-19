@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ECIC89ItL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD9K41F-es'
+slug: 'B07YD9K41F-es Anano Mochila de Senderismo  actualización de 40 L  Mochila Resistente al Agua para Trekking  montañismo  Mochila para Viajes  Escalada  Ciclismo  Correr  Camping  Deportes al Aire Libre'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V9SW77vpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLJ7MR6-es'
+slug: 'B07QLJ7MR6-es Mochila vintage de cuero unisex | Hecho a mano | Mochila de senderismo | Bolsa de viaje | Bolsa escolar | Envío gratis'
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

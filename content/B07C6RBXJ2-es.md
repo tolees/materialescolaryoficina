@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MY5VgwMRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C6RBXJ2-es'
+slug: 'B07C6RBXJ2-es Mi Pequeño Poni Gorra para niña Premium Color Celeste con Orejas y Crin + lápiz de Regalo - My Little Pony Cap'
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rRz2IzE+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLMRQBP-es'
+slug: 'B07VLMRQBP-es Carioca Set Baby 2+ | 53222 - Kit Colores: Rotuladores  Lápices  Témperas y Ceras para Bebés y Niños a Partir de los 24 Meses  36 Unidades'
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

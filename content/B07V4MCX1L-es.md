@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417-bbSLVqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4MCX1L-es'
+slug: 'B07V4MCX1L-es Kipling Seoul Mochila Tipo Casual  44 cm  27 Liters  Plateado  Metallic Glow '
 actualPrice: 55.01 EUR
 currency: EUR
 price: 55.01

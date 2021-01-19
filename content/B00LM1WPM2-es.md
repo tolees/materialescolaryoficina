@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dj7S0-DQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LM1WPM2-es'
+slug: 'B00LM1WPM2-es BIC Highlighter Grip Marcadores punta media  1 6 mm  - colores Surtidos  Blíster de 4+2'
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

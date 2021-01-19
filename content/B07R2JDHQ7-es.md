@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cCrScAGVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2JDHQ7-es'
+slug: 'B07R2JDHQ7-es WLZP Mochila Bicicleta  Bolsa de Agua de Súper Ligero de 2L Depósito de Agua a Prueba de Fugas de Agua Tubo de Agua Desmontable para Bicicleta Ciclismo Senderismo Excursionismo'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

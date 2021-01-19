@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v0e7H6ReL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HLRXR7M-es'
+slug: 'B07HLRXR7M-es  akozon 1pc 7scheren vendaje sanitario Key2Life – Tijeras cortar Primeros Auxilios emergencia Medical Tool'
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

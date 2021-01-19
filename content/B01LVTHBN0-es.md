@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUir0cUeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LVTHBN0-es'
+slug: 'B01LVTHBN0-es Borrador Mágnetico para Pizarra Blanca - Conjunto Premium de 4 - Goma de Borrar con Imanes Fuertes - Limpiador para Marcadores y Rotuladores de Borrado en Seco - Liquidador para Oficina y Escuela'
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

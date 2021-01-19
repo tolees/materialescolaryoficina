@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nrQnuLYhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6Y40VI-es'
+slug: 'B01N6Y40VI-es Pritt Roller Compact  corrector roller para tapar errores  correctores de bolígrafo y textos impresos  versátil corrector blanco para frases y letras  4 2mm x 10m'
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311r06EHKzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7WDXQ7-es'
+slug: 'B07K7WDXQ7-es Miquelrius - Mochila Pequeña Poliéster Cierres Cremallera Camuflaje Cars'
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

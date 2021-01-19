@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WU5tEj2DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXRFZHX-es'
+slug: 'B01LXRFZHX-es Samsonite Qibyte Laptop Backpack 17.3" Mochila Tipo Casual  24.5 litros  Color Azul'
 actualPrice: 47.57 EUR
 currency: EUR
 price: 47.57

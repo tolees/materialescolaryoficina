@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lmzJNBw4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSSEY4U-es'
+slug: 'B01BSSEY4U-es Westcott - Tijeras infantiles para diestros'
 actualPrice: 1.57 EUR
 currency: EUR
 price: 1.57

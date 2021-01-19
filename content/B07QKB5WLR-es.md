@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VVgWBI2eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKB5WLR-es'
+slug: 'B07QKB5WLR-es Pistola de Silicona  G★LAXIA Pistola de Pegar 60W Con 10PCS 11.8mm Barras de Pegamento Calentamiento Rápid  Gatillo Flexible  para Proyectos de Bricolaje y Manualidades'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

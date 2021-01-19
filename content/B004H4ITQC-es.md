@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21j6sJDAKxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004H4ITQC-es'
+slug: 'B004H4ITQC-es Pilot IC-50 Negras – Cartuchos para bolígrafos Pluma estilográfica 6 Piezas'
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

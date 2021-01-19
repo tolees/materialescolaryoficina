@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51YUvoQKOIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QS8MNB4-es'
+slug: 'B07QS8MNB4-es Meinkind Mochila Portabebe Ergonomica Multifunción  para Bebé 3 5-15 kg  Algodón Transpirable y Ligero  con Reposacabeza Plegable y Tirantes Flexibles  con Cinturones Dobles Ajustables y Cómodos  Gris'
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

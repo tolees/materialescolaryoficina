@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fA9lm61vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H3R8G1M-es'
+slug: 'B01H3R8G1M-es Speedo T-KIT Teamster Mochila  Unisex Adulto  Red / Black  35 l'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

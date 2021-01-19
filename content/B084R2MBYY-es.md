@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/215vugo0baL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084R2MBYY-es'
+slug: 'B084R2MBYY-es Pelikan Jazz Classic 815017 Bolígrafo con Mina Azul  color Mostaza amarilla'
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518e8a4u-oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFKSNHY-es'
+slug: 'B07NFKSNHY-es Kipling ECHO Bolsa escolar  50 cm  29 liters  Multicolor  Hearty Pink Met '
 actualPrice: 148.16 EUR
 currency: EUR
 price: 148.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LoR1-iKHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1TR3GF-es'
+slug: 'B07K1TR3GF-es Tommy Hilfiger - Sport Mix Backpack Solid  Carteras Hombre  Azul  Tommy Navy   1x1x1 cm  W x H L '
 actualPrice: 49.81 EUR
 currency: EUR
 price: 49.81

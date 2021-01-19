@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51v0XKnyCzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRX634L-es'
+slug: 'B07XRX634L-es CARPISA ® Mochila de fantasía - Foresta'
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

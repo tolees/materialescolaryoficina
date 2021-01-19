@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51q+vg4+2mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FBHPDM8-es'
+slug: 'B08FBHPDM8-es Mochila Infantil 3D  Estuche Escolar y Bolsa Merienda de Cuerdas – Patrulla Canina | Mochilas Escolares para Niños y Niñas de 3 Años | Material Escolar Vuelta al Cole de Patrulla Canina'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

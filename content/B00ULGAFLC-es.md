@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WmP5d6q4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ULGAFLC-es'
+slug: 'B00ULGAFLC-es BIC Celebrate Cristal Shine bolígrafos punta media  1 0 mm  - Cuerpo y colores Surtidos  Blíster de 2 unidades'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

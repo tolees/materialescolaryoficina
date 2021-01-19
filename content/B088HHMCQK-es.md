@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mtd2+m6KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088HHMCQK-es'
+slug: 'B088HHMCQK-es Ritches Diario de Puntos A5 - Cuaderno de Tapa Dura de Cuero PU de Mármol Gris  Páginas Numeradas Con Puntos - Incluye Bolígrafo  Pegatinas y Caja de Regalo'
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

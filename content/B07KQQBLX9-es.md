@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41afsingKyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQQBLX9-es'
+slug: 'B07KQQBLX9-es Diesel F-DISCOVER CROSS  Mochila para Hombre  Negro  Black   4x19.5x15 centimeters  W x H x L '
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

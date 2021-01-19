@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21SOxPWMW9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYH583X-es'
+slug: 'B06ZYH583X-es Omy Set de 16 rotuladores ultralavables  17 x 4 x 17 cm'
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

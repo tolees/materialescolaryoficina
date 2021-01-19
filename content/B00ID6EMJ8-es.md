@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wkYts-DfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ID6EMJ8-es'
+slug: 'B00ID6EMJ8-es Pentel PHN-12 - Caja de 12 pasteles de aceite  colores surtidos'
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

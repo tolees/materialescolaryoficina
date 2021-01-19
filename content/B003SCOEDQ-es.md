@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SayK59uKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003SCOEDQ-es'
+slug: 'B003SCOEDQ-es Calculadora bolsillo sencilla Canon AS-8 Negra'
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

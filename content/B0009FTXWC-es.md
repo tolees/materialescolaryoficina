@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dSZRrjmML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009FTXWC-es'
+slug: 'B0009FTXWC-es Casio FX-570ES PLUS - Calculadora científica 80 x 162 x 13.8 mm  plata/azul'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

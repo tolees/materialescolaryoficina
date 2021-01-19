@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EiQhswQrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXNJHB3-es'
+slug: 'B07TXNJHB3-es NEWSTYLE Set Para El Cuidado Del Bebé 12 Unids Bebé Kit de Cuidado Diario Conveniente Bebé Kit de Aseo Nail Clipper Tijeras Cepillo de Pelo Peine Manicura'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

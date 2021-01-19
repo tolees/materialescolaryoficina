@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+F36O3yrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWNTBQD-es'
+slug: 'B07JWNTBQD-es Lowepro Whistler Backpack 350 AW II Negro - Funda  Gris '
 actualPrice: 218.89 EUR
 currency: EUR
 price: 218.89

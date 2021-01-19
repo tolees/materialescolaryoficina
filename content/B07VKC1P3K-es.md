@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nYZTpoGjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKC1P3K-es'
+slug: 'B07VKC1P3K-es Carioca Roller Birello | Estuche Enrollable Azul con Rotuladores Doble Punta Super Lavables  Punta Fina y Punta Media Conica  Cierre con Velcro 24 Uds'
 actualPrice: 13.13 EUR
 currency: EUR
 price: 13.13

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JsF+ri2iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQYX6Y4-es'
+slug: 'B07KQYX6Y4-es Diesel BOLD BACK II  Mochila para Hombre  Negro  Black   10x44x30 centimeters  W x H x L '
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

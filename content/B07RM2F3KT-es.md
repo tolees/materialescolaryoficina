@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51x9YZPpwTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM2F3KT-es'
+slug: 'B07RM2F3KT-es Mochila  mochila escolar  mochila deportiva  mochila para el tiempo libre  mochila para niñas  mujeres  jóvenes  mochila escolar  azul oscuro '
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

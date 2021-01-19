@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31M75OdDmbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4N8R7L-es'
+slug: 'B07K4N8R7L-es Bestlife - Mochila Trolley para Portátil 15.6    Tablet y Conector USB - Color Rojo  50 cm '
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

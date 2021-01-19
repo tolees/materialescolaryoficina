@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uFWAF4mmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZFH7BB-es'
+slug: 'B08BZFH7BB-es Trendy New Shoulder Messenger Bag Mochila Mujer Pu Leather Shoulder Bag Messenger Bag Simple Portable Bag - Negro'
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

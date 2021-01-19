@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SVBRibtPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU1FNUT-es'
+slug: 'B01MU1FNUT-es Rapesco Eco HD-100 - Grapadora de gruesos  100 hojas  mas 2000 grapas 923/10  blanco mate'
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zyC6PIBzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9VXGM5-es'
+slug: 'B07X9VXGM5-es Parfois - Mochila Estampada - Mujeres - Tallas L - Crudo'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

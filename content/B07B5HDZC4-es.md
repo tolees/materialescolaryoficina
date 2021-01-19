@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oVZ-sdY2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B5HDZC4-es'
+slug: 'B07B5HDZC4-es GABOL Mochila Trolley Cabina Saga. Bolsa de Viaje  50 cm  15 litros  Azul'
 actualPrice: 29.76 EUR
 currency: EUR
 price: 29.76

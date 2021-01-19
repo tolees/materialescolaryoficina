@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jUq4FDXRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D1B2ZJ5-es'
+slug: 'B07D1B2ZJ5-es The North Face Equipment TNF Mochila Borealis  Unisex adulto  Flag Blue Light Heather/TNF White  Talla única'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

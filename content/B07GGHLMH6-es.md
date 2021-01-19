@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518fZD7dW8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGHLMH6-es'
+slug: 'B07GGHLMH6-es Juego de 27 rollos de cinta adhesiva de papel japonés Washi para decorar manualidades  diseños de libros  ideal para festivales y fiestas'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

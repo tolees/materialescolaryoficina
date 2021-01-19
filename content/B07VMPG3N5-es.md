@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OYFlTvmRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMPG3N5-es'
+slug: 'B07VMPG3N5-es Acmebon Mochila Escolar Resistente al Agua para Niñas Adolescentes Conjunto de Mochila con Bolsa de Almuerzo y Estuche Lirio'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O0fvT-yJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVJJMBY-es'
+slug: 'B07GVJJMBY-es Surface Pen 180 días de Trabajo 500hrs Standby  Surface Lápiz Compatible con Surface Go / Pro 3 / Pro 4 / Pro 6/ Pro 5  Surface Laptop / Book / Studio'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

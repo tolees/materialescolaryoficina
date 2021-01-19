@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4120a-7WP2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DN9QZ4W-es'
+slug: 'B07DN9QZ4W-es Juego de 16 imanes de neodimio  Imanes fuertes adhesivos con cinta adhesiva de 3M  Imanes autoadhesivos con película adhesiva  fuerza adhesiva extra  8Pcs 60x10x3 mm  8Pcs 20X10X2mm  16PC '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I3cSrmeKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0007OEE1K-es'
+slug: 'B0007OEE1K-es Rotulador STABILO Pen 68 - Estuche con 10 colores'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

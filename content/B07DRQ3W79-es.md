@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4106NnXpcZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRQ3W79-es'
+slug: 'B07DRQ3W79-es Mochila casual Pepe Jeans Olaia Rosa'
 actualPrice: 22.38 EUR
 currency: EUR
 price: 22.38

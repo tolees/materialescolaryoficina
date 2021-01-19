@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61u6hY1JuFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894TXW5N-es'
+slug: 'B0894TXW5N-es Bolígrafos de Contorno de Doble Línea  Baozun 21Colores Rotuladores de Doble Línea Secado Rápido Resistente al Agua Pluma de Doble Línea para Hacer Tarjetas de Regalo Pintar Rocas Dibujar Manualidades'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

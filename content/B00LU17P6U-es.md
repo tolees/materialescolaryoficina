@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314JoBTRETL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LU17P6U-es'
+slug: 'B00LU17P6U-es Black Diamond Bullet 16 Mochila  Unisex Adulto  Negro  Black   Tamaño Único'
 actualPrice: 27.38 EUR
 currency: EUR
 price: 27.38

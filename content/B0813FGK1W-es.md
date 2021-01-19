@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hJD8MIbcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813FGK1W-es'
+slug: 'B0813FGK1W-es Portalápices 5 Piezas de Escritorio de Organizador de Pluma de Lápices para Oficina y Escuela Casa'
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

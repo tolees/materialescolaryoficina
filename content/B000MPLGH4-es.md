@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21+AB+y4CjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000MPLGH4-es'
+slug: 'B000MPLGH4-es BIC 371664 - Bolígrafo retráctil  color negro'
 actualPrice: 6.42 EUR
 currency: EUR
 price: 6.42

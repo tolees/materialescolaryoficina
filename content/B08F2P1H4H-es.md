@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NNGiMFeIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F2P1H4H-es'
+slug: 'B08F2P1H4H-es Smatoy Organizador de Escritorio Papelería de Madera para Oficina Organizador de Escritorio para Documentos A4  Bolígrafos  Libros  Cuadernos y Archivos  Material de Escritorio '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

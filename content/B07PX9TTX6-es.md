@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5183Ydo3A0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PX9TTX6-es'
+slug: 'B07PX9TTX6-es HOTLIFE Funda Teclado para iPad Mini 5 2019/Mini 4 2015  Funda 7.9   con Ranura de Lápiz y Teclado Español  Incluye Letra Ñ  Bluetooth Inalámbrico para iPad Mini 5/Mini 4 con Soporte Multiángulo Rosa '
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

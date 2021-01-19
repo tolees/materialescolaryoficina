@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51H36ePNSpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWF2WB6-es'
+slug: 'B07JWF2WB6-es Bolsa de Almacenamiento de Target Pouch para Gun N-Strike Elite Series Bolsa de Mochila Niños Target Pouch Storage Bag de Destino Bullet Suave Bolsa para Juego de Pistola de Juguete'
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

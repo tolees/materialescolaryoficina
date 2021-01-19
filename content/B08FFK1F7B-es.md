@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gAWJ0ASDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FFK1F7B-es'
+slug: 'B08FFK1F7B-es luosh Modelo de Arcilla  Kit de cortadores de Arcilla para Masa útil  plastilina para Manualidades  Molde de extrusión de Arcilla  Juego de Herramientas  Juguetes para Aprender a Jugar a los niños'
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

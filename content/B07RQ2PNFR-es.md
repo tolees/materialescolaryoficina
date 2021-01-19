@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PlcVPi4OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQ2PNFR-es'
+slug: 'B07RQ2PNFR-es Calvin Klein - Layered Round Backpack  Shoppers y bolsos de hombro Hombre  Azul  Navy   0.1x0.1x0.1 cm  W x H L '
 actualPrice: 42.38 EUR
 currency: EUR
 price: 42.38

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Lzp2DYFpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NK6FCZ7-es'
+slug: 'B07NK6FCZ7-es EXERZ E Organizador de Escritorio 360 Grados Giratorio con Artículos de Oficina- Tijeras  Grapadora  Grapas  Lapices  Regla  Goma de Borrar INCLUIDO - Organizador de Oficina  Gris '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512LxoCaVzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMLL24R-es'
+slug: 'B07KMLL24R-es Play Doh - Disney Buzz Lightyear  Hasbro  E3369EU5 '
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

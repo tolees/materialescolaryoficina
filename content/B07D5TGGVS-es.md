@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516SATkPSmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5TGGVS-es'
+slug: 'B07D5TGGVS-es KitchenBoss Bolsas de Vacío 1 Rolls 20x1500cm con Caja de Corte  No Más Tijeras  para Almacenaje de Alimentos Sous Vide Cocina  Aprobación de la FDA y BPA Free'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

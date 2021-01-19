@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310HYlnWURL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009GGTVTU-es'
+slug: 'B009GGTVTU-es Jovi 72 - Plastilina  color rosa'
 actualPrice: 1.67 EUR
 currency: EUR
 price: 1.67

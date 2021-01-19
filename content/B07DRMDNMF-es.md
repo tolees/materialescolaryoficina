@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41B8leeci9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRMDNMF-es'
+slug: 'B07DRMDNMF-es Mochila con carro Pepe Jeans Olaia doble compartimento rosa 44cm'
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

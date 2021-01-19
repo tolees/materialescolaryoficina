@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wvrr3O5gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C6ZIH16-es'
+slug: 'B00C6ZIH16-es APLI Kids - Bolsa goma EVA azul claro  400x600x2mm 5 hojas'
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

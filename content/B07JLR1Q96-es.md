@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z6db8rTpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLR1Q96-es'
+slug: 'B07JLR1Q96-es Lote de 20 Estuches Para Colorear Con 5 Pinturas De Cera Incluidas Cada Uno. Ideal Para Regalos De Cumpleaños  Fiestas De Colegios  Comuniones'
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

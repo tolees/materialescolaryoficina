@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61cIMStArYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W42C5KW-es'
+slug: 'B07W42C5KW-es Fivejoy Agua Dibujo Pintura  150 x 100 cm Agua Doodle  Dibujo Agua Niños con 4 Bolígrafos Mágicos  4 Sellos de Dibujos Animados  1 Rodillo de Dibujos Animados  1 Almohadillas de Tinta  1 Folleto'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

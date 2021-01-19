@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gHFofDsTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0073RSU6O-es'
+slug: 'B0073RSU6O-es S&R Tijeras para corte de Chapa Aviación serie 250 mm  Corte Recto por Acero Laminado y Acero Inox'
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

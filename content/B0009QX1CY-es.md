@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-lpPI2yfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009QX1CY-es'
+slug: 'B0009QX1CY-es Dymo D1 Standard  Cintas para Impresoras de Etiquetas  19 mm x 7 m  Negro sobre Transparente  Estándar Pack'
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

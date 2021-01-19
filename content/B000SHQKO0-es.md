@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DfvnmamUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000SHQKO0-es'
+slug: 'B000SHQKO0-es Pilot Frixion - Bolígrafo de tinta  trazo de 0 4 mm  tinta borrable   color azul  12 unidades'
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ohYFS0m-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7BNNDB-es'
+slug: 'B07S7BNNDB-es Mochila Térmica  Besrey Mochila Nevera bolsa térmica comida grande  Mochila Portatil Almuerzo de Doble Capa  Ligera  Impermeable  para playa Trabajo Picnic Camping'
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

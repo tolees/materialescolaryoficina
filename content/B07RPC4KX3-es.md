@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zwAxnn25L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPC4KX3-es'
+slug: 'B07RPC4KX3-es Ceras Manley 10 Colores 6cm =000330='
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

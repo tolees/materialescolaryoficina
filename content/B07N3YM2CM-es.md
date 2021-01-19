@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31QCBzXjIPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3YM2CM-es'
+slug: 'B07N3YM2CM-es Carlos belleza instrumento instrumento de masaje de los ojos multifunción eléctrica belleza lápiz para los ojos de grano fino  Lifting Reafirmante instrumento de cuidado de los ojos'
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

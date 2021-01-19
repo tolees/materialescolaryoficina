@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416A3zTD1qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089YTPR34-es'
+slug: 'B089YTPR34-es Vans Old Skool Iii - Mochila para hombre  color  talla OS'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

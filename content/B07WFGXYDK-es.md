@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51h+LWxC-uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFGXYDK-es'
+slug: 'B07WFGXYDK-es Pepe Jeans Irvin Mochila para portátil 15.6 Pulgadas'
 actualPrice: 33.56 EUR
 currency: EUR
 price: 33.56

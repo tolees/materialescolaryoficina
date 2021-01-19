@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51z873LjpgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHCCFQD-es'
+slug: 'B07NHCCFQD-es Paper Mate InkJoy 100ST - Bolígrafos  punta mediana 1.0 mm  paquete de 27  colores fantasía surtidos'
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

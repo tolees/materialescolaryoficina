@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E-Y9ROpOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012TBV4CA-es'
+slug: 'B012TBV4CA-es Milan 615350Y - Rotuladores'
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

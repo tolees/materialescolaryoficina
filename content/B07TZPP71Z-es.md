@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51k8XF6pTjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZPP71Z-es'
+slug: 'B07TZPP71Z-es LOBKIN Rotuladores de Pintura Acrílica Keten 12 Colores Permanentes Punta Mediana para Roca Piedra Tela Metal Vidrio Diseñar Taza de Cerámica  Scrapbooking  12 Rotuladores de Pintura Acrílica '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

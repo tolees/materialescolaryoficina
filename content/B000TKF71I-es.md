@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51L7UCXkJAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000TKF71I-es'
+slug: 'B000TKF71I-es Staedtler Stick 430M3CP5. Bolígrafos de bola. Caja con 50 bolígrafos de punta media de color azul'
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

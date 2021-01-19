@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sPDE1vGoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3FS5LD-es'
+slug: 'B07P3FS5LD-es Mochila Carterón Enso Trust Me'
 actualPrice: 39.19 EUR
 currency: EUR
 price: 39.19

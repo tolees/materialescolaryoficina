@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i6oawMq4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0TXJW9-es'
+slug: 'B01M0TXJW9-es PORT DESIGNS Sydney Laptop de 15.6    y Mochila Negra para Tableta de 10.1"'
 actualPrice: 38.07 EUR
 currency: EUR
 price: 38.07

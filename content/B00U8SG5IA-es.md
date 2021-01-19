@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311fI0kW2LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U8SG5IA-es'
+slug: 'B00U8SG5IA-es Beter Tijeras de pedicura  especial para las uñas gruesas de los pies'
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

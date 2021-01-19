@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wk1+0xC8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHNNBXB-es'
+slug: 'B07PHNNBXB-es Samsonite Checkmate - Mochila para portátil  44 cm   Gris  Gris  - 116125/1408'
 actualPrice: 205.07 EUR
 currency: EUR
 price: 205.07

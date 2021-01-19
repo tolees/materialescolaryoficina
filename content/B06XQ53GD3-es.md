@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pfPaV+JRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XQ53GD3-es'
+slug: 'B06XQ53GD3-es Staedtler 308 S1WP3 - Rotulador  color negro'
 actualPrice: 3.22 EUR
 currency: EUR
 price: 3.22

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51q9zxbr6GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793D8QSZ-es'
+slug: 'B0793D8QSZ-es BABYBJÖRN One Air - Mochila Porta Bebé  3D Tejido de red  Antracita'
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

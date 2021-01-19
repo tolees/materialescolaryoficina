@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518+aP6nHCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077KV2MZG-es'
+slug: 'B077KV2MZG-es Mimoo Pintura Facial Ninos  16 Colores Halloween Niño Kit Pintura Lápices de Colores  Pintura Corporal no Tóxica Lápices de Colores para Niños  Regalo de pascua de carnaval Niños Pequeños'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

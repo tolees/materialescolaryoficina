@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51trwP-NOyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDZQF2G-es'
+slug: 'B07FDZQF2G-es Vintage Mochila Mujer Bolsos Mochila Hombre Antirrobo Mochila Portatil 15 6 Pulgadas Trabajo Impermeable Camping Deportiva Casual College Daypack  Gris'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

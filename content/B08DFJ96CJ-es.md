@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OZksA1lBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DFJ96CJ-es'
+slug: 'B08DFJ96CJ-es Mochila Infantil 3D  Estuche Escolar y Bolsa Merienda de Cuerdas Frozen 2 Diseño Exclusivo – Frozen | Mochilas Escolares para Niñas y Niños de 3 Años | Material Escolar Vuelta al Cole de Frozen'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

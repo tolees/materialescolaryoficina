@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Is4XgAgmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TP5CYFR-es'
+slug: 'B07TP5CYFR-es Samsonite Color Funtime Mochila con Ruedas  51 cm  26 L  Azul  Street Sports '
 actualPrice: 59.78 EUR
 currency: EUR
 price: 59.78

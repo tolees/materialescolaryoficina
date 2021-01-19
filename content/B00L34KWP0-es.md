@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TE4PUY4TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L34KWP0-es'
+slug: 'B00L34KWP0-es BIC Kids Kid Couleur - Pack de 20 rotuladores de colorear para aprendizaje en caja metálica  multicolor'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

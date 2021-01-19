@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rWpWDZDwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJSS7HY-es'
+slug: 'B07WJSS7HY-es Mochila Escolar USAMYNA Teens para Mujeres College Girls BTS Bookbag Carga USB y Headset Port Mochila para Portátil Mochila para Estudiantes  D '
 actualPrice: 17.92 EUR
 currency: EUR
 price: 17.92

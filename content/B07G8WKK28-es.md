@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Cob7cAEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8WKK28-es'
+slug: 'B07G8WKK28-es LIANCHENYI Runway - Mochila de viaje'
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

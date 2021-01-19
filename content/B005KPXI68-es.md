@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519X1edta0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005KPXI68-es'
+slug: 'B005KPXI68-es Rotuladores Mágicos Magic Markers - 20 Uds'
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

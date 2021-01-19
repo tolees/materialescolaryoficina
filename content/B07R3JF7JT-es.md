@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FeT5CyExL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3JF7JT-es'
+slug: 'B07R3JF7JT-es Viedouce Mochila Portabebes Ergonómico Multifuncion Transpirable Algodón Puro Ligero Portabebés Con Capucha de Sueño Extraíble en La Espalda Con Correas de Hombro Suaves  0-48meses   Azul Oscuro '
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

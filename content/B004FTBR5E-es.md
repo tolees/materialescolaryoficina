@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eXBED0UvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004FTBR5E-es'
+slug: 'B004FTBR5E-es BIC Round Stic - Paquete de 60 bolígrafos reciclado  color azul'
 actualPrice: 10.81 EUR
 currency: EUR
 price: 10.81

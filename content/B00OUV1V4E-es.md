@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314N0Tov2gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OUV1V4E-es'
+slug: 'B00OUV1V4E-es Bourjois Sourcil Precision Lápiz de cejas Tono 7 Noisette - 4 gr.'
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

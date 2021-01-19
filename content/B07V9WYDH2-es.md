@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CnMOfqlqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9WYDH2-es'
+slug: 'B07V9WYDH2-es Panamami Conjunto de moldes de Herramientas de Arcilla de Color  Herramienta de plastilina Ambiental  no tóxico y Seguro  Ideal para artesanías de Alivio de estrés - Multicolor'
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

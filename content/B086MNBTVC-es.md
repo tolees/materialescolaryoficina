@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZmZhOplhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MNBTVC-es'
+slug: 'B086MNBTVC-es RE Lápiz Táctil 2.ª generación para Apple iPad 2018 y 2019 con Palm Rejection  1mm Fine Tip  Lápiz iPad Pencil Recargable Compatible con Apple iPad 6.ª/Air 3.ª/Mini 5.ª/Pro 11/ Pro 12.9 3.ª '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

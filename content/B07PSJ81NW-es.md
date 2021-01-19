@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BLRhI5UEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJ81NW-es'
+slug: 'B07PSJ81NW-es Kipling City Pack S  Mochila para Mujer  Multicolor  Navy Stick Print   27 x 33.5 x 19 cm'
 actualPrice: 33.93 EUR
 currency: EUR
 price: 33.93

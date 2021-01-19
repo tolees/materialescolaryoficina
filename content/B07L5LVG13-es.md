@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hKVl9UHFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L5LVG13-es'
+slug: 'B07L5LVG13-es Juego de 10 pinceles de pintura profesional de AOOK para acuarelas  pintura al óleo y pintura acrílica'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

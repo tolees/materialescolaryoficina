@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4100FPWtZdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08KZPN9SZ-es'
+slug: 'B08KZPN9SZ-es Nowakk Cabeza de Aceite de Peluquero eléctrica Cizalla de Empuje eléctrica Cizalla de Empuje eléctrica Afeitado Tallado Corte de Pelo USB Cabeza de Aceite eléctrica Tijeras - Bronce'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

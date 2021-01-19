@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317NayDPHWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S86HJP2-es'
+slug: 'B07S86HJP2-es adidas AC Class BP Sports Backpack  Unisex Adulto  Pink Spirit  NS'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

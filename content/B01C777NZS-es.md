@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RPt8KfE1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C777NZS-es'
+slug: 'B01C777NZS-es APLI Kids 14227 - Color Sticks 10 g 6 u.'
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

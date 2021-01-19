@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fH0gNOrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CFHKNQ-es'
+slug: 'B076CFHKNQ-es Samsonite Spectrolite 2.0 35 8 cm  14.1"  Mochila Negro  Gris - Funda  Mochila  35 8 cm  14.1"   Tirante para hombro  1 2 kg  Negro  Gris '
 actualPrice: 99.16 EUR
 currency: EUR
 price: 99.16

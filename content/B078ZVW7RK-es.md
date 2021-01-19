@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uakugWjhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZVW7RK-es'
+slug: 'B078ZVW7RK-es Mochila Stranger Things Faces'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

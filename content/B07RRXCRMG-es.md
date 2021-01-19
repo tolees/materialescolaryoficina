@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XgNAD5AYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRXCRMG-es'
+slug: 'B07RRXCRMG-es Edding 1200 – Rotuladores de colores pastel – Punta redonda 1 mm – Juego de 6 – Para escribir y pintar de forma creativa  para notas  dibujos  letras de mano y diario de bullet'
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

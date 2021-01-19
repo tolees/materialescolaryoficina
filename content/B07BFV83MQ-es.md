@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mxrPhNjAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFV83MQ-es'
+slug: 'B07BFV83MQ-es Ruwhere - Lápiz para cejas en 6 colores  resistente al agua y con cepillo incluido'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

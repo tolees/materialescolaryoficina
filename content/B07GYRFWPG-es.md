@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j1baNL8jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYRFWPG-es'
+slug: 'B07GYRFWPG-es Ergobaby - Mochila Portabebé Original Downtown'
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

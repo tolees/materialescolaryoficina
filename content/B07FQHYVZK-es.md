@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jYJYc7UlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQHYVZK-es'
+slug: 'B07FQHYVZK-es Vans Realm Backpack Mochila Tipo Casual  42 cm  22 Liters  Negro  Black '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

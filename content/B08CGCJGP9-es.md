@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MsxDEd5XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CGCJGP9-es'
+slug: 'B08CGCJGP9-es WOMGF barbero Tijeras Cortar Pelo tijeras de peluquería con capa de barbero y peine de maquinilla de afeitar  clips Conjunto Tijeras Peluquelo Profesional para el cabello'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

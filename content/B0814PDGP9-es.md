@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AcC18LunL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814PDGP9-es'
+slug: 'B0814PDGP9-es Candado de Combinación  DazSpirit 3 dígitos Candado de Seguridad de Viaje para Maletas de Viaje Estuche para casilleros Mochila de Gimnasia Paquete  5 Colores Nuevos '
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

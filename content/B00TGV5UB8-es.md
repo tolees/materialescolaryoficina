@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21tEKQc3bGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TGV5UB8-es'
+slug: 'B00TGV5UB8-es L Oréal Paris Lápiz de Labios Lip Liner Couture by Color Riche 302'
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

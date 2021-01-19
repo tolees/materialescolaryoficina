@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lplh8+fkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HTF73-es'
+slug: 'B07N1HTF73-es Kipling SEOUL PACKABLE - Mochila escolar  22.5 liters  Negro  BLACK LIGHT '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

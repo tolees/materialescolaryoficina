@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OH6qlgYyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B2N8GDW-es'
+slug: 'B00B2N8GDW-es 3 Claveles Tijeras Cocina Multiusos  Acero Inoxidable  Brillo  20 cm'
 actualPrice: 27.05 EUR
 currency: EUR
 price: 27.05

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21Bj17PFO9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009GGTPMS-es'
+slug: 'B009GGTPMS-es Jovi 71 - Plastilina  color verde claro'
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

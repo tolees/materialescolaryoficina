@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21kjh9hzVtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0046ZRAB2-es'
+slug: 'B0046ZRAB2-es L Oréal Paris Lápiz de Labios Infalible Lipliner 703 Fucsia Fever'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

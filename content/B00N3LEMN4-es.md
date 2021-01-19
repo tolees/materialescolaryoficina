@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z47mLah4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N3LEMN4-es'
+slug: 'B00N3LEMN4-es Soarpop SA007 Mochila para ordenador portátil de hasta 17.3" pulgadas  Negro'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

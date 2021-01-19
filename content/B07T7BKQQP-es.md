@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oLoznuC3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7BKQQP-es'
+slug: 'B07T7BKQQP-es Columbia Convey Mochila con la Parte Superior Enrollada  Unisex Adulto  Verde  Rain Forest   O/S'
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EqO5+N54L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0044R7EHM-es'
+slug: 'B0044R7EHM-es Cross Edge - Bolígrafo roller  color azul'
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

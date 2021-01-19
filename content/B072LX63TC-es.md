@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41meTalQS6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LX63TC-es'
+slug: 'B072LX63TC-es Casio FX-85SP X II - Calculadora Científica  Recomendada para el Curriculum Español y Portugués  293 funciones  solar  Azul'
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

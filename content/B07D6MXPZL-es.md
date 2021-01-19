@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ol02czfxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6MXPZL-es'
+slug: 'B07D6MXPZL-es Kipling CLAS SEOUL S Mochila con Compartimento para Tableta  10 litros  Beige  True Beige '
 actualPrice: 33.07 EUR
 currency: EUR
 price: 33.07

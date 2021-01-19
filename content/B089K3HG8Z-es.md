@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jc-mYe3KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089K3HG8Z-es'
+slug: 'B089K3HG8Z-es Symiu Herramientas Electricas De Juguete 19 Piezas Juegos De Imitación con Mochila Taladro Electrico Numerosos Accesorios Educativo Regalo para Niños Ninas 3 4 5 6 7 8 Años'
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

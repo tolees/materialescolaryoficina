@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m1iGaPIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T45LQR2-es'
+slug: 'B07T45LQR2-es Laluztop Pistola de Silicona Caliente 50W Pistola de Pegamento Profesional Con 30pcs Barras de Pegamento para Manualidades  7mm * 15cm '
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

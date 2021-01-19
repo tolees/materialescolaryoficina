@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oxEs5vKnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ24YHJ-es'
+slug: 'B07MZ24YHJ-es Antirrobo Mochila para Portátil  15.6 Pulgadas Impermeable Hombre Mujer Mochila  Multiusos Casual Daypacks para Escolar Negocio Trabajo Escuela  Negro'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

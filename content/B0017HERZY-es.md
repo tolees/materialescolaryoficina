@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zw1zqOrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0017HERZY-es'
+slug: 'B0017HERZY-es Scotch Magic - Portarrollos de sobremesa con 4 cintas adhesivas  rolos mates y transparentes'
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

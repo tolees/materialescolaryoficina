@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yIm7LW2uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CL2Y6KK-es'
+slug: 'B07CL2Y6KK-es BIC 4 Colores Sun Retractable Bolígrafos retráctiles  punta media  1.0 mm   colores modernos  blíster de 1 unidad'
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

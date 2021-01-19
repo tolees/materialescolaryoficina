@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lk-wB6K5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSB5TWG-es'
+slug: 'B07NSB5TWG-es VOHONEY - Bolsa Escolar Verde School Backpack for Unicorn Talla única'
 actualPrice: 17.64 EUR
 currency: EUR
 price: 17.64

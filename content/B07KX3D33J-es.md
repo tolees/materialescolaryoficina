@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416w6W335QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KX3D33J-es'
+slug: 'B07KX3D33J-es Karactermania Mickey Mouse True Mochila Tipo Casual  31 cm  13 litros  Negro'
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

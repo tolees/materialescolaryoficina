@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416X785rAwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNRYBZC-es'
+slug: 'B07ZNRYBZC-es YAMTION Mochila Mujer Mochilas Escolares Niña Mochila para Portátil 15 6 Pulgadas Mochilas para Ordenador con Puerto USB Mochilas Señora Bolsa de Escuela'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

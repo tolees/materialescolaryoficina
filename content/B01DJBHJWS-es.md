@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZWaZ1XgeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DJBHJWS-es'
+slug: 'B01DJBHJWS-es Parker Jotter Premium Tower Grey Diagonal bolígrafo CT'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

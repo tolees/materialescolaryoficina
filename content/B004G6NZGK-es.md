@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KqrCseWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004G6NZGK-es'
+slug: 'B004G6NZGK-es BIC Grip Pro 4 Colours - Pack de 12 bolígrafos con zona de agarre  tinta multicolor'
 actualPrice: 16.62 EUR
 currency: EUR
 price: 16.62

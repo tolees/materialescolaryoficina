@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aGNYcvavL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHTKJ32-es'
+slug: 'B07NHTKJ32-es MILAN Mochila Escolar  Capacidad 28l Moon Mochila Tipo Casual  48 cm  Blanco Y Negro'
 actualPrice: 12.78 EUR
 currency: EUR
 price: 12.78

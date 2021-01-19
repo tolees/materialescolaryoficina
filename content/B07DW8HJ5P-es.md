@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518Gb4Q7RTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DW8HJ5P-es'
+slug: 'B07DW8HJ5P-es Pepe Jeans Jill Mochila 42 cm'
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

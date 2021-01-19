@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fw6t0BXOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07822JQTH-es'
+slug: 'B07822JQTH-es BIC Gel-ocity Quick Dry bolígrafos Tinta en Gel punta media  0 7 mm  – Negro  Caja de 12 unidades'
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

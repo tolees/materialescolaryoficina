@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f9WyxpBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGH5STJ-es'
+slug: 'B07LGH5STJ-es Play-Doh  color surtido  Pack 8 Botes  Hasbro E5044EU4 '
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

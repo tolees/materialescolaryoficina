@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kyYWdfSeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2SX9T7-es'
+slug: 'B07X2SX9T7-es Eastpak Padded Pak r Mochila  40 cm  24 L  Rosa  Seashell Pink '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

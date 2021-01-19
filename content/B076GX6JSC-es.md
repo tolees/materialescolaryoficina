@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bK27LMNkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076GX6JSC-es'
+slug: 'B076GX6JSC-es Kipling CLAS SEOUL Mochila escolar  45 cm  25 litros  Beige  True Beige '
 actualPrice: 44.46 EUR
 currency: EUR
 price: 44.46

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51o-LdOlsnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N48CKPC-es'
+slug: 'B01N48CKPC-es Rotulador punta media 0 8 STABILO pointMax - Estuche con 8 colores'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

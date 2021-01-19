@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Hs9X3lnPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8BW53V-es'
+slug: 'B07V8BW53V-es Acmebon Mochilas Modernas espaciosas y Lindas para niñas  Bolsa Escolar Ligera para Adolescentes Dinosaurio'
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

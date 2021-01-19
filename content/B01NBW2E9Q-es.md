@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51296IUPEUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBW2E9Q-es'
+slug: 'B01NBW2E9Q-es Vanguard Alta Sky 45D - Mochila de Transporte  26x19x45cm  Color Negro'
 actualPrice: 164.17 EUR
 currency: EUR
 price: 164.17

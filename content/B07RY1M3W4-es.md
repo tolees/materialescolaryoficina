@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EyaEWRV4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RY1M3W4-es'
+slug: 'B07RY1M3W4-es XP-PEN Deco Pro S Tableta Gráfica de Dibujo Profesional con Lápiz Pasivo de 8192 Niveles a La Presión 9 x 5 Pulgadas con 8 Teclas de Acceso Directo Compatibles para Windows y Mac'
 actualPrice: 93.49 EUR
 currency: EUR
 price: 93.49

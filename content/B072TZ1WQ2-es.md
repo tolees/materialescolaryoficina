@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KPY751ckL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072TZ1WQ2-es'
+slug: 'B072TZ1WQ2-es XP-PEN Star 06 Tableta Gráfica Dibujo 10 x 6 Pulgada. 2.4G Inalámbrica Tableta Grafica Digital con 6 Teclas de Atajo y Lápiz Pasivo de 8192 Niveles a la Presión  Negro '
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

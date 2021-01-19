@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51krQoFCcUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QSHVOC2-es'
+slug: 'B00QSHVOC2-es Nike AllegianceFC Barcelona Shld Cmpct Ba Mochila  Hombre  Marina  Talla Única'
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

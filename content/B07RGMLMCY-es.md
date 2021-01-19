@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QxK06gv9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGMLMCY-es'
+slug: 'B07RGMLMCY-es NIKE Nk Heritage Bkpk - 2.0 Sports Backpack  Unisex adulto  sky grey/saffron quartz/ white   MISC'
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

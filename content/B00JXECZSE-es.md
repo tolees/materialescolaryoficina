@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415XR3C2leL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JXECZSE-es'
+slug: 'B00JXECZSE-es Thule TCDK-101 - Mochila para DSLR  Color Gris Oscuro'
 actualPrice: 134.18 EUR
 currency: EUR
 price: 134.18

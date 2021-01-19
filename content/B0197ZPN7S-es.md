@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ax2S5w+ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0197ZPN7S-es'
+slug: 'B0197ZPN7S-es VAUDE Brenta 30 Mochila  Unisex Adulto  Negro  30-39 l'
 actualPrice: 73.89 EUR
 currency: EUR
 price: 73.89

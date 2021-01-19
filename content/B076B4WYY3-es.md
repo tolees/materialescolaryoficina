@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wlzEpE-RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076B4WYY3-es'
+slug: 'B076B4WYY3-es Casio MS-20UC-BU - Calculadora  2.3 x 10.5 x 14.95 cm  color azul'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Lg5MdSHsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5NMCR7-es'
+slug: 'B07X5NMCR7-es Vbiger Mochilas Escolares Juveniles Ni?o Mochila Adolescentes para 7 a 12 A?os'
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

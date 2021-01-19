@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bvw0Xg+HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VTPOH7M-es'
+slug: 'B00VTPOH7M-es HP Odyssey - Mochila para portátiles de hasta 15.6" de Color Negro  335 x 155 x 465 mm '
 actualPrice: 41.31 EUR
 currency: EUR
 price: 41.31

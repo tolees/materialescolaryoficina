@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21BdejhAssL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XVDK7TV-es'
+slug: 'B06XVDK7TV-es HP 1MR94AA - Lápiz para Tableta'
 actualPrice: 41.36 EUR
 currency: EUR
 price: 41.36

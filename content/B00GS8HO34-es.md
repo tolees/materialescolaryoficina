@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QA4GWbgXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GS8HO34-es'
+slug: 'B00GS8HO34-es Caja de 3 rotuladores de punta fina Pigma Micron  modelo POXSDK3  de Sakura. Color negro'
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

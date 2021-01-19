@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cZ6WqjftL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQ458LY-es'
+slug: 'B07XQ458LY-es maxtop 30L Mochila Ultraligera y Compacta Mochila Plegable Resistente al Agua para Hombres Mujeres Niños Acampar al Aire Libre Senderismo Mochila de Viaje Práctica Duradera  Negro   Negro '
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

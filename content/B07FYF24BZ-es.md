@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EZuwZsf5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYF24BZ-es'
+slug: 'B07FYF24BZ-es Mochila para portátil Pepe Jeans Bromley Negra 15 6"'
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

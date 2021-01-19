@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41znidaP8lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CPKGY4O-es'
+slug: 'B00CPKGY4O-es Burton Focus Mochila  Unisex Adulto  Negro  Negro   58 x 33 x 24 cm  30 litros'
 actualPrice: 136.89 EUR
 currency: EUR
 price: 136.89

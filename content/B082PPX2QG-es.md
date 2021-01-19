@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HuZf3DfHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PPX2QG-es'
+slug: 'B082PPX2QG-es BONNYCO Bolígrafo Tinta Invisible y Libreta Pack x 32 Cumpleaños Niños Colegio  Detalles Cumpleaños Infantiles o Relleno Piñata | Regalos para Niños en Comunión y Boda'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51X54DAe2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VJHR7G-es'
+slug: 'B077VJHR7G-es LeaderPro 60W Pistola de Encolar viene una Bolsa y 20 Psc Barras de Pegamentos  Alta Temperatura Pistola de pegamento para Inicio de Reparación Rápida/Kits de Artesanía de Bricolaje'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RMxRwSv1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0006HVTA2-es'
+slug: 'B0006HVTA2-es BIC Soft Feel - Caja de 12 unidades  bolígrafos retráctiles Grip punta media  1 0 mm   color azul'
 actualPrice: 6.12 EUR
 currency: EUR
 price: 6.12

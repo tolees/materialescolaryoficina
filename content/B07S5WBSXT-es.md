@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xlM7BtZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5WBSXT-es'
+slug: 'B07S5WBSXT-es Karactermania Harry Potter Relic-Soft Rucksack  Klein  Mochila Tipo Casual 27 Centimeters 7.5 Multicolor  Multicolour '
 actualPrice: 24.4 EUR
 currency: EUR
 price: 24.4

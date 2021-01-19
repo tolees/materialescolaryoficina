@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Rl1+vQFHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F469YVF-es'
+slug: 'B08F469YVF-es 12 lápices de colores diferentes con sacapuntas lápices de pintura portátiles para niños Artículos escolares de oficina duraderos - multicolor'
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZTjJ566WL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VH2VLGH-es'
+slug: 'B07VH2VLGH-es Homieco Mochilas para Perros Gatos  Portador de Viaje Mochila  Bolsa de Transporte para Mascotas Gatos Perros del Peso Hasta 3kg para Viajar/Senderismo/Camping'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DuEdX2poL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFBR1RJ-es'
+slug: 'B07SFBR1RJ-es Helly Hansen Loke Backpack Mochila  Unisex adulto  Royal Blue  25L'
 actualPrice: 33.39 EUR
 currency: EUR
 price: 33.39

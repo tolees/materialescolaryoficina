@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OCY2pisKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HB56QP-es'
+slug: 'B076HB56QP-es Kipling Supertaboo Mochila con Cordón  15 Litros  Azul  True Jeans '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

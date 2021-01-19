@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21ObDqw2ZML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JMD1M1C-es'
+slug: 'B00JMD1M1C-es Faber-Castell 813 - Regla técnica  30 cm'
 actualPrice: 5.38 EUR
 currency: EUR
 price: 5.38

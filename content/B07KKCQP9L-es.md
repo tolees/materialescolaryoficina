@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bnrl2KOOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKCQP9L-es'
+slug: 'B07KKCQP9L-es Lifewit Mochila Nevera Flexible Bolsa de Compra Reutilizable Grande Bolsa Térmica Porta Alimentos de Aislamiento Bolsa de Enfriamiento Portatil para Playa Picnics Camping  Gris'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

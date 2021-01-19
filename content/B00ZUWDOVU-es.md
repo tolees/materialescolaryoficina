@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EpxGlaKbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZUWDOVU-es'
+slug: 'B00ZUWDOVU-es Under Armour Ua Hustle Backpack Ldwr  Mochila Hombre  Gris  Graphite/Graphite/Silver 040   Talla Única'
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

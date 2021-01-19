@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HfInMQ0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVC2WQN-es'
+slug: 'B07PVC2WQN-es Castle Art Supplies 72 lápices de colores en estuche con cremallera para proteger y almacenar los lápices'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

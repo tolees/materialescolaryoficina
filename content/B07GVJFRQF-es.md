@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WUL2GVh-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVJFRQF-es'
+slug: 'B07GVJFRQF-es Lápiz Stylus Pen  40 Horas de Trabajo Continuo y de 30 días Stand por Tiempo Capacitiva Táctil Pluma con Bien Consejos  Pasó la Certificación CE & RoHs Pluma Digital Compatible de iPad Serie'
 actualPrice: 32.69 EUR
 currency: EUR
 price: 32.69

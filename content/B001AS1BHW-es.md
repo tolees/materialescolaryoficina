@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QhlqzU2DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001AS1BHW-es'
+slug: 'B001AS1BHW-es Post-It 709981 - Bloc de notas  100 hojas  102 x 152 mm  color amarillo'
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

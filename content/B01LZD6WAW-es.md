@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21AUL91TLNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZD6WAW-es'
+slug: 'B01LZD6WAW-es Nobo 1905186 - Pizarra Diamond Glass  Magnética  1883 x 1053 mm  diseño cuadrado  incluye rotulador  imanes y kit de montaje  color rojo'
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

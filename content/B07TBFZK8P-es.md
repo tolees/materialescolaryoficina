@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413I9JrLhzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBFZK8P-es'
+slug: 'B07TBFZK8P-es Quiksilver Small Everyday Edition - Mochila Mediana Para Hombre Mochila Mediana  Hombre  Black  1SZ'
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

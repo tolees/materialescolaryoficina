@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P2Z7EYIxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBGX173-es'
+slug: 'B07CBGX173-es American Tourister AT Work - Mochila Coated tipo casual para 15.6" portátil  50 cm  25 liters  Gris  Shadow Grey '
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

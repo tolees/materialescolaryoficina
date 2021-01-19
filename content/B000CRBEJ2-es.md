@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317kycTnnbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000CRBEJ2-es'
+slug: 'B000CRBEJ2-es Eastpak Padded Pak r Mochila  40 cm  24 L  Negro  Black '
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

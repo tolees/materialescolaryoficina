@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eMxWmkPwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XNH8C6C-es'
+slug: 'B07XNH8C6C-es Verolino Mochila para Pañales de Bebé  Rosa Gris + Ganchos + Cambiador '
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

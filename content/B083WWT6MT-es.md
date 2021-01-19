@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NjPKX902L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083WWT6MT-es'
+slug: 'B083WWT6MT-es Mochila Safta Escolar con Carro Incluido y Espalada Acolchada de Star Wars  Death Star'
 actualPrice: 44.44 EUR
 currency: EUR
 price: 44.44

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D1T6uisBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQ5HL2C-es'
+slug: 'B07HQ5HL2C-es Rrtizan Bolsa de Computadora de Viaje para Hombres y Mujeres  Mochila de Negocios Portátil a Prueba de Agua de 17 Pulgadas con Puerto de Carga USB  Amarillo '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

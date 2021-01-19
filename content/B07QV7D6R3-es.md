@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xCqjCHglL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QV7D6R3-es'
+slug: 'B07QV7D6R3-es FANDARE Mochila Cielo Estrellado Bolsa de Escuela Hombres/Mujeres School Bag Adolescente Mochila Niña/Niño Viaje Mochilas Camping Daypack Poliéster Negro'
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

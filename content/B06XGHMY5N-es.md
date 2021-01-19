@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lLTmDlFtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGHMY5N-es'
+slug: 'B06XGHMY5N-es TRIXES Bolígrafo Stylus Negro de Punta Fina para Pantallas Táctiles Capacitivas de Teléfonos Inteligentes y Tabletas'
 actualPrice: 3.87 EUR
 currency: EUR
 price: 3.87

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zadXKS+CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XD9JKQN-es'
+slug: 'B06XD9JKQN-es Play Doh PDH Core Estudio de creaciones animadas  Miscelanea  Hasbro C2860105    color/modelo surtido'
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

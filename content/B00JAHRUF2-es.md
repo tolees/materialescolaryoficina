@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511W3L9A2PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JAHRUF2-es'
+slug: 'B00JAHRUF2-es Androni - Mochila de mar del bebé Crazy Fish'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

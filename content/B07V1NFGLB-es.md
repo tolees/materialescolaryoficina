@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fFPVRzgPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1NFGLB-es'
+slug: 'B07V1NFGLB-es safta Blackfit8 Magical Plumier mochila 4 estuches llenos  33 piezas  escolar  Rosa Unicornios  8412688348718 '
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

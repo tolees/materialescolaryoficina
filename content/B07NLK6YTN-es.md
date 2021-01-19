@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hYTMewdpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLK6YTN-es'
+slug: 'B07NLK6YTN-es Mochila Infantil 3D Lady Bug'
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qsS2DBjNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3WS4GC-es'
+slug: 'B07N3WS4GC-es LOSMILE Mujer Bolsos mochila Bolsos de mano Bolsos bandolera Mochila de a diario Bolsa de Viaje Bolsos de peso Ligero Nylon Backpack Daypack para Escuela trabajo fecha  Negro-grande '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

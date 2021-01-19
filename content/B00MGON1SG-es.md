@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415VujhAwYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MGON1SG-es'
+slug: 'B00MGON1SG-es Eastpak Padded Pak r Mochila  40 cm  24 L  Gris  Black Denim '
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

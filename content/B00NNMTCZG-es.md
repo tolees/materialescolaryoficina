@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-KDynXofL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NNMTCZG-es'
+slug: 'B00NNMTCZG-es 3 Claveles 7 Tijeras de Costura  Multiusos  Acero de Carbono   Tamaño: 18 cm-7"   Gris'
 actualPrice: 11.87 EUR
 currency: EUR
 price: 11.87

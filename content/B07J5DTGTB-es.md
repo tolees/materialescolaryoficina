@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I21-aOKgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5DTGTB-es'
+slug: 'B07J5DTGTB-es Flydo Lenceria Sexy Mujer  Picardias Disfraces Escolar Uniforme Colegiala Atractiva Falda，Ropa Erótica Mujer Sexy Lencería De Dormir'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jL2WP7B7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFQ996X-es'
+slug: 'B07TFQ996X-es Quiksilver Schoolie 30l-Mochila Grande para Hombre Backpack  Light Grey Heather  1SZ'
 actualPrice: 36.84 EUR
 currency: EUR
 price: 36.84

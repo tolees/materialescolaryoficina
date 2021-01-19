@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QNMSzud4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CT7L4V4-es'
+slug: 'B08CT7L4V4-es Ocobudbxw Útil Profesional Kit de Artista de Dibujo Lápices Boceto Carbón Artesanal Arte con Bolsa de Transporte Herramientas'
 actualPrice: 25.77 EUR
 currency: EUR
 price: 25.77

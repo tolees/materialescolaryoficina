@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B3ejeTrVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRC9S4L-es'
+slug: 'B07WRC9S4L-es Huntvp Bolsa de Riñonera Mochila de Bandolera 2 Vías de Llevar Estilo Militar Táctical Bolsa de Múltiple Función Impermeable para Aire Libre Correr Senderismo Ciclismo Camping  Camuflaje-M'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

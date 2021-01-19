@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yN-+LBm5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KTD2XS-es'
+slug: 'B000KTD2XS-es RAPID 20942903 - Grapadora eléctrica modelo 90EC color blanco'
 actualPrice: 274.57 EUR
 currency: EUR
 price: 274.57

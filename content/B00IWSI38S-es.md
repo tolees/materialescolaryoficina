@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517hQLnHwjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IWSI38S-es'
+slug: 'B00IWSI38S-es BOLIGRAFO BIC Cristal Oro'
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

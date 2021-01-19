@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511lHkz4yBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBMFR2L-es'
+slug: 'B07CBMFR2L-es Samsonite Disney Ultimate 2.0 Mochila 35 cm  12 L  Azul  Mickey Letters '
 actualPrice: 26.8 EUR
 currency: EUR
 price: 26.8

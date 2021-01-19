@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Llh+EP7AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089LMJPCP-es'
+slug: 'B089LMJPCP-es TONZE Herramientas Juguete Juegos de Imitación Bolsa de Herramientas con Mochila Taladro Electrico Juegos de rol Juegos Educativos Regalo Niña Niño Niños 3 4 5 6 Años 19 Piezas '
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

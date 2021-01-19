@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UtAK5mQOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGZS523-es'
+slug: 'B07LGZS523-es Tablero de dibujo Juego de pintura para proyector Juego de dibujo para proyector de mesa para niños con 4 discos de imágenes diferentes 8 bolígrafos de color Juguetes de educación temprana  Blue '
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

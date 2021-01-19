@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k6lzDtUTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BB8LCDE-es'
+slug: 'B00BB8LCDE-es Rotulador punta fina STABILO point 88 - Estuche premium de tela Rollerset con 30 colores'
 actualPrice: 23.65 EUR
 currency: EUR
 price: 23.65

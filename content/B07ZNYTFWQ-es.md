@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IaPjukeRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNYTFWQ-es'
+slug: 'B07ZNYTFWQ-es Vicloon Bolsas de Documentos A3+A4+A5  15 Piezas Carpetas para Archivo Documentos de plástico con Malla  Bolsa de Archivo de Cremallera para Certificados Recibos Papelería Oficina Viaje Tarea Escolar'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

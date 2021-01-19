@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jyMvRHJAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNSVYNY-es'
+slug: 'B07WNSVYNY-es Funda para iPad  9 7 Pulgadas  2018/2017 Modelo  6ª / 5ª generación   con Soporte para lápiz  Carcasa con Auto-Sueño/Estela  Compatibles Apple iPad Air 2 / iPad Air Modelo  Negro'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

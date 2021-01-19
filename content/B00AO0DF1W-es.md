@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PODwp3qGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AO0DF1W-es'
+slug: 'B00AO0DF1W-es Alpino DP000129 - Kit pasta blanda'
 actualPrice: 14.33 EUR
 currency: EUR
 price: 14.33

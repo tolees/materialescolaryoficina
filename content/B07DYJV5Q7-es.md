@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iV5SuBq8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYJV5Q7-es'
+slug: 'B07DYJV5Q7-es Pepe Jeans Cross Mochila con carro  doble compartimento  44 cm  color Azul'
 actualPrice: 38.14 EUR
 currency: EUR
 price: 38.14

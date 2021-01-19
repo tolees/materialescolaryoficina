@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sxHd4mUwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074VJK1DB-es'
+slug: 'B074VJK1DB-es Parker Jotter London - Paquete de recambios Discovery tres recambios Quinkflow para bolígrafos y tres recambios de tinta de gel Quink'
 actualPrice: 12.44 EUR
 currency: EUR
 price: 12.44

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yCwdQObML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WNLHMN-es'
+slug: 'B088WNLHMN-es NACTECH 20pcs Washi Tape Washi Cinta Adhesiva Cinta para Manualidades 10 Color Puro Scrapbooking Cinta Adhesiva Decorativa DIY Crafts Diario Envolver Regalos Etiqueta Álbum de Recorte'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

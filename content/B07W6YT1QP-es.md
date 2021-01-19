@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lC9lz2AkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6YT1QP-es'
+slug: 'B07W6YT1QP-es Vuelta al cole pencil case regalos originales para Chicas Chicos Niños estuches escolares grandes poner en tu mochila escolar bonito Utilizado para bolígrafos maquillaje Set De Papelería estuche'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

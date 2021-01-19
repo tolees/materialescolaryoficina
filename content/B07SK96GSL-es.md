@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZgXwQNU%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK96GSL-es'
+slug: 'B07SK96GSL-es Vans Realm  Mochila Tipo Casual  42 cm  22 Liters  Azul  Gibraltar Sea '
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HXUkVxldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2ZBQPM-es'
+slug: 'B07S2ZBQPM-es Lowepro LP37259-PWW Photo Active  Mochila para cámara exterior sin espejo con divisores QuickShelf  Tablet 12"/iPad/ Hidr.2L  Sony  Canon  Nikon  Objetivos  Gimbal  Dron  DJI  Azul/Negro'
 actualPrice: 109.94 EUR
 currency: EUR
 price: 109.94

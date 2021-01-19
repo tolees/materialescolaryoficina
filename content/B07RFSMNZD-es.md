@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Dk9y9BUVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFSMNZD-es'
+slug: 'B07RFSMNZD-es Mochila Escolar Instituto Star Wars'
 actualPrice: 13.33 EUR
 currency: EUR
 price: 13.33

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61IkEJUpdmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FDKQG2W-es'
+slug: 'B01FDKQG2W-es Faber-Castell 111260 - Estuche-soporte de cartón con 60 lápices de colores  multicolor'
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

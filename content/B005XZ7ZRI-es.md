@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wxyjFQjDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XZ7ZRI-es'
+slug: 'B005XZ7ZRI-es PLASTILINA Giotto PATPLUME 150 GR Surtido Caja DE 12'
 actualPrice: 13.03 EUR
 currency: EUR
 price: 13.03

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41329KSS9yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWK1ZW3-es'
+slug: 'B07GWK1ZW3-es Milan Capsule Uno - Bolígrafo'
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

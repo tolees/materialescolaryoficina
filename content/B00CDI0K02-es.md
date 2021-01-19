@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51G8ETD4dyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CDI0K02-es'
+slug: 'B00CDI0K02-es APLI 11915 - Clips mariposa galvanizados nº 20 60 mm  25 clips'
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

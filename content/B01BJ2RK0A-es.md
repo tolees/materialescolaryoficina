@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417tGatI4ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BJ2RK0A-es'
+slug: 'B01BJ2RK0A-es Mochila Infantil Star Wars'
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

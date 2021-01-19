@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51CF6GeYcFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBNV96Y-es'
+slug: 'B07CBNV96Y-es Samsonite Disney Ultimate 2.0 - Mochila Infantil S+  35 cm  10.5 L  Azul  Minnie Neon '
 actualPrice: 31.88 EUR
 currency: EUR
 price: 31.88

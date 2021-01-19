@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LFjyRoMpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781YYLZG-es'
+slug: 'B0781YYLZG-es Totto - Estuche escolar tres compartimentos  23 cm  - Ultrarresistente - Agapec'
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

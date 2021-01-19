@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tsDirRXpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPQT38F-es'
+slug: 'B07XPQT38F-es Desigual Back new Colorama Nanaimo - Mochila para mujer  11 x 35 5 x 28 cm  color blanco'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

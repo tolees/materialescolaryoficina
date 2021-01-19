@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fbth+6HTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM48BQZ-es'
+slug: 'B07RM48BQZ-es Artesania Cerda Avengers Hulk - Mochila Escolar  44 cm  Verde'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

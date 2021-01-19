@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rHq6AjpKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LGZ7R0-es'
+slug: 'B004LGZ7R0-es Mammut Classic Bumbag 0001 Mochila  Unisex Adultos  Negro  Black   8x18x22 cm  W x H x L '
 actualPrice: 15.15 EUR
 currency: EUR
 price: 15.15

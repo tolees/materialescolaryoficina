@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qcDzMOZHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJPE2A-es'
+slug: 'B000KJPE2A-es Faber-Castell 128524 - Estuche de cartón con 24 tizas pastel  multicolor'
 actualPrice: 37.06 EUR
 currency: EUR
 price: 37.06

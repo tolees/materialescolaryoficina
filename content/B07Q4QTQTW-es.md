@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511pbIRt-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4QTQTW-es'
+slug: 'B07Q4QTQTW-es deAO Colegio de Muñecas Conjunto 2en 1 de Bus Escolar y Salón de Clase Juguete Convertible para Muñecas Aula de Escuela Versátil con Accesorios Incluidos'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

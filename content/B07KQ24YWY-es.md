@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51YrO1hsZvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ24YWY-es'
+slug: 'B07KQ24YWY-es Colisal 40L Mochila Senderismo Mochilas Trekking Mujer Hombre con Funda Cubierta Impermeable de Mochila para Alpinismo Montaña Escalada Camping Viaje Deporte Marcha Ciclismo Ligera Grande Negra'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kk4qBVmlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BND1IY-es'
+slug: 'B000BND1IY-es Targus Essential - Mochila para Transportar portátiles de 15.6"  Color Negro'
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

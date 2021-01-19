@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3180S3cujnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00191RXUY-es'
+slug: 'B00191RXUY-es Herlitz 10801710 - Tijeras escolar con punta redonda  colores surtidos  una unidad'
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mVGnS4qrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003PPCZT6-es'
+slug: 'B003PPCZT6-es Eastpak Provider Mochila  44 cm  33 L  Gris  Sunday Grey '
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

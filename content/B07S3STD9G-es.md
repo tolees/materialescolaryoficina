@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lG1Tq8k0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3STD9G-es'
+slug: 'B07S3STD9G-es HellDoler Manualidades para Niños 100 Hojas Manualidades para Rascar Scratch Art Cuadernos para Dibujar Papel de Rascar Incluye 4 Plantillas de Plantillas de Dibujo y 10 Lápices de Madera'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

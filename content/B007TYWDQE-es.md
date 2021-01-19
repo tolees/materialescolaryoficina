@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XgvlkU8BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007TYWDQE-es'
+slug: 'B007TYWDQE-es Faber-Castell - Vaso para el agua Clic & Go plegable fácil de guardar  color verde y oro'
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

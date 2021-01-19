@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uMhNC95ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNV1ZYW-es'
+slug: 'B07CNV1ZYW-es Meloive El Mejor Set de 72 lápices de Colores Mejores lápices para Colorear para Artistas  dibujantes  ilustradores  diseñadores de Interiores  Estudiantes y Adultos Amantes de colorar'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

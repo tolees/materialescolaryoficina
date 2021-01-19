@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415yTTZvSjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGQMPJW-es'
+slug: 'B07JGQMPJW-es Lowepro Whistler Rucksack 450 AW II Mochila Negro - Funda  Mochila  Universal  Tirante para Hombro  Compartimento del portátil  Gris '
 actualPrice: 252.1 EUR
 currency: EUR
 price: 252.1

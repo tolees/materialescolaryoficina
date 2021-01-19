@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AwX7OAT9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV27KBQ-es'
+slug: 'B07MV27KBQ-es Kit Barba Cuidado para Hombre Crecimiento  Aseo y Recorte - Champú Barba  Originales Aceite Barba  Bálsamo Barba  Cepillo  Peine  Tijeras  Mejores Set Regalos para Él'
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

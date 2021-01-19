@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51om+yvkiQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5JJW8Y-es'
+slug: 'B07G5JJW8Y-es Forever Ninette Origin-Cute Mochila Tipo Casual 44 Centimeters 23 Azul  Blue '
 actualPrice: 33.2 EUR
 currency: EUR
 price: 33.2

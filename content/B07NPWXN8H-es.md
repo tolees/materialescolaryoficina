@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512ln+c7xZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPWXN8H-es'
+slug: 'B07NPWXN8H-es Mochila 32 cm Pepe Jeans Jareth'
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

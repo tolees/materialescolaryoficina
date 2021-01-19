@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NamRTGofL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M21ABJ6-es'
+slug: 'B01M21ABJ6-es Ergobaby Mochila Portabebé Ergonomica para Recién Nacido  Adapt 3-Posiciones Azul Celeste'
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

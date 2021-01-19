@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S0dE6hb6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJ4HQ7-es'
+slug: 'B07PSJ4HQ7-es Kipling City Pack S  Mochila para Mujer  Verde  Seagrass   27 x 33.5 x 19 cm'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

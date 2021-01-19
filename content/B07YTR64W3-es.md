@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y4NXKIWbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YTR64W3-es'
+slug: 'B07YTR64W3-es Samsonite Paradiver Light Mochila Infantil  S+  42 cm 10 L   Multicolor  R2D2 Blue '
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

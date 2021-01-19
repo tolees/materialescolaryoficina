@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cnJSft35L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6RC2XN-es'
+slug: 'B07D6RC2XN-es Kipling Clas Seoul S Mochila con Compartimento para Tableta  10 Litros  Rojo  True Red C '
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nSE1b8e+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVLM2H9-es'
+slug: 'B06WVLM2H9-es Cronus y Rhea® | Carpeta Exclusiva de Cuero Exclusivo  Scylla  | Estuche para lápices - Estuche para bolígrafos | Cuero Real | con Elegante Caja de Regalo | Hombres - Mujeres  Coñac '
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

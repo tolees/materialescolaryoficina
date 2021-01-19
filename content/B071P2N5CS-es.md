@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dwl1MgUvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071P2N5CS-es'
+slug: 'B071P2N5CS-es BIC 4 Color Bolígrafos - Bote Fluorescente de 6 Bolígrafos'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416M3hV0BGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PX1X44G-es'
+slug: 'B07PX1X44G-es Xnuoyo 17.3" Mochila Portatil para 12-17 Pulgadas Ordenador  Impermeable Multifuncional Mochila con Puerto de Carga USB & Puerto para Auriculares para Hombre de Viaje  Zafiro '
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99
