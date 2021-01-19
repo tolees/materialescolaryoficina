@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MGON1SG-es Eastpak Padded Pak r Mochila 40 cm 24 L Gris Black Denim'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

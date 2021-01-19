@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074VJK1DB-es Parker Jotter London - Paquete de recambios Discovery tres...'
-tags: bolígrafos
+tags: tole.es, bolígrafos
 actualPrice: 12.44 EUR
 currency: EUR
 price: 12.44

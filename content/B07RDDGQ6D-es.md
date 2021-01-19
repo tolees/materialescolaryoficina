@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDDGQ6D-es Xnuoyo 17.3 Pulgadas Mochila Hombre Impermeable Mochila...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

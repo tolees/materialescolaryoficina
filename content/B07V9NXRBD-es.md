@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9NXRBD-es Pepe Jeans Daphne Mochila Dos Compartimentos Con...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 56 EUR
 currency: EUR
 price: 56

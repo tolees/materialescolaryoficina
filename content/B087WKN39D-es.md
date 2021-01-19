@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WKN39D-es WERNNSAI Luau Flamenco Suministros para la Fiesta - 12 PCS...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

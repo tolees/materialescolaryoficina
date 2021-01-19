@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP3GBMZ-es Calvin Klein - Punched Round Backpack Shoppers y bolsos de...'
-tags: backpack
+tags: tole.es, backpack
 actualPrice: 50.02 EUR
 currency: EUR
 price: 50.02

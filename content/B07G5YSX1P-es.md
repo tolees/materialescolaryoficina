@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5YSX1P-es Mochila para portátil Pepe Jeans Bromley Verde 13 3"'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

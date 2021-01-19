@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003HS5JMQ-es Skip Hop- Pajaro Zoo Mochila Color Azul S 2194'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

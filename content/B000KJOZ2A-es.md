@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJOZ2A-es Q-Connect - Cinta Adhesiva Kf02164 33 M X 19 Mm Transparente'
-tags: cinta, adhesiva
+tags: tole.es, cinta, adhesiva
 actualPrice: 1.61 EUR
 currency: EUR
 price: 1.61

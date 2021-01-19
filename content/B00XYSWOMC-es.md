@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XYSWOMC-es Capital Sports Travel S Bolsa de deporte 45l Tejido...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY2MFPF-es LIANCHENYI Retro bandera de Inglaterra mochila casual...'
-tags: mochila, escolar
+tags: tole.es, mochila, escolar
 actualPrice: 17.77 EUR
 currency: EUR
 price: 17.77

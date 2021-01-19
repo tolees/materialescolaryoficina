@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B2EDDKM-es Herschel Retreat Backpack - Mochila casual unisex Negro...'
-tags: backpack, mochila
+tags: tole.es, backpack, mochila
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L62CT4G-es HUION KAMVAS Pro 13 GT-133 120% sRGB Montura de Vidrio...'
-tags: lápiz
+tags: tole.es, lápiz
 actualPrice: 233.73 EUR
 currency: EUR
 price: 233.73

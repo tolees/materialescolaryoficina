@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00331LILS-es Cinta adhesiva de señalización temporal tesa color...'
-tags: cinta, adhesiva
+tags: tole.es, cinta, adhesiva
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFSQYGT-es BabbleRoo Mochilas de Pañales para Bebé Gran Capacidad...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 32.79 EUR
 currency: EUR
 price: 32.79

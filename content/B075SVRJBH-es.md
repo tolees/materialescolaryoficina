@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075SVRJBH-es Joymoze Bonita Mochila Escolar Impermeable para Niños y...'
-tags: mochila, escolar
+tags: tole.es, mochila, escolar
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009QX1CY-es Dymo D1 Standard Cintas para Impresoras de Etiquetas 19 mm...'
-tags: dymo
+tags: tole.es, dymo
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

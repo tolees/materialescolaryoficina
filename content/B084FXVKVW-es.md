@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084FXVKVW-es K&F Concept Mochila Fotografia para Cámara Reflex con...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

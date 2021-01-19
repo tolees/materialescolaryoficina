@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B7P3XMS-es Mochilas Infantiles Primaria Mochila Niña Unicornio...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 33.5 EUR
 currency: EUR
 price: 33.5

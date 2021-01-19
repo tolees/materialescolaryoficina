@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQ458LY-es maxtop 30L Mochila Ultraligera y Compacta Mochila Plegable...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

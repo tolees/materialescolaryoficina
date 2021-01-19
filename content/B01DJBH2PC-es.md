@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DJBH2PC-es Parker Jotter Kensington Red bolígrafo CT'
-tags: bolígrafo
+tags: tole.es, bolígrafo
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

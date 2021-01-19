@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q7VF2LZ-es Bedee - Afilador de cuchillos 3 pasos diamante cerámica...'
-tags: tijeras
+tags: tole.es, tijeras
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

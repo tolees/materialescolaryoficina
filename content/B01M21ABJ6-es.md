@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M21ABJ6-es Ergobaby Mochila Portabebé Ergonomica para Recién Nacido...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

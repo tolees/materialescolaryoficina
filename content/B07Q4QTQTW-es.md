@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4QTQTW-es deAO Colegio de Muñecas Conjunto 2en 1 de Bus Escolar y...'
-tags: escolar
+tags: tole.es, escolar
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

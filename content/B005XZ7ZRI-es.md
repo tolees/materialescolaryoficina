@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XZ7ZRI-es PLASTILINA Giotto PATPLUME 150 GR Surtido Caja DE 12'
-tags: plastilina
+tags: tole.es, plastilina
 actualPrice: 13.03 EUR
 currency: EUR
 price: 13.03

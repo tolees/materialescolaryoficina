@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4MCX1L-es Kipling Seoul Mochila Tipo Casual 44 cm 27 Liters Plateado...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 55.01 EUR
 currency: EUR
 price: 55.01

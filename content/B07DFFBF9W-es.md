@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFFBF9W-es Niños Trolley Mochila Escolar Bolso - Niña Niño con Ruedas...'
-tags: mochila, escolar
+tags: tole.es, mochila, escolar
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

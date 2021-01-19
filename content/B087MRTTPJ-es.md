@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087MRTTPJ-es DMM Supplies Mochila Happy Animals Ovejita Guardería...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

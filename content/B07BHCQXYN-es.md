@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHCQXYN-es Zeewoo Casual Mochila Bolso Aire Libre Ocio Mochila Bolsa...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

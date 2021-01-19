@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4KDCDR-es Real Madrid CF 611854662 Mochila Adaptable a Carro Niños...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

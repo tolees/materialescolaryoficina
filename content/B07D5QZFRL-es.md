@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5QZFRL-es Puma Phase Backpack Backpack Unisex adulto Puma Black OSFA'
-tags: backpack
+tags: tole.es, backpack
 actualPrice: 15.36 EUR
 currency: EUR
 price: 15.36

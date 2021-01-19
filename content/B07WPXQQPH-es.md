@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPXQQPH-es Mochilas Infantiles Mochilas para Niños Niñas Bolsa de...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

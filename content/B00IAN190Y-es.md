@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IAN190Y-es Sammies by Samsonite - Bolsa escolar'
-tags: escolar
+tags: tole.es, escolar
 actualPrice: 4.46 EUR
 currency: EUR
 price: 4.46

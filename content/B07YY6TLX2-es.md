@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY6TLX2-es Luz Nocturna Mejorar 78 LEDs Led Armario con Sensor de...'
-tags: cinta, adhesiva
+tags: tole.es, cinta, adhesiva
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

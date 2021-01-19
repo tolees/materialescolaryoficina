@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNSHGN6-es Under Armour Hustle 4.0 Mochila para portátil de 26 l...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

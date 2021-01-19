@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3CXKHS-es Ellesse Mochila Rolby Hombre Mochila SAAY0591 negro Talla...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002C2S0YC-es Apli 1785 - Etiquetas 500 hojas'
-tags: apli
+tags: tole.es, apli
 actualPrice: 57.33 EUR
 currency: EUR
 price: 57.33

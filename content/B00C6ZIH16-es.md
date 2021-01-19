@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C6ZIH16-es APLI Kids - Bolsa goma EVA azul claro 400x600x2mm 5 hojas'
-tags: apli
+tags: tole.es, apli
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083WWM1MR-es Mochila Safta Espalda Ergonómica con Carro Safta Evolution'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 27.14 EUR
 currency: EUR
 price: 27.14

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773GN6RJ-es DCCN 3 Pcs Canvas Bolsas Escolares Mochila niños niñas...'
-tags: mochila, escolar
+tags: tole.es, mochila, escolar
 actualPrice: 21.38 EUR
 currency: EUR
 price: 21.38

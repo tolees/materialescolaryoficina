@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZP9DDX-es Disney Mochila para Niños Coco'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

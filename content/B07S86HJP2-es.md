@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S86HJP2-es adidas AC Class BP Sports Backpack Unisex Adulto Pink...'
-tags: backpack
+tags: tole.es, backpack
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

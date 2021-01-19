@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LC9BF33-es Samsonite Mochila de a Diario Azul Azul - 115333/1090'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 101.49 EUR
 currency: EUR
 price: 101.49

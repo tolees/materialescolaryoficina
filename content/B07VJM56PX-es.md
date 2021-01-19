@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJM56PX-es Acmebon Mochila Escolar para Niñas Adolescentes con Bolsa...'
-tags: mochila, escolar
+tags: tole.es, mochila, escolar
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

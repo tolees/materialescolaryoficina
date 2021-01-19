@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079LG18LS-es AmazonBasics - Mochila compacta de viaje Morado para...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 54.15 EUR
 currency: EUR
 price: 54.15

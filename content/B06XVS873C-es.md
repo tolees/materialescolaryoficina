@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XVS873C-es HP 1FK05AA - Mochila para portátiles de hasta 15.6" color...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP3NWZP-es Eastpak EK62030W Mochila Poliéster Negro/Blanco - Mochila...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KD3XZ8Y-es zhi wei Mochila Antirrobo Impermeable Mochila Bolso para...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

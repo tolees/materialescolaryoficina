@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3FS5LD-es Mochila Carterón Enso Trust Me'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 39.19 EUR
 currency: EUR
 price: 39.19

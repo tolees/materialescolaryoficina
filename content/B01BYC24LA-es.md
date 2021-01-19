@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BYC24LA-es AtmosFlare- Disney Boligrafo 3D Miscelanea Giochi Preziosi...'
-tags: boligrafo
+tags: tole.es, boligrafo
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

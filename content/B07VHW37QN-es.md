@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHW37QN-es Desigual Back Azabache Nanaimo Mochila para Mujer Negro...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 39.84 EUR
 currency: EUR
 price: 39.84

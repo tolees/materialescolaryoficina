@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STFZVG1-es Coronel Tapiocca Mochila hombre estilo Nylon Negro...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 39.34 EUR
 currency: EUR
 price: 39.34

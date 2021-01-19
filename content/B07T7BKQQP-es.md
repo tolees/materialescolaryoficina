@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T7BKQQP-es Columbia Convey Mochila con la Parte Superior Enrollada...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

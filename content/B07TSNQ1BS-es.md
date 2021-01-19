@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSNQ1BS-es Valentino by Mario - Superman Bolsos mochila Mujer Azul...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 83.47 EUR
 currency: EUR
 price: 83.47

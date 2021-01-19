@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074NWRLD3-es Bolsa grande de viaje Bolsa de deporte Mochila Mochila...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 30.52 EUR
 currency: EUR
 price: 30.52

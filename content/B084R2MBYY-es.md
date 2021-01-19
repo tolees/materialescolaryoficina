@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084R2MBYY-es Pelikan Jazz Classic 815017 Bolígrafo con Mina Azul color...'
-tags: bolígrafo
+tags: tole.es, bolígrafo
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

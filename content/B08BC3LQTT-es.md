@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BC3LQTT-es Pistola de pegamento Dweyka 50 W mini pistola de pegamento...'
-tags: barras, de, pegamento
+tags: tole.es, barras, de, pegamento
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

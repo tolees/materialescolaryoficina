@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079WJJPHF-es Pentel SES15-4COL - Estuche rotulador punta pincel 4...'
-tags: pentel, rotulador
+tags: tole.es, pentel, rotulador
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

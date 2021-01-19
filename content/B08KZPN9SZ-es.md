@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08KZPN9SZ-es Nowakk Cabeza de Aceite de Peluquero eléctrica Cizalla de...'
-tags: tijeras
+tags: tole.es, tijeras
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

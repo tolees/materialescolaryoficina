@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8QM8B3-es Cabin Max Maleta con Ruedas Maletas de Viaje Cabina...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

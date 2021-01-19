@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0054Y5JCQ-es 4170 00 - Paquete 24 rotuladores Giotto Turbo Color'
-tags: rotuladores
+tags: tole.es, rotuladores
 actualPrice: 4.13 EUR
 currency: EUR
 price: 4.13

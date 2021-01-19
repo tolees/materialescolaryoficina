@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M73BCH6-es Rotulador de 80 Colores Marker Pen Marcadores Manga...'
-tags: rotulador, rotuladores
+tags: tole.es, rotulador, rotuladores
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

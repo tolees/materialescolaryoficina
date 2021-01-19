@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WGWP0K-es STABILO power Rotuladores escolares - Estuche con 12 colores'
-tags: stabilo, rotuladores, stabilo
+tags: tole.es, stabilo, rotuladores, stabilo
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMM3J9H-es Safta - f.c; barcelona oficial mochila escolar.'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

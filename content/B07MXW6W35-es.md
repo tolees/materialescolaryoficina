@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXW6W35-es Desigual Backpack Liberté Patch Baza Mochila moderna. para...'
-tags: backpack, mochila
+tags: tole.es, backpack, mochila
 actualPrice: 59.2 EUR
 currency: EUR
 price: 59.2

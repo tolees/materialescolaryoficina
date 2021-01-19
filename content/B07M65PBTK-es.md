@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M65PBTK-es UTOTEBAG Mochila Portátil 15.6 Pulgadas Mochilas para...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

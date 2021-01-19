@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7V5M8O-es Mochila Tous Kaos New Colores Rosa'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 47.6 EUR
 currency: EUR
 price: 47.6

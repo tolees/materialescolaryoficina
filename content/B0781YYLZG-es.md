@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781YYLZG-es Totto - Estuche escolar tres compartimentos 23 cm -...'
-tags: escolar
+tags: tole.es, escolar
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

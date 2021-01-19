@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000REHKUC-es Faber-Castell Ambition - Roller de bola madera de peral'
-tags: faber-castell
+tags: tole.es, faber-castell
 actualPrice: 77.33 EUR
 currency: EUR
 price: 77.33

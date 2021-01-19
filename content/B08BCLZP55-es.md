@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BCLZP55-es Carioca - Juego de colores Eco Family | Kit de colores...'
-tags: bolígrafos, lápices, lápices, rotuladores
+tags: tole.es, bolígrafos, lápices, lápices, rotuladores
 actualPrice: 20.92 EUR
 currency: EUR
 price: 20.92

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G64VXWG-es WEILLCCE Bolsos para Mujer Mochila de Mujer Mochila...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

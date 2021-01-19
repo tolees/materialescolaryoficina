@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRBHX1L-es Xnuoyo 17.3" Mochila Portátil para 12-17 Pulgadas...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

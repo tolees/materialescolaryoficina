@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLNGWYY-es Artesania Cerda Mochila Infantil 3D Avengers Capitan...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

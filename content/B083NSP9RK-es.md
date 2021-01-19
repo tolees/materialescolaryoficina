@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NSP9RK-es Queta Pizarra Mágica Dibujo con Luz para Niños Tablero 3D...'
-tags: bolígrafos
+tags: tole.es, bolígrafos
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

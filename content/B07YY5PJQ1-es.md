@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY5PJQ1-es Xnuoyo Scansmart Mochilas Portatil 15.6 Pulgadas Mochila...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KYPXYM-es baozun Rotuladores Metálicos 12 Color Rotuladores de...'
-tags: rotuladores
+tags: tole.es, rotuladores
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

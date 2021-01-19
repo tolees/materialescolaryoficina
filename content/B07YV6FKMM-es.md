@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YV6FKMM-es Toozey Cortauñas para Perros y Gatos Pequeños/Medianos -...'
-tags: tijeras
+tags: tole.es, tijeras
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

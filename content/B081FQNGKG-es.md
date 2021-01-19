@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081FQNGKG-es STABILO Pen 68 brush Rotulador punta de pincel - Estuche...'
-tags: stabilo, rotulador, stabilo
+tags: tole.es, stabilo, rotulador, stabilo
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

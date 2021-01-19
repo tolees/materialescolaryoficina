@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV2ZXDV-es Atlético de Madrid "In Blue" Oficial Mochila Escolar...'
-tags: mochila, escolar
+tags: tole.es, mochila, escolar
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

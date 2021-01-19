@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9VXGM5-es Parfois - Mochila Estampada - Mujeres - Tallas L - Crudo'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

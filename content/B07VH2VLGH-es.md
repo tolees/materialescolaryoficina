@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VH2VLGH-es Homieco Mochilas para Perros Gatos Portador de Viaje...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DRSQ7FB-es Guizu 9 Bolsas de Colores DIY + 12 bolígrafos de Colores...'
-tags: bolígrafos
+tags: tole.es, bolígrafos
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

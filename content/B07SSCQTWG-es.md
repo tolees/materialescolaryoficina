@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSCQTWG-es Coronel Tapiocca Mochila Red Azul Hombre'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

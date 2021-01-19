@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBLNFGC-es Casio FX-82SPXII Iberia - Calculadora científica con...'
-tags: calculadora
+tags: tole.es, calculadora
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

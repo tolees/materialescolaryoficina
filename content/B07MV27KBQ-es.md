@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV27KBQ-es Kit Barba Cuidado para Hombre Crecimiento Aseo y Recorte -...'
-tags: tijeras
+tags: tole.es, tijeras
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

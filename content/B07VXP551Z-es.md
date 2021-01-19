@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXP551Z-es XP-PEN Artist 13.3 Pro Tableta de Dibujo Pantalla Digital...'
-tags: lápiz
+tags: tole.es, lápiz
 actualPrice: 280.49 EUR
 currency: EUR
 price: 280.49

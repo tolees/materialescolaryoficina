@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPWXN8H-es Mochila 32 cm Pepe Jeans Jareth'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHCCFQD-es Paper Mate InkJoy 100ST - Bolígrafos punta mediana 1.0 mm...'
-tags: bolígrafos, paper, mate
+tags: tole.es, bolígrafos, paper, mate
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

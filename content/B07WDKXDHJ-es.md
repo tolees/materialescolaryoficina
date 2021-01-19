@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDKXDHJ-es Vans VN0A3UI6 - Mochila de Sintético mujer Multicolor...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

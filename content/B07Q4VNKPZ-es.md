@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4VNKPZ-es CARE OF by PUMA Mochila 23L Azul Navy Blazer One Size...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

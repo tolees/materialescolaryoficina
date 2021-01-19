@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XXD9HQS-es Arteza Organizadores de escritorio en color gris oscuro |...'
-tags: bandeja, de, correo
+tags: tole.es, bandeja, de, correo
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSB1Z14-es TOMSHOO Mochila de Hidratación Mochila conVejiga de Agua...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

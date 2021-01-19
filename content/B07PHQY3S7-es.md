@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHQY3S7-es Zenacolor 24 Lápices de Colores Acuarelables Numerados con...'
-tags: lápices, lápices
+tags: tole.es, lápices, lápices
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

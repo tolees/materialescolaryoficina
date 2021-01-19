@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZK1BF8-es Carioca Maletín TITA | Lápices de Colores Caja Portátil de...'
-tags: lápices, lápices
+tags: tole.es, lápices, lápices
 actualPrice: 17.17 EUR
 currency: EUR
 price: 17.17

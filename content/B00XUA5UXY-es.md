@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XUA5UXY-es Alpino DA000125 - Estuche 12 ceras'
-tags: alpino
+tags: tole.es, alpino
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

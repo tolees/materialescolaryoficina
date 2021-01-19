@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M23PFFA-es Parker IM - Bolígrafo Punta mediana color Negro Black...'
-tags: bolígrafo
+tags: tole.es, bolígrafo
 actualPrice: 17.03 EUR
 currency: EUR
 price: 17.03

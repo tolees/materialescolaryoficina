@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU5VASL-es GRÜNTEK Tijeras de Podar Profesionales Z-25 FORJADAS en...'
-tags: tijeras
+tags: tole.es, tijeras
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT4BTEI-es GRÜNTEK Tijeras de podar y cortar Flores Frutas y Verduras...'
-tags: tijeras
+tags: tole.es, tijeras
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

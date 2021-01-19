@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRSY3CV-es Smyidel Tabla de Dibujo Portátil para Niños Tablero de...'
-tags: bolígrafos
+tags: tole.es, bolígrafos
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

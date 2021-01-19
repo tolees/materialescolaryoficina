@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFB47SW-es Scratch Art JBSON 30 Hojas Dibujo Scratch Láminas para...'
-tags: lápices, lápices
+tags: tole.es, lápices, lápices
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

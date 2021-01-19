@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T31MWTD-es Letras y Números Magnéticos para Niños - Conjunto...'
-tags: rotuladores
+tags: tole.es, rotuladores
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

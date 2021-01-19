@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0TXJW9-es PORT DESIGNS Sydney Laptop de 15.6 y Mochila Negra para...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 38.07 EUR
 currency: EUR
 price: 38.07

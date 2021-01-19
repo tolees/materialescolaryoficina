@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T45LQR2-es Laluztop Pistola de Silicona Caliente 50W Pistola de...'
-tags: barras, de, pegamento
+tags: tole.es, barras, de, pegamento
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

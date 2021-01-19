@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3FSM7F-es Mochila 42 cm Pepe Jeans Cuore'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 33.5 EUR
 currency: EUR
 price: 33.5

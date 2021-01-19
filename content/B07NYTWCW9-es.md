@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYTWCW9-es Mochila doble compartimento adaptable a carro Spiderman...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

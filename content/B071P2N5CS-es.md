@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071P2N5CS-es BIC 4 Color Bolígrafos - Bote Fluorescente de 6 Bolígrafos'
-tags: bolígrafos
+tags: tole.es, bolígrafos
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

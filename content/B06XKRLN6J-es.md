@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XKRLN6J-es adidas BP Power IV Mochila Unisex Adultos Negro...'
-tags: mochila, mochila, unisex
+tags: tole.es, mochila, mochila, unisex
 actualPrice: 28.09 EUR
 currency: EUR
 price: 28.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DW877HH-es Pepe Jeans Jill Mochila con carro doble compartimento 44 cm'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

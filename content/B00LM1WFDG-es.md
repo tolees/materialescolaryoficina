@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LM1WFDG-es BIC Kids Learner Portaminas HB con Minas de Recambio 1 3...'
-tags: portaminas
+tags: tole.es, portaminas
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

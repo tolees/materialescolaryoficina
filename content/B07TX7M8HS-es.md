@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TX7M8HS-es BeebeeRun 12pcs Mochilas Dinosaurio Bolsas de Cuerdas para...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

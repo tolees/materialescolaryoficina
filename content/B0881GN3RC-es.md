@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881GN3RC-es Tijeras Peluquería Profesional Dhaose Tijeras de Salón...'
-tags: tijeras
+tags: tole.es, tijeras
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CCDSWSR-es Rimmel London Brow This Way Fill & Sculpt Lápiz de Cejas...'
-tags: lápiz
+tags: tole.es, lápiz
 actualPrice: 2.58 EUR
 currency: EUR
 price: 2.58

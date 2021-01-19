@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCDW23Z-es Eono 30L Waterproof Ultralight Hiking Backpack with...'
-tags: backpack
+tags: tole.es, backpack
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

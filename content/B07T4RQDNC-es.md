@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4RQDNC-es Tikea Bolsa Geométrica de Corcho Natural para Mujer...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

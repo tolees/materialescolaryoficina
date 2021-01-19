@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXNP6N8-es Mochila Portabebés Ergonómico Hommie Mochilas para Bebes...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

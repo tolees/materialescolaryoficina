@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3DHV7S-es Vbiger Mochilas Escolares Ni?a Mochila Juveniles...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 24.89 EUR
 currency: EUR
 price: 24.89

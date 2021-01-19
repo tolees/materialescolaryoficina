@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQ2PNFR-es Calvin Klein - Layered Round Backpack Shoppers y bolsos de...'
-tags: backpack
+tags: tole.es, backpack
 actualPrice: 42.38 EUR
 currency: EUR
 price: 42.38

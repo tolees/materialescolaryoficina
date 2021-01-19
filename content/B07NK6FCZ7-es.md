@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NK6FCZ7-es EXERZ E Organizador de Escritorio 360 Grados Giratorio con...'
-tags: tijeras, goma, de, borrar, grapadora
+tags: tole.es, tijeras, goma, de, borrar, grapadora
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

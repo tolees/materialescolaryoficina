@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZHNFJ71-es Dakine Grom 13L - Mochila Minidsbrly'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

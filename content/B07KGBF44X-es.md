@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGBF44X-es Heiyo Lápiz Surface 200 Horas de Trabajo y 360 días de...'
-tags: lápiz
+tags: tole.es, lápiz
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

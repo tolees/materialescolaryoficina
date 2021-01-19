@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002OL2OJ8-es Bolígrafos UB-157 Eye Fine varios colores tinta Uni Super...'
-tags: bolígrafos
+tags: tole.es, bolígrafos
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

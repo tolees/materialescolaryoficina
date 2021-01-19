@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPVWM83-es Carioca Set Rotuladores Locos | Kit Rotuladores de Colores...'
-tags: rotuladores
+tags: tole.es, rotuladores
 actualPrice: 24.67 EUR
 currency: EUR
 price: 24.67

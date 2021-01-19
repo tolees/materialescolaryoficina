@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPTQ4SS-es Rotuladores Metalizados Rymall Rotuladores de Colores...'
-tags: rotuladores
+tags: tole.es, rotuladores
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

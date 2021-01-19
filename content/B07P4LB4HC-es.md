@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4LB4HC-es Mujer Vestido Elegante sin Mangas lápiz para Cóctel Fiesta...'
-tags: lápiz
+tags: tole.es, lápiz
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GLRBDTQ-es BEZOX Cortaúñas con mango de madera juego de cortaúñas...'
-tags: tijeras
+tags: tole.es, tijeras
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

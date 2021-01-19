@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8YJ6R3-es Brrnoo 16L Gabinete de Esterilización UV 2 en 1 Caja de...'
-tags: tijeras
+tags: tole.es, tijeras
 actualPrice: 68.59 EUR
 currency: EUR
 price: 68.59

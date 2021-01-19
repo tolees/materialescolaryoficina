@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L9RPNV4-es Eastpak Provider Mochila 44 cm 33 L Gris Black Denim'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 59.63 EUR
 currency: EUR
 price: 59.63

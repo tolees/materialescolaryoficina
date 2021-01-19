@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TP5CYFR-es Samsonite Color Funtime Mochila con Ruedas 51 cm 26 L Azul...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 59.78 EUR
 currency: EUR
 price: 59.78

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SHL3VBO-es PlayColor 10121 - Caja de 12 temperas solidas 10 gramos...'
-tags: playcolor
+tags: tole.es, playcolor
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28

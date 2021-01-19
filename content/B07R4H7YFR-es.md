@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4H7YFR-es Mochila Ordenador Antirrobo Hombre Mochila Portatil 15.6...'
-tags: mochila, escolar
+tags: tole.es, mochila, escolar
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V228YWP-es Joymoze Mochila para Universidad Resistente al Agua y...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

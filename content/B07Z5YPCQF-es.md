@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5YPCQF-es Faber Castell 154640 Rotulador Fluorescente Color Metallic...'
-tags: faber, castell, rotulador
+tags: tole.es, faber, castell, rotulador
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

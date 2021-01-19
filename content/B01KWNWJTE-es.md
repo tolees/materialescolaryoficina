@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KWNWJTE-es Huntvp Mochila Táctica de Nylon 40L Bolsa de Asalto Estilo...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

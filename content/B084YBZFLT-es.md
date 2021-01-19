@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084YBZFLT-es Targus Drifter II mochila con 3 grandes compartimentos...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 32.37 EUR
 currency: EUR
 price: 32.37

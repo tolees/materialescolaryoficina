@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ECUZN5Q-es Astor Perfect Stay 24h Eyeshadow Waterproof Lápiz Sombra...'
-tags: lápiz
+tags: tole.es, lápiz
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

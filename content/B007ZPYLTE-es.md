@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007ZPYLTE-es BIC Cristal Original Fine - Bolígrafos punta fina 0.8 mm...'
-tags: bolígrafos, bic, cristal
+tags: tole.es, bolígrafos, bic, cristal
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

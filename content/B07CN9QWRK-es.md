@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN9QWRK-es Eastpak Padded Pak R - Mochila Verde Crafty Moss 24L 40 x...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 40.85 EUR
 currency: EUR
 price: 40.85

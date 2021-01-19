@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGZS523-es Tablero de dibujo Juego de pintura para proyector Juego de...'
-tags: bolígrafos
+tags: tole.es, bolígrafos
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

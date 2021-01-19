@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXHNYB9-es BaZhaHei Moda Mochila Mini Dragones Mini Bolso de Hombro...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 1.58 EUR
 currency: EUR
 price: 1.58

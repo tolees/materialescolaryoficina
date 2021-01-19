@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VP5SYDR-es Mochila Casual Pelo Lion King'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

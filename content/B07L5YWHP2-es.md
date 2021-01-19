@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5YWHP2-es Samsonte Cityvibe 2.0 - Mochila para portátil pequeño 41...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 82.08 EUR
 currency: EUR
 price: 82.08

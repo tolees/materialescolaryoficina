@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797VH3MJ-es Kit Cuidado Set Barba con Libre Champu Barba Peine Barba...'
-tags: tijeras
+tags: tole.es, tijeras
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003CRHMQ8-es Wolfcraft 7089000 7089000-1 Set tacocraft 7" Grapadora con...'
-tags: grapadora
+tags: tole.es, grapadora
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

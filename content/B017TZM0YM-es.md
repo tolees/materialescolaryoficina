@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017TZM0YM-es Winsor & Newton - Bloc de 50 hojas de papel para...'
-tags: rotuladores
+tags: tole.es, rotuladores
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

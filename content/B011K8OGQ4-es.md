@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011K8OGQ4-es Black Diamond Speed 22 Mochila Unisex Adulto Graphite'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 63.6 EUR
 currency: EUR
 price: 63.6

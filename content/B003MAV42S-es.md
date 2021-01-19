@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003MAV42S-es Flamastry Stabilo Power 30 sztuk'
-tags: stabilo, stabilo
+tags: tole.es, stabilo, stabilo
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

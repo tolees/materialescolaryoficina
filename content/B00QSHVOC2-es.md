@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QSHVOC2-es Nike AllegianceFC Barcelona Shld Cmpct Ba Mochila Hombre...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

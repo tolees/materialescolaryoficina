@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXWV6MG-es Diesel Discover-me Mirano Mochila para Hombre Azul Blue...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 41.12 EUR
 currency: EUR
 price: 41.12

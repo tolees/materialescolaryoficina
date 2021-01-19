@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ROQDO6K-es BIC 4 colores Stylus bolígrafos punta media 1 0 mm - Grip...'
-tags: bolígrafos
+tags: tole.es, bolígrafos
 actualPrice: 5.17 EUR
 currency: EUR
 price: 5.17

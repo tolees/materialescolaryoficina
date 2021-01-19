@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMD1M1C-es Faber-Castell 813 - Regla técnica 30 cm'
-tags: faber-castell
+tags: tole.es, faber-castell
 actualPrice: 5.38 EUR
 currency: EUR
 price: 5.38

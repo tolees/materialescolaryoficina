@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LLMNTG-es MKTOSASA - Mochila de Seguridad con diseño Urbano en...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 27.85 EUR
 currency: EUR
 price: 27.85

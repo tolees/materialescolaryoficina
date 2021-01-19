@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0006HVTA2-es BIC Soft Feel - Caja de 12 unidades bolígrafos retráctiles...'
-tags: bolígrafos
+tags: tole.es, bolígrafos
 actualPrice: 6.12 EUR
 currency: EUR
 price: 6.12

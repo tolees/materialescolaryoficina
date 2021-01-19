@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHH7K2T-es iSuperb Bolsas de Cuerdas para Viajes Gimnasio Mochila con...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ59CVY-es Soarpop Mochila Escolar Portatil de Estilo Clásico para...'
-tags: mochila, escolar
+tags: tole.es, mochila, escolar
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

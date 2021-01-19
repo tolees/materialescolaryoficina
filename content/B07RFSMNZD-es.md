@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFSMNZD-es Mochila Escolar Instituto Star Wars'
-tags: mochila, escolar
+tags: tole.es, mochila, escolar
 actualPrice: 13.33 EUR
 currency: EUR
 price: 13.33

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H1E5JUY-es Jovi 71 - Plastilina color rojo'
-tags: plastilina
+tags: tole.es, plastilina
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

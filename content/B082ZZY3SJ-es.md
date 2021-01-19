@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082ZZY3SJ-es Telescópico Magnético CHIFOOM 2pcs Pick Up...'
-tags: bolígrafo
+tags: tole.es, bolígrafo
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

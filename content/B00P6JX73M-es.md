@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P6JX73M-es CARIOCA Estuche Colors | Estuche 3 Cremalleras con...'
-tags: lápices, escolar, lápices, material, escolar, rotuladores
+tags: tole.es, lápices, escolar, lápices, material, escolar, rotuladores
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGJYNTM-es Samsonite Checkmate Central Opening - Mochila para...'
-tags: mochila
+tags: tole.es, mochila
 actualPrice: 120.13 EUR
 currency: EUR
 price: 120.13

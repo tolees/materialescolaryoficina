@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQ53GD3-es Staedtler 308 S1WP3 - Rotulador color negro'
-tags: rotulador
+tags: tole.es, rotulador
 actualPrice: 3.22 EUR
 currency: EUR
 price: 3.22
