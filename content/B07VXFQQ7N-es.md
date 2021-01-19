@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXFQQ7N-es Mochila para portátil 15 6" Pepe Jeans Strike con bandolera'
+tags: mochila
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

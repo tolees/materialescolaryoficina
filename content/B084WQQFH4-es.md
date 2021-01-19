@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Pw6dOGJfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084WQQFH4-es 1 unids/Lote Diseño de Cabeza Redonda Lápiz de Metal Pantalla táctil Lente de Vidrio Digitalizador Reemplazo Pluma para iPhone iPad Tablet - Púrpura'
+slug: 'B084WQQFH4-es 1 unids/Lote Diseño de Cabeza Redonda Lápiz de Metal...'
+tags: lápiz
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

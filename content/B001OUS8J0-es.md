@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514f5trLXpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001OUS8J0-es Staedtler Mars Lumograph 100 G12 S. Pack de 12 lápices de dibujo de distinta dureza'
+slug: 'B001OUS8J0-es Staedtler Mars Lumograph 100 G12 S. Pack de 12 lápices de...'
+tags: lápices, lápices
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

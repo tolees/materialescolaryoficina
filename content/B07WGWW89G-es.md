@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519O0jyLqEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGWW89G-es Tablero de Escritura LCD TEKFUN  Tablero de Graffiti  Tablero de Escritura de 8.5 Pulgadas con Bloqueo de Pantalla borrable y función Reutilizable Cuaderno Escolar y de Oficina  Regalo para niños'
+slug: 'B07WGWW89G-es Tablero de Escritura LCD TEKFUN Tablero de Graffiti...'
+tags: escolar
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

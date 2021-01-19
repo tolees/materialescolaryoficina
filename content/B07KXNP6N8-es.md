@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bAStrxwlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXNP6N8-es Mochila Portabebés Ergonómico  Hommie Mochilas para Bebes Puro Algodón Ligero y Multiuso  Portabebés Transpirable Ideal para Recién Nacidos y Niños de 0 a 2 Años  3.5 a 20Kg  2019 Nueva Versión  Verde'
+slug: 'B07KXNP6N8-es Mochila Portabebés Ergonómico Hommie Mochilas para Bebes...'
+tags: mochila
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419VNdDC7UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVSDJ12-es Cinta adhesiva antiarañazos para gatos para muebles protectores Stop Cats Scratching Sticky Deterctive Protectores contra rasguños para alfombras Sofá Puerta y sofá transparente 3Inches x 15 Yards'
+slug: 'B07TVSDJ12-es Cinta adhesiva antiarañazos para gatos para muebles...'
+tags: cinta, adhesiva
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

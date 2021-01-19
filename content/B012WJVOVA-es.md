@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Uhndng0wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012WJVOVA-es WACOM LP190K - Lápiz para tablet CTL490  CTH490 y CTH690'
+slug: 'B012WJVOVA-es WACOM LP190K - Lápiz para tablet CTL490 CTH490 y CTH690'
+tags: lápiz
 actualPrice: 24.91 EUR
 currency: EUR
 price: 24.91

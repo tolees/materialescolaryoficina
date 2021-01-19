@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iWCCFM3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RL321JG-es American Tourister Urban Groove - 15.6 Pulgadas Mochila para Portátil  48 cm  26 L  Azul  True Navy '
+slug: 'B07RL321JG-es American Tourister Urban Groove - 15.6 Pulgadas Mochila...'
+tags: mochila
 actualPrice: 30.35 EUR
 currency: EUR
 price: 30.35

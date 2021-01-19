@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21HuVy0vyeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000J69ZTM-es Pilot 495518 - Bolígrafo  Azul  Azul  Transparente    12 unidades  medio'
+slug: 'B000J69ZTM-es Pilot 495518 - Bolígrafo Azul Azul Transparente 12...'
+tags: bolígrafo
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

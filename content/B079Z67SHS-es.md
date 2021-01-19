@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TCshh8X9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Z67SHS-es Mochila antirrobo para computadora portátil /portátil y Ipad de hasta 15.6 pulgadas  con puerto de carga USB y conector para auriculares  resistente al agua  ideal para universidades/negocios/viajes'
+slug: 'B079Z67SHS-es Mochila antirrobo para computadora portátil /portátil y...'
+tags: mochila
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

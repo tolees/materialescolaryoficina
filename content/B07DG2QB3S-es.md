@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CTYLdwYbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DG2QB3S-es Plantilla Dibujo Supplies Pack Escolar con Escuadra Cartabón Regla y Semicírculo Stencil Plantillas de Madera'
+slug: 'B07DG2QB3S-es Plantilla Dibujo Supplies Pack Escolar con Escuadra...'
+tags: cartabón, escolar
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

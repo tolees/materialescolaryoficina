@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513UiWBRyLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KVTP11C-es 120 Lápices de Colores  Numerado  de Zenacolor - 120 Colores Únicos para Libro de Colorear para Adultos - Fácil Acceso con 4 Bandejas - Regalo Ideal para Artistas  Adultos y Niños'
+slug: 'B01KVTP11C-es 120 Lápices de Colores Numerado de Zenacolor - 120 Colores...'
+tags: colorear, lápices, lápices
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

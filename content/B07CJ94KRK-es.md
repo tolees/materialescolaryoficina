@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ttAgzpTmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJ94KRK-es Carpeta de Conferencias  Wilbest A4 Carpeta de Cuero  Las Asas con Magnético  Calculadora de Energía Solar  Bolsillo Interno Velcro  Negocios y Viajes  Impermeabilización  34 x 25 cm - Negro'
+slug: 'B07CJ94KRK-es Carpeta de Conferencias Wilbest A4 Carpeta de Cuero Las...'
+tags: calculadora
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

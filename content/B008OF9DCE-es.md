@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PrPkXn7+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008OF9DCE-es Apli - Etiquetas Adhesivas multi3 para Inkjet Laser y fotocopiadoras Cantos Rectos 100 Hojas 105 x 37mm'
+slug: 'B008OF9DCE-es Apli - Etiquetas Adhesivas multi3 para Inkjet Laser y...'
+tags: apli
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

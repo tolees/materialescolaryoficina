@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YBtc0FMnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKB36D3-es Element Cypress Bpk  Backpack para Hombre  napa red  U'
+slug: 'B07DKB36D3-es Element Cypress Bpk Backpack para Hombre napa red U'
+tags: backpack
 actualPrice: 33.02 EUR
 currency: EUR
 price: 33.02

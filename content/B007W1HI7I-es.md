@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fwbu-exHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007W1HI7I-es BIC Cristal Original Punta Fina - Estuche de 4 bolígrafos  color negro'
+slug: 'B007W1HI7I-es BIC Cristal Original Punta Fina - Estuche de 4 bolígrafos...'
+tags: bolígrafos, bic, cristal
 actualPrice: 1.58 EUR
 currency: EUR
 price: 1.58

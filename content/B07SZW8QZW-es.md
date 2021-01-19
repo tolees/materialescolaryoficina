@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xdy3WFzXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZW8QZW-es Targus Sol-Lite - Mochila Para Portátil  Azul Marino'
+slug: 'B07SZW8QZW-es Targus Sol-Lite - Mochila Para Portátil Azul Marino'
+tags: mochila
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

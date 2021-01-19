@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iEc5DTE8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LLMNTG-es MKTOSASA - Mochila de Seguridad  con diseño Urbano en Resistente poliéster 300D. Bolsillo Interior con protección de Seguridad RFID  Identificación por Radio Frecuencia  - 30x43x14 Gris'
+slug: 'B085LLMNTG-es MKTOSASA - Mochila de Seguridad con diseño Urbano en...'
+tags: mochila
 actualPrice: 27.85 EUR
 currency: EUR
 price: 27.85

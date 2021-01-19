@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FN9pSdqzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TQM8Q3-es adidas Ryv Backpack Mochilla de Deporte  Unisex Adulto  Black  NS'
+slug: 'B081TQM8Q3-es adidas Ryv Backpack Mochilla de Deporte Unisex Adulto...'
+tags: backpack
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n0aECoyrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYWBM9M-es Ergobaby Original - Mochila portabebés ergonómicas  unisex  color gris pearl'
+slug: 'B07FYWBM9M-es Ergobaby Original - Mochila portabebés ergonómicas unisex...'
+tags: mochila
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

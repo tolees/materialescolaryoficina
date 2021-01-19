@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61yL6gdLH4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088YVWJZB-es Masthome Tabla de Cortar de Cocina de plástico de Doble Cara con Sacapuntas Laterales Con 2 Piezas Tablas de Cortar de Cocina de Flexible y 1 tijeras y 1 pelador'
+slug: 'B088YVWJZB-es Masthome Tabla de Cortar de Cocina de plástico de Doble...'
+tags: tijeras
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

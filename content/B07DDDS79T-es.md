@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cIpSDwUoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDDS79T-es VTech- DigiART Pizarra con Plantillas y Dibu-Ruedas para Colorear  3480-169022    color/modelo surtido'
+slug: 'B07DDDS79T-es VTech- DigiART Pizarra con Plantillas y Dibu-Ruedas para...'
+tags: colorear
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

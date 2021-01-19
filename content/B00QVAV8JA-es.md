@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31shkQCSQoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QVAV8JA-es Safta - Conjunto dibujo escolar  940001   colores surtidos'
+slug: 'B00QVAV8JA-es Safta - Conjunto dibujo escolar 940001 colores surtidos'
+tags: escolar
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

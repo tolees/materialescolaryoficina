@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLM9HK9-es Neusky - Bolsa Escolar Azul Blau1 Large'
+tags: escolar
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

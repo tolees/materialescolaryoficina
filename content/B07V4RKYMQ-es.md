@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eyLM2mTSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4RKYMQ-es Faburo 3 Piezas Cremallera Lienzo Estuche Bolsa de Lápiz y 6 Piezas Bolígrafo de Cactus  Caja de Lápiz Patrón De Cactus  Bolsa de Plumas  Papelería para Escolar y Oficinas'
+slug: 'B07V4RKYMQ-es Faburo 3 Piezas Cremallera Lienzo Estuche Bolsa de Lápiz y...'
+tags: bolígrafo, lápiz, escolar
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

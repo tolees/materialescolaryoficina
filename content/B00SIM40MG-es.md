@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KnwMgU-LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SIM40MG-es Skip Hop Zoo Pack - Mochila  diseño unicorn  color turquesa'
+slug: 'B00SIM40MG-es Skip Hop Zoo Pack - Mochila diseño unicorn color turquesa'
+tags: mochila
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

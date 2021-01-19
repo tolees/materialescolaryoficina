@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jsReWwhkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXW6W35-es Desigual Backpack Liberté Patch Baza  Mochila moderna. para Mujer  azul  navy   37x9x24 centimeters  B x H x T '
+slug: 'B07MXW6W35-es Desigual Backpack Liberté Patch Baza Mochila moderna. para...'
+tags: backpack, mochila
 actualPrice: 59.2 EUR
 currency: EUR
 price: 59.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xw7aQP3AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4H7YFR-es Mochila Ordenador Antirrobo  Hombre Mochila Portatil 15.6 Pulgadas  Multiusos Mujer Daypacks con Puerto de USB para Escolar Negocio Viajes Senderismo Trabajo - 35L Negro'
+slug: 'B07R4H7YFR-es Mochila Ordenador Antirrobo Hombre Mochila Portatil 15.6...'
+tags: mochila, escolar
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

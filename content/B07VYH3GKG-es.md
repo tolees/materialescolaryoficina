@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511SbUSq38L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYH3GKG-es BelleStyle Agua Dibujo Pintura  100*70cm Doodle Alfombra de Agua  Doodle Estera de Agua con Bolígrafos Mágica  Moldes  Sellos  Rueda  Plato de Agua  Folleto de Dibujo para Niños - Juguete Educativo'
+slug: 'B07VYH3GKG-es BelleStyle Agua Dibujo Pintura 100*70cm Doodle Alfombra de...'
+tags: bolígrafos
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

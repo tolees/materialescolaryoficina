@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JNN9D6TsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXS5PX6-es Desigual Backpack Inlove Venice Mini  Mochila moderna. para Mujer  Grün  Musgo   28x10.5x28.1 centimeters  B x H x T '
+slug: 'B07MXS5PX6-es Desigual Backpack Inlove Venice Mini Mochila moderna. para...'
+tags: backpack, mochila
 actualPrice: 40.64 EUR
 currency: EUR
 price: 40.64

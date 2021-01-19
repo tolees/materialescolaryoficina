@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411-pI5tJiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHW37QN-es Desigual Back Azabache Nanaimo  Mochila para Mujer  Negro  Negro   12 x 35.5 x 28 cm'
+slug: 'B07VHW37QN-es Desigual Back Azabache Nanaimo Mochila para Mujer Negro...'
+tags: mochila
 actualPrice: 39.84 EUR
 currency: EUR
 price: 39.84

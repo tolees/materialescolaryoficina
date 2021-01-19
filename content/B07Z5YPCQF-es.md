@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bbmCFruIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5YPCQF-es Faber Castell 154640 Rotulador Fluorescente  Color Metallic + Pastel  1 6 x 11 8 x 15 2 cm  FC154640 '
+slug: 'B07Z5YPCQF-es Faber Castell 154640 Rotulador Fluorescente Color Metallic...'
+tags: faber, castell, rotulador
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

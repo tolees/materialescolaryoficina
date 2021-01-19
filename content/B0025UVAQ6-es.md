@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417ElJUAZLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0025UVAQ6-es Jovi-724987 Estuche Acuarelas  Multicolor  800 12 '
+slug: 'B0025UVAQ6-es Jovi-724987 Estuche Acuarelas Multicolor 800 12'
+tags: acuarelas
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

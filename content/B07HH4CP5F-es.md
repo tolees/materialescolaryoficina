@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hwv+hjkRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH4CP5F-es WowPrint - Mochila con diseño de caballos para el hombro  para la escuela  senderismo  viajes  mochila informal'
+slug: 'B07HH4CP5F-es WowPrint - Mochila con diseño de caballos para el hombro...'
+tags: mochila
 actualPrice: 29.87 EUR
 currency: EUR
 price: 29.87

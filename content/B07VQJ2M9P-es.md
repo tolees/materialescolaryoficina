@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X8dKY5MAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQJ2M9P-es Carioca Color Box | 100 Rotuladores Super Lavables con una Caja de Metal Amarilla  Rotuladores Punta Fina y Punta Maxi con Álbum para Colorear  100 Rotuladores'
+slug: 'B07VQJ2M9P-es Carioca Color Box | 100 Rotuladores Super Lavables con una...'
+tags: colorear, rotuladores
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

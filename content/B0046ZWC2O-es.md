@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21UhP3QDRbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0046ZWC2O-es L Oreal Paris Lápiz de Labios Infalible Lipliner 701 Stay Ultraviolet'
+slug: 'B0046ZWC2O-es L Oreal Paris Lápiz de Labios Infalible Lipliner 701 Stay...'
+tags: lápiz
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

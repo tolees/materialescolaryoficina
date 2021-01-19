@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+vvdlxARL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZCHIB8-es Parker Urban 1931584 - Bolígrafo roller  negro tenue de adorno dorado  recambio de tinta negra para punta fina '
+slug: 'B01LZCHIB8-es Parker Urban 1931584 - Bolígrafo roller negro tenue de...'
+tags: bolígrafo
 actualPrice: 34.7 EUR
 currency: EUR
 price: 34.7

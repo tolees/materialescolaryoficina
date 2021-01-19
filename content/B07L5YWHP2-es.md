@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dv+cbGl+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L5YWHP2-es Samsonte Cityvibe 2.0 - Mochila para portátil pequeño  41 cm  17 5 litros  color gris'
+slug: 'B07L5YWHP2-es Samsonte Cityvibe 2.0 - Mochila para portátil pequeño 41...'
+tags: mochila
 actualPrice: 82.08 EUR
 currency: EUR
 price: 82.08

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z1Skxv97L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086RFYS5Y-es Miquel Rius Agenda Escolar Rígida de Espiral 155x213 Mm Semana Vista 2020 MissBorderlike Despreocupate Aguamarina Castellano'
+slug: 'B086RFYS5Y-es Miquel Rius Agenda Escolar Rígida de Espiral 155x213 Mm...'
+tags: escolar
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

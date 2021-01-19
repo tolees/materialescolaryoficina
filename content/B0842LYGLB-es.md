@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514h0i67VfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0842LYGLB-es Bodyguard Bolsa para cámara DSLR 2en1 y Mochila fotográfica en una  Bolsa con división Interior Variable para Lentes de 3 * 16cm o 5 * 12cm'
+slug: 'B0842LYGLB-es Bodyguard Bolsa para cámara DSLR 2en1 y Mochila...'
+tags: mochila
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

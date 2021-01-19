@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51e+8jv019L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGL1Q3J-es Evaduol Mochilas Escolares Infantil Mochila Niña Colegio Casual Mochila Ligero Escuela Bolsa Bebe Lindo Viajes Mochilas para Las Niños 2-5 años'
+slug: 'B07WGL1Q3J-es Evaduol Mochilas Escolares Infantil Mochila Niña Colegio...'
+tags: mochila
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

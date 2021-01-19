@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516MGUd5nDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BCLX28C-es CARIOCA Estuche Wild Cubs | Estuche 2 Cremalleras con Material Escolar Escuela Infantil Primaria y Secundaria con 18 Lápices de Colores 18 Rotuladores Punta Fina y Accesorios Papelería  Tigre  42 Uds'
+slug: 'B08BCLX28C-es CARIOCA Estuche Wild Cubs | Estuche 2 Cremalleras con...'
+tags: lápices, escolar, lápices, material, escolar, rotuladores
 actualPrice: 22.42 EUR
 currency: EUR
 price: 22.42

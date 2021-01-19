@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-iIMvg21L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KLV3CFW-es Under Armour Ua Hustle 3.0  Mochila Unisex  Negro  Black/Black/Silver 001   Talla Única'
+slug: 'B01KLV3CFW-es Under Armour Ua Hustle 3.0 Mochila Unisex Negro...'
+tags: mochila, mochila, unisex
 actualPrice: 47.54 EUR
 currency: EUR
 price: 47.54

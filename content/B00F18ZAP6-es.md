@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419ys6kROBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F18ZAP6-es Fjällräven Kånken no 2  Mochila de senderismo  Unisex Adulto  Verde  Dark Olive   16 L  38 x 27 x 13 cm '
+slug: 'B00F18ZAP6-es Fjällräven Kånken no 2 Mochila de senderismo Unisex Adulto...'
+tags: mochila
 actualPrice: 94.58 EUR
 currency: EUR
 price: 94.58

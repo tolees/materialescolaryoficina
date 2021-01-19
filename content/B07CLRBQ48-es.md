@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LfO--4NTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLRBQ48-es BIC Intensity Fine - Blíster de 20 unidades  rotulador punta fina  0 8 mm   colores surtidos'
+slug: 'B07CLRBQ48-es BIC Intensity Fine - Blíster de 20 unidades rotulador...'
+tags: rotulador
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

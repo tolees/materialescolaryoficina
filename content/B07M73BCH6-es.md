@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FTkLX7hdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M73BCH6-es Rotulador de 80 Colores Marker Pen Marcadores Manga Creativos de Certificación SGS Rotulador Alcohol de Punta Doble ara Acuarela Graffiti para Principiantes Set de Rotuladores de Boceto Hecho a Mano'
+slug: 'B07M73BCH6-es Rotulador de 80 Colores Marker Pen Marcadores Manga...'
+tags: rotulador, rotuladores
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

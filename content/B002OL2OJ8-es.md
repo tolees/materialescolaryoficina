@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VreHAOWCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002OL2OJ8-es Bolígrafos UB-157 Eye Fine  varios colores  tinta Uni Super Ink  punta de 0 7 mm. Paquete de 8 unidades'
+slug: 'B002OL2OJ8-es Bolígrafos UB-157 Eye Fine varios colores tinta Uni Super...'
+tags: bolígrafos
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

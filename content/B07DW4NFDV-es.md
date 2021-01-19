@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q2dMbJ9qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DW4NFDV-es Pepe Jeans Jessa Mochila Escolar  43 cm  28.9 litros  Negro'
+slug: 'B07DW4NFDV-es Pepe Jeans Jessa Mochila Escolar 43 cm 28.9 litros Negro'
+tags: mochila, escolar
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tuci6QrxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2ZFL6R-es Inateck 40L-44L Mochila de Viaje  Cabina Mochila de Equipaje de Mano Maleta Antirrobo TSA Friendly Negocios Mochila aprobada por Avion  Compatible con Portátil de 17.3 Pulgadas  Negro'
+slug: 'B07Y2ZFL6R-es Inateck 40L-44L Mochila de Viaje Cabina Mochila de...'
+tags: mochila
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

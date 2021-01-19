@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VpT4g-QcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J1Y8AMG-es edding 4200-6-S-000 - Estuche con 6 rotuladores para porcelana  multicolor'
+slug: 'B00J1Y8AMG-es edding 4200-6-S-000 - Estuche con 6 rotuladores para...'
+tags: rotuladores
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

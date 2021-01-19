@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zcT+yrWGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN9T71G-es Mochila Antirrobo Impermeable  Mochila Portátil Hombre 17.3 Pulgadas USB Impermeable del Escolar Trabajo Diario Viaje Negocio Multifuncional Daypacks Negro'
+slug: 'B07VN9T71G-es Mochila Antirrobo Impermeable Mochila Portátil Hombre 17.3...'
+tags: mochila, escolar
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

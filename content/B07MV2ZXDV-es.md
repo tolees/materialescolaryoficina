@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JlD5JTq6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV2ZXDV-es Atlético de Madrid "In Blue" Oficial Mochila Escolar 320x160x440mm'
+slug: 'B07MV2ZXDV-es Atlético de Madrid "In Blue" Oficial Mochila Escolar...'
+tags: mochila, escolar
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

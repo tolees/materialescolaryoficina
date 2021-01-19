@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51O9SFWB6AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083MNGLZF-es BIC 4 Colores Bolígrafos de Punta Media  1 0 mm  - Cuerpo de Varios Colores  Texturizado Escarchado Dorado y Plateado   Pack de 3'
+slug: 'B083MNGLZF-es BIC 4 Colores Bolígrafos de Punta Media 1 0 mm - Cuerpo de...'
+tags: bolígrafos
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

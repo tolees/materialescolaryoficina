@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VIIVmG+5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DUB7PLC-es E-Vitta EVBP003002 - Mochila para Ordenador portátil de 16"  Color Azul'
+slug: 'B01DUB7PLC-es E-Vitta EVBP003002 - Mochila para Ordenador portátil de...'
+tags: mochila
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

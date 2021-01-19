@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jExMr1ZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089GHVM1W-es Mochila para Portátil Hombre 18 4 Pulgadas Impermeable Mochilas Puerto USB 17 3 Pulgadas Trabajo Ordenador Viaje Negocio Multifuncional Mochila Daypacks Negro'
+slug: 'B089GHVM1W-es Mochila para Portátil Hombre 18 4 Pulgadas Impermeable...'
+tags: mochila
 actualPrice: 39.83 EUR
 currency: EUR
 price: 39.83

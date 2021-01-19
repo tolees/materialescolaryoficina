@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JOQLYsr5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LE0Q3G-es APLI 1787 - Etiquetas blancas permanentes 210 0 x 148 0 mm 500 hojas'
+slug: 'B000LE0Q3G-es APLI 1787 - Etiquetas blancas permanentes 210 0 x 148 0 mm...'
+tags: apli
 actualPrice: 61.73 EUR
 currency: EUR
 price: 61.73

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eIaxOnrVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3NVVC6-es Memoria Flash USB 64 GB PenDrive con Llavero Portátil Lápiz USB Flash Drive USB Llevero de Aluminio Impermeable para PC Tableta Computadora y Otros USB Dispositivos'
+slug: 'B07D3NVVC6-es Memoria Flash USB 64 GB PenDrive con Llavero Portátil...'
+tags: lápiz
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

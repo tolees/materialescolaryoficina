@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-+vXojdHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PL1CWYT-es Parker Jotter Originals Colección de bolígrafos  acabado clásico naranja  punta mediana  tinta azul  una unidad'
+slug: 'B07PL1CWYT-es Parker Jotter Originals Colección de bolígrafos acabado...'
+tags: bolígrafos
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

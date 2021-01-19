@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nCvbgoi5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XY2TS34-es int!rend Caja de regalo | incluye 10 rotuladores metálicos  caja de sorpresa personalizada  para cumpleaños  bodas  álbum de fotos creativo para amigos'
+slug: 'B07XY2TS34-es int!rend Caja de regalo | incluye 10 rotuladores metálicos...'
+tags: rotuladores
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41epxmqZ5+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z56J4PH-es Cartucho de Fono Giratorio con lápiz de Repuesto Negro y Rojo para Reproductor de Discos de Vinilo Dispositivo económico Duradero - Negro + Rojo'
+slug: 'B07Z56J4PH-es Cartucho de Fono Giratorio con lápiz de Repuesto Negro y...'
+tags: lápiz
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

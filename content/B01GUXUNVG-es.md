@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R0X3YSu0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GUXUNVG-es Targus TSB89702EU Urban Explorer - Mochila para portátiles   sistema AIR X FLOW  hasta 15 6"  25 L   color azul'
+slug: 'B01GUXUNVG-es Targus TSB89702EU Urban Explorer - Mochila para portátiles...'
+tags: mochila
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

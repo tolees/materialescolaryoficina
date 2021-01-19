@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S1yQ3L9NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749KZDP6-es Pizarra blanca magnética de borrado en seco  con calendario mensual  organizador mensual y semanal  planificador para frigorífico de cocina  el aula escolar y sala de reuniones  color Horizontal'
+slug: 'B0749KZDP6-es Pizarra blanca magnética de borrado en seco con calendario...'
+tags: escolar
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

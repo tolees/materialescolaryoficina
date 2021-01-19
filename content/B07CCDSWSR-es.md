@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/210e3RmiOcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CCDSWSR-es Rimmel London Brow This Way Fill & Sculpt Lápiz de Cejas Tono 1 Blonde - 10 gr'
+slug: 'B07CCDSWSR-es Rimmel London Brow This Way Fill & Sculpt Lápiz de Cejas...'
+tags: lápiz
 actualPrice: 2.58 EUR
 currency: EUR
 price: 2.58

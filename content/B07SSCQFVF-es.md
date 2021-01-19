@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P1QZMy5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSCQFVF-es Coronel Tapiocca Classic  Mochila Estilo para Hombre  Cuero  43x30x15 cm'
+slug: 'B07SSCQFVF-es Coronel Tapiocca Classic Mochila Estilo para Hombre Cuero...'
+tags: mochila
 actualPrice: 41.69 EUR
 currency: EUR
 price: 41.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413b7bLfSTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AZ0VTX2-es Trunki PaddlePak - Mochila infantil impermeable para piscina y gimnasio  Violeta  37 x 29 x 17 cm'
+slug: 'B00AZ0VTX2-es Trunki PaddlePak - Mochila infantil impermeable para...'
+tags: mochila
 actualPrice: 11.73 EUR
 currency: EUR
 price: 11.73

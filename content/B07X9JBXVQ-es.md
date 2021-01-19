@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31T6lwBZ1gL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9JBXVQ-es Parfois - Mochila Detalles Efecto Ante - Mujeres - Tallas M - Beige'
+slug: 'B07X9JBXVQ-es Parfois - Mochila Detalles Efecto Ante - Mujeres - Tallas...'
+tags: mochila
 actualPrice: 13 EUR
 currency: EUR
 price: 13

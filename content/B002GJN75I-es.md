@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/219bGF8YLPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002GJN75I-es Pilot G-2 - Bolígrafo de tinta gel con trazo fino  azul  0 7 mm  tamaño XS  12 unidades'
+slug: 'B002GJN75I-es Pilot G-2 - Bolígrafo de tinta gel con trazo fino azul 0 7...'
+tags: bolígrafo
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

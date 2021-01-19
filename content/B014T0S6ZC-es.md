@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oSTbxBxrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014T0S6ZC-es Pritt Cola blanca universal  de secado transparente y aplicación directa  100 gr'
+slug: 'B014T0S6ZC-es Pritt Cola blanca universal de secado transparente y...'
+tags: cola, blanca, pritt
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

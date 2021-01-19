@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XcZQhMG2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ADP4IK0-es Carioca - Caja con 24 rotuladores  A52100024 '
+slug: 'B00ADP4IK0-es Carioca - Caja con 24 rotuladores A52100024'
+tags: rotuladores
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

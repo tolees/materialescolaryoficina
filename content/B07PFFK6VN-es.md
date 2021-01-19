@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QwWUp4u+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFFK6VN-es Samsonite Ziproll Mochila para portátil de 13.3 pulgadas  37 cm  19 L   Naranja  Burnt Naranja '
+slug: 'B07PFFK6VN-es Samsonite Ziproll Mochila para portátil de 13.3 pulgadas...'
+tags: mochila
 actualPrice: 58.74 EUR
 currency: EUR
 price: 58.74

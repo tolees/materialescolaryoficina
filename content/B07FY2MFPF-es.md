@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tDexsIQxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY2MFPF-es LIANCHENYI Retro bandera de Inglaterra mochila casual mochila escolar mochila de viaje'
+slug: 'B07FY2MFPF-es LIANCHENYI Retro bandera de Inglaterra mochila casual...'
+tags: mochila, escolar
 actualPrice: 17.77 EUR
 currency: EUR
 price: 17.77

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DuTIrMVIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HR4MEYQ-es Baban Tijeras 5MM Triángulo Dentado paño Tijeras Tijeras Tijera Dental Material de la Manija ABS + Acero Inoxidable'
+slug: 'B01HR4MEYQ-es Baban Tijeras 5MM Triángulo Dentado paño Tijeras Tijeras...'
+tags: tijeras
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

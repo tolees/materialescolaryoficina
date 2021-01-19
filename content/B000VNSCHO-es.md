@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TDT2ue3CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VNSCHO-es Faber-Castell Castell 9000 Graphite Pencil - HB - Lápiz  paquete de  12 unidades'
+slug: 'B000VNSCHO-es Faber-Castell Castell 9000 Graphite Pencil - HB - Lápiz...'
+tags: faber-castell, lápiz
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

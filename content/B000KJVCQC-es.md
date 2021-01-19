@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BiZOzlV4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJVCQC-es Faber-Castell 120511 - Minas  12 unidades'
+slug: 'B000KJVCQC-es Faber-Castell 120511 - Minas 12 unidades'
+tags: faber-castell
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

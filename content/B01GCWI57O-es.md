@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511-vep-z1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GCWI57O-es Paper Mate Dryline Cinta de corrección  5 mm x 8.5 m  4 unidades'
+slug: 'B01GCWI57O-es Paper Mate Dryline Cinta de corrección 5 mm x 8.5 m 4...'
+tags: paper, mate
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

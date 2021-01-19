@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513nEOsFvRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GS5GV9F-es Rotuladores de Pintura Acrílica  Keten 12 Colores Permanentes Punta Mediana para Piedra  Roca  Tela  Metal  Vidrio  Diseñar Taza de Cerámica  Scrapbooking'
+slug: 'B07GS5GV9F-es Rotuladores de Pintura Acrílica Keten 12 Colores...'
+tags: rotuladores
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

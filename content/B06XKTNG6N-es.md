@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vGTVjj1tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XKTNG6N-es Rimmel London Brow This Way Fibre Pencil Lápiz de Cejas  Tono 3 - 1.08 gr'
+slug: 'B06XKTNG6N-es Rimmel London Brow This Way Fibre Pencil Lápiz de Cejas...'
+tags: lápiz
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

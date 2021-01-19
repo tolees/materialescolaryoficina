@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tsghaq7ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007QU7VIQ-es Sharpie - Rotuladores permanentes  punta fina  colores surtidos estándares  paquete de 24'
+slug: 'B007QU7VIQ-es Sharpie - Rotuladores permanentes punta fina colores...'
+tags: rotuladores
 actualPrice: 19.38 EUR
 currency: EUR
 price: 19.38

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TzIRlZDuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L8JEAIY-es CamelBak Lobo  - Mochila de hidratación  Rojo  3 litros  Rojo  Racing Red/ Pitch Blue '
+slug: 'B01L8JEAIY-es CamelBak Lobo - Mochila de hidratación Rojo 3 litros Rojo...'
+tags: mochila
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

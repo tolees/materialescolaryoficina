@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NfhU+VgoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU5VASL-es GRÜNTEK Tijeras de Podar Profesionales Z-25 FORJADAS en Teflon 215 mm.'
+slug: 'B01MU5VASL-es GRÜNTEK Tijeras de Podar Profesionales Z-25 FORJADAS en...'
+tags: tijeras
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKN8N68-es Shiseido  Lápiz de ojos - 1 Unidad'
+slug: 'B07FKN8N68-es Shiseido Lápiz de ojos - 1 Unidad'
+tags: lápiz
 actualPrice: 18.8 EUR
 currency: EUR
 price: 18.8

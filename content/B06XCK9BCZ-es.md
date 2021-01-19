@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k0b+RxfAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCK9BCZ-es MoKo 4 PZS Lápiz Táctil Capacitiva Universal  Digitales Stylus Pen con Consejos de Fibra para Apple iPad/iPad Mini/Air/Pro  iPhone  Kindle  Samsung Galaxy  Tableta Android/iOS - Negro'
+slug: 'B06XCK9BCZ-es MoKo 4 PZS Lápiz Táctil Capacitiva Universal Digitales...'
+tags: lápiz
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

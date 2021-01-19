@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51P-qsJYLxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5ZT3X3-es Calculadoras Científicas - Calculadora Científica Matemática Con Pantalla LCD Cubierta Dura Protectora Deslizable Para GCSE y Examen de Nivel A Calculadora Científica Escolar Batería Incluida  Negro '
+slug: 'B07W5ZT3X3-es Calculadoras Científicas - Calculadora Científica...'
+tags: calculadora, escolar
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

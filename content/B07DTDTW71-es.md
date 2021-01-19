@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTDTW71-es Mochila adaptable a carro Pepe Jeans Joss 42cm'
+tags: mochila
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

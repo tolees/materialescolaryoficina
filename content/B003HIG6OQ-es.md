@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xoIC2DDmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003HIG6OQ-es Staedler Noris - Lápiz  HB 2  50 unidades '
+slug: 'B003HIG6OQ-es Staedler Noris - Lápiz HB 2 50 unidades'
+tags: lápiz
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

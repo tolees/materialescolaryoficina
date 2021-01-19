@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JCeXB77iL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ9TK4V-es Bestlife 2018 Mochila Tipo Casual  43 cm  22.0 litros  Gris'
+slug: 'B07JQ9TK4V-es Bestlife 2018 Mochila Tipo Casual 43 cm 22.0 litros Gris'
+tags: mochila
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

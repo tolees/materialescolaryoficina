@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516Mf0p1xoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BBWVWD-es Joymoze Cartera Escolar para Niñas Impermeable - Linda Mochila para el Instituto - Mochila de Diario para Mujeres Pájaro Colorido'
+slug: 'B076BBWVWD-es Joymoze Cartera Escolar para Niñas Impermeable - Linda...'
+tags: mochila, escolar
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

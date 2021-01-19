@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k4DYvS8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DMBP7ZS-es APLI 16914 - Forro de libros con solapa ajustable PP 300 mm 5 u.'
+slug: 'B07DMBP7ZS-es APLI 16914 - Forro de libros con solapa ajustable PP 300...'
+tags: apli
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

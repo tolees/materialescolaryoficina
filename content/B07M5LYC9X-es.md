@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PeOi7cGyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5LYC9X-es Napapijri Mochila de a Diario  Red Scarlet  Rojo  - N0YIXT'
+slug: 'B07M5LYC9X-es Napapijri Mochila de a Diario Red Scarlet Rojo - N0YIXT'
+tags: mochila
 actualPrice: 36.51 EUR
 currency: EUR
 price: 36.51

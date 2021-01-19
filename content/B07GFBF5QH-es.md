@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51s+pVHjpYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFBF5QH-es Bosquejo Lápices de Dibujo del Artístico Profesional Set de Lápices de Colores–Juego de 70 lápices metálicos acuarela dibujo carbón para colorear libros–Conjunto Ideal para Artistas Adultos y Niños'
+slug: 'B07GFBF5QH-es Bosquejo Lápices de Dibujo del Artístico Profesional Set...'
+tags: colorear, lápices, lápices
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

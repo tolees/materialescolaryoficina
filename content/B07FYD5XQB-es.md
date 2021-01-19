@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PMzCAbriL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYD5XQB-es Mochila para portátil Pepe Jeans Bromley Negra 15 6" doble compartimento'
+slug: 'B07FYD5XQB-es Mochila para portátil Pepe Jeans Bromley Negra 15 6" doble...'
+tags: mochila
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

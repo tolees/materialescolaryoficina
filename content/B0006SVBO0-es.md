@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QT+BYxpLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0006SVBO0-es BIC 4 colores Original bolígrafos Retráctiles punta media  1 0 mm  - Blíster de 1 Unidad'
+slug: 'B0006SVBO0-es BIC 4 colores Original bolígrafos Retráctiles punta media...'
+tags: bolígrafos
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

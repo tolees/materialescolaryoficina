@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pDSl7xukL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDKXDHJ-es Vans VN0A3UI6 - Mochila de Sintético mujer  Multicolor  Arrowwood leopard '
+slug: 'B07WDKXDHJ-es Vans VN0A3UI6 - Mochila de Sintético mujer Multicolor...'
+tags: mochila
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

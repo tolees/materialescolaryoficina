@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sDvEud1pL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000REHKUC-es Faber-Castell Ambition - Roller de bola  madera de peral'
+slug: 'B000REHKUC-es Faber-Castell Ambition - Roller de bola madera de peral'
+tags: faber-castell
 actualPrice: 77.33 EUR
 currency: EUR
 price: 77.33

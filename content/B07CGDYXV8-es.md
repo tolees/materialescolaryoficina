@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51zCoN5QygL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGDYXV8-es Lifewit Mochila Antirrobo para Ordenador Portátil 15 6 Pulgadas Mochila Multifuncional para Hombres con Puerto de Carga USB Bolsos Ideal para Estudiantes/Negocios/Viajes  Gris'
+slug: 'B07CGDYXV8-es Lifewit Mochila Antirrobo para Ordenador Portátil 15 6...'
+tags: mochila
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

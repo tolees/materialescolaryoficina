@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gW-l53d1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000QC2ZQO-es Trixie Tijeras Punta Redonda INOX  Cara y Patas  9 cm'
+slug: 'B000QC2ZQO-es Trixie Tijeras Punta Redonda INOX Cara y Patas 9 cm'
+tags: tijeras
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

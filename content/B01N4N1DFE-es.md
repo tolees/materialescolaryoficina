@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514jTKgGtoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4N1DFE-es Faber-Castell 155534 - Caja metálica con 33 rotuladores Connector  10 clips y 2 plantillas para colorear con motivo de bailarina  multicolor'
+slug: 'B01N4N1DFE-es Faber-Castell 155534 - Caja metálica con 33 rotuladores...'
+tags: colorear, faber-castell, rotuladores
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

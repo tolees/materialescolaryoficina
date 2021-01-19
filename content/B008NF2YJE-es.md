@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cx44Q2mSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008NF2YJE-es Case Logic - Mochila para portátiles de 16"/40 cm  Color Negro y Rojo'
+slug: 'B008NF2YJE-es Case Logic - Mochila para portátiles de 16"/40 cm Color...'
+tags: mochila
 actualPrice: 36.74 EUR
 currency: EUR
 price: 36.74

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q8oYPXzGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZZSY5V-es Keep Out Gaming BK7GXL Mochila para portáil Gaming de 17"  Negro y Verde'
+slug: 'B06ZZZSY5V-es Keep Out Gaming BK7GXL Mochila para portáil Gaming de 17"...'
+tags: mochila
 actualPrice: 39.89 EUR
 currency: EUR
 price: 39.89

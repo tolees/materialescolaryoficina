@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zzTnfN1VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CDGVL5-es Speedo T-KIT Teamster Mochila  Unisex Adulto  Azul  35 l'
+slug: 'B071CDGVL5-es Speedo T-KIT Teamster Mochila Unisex Adulto Azul 35 l'
+tags: mochila
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

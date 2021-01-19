@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bL%2BNYjUaL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH4X7GR-es The North Face Borealis Classic Mochila  Unisex Adulto  montgbl/Vintgwt  OS'
+slug: 'B07HH4X7GR-es The North Face Borealis Classic Mochila Unisex Adulto...'
+tags: mochila
 actualPrice: 60 EUR
 currency: EUR
 price: 60

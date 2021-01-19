@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o9bP6vqYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004MLTKRW-es BIC Kids Visacolor XL rotuladores Punta Gruesa - colores Surtidos  Caja de 48 unidades'
+slug: 'B004MLTKRW-es BIC Kids Visacolor XL rotuladores Punta Gruesa - colores...'
+tags: rotuladores
 actualPrice: 17.21 EUR
 currency: EUR
 price: 17.21

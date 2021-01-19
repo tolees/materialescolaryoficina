@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51yJ9avT2gL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQPLB5H-es Pepe Jeans Calvin Mochila Adaptable  Multicolor  44 cm'
+slug: 'B07SQPLB5H-es Pepe Jeans Calvin Mochila Adaptable Multicolor 44 cm'
+tags: mochila
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

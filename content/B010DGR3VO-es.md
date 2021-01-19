@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U1TgPYtEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010DGR3VO-es PLATERO P-U01B  Mochila unisex para computador portátil  15 6 pulgadas  Resistente al agua  con cremallera anti ladrón  negro'
+slug: 'B010DGR3VO-es PLATERO P-U01B Mochila unisex para computador portátil 15...'
+tags: mochila, mochila, unisex
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

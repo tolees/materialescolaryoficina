@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LBKr2MMlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0GMFIO-es Marcador STABILO BOSS Original Pastel - Caja con 10 unidades - Color melocotón sedoso'
+slug: 'B01M0GMFIO-es Marcador STABILO BOSS Original Pastel - Caja con 10...'
+tags: stabilo, stabilo
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

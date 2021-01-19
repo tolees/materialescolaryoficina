@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OR9SzBMHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWTWVMK-es TOMSHOO Mochila de hidratación Mochila con vejiga de Agua de 3.92 litros  Espacio del Compartimiento Principal es de 18 litros para Correr Ciclismo y Acampar  No Incluye Botellas de Agua y vejigas '
+slug: 'B07TWTWVMK-es TOMSHOO Mochila de hidratación Mochila con vejiga de Agua...'
+tags: mochila
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

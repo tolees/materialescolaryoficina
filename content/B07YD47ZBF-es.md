@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515yBimBbFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD47ZBF-es Catekro Caja de Almacenamiento de Oficina de Gran Capacidad Suministros de Oficina Soporte de Bolígrafo de Almacenamiento de Papelería Multifuncional'
+slug: 'B07YD47ZBF-es Catekro Caja de Almacenamiento de Oficina de Gran...'
+tags: bolígrafo
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

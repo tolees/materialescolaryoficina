@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417FmPbplBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXM1KLR-es Under Armour Hustle 5.0  mochila para portátil unisex  Negro  Black / Black / Silver   Taglia unica'
+slug: 'B07YXM1KLR-es Under Armour Hustle 5.0 mochila para portátil unisex Negro...'
+tags: mochila
 actualPrice: 43.12 EUR
 currency: EUR
 price: 43.12

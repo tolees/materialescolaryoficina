@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rVU4X9TSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084FYLVTD-es K&F Concept Mochila Cámara y Portátil de 15" Profesional y Multifunción con Protector de Lluvia y Apertura Lateral para Trípode  Cámaras Réflex  Lente  Accesorios y Ropa de Viaje Diaria'
+slug: 'B084FYLVTD-es K&F Concept Mochila Cámara y Portátil de 15" Profesional y...'
+tags: mochila
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

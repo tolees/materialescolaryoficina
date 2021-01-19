@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NgiUVm7sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OZQAYG-es Rotulador STABILO Pen 68 - Estuche premium Colorparade con 20 colores'
+slug: 'B000OZQAYG-es Rotulador STABILO Pen 68 - Estuche premium Colorparade con...'
+tags: stabilo, rotulador, stabilo
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410INiNF6sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VV7JC9S-es Safe Maddy Mochila Peluche Dragón Para Bebes Y Niños Infantil - Con Arnés De Seguridad Incluido - Ideal Para Guardería - Paseo -viajes Y Como Juguete - 3 En 1'
+slug: 'B07VV7JC9S-es Safe Maddy Mochila Peluche Dragón Para Bebes Y Niños...'
+tags: mochila
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

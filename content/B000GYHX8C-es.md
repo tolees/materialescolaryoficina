@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GYHX8C-es Apli Paper 11475 Papel Fotografico A4 Everyday 180GR 100H'
+tags: apli
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

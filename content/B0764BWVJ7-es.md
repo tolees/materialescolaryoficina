@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jdTYHlk6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0764BWVJ7-es Stabilo Boss Original - Marcador  color pastel  Set 2  1'
+slug: 'B0764BWVJ7-es Stabilo Boss Original - Marcador color pastel Set 2 1'
+tags: stabilo, stabilo
 actualPrice: 14.17 EUR
 currency: EUR
 price: 14.17

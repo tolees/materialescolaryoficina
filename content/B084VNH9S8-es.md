@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LE1IfvBvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VNH9S8-es Triamisu Nueva Marca y bolígrafo Pad Phone 4G Conveniente - Rojo'
+slug: 'B084VNH9S8-es Triamisu Nueva Marca y bolígrafo Pad Phone 4G Conveniente...'
+tags: bolígrafo
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

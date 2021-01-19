@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414se68jkmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGQR3TD-es American Tourister Urban Groove Lifestyle - 17.3 pulgadas Mochila para portátil 49.5 cm  28 L  Multicolor  Grey/Blue '
+slug: 'B07RGQR3TD-es American Tourister Urban Groove Lifestyle - 17.3 pulgadas...'
+tags: mochila
 actualPrice: 30.87 EUR
 currency: EUR
 price: 30.87

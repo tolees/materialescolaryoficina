@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Uuwf+1JRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AXT5RS2-es Petrus 624824 Grapadora Eléctrica  Grapa 10 Hojas  Funciona con Pilas  Gama WOW Turquesa'
+slug: 'B01AXT5RS2-es Petrus 624824 Grapadora Eléctrica Grapa 10 Hojas Funciona...'
+tags: grapadora
 actualPrice: 23.78 EUR
 currency: EUR
 price: 23.78

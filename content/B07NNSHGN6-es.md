@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sXLjCt56L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNSHGN6-es Under Armour Hustle 4.0 Mochila para portátil de 26 l resistente al agua  accesorio deportivo con útiles bolsillos  Unisex adulto  Negro  OSFA'
+slug: 'B07NNSHGN6-es Under Armour Hustle 4.0 Mochila para portátil de 26 l...'
+tags: mochila
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

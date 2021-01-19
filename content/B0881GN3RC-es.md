@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yGGXTEAyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0881GN3RC-es Tijeras Peluquería Profesional  Dhaose Tijeras de Salón Juego de Tijeras de Acero Inoxidable con Peine'
+slug: 'B0881GN3RC-es Tijeras Peluquería Profesional Dhaose Tijeras de Salón...'
+tags: tijeras
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

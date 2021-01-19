@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eiH5yCafL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQM39QR-es CARIOCA Oops Azules | Set Bolígrafos Borrables Recargables con Tapa para el Colegio  Universidad y Oficina con Doble Goma Incorporada y Agarre Ergonómico  Bolígrafos Azules12 Uds'
+slug: 'B07VQM39QR-es CARIOCA Oops Azules | Set Bolígrafos Borrables Recargables...'
+tags: bolígrafos
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

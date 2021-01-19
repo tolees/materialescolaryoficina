@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pywylePJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NJUT8Q-es BIC Velleda 1701 ECOlutions rotuladores de Pizarra punta media - Negro  Caja de 12 unidades'
+slug: 'B000NJUT8Q-es BIC Velleda 1701 ECOlutions rotuladores de Pizarra punta...'
+tags: rotuladores
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

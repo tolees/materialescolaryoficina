@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51s8obZNGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XXD9HQS-es Arteza Organizadores de escritorio en color gris oscuro | 6 accesorios | Portalápices  clasificador de cartas  bandeja de correo  revistero  tarjetero y porta-posits | Ideal para el hogar y la oficina'
+slug: 'B07XXD9HQS-es Arteza Organizadores de escritorio en color gris oscuro |...'
+tags: bandeja, de, correo
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

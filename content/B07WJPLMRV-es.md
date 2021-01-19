@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJPLMRV-es Pepe Jeans Irvin Mochila Portaordenador'
+tags: mochila
 actualPrice: 35.72 EUR
 currency: EUR
 price: 35.72

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OzPQ0Qc2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFSQYGT-es BabbleRoo Mochilas de Pañales para Bebé  Gran Capacidad Mochila de Cambio Bolsa para Pañales con Cambiador y Porta Chupones para Mamá y Papá  gris oscuro '
+slug: 'B07WFSQYGT-es BabbleRoo Mochilas de Pañales para Bebé Gran Capacidad...'
+tags: mochila
 actualPrice: 32.79 EUR
 currency: EUR
 price: 32.79

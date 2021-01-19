@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fxX3iGvPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ68H1G-es Ohuhu - 60 rotuladores de acuarela con doble punta  punta fina y punta pincel  rotulador a base de agua  para caligrafía  dibujo  bocetos  libros de colorear'
+slug: 'B07DJ68H1G-es Ohuhu - 60 rotuladores de acuarela con doble punta punta...'
+tags: colorear, rotulador, rotuladores
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

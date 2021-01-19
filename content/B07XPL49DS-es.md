@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k-7gX3otL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPL49DS-es Desigual Back adaggio Denver - Mochila para mujer  15 50 x 27 70 x 28 70 cm   color blanco'
+slug: 'B07XPL49DS-es Desigual Back adaggio Denver - Mochila para mujer 15 50 x...'
+tags: mochila
 actualPrice: 51.09 EUR
 currency: EUR
 price: 51.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51it45FITsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IPQT1BY-es 52 pz  Caja de papelería para niños  con marcadores  crayones  Pinturas  sacapuntas  Goma de borrar  etc  Valor excepcional! by RIVENBERT'
+slug: 'B01IPQT1BY-es 52 pz Caja de papelería para niños con marcadores crayones...'
+tags: goma, de, borrar
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

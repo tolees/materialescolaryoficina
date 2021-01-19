@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Qg0iZw5gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFSL2HL-es Artesania Cerda Luces Lol  Mochila Casual  41 cm  Rosa'
+slug: 'B07RFSL2HL-es Artesania Cerda Luces Lol Mochila Casual 41 cm Rosa'
+tags: mochila
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

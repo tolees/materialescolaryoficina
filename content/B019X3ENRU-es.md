@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319pNEvDSCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019X3ENRU-es Campingaz Urban Picnic Bacpac 30L - Nevera Flexible Formato Mochila'
+slug: 'B019X3ENRU-es Campingaz Urban Picnic Bacpac 30L - Nevera Flexible...'
+tags: mochila
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

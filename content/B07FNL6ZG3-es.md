@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zcWV7tV6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNL6ZG3-es E·Durable Mini Pistolas de encolar con 30 Piezas Barras de Pegamento Colorido para DIY Pequeño Arte  Ideal para Manualidades Bricolaje y proyectos Escolares. Oficina y Escuela   15W~25W '
+slug: 'B07FNL6ZG3-es E·Durable Mini Pistolas de encolar con 30 Piezas Barras de...'
+tags: barras, de, pegamento
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

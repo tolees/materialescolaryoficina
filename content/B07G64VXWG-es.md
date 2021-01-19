@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-l6UoR7bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G64VXWG-es WEILLCCE Bolsos para Mujer Mochila de Mujer Mochila Impermeable de Nylon Bandolera Doble Bolsos de Hombro Doble para Las Mujeres de la muchedumbre'
+slug: 'B07G64VXWG-es WEILLCCE Bolsos para Mujer Mochila de Mujer Mochila...'
+tags: mochila
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

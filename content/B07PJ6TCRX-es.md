@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SA+8Ftw7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJ6TCRX-es Burton Backpack Kilo 2.0 Poliéster Large 27 Litro 49 x 28 x 18 cm  H/B/T  Unisex Mochilas  213431 '
+slug: 'B07PJ6TCRX-es Burton Backpack Kilo 2.0 Poliéster Large 27 Litro 49 x 28...'
+tags: backpack
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

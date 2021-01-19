@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cMCOC6AlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB72Z5B-es BOPAI - Mochila unisex para hombre  impermeable  ligera  antirrobo  inteligente  para ordenador portátil  de 15 pulgadas  color negro  Nero1  Negro  - BOPAI0717'
+slug: 'B07VB72Z5B-es BOPAI - Mochila unisex para hombre impermeable ligera...'
+tags: mochila, mochila, unisex
 actualPrice: 49.79 EUR
 currency: EUR
 price: 49.79

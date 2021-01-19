@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M7gl1j1yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SD5C27I-es Faber-Castell 32722-8 - Compás de ajuste rápido  con tornillo central  articulaciones en ambos brazos y accesorios de recambio'
+slug: 'B00SD5C27I-es Faber-Castell 32722-8 - Compás de ajuste rápido con...'
+tags: faber-castell
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

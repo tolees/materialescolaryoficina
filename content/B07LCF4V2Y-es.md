@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XYvc7YImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCF4V2Y-es Newcom Mochila para Portátil 600D Poliéster Antirrobo y Resistente al Agua 15.6 Pulgadas Bolsa para Ordenador Negocios Viajes Universidad'
+slug: 'B07LCF4V2Y-es Newcom Mochila para Portátil 600D Poliéster Antirrobo y...'
+tags: mochila
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61n8IQ81ytL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RSWWMLG-es Desire Deluxe Rotuladores Pintura Acrílica para Madera  Tela  Piedras  Cerámica y Vidrio  12 Colores'
+slug: 'B07RSWWMLG-es Desire Deluxe Rotuladores Pintura Acrílica para Madera...'
+tags: rotuladores
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

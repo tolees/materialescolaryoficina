@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FOw2NpdzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJYSMH8-es Lixada Mochila Hidratación 5L Mochila para Correr Ligera para Correr Ciclismo Equitación Excursionismo Alpinismo'
+slug: 'B07SJYSMH8-es Lixada Mochila Hidratación 5L Mochila para Correr Ligera...'
+tags: mochila
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jTeSwTz+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN9QWRK-es Eastpak Padded Pak R - Mochila  Verde  Crafty Moss   24L  40 x 18 x 30 cm'
+slug: 'B07CN9QWRK-es Eastpak Padded Pak R - Mochila Verde Crafty Moss 24L 40 x...'
+tags: mochila
 actualPrice: 40.85 EUR
 currency: EUR
 price: 40.85

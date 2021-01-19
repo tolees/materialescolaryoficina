@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S9JWIyTjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797VH3MJ-es Kit Cuidado Set Barba con Libre Champu Barba Peine Barba Cepillo Barba Aceite Barba Balsamo Barba Barba Tijeras Bolsa de Almacenamiento Eletronic Barba Libro Regalos Originales Para Hombre'
+slug: 'B0797VH3MJ-es Kit Cuidado Set Barba con Libre Champu Barba Peine Barba...'
+tags: tijeras
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

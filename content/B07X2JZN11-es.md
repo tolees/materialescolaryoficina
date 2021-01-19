@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31miXr6kTOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2JZN11-es Eastpak Padded Pak R - Mochila  Azul  Blakout Next   24L  40 x 18 x 30 cm'
+slug: 'B07X2JZN11-es Eastpak Padded Pak R - Mochila Azul Blakout Next 24L 40 x...'
+tags: mochila
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

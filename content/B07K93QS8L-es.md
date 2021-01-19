@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hlhVJTCfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K93QS8L-es Karactermania Harry Potter Pride Gryffindor  Mochila Tipo Casual  48 cm  28 litros  Rojo'
+slug: 'B07K93QS8L-es Karactermania Harry Potter Pride Gryffindor Mochila Tipo...'
+tags: mochila
 actualPrice: 66.76 EUR
 currency: EUR
 price: 66.76

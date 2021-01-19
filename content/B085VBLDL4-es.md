@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PJFxNFbAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VBLDL4-es Carioca Set Colegio Primaria | Material Escolar con Lápices de Colores y de Dibujo  Rotuladores Super Lavables para Niños  Bolígrafos Borrables con Recambios  Goma y Sacapuntas  62 Uds'
+slug: 'B085VBLDL4-es Carioca Set Colegio Primaria | Material Escolar con...'
+tags: bolígrafos, lápices, escolar, lápices, material, escolar, rotuladores
 actualPrice: 21.67 EUR
 currency: EUR
 price: 21.67

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415RoFOPKvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFYG4ZY-es Sunshine smile Conjunto de Herramientas para Bonsai Herramientas Bonsai Bonsai Tijeras Kit Pequeño Árbol De Los Bonsais Poda Kit!'
+slug: 'B07MFYG4ZY-es Sunshine smile Conjunto de Herramientas para Bonsai...'
+tags: tijeras
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

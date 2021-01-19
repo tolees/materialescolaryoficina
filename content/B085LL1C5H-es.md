@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oHjKTZ8mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LL1C5H-es MKTOSASA - Mochila Multiusos en Resistente poliéster 300D. De diseño Urbano  Incluye Bolsillo antirrobo con tecnología de Seguridad RFID  Identificación por Radio Frecuencia  - 37x64x20 Gris'
+slug: 'B085LL1C5H-es MKTOSASA - Mochila Multiusos en Resistente poliéster 300D....'
+tags: mochila
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

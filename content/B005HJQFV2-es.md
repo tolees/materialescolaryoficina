@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ahy1THprL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005HJQFV2-es Staedtler 334 SB6CS1. Rotuladores de punta fina Triplus Fineliner. Pack de 6 marcadores de colores pastel.'
+slug: 'B005HJQFV2-es Staedtler 334 SB6CS1. Rotuladores de punta fina Triplus...'
+tags: rotuladores
 actualPrice: 5.64 EUR
 currency: EUR
 price: 5.64

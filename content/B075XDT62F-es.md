@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nlzEn8TZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075XDT62F-es NORSENS – Mochila Ordenador portátil 17/15.6 Pulgadas antirrobo para Hombre/Mujer  Impermeable Bolsa Mochila PC portátil para Jugar a/Caso/Escolar Negro/Plata'
+slug: 'B075XDT62F-es NORSENS – Mochila Ordenador portátil 17/15.6 Pulgadas...'
+tags: mochila
 actualPrice: 15.51 EUR
 currency: EUR
 price: 15.51

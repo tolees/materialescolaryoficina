@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MXCkf2CDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRXZ6V3-es Wenger Ibex - Mochila para portátil de 17"  con Bolsillo para Tableta  Color Negro balístico'
+slug: 'B07CRXZ6V3-es Wenger Ibex - Mochila para portátil de 17" con Bolsillo...'
+tags: mochila
 actualPrice: 79.65 EUR
 currency: EUR
 price: 79.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KHAd2jDTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GTC6VXM-es HP Odyssey - Mochila para portátiles de hasta 15.6" de Color Rojo  335 x 155 x 465 mm '
+slug: 'B01GTC6VXM-es HP Odyssey - Mochila para portátiles de hasta 15.6" de...'
+tags: mochila
 actualPrice: 40.51 EUR
 currency: EUR
 price: 40.51

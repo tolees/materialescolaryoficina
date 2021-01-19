@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41edW1x6kwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQJF4W6-es American Tourister Fun Limit - Mochila  Color Negro  Neon Palms '
+slug: 'B07SQJF4W6-es American Tourister Fun Limit - Mochila Color Negro Neon Palms'
+tags: mochila
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

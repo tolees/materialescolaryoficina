@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bDpBHE91L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQGSFY9-es Play-Doh Fábrica De Palomitas  Hasbro E5110EU4    color/modelo surtido'
+slug: 'B07KQGSFY9-es Play-Doh Fábrica De Palomitas Hasbro E5110EU4 color/modelo...'
+tags: play-doh
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

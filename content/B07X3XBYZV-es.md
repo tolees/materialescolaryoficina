@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314U75ZMi5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3XBYZV-es Eastpak Padded Pak r Mochila  40 cm  24 L  Rojo  Sailor Red '
+slug: 'B07X3XBYZV-es Eastpak Padded Pak r Mochila 40 cm 24 L Rojo Sailor Red'
+tags: mochila
 actualPrice: 27.63 EUR
 currency: EUR
 price: 27.63

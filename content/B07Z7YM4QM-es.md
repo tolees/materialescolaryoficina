@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AqGu6RjDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7YM4QM-es Bolígrafo Grabador de Voz Digital Portatil POVO 16GB Grabador de Sonido Espia Grabadora Audio con Reproductor de MP3 Activación Automática para Clases Reuniones Entrevistas'
+slug: 'B07Z7YM4QM-es Bolígrafo Grabador de Voz Digital Portatil POVO 16GB...'
+tags: bolígrafo
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o+nQhercL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F3BYALU-es Paper Mate InkJoy 100RT  bolígrafo retráctil  punta media de 1 mm'
+slug: 'B01F3BYALU-es Paper Mate InkJoy 100RT bolígrafo retráctil punta media de...'
+tags: bolígrafo
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bhWK6JfKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYDCNV4-es Parker Urban 1931586 - Bolígrafo roller  purpurina plateada  recambio de tinta negra para punta fina '
+slug: 'B01LYDCNV4-es Parker Urban 1931586 - Bolígrafo roller purpurina plateada...'
+tags: bolígrafo
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

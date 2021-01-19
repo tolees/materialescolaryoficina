@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FKaDYAB-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CNFX4H-es American Tourister Grab N Go Disney - 15.6 Pulgadas Mochila para Portátil  46 cm  27 L  Blanco  Stormtrooper Geometric '
+slug: 'B076CNFX4H-es American Tourister Grab N Go Disney - 15.6 Pulgadas...'
+tags: mochila
 actualPrice: 46.56 EUR
 currency: EUR
 price: 46.56

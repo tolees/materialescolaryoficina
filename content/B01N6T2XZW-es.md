@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IYdJ2ciwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6T2XZW-es Rapesco ECO HD-140 - Grapadora de gruesos  140 hojas de capacidad  color blanco mate'
+slug: 'B01N6T2XZW-es Rapesco ECO HD-140 - Grapadora de gruesos 140 hojas de...'
+tags: grapadora
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

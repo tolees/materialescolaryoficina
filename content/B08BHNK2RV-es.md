@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m2i57ad5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHNK2RV-es Rotuladores  Set de 40 Colores de Doble Punta y Organizador de Marcadores de Lona con Cremallera. Marcadores para Dibujar Bocetos  Pintar  Colorear y Subrayar. VIEDGT LLC'
+slug: 'B08BHNK2RV-es Rotuladores Set de 40 Colores de Doble Punta y Organizador...'
+tags: colorear, rotuladores
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

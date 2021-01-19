@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zFF-f2cuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CL1CFQ-es Samsonite 93061-1820 maletines para portátil 35 8 cm  14.1"  Mochila Azul - Funda  Mochila  35 8 cm  14.1"   700 g  Azul '
+slug: 'B076CL1CFQ-es Samsonite 93061-1820 maletines para portátil 35 8 cm 14.1"...'
+tags: mochila
 actualPrice: 43.92 EUR
 currency: EUR
 price: 43.92

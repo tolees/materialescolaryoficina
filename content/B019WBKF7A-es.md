@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21klGUEdrrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019WBKF7A-es L Oreal Paris Infalible Liner 24Hrs Lápiz Automático Gris 312 Flawless Grey'
+slug: 'B019WBKF7A-es L Oreal Paris Infalible Liner 24Hrs Lápiz Automático Gris...'
+tags: lápiz
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

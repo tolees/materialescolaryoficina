@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31duPeL51YL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTVSL1F-es Columbia Street Elite 25L Mochila  Unisex Adulto  Shark  O/S'
+slug: 'B07KTVSL1F-es Columbia Street Elite 25L Mochila Unisex Adulto Shark O/S'
+tags: mochila
 actualPrice: 56.01 EUR
 currency: EUR
 price: 56.01

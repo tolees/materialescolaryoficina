@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i8ZwulyJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L62CT4G-es HUION KAMVAS Pro 13  GT-133  120% sRGB Montura de Vidrio antirreflejo Laminado Completo Monitor con Pantalla sin lápiz con función de inclinación  266PPS'
+slug: 'B07L62CT4G-es HUION KAMVAS Pro 13 GT-133 120% sRGB Montura de Vidrio...'
+tags: lápiz
 actualPrice: 233.73 EUR
 currency: EUR
 price: 233.73

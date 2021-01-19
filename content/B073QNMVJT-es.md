@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/515IBa3wSUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QNMVJT-es Zecti Mochila profesional antigolpes para cámara DSLR Canon-Nikon-Sony Mochila fotografia con protector de lluvia'
+slug: 'B073QNMVJT-es Zecti Mochila profesional antigolpes para cámara DSLR...'
+tags: mochila
 actualPrice: 50.56 EUR
 currency: EUR
 price: 50.56

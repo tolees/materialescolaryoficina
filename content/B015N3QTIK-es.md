@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31cMTZQNDVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015N3QTIK-es Parker Sonnet - Bolígrafo  lacado en negro  con adorno dorado y punta media  en estuche '
+slug: 'B015N3QTIK-es Parker Sonnet - Bolígrafo lacado en negro con adorno...'
+tags: bolígrafo
 actualPrice: 49.87 EUR
 currency: EUR
 price: 49.87

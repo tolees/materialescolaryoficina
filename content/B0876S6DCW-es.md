@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v-2VikXOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876S6DCW-es AYUN 20pcs palillo de bolígrafos Bone bolígrafo con Tinta Negro de Doctor Nurse Amigos Estudiantes'
+slug: 'B0876S6DCW-es AYUN 20pcs palillo de bolígrafos Bone bolígrafo con Tinta...'
+tags: bolígrafo, bolígrafos
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pW8LPLMCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJM56PX-es Acmebon Mochila Escolar para Niñas Adolescentes con Bolsa de Almuerzo y Estuche Cartera para Niños Verde'
+slug: 'B07VJM56PX-es Acmebon Mochila Escolar para Niñas Adolescentes con Bolsa...'
+tags: mochila, escolar
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

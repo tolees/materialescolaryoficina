@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51wn2WnyhKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NXRQ83-es Mayka - Cinta Adhesiva Grande  IMC TOYS 97148 '
+slug: 'B079NXRQ83-es Mayka - Cinta Adhesiva Grande IMC TOYS 97148'
+tags: cinta, adhesiva
 actualPrice: 6 EUR
 currency: EUR
 price: 6

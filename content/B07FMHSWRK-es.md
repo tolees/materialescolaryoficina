@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rf5C2p3wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMHSWRK-es Winsor & Newton Acuarela  multicolor  24 lápices'
+slug: 'B07FMHSWRK-es Winsor & Newton Acuarela multicolor 24 lápices'
+tags: lápices, lápices
 actualPrice: 17.47 EUR
 currency: EUR
 price: 17.47

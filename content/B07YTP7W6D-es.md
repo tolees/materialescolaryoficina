@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K3MP6BNrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YTP7W6D-es Samsonite Paradiver Light Mochila Infantil  S+  42 cm 10 L   Blanco  Stormtrooper White Mesh '
+slug: 'B07YTP7W6D-es Samsonite Paradiver Light Mochila Infantil S+ 42 cm 10 L...'
+tags: mochila
 actualPrice: 43.46 EUR
 currency: EUR
 price: 43.46

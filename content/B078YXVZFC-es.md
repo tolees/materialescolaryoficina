@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NyCF99W3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YXVZFC-es Tijeras de Podar Profesional Yunque y Jardín OSPREY 190 mm. Podadora poderosa ligera y de corte limpio.'
+slug: 'B078YXVZFC-es Tijeras de Podar Profesional Yunque y Jardín OSPREY 190...'
+tags: tijeras
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

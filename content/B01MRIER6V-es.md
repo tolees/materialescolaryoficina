@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OhL5FkIYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRIER6V-es BIC Intensity Fine rotuladores punta fina  0 8 mm  – colores Surtidos  Blíster de 20 unidades'
+slug: 'B01MRIER6V-es BIC Intensity Fine rotuladores punta fina 0 8 mm – colores...'
+tags: rotuladores
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

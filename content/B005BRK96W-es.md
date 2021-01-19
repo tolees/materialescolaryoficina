@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mC96O-SLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005BRK96W-es BIC Cristal Original bolígrafos punta media  1 0 mm  – colores Surtidos  Blíster de 20+7'
+slug: 'B005BRK96W-es BIC Cristal Original bolígrafos punta media 1 0 mm –...'
+tags: bolígrafos, bic, cristal
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/515mt8dmFDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH3YSJ5-es DazSpirit 7Piezas boligrafo de Tinta Invisible Y mágico de luz UV para mensajes secretos y fiestas Noticias Regalos Sencillas mágicas ...'
+slug: 'B07LH3YSJ5-es DazSpirit 7Piezas boligrafo de Tinta Invisible Y mágico de...'
+tags: boligrafo
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

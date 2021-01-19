@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uyzvgqfvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BC3LQTT-es Pistola de pegamento Dweyka  50 W  mini pistola de pegamento con 50 barras de pegamento  pistola de pegamento termofusible de alta temperatura con interruptor de encendido/apagado para proyectos de manualidades  reparaciones rápidas del hogar  decoración de festivales'
+slug: 'B08BC3LQTT-es Pistola de pegamento Dweyka 50 W mini pistola de pegamento...'
+tags: barras, de, pegamento
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

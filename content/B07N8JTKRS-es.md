@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YoYW34M1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8JTKRS-es Tommy Hilfiger POPPY BACKPACK CORPMujerBolsos bandoleraBlanco  Corporate  13x40x31 centimeters  B x H x T '
+slug: 'B07N8JTKRS-es Tommy Hilfiger POPPY BACKPACK CORPMujerBolsos...'
+tags: backpack
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

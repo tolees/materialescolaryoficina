@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Fs7OjT+8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000SHSYDU-es Staedtler 334-57 - Bolígrafo  Gris  Oliva '
+slug: 'B000SHSYDU-es Staedtler 334-57 - Bolígrafo Gris Oliva'
+tags: bolígrafo
 actualPrice: 0.96 EUR
 currency: EUR
 price: 0.96

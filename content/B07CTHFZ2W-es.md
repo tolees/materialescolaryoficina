@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rYHyqbHrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTHFZ2W-es E·Durable Mini Pistola manualidades con 50 Piezas Barras de Pegamento para DIY Pequeño Arte  Empaques  Reparaciones Rápidas y en el hogar  oficina y escuela   15W~25W  Blanco '
+slug: 'B07CTHFZ2W-es E·Durable Mini Pistola manualidades con 50 Piezas Barras...'
+tags: barras, de, pegamento
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

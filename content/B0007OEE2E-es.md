@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B2i0M3c4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0007OEE2E-es Rotulador punta fina STABILO point 88 - Estuche con 10 colores'
+slug: 'B0007OEE2E-es Rotulador punta fina STABILO point 88 - Estuche con 10...'
+tags: stabilo, rotulador, stabilo
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

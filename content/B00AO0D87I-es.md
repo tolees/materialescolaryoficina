@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hCHRZHBXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AO0D87I-es Alpino Maxi - Rotuladores  24 unidades'
+slug: 'B00AO0D87I-es Alpino Maxi - Rotuladores 24 unidades'
+tags: alpino, rotuladores
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yzu-WC8sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001AH2XZM-es AspenSport Mount Cook - Mochila  65 L '
+slug: 'B001AH2XZM-es AspenSport Mount Cook - Mochila 65 L'
+tags: mochila
 actualPrice: 26.54 EUR
 currency: EUR
 price: 26.54

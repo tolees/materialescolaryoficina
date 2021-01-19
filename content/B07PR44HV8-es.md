@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lgJa1k-TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR44HV8-es Unidad Memoria Flash USB 3.0 128GB Memoria Lápiz Drive OTG PHICOOL [4 en 1] con Type C Conector USB Mirco Expansión de Memoria para iPhone  iPad  Android  PC - Negro'
+slug: 'B07PR44HV8-es Unidad Memoria Flash USB 3.0 128GB Memoria Lápiz Drive OTG...'
+tags: lápiz
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

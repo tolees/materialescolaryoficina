@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gu83fLqdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSHVQWH-es EverVanz Mochila de Lona para Portátil  Maleta Grande para Escuela  Viajes o Senderismo'
+slug: 'B01MSHVQWH-es EverVanz Mochila de Lona para Portátil Maleta Grande para...'
+tags: mochila
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

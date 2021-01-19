@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iqN5u4G8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSNTH6Y-es Roxy Sugar Baby - Mochila Mediana para Mujer Mochila Mediana  Mujer  True Black Full Bicolys  1SZ'
+slug: 'B07SSNTH6Y-es Roxy Sugar Baby - Mochila Mediana para Mujer Mochila...'
+tags: mochila
 actualPrice: 28.52 EUR
 currency: EUR
 price: 28.52

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IPmjD1mtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5SGCHH-es Bonamana Estuche para lápices  diseño de Anime  doble capa  para estudiantes  adolescentes  color Roblox-B'
+slug: 'B07W5SGCHH-es Bonamana Estuche para lápices diseño de Anime doble capa...'
+tags: lápices, lápices
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

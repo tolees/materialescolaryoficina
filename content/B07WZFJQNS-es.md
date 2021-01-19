@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JV9jse1eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZFJQNS-es Eastpak Padded Pak R Mochila  24 L  Rojo  Melange Print Lines   40 x 18 x 30 cm'
+slug: 'B07WZFJQNS-es Eastpak Padded Pak R Mochila 24 L Rojo Melange Print Lines...'
+tags: mochila
 actualPrice: 28.09 EUR
 currency: EUR
 price: 28.09

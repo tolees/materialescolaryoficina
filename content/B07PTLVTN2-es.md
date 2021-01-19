@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gr9+ZhHSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTLVTN2-es Kipling Fundamental  Mochila para Mujer  Azul  Stone Blue Block   42x42x16.5 centimeters  B x H x T '
+slug: 'B07PTLVTN2-es Kipling Fundamental Mochila para Mujer Azul Stone Blue...'
+tags: mochila
 actualPrice: 30.27 EUR
 currency: EUR
 price: 30.27

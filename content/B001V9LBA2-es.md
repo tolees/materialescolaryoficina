@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yEseQV8fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001V9LBA2-es Rimmel London Exaggerate  lápiz de ojos a prueba de agua - 0 28 g de la aguamarina de la chispa'
+slug: 'B001V9LBA2-es Rimmel London Exaggerate lápiz de ojos a prueba de agua -...'
+tags: lápiz
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

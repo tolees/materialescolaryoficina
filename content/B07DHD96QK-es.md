@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51jS0Kr2QkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHD96QK-es KUONIIY Tijeras  Hoja Recubierta de Titanio Súper Afilada  Conjunto de 5 Tijeras Multiusos con Mango Suave y Cómodo  Negro'
+slug: 'B07DHD96QK-es KUONIIY Tijeras Hoja Recubierta de Titanio Súper Afilada...'
+tags: tijeras
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

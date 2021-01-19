@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qk+o1-z4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ROQDO6K-es BIC 4 colores Stylus bolígrafos punta media  1 0 mm  - Grip Verde o Gris  Blíster de 1 Unidad'
+slug: 'B00ROQDO6K-es BIC 4 colores Stylus bolígrafos punta media 1 0 mm - Grip...'
+tags: bolígrafos
 actualPrice: 5.17 EUR
 currency: EUR
 price: 5.17

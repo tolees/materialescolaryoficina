@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oojXHVDSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1DBZQ2-es Kipling SOOBIN LIGHT - Bolsa escolar  29 liters  Azul  TRUE NAVY '
+slug: 'B07N1DBZQ2-es Kipling SOOBIN LIGHT - Bolsa escolar 29 liters Azul TRUE NAVY'
+tags: escolar
 actualPrice: 130.0 EUR
 currency: EUR
 price: 130.0

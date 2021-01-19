@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31p-bYXH0AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBYFAPO-es Puma Pro Training II Backpack Mochilla  Unisex Adulto  Negro  Puma Black   Talla única'
+slug: 'B01NBYFAPO-es Puma Pro Training II Backpack Mochilla Unisex Adulto Negro...'
+tags: backpack
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

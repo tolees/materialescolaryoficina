@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B+QI8w4BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB1T8WY-es ZOMAKE Mochila Plegable Ligera 20L  Mochilas Pequeñas para Hombre Mujer  Mochilas Compacta para Viajar Senderismo Rosa Coral '
+slug: 'B07HB1T8WY-es ZOMAKE Mochila Plegable Ligera 20L Mochilas Pequeñas para...'
+tags: mochila
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

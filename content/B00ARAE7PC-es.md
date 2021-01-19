@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fpUuLiaqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ARAE7PC-es BIC 4 colores Shine Bolígrafo Retráctil punta media  1 0 mm  – colores Metálicos Surtidos  Blíster de 2+1'
+slug: 'B00ARAE7PC-es BIC 4 colores Shine Bolígrafo Retráctil punta media 1 0 mm...'
+tags: bolígrafo
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

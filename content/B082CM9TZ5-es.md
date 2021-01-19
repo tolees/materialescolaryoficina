@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G0-B7eX8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082CM9TZ5-es Memoria Flash USB 64GB Memoria USB 3.0 Pendrive con Luz LED de Colores Data Traveler Impermeable USB Lápiz de Memoria Unidad Flash Drive Memoria Stick para PC/Laptop/Notebook/Car/Computadora'
+slug: 'B082CM9TZ5-es Memoria Flash USB 64GB Memoria USB 3.0 Pendrive con Luz...'
+tags: lápiz
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

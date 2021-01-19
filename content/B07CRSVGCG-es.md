@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QEYbjoOqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRSVGCG-es Wenger/SwissGear Ibex 125th Slim Ballistic maletines para portátil 40 6 cm  16"  Mochila Negro - Funda  Mochila  40 6 cm  16"   Tirante para Hombro  1 2 kg  Negro '
+slug: 'B07CRSVGCG-es Wenger/SwissGear Ibex 125th Slim Ballistic maletines para...'
+tags: mochila
 actualPrice: 66.54 EUR
 currency: EUR
 price: 66.54

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wl6wivfGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5Q11LC-es Kipling MIYO Mochila Escolar  25 cm  8 Liters  Azul  Marine Navy '
+slug: 'B07V5Q11LC-es Kipling MIYO Mochila Escolar 25 cm 8 Liters Azul Marine Navy'
+tags: mochila, escolar
 actualPrice: 26.07 EUR
 currency: EUR
 price: 26.07

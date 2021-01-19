@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41htOXPtPeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9ZWDT7-es Maui & Sons Hawai Mochila 40 cm + estuche escolar  color Fucsia'
+slug: 'B07S9ZWDT7-es Maui & Sons Hawai Mochila 40 cm + estuche escolar color...'
+tags: mochila, escolar
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

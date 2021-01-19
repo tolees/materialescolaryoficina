@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5120z5OSmLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZSCWKMS-es Mochila Bebe AngLink Mochila Carro Bebe Material Impermeable de Alta Calidad  Duradero Regalar Cinturón de Cochecito Mochila Maternidad Regalo Perfecto Para Mamá y Papá Jóvenes Azul'
+slug: 'B07ZSCWKMS-es Mochila Bebe AngLink Mochila Carro Bebe Material...'
+tags: mochila
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

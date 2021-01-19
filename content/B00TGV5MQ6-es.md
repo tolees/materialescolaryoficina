@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LbIJ4HTIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TGV5MQ6-es L Oréal Paris Lápiz de Labios Lip Liner Couture by Color Riche 377'
+slug: 'B00TGV5MQ6-es L Oréal Paris Lápiz de Labios Lip Liner Couture by Color...'
+tags: lápiz
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

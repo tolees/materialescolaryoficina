@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t-JKrv0wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P813MSL-es Leathario Portafolio A4 Piel Portadocumentos Cremalleras de Viaje Carpeta de Conferencias de Cuero Imitación Organizadora Profesional Comercial de Negocios con Calculadora'
+slug: 'B07P813MSL-es Leathario Portafolio A4 Piel Portadocumentos Cremalleras...'
+tags: calculadora
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bC9x4oQLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074GXNK3S-es Faber-Castell 114624 - Estuche de metal con 24 ecolápices acuarelables hexagonales Goldfaber Aqua  colores surtidos'
+slug: 'B074GXNK3S-es Faber-Castell 114624 - Estuche de metal con 24 ecolápices...'
+tags: faber-castell
 actualPrice: 19.93 EUR
 currency: EUR
 price: 19.93

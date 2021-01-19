@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wVGQMH2zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWQUWFE-es Parker Urban 1931618 - Bolígrafo roller  verde  recambio de tinta negra para punta fina '
+slug: 'B01LWQUWFE-es Parker Urban 1931618 - Bolígrafo roller verde recambio de...'
+tags: bolígrafo
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

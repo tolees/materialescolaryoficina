@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lA2uH2c+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082ZZY3SJ-es Telescópico Magnético CHIFOOM 2pcs Pick Up Tool，Extensible，que Se Extiende hasta 66 cm con Clip para Bolígrafo para Recoger Tornillos Tuercas Objetos de Metal  1LB  Negro，Plata '
+slug: 'B082ZZY3SJ-es Telescópico Magnético CHIFOOM 2pcs Pick Up...'
+tags: bolígrafo
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

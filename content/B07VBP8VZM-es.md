@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ii0LECx0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBP8VZM-es CERDÁ LIFE S LITTLE MOMENTS Mochila Infantil 3D Peppa Pig  Niñas  Rosa  Rosa   10x31x25 cm  W x H x L '
+slug: 'B07VBP8VZM-es CERDÁ LIFE S LITTLE MOMENTS Mochila Infantil 3D Peppa Pig...'
+tags: mochila
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

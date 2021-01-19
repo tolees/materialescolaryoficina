@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51iJIy32i6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TOGJBUG-es Anker - Set de Material Escolar GRU  Mi Villano Favorito  ANKDMADS '
+slug: 'B00TOGJBUG-es Anker - Set de Material Escolar GRU Mi Villano Favorito...'
+tags: escolar, material, escolar
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

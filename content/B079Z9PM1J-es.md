@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Z9PM1J-es Mochila pequeña Pepe Jeans Katia'
+tags: mochila
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

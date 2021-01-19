@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oOZxAS3XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WCRM4ZP-es BAIGIO Mochila Portátil 17 Pulgadas Mochila de Negocios Mochila de Transporte para Ordenador Mochilas Escolares para Hombre con Puerto de Carga USB para Viajar Trabajo  Negro '
+slug: 'B07WCRM4ZP-es BAIGIO Mochila Portátil 17 Pulgadas Mochila de Negocios...'
+tags: mochila
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eWM4NxyVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004S0UEMW-es Chicco Happy Hand - Set de cuidado de uñas para bebés: tijeras  corta uñas  lima y cepillo  color rosa'
+slug: 'B004S0UEMW-es Chicco Happy Hand - Set de cuidado de uñas para bebés:...'
+tags: tijeras
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3143O6w+vaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CSB4D9-es Samsonite Network 3 39 6 cm  15.6"  Mochila Azul - Funda  Mochila  39 6 cm  15.6"   800 g  Azul '
+slug: 'B076CSB4D9-es Samsonite Network 3 39 6 cm 15.6" Mochila Azul - Funda...'
+tags: mochila
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

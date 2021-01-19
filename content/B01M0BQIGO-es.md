@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m1AHB8e5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0BQIGO-es Parker Urban 1931622 - Bolígrafo roller  violeta  recambio de tinta negra para punta fina '
+slug: 'B01M0BQIGO-es Parker Urban 1931622 - Bolígrafo roller violeta recambio...'
+tags: bolígrafo
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

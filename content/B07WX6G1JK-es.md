@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21iuPgU8ztL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WX6G1JK-es Cross X Star Wars Han Solo - Bolígrafo de punta rodante Caja de regalo de personaje'
+slug: 'B07WX6G1JK-es Cross X Star Wars Han Solo - Bolígrafo de punta rodante...'
+tags: bolígrafo
 actualPrice: 52 EUR
 currency: EUR
 price: 52

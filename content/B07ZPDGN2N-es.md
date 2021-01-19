@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Uytjb2j4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPDGN2N-es Tommy Hilfiger Uptown Nylon Backpack  Mochila Hombre  Capitán Del Cielo  OS'
+slug: 'B07ZPDGN2N-es Tommy Hilfiger Uptown Nylon Backpack Mochila Hombre...'
+tags: backpack, mochila
 actualPrice: 86.42 EUR
 currency: EUR
 price: 86.42

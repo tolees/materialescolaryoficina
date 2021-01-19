@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cWzGENJXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZMO2MP-es Marcador Pastel STABILO BOSS Original - Estuche con 4 colores pastel'
+slug: 'B01LZMO2MP-es Marcador Pastel STABILO BOSS Original - Estuche con 4...'
+tags: stabilo, stabilo
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

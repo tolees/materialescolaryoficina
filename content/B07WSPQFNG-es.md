@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m1xL1UR6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSPQFNG-es YONKINY Mochila Portátil Escolares Juveniles Chica Chico Antirrobo USB Mochila de Seguridad 15.6 Pulgadas Ordenador Mochila Universidad Instituto Bolsa Impermeable de Colegio Viaje  Negro '
+slug: 'B07WSPQFNG-es YONKINY Mochila Portátil Escolares Juveniles Chica Chico...'
+tags: mochila
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4191yeVte3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LM1W3KQ-es Conté Colouring rotuladores - colores Surtidos  Caja Metálica de 20 unidades'
+slug: 'B00LM1W3KQ-es Conté Colouring rotuladores - colores Surtidos Caja...'
+tags: rotuladores
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47

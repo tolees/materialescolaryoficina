@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oL9UMQmyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1JDY1W-es El Potro Pipe Mochila Mujer para Portátil  35 x 25 x 10 cm  Lila'
+slug: 'B07K1JDY1W-es El Potro Pipe Mochila Mujer para Portátil 35 x 25 x 10 cm...'
+tags: mochila
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

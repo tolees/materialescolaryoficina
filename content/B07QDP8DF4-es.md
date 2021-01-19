@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m2cNG3QsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDP8DF4-es Post-it Extreme Notes - Cuaderno de notas  2 unidades  114 x 171 mm   color amarillo y verde'
+slug: 'B07QDP8DF4-es Post-it Extreme Notes - Cuaderno de notas 2 unidades 114 x...'
+tags: post-it
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

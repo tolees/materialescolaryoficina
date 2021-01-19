@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q9g-4J5kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NKAJLJI-es Faber Castell 554224 - Estuche de cartón con 24 rotuladores escolares  punta de fibra  multicolor'
+slug: 'B00NKAJLJI-es Faber Castell 554224 - Estuche de cartón con 24...'
+tags: faber, castell, rotuladores
 actualPrice: 3.81 EUR
 currency: EUR
 price: 3.81

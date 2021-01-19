@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Bz5RpzzhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DFNMJVV-es Mochila Infantil 3D  Estuche Escolar y Bolsa Merienda de Cuerdas Pack Diseño Colorido – Minnie Mouse | Mochila Escolar Niña de 3 Años | Material Escolar Vuelta al Cole con Minnie Mouse'
+slug: 'B08DFNMJVV-es Mochila Infantil 3D Estuche Escolar y Bolsa Merienda de...'
+tags: mochila, escolar, material, escolar
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

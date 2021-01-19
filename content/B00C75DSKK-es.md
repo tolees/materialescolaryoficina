@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ucg4eTxeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C75DSKK-es Maped Color  Peps Jungle - Rotuladores de Colores  24 Unidades '
+slug: 'B00C75DSKK-es Maped Color Peps Jungle - Rotuladores de Colores 24 Unidades'
+tags: rotuladores
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

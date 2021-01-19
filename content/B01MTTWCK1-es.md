@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412MHHnuNbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTTWCK1-es Wenger/SwissGear Alexa 16 40 6 cm  16"  Mochila Negro - Funda  Mochila  40 6 cm  16"   Tirante para Hombro  Negro '
+slug: 'B01MTTWCK1-es Wenger/SwissGear Alexa 16 40 6 cm 16" Mochila Negro -...'
+tags: mochila
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

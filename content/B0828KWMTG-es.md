@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51f2aX3InPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828KWMTG-es Lápices de Colores para niños  Surtido de 24 Colores  Apto para niños pequeños  Producto Seguro y no tóxico Flower Monaco'
+slug: 'B0828KWMTG-es Lápices de Colores para niños Surtido de 24 Colores Apto...'
+tags: lápices, lápices
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

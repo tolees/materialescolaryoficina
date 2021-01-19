@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vlpJ5cwML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5AB9G7-es Play-Doh Pizzería  Multicolor  23 x 22 cm  Hasbro B1856EU6 '
+slug: 'B01N5AB9G7-es Play-Doh Pizzería Multicolor 23 x 22 cm Hasbro B1856EU6'
+tags: play-doh
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

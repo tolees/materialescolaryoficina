@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NwH0PMXrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWX078L-es APLI 13462 - Pack de 10 rollos de papel Electra  76.5 x 65 x 12 mm  color blanco'
+slug: 'B01LWX078L-es APLI 13462 - Pack de 10 rollos de papel Electra 76.5 x 65...'
+tags: apli
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

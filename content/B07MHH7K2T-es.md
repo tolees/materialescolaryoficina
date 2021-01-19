@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kFutkOsdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHH7K2T-es iSuperb Bolsas de Cuerdas para Viajes Gimnasio Mochila con Cordon El Deporte Unisex Drawstring Bags  Dinosaurio '
+slug: 'B07MHH7K2T-es iSuperb Bolsas de Cuerdas para Viajes Gimnasio Mochila con...'
+tags: mochila
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

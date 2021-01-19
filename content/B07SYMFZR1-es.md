@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518jtLyUg2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYMFZR1-es Pepe Jeans Pam - Mochila Saco  Multicolor  44 cm'
+slug: 'B07SYMFZR1-es Pepe Jeans Pam - Mochila Saco Multicolor 44 cm'
+tags: mochila
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

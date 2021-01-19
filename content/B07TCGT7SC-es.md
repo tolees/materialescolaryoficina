@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ei-r01-EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCGT7SC-es OG Online&Go Mochila Táctica Militar USB Impermeable 40L  Portátil  Camuflaje  Excursion  Camping  Senderismo  Trekking  Montaña  Caza  Ciclismo  Viaje  Gris '
+slug: 'B07TCGT7SC-es OG Online&Go Mochila Táctica Militar USB Impermeable 40L...'
+tags: mochila
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

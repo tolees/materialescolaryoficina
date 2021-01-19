@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zvLXfOWnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MF5T6OR-es Parker Urban 1931578 - Bolígrafo  purpurina plateada  recambio de tinta azul para punta media '
+slug: 'B01MF5T6OR-es Parker Urban 1931578 - Bolígrafo purpurina plateada...'
+tags: bolígrafo
 actualPrice: 29.25 EUR
 currency: EUR
 price: 29.25

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311iczb6r4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8MPG85-es AmazonBasics - Barras de pegamento lavable multiusos  tamaño medio  21 g  lote de 4'
+slug: 'B07F8MPG85-es AmazonBasics - Barras de pegamento lavable multiusos...'
+tags: barras, de, pegamento
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qPea+q5ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00331LILS-es Cinta adhesiva de señalización temporal tesa  color rojo/blanco'
+slug: 'B00331LILS-es Cinta adhesiva de señalización temporal tesa color...'
+tags: cinta, adhesiva
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

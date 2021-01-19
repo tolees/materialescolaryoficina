@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PYVgLhnbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084FXVKVW-es K&F Concept Mochila Fotografia para Cámara Reflex con Funda para Lluvia para Laptop Portátil 14" y Trípode '
+slug: 'B084FXVKVW-es K&F Concept Mochila Fotografia para Cámara Reflex con...'
+tags: mochila
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Liq5QcoxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TQXEYU4-es Fjallraven Kaipak 28 Backpack  Unisex adulto  Redwood  OneSize'
+slug: 'B00TQXEYU4-es Fjallraven Kaipak 28 Backpack Unisex adulto Redwood OneSize'
+tags: backpack
 actualPrice: 63.29 EUR
 currency: EUR
 price: 63.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Leev-W2ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082QWF82B-es Sombra de Ojos  Eyeshadow  Eyeshadow Glitter  Eyeshadow Palette  Sombra de Ojos Hipoalergenico Waterproof Long-lasting Eye Shadow Stick Sombra de Ojos Lápiz'
+slug: 'B082QWF82B-es Sombra de Ojos Eyeshadow Eyeshadow Glitter Eyeshadow...'
+tags: lápiz
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

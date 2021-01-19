@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S-MY+cP-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082QQJPNW-es Filamento PLA Oro Ultra Seda 1.75mm  ERYONE Impresión 3D PLA Super Filamento para Impresora 3D y Bolígrafo 3D  1kg 1 Carrete'
+slug: 'B082QQJPNW-es Filamento PLA Oro Ultra Seda 1.75mm ERYONE Impresión 3D...'
+tags: bolígrafo
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

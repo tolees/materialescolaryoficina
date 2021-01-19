@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S9gbV9uhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQ3SC5B-es COAWG Scrapbook Album de Fotos 80 Páginas Negra  con 12 Rotuladores Metalicos DIY Autoadhesivo Pegar y Escribir Libros de Memoria para Regalos de Boda Aniversario Cumpleanos Recuerdos Familiares Bebé'
+slug: 'B07ZQ3SC5B-es COAWG Scrapbook Album de Fotos 80 Páginas Negra con 12...'
+tags: rotuladores
 actualPrice: 16.73 EUR
 currency: EUR
 price: 16.73

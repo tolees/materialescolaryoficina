@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TiCUrwBHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBLNFGC-es Casio FX-82SPXII Iberia - Calculadora científica con ilustración de Jess Wade en la tapa  293 funciones  24 niveles de paréntesis   color gris'
+slug: 'B07XBLNFGC-es Casio FX-82SPXII Iberia - Calculadora científica con...'
+tags: calculadora
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

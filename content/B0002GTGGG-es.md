@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RCv+nyfwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002GTGGG-es Crayola 3678 - Lápices Decorados Jumbo   color/modelo surtido'
+slug: 'B0002GTGGG-es Crayola 3678 - Lápices Decorados Jumbo color/modelo surtido'
+tags: lápices, lápices
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

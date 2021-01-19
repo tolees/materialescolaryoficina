@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51alSKU3flL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001GMRC9S-es Lyra 6521120 - Rotuladores  12 unidades'
+slug: 'B001GMRC9S-es Lyra 6521120 - Rotuladores 12 unidades'
+tags: rotuladores
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

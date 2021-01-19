@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410tQndrz8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2R7PKL-es Atlético de Madrid plumier Mochila 4 Estuches llenos  33 Piezas  Escolar.'
+slug: 'B07G2R7PKL-es Atlético de Madrid plumier Mochila 4 Estuches llenos 33...'
+tags: mochila
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

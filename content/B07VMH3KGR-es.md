@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41asaLt4iLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMH3KGR-es CARIOCA Oops Retráctil Azul | Set Bolígrafos Borrables Recargables Retráctiles para el Colegio  Universidad y Oficina con Goma Incorporada y Agarre Ergonómico  Bolígrafos Azules  12 Uds'
+slug: 'B07VMH3KGR-es CARIOCA Oops Retráctil Azul | Set Bolígrafos Borrables...'
+tags: bolígrafos
 actualPrice: 15.94 EUR
 currency: EUR
 price: 15.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BI29RKQeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082H5C6MY-es Toplock Mochila antirrobo Azul Impermeable con Cierre Oculto para Hombre y Mujer. para Viaje/Trabajo/Estudios.para portátil 15 6 Pulgadas Puerto USB Muy espaciosa. Bobby Nomad Backpack'
+slug: 'B082H5C6MY-es Toplock Mochila antirrobo Azul Impermeable con Cierre...'
+tags: backpack, mochila
 actualPrice: 18.84 EUR
 currency: EUR
 price: 18.84

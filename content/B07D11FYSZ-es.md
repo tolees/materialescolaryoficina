@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t-BLrirQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D11FYSZ-es Kipling CLASSIC NIMAN FOLD Mochila tipo casual  49 cm  21 liters  Amarillo  Lively Yellow '
+slug: 'B07D11FYSZ-es Kipling CLASSIC NIMAN FOLD Mochila tipo casual 49 cm 21...'
+tags: mochila
 actualPrice: 48.61 EUR
 currency: EUR
 price: 48.61

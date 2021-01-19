@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jSRpNNc5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4HNVBP-es Pepe Jeans  Mochila  32 cm  9.6 Liters  Negro'
+slug: 'B07T4HNVBP-es Pepe Jeans Mochila 32 cm 9.6 Liters Negro'
+tags: mochila
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31E+zlTGMJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RP3KPC3-es Calvin Klein - Ck Must Psp20 Sml Backpack  Bolsos totes Mujer  Rojo  Tibetan Red   13x40x30 cm  W x H L '
+slug: 'B07RP3KPC3-es Calvin Klein - Ck Must Psp20 Sml Backpack Bolsos totes...'
+tags: backpack
 actualPrice: 58.82 EUR
 currency: EUR
 price: 58.82

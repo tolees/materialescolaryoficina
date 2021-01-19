@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AniOf83JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCDW23Z-es Eono 30L Waterproof  Ultralight Hiking Backpack with Internal Frame and Breathable Mesh Back'
+slug: 'B07YCDW23Z-es Eono 30L Waterproof Ultralight Hiking Backpack with...'
+tags: backpack
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

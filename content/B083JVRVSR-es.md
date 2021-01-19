@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kddhKdMfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083JVRVSR-es Mochila para Niños de La Escuela  Conjunto de 3 Piezas de Mochila Escolar para niña  Mochila de Viaje para niña Impermeable y Sin Decoloración  Cactus '
+slug: 'B083JVRVSR-es Mochila para Niños de La Escuela Conjunto de 3 Piezas de...'
+tags: mochila, escolar
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

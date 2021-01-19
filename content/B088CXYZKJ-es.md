@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tSe5-HEmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088CXYZKJ-es Aottom 36 Colores con Rotuladores Punta Pincel Rotuladores Acuarelables con Punta Suave  Plumas de Pincel de Acuarela con 6 Plantillas  Plumas de Dibujo  Estuche de Plumas de Caligrafía'
+slug: 'B088CXYZKJ-es Aottom 36 Colores con Rotuladores Punta Pincel Rotuladores...'
+tags: rotuladores
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

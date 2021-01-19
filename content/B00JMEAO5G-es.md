@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512L17exm7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JMEAO5G-es Faber Castell 65021 - Pack escolar con escuadra  cartabón  regla y semicírculo  color verde'
+slug: 'B00JMEAO5G-es Faber Castell 65021 - Pack escolar con escuadra cartabón...'
+tags: cartabón, escolar, faber, castell
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

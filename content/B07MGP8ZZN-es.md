@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mJFPMZ+0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGP8ZZN-es Parker Jotter Originals colección de bolígrafos  acabado retro verde de los 90  punta mediana  tinta azul  una unidad'
+slug: 'B07MGP8ZZN-es Parker Jotter Originals colección de bolígrafos acabado...'
+tags: bolígrafos
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sJ7bm0YxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YTQ3PQ-es Gibot Lápices de Colores para niños  Agarre de Palma de la Mano  Surtido de 12 Colores  apilables y Apto para niños pequeños  Producto Seguro y no tóxico.'
+slug: 'B077YTQ3PQ-es Gibot Lápices de Colores para niños Agarre de Palma de la...'
+tags: lápices, lápices
 actualPrice: 10.26 EUR
 currency: EUR
 price: 10.26

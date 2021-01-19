@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eKqgNiG%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B079L8DHGH-es AmazonBasics - Mochila compacta de viaje  Negro  para viajes de fin de semana'
+slug: 'B079L8DHGH-es AmazonBasics - Mochila compacta de viaje Negro para viajes...'
+tags: mochila
 actualPrice: 42.25 EUR
 currency: EUR
 price: 42.25

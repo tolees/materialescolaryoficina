@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BYIReIhVL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVL6MRY-es KIWI Design dji Osmo Pocket Accesorios - Extension Accesorios Kit: Soporte de Extensión  Selfie Stick  Mini Trípode Flexible  Clip de Mochila  Soporte para Bicicleta  Soporte de Ventosa  etc.'
+slug: 'B07QVL6MRY-es KIWI Design dji Osmo Pocket Accesorios - Extension...'
+tags: mochila
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

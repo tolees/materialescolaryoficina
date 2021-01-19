@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41q9SrWCvGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6XNWF5-es Afilador de lápices eléctrico portátil con batería para casa  colegio  oficina con espacio para lápices de todos los tamaños  rosa '
+slug: 'B07V6XNWF5-es Afilador de lápices eléctrico portátil con batería para...'
+tags: lápices, lápices
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

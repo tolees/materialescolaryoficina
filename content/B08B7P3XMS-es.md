@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tHk5flJrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B7P3XMS-es Mochilas Infantiles Primaria Mochila Niña Unicornio Mochila Chica Bolsas Escolares Mochila Niño 3 en 1 Sets de Mochila Escolares Armada '
+slug: 'B08B7P3XMS-es Mochilas Infantiles Primaria Mochila Niña Unicornio...'
+tags: mochila
 actualPrice: 33.5 EUR
 currency: EUR
 price: 33.5

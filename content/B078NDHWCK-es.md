@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-4nuzFBVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NDHWCK-es PetCay Cortauñas para Mascotas medianos y grandes - Tijeras uñas Profesional para Perro Gato Conejo Cobayas y Aves'
+slug: 'B078NDHWCK-es PetCay Cortauñas para Mascotas medianos y grandes -...'
+tags: tijeras
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

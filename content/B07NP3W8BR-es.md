@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cCDHwWUtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NP3W8BR-es Mochila de senderismo plegable ultra liviana pequeña  NEEKFOX Mochila de senderismo resistente al agua  Hombres Mujeres Niños Mochila de viaje para deportes al aire libre Camping Ciclismo a pie - 18L'
+slug: 'B07NP3W8BR-es Mochila de senderismo plegable ultra liviana pequeña...'
+tags: mochila
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

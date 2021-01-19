@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41inzxp5xHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JDMNBR-es Staedtler 308 SB6P - Pigment Liner Rotuladores   Paquete de 6'
+slug: 'B075JDMNBR-es Staedtler 308 SB6P - Pigment Liner Rotuladores Paquete de 6'
+tags: rotuladores
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

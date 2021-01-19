@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AwqghwfTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007ZPYLTE-es BIC Cristal Original Fine - Bolígrafos punta fina  0.8 mm   Blíster de 4 unidades  Colores Surtidos'
+slug: 'B007ZPYLTE-es BIC Cristal Original Fine - Bolígrafos punta fina 0.8 mm...'
+tags: bolígrafos, bic, cristal
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

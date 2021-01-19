@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FB0achJuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYG5NHM-es Mochila para portátil Pepe Jeans Bromley Azul 15 6" doble compartimento'
+slug: 'B07FYG5NHM-es Mochila para portátil Pepe Jeans Bromley Azul 15 6" doble...'
+tags: mochila
 actualPrice: 43.02 EUR
 currency: EUR
 price: 43.02

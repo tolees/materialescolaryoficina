@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d0TzfleaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009FYMVBI-es BIC Matic Fun 0 7 HB Portaminas Automático – Diseño en colores Surtidos  Blíster de 3 unidades'
+slug: 'B009FYMVBI-es BIC Matic Fun 0 7 HB Portaminas Automático – Diseño en...'
+tags: portaminas
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48

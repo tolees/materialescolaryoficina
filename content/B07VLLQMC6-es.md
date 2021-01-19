@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zstjUxjXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLLQMC6-es Mochila grande de 43 L para hombre y mujer  para hombres  mochila escolar para niñas  adolescentes  mochila para portátil de 17 3 pulgadas / mochila de viaje / equipaje de mano / mochila antirrobo'
+slug: 'B07VLLQMC6-es Mochila grande de 43 L para hombre y mujer para hombres...'
+tags: mochila, escolar
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VdqL3T+ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003CRHMQ8-es Wolfcraft 7089000 7089000-1 Set tacocraft 7" Grapadora con Caja metálica 4-14 mm  Clavos 14 mm 064  Incl. 1.000 Grapas 8 mm Tipo 053  negro  4-14mm'
+slug: 'B003CRHMQ8-es Wolfcraft 7089000 7089000-1 Set tacocraft 7" Grapadora con...'
+tags: grapadora
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

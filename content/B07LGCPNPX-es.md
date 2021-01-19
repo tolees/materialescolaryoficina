@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZbO+uCZOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGCPNPX-es Silver Tulip Mochila para portátil Universidad Hombros Niños Escuela Bolsas de Libros Mochila para niñas  Rosa  Medio con Puerto USB '
+slug: 'B07LGCPNPX-es Silver Tulip Mochila para portátil Universidad Hombros...'
+tags: mochila
 actualPrice: 21.63 EUR
 currency: EUR
 price: 21.63

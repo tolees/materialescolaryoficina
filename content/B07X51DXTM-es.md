@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iHja7WETL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X51DXTM-es Eastpak London+ Mochila  45 cm  21 L  Gris  Black Denim '
+slug: 'B07X51DXTM-es Eastpak London+ Mochila 45 cm 21 L Gris Black Denim'
+tags: mochila
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

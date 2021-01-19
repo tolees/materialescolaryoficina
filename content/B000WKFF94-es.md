@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51neK6-D8bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WKFF94-es Pelikan Premium Textmarker Rotuladores fluorescentes  paquete de ahorro 10 piezas  amarillo  hecho en Alemania  set escolar  oficinas - 940379A'
+slug: 'B000WKFF94-es Pelikan Premium Textmarker Rotuladores fluorescentes...'
+tags: escolar, rotuladores
 actualPrice: 6.04 EUR
 currency: EUR
 price: 6.04

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l7PmC+unL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WN64CT3-es Memoryee 3D Lienzo de Stranger Things Estudiantes Lápiz Estuche de gran capacidad Solapa con cremallera Bolsa de almacenamiento Titular de la pluma oficina portátil papelería'
+slug: 'B07WN64CT3-es Memoryee 3D Lienzo de Stranger Things Estudiantes Lápiz...'
+tags: lápiz
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

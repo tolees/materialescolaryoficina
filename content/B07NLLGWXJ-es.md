@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLLGWXJ-es Mochila Infantil 3D Disney Aladdin'
+tags: mochila
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Y4iKcjOCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076TX96WH-es Lápiz de Cera 6 Colores  Suaves y Blandas Cera  No Tóxicas  No manchan  Seguras para Niños  para Mayores de 3 Añ Flower Monaco'
+slug: 'B076TX96WH-es Lápiz de Cera 6 Colores Suaves y Blandas Cera No Tóxicas...'
+tags: lápiz
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

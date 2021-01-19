@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31icNICPdeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076MWFG1Z-es Posca 153544841 - Pack de 8 rotuladores de pintura al agua  multicolor'
+slug: 'B076MWFG1Z-es Posca 153544841 - Pack de 8 rotuladores de pintura al agua...'
+tags: rotuladores
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

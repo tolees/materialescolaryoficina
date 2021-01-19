@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y8lZCILML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBZC972-es Samsonite Guardit 2.0 Mochila para portátil con Ruedas  17.3 Pulgadas  48 cm  29 L  Gris  Grey '
+slug: 'B07LBZC972-es Samsonite Guardit 2.0 Mochila para portátil con Ruedas...'
+tags: mochila
 actualPrice: 107.47 EUR
 currency: EUR
 price: 107.47

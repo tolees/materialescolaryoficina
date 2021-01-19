@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419BKddtsaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OCM1LSM-es Ausonia - 81003 TIJERAS DE PODA PROFESIONALES PARA VID DE 21 CM CON HOJAS FORJADAS Y TEMPLADAS  MANGOS DE ALUMINIO REVESTIDOS DE GOMA. CORTA RAMAS DE HASTA UN DIÁMETRO DE 25 MM  CIERRE DE SEGURIDAD CON GANCHO DE METAL NIQUELADO'
+slug: 'B00OCM1LSM-es Ausonia - 81003 TIJERAS DE PODA PROFESIONALES PARA VID DE...'
+tags: tijeras
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

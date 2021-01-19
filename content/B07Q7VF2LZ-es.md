@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hsiCdQB6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q7VF2LZ-es Bedee - Afilador de cuchillos  3 pasos  diamante  cerámica  tungsteno  con base antideslizante  repara fácil y rápidamente todo tipo de cuchillos  tijeras'
+slug: 'B07Q7VF2LZ-es Bedee - Afilador de cuchillos 3 pasos diamante cerámica...'
+tags: tijeras
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

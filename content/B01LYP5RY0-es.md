@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417DYumPtvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYP5RY0-es Parker Urban 1931585 - Bolígrafo roller  azul vibrante  recambio de tinta negra para punta fina '
+slug: 'B01LYP5RY0-es Parker Urban 1931585 - Bolígrafo roller azul vibrante...'
+tags: bolígrafo
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qGCphS-cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XVS873C-es HP 1FK05AA - Mochila para portátiles de hasta 15.6"  color negro'
+slug: 'B06XVS873C-es HP 1FK05AA - Mochila para portátiles de hasta 15.6" color...'
+tags: mochila
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316OzvSwFoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003OSUDOS-es Eastpak Out of Office Mochila  44 cm  27 L  Negro  Black '
+slug: 'B003OSUDOS-es Eastpak Out of Office Mochila 44 cm 27 L Negro Black'
+tags: mochila
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

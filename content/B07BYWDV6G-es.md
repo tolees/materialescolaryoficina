@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rJbUv9omL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BYWDV6G-es American Tourister AT Work - Mochila Mesh tipo casual para 15.6" portátil  50 cm  25 liters  Noir  Universe Black '
+slug: 'B07BYWDV6G-es American Tourister AT Work - Mochila Mesh tipo casual para...'
+tags: mochila
 actualPrice: 36.27 EUR
 currency: EUR
 price: 36.27

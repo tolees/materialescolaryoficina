@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yJeBLe6sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4QWFT6-es Slime- So Shaker X3 Boy Plastilina  Multicolor  Norme  Canal Toys SSC010 '
+slug: 'B07B4QWFT6-es Slime- So Shaker X3 Boy Plastilina Multicolor Norme Canal...'
+tags: plastilina
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0
@@ -26,8 +27,8 @@ Está [Slime- So Shaker X3 Boy Plastilina  Multicolor  Norme  Canal Toys SSC010 
 ℹ️:
 
 - Es adecuado para actividades creativas
-- La marca del producto es Slime
 - Se prepara fácilmente con agua
+- La marca del producto es Slime
 - No necesita pegamento
 - La edad mínima recomendada es 6 años
 

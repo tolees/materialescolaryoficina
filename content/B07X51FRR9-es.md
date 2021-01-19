@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314XP4QJ7PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X51FRR9-es Eastpak Orbit Mochila  34 cm  10 L  Azul  Arctic Blue '
+slug: 'B07X51FRR9-es Eastpak Orbit Mochila 34 cm 10 L Azul Arctic Blue'
+tags: mochila
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

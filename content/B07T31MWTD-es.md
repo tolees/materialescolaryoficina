@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/613isFCQqeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T31MWTD-es Letras y Números Magnéticos para Niños - Conjunto Completo: 182 Letras y 81 Números y Símbolos - Imanes Gruesos de Espuma para la Nevera - Incluye 2 Cajas  Pizarra Magnética  Rotuladores y Borrador'
+slug: 'B07T31MWTD-es Letras y Números Magnéticos para Niños - Conjunto...'
+tags: rotuladores
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

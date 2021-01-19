@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61rhqx0aGlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPVWM83-es Carioca Set Rotuladores Locos | Kit Rotuladores de Colores Divertidos para Lettering  con Sellos Pastel  Mágicos  Perfume y Muchos Más  con Punta Maxi y Fina  Colores Surtidos 74 Unidades'
+slug: 'B07VPVWM83-es Carioca Set Rotuladores Locos | Kit Rotuladores de Colores...'
+tags: rotuladores
 actualPrice: 24.67 EUR
 currency: EUR
 price: 24.67

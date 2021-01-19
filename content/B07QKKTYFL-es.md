@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EqqwP9C6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKKTYFL-es Vans VN0A3I6RTTZ1 Unisex adulto mochila  Verde  One Size'
+slug: 'B07QKKTYFL-es Vans VN0A3I6RTTZ1 Unisex adulto mochila Verde One Size'
+tags: mochila
 actualPrice: 30.4 EUR
 currency: EUR
 price: 30.4

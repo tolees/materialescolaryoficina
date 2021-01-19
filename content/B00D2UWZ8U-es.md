@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61pDrelI38L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D2UWZ8U-es BIC Kids Plastidecor - Blíster de 18 unidades  ceras para colorear  colores surtidos'
+slug: 'B00D2UWZ8U-es BIC Kids Plastidecor - Blíster de 18 unidades ceras para...'
+tags: colorear, plastidecor
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

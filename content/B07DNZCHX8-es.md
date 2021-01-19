@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TRA9gPdjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNZCHX8-es Eastpak Orbit Mochila Infantil  34 cm  10 Liters  Rosa  Tropical Pink '
+slug: 'B07DNZCHX8-es Eastpak Orbit Mochila Infantil 34 cm 10 Liters Rosa...'
+tags: mochila
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

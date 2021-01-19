@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418CkOr1M2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGMJTCN-es adidas  Mochila Barricade 1.9 2019 Naranja Adultos unisex  Multicolor  Talla unica'
+slug: 'B07NGMJTCN-es adidas Mochila Barricade 1.9 2019 Naranja Adultos unisex...'
+tags: mochila
 actualPrice: 26.56 EUR
 currency: EUR
 price: 26.56

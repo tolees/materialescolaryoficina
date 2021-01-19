@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510GEH+0uGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BCZDXT-es CASIO SL-310UC-PK - Calculadora  0.8 x 7 x 11.8 cm  color Rosa'
+slug: 'B076BCZDXT-es CASIO SL-310UC-PK - Calculadora 0.8 x 7 x 11.8 cm color Rosa'
+tags: calculadora
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+fzYgtMPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BCLZP55-es Carioca - Juego de colores Eco Family | Kit de colores para niños con 12 lápices de colores  6 lápices de dibujo HB  24 rotuladores  4 bolígrafos y juego marcadores  en plástico reciclado  50 unidades'
+slug: 'B08BCLZP55-es Carioca - Juego de colores Eco Family | Kit de colores...'
+tags: bolígrafos, lápices, lápices, rotuladores
 actualPrice: 20.92 EUR
 currency: EUR
 price: 20.92
