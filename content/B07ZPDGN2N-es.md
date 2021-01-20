@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPDGN2N-es Tommy Hilfiger Uptown Nylon Backpack Mochila Hombre...'
+sku: 'B07ZPDGN2N-es'
 tags: [ 'backpack','mochila', ]
 actualPrice: 86.42 EUR
 currency: EUR

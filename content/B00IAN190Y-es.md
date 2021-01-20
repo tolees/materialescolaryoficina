@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IAN190Y-es Sammies by Samsonite - Bolsa escolar'
+sku: 'B00IAN190Y-es'
 tags: [ 'escolar', ]
 actualPrice: 4.46 EUR
 currency: EUR

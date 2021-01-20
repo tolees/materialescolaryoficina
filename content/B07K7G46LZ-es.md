@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7G46LZ-es Viedouce Mochila para Portátiles Escolares Mochilas...'
+sku: 'B07K7G46LZ-es'
 tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR

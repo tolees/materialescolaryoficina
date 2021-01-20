@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5YWCQ8-es Casio FX-83GTX - Calculadora científica Color Azul'
+sku: 'B07L5YWCQ8-es'
 tags: [ 'calculadora', ]
 actualPrice: 16.94 EUR
 currency: EUR

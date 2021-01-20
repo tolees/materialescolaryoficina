@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDC48CM-es BIC Kids Kid Couleur rotuladores punta media - colores...'
+sku: 'B06XDC48CM-es'
 tags: [ 'rotuladores', ]
 actualPrice: 5.99 EUR
 currency: EUR

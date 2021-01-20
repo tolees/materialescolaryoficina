@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WGWT74-es Pentel GREEN-LABEL NM10 Fabric / Textile Pen 1 unidad'
+sku: 'B000WGWT74-es'
 tags: [ 'pentel', ]
 actualPrice: 2.72 EUR
 currency: EUR

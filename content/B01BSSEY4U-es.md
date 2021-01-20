@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSSEY4U-es Westcott - Tijeras infantiles para diestros'
+sku: 'B01BSSEY4U-es'
 tags: [ 'tijeras', ]
 actualPrice: 1.57 EUR
 currency: EUR

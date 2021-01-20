@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WJTPV4-es AmazonBasics - Rotuladores de punta de fieltro colores...'
+sku: 'B078WJTPV4-es'
 tags: [ 'rotuladores', ]
 actualPrice: 11.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVFBTPN-es Mochila Hombre para Portátil Mochila Antirrobo Impermeable...'
+sku: 'B07BVFBTPN-es'
 tags: [ 'mochila', ]
 actualPrice: 30.96 EUR
 currency: EUR

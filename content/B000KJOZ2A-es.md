@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJOZ2A-es Q-Connect - Cinta Adhesiva Kf02164 33 M X 19 Mm Transparente'
+sku: 'B000KJOZ2A-es'
 tags: [ 'cinta','adhesiva', ]
 actualPrice: 1.61 EUR
 currency: EUR

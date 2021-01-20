@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081VWVVL3-es Vans Ss20 Realm Backpack OS Negro Mochila Mochila Real...'
+sku: 'B081VWVVL3-es'
 tags: [ 'backpack','mochila', ]
 actualPrice: 20.1 EUR
 currency: EUR

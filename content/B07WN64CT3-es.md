@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WN64CT3-es Memoryee 3D Lienzo de Stranger Things Estudiantes Lápiz...'
+sku: 'B07WN64CT3-es'
 tags: [ 'lápiz', ]
 actualPrice: 13.99 EUR
 currency: EUR

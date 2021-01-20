@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDQTZJR-es Mochila doble cremallera con carro Pepe Jeans Uma negra'
+sku: 'B07TDQTZJR-es'
 tags: [ 'mochila', ]
 actualPrice: 32.35 EUR
 currency: EUR

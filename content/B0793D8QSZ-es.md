@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793D8QSZ-es BABYBJÖRN One Air - Mochila Porta Bebé 3D Tejido de red...'
+sku: 'B0793D8QSZ-es'
 tags: [ 'mochila', ]
 actualPrice: 139.9 EUR
 currency: EUR

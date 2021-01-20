@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HH1XBAU-es Superwings - Escritorio Completo con bolígrafo electrónico...'
+sku: 'B01HH1XBAU-es'
 tags: [ 'bolígrafo', ]
 actualPrice: 13.42 EUR
 currency: EUR

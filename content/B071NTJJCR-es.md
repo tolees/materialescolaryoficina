@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NTJJCR-es Bourjois Khol & Contour Lápiz de ojos Tono 7 Prunissime -...'
+sku: 'B071NTJJCR-es'
 tags: [ 'lápiz', ]
 actualPrice: 1.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZSB53PD-es Mochila Bebe AngLink Mochila Carro Bebe Material...'
+sku: 'B07ZSB53PD-es'
 tags: [ 'mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082QWF82B-es Sombra de Ojos Eyeshadow Eyeshadow Glitter Eyeshadow...'
+sku: 'B082QWF82B-es'
 tags: [ 'lápiz', ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2ZBQPM-es Lowepro LP37259-PWW Photo Active Mochila para cámara...'
+sku: 'B07S2ZBQPM-es'
 tags: [ 'mochila', ]
 actualPrice: 109.94 EUR
 currency: EUR

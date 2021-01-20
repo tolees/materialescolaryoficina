@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT4XR49-es Grip BE-TOOL - Juego de bolígrafos de punta redonda de...'
+sku: 'B07PT4XR49-es'
 tags: [ 'bolígrafos','escolar', ]
 actualPrice: 6.7 EUR
 currency: EUR

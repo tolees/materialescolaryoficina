@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0197ZPN7S-es VAUDE Brenta 30 Mochila Unisex Adulto Negro 30-39 l'
+sku: 'B0197ZPN7S-es'
 tags: [ 'mochila', ]
 actualPrice: 73.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRTBPV5-es Unicornio regalos para niñas paquete de 5 mochila con...'
+sku: 'B07ZRTBPV5-es'
 tags: [ 'mochila', ]
 actualPrice: 8.89 EUR
 currency: EUR

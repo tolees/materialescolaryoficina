@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWV2X19-es Maui And Sons Waves - Mochila 42 cm Multicolor'
+sku: 'B07NWV2X19-es'
 tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR

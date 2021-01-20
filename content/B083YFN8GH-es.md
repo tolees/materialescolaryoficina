@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083YFN8GH-es Kipling SUPERTABOO - Mochila Supertaboo KI563769O KI563769O'
+sku: 'B083YFN8GH-es'
 tags: [ 'mochila', ]
 actualPrice: 23.2 EUR
 currency: EUR

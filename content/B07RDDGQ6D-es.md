@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDDGQ6D-es Xnuoyo 17.3 Pulgadas Mochila Hombre Impermeable Mochila...'
+sku: 'B07RDDGQ6D-es'
 tags: [ 'mochila', ]
 actualPrice: 24.99 EUR
 currency: EUR

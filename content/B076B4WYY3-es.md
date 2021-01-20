@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076B4WYY3-es Casio MS-20UC-BU - Calculadora 2.3 x 10.5 x 14.95 cm color...'
+sku: 'B076B4WYY3-es'
 tags: [ 'calculadora', ]
 actualPrice: 6.0 EUR
 currency: EUR

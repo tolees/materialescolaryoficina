@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWGXD9B-es Set de Geometría Set de Matemáticas10 Piezas Que Incluye...'
+sku: 'B07QWGXD9B-es'
 tags: [ 'lápiz', ]
 actualPrice: 9.99 EUR
 currency: EUR

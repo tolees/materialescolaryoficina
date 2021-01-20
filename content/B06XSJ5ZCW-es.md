@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSJ5ZCW-es iSuperb Estuche para Lápices Desplegable Encantador Bolso...'
+sku: 'B06XSJ5ZCW-es'
 tags: [ 'lápices','lápices', ]
 actualPrice: 8.99 EUR
 currency: EUR

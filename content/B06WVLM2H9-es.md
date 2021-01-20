@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVLM2H9-es Cronus y Rhea® | Carpeta Exclusiva de Cuero Exclusivo...'
+sku: 'B06WVLM2H9-es'
 tags: [ 'bolígrafos','lápices','lápices', ]
 actualPrice: 44.9 EUR
 currency: EUR

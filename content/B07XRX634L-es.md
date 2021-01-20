@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRX634L-es CARPISA ® Mochila de fantasía - Foresta'
+sku: 'B07XRX634L-es'
 tags: [ 'mochila', ]
 actualPrice: 14.98 EUR
 currency: EUR

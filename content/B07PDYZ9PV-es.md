@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDYZ9PV-es Samsonite 2WM - Mochila para portátil M de 15.6 pulgadas -...'
+sku: 'B07PDYZ9PV-es'
 tags: [ 'mochila', ]
 actualPrice: 96.17 EUR
 currency: EUR

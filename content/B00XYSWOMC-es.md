@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XYSWOMC-es Capital Sports Travel S Bolsa de deporte 45l Tejido...'
+sku: 'B00XYSWOMC-es'
 tags: [ 'mochila', ]
 actualPrice: 19.49 EUR
 currency: EUR

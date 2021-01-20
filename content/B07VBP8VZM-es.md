@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBP8VZM-es CERDÁ LIFE S LITTLE MOMENTS Mochila Infantil 3D Peppa Pig...'
+sku: 'B07VBP8VZM-es'
 tags: [ 'mochila', ]
 actualPrice: 12.9 EUR
 currency: EUR

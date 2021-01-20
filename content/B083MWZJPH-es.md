@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083MWZJPH-es RJEU Mochila Mujer 15.6-17.3 Pulgadas Mochila Ordenador...'
+sku: 'B083MWZJPH-es'
 tags: [ 'mochila', ]
 actualPrice: 25.99 EUR
 currency: EUR

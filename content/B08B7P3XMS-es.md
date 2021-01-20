@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B7P3XMS-es Mochilas Infantiles Primaria Mochila Niña Unicornio...'
+sku: 'B08B7P3XMS-es'
 tags: [ 'mochila', ]
 actualPrice: 33.5 EUR
 currency: EUR

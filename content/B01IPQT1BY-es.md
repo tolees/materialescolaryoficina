@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IPQT1BY-es 52 pz Caja de papelería para niños con marcadores crayones...'
+sku: 'B01IPQT1BY-es'
 tags: [ 'goma','de','borrar', ]
 actualPrice: 9.31 EUR
 currency: EUR

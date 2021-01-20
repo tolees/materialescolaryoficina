@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJKGJ6-es Apli 1272 - Etiquetas 100 hojas'
+sku: 'B000KJKGJ6-es'
 tags: [ 'apli', ]
 actualPrice: 14.85 EUR
 currency: EUR

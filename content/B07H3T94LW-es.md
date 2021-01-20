@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3T94LW-es Nike Hayward Futura 2.0 Mochila Unisex Adulto Azul Blue...'
+sku: 'B07H3T94LW-es'
 tags: [ 'mochila', ]
 actualPrice: 19.95 EUR
 currency: EUR

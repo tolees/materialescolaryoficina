@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM35CZ4-es PEKITAS- Pack Cinta 5 Metros +12 Esquinas + Cinta Adhesiva...'
+sku: 'B07DM35CZ4-es'
 tags: [ 'cinta','adhesiva', ]
 actualPrice: 13.95 EUR
 currency: EUR

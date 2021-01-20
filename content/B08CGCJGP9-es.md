@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CGCJGP9-es WOMGF barbero Tijeras Cortar Pelo tijeras de peluquería...'
+sku: 'B08CGCJGP9-es'
 tags: [ 'tijeras', ]
 actualPrice: 11.99 EUR
 currency: EUR

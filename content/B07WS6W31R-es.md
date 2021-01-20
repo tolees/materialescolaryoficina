@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WS6W31R-es CiSiRUN Lápiz Táctil Lápiz iPad Lápiz para Pantalla Táctil...'
+sku: 'B07WS6W31R-es'
 tags: [ 'lápiz', ]
 actualPrice: 29.99 EUR
 currency: EUR

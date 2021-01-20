@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LGZ7R0-es Mammut Classic Bumbag 0001 Mochila Unisex Adultos Negro...'
+sku: 'B004LGZ7R0-es'
 tags: [ 'mochila', ]
 actualPrice: 15.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DPCMVP-es Cuaderno Inteligente Reutilizable - NEWYES Libreta de B5...'
+sku: 'B079DPCMVP-es'
 tags: [ 'bolígrafo', ]
 actualPrice: 18.99 EUR
 currency: EUR

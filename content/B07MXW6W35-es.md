@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXW6W35-es Desigual Backpack Liberté Patch Baza Mochila moderna. para...'
+sku: 'B07MXW6W35-es'
 tags: [ 'backpack','mochila', ]
 actualPrice: 59.2 EUR
 currency: EUR

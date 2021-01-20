@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005I4ESPG-es Pentel Ain Stein - Minas para portaminas 0.7 x 60 mm...'
+sku: 'B005I4ESPG-es'
 tags: [ 'pentel','portaminas', ]
 actualPrice: 2.73 EUR
 currency: EUR

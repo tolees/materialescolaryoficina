@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KY8WS1L-es Eastpak ORBIT Mochila tipo casual 33.5 x 23 x 15 cm 10...'
+sku: 'B07KY8WS1L-es'
 tags: [ 'mochila', ]
 actualPrice: 22.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQW9J99-es Mochila para portátil Mochila para Estudiantes Mochila...'
+sku: 'B07WQW9J99-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 15.98 EUR
 currency: EUR

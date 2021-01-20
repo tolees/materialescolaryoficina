@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZFH7BB-es Trendy New Shoulder Messenger Bag Mochila Mujer Pu Leather...'
+sku: 'B08BZFH7BB-es'
 tags: [ 'mochila', ]
 actualPrice: 5.4 EUR
 currency: EUR

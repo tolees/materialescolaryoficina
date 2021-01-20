@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQYX6Y4-es Diesel BOLD BACK II Mochila para Hombre Negro Black...'
+sku: 'B07KQYX6Y4-es'
 tags: [ 'mochila', ]
 actualPrice: 65.0 EUR
 currency: EUR

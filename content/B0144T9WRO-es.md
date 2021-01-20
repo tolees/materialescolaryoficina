@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0144T9WRO-es APLI Kids - Bolsa de gomets 3 hojas La primavera'
+sku: 'B0144T9WRO-es'
 tags: [ 'apli', ]
 actualPrice: 2.0 EUR
 currency: EUR

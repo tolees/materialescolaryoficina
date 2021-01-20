@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5FWBMQ-es Sokey - Protector de esquinas protección para niños y...'
+sku: 'B07X5FWBMQ-es'
 tags: [ 'cinta','adhesiva', ]
 actualPrice: 13.99 EUR
 currency: EUR

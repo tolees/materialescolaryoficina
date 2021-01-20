@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQLZ46C-es Depesche 10709 Magic Scratch Book Miss Melody - Libro para...'
+sku: 'B07VQLZ46C-es'
 tags: [ 'colorear', ]
 actualPrice: 7.25 EUR
 currency: EUR

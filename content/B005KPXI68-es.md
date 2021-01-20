@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005KPXI68-es Rotuladores Mágicos Magic Markers - 20 Uds'
+sku: 'B005KPXI68-es'
 tags: [ 'rotuladores', ]
 actualPrice: 5.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QSHVOC2-es Nike AllegianceFC Barcelona Shld Cmpct Ba Mochila Hombre...'
+sku: 'B00QSHVOC2-es'
 tags: [ 'mochila', ]
 actualPrice: 23.68 EUR
 currency: EUR

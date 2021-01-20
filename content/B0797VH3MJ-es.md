@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797VH3MJ-es Kit Cuidado Set Barba con Libre Champu Barba Peine Barba...'
+sku: 'B0797VH3MJ-es'
 tags: [ 'tijeras', ]
 actualPrice: 16.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JKT2M4O-es Rotulador Fudenosuke Doble Punta Gris Y Negro Tombow'
+sku: 'B00JKT2M4O-es'
 tags: [ 'rotulador', ]
 actualPrice: 6.05 EUR
 currency: EUR

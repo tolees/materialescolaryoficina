@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y2ZFL6R-es Inateck 40L-44L Mochila de Viaje Cabina Mochila de...'
+sku: 'B07Y2ZFL6R-es'
 tags: [ 'mochila', ]
 actualPrice: 52.99 EUR
 currency: EUR

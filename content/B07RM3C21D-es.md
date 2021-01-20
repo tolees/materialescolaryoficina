@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM3C21D-es Mochila Mochila Escolar Mochila Deportiva Mochila para el...'
+sku: 'B07RM3C21D-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 13.5 EUR
 currency: EUR

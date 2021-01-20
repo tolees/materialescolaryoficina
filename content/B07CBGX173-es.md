@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBGX173-es American Tourister AT Work - Mochila Coated tipo casual...'
+sku: 'B07CBGX173-es'
 tags: [ 'mochila', ]
 actualPrice: 27.0 EUR
 currency: EUR

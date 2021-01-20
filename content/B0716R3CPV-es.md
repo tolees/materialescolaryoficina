@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716R3CPV-es Bourjois Khol & Contour Lápiz de ojos Tono 3 Misti-gris -...'
+sku: 'B0716R3CPV-es'
 tags: [ 'lápiz', ]
 actualPrice: 1.99 EUR
 currency: EUR

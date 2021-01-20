@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G285ZKM-es 10 Dry Erase Pocket | Fundas Reutilizables Fichas Papel A4...'
+sku: 'B07G285ZKM-es'
 tags: [ 'escolar','material','escolar','rotuladores', ]
 actualPrice: 14.9 EUR
 currency: EUR

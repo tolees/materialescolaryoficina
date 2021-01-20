@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0142OHJJY-es Mochila Cámara Réflex - [Multi-Capa] Mochila Fotografía...'
+sku: 'B0142OHJJY-es'
 tags: [ 'mochila', ]
 actualPrice: 50.99 EUR
 currency: EUR

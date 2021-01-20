@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L9YYO7G-es BIC Plastidecor Peques Estuche Con 12 Ceras Tamaño Único...'
+sku: 'B00L9YYO7G-es'
 tags: [ 'plastidecor', ]
 actualPrice: 1.86 EUR
 currency: EUR

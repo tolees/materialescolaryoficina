@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQGSFY9-es Play-Doh Fábrica De Palomitas Hasbro E5110EU4 color/modelo...'
+sku: 'B07KQGSFY9-es'
 tags: [ 'play-doh', ]
 actualPrice: 15.95 EUR
 currency: EUR

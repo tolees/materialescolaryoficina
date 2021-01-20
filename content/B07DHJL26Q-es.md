@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHJL26Q-es Mochila de Portáti Hombre Mujer Mochila con funda...'
+sku: 'B07DHJL26Q-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 12.99 EUR
 currency: EUR

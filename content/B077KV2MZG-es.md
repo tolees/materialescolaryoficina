@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077KV2MZG-es Mimoo Pintura Facial Ninos 16 Colores Halloween Niño Kit...'
+sku: 'B077KV2MZG-es'
 tags: [ 'lápices','lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR

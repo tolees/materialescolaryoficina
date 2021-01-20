@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BJ2RK0A-es Mochila Infantil Star Wars'
+sku: 'B01BJ2RK0A-es'
 tags: [ 'mochila', ]
 actualPrice: 28.87 EUR
 currency: EUR

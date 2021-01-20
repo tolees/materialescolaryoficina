@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSCQTWG-es Coronel Tapiocca Mochila Red Azul Hombre'
+sku: 'B07SSCQTWG-es'
 tags: [ 'mochila', ]
 actualPrice: 29.9 EUR
 currency: EUR

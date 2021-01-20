@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLRBQ48-es BIC Intensity Fine - Blíster de 20 unidades rotulador...'
+sku: 'B07CLRBQ48-es'
 tags: [ 'rotulador', ]
 actualPrice: 9.99 EUR
 currency: EUR

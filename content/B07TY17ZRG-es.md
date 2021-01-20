@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY17ZRG-es Parker Jotter Originals Rotulador Roller Acabado Amarillo...'
+sku: 'B07TY17ZRG-es'
 tags: [ 'rotulador', ]
 actualPrice: 8.51 EUR
 currency: EUR

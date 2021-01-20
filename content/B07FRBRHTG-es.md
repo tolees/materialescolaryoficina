@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FRBRHTG-es Club Atlético de Madrid Atlético de Madrid Mochila con...'
+sku: 'B07FRBRHTG-es'
 tags: [ 'mochila', ]
 actualPrice: 35.0 EUR
 currency: EUR

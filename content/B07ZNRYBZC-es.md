@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNRYBZC-es YAMTION Mochila Mujer Mochilas Escolares Niña Mochila para...'
+sku: 'B07ZNRYBZC-es'
 tags: [ 'mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR

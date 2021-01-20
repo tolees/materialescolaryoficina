@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFJFG71-es Mochila Enso Dreams 40cm'
+sku: 'B07BFJFG71-es'
 tags: [ 'mochila', ]
 actualPrice: 31.45 EUR
 currency: EUR

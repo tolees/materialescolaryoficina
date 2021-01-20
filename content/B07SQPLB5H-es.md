@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQPLB5H-es Pepe Jeans Calvin Mochila Adaptable Multicolor 44 cm'
+sku: 'B07SQPLB5H-es'
 tags: [ 'mochila', ]
 actualPrice: 26.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MAGPD18-es Pilot Negro frixion Punta Redonda borrable bolígrafos...'
+sku: 'B00MAGPD18-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 9.1 EUR
 currency: EUR

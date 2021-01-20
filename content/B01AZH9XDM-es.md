@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AZH9XDM-es APLI 13825 - Cinta de pintor 48 mm x 45 m pack de 6 rollos'
+sku: 'B01AZH9XDM-es'
 tags: [ 'apli', ]
 actualPrice: 10.38 EUR
 currency: EUR

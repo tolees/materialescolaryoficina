@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081ZST46N-es CestMall Scratch Art Hojas Dibujo Scratch Láminas para...'
+sku: 'B081ZST46N-es'
 tags: [ 'lápices','lápices', ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q7VF2LZ-es Bedee - Afilador de cuchillos 3 pasos diamante cerámica...'
+sku: 'B07Q7VF2LZ-es'
 tags: [ 'tijeras', ]
 actualPrice: 9.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFB47SW-es Scratch Art JBSON 30 Hojas Dibujo Scratch Láminas para...'
+sku: 'B07KFB47SW-es'
 tags: [ 'lápices','lápices', ]
 actualPrice: 15.89 EUR
 currency: EUR

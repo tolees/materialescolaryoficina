@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OZQAYG-es Rotulador STABILO Pen 68 - Estuche premium Colorparade con...'
+sku: 'B000OZQAYG-es'
 tags: [ 'stabilo','rotulador','stabilo', ]
 actualPrice: 18.23 EUR
 currency: EUR

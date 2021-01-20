@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BC3LQTT-es Pistola de pegamento Dweyka 50 W mini pistola de pegamento...'
+sku: 'B08BC3LQTT-es'
 tags: [ 'barras','de','pegamento', ]
 actualPrice: 17.51 EUR
 currency: EUR

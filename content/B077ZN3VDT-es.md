@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZN3VDT-es MagiDeal Accesorio para Tablero LCD de Notas Escritura...'
+sku: 'B077ZN3VDT-es'
 tags: [ 'lápiz', ]
 actualPrice: 1.99 EUR
 currency: EUR

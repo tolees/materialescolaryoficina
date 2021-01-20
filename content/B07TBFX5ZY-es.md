@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBFX5ZY-es Quiksilver Burst - Mochila Mediana Para Hombre Mochila...'
+sku: 'B07TBFX5ZY-es'
 tags: [ 'mochila', ]
 actualPrice: 32.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LLMX62-es STAEDTLER FIMO soft ofenhärtende Modelliermasse Kartonetui...'
+sku: 'B000LLMX62-es'
 tags: [ 'fimo', ]
 actualPrice: 20.41 EUR
 currency: EUR

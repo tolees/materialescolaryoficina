@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CFHKNQ-es Samsonite Spectrolite 2.0 35 8 cm 14.1" Mochila Negro Gris...'
+sku: 'B076CFHKNQ-es'
 tags: [ 'mochila', ]
 actualPrice: 99.16 EUR
 currency: EUR

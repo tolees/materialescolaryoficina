@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0007OEE1K-es Rotulador STABILO Pen 68 - Estuche con 10 colores'
+sku: 'B0007OEE1K-es'
 tags: [ 'stabilo','rotulador','stabilo', ]
 actualPrice: 6.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGCPNPX-es Silver Tulip Mochila para portátil Universidad Hombros...'
+sku: 'B07LGCPNPX-es'
 tags: [ 'mochila', ]
 actualPrice: 21.63 EUR
 currency: EUR

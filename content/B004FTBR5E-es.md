@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004FTBR5E-es BIC Round Stic - Paquete de 60 bolígrafos reciclado color...'
+sku: 'B004FTBR5E-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 10.81 EUR
 currency: EUR

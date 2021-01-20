@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KVTP11C-es 120 Lápices de Colores Numerado de Zenacolor - 120 Colores...'
+sku: 'B01KVTP11C-es'
 tags: [ 'colorear','lápices','lápices', ]
 actualPrice: 27.97 EUR
 currency: EUR

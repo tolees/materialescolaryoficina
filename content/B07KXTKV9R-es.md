@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXTKV9R-es Eastpak Orbit Mini Mochila 34 cm 10 L Azul Cloud Navy'
+sku: 'B07KXTKV9R-es'
 tags: [ 'mochila', ]
 actualPrice: 21.0 EUR
 currency: EUR

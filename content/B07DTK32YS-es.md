@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTK32YS-es Mochila Pepe Jeans Olaia doble compartimento azul 45cm'
+sku: 'B07DTK32YS-es'
 tags: [ 'mochila', ]
 actualPrice: 35.0 EUR
 currency: EUR

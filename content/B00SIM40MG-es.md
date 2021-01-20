@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SIM40MG-es Skip Hop Zoo Pack - Mochila diseño unicorn color turquesa'
+sku: 'B00SIM40MG-es'
 tags: [ 'mochila', ]
 actualPrice: 14.13 EUR
 currency: EUR

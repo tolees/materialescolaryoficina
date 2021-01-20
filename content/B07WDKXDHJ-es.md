@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDKXDHJ-es Vans VN0A3UI6 - Mochila de Sintético mujer Multicolor...'
+sku: 'B07WDKXDHJ-es'
 tags: [ 'mochila', ]
 actualPrice: 20.0 EUR
 currency: EUR

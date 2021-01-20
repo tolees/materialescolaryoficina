@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071RN51KN-es UCEC® Set de 6 Tijeras Coloridas Decorativas Tijeras...'
+sku: 'B071RN51KN-es'
 tags: [ 'tijeras', ]
 actualPrice: 8.54 EUR
 currency: EUR

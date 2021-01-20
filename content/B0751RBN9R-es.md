@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0751RBN9R-es iskn The Slate 2+ Lápiz y Papel Tableta gráfica'
+sku: 'B0751RBN9R-es'
 tags: [ 'lápiz', ]
 actualPrice: 122.35 EUR
 currency: EUR

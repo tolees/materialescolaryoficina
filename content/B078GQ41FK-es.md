@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GQ41FK-es APLI Kids- Bloc 16525'
+sku: 'B078GQ41FK-es'
 tags: [ 'apli', ]
 actualPrice: 5.13 EUR
 currency: EUR

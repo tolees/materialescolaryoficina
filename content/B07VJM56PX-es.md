@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJM56PX-es Acmebon Mochila Escolar para Niñas Adolescentes con Bolsa...'
+sku: 'B07VJM56PX-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 29.99 EUR
 currency: EUR

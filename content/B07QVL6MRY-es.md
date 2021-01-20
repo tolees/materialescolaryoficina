@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVL6MRY-es KIWI Design dji Osmo Pocket Accesorios - Extension...'
+sku: 'B07QVL6MRY-es'
 tags: [ 'mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR

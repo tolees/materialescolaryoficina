@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9WYDH2-es Panamami Conjunto de moldes de Herramientas de Arcilla de...'
+sku: 'B07V9WYDH2-es'
 tags: [ 'plastilina', ]
 actualPrice: 7.55 EUR
 currency: EUR

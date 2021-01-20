@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMH3KGR-es CARIOCA Oops Retráctil Azul | Set Bolígrafos Borrables...'
+sku: 'B07VMH3KGR-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 15.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019WBKF7A-es L Oreal Paris Infalible Liner 24Hrs Lápiz Automático Gris...'
+sku: 'B019WBKF7A-es'
 tags: [ 'lápiz', ]
 actualPrice: 3.75 EUR
 currency: EUR

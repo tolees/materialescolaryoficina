@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0117PU0KQ-es 3 Claveles Tijeras Costura y Multiusos Profesional Mango...'
+sku: 'B0117PU0KQ-es'
 tags: [ 'tijeras', ]
 actualPrice: 12.7 EUR
 currency: EUR

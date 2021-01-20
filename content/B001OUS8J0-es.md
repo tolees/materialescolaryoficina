@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OUS8J0-es Staedtler Mars Lumograph 100 G12 S. Pack de 12 lápices de...'
+sku: 'B001OUS8J0-es'
 tags: [ 'lápices','lápices', ]
 actualPrice: 13.84 EUR
 currency: EUR

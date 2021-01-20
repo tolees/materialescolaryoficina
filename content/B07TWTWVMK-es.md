@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWTWVMK-es TOMSHOO Mochila de hidratación Mochila con vejiga de Agua...'
+sku: 'B07TWTWVMK-es'
 tags: [ 'mochila', ]
 actualPrice: 22.8 EUR
 currency: EUR

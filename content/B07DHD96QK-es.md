@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHD96QK-es KUONIIY Tijeras Hoja Recubierta de Titanio Súper Afilada...'
+sku: 'B07DHD96QK-es'
 tags: [ 'tijeras', ]
 actualPrice: 12.99 EUR
 currency: EUR

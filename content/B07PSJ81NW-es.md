@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJ81NW-es Kipling City Pack S Mochila para Mujer Multicolor Navy...'
+sku: 'B07PSJ81NW-es'
 tags: [ 'mochila', ]
 actualPrice: 33.93 EUR
 currency: EUR

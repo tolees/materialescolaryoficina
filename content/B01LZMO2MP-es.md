@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZMO2MP-es Marcador Pastel STABILO BOSS Original - Estuche con 4...'
+sku: 'B01LZMO2MP-es'
 tags: [ 'stabilo','stabilo', ]
 actualPrice: 3.89 EUR
 currency: EUR

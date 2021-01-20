@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT4BTEI-es GRÜNTEK Tijeras de podar y cortar Flores Frutas y Verduras...'
+sku: 'B01MT4BTEI-es'
 tags: [ 'tijeras', ]
 actualPrice: 8.99 EUR
 currency: EUR

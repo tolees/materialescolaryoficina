@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVSDJ12-es Cinta adhesiva antiarañazos para gatos para muebles...'
+sku: 'B07TVSDJ12-es'
 tags: [ 'cinta','adhesiva', ]
 actualPrice: 13.88 EUR
 currency: EUR

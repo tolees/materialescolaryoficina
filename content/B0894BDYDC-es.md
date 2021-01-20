@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894BDYDC-es Mochila Hombre Mochila Escolares Juveniles Mochila...'
+sku: 'B0894BDYDC-es'
 tags: [ 'mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881GN3RC-es Tijeras Peluquería Profesional Dhaose Tijeras de Salón...'
+sku: 'B0881GN3RC-es'
 tags: [ 'tijeras', ]
 actualPrice: 10.99 EUR
 currency: EUR

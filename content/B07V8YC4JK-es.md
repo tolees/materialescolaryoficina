@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8YC4JK-es Tommy Hilfiger - Th Downtown Backpack Mochilas Hombre...'
+sku: 'B07V8YC4JK-es'
 tags: [ 'backpack', ]
 actualPrice: 108.54 EUR
 currency: EUR

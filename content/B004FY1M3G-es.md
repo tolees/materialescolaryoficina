@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004FY1M3G-es Max Factor Xpert Eyeliner waterproof Lápiz de Ojos Tono 01...'
+sku: 'B004FY1M3G-es'
 tags: [ 'lápiz', ]
 actualPrice: 5.65 EUR
 currency: EUR

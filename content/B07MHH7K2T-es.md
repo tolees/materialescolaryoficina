@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHH7K2T-es iSuperb Bolsas de Cuerdas para Viajes Gimnasio Mochila con...'
+sku: 'B07MHH7K2T-es'
 tags: [ 'mochila', ]
 actualPrice: 8.97 EUR
 currency: EUR

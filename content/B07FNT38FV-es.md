@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNT38FV-es AmazonBasics Mochila para todos los días azul marino'
+sku: 'B07FNT38FV-es'
 tags: [ 'mochila', ]
 actualPrice: 7.64 EUR
 currency: EUR

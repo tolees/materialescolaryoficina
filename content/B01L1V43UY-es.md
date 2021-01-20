@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L1V43UY-es Wacom CS-610CB Bamboo Stylus Fineline 3 Lápiz digital para...'
+sku: 'B01L1V43UY-es'
 tags: [ 'lápiz', ]
 actualPrice: 34.69 EUR
 currency: EUR

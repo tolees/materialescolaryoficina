@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KX3D33J-es Karactermania Mickey Mouse True Mochila Tipo Casual 31 cm...'
+sku: 'B07KX3D33J-es'
 tags: [ 'mochila', ]
 actualPrice: 29.5 EUR
 currency: EUR

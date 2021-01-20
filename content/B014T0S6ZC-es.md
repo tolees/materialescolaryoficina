@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014T0S6ZC-es Pritt Cola blanca universal de secado transparente y...'
+sku: 'B014T0S6ZC-es'
 tags: [ 'cola','blanca','pritt', ]
 actualPrice: 3.0 EUR
 currency: EUR

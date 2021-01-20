@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Z67SHS-es Mochila antirrobo para computadora portátil /portátil y...'
+sku: 'B079Z67SHS-es'
 tags: [ 'mochila', ]
 actualPrice: 23.99 EUR
 currency: EUR

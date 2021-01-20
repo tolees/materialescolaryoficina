@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LMCFSV-es MKTOSASA - Mochila Multiusos en Resistente poliéster 600D...'
+sku: 'B085LMCFSV-es'
 tags: [ 'mochila', ]
 actualPrice: 34.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0159DRWPI-es Faber Castell B-136300 - Portaminas TK-Fine con goma de...'
+sku: 'B0159DRWPI-es'
 tags: [ 'portaminas','faber','castell','goma','de','borrar', ]
 actualPrice: 3.71 EUR
 currency: EUR

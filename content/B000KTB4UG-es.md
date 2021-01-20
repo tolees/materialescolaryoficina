@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KTB4UG-es BIC Kids Evolution Triangle ECOlutions Lápices de colores...'
+sku: 'B000KTB4UG-es'
 tags: [ 'lápices','lápices', ]
 actualPrice: 3.49 EUR
 currency: EUR

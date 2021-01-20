@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THV2KWX-es Armani Exchange - Liz Backpack Mochilas Mujer Negro Nero...'
+sku: 'B07THV2KWX-es'
 tags: [ 'backpack', ]
 actualPrice: 55.34 EUR
 currency: EUR

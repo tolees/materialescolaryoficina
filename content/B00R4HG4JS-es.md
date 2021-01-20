@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R4HG4JS-es Marcador fluorescente STABILO swing cool - Estuche con 6...'
+sku: 'B00R4HG4JS-es'
 tags: [ 'stabilo','stabilo', ]
 actualPrice: 6.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079LG18LS-es AmazonBasics - Mochila compacta de viaje Morado para...'
+sku: 'B079LG18LS-es'
 tags: [ 'mochila', ]
 actualPrice: 54.15 EUR
 currency: EUR

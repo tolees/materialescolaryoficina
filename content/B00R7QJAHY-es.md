@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R7QJAHY-es Wacom DTH-2700 Cintiq 27 QHD Touch - Pantalla Creativa...'
+sku: 'B00R7QJAHY-es'
 tags: [ 'lápiz', ]
 actualPrice: 2160.76 EUR
 currency: EUR

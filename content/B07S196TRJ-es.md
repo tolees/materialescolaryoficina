@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S196TRJ-es chaqlin - Juego de 3 bolsas de escuela para niños mochila...'
+sku: 'B07S196TRJ-es'
 tags: [ 'lápices','mochila','lápices', ]
 actualPrice: 22.65 EUR
 currency: EUR

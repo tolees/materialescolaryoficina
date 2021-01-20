@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X4W6FSR-es Mochilas Infantiles Mochilas para Niños Niñas Bolsa de...'
+sku: 'B07X4W6FSR-es'
 tags: [ 'mochila', ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XXD9HQS-es Arteza Organizadores de escritorio en color gris oscuro |...'
+sku: 'B07XXD9HQS-es'
 tags: [ 'bandeja','de','correo', ]
 actualPrice: 25.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5QZFRL-es Puma Phase Backpack Backpack Unisex adulto Puma Black OSFA'
+sku: 'B07D5QZFRL-es'
 tags: [ 'backpack', ]
 actualPrice: 15.36 EUR
 currency: EUR

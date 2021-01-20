@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084FXVKVW-es K&F Concept Mochila Fotografia para Cámara Reflex con...'
+sku: 'B084FXVKVW-es'
 tags: [ 'mochila', ]
 actualPrice: 59.99 EUR
 currency: EUR

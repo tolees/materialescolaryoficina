@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGP8ZZN-es Parker Jotter Originals colección de bolígrafos acabado...'
+sku: 'B07MGP8ZZN-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 6.21 EUR
 currency: EUR

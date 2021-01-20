@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRWQZX7-es Mardingtop 65/75L Mochila Táctica Militar Mochila de...'
+sku: 'B07RRWQZX7-es'
 tags: [ 'mochila', ]
 actualPrice: 71.38 EUR
 currency: EUR

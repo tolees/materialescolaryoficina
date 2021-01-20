@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRFNRM2-es homgeek Cuchillos de Cocina Juego de Cuchillos Profesional...'
+sku: 'B07DRFNRM2-es'
 tags: [ 'tijeras', ]
 actualPrice: 59.99 EUR
 currency: EUR

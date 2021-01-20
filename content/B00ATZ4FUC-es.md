@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ATZ4FUC-es Alpino AL000656 - Lápices de colores'
+sku: 'B00ATZ4FUC-es'
 tags: [ 'alpino','lápices','lápices', ]
 actualPrice: 3.39 EUR
 currency: EUR

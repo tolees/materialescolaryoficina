@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLMRQBP-es Carioca Set Baby 2+ | 53222 - Kit Colores: Rotuladores...'
+sku: 'B07VLMRQBP-es'
 tags: [ 'lápices','lápices','rotuladores', ]
 actualPrice: 19.42 EUR
 currency: EUR

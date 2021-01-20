@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLRJZVM-es ShiyiUP Pistola de Agua con Depósito Mochila'
+sku: 'B07DLRJZVM-es'
 tags: [ 'mochila', ]
 actualPrice: 6.99 EUR
 currency: EUR

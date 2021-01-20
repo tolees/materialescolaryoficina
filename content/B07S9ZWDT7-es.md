@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9ZWDT7-es Maui & Sons Hawai Mochila 40 cm + estuche escolar color...'
+sku: 'B07S9ZWDT7-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 14.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OUV1V4E-es Bourjois Sourcil Precision Lápiz de cejas Tono 7 Noisette...'
+sku: 'B00OUV1V4E-es'
 tags: [ 'lápiz', ]
 actualPrice: 1.5 EUR
 currency: EUR

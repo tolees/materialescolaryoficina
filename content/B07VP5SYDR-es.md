@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VP5SYDR-es Mochila Casual Pelo Lion King'
+sku: 'B07VP5SYDR-es'
 tags: [ 'mochila', ]
 actualPrice: 20.8 EUR
 currency: EUR

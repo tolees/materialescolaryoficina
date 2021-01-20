@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J6DAEC6-es Pritt Barra Adhesiva pegamento infantil seguro para niños...'
+sku: 'B00J6DAEC6-es'
 tags: [ 'barra','adhesiva','escolar','pritt', ]
 actualPrice: 15.64 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017TZM0YM-es Winsor & Newton - Bloc de 50 hojas de papel para...'
+sku: 'B017TZM0YM-es'
 tags: [ 'rotuladores', ]
 actualPrice: 10.66 EUR
 currency: EUR

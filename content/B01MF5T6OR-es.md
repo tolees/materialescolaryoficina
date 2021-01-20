@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MF5T6OR-es Parker Urban 1931578 - Bolígrafo purpurina plateada...'
+sku: 'B01MF5T6OR-es'
 tags: [ 'bolígrafo', ]
 actualPrice: 29.25 EUR
 currency: EUR

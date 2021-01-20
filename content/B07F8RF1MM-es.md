@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8RF1MM-es Samsung - Lápiz capacitivo S-Pen para Samsung Galaxy Note...'
+sku: 'B07F8RF1MM-es'
 tags: [ 'lápiz', ]
 actualPrice: 29.2 EUR
 currency: EUR

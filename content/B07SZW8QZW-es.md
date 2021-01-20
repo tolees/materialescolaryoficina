@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZW8QZW-es Targus Sol-Lite - Mochila Para Portátil Azul Marino'
+sku: 'B07SZW8QZW-es'
 tags: [ 'mochila', ]
 actualPrice: 42.0 EUR
 currency: EUR

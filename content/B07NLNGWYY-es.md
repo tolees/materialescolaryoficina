@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLNGWYY-es Artesania Cerda Mochila Infantil 3D Avengers Capitan...'
+sku: 'B07NLNGWYY-es'
 tags: [ 'mochila', ]
 actualPrice: 13.38 EUR
 currency: EUR

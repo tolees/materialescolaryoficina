@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZP9DDX-es Disney Mochila para Niños Coco'
+sku: 'B07TZP9DDX-es'
 tags: [ 'mochila', ]
 actualPrice: 11.95 EUR
 currency: EUR

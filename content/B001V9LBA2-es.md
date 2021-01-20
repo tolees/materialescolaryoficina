@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001V9LBA2-es Rimmel London Exaggerate lápiz de ojos a prueba de agua -...'
+sku: 'B001V9LBA2-es'
 tags: [ 'lápiz', ]
 actualPrice: 1.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MWELR7W-es NAKOSITE Ruta Perfecta es un Podómetro en 3D con Correa y...'
+sku: 'B00MWELR7W-es'
 tags: [ 'calculadora', ]
 actualPrice: 12.99 EUR
 currency: EUR

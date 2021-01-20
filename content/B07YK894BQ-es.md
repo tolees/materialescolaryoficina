@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YK894BQ-es Pawhut Transportin Carrito Perro 2 en 1 Mochila Carrito...'
+sku: 'B07YK894BQ-es'
 tags: [ 'mochila', ]
 actualPrice: 60.34 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QMWDP5-es Huyeta Stylus Pen para Apple Pencil Lápiz Stylus...'
+sku: 'B083QMWDP5-es'
 tags: [ 'lápiz', ]
 actualPrice: 24.99 EUR
 currency: EUR

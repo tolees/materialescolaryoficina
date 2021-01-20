@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B7X4HOS-es Dimples Excel 2 in 1 Precisión Lápiz para Tactil Tablet...'
+sku: 'B01B7X4HOS-es'
 tags: [ 'lápiz', ]
 actualPrice: 12.99 EUR
 currency: EUR

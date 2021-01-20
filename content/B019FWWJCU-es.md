@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019FWWJCU-es Lápices Colore. Lápices con goma de borrar grafito HB...'
+sku: 'B019FWWJCU-es'
 tags: [ 'lápices','goma','de','borrar','lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR

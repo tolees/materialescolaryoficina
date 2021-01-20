@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R2JDHQ7-es WLZP Mochila Bicicleta Bolsa de Agua de Súper Ligero de 2L...'
+sku: 'B07R2JDHQ7-es'
 tags: [ 'mochila', ]
 actualPrice: 31.99 EUR
 currency: EUR

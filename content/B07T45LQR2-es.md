@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T45LQR2-es Laluztop Pistola de Silicona Caliente 50W Pistola de...'
+sku: 'B07T45LQR2-es'
 tags: [ 'barras','de','pegamento', ]
 actualPrice: 11.0 EUR
 currency: EUR

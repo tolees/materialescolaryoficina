@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AZ0VTX2-es Trunki PaddlePak - Mochila infantil impermeable para...'
+sku: 'B00AZ0VTX2-es'
 tags: [ 'mochila', ]
 actualPrice: 11.73 EUR
 currency: EUR

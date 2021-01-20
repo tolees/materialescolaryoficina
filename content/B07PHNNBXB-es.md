@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHNNBXB-es Samsonite Checkmate - Mochila para portátil 44 cm Gris...'
+sku: 'B07PHNNBXB-es'
 tags: [ 'mochila', ]
 actualPrice: 205.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VTPOH7M-es HP Odyssey - Mochila para portátiles de hasta 15.6" de...'
+sku: 'B00VTPOH7M-es'
 tags: [ 'mochila', ]
 actualPrice: 41.31 EUR
 currency: EUR

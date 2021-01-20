@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LLMNTG-es MKTOSASA - Mochila de Seguridad con diseño Urbano en...'
+sku: 'B085LLMNTG-es'
 tags: [ 'mochila', ]
 actualPrice: 27.85 EUR
 currency: EUR

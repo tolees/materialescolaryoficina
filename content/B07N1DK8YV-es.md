@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1DK8YV-es Kipling SEOUL PACKABLE - Mochila escolar 22.5 liters...'
+sku: 'B07N1DK8YV-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 25.99 EUR
 currency: EUR

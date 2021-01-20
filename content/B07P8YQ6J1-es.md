@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8YQ6J1-es Cartera Escolar Enso Trust Me'
+sku: 'B07P8YQ6J1-es'
 tags: [ 'escolar', ]
 actualPrice: 28.0 EUR
 currency: EUR

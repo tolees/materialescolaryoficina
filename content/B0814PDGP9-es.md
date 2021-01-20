@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814PDGP9-es Candado de Combinación DazSpirit 3 dígitos Candado de...'
+sku: 'B0814PDGP9-es'
 tags: [ 'mochila', ]
 actualPrice: 10.95 EUR
 currency: EUR

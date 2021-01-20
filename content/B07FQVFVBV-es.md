@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQVFVBV-es Targus Groove X2 Compact Carbón Vegetal Mochila - Mochila...'
+sku: 'B07FQVFVBV-es'
 tags: [ 'mochila', ]
 actualPrice: 29.97 EUR
 currency: EUR

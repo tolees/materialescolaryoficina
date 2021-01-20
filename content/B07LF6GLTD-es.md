@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF6GLTD-es BIC Gel-ocity Quick Dry - Blíster de 6 unidades bolígrafos...'
+sku: 'B07LF6GLTD-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 10.5 EUR
 currency: EUR

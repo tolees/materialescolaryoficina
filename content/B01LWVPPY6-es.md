@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWVPPY6-es Marcador STABILO BOSS Original Pastel - Caja con 10...'
+sku: 'B01LWVPPY6-es'
 tags: [ 'stabilo','stabilo', ]
 actualPrice: 7.79 EUR
 currency: EUR

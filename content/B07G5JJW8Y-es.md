@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5JJW8Y-es Forever Ninette Origin-Cute Mochila Tipo Casual 44...'
+sku: 'B07G5JJW8Y-es'
 tags: [ 'mochila', ]
 actualPrice: 33.2 EUR
 currency: EUR

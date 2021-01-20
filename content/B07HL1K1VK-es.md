@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL1K1VK-es Head Tour Team Backpack Bolsa de Tenis Adultos Unisex...'
+sku: 'B07HL1K1VK-es'
 tags: [ 'backpack', ]
 actualPrice: 28.9 EUR
 currency: EUR

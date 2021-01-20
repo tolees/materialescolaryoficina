@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00191RXUY-es Herlitz 10801710 - Tijeras escolar con punta redonda...'
+sku: 'B00191RXUY-es'
 tags: [ 'tijeras','escolar', ]
 actualPrice: 1.35 EUR
 currency: EUR

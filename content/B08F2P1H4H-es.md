@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F2P1H4H-es Smatoy Organizador de Escritorio Papelería de Madera para...'
+sku: 'B08F2P1H4H-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 20.99 EUR
 currency: EUR

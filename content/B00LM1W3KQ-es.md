@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LM1W3KQ-es Conté Colouring rotuladores - colores Surtidos Caja...'
+sku: 'B00LM1W3KQ-es'
 tags: [ 'rotuladores', ]
 actualPrice: 5.47 EUR
 currency: EUR

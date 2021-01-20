@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG5FSRT-es WowPrint Animal Dragonfly - Mochila para libros mochila...'
+sku: 'B07HG5FSRT-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 24.34 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KWNWJTE-es Huntvp Mochila Táctica de Nylon 40L Bolsa de Asalto Estilo...'
+sku: 'B01KWNWJTE-es'
 tags: [ 'mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR

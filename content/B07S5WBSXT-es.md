@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5WBSXT-es Karactermania Harry Potter Relic-Soft Rucksack Klein...'
+sku: 'B07S5WBSXT-es'
 tags: [ 'mochila', ]
 actualPrice: 24.4 EUR
 currency: EUR

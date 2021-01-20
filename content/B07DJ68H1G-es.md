@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ68H1G-es Ohuhu - 60 rotuladores de acuarela con doble punta punta...'
+sku: 'B07DJ68H1G-es'
 tags: [ 'colorear','rotulador','rotuladores', ]
 actualPrice: 19.99 EUR
 currency: EUR

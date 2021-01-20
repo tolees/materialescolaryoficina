@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9VXGM5-es Parfois - Mochila Estampada - Mujeres - Tallas L - Crudo'
+sku: 'B07X9VXGM5-es'
 tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR

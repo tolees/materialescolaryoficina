@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7WQ1F1-es AmazonBasics - Mochila de deporte Azul'
+sku: 'B07D7WQ1F1-es'
 tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR

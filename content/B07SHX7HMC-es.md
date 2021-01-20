@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHX7HMC-es Parfois - Mochila con Estampado De Fruta - Mujeres -...'
+sku: 'B07SHX7HMC-es'
 tags: [ 'mochila', ]
 actualPrice: 15.99 EUR
 currency: EUR

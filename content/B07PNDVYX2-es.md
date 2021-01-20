@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNDVYX2-es NACATIN Mochila de Senderismo Mochila de Montañismo 70L...'
+sku: 'B07PNDVYX2-es'
 tags: [ 'mochila', ]
 actualPrice: 37.99 EUR
 currency: EUR

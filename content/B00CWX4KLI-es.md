@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CWX4KLI-es Pilot Frixion - Pack de 12 rotuladores Multicolor'
+sku: 'B00CWX4KLI-es'
 tags: [ 'rotuladores', ]
 actualPrice: 13.75 EUR
 currency: EUR

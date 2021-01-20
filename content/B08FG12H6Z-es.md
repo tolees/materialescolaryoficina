@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FG12H6Z-es Voova Mochila de Pañales para Mamá Papá con Cambiar de Mat...'
+sku: 'B08FG12H6Z-es'
 tags: [ 'mochila', ]
 actualPrice: 33.99 EUR
 currency: EUR

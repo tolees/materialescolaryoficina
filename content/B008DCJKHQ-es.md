@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008DCJKHQ-es Kaicut PT-0017 - Blister Tijera Escolar surtido'
+sku: 'B008DCJKHQ-es'
 tags: [ 'escolar', ]
 actualPrice: 3.49 EUR
 currency: EUR

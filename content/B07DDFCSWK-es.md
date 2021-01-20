@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDFCSWK-es Puma 75581 Backpack Unisex Adulto Black OSFA'
+sku: 'B07DDFCSWK-es'
 tags: [ 'backpack', ]
 actualPrice: 21.49 EUR
 currency: EUR

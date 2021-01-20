@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5ZT3X3-es Calculadoras Científicas - Calculadora Científica...'
+sku: 'B07W5ZT3X3-es'
 tags: [ 'calculadora','escolar', ]
 actualPrice: 14.99 EUR
 currency: EUR

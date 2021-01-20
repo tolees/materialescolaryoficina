@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDYBL3G-es Voilamart Juego de Herramientas para Bonsái 6 Piezas con...'
+sku: 'B07FDYBL3G-es'
 tags: [ 'tijeras', ]
 actualPrice: 29.99 EUR
 currency: EUR

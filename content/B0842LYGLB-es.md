@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0842LYGLB-es Bodyguard Bolsa para cámara DSLR 2en1 y Mochila...'
+sku: 'B0842LYGLB-es'
 tags: [ 'mochila', ]
 actualPrice: 24.95 EUR
 currency: EUR

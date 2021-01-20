@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2Q4QM8-es Carretilla Plegable Wilbest Carritos Porta Equipajes con 4...'
+sku: 'B07C2Q4QM8-es'
 tags: [ 'mochila', ]
 actualPrice: 32.99 EUR
 currency: EUR

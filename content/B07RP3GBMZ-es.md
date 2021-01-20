@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP3GBMZ-es Calvin Klein - Punched Round Backpack Shoppers y bolsos de...'
+sku: 'B07RP3GBMZ-es'
 tags: [ 'backpack', ]
 actualPrice: 50.02 EUR
 currency: EUR

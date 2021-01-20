@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084WQQFH4-es 1 unids/Lote Diseño de Cabeza Redonda Lápiz de Metal...'
+sku: 'B084WQQFH4-es'
 tags: [ 'lápiz', ]
 actualPrice: 0.99 EUR
 currency: EUR

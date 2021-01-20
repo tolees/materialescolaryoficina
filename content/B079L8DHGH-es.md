@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079L8DHGH-es AmazonBasics - Mochila compacta de viaje Negro para viajes...'
+sku: 'B079L8DHGH-es'
 tags: [ 'mochila', ]
 actualPrice: 42.25 EUR
 currency: EUR

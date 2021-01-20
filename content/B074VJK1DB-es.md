@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074VJK1DB-es Parker Jotter London - Paquete de recambios Discovery tres...'
+sku: 'B074VJK1DB-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 12.44 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHK25JN-es Mochila de Portáti Hap Tim Hombre Mujer Mochila con Funda...'
+sku: 'B07DHK25JN-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 12.99 EUR
 currency: EUR

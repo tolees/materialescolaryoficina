@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SD5C27I-es Faber-Castell 32722-8 - Compás de ajuste rápido con...'
+sku: 'B00SD5C27I-es'
 tags: [ 'faber-castell', ]
 actualPrice: 9.9 EUR
 currency: EUR

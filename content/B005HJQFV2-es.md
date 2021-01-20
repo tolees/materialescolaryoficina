@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HJQFV2-es Staedtler 334 SB6CS1. Rotuladores de punta fina Triplus...'
+sku: 'B005HJQFV2-es'
 tags: [ 'rotuladores', ]
 actualPrice: 5.64 EUR
 currency: EUR

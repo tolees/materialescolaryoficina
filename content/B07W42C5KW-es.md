@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W42C5KW-es Fivejoy Agua Dibujo Pintura 150 x 100 cm Agua Doodle...'
+sku: 'B07W42C5KW-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 23.99 EUR
 currency: EUR

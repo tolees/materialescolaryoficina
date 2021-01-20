@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792WHM1H-es Cabin Max Metz Mochila de Viaje Equipaje de Mano Aprobada...'
+sku: 'B0792WHM1H-es'
 tags: [ 'mochila', ]
 actualPrice: 19.95 EUR
 currency: EUR

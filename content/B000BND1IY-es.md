@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BND1IY-es Targus Essential - Mochila para Transportar portátiles de...'
+sku: 'B000BND1IY-es'
 tags: [ 'mochila', ]
 actualPrice: 14.62 EUR
 currency: EUR

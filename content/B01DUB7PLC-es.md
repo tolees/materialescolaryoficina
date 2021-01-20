@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DUB7PLC-es E-Vitta EVBP003002 - Mochila para Ordenador portátil de...'
+sku: 'B01DUB7PLC-es'
 tags: [ 'mochila', ]
 actualPrice: 14.45 EUR
 currency: EUR

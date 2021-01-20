@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BYWDV6G-es American Tourister AT Work - Mochila Mesh tipo casual para...'
+sku: 'B07BYWDV6G-es'
 tags: [ 'mochila', ]
 actualPrice: 36.27 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0159DICCA-es Alpino DP00006501 - Pastilla plastilina'
+sku: 'B0159DICCA-es'
 tags: [ 'alpino','plastilina', ]
 actualPrice: 0.6 EUR
 currency: EUR

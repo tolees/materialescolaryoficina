@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PL1CWYT-es Parker Jotter Originals Colección de bolígrafos acabado...'
+sku: 'B07PL1CWYT-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 6.1 EUR
 currency: EUR

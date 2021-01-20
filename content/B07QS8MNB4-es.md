@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QS8MNB4-es Meinkind Mochila Portabebe Ergonomica Multifunción para...'
+sku: 'B07QS8MNB4-es'
 tags: [ 'mochila', ]
 actualPrice: 20.79 EUR
 currency: EUR

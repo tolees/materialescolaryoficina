@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FT6D8RS-es Mochila de pañales para cambiar pañales con diseño abierto...'
+sku: 'B07FT6D8RS-es'
 tags: [ 'mochila', ]
 actualPrice: 30.15 EUR
 currency: EUR

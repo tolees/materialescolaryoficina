@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3DHV7S-es Vbiger Mochilas Escolares Ni?a Mochila Juveniles...'
+sku: 'B07X3DHV7S-es'
 tags: [ 'mochila', ]
 actualPrice: 24.89 EUR
 currency: EUR

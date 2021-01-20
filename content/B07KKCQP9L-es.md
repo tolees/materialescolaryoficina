@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKCQP9L-es Lifewit Mochila Nevera Flexible Bolsa de Compra...'
+sku: 'B07KKCQP9L-es'
 tags: [ 'mochila', ]
 actualPrice: 32.99 EUR
 currency: EUR

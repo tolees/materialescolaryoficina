@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFV83MQ-es Ruwhere - Lápiz para cejas en 6 colores resistente al agua...'
+sku: 'B07BFV83MQ-es'
 tags: [ 'lápiz', ]
 actualPrice: 6.99 EUR
 currency: EUR

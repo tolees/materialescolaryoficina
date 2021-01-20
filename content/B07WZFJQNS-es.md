@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZFJQNS-es Eastpak Padded Pak R Mochila 24 L Rojo Melange Print Lines...'
+sku: 'B07WZFJQNS-es'
 tags: [ 'mochila', ]
 actualPrice: 28.09 EUR
 currency: EUR

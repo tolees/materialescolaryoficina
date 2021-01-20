@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZW2NR9-es Nike NESS7159-483 Mochila Azul Talla Única'
+sku: 'B07GZW2NR9-es'
 tags: [ 'mochila', ]
 actualPrice: 15.26 EUR
 currency: EUR

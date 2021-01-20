@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CY7R9RL-es American Tourister Urban Groove Lifestyle Laptop Backpack...'
+sku: 'B07CY7R9RL-es'
 tags: [ 'backpack','mochila', ]
 actualPrice: 19.8 EUR
 currency: EUR

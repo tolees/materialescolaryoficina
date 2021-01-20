@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L92V4MP-es Mujer Vestido Lápiz de Oficina Elegante Mangas Cortas S...'
+sku: 'B07L92V4MP-es'
 tags: [ 'lápiz', ]
 actualPrice: 25.99 EUR
 currency: EUR

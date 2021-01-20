@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002MX6OPS-es MONTIS Venture 30 Mochila de Senderismo y Ruta 30 l 1100 g'
+sku: 'B002MX6OPS-es'
 tags: [ 'mochila', ]
 actualPrice: 54.99 EUR
 currency: EUR

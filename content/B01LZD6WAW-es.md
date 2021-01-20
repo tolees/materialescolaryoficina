@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZD6WAW-es Nobo 1905186 - Pizarra Diamond Glass Magnética 1883 x 1053...'
+sku: 'B01LZD6WAW-es'
 tags: [ 'rotulador', ]
 actualPrice: 75.99 EUR
 currency: EUR

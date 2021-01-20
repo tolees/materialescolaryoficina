@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P1C5B2X-es Demeu 11860 Banda Goma Trenzado:11 000 Bandas Trenzadas 28...'
+sku: 'B07P1C5B2X-es'
 tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR

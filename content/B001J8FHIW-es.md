@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001J8FHIW-es Apli 1277 - Etiquetas 100 hojas'
+sku: 'B001J8FHIW-es'
 tags: [ 'apli', ]
 actualPrice: 17.38 EUR
 currency: EUR

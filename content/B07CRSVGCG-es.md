@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRSVGCG-es Wenger/SwissGear Ibex 125th Slim Ballistic maletines para...'
+sku: 'B07CRSVGCG-es'
 tags: [ 'mochila', ]
 actualPrice: 66.54 EUR
 currency: EUR

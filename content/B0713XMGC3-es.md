@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0713XMGC3-es aeioubaby.com Tabla RECOMPENSAS Magnética Grande | Pizarra...'
+sku: 'B0713XMGC3-es'
 tags: [ 'rotuladores', ]
 actualPrice: 16.06 EUR
 currency: EUR

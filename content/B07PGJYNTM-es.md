@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGJYNTM-es Samsonite Checkmate Central Opening - Mochila para...'
+sku: 'B07PGJYNTM-es'
 tags: [ 'mochila', ]
 actualPrice: 120.13 EUR
 currency: EUR

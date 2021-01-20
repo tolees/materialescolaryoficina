@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4N1DFE-es Faber-Castell 155534 - Caja metálica con 33 rotuladores...'
+sku: 'B01N4N1DFE-es'
 tags: [ 'colorear','faber-castell','rotuladores', ]
 actualPrice: 14.71 EUR
 currency: EUR

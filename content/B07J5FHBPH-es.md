@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5FHBPH-es Parker Jotter Originals - Colección de bolígrafos surtido...'
+sku: 'B07J5FHBPH-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 21.53 EUR
 currency: EUR

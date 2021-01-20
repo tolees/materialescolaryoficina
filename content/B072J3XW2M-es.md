@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072J3XW2M-es Pritt Roller Compact corrector roller para tapar errores...'
+sku: 'B072J3XW2M-es'
 tags: [ 'bolígrafo','pritt', ]
 actualPrice: 4.72 EUR
 currency: EUR

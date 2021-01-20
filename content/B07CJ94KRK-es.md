@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJ94KRK-es Carpeta de Conferencias Wilbest A4 Carpeta de Cuero Las...'
+sku: 'B07CJ94KRK-es'
 tags: [ 'calculadora', ]
 actualPrice: 26.99 EUR
 currency: EUR

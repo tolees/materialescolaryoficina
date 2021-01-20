@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BB8LCDE-es Rotulador punta fina STABILO point 88 - Estuche premium de...'
+sku: 'B00BB8LCDE-es'
 tags: [ 'stabilo','rotulador','stabilo', ]
 actualPrice: 23.65 EUR
 currency: EUR

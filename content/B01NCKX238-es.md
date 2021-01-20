@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCKX238-es MOUNTAINTOP 60L Mochila de Senderismo Impermeable...'
+sku: 'B01NCKX238-es'
 tags: [ 'mochila', ]
 actualPrice: 68.99 EUR
 currency: EUR

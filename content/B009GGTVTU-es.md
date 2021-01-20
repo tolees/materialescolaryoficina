@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009GGTVTU-es Jovi 72 - Plastilina color rosa'
+sku: 'B009GGTVTU-es'
 tags: [ 'plastilina', ]
 actualPrice: 1.67 EUR
 currency: EUR

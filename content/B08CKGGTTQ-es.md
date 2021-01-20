@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CKGGTTQ-es APLI 18419 - Estuche silicona Fluor Collection - Rosa'
+sku: 'B08CKGGTTQ-es'
 tags: [ 'apli', ]
 actualPrice: 4.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXRFZHX-es Samsonite Qibyte Laptop Backpack 17.3" Mochila Tipo Casual...'
+sku: 'B01LXRFZHX-es'
 tags: [ 'backpack','mochila', ]
 actualPrice: 47.57 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV2ZXDV-es Atlético de Madrid "In Blue" Oficial Mochila Escolar...'
+sku: 'B07MV2ZXDV-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 23.6 EUR
 currency: EUR

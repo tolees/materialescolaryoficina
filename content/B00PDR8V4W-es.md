@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PDR8V4W-es Carioca Joy - Rotuladores superlavables de punta fina pack...'
+sku: 'B00PDR8V4W-es'
 tags: [ 'rotuladores', ]
 actualPrice: 2.98 EUR
 currency: EUR

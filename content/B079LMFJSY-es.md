@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079LMFJSY-es AmazonBasics - Mochila compacta de viaje Rojo para viajes...'
+sku: 'B079LMFJSY-es'
 tags: [ 'mochila', ]
 actualPrice: 47.12 EUR
 currency: EUR

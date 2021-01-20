@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WKFF94-es Pelikan Premium Textmarker Rotuladores fluorescentes...'
+sku: 'B000WKFF94-es'
 tags: [ 'escolar','rotuladores', ]
 actualPrice: 6.04 EUR
 currency: EUR

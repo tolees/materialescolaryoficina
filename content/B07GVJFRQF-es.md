@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVJFRQF-es Lápiz Stylus Pen 40 Horas de Trabajo Continuo y de 30 días...'
+sku: 'B07GVJFRQF-es'
 tags: [ 'lápiz', ]
 actualPrice: 32.69 EUR
 currency: EUR

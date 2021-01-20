@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMD1O42-es Faber-Castell 566 - Escuadra de 25 cm color verde'
+sku: 'B00JMD1O42-es'
 tags: [ 'faber-castell', ]
 actualPrice: 5.08 EUR
 currency: EUR

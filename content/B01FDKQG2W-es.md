@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FDKQG2W-es Faber-Castell 111260 - Estuche-soporte de cartón con 60...'
+sku: 'B01FDKQG2W-es'
 tags: [ 'faber-castell','lápices','lápices', ]
 actualPrice: 16.76 EUR
 currency: EUR

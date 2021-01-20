@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YXVZFC-es Tijeras de Podar Profesional Yunque y Jardín OSPREY 190...'
+sku: 'B078YXVZFC-es'
 tags: [ 'tijeras', ]
 actualPrice: 9.99 EUR
 currency: EUR

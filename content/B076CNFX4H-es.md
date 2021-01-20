@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CNFX4H-es American Tourister Grab N Go Disney - 15.6 Pulgadas...'
+sku: 'B076CNFX4H-es'
 tags: [ 'mochila', ]
 actualPrice: 46.56 EUR
 currency: EUR

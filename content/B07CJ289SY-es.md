@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJ289SY-es Calculadora YEBMoo calculadora de tabla de 12 dígitos con...'
+sku: 'B07CJ289SY-es'
 tags: [ 'calculadora', ]
 actualPrice: 5.94 EUR
 currency: EUR

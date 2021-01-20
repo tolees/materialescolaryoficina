@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY6TLX2-es Luz Nocturna Mejorar 78 LEDs Led Armario con Sensor de...'
+sku: 'B07YY6TLX2-es'
 tags: [ 'cinta','adhesiva', ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHCCFQD-es Paper Mate InkJoy 100ST - Bolígrafos punta mediana 1.0 mm...'
+sku: 'B07NHCCFQD-es'
 tags: [ 'bolígrafos','paper','mate', ]
 actualPrice: 9.12 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NJUT8Q-es BIC Velleda 1701 ECOlutions rotuladores de Pizarra punta...'
+sku: 'B000NJUT8Q-es'
 tags: [ 'rotuladores', ]
 actualPrice: 6.37 EUR
 currency: EUR

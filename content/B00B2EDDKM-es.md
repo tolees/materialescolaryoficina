@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B2EDDKM-es Herschel Retreat Backpack - Mochila casual unisex Negro...'
+sku: 'B00B2EDDKM-es'
 tags: [ 'backpack','mochila', ]
 actualPrice: 55.99 EUR
 currency: EUR

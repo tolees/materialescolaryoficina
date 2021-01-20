@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD47ZBF-es Catekro Caja de Almacenamiento de Oficina de Gran...'
+sku: 'B07YD47ZBF-es'
 tags: [ 'bolígrafo', ]
 actualPrice: 21.99 EUR
 currency: EUR

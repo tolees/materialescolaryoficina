@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007QU7VIQ-es Sharpie - Rotuladores permanentes punta fina colores...'
+sku: 'B007QU7VIQ-es'
 tags: [ 'rotuladores', ]
 actualPrice: 19.38 EUR
 currency: EUR

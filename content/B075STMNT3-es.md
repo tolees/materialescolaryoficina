@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075STMNT3-es Joymoze Bonita Mochila Escolar Impermeable para Niños y...'
+sku: 'B075STMNT3-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 26.99 EUR
 currency: EUR

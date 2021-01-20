@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRBHX1L-es Xnuoyo 17.3" Mochila Portátil para 12-17 Pulgadas...'
+sku: 'B07PRBHX1L-es'
 tags: [ 'mochila', ]
 actualPrice: 35.99 EUR
 currency: EUR

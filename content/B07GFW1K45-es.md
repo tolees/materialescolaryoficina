@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFW1K45-es TANDES KIDS Máquina de burbujas para niños Rana de pompas...'
+sku: 'B07GFW1K45-es'
 tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR

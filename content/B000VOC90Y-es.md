@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VOC90Y-es WENGER 600638 Ibex - Mochila para portátil de 17" color azul'
+sku: 'B000VOC90Y-es'
 tags: [ 'mochila', ]
 actualPrice: 65.96 EUR
 currency: EUR

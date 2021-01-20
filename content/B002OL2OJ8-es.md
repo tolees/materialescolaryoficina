@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002OL2OJ8-es Bolígrafos UB-157 Eye Fine varios colores tinta Uni Super...'
+sku: 'B002OL2OJ8-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 13.79 EUR
 currency: EUR

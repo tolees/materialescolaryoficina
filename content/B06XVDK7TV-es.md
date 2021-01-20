@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XVDK7TV-es HP 1MR94AA - Lápiz para Tableta'
+sku: 'B06XVDK7TV-es'
 tags: [ 'lápiz', ]
 actualPrice: 41.36 EUR
 currency: EUR

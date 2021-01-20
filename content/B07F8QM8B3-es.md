@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8QM8B3-es Cabin Max Maleta con Ruedas Maletas de Viaje Cabina...'
+sku: 'B07F8QM8B3-es'
 tags: [ 'mochila', ]
 actualPrice: 23.98 EUR
 currency: EUR

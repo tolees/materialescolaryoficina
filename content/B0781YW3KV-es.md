@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781YW3KV-es BIC Kids Evolution Stripes Lápices de colores - colores...'
+sku: 'B0781YW3KV-es'
 tags: [ 'lápices','lápices', ]
 actualPrice: 3.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WR3FY7Q-es YONKINY Mochila Portátil Escolares Juveniles Chica Chico...'
+sku: 'B07WR3FY7Q-es'
 tags: [ 'mochila', ]
 actualPrice: 19.49 EUR
 currency: EUR

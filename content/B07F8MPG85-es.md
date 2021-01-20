@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8MPG85-es AmazonBasics - Barras de pegamento lavable multiusos...'
+sku: 'B07F8MPG85-es'
 tags: [ 'barras','de','pegamento', ]
 actualPrice: 8.26 EUR
 currency: EUR

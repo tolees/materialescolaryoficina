@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXNP6N8-es Mochila Portabebés Ergonómico Hommie Mochilas para Bebes...'
+sku: 'B07KXNP6N8-es'
 tags: [ 'mochila', ]
 actualPrice: 26.99 EUR
 currency: EUR

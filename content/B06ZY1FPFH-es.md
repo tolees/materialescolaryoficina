@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZY1FPFH-es NORSENS Robo de Mochila portátil de 15 6/14 Pulgadas de...'
+sku: 'B06ZY1FPFH-es'
 tags: [ 'mochila', ]
 actualPrice: 11.25 EUR
 currency: EUR

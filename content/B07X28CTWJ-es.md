@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X28CTWJ-es HUION Inspiroy Ink H320M Rojo Tableta de Dibujo gráfico...'
+sku: 'B07X28CTWJ-es'
 tags: [ 'lápiz', ]
 actualPrice: 61.99 EUR
 currency: EUR

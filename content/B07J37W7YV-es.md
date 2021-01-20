@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J37W7YV-es Under Armour Hustle 4.0 Mochila Unisex Adulto Gris OSFA'
+sku: 'B07J37W7YV-es'
 tags: [ 'mochila', ]
 actualPrice: 39.58 EUR
 currency: EUR

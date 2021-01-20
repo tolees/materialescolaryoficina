@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFYSFVG-es Winsor & Newton - Set de Rotuladores ProMarker 12 + 1...'
+sku: 'B07RFYSFVG-es'
 tags: [ 'rotuladores', ]
 actualPrice: 23.65 EUR
 currency: EUR

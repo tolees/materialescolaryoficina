@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LTB6CP-es Mochila para Portátil XQXA Mochila Unisex Impermeable para...'
+sku: 'B083LTB6CP-es'
 tags: [ 'mochila','mochila','unisex', ]
 actualPrice: 22.77 EUR
 currency: EUR

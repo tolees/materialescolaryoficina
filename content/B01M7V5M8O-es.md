@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7V5M8O-es Mochila Tous Kaos New Colores Rosa'
+sku: 'B01M7V5M8O-es'
 tags: [ 'mochila', ]
 actualPrice: 47.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQNQ97Q-es Parfois - Mochila Efecto Piel - Mujeres - Tallas M - Blanco'
+sku: 'B07SQNQ97Q-es'
 tags: [ 'mochila', ]
 actualPrice: 13 EUR
 currency: EUR

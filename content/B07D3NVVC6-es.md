@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3NVVC6-es Memoria Flash USB 64 GB PenDrive con Llavero Portátil...'
+sku: 'B07D3NVVC6-es'
 tags: [ 'lápiz', ]
 actualPrice: 12.99 EUR
 currency: EUR

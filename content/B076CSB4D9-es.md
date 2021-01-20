@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CSB4D9-es Samsonite Network 3 39 6 cm 15.6" Mochila Azul - Funda...'
+sku: 'B076CSB4D9-es'
 tags: [ 'mochila', ]
 actualPrice: 43.99 EUR
 currency: EUR

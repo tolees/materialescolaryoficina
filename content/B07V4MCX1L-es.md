@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4MCX1L-es Kipling Seoul Mochila Tipo Casual 44 cm 27 Liters Plateado...'
+sku: 'B07V4MCX1L-es'
 tags: [ 'mochila', ]
 actualPrice: 55.01 EUR
 currency: EUR

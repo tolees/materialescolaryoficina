@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP3KPC3-es Calvin Klein - Ck Must Psp20 Sml Backpack Bolsos totes...'
+sku: 'B07RP3KPC3-es'
 tags: [ 'backpack', ]
 actualPrice: 58.82 EUR
 currency: EUR

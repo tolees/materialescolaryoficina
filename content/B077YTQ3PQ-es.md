@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YTQ3PQ-es Gibot Lápices de Colores para niños Agarre de Palma de la...'
+sku: 'B077YTQ3PQ-es'
 tags: [ 'lápices','lápices', ]
 actualPrice: 10.26 EUR
 currency: EUR

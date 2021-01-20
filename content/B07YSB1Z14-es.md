@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSB1Z14-es TOMSHOO Mochila de Hidratación Mochila conVejiga de Agua...'
+sku: 'B07YSB1Z14-es'
 tags: [ 'mochila', ]
 actualPrice: 9.99 EUR
 currency: EUR

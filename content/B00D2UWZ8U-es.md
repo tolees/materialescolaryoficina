@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D2UWZ8U-es BIC Kids Plastidecor - Blíster de 18 unidades ceras para...'
+sku: 'B00D2UWZ8U-es'
 tags: [ 'colorear','plastidecor', ]
 actualPrice: 2.47 EUR
 currency: EUR

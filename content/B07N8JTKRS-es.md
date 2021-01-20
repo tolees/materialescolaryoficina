@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8JTKRS-es Tommy Hilfiger POPPY BACKPACK CORPMujerBolsos...'
+sku: 'B07N8JTKRS-es'
 tags: [ 'backpack', ]
 actualPrice: 69.95 EUR
 currency: EUR

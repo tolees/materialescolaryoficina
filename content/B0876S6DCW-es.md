@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876S6DCW-es AYUN 20pcs palillo de bolígrafos Bone bolígrafo con Tinta...'
+sku: 'B0876S6DCW-es'
 tags: [ 'bolígrafo','bolígrafos', ]
 actualPrice: 9.92 EUR
 currency: EUR

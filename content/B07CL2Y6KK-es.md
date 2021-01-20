@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CL2Y6KK-es BIC 4 Colores Sun Retractable Bolígrafos retráctiles punta...'
+sku: 'B07CL2Y6KK-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 1.5 EUR
 currency: EUR

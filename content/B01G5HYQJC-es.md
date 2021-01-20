@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G5HYQJC-es Casio FX-82SPXII Iberia - Calculadora científica...'
+sku: 'B01G5HYQJC-es'
 tags: [ 'calculadora', ]
 actualPrice: 15.9 EUR
 currency: EUR

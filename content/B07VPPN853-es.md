@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPPN853-es DANGZW Lápiz Stylus para iPad Recargable Lápiz óptico...'
+sku: 'B07VPPN853-es'
 tags: [ 'lápiz', ]
 actualPrice: 25.49 EUR
 currency: EUR

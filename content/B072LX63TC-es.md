@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LX63TC-es Casio FX-85SP X II - Calculadora Científica Recomendada...'
+sku: 'B072LX63TC-es'
 tags: [ 'calculadora', ]
 actualPrice: 14.66 EUR
 currency: EUR

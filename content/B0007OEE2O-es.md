@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0007OEE2O-es Rotulador punta fina STABILO point 88 - Estuche con 20...'
+sku: 'B0007OEE2O-es'
 tags: [ 'stabilo','rotulador','stabilo', ]
 actualPrice: 15.72 EUR
 currency: EUR

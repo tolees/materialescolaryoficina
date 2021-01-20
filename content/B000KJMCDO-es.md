@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJMCDO-es Apli 1276 - Etiquetas 100 hojas'
+sku: 'B000KJMCDO-es'
 tags: [ 'apli', ]
 actualPrice: 14.39 EUR
 currency: EUR

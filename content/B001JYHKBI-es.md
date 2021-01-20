@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001JYHKBI-es Apli 1270 - Etiquetas 100 hojas'
+sku: 'B001JYHKBI-es'
 tags: [ 'apli', ]
 actualPrice: 13.41 EUR
 currency: EUR

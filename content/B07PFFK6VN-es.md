@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFFK6VN-es Samsonite Ziproll Mochila para portátil de 13.3 pulgadas...'
+sku: 'B07PFFK6VN-es'
 tags: [ 'mochila', ]
 actualPrice: 58.74 EUR
 currency: EUR

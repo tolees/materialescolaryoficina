@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M65PBTK-es UTOTEBAG Mochila Portátil 15.6 Pulgadas Mochilas para...'
+sku: 'B07M65PBTK-es'
 tags: [ 'mochila', ]
 actualPrice: 15.99 EUR
 currency: EUR

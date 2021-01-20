@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0CU5CW-es Tech air TAECB001 maletines para portátil 39 6 cm 15.6"...'
+sku: 'B01M0CU5CW-es'
 tags: [ 'mochila', ]
 actualPrice: 19.91 EUR
 currency: EUR

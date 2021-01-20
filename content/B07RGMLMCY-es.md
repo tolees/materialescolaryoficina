@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGMLMCY-es NIKE Nk Heritage Bkpk - 2.0 Sports Backpack Unisex adulto...'
+sku: 'B07RGMLMCY-es'
 tags: [ 'backpack', ]
 actualPrice: 16.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU5VASL-es GRÜNTEK Tijeras de Podar Profesionales Z-25 FORJADAS en...'
+sku: 'B01MU5VASL-es'
 tags: [ 'tijeras', ]
 actualPrice: 16.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003L22MTQ-es Pilot Parallel - Bolígrafo punta de 6.0 mm'
+sku: 'B003L22MTQ-es'
 tags: [ 'bolígrafo', ]
 actualPrice: 9.99 EUR
 currency: EUR

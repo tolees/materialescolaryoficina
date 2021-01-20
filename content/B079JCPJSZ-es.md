@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JCPJSZ-es Wacom Intuos Tableta Gráfica con Lápiz Softwares Creativos...'
+sku: 'B079JCPJSZ-es'
 tags: [ 'lápiz', ]
 actualPrice: 169.0 EUR
 currency: EUR

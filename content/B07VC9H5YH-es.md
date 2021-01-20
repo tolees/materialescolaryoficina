@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC9H5YH-es Pepe Jeans Mochila 28 cm 6.72 Liters Azul'
+sku: 'B07VC9H5YH-es'
 tags: [ 'mochila', ]
 actualPrice: 48.0 EUR
 currency: EUR

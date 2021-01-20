@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009FTXWC-es Casio FX-570ES PLUS - Calculadora científica 80 x 162 x...'
+sku: 'B0009FTXWC-es'
 tags: [ 'calculadora', ]
 actualPrice: 19.99 EUR
 currency: EUR

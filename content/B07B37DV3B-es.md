@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B37DV3B-es Alpino DP00007301 - Pastilla plastilina'
+sku: 'B07B37DV3B-es'
 tags: [ 'alpino','plastilina', ]
 actualPrice: 0.94 EUR
 currency: EUR

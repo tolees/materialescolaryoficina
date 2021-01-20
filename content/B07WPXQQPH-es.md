@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPXQQPH-es Mochilas Infantiles Mochilas para Niños Niñas Bolsa de...'
+sku: 'B07WPXQQPH-es'
 tags: [ 'mochila', ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L93KV4Q-es Mujer Vestido Elegante de Oficina Falda Lápiz Mangas...'
+sku: 'B07L93KV4Q-es'
 tags: [ 'lápiz', ]
 actualPrice: 25.99 EUR
 currency: EUR

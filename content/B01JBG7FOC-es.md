@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JBG7FOC-es EXERZ E Organizador de Escritorio 360 Grados Giratorio con...'
+sku: 'B01JBG7FOC-es'
 tags: [ 'tijeras','goma','de','borrar','grapadora', ]
 actualPrice: 13.99 EUR
 currency: EUR

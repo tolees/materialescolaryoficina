@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SHQKO0-es Pilot Frixion - Bolígrafo de tinta trazo de 0 4 mm tinta...'
+sku: 'B000SHQKO0-es'
 tags: [ 'bolígrafo', ]
 actualPrice: 19.51 EUR
 currency: EUR

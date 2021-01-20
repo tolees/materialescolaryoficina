@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T5FTZ29-es Mochila Saco Pepe Jeans Daniela Multicolor 44 cm'
+sku: 'B07T5FTZ29-es'
 tags: [ 'mochila', ]
 actualPrice: 16.67 EUR
 currency: EUR

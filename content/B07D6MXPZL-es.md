@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6MXPZL-es Kipling CLAS SEOUL S Mochila con Compartimento para...'
+sku: 'B07D6MXPZL-es'
 tags: [ 'mochila', ]
 actualPrice: 33.07 EUR
 currency: EUR

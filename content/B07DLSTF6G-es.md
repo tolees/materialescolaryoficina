@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLSTF6G-es Samsonite PRO-DLX 5 - Backpack for 14.1" Laptop 1.2 KG...'
+sku: 'B07DLSTF6G-es'
 tags: [ 'backpack','mochila', ]
 actualPrice: 146.53 EUR
 currency: EUR

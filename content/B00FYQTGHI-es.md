@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FYQTGHI-es Apli 13243- Recambio Barras de Cola Termofusible Ø 7 5 mm...'
+sku: 'B00FYQTGHI-es'
 tags: [ 'apli', ]
 actualPrice: 1.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08KZPN9SZ-es Nowakk Cabeza de Aceite de Peluquero eléctrica Cizalla de...'
+sku: 'B08KZPN9SZ-es'
 tags: [ 'tijeras', ]
 actualPrice: 14.9 EUR
 currency: EUR

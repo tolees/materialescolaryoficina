@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYQTMP3-es TAZEMAT 24 Hojas Máscaras de Animales Papel para Rascar...'
+sku: 'B07XYQTMP3-es'
 tags: [ 'lápiz', ]
 actualPrice: 12.59 EUR
 currency: EUR

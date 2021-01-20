@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007CX2HKE-es BIC 4 colores Original bolígrafos Retráctiles punta media...'
+sku: 'B007CX2HKE-es'
 tags: [ 'bolígrafos', ]
 actualPrice: 3.8 EUR
 currency: EUR

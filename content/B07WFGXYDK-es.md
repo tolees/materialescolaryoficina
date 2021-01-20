@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFGXYDK-es Pepe Jeans Irvin Mochila para portátil 15.6 Pulgadas'
+sku: 'B07WFGXYDK-es'
 tags: [ 'mochila', ]
 actualPrice: 33.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMEAO5G-es Faber Castell 65021 - Pack escolar con escuadra cartabón...'
+sku: 'B00JMEAO5G-es'
 tags: [ 'cartabón','escolar','faber','castell', ]
 actualPrice: 3.9 EUR
 currency: EUR

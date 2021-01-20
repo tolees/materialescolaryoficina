@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QH2Y7S-es Ergobaby Mochila Portabebés Ergonomicas Coleccion Original...'
+sku: 'B077QH2Y7S-es'
 tags: [ 'mochila', ]
 actualPrice: 80.67 EUR
 currency: EUR

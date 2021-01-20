@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XDT62F-es NORSENS – Mochila Ordenador portátil 17/15.6 Pulgadas...'
+sku: 'B075XDT62F-es'
 tags: [ 'mochila', ]
 actualPrice: 15.51 EUR
 currency: EUR

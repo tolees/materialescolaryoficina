@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012TBV4CA-es Milan 615350Y - Rotuladores'
+sku: 'B012TBV4CA-es'
 tags: [ 'rotuladores', ]
 actualPrice: 14.4 EUR
 currency: EUR

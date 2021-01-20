@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G87DZBJ-es INT!REND Rotuladores punta de pincel 51 SET | Compuesto...'
+sku: 'B07G87DZBJ-es'
 tags: [ 'rotuladores', ]
 actualPrice: 22.9 EUR
 currency: EUR

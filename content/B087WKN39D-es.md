@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WKN39D-es WERNNSAI Luau Flamenco Suministros para la Fiesta - 12 PCS...'
+sku: 'B087WKN39D-es'
 tags: [ 'mochila', ]
 actualPrice: 15.99 EUR
 currency: EUR

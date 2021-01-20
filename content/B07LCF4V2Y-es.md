@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCF4V2Y-es Newcom Mochila para Portátil 600D Poliéster Antirrobo y...'
+sku: 'B07LCF4V2Y-es'
 tags: [ 'mochila', ]
 actualPrice: 24.99 EUR
 currency: EUR

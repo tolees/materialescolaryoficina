@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU1FNUT-es Rapesco Eco HD-100 - Grapadora de gruesos 100 hojas mas...'
+sku: 'B01MU1FNUT-es'
 tags: [ 'grapadora', ]
 actualPrice: 20.39 EUR
 currency: EUR

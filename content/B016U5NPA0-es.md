@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016U5NPA0-es NAVIGATOR A4 80 g/m² papel universal 10x Reams 5 000...'
+sku: 'B016U5NPA0-es'
 tags: [ 'papel','universal', ]
 actualPrice: 26.79 EUR
 currency: EUR

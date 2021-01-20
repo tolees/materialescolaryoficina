@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGHMY5N-es TRIXES Bolígrafo Stylus Negro de Punta Fina para Pantallas...'
+sku: 'B06XGHMY5N-es'
 tags: [ 'bolígrafo', ]
 actualPrice: 3.87 EUR
 currency: EUR

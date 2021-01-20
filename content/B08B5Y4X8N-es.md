@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5Y4X8N-es Pegatina pizarra tamaño 78 8” x 23 6” pizarra adhesiva...'
+sku: 'B08B5Y4X8N-es'
 tags: [ 'tijeras', ]
 actualPrice: 14.99 EUR
 currency: EUR

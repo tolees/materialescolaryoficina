@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1NFGLB-es safta Blackfit8 Magical Plumier mochila 4 estuches llenos...'
+sku: 'B07V1NFGLB-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 14.16 EUR
 currency: EUR

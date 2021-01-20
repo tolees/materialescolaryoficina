@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002C2VUI0-es APLI 262 Rollo forro de libros adhesivo 1.5 x 0.5 m...'
+sku: 'B002C2VUI0-es'
 tags: [ 'apli', ]
 actualPrice: 5.15 EUR
 currency: EUR

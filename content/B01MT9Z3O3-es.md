@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT9Z3O3-es WOLFWILL Tijeras de Perro 5 Herramientas para Cortar el...'
+sku: 'B01MT9Z3O3-es'
 tags: [ 'tijeras', ]
 actualPrice: 18.99 EUR
 currency: EUR

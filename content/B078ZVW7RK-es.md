@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZVW7RK-es Mochila Stranger Things Faces'
+sku: 'B078ZVW7RK-es'
 tags: [ 'mochila', ]
 actualPrice: 6.0 EUR
 currency: EUR

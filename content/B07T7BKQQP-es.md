@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T7BKQQP-es Columbia Convey Mochila con la Parte Superior Enrollada...'
+sku: 'B07T7BKQQP-es'
 tags: [ 'mochila', ]
 actualPrice: 38.49 EUR
 currency: EUR

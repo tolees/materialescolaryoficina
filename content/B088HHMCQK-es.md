@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088HHMCQK-es Ritches Diario de Puntos A5 - Cuaderno de Tapa Dura de...'
+sku: 'B088HHMCQK-es'
 tags: [ 'bolígrafo', ]
 actualPrice: 11.04 EUR
 currency: EUR

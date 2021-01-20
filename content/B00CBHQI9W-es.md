@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CBHQI9W-es L´Oréal Paris Make Up Artist Eyeliner Super Liner...'
+sku: 'B00CBHQI9W-es'
 tags: [ 'lápiz', ]
 actualPrice: 4.57 EUR
 currency: EUR

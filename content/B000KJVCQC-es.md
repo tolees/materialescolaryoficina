@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJVCQC-es Faber-Castell 120511 - Minas 12 unidades'
+sku: 'B000KJVCQC-es'
 tags: [ 'faber-castell', ]
 actualPrice: 1.25 EUR
 currency: EUR

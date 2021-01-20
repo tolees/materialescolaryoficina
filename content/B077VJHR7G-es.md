@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VJHR7G-es LeaderPro 60W Pistola de Encolar viene una Bolsa y 20 Psc...'
+sku: 'B077VJHR7G-es'
 tags: [ 'barras','de','pegamento', ]
 actualPrice: 19.99 EUR
 currency: EUR

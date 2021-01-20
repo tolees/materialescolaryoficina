@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OCM1LSM-es Ausonia - 81003 TIJERAS DE PODA PROFESIONALES PARA VID DE...'
+sku: 'B00OCM1LSM-es'
 tags: [ 'tijeras', ]
 actualPrice: 30.0 EUR
 currency: EUR

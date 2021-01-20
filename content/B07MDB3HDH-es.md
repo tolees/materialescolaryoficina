@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDB3HDH-es KINGSLONG Mochila Portatil Mujer &Hombre Mochila Pare...'
+sku: 'B07MDB3HDH-es'
 tags: [ 'mochila', ]
 actualPrice: 38.99 EUR
 currency: EUR

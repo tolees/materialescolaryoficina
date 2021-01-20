@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVCVVY8-es Lápiz Capacitivo con Estación de Carga magnética Soporte...'
+sku: 'B07MVCVVY8-es'
 tags: [ 'lápiz', ]
 actualPrice: 28.99 EUR
 currency: EUR

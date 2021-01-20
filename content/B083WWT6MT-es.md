@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083WWT6MT-es Mochila Safta Escolar con Carro Incluido y Espalada...'
+sku: 'B083WWT6MT-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 44.44 EUR
 currency: EUR

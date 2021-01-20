@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08318LNVD-es Estuche para Lápices BETOY Grande Capacidad Estuche...'
+sku: 'B08318LNVD-es'
 tags: [ 'lápices','lápiz','escolar','lápices', ]
 actualPrice: 10.97 EUR
 currency: EUR

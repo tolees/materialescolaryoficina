@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMWN73T-es 40L Mochila Hombre Senderismo Deporte Viaje Grande...'
+sku: 'B07BMWN73T-es'
 tags: [ 'backpack','mochila', ]
 actualPrice: 32.99 EUR
 currency: EUR

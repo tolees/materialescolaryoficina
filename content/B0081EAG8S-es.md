@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0081EAG8S-es Apli - Paquete De 200 Etiquetas Cd/Dvd Clásicas Cobertura...'
+sku: 'B0081EAG8S-es'
 tags: [ 'apli', ]
 actualPrice: 26.59 EUR
 currency: EUR

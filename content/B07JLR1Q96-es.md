@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLR1Q96-es Lote de 20 Estuches Para Colorear Con 5 Pinturas De Cera...'
+sku: 'B07JLR1Q96-es'
 tags: [ 'colorear', ]
 actualPrice: 12.59 EUR
 currency: EUR

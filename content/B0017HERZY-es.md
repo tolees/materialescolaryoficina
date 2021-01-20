@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0017HERZY-es Scotch Magic - Portarrollos de sobremesa con 4 cintas...'
+sku: 'B0017HERZY-es'
 tags: [ 'scotch','magic', ]
 actualPrice: 11.86 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3CXKHS-es Ellesse Mochila Rolby Hombre Mochila SAAY0591 negro Talla...'
+sku: 'B07G3CXKHS-es'
 tags: [ 'mochila', ]
 actualPrice: 22.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XD9JKQN-es Play Doh PDH Core Estudio de creaciones animadas...'
+sku: 'B06XD9JKQN-es'
 tags: [ 'play','doh', ]
 actualPrice: 13.98 EUR
 currency: EUR

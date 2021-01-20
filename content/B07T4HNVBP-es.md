@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4HNVBP-es Pepe Jeans Mochila 32 cm 9.6 Liters Negro'
+sku: 'B07T4HNVBP-es'
 tags: [ 'mochila', ]
 actualPrice: 22.0 EUR
 currency: EUR

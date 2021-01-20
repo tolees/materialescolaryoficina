@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJSS7HY-es Mochila Escolar USAMYNA Teens para Mujeres College Girls...'
+sku: 'B07WJSS7HY-es'
 tags: [ 'mochila','escolar', ]
 actualPrice: 17.92 EUR
 currency: EUR

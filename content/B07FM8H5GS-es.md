@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM8H5GS-es Estudiantes estuche ElectriBrite Estuche lapices Estuche...'
+sku: 'B07FM8H5GS-es'
 tags: [ 'lápices','lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR

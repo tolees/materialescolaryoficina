@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY5PJQ1-es Xnuoyo Scansmart Mochilas Portatil 15.6 Pulgadas Mochila...'
+sku: 'B07YY5PJQ1-es'
 tags: [ 'mochila', ]
 actualPrice: 33.99 EUR
 currency: EUR

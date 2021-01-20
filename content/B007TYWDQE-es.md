@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007TYWDQE-es Faber-Castell - Vaso para el agua Clic & Go plegable fácil...'
+sku: 'B007TYWDQE-es'
 tags: [ 'faber-castell', ]
 actualPrice: 3.1 EUR
 currency: EUR

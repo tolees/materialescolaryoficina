@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSPP8WY-es Bolígrafo Gel Pluma de Papelería Suministros Escuela...'
+sku: 'B07YSPP8WY-es'
 tags: [ 'bolígrafo','bolígrafos', ]
 actualPrice: 7.02 EUR
 currency: EUR

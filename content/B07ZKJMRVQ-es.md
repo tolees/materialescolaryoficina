@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKJMRVQ-es Bolsa de pañales de tela portátil reutilizable a prueba de...'
+sku: 'B07ZKJMRVQ-es'
 tags: [ 'mochila', ]
 actualPrice: 3.34 EUR
 currency: EUR

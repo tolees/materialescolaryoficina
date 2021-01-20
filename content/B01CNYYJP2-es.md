@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CNYYJP2-es Staedtler Lumocolor 350 WP8. Rotuladores permanentes con...'
+sku: 'B01CNYYJP2-es'
 tags: [ 'rotuladores', ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8LQRCZ-es Antirrobo Mochila Seguridad Impermeable con Bloqueo...'
+sku: 'B07M8LQRCZ-es'
 tags: [ 'mochila', ]
 actualPrice: 17.99 EUR
 currency: EUR

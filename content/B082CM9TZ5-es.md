@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082CM9TZ5-es Memoria Flash USB 64GB Memoria USB 3.0 Pendrive con Luz...'
+sku: 'B082CM9TZ5-es'
 tags: [ 'lápiz', ]
 actualPrice: 13.59 EUR
 currency: EUR

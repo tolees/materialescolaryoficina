@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFDKH8T-es Pepe Jeans 7742065 Mochila Casual 28 cm 6.72 litros Marrón'
+sku: 'B07VFDKH8T-es'
 tags: [ 'mochila', ]
 actualPrice: 48.0 EUR
 currency: EUR

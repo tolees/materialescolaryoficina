@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHNK2RV-es Rotuladores Set de 40 Colores de Doble Punta y Organizador...'
+sku: 'B08BHNK2RV-es'
 tags: [ 'colorear','rotuladores', ]
 actualPrice: 19.99 EUR
 currency: EUR

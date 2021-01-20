@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TB7DNV-es Alpino AL010760 - Estuche 36 lápices'
+sku: 'B079TB7DNV-es'
 tags: [ 'alpino','lápices','lápices', ]
 actualPrice: 11.16 EUR
 currency: EUR

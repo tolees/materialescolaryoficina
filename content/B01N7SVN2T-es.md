@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7SVN2T-es Speedo Deluxe Ventilator Mesh Bag Mochila Unisex Adulto...'
+sku: 'B01N7SVN2T-es'
 tags: [ 'mochila', ]
 actualPrice: 16.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5YPCQF-es Faber Castell 154640 Rotulador Fluorescente Color Metallic...'
+sku: 'B07Z5YPCQF-es'
 tags: [ 'faber','castell','rotulador', ]
 actualPrice: 4.9 EUR
 currency: EUR

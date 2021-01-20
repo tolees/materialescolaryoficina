@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009LYC4A-es DYMO D1 - Etiquetas Auténticas Impresión Negra sobre Fondo...'
+sku: 'B0009LYC4A-es'
 tags: [ 'dymo', ]
 actualPrice: 15.66 EUR
 currency: EUR

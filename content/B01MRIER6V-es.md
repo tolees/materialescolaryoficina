@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRIER6V-es BIC Intensity Fine rotuladores punta fina 0 8 mm – colores...'
+sku: 'B01MRIER6V-es'
 tags: [ 'rotuladores', ]
 actualPrice: 12.9 EUR
 currency: EUR

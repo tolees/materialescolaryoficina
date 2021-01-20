@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYWBM9M-es Ergobaby Original - Mochila portabebés ergonómicas unisex...'
+sku: 'B07FYWBM9M-es'
 tags: [ 'mochila', ]
 actualPrice: 80.0 EUR
 currency: EUR

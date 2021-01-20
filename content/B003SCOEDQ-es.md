@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003SCOEDQ-es Calculadora bolsillo sencilla Canon AS-8 Negra'
+sku: 'B003SCOEDQ-es'
 tags: [ 'calculadora', ]
 actualPrice: 1.49 EUR
 currency: EUR

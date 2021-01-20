@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBW2E9Q-es Vanguard Alta Sky 45D - Mochila de Transporte 26x19x45cm...'
+sku: 'B01NBW2E9Q-es'
 tags: [ 'mochila', ]
 actualPrice: 164.17 EUR
 currency: EUR

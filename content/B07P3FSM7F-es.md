@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3FSM7F-es Mochila 42 cm Pepe Jeans Cuore'
+sku: 'B07P3FSM7F-es'
 tags: [ 'mochila', ]
 actualPrice: 33.5 EUR
 currency: EUR
