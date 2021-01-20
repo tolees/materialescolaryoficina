@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'APLI 12848 - Cola  40 g  color blanco al 78.00 % de rebaja'
-date: 2021-01-19 05:50:32
+date: 2021-01-20 06:19:04
 image: 'https://m.media-amazon.com/images/I/41KOL0aSZ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C6ZJ4TK-es'
+slug: 'B00C6ZJ4TK-es APLI 12848 - Cola 40 g color blanco'
+tags: [ 'apli', ]
 actualPrice: 0.55 EUR
 currency: EUR
 price: 0.55
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00C6ZJ4TK/?tag=tolees-21'
 descuento: '78.00'
-average: '0.9611194029850747'
+average: '0.9550735294117648'
 ---
 
 Tienes [APLI 12848 - Cola  40 g  color blanco](https://www.amazon.es/dp/B00C6ZJ4TK/?tag=tolees-21) con precio final de  0.55 EUR (original: 2.5 EUR) (78.00 %  de rebaja) aqui!
@@ -25,10 +26,10 @@ Tienes [APLI 12848 - Cola  40 g  color blanco](https://www.amazon.es/dp/B00C6ZJ4
 
 🔎:
 
-- Cola blanca de 40 g
 - El formato ideal para proyectos pequeños y aplicaciones en detalle
+- Cola blanca de 40 g
 - El adhesivo ideal para utilizar en papel, cartulina y cartón pero también en madera, por lo que es apto para proyectos de manualidades
-- Fórmula libre de solventes y no tóxica, apto para uso escolar
 - Cola blanca líquida con un tapón dosificador de punta no desmontable que permite una aplicación fácil y precisa
+- Fórmula libre de solventes y no tóxica, apto para uso escolar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00C6ZJ4TK/?tag=tolees-21)

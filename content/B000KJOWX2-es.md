@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Apli Paper 1281 Etiquetas Adhesivas Blan al 25.66 % de descuento'
-date: 2021-01-19 05:47:23
+date: 2021-01-20 06:15:45
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJOWX2-es'
+slug: 'B000KJOWX2-es Apli Paper 1281 Etiquetas Adhesivas Blancas 100 h Inkjet...'
+tags: [ 'apli', ]
 actualPrice: 12.63 EUR
 currency: EUR
 price: 12.63
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000KJOWX2/?tag=tolees-21'
 descuento: '25.66'
-average: '13.94823529411765'
+average: '13.94012307692308'
 ---
 
 Ahora mismo tienes [Apli Paper 1281 Etiquetas Adhesivas Blancas 100 h Inkjet Laser Copy 210 0X297 0 100H de Apli Paper S.A.U](https://www.amazon.es/dp/B000KJOWX2/?tag=tolees-21) a 12.63 EUR (original: 16.99 EUR) (25.66 %  de descuento) en el siguiente enlace!
@@ -25,8 +26,8 @@ Ahora mismo tienes [Apli Paper 1281 Etiquetas Adhesivas Blancas 100 h Inkjet Las
 
 🔎:
 
-- Etiquetas para impresoras inkjet, láser y fotocopiadora
 - Adhesivo: Permanente
+- Etiquetas para impresoras inkjet, láser y fotocopiadora
 - Cantos: Rectos
 - Tamaño de la hoja: Din A4
 - Cantidad de etiquetas: 100
