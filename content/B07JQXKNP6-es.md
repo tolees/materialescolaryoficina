@@ -26,9 +26,9 @@ Está [Mochila TARGUS GEOLITE Essential 15 6" Negro](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Panel trasero acolchado para proporcionar soporte y comodidad
-- Materiales ligeros resistentes a las inclemencias del tiempo
 - Tamaño máximo de pantalla: 39.6 cm
 - Correas para los hombros ajustables y bolsillo delantero con cremallera
+- Materiales ligeros resistentes a las inclemencias del tiempo
+- Panel trasero acolchado para proporcionar soporte y comodidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JQXKNP6/?tag=tolees-21)
