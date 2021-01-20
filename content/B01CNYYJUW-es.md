@@ -27,9 +27,9 @@ Está [STAEDTLER 351WP8 Rotuladores para pizarra blanca Lumocolor  inodoro  seca
 ℹ️:
 
 - Tecnología Dry Safe. Puede permanecer abierto durante días sin secarse (según la norma ISO 554), lo que proporciona una alta durabilidad y es seguro para viajar en avión.
+- Estuche de 8 marcadores de colores (rojo, azul, verde, naranja, violeta, amarillo, marrón y negro) resistente y ergonómico para un almacenamiento eficiente.
 - El cuerpo y el capuchón de polipropileno garantizan una larga vida útil, sin evaporación de tinta. Muy fácil de rellenar con el cargador Lumocolor Staedtler 488 51.
 - Secado rápido y lavable sin residuos sobre superficies como pizarras blancas, vidrio y porcelana. Además, la tinta está libre de xileno y tolueno.
-- Estuche de 8 marcadores de colores (rojo, azul, verde, naranja, violeta, amarillo, marrón y negro) resistente y ergonómico para un almacenamiento eficiente.
 - Punta redonda de 2 mm de ancho, bloqueada para impedir que se hunda en el interior del marcador a causa de la presión.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CNYYJUW/?tag=tolees-21)
