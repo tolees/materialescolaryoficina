@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 46.93 % en Fjällräven Kånken Mini Mochila de Sender'
-date: 2021-01-07 13:33:20
+date: 2021-01-21 18:09:25
 image: 'https://m.media-amazon.com/images/I/41hDlZHSl+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003NF05XG-es'
+slug: 'B003NF05XG-es Fjällräven Kånken Mini Mochila de Senderismo Unisex Adulto...'
+sku: 'B003NF05XG-es'
+tags: [ 'mochila', ]
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45
@@ -26,8 +28,8 @@ Tienes [Fjällräven Kånken Mini Mochila de Senderismo Unisex Adulto  Azul  Roy
 ℹ️:
 
 - Producto de alta calidad
-- Tipo de fábrica: 100% Polyester
 - Modelo Kånken Mini
 - De la marca Fjällräven
+- Tipo de fábrica: 100% Polyester
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B003NF05XG/?tag=tolees-21)
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003NF05XG/?tag=tolees-21)
