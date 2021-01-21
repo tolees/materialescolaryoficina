@@ -27,10 +27,10 @@ Está [Jovi- 724898 Pack de 5 Botes de témpera Escolar  35 ml  Multicolor  505 
 
 ℹ️:
 
+- Colores surtidos
+- Gran poder cubriente, fácil aplicación y secado rápido
 - En gel licuado
 - 5 unidades
 - Botes de 35 ml
-- Gran poder cubriente, fácil aplicación y secado rápido
-- Colores surtidos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00AHQ1JSY/?tag=tolees-21)
