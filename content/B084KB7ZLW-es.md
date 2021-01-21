@@ -27,10 +27,10 @@ Ahora mismo tienes [Quo Vadis 1281646Q - Agenda Escolar 2020/2021  1 día por p�
 
 🔎:
 
-- Agenda escolar de 12 meses (septiembre 2020 a agosto 2021)
-- 1 día por página, multilingüe (español, inglés, francés, alemán, italiano, holandés)
-- Formato 12 x 17 centímetros
-- Diseño lama
 - Colección magalie fournier
+- Diseño lama
+- Formato 12 x 17 centímetros
+- 1 día por página, multilingüe (español, inglés, francés, alemán, italiano, holandés)
+- Agenda escolar de 12 meses (septiembre 2020 a agosto 2021)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084KB7ZLW/?tag=tolees-21)
