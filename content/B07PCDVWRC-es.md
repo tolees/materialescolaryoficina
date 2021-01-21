@@ -27,7 +27,7 @@ Ahora mismo tienes [Estuche 10 ceras Manley Colores Especiales  FLUO+PASTEL ](ht
 
 🔎:
 
-- Colores de última tendencia
 - Estuche 10 ceras manley colores especiales (fluo+pastel)
+- Colores de última tendencia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PCDVWRC/?tag=tolees-21)
