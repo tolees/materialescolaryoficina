@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Tipp-Ex Mini Pocket Mouse Cinta Correcto al 31.28 % de descuento'
-date: 2021-01-20 13:12:52
+date: 2021-01-22 12:13:43
 image: 'https://m.media-amazon.com/images/I/51mY6AaEQQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B000J6ETCK-es Tipp-Ex Mini Pocket Mouse Cinta Correctora muy Resistente...'
+sku: 'B000J6ETCK-es'
 tags: [ 'tipp-ex', ]
 actualPrice: 13.95 EUR
 currency: EUR
@@ -17,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000J6ETCK/?tag=tolees-21'
 descuento: '31.28'
-average: '14.004'
+average: '14.000625'
 ---
 
 Está [Tipp-Ex Mini Pocket Mouse Cinta Correctora muy Resistente – 6 m x 5 mm  Caja de 10 unidades  Cinta plástica en color blanco](https://www.amazon.es/dp/B000J6ETCK/?tag=tolees-21) con 31.28 de descuento por 13.95 EUR (original: 20.3 EUR) en el siguiente enlace!

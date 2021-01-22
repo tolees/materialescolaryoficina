@@ -28,9 +28,9 @@ Está [APLI Kids 16913 - Pack de 5 forros de libros  solapa ajustable PP  290 mm
 ℹ️:
 
 - Pack con 5 unidades
+- La forma más fácil de forrar libros, cuadernos y carpetas, ya que se adaptan a cada ancho sin necesidad de cortar ni utilizar cinta adhesiva
 - Producto en cumplimiento del reglamento REACH sobre la fabricación, comercialización y uso de sustancias y mezclas químicas en productos
 - Fundas transparentes de PP (polipropileno) de 75 micras tamaño 290 mm con solapa autoajustable
-- La forma más fácil de forrar libros, cuadernos y carpetas, ya que se adaptan a cada ancho sin necesidad de cortar ni utilizar cinta adhesiva
 - Forra en solo 3 pasos: Introduce las tapas del libro en las solapas, ajusta el forro cerrando el libro y retira la cinta y pégalo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DM2K1TH/?tag=tolees-21)
