@@ -27,8 +27,8 @@ Ahora mismo tienes [edding 1200/2metallic - Blister con 2 rotuladores  color oro
 
 🔎:
 
+- Rotulador de fibra para escritura
 - La tinta a base de agua es soluble en agua antes del secado y no traspasa el papel
 - El grosor de trazo de la punta redonda es de 1 mm a 3 mm
-- Rotulador de fibra para escritura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004QI7U7I/?tag=tolees-21)

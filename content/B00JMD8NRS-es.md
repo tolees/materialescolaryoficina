@@ -28,8 +28,8 @@ En este momento está [Maped 227835 - Kit trazado 4+1  regla de 30 cm  cartabón
 🔎:
 
 - Incluye: regla de 30 cm, cartabón, escuadra, transportador
-- Material de plástico resistente
 - ATENCIÓN: el producto está disponible en varios colores. No podemos ofrecer un modelo / color en particular. Confirmando la compra, recibirá uno de los colores o modelos dependiendo de la disponibilidad sin la posibilidad de elegir.
 - Regalo una regla de 20 cm
+- Material de plástico resistente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00JMD8NRS/?tag=tolees-21)
