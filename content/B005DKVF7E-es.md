@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Targus Terra - Mochila de 15-16"  Color  al 54.99 % de descuento'
-date: 2021-01-16 10:01:15
+date: 2021-01-22 14:16:36
 image: 'https://m.media-amazon.com/images/I/41w4e6BxtDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005DKVF7E-es'
+slug: 'B005DKVF7E-es Targus Terra - Mochila de 15-16" Color Negro'
+sku: 'B005DKVF7E-es'
+tags: [ 'mochila', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005DKVF7E/?tag=tolees-21'
 descuento: '54.99'
-average: '28.387777777777778'
+average: '28.070689655172416'
 ---
 
 Ahora mismo tienes [Targus Terra - Mochila de 15-16"  Color Negro](https://www.amazon.es/dp/B005DKVF7E/?tag=tolees-21) a 23.79 EUR (original: 52.86 EUR) (54.99 %  de descuento) en el siguiente enlace!
