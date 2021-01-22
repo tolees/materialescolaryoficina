@@ -27,10 +27,10 @@ Está [Lapices de Colores Alpino - Estuche de lápices de madera 24 unidades - L
 
 ℹ️:
 
-- MAXIMA CALIDAD y SOSTENIBILIDAD: Todos nuestros productos pasan por un riguroso control desde nuestro laboratorio, donde seguimos estrictos procesos de seguridad y mejora continua en base a la Normativas Europeas de seguridad EN71.
-- ESTILO PROFESIONAL: También para lo más profesionales, nuestra caja de pinturas tambien está diseñadas y creadas para ofrecer un set de lapices para dibujo profesional. Nuestros lápices de colores con forma hexagonal disponine de mina borrable y goma de borrar del mismo color.
-- MUESTRA TU CREATIVIDAD: Disfruta de la oportunidad de explotar al máximo tu creatividad con nuestros lápices de colores. Con nuestro material y estuche de 24 colores, podrás dibujar y colorear cualquiera de tus libros de dibujos, diario, mandalas..etc ¡Crea tu mundo sin límite de colores!
 - DISFRUTA EN FAMILIA: Con los lapices de dibujo de Alpino podrás colorear cada momento con tu familia. Desde hacer numeros con el más infantil, cualquier proyecto del colegio o actividad escolar hasta pintura profesional con el mayor. ¡No dejes la oportunidad de pintar y los recuerdos más bonitos en familia!
+- MAXIMA CALIDAD y SOSTENIBILIDAD: Todos nuestros productos pasan por un riguroso control desde nuestro laboratorio, donde seguimos estrictos procesos de seguridad y mejora continua en base a la Normativas Europeas de seguridad EN71.
+- MUESTRA TU CREATIVIDAD: Disfruta de la oportunidad de explotar al máximo tu creatividad con nuestros lápices de colores. Con nuestro material y estuche de 24 colores, podrás dibujar y colorear cualquiera de tus libros de dibujos, diario, mandalas..etc ¡Crea tu mundo sin límite de colores!
 - TODOS LOS PUBLICOS: Nuestra caja de lapices Alpino 24 lo podrán utilizar tanto niños como adultos para poder pintar, colorear, crear manualidades o hacer cualquier dibujo. Escoge cualquier lapiz de color entre sus 24, y ¡Disfruta de unos colores vivos y brillantes para tener los mejores dibujos!
+- ESTILO PROFESIONAL: También para lo más profesionales, nuestra caja de pinturas tambien está diseñadas y creadas para ofrecer un set de lapices para dibujo profesional. Nuestros lápices de colores con forma hexagonal disponine de mina borrable y goma de borrar del mismo color.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016AF1KB6/?tag=tolees-21)
