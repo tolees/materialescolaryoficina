@@ -27,12 +27,12 @@ Tienes [Faber-Castell 128248 - Estuche de cartón con 48 tizas pastel  mini  mul
 
 ℹ️:
 
-- Las tizas mini multiplican por dos la gama de color
-- Colores agrupados por gama cromática
 - Fijar el dibujo para evitar que se emborrone
 - Estuche de cartón
-- 48 colores brillantes de intensos matices
-- Fácil difuminar con dedos, difumino, tela, papel o pincel
 - Textura suave y sedosa
+- Las tizas mini multiplican por dos la gama de color
+- Fácil difuminar con dedos, difumino, tela, papel o pincel
+- Colores agrupados por gama cromática
+- 48 colores brillantes de intensos matices
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000VZB5FI/?tag=tolees-21)
