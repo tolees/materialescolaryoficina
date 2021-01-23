@@ -28,9 +28,9 @@ Ahora mismo tienes [Thule Crossover - Mochila para MacBook Pro 15"  Color Negro 
 🔎:
 
 - Heat-molded, crush proof SafeZone compartment protects your iPhone and sunglasses, Airflow channels on back panel provide ventilation
-- Multiple grab-and-go handles allow for easy transport, Lightweight, durable fabric is also water-resistant, Back panel zipper allows for quick access to an iPad without opening the main compartment
-- Breathable, air-mesh daypack straps with adjustable sternum strap maximize comfort, Secondary compartment with organization panel keeps snacks, magazines and electronics in one place
-- Stash pocket on front panel keeps small items within instant reach, Side zippered pockets keep a water bottle or small items close at hand
 - Main compartment has an elevated laptop sleeve for your 15’’ Macbook Pro, a padded sleeve for your iPad and zippered mesh pocket to store additional items,
+- Multiple grab-and-go handles allow for easy transport, Lightweight, durable fabric is also water-resistant, Back panel zipper allows for quick access to an iPad without opening the main compartment
+- Stash pocket on front panel keeps small items within instant reach, Side zippered pockets keep a water bottle or small items close at hand
+- Breathable, air-mesh daypack straps with adjustable sternum strap maximize comfort, Secondary compartment with organization panel keeps snacks, magazines and electronics in one place
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00R2I7VUU/?tag=tolees-21)
