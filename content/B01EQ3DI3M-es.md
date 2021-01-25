@@ -27,10 +27,10 @@ En este momento está [BIC y Tipp-Ex Set Vuelta al Cole de 10 Bolígrafos Surtid
 
 🔎:
 
-- Incluye 10 BIC Cristal Original de punta media de 1,0 mm (4 azules, 2 rojos, 2 verdes y 2 negros), el bolígrafo más vendido del mundo
 - Por si fuera poco, incluye dos correctores Tipp-Ex Mini Pocket Mouse con 6 m de alfombra blanca correctora para eliminar tus errores
 - Crea, subraya y edita tus trabajos con este conjunto de bolígrafos BIC clásicos, marcadores y rollos de cinta correctora
 - Ofrecen una escritura fluida y uniforme, con clip del capuchón y marcadores que no tiñen el papel, adecuados para faxes y fotocopias
 - También contiene cinco marcadores BIC Fluorescentes de punta biselada con un marcador ancho de 3,4 mm y un subrayador fino de 1,6 mm
+- Incluye 10 BIC Cristal Original de punta media de 1,0 mm (4 azules, 2 rojos, 2 verdes y 2 negros), el bolígrafo más vendido del mundo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EQ3DI3M/?tag=tolees-21)
