@@ -27,8 +27,8 @@ Tienes [Samsonite 2WM Lady - Mochila para Portátil  42 cm  14.5 L  Rojo  Red ](
 
 🔎:
 
-- 70% nailon + 30% poliéster
 - Panel frontal reflectante y sistema de sujeción del casco
+- 70% nailon + 30% poliéster
 - Soporte auriculares magnético, bolsillo para el teléfono transparente y respaldo con sistema de circulación de aire Bandoleras ergonómicas con sistema de amortiguación y correa ajustable en la cintura
 - Compartimento para portátil 14\"
 - Herrajes acabado en cobre en colores Black y Old Rose, y en níquel brillante en colores Red y Gunmetal Green
