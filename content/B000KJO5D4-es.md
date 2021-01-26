@@ -28,9 +28,9 @@ Tienes [Apli 1283 - Etiquetas  100 hojas](https://www.amazon.es/dp/B000KJO5D4/?t
 🔎:
 
 - Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
-- Etiquetas Apli. A4
-- Medidas: 38 x 21.2
 - Cantidad de etiquetas : 6500
 - Formato de las etiquetas predefinido en la mayoría de softwares
+- Etiquetas Apli. A4
+- Medidas: 38 x 21.2
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000KJO5D4/?tag=tolees-21)
