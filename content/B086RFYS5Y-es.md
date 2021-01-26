@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B086RFYS5Y-es Miquel Rius Agenda Escolar Rígida de Espiral 155x213 Mm...'
 sku: 'B086RFYS5Y-es'
-tags: [ 'escolar', ]
+tags: [ 'escolar','miquel','rius', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

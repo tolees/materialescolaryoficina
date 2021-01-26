@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01EJKCWMU-es Moleskine - Set de Escritura Inteligente Cuaderno Digital...'
 sku: 'B01EJKCWMU-es'
-tags: [ 'bolígrafo', ]
+tags: [ 'bolígrafo','moleskine', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

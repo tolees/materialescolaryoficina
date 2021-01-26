@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07K7WDXQ7-es Miquelrius - Mochila Pequeña Poliéster Cierres Cremallera...'
 sku: 'B07K7WDXQ7-es'
-tags: [ 'mochila', ]
+tags: [ 'miquelrius','mochila', ]
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

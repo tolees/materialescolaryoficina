@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07JVF7FS1-es Moleskine - Agenda Semanal de 18 Meses Edición Limitada...'
 sku: 'B07JVF7FS1-es'
-tags: [ 'escolar', ]
+tags: [ 'moleskine','escolar', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95
