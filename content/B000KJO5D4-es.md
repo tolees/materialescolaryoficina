@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apli 1283 - Etiquetas  100 hojas al 26.51 % de rebaja'
-date: 2021-01-24 23:23:41
+date: 2021-01-25 23:46:50
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000KJO5D4/?tag=tolees-21'
 descuento: '26.51'
-average: '14.6743697478991'
+average: '14.6311570247934'
 ---
 
 Tienes [Apli 1283 - Etiquetas  100 hojas](https://www.amazon.es/dp/B000KJO5D4/?tag=tolees-21) con precio final de  12.06 EUR (original: 16.41 EUR) (26.51 %  de rebaja) aqui!
@@ -29,8 +29,8 @@ Tienes [Apli 1283 - Etiquetas  100 hojas](https://www.amazon.es/dp/B000KJO5D4/?t
 
 - Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
 - Etiquetas Apli. A4
-- Cantidad de etiquetas : 6500
 - Medidas: 38 x 21.2
+- Cantidad de etiquetas : 6500
 - Formato de las etiquetas predefinido en la mayoría de softwares
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000KJO5D4/?tag=tolees-21)
