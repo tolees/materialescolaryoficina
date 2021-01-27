@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Targus TSB97203GL Mochila SolLite para p al 22.22 % de rebaja'
-date: 2021-01-22 16:00:47
+date: 2021-01-27 04:57:17
 image: 'https://m.media-amazon.com/images/I/41B6ZClCJ0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,9 +27,10 @@ Tienes [Targus TSB97203GL Mochila SolLite para portátiles de 14" - Morado](http
 
 🔎:
 
-- Correas para el hombro ergonómicas, ajustables y acolchadas
-- El panel posterior de tejido de malla perforada facilita la ventilación
-- Las asas acolchadas superiores y laterales permiten transportar la mochila como un maletín
-- Correas para el esternón ajustables que ofrecen un mejor apoyo durante los viajes
+- Streamlined lightweight design with wide opening access to main compartment
+- Ergonomic padded adjustable shoulder straps and adjustable sternum straps for best support during travel
+- Dual handle design as an alternative carrying solution
+- Padded top and side handles allow you to carry the pack like a briefcase
+- Contoured padded mesh back panel with air channel for carrying comfort
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07T4LQ94J/?tag=tolees-21)
