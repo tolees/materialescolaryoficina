@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.49 % en Apli 13243- Recambio Barras de Cola Term'
-date: 2020-09-21 12:25:03
+date: 2021-01-29 18:10:35
 image: 'https://m.media-amazon.com/images/I/41uYuK+-MsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FYQTGHI/?tag=tolees-21'
 descuento: '46.49'
-average: '1.6429629629629632'
+average: '1.64142857142857'
 ---
 
 Tienes [Apli 13243- Recambio Barras de Cola Termofusible Ø 7 5 mm X 10 cm 10 Barras  Transparente - 10 Uds.](https://www.amazon.es/dp/B00FYQTGHI/?tag=tolees-21) con un 46.49 % de descuento con precio de oferta de 1.6 EUR (original: 2.99 EUR) en el siguiente enlace!
@@ -27,5 +27,10 @@ Tienes [Apli 13243- Recambio Barras de Cola Termofusible Ø 7 5 mm X 10 cm 10 Ba
 
 ℹ️:
 
+- Permiten obtener una gran precisión y limpieza en los trabajos realizados, de una manera fácil y segura
+- El complemento más eficaz y profesional para realizar tus pequeños trabajos de bricolaje en el hogar y manualidades
+- Recambio de 10 barras de cola de adhesivo termofusible de diámetro 7,5 mm x 10 cm
+- Barras de adhesivo Hot Melt que no gotea
+- Compatibles con pistolas de cola para barras de diámetro 7,5 mm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FYQTGHI/?tag=tolees-21)
