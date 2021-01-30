@@ -16,6 +16,7 @@ comparePrice: 10.5 EUR
 prodname: 'Miquelrius - Agenda 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGY22F9/?tag=tolees-21'
 descuento: '58.57'
 average: '4.35'

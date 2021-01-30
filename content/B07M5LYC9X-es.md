@@ -16,6 +16,7 @@ comparePrice: 52.0 EUR
 prodname: 'Napapijri Mochila de a Diario  Red Scarlet  Rojo  - N0YIXT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5LYC9X/?tag=tolees-21'
 descuento: '29.79'
 average: '36.51'

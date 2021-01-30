@@ -16,6 +16,7 @@ comparePrice: 8.8 EUR
 prodname: 'Bolígrafo Gel Pluma de Papelería Suministros Escuela Oficina Bolígrafos de Tinta Gel 0.5mm Azul  10 piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YSPP8WY/?tag=tolees-21'
 descuento: '20.23'
 average: '6.326666666666666'

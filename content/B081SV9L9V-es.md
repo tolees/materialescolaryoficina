@@ -16,6 +16,7 @@ comparePrice: 17.89 EUR
 prodname: 'Vogueing Tool Cinta adhesiva de esponja negra  5 m de longitud  12 mm a 50 mm de ancho  gruesa  esponja de un solo lado para evitar el aire  el polvo y la humedad en puertas  maletero  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081SV9L9V/?tag=tolees-21'
 descuento: '30.69'
 average: '12.4'

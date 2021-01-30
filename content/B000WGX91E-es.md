@@ -16,6 +16,7 @@ comparePrice: 5.9 EUR
 prodname: 'Staedler 326 WP10 - Estuche con 10 rotuladores  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WGX91E/?tag=tolees-21'
 descuento: '32.37'
 average: '4.113'

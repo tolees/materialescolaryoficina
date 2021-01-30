@@ -16,6 +16,7 @@ comparePrice: 36.3 EUR
 prodname: 'Ellesse Mochila Rolby  Hombre  Mochila  SAAY0591  negro  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G3CXKHS/?tag=tolees-21'
 descuento: '38.15'
 average: '22.45'

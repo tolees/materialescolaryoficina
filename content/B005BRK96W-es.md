@@ -16,6 +16,7 @@ comparePrice: 7.74 EUR
 prodname: 'BIC Cristal Original bolígrafos punta media  1 0 mm  – colores Surtidos  Blíster de 20+7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005BRK96W/?tag=tolees-21'
 descuento: '22.74'
 average: '6.197692307692308'

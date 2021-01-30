@@ -16,6 +16,7 @@ comparePrice: 8.3 EUR
 prodname: 'Rotulador STABILO Pen 68 - Estuche con 10 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0007OEE1K/?tag=tolees-21'
 descuento: '27.71'
 average: '6.0'

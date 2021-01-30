@@ -16,6 +16,7 @@ comparePrice: 2.1 EUR
 prodname: 'BIC Cristal Original Punta Fina - Estuche de 4 bolígrafos  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007W1HI7I/?tag=tolees-21'
 descuento: '24.76'
 average: '1.58'

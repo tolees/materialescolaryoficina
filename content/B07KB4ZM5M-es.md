@@ -16,6 +16,7 @@ comparePrice: 52.65 EUR
 prodname: 'Miquelrius - Mochila Grande Poliéster Con Carro Cierres Cremallera Sakura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KB4ZM5M/?tag=tolees-21'
 descuento: '68.77'
 average: '16.44'

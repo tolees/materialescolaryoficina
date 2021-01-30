@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Kipling ECHO Bolsa escolar  50 cm  29 liters  Multicolor  Hearty Pink Met '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFKSNHY/?tag=tolees-21'
 descuento: '25.55'
 average: '148.16'

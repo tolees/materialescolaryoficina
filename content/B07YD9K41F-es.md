@@ -16,6 +16,7 @@ comparePrice: 30.18 EUR
 prodname: 'Anano Mochila de Senderismo  actualización de 40 L  Mochila Resistente al Agua para Trekking  montañismo  Mochila para Viajes  Escalada  Ciclismo  Correr  Camping  Deportes al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YD9K41F/?tag=tolees-21'
 descuento: '37.08'
 average: '18.99'

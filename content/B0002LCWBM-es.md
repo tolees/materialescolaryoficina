@@ -16,6 +16,7 @@ comparePrice: 2.0 EUR
 prodname: 'Fiskars 1003859 - Tijeras para niños  color azul or verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002LCWBM/?tag=tolees-21'
 descuento: '50.00'
 average: '1.0'

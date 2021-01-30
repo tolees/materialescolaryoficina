@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'TANDES KIDS Máquina de burbujas para niños Rana de pompas baño - Incluye botella de solución más 5 recambios  mochila y manual de usuario - Fiestas al aire libre - 500 burbujas Juguetes Bebes 1 año'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFW1K45/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

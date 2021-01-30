@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Eastpak London+ Mochila  45 cm  21 L  Gris  Black Denim '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X51DXTM/?tag=tolees-21'
 descuento: '30.00'
 average: '31.5'

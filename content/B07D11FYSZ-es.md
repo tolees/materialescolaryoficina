@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Kipling CLASSIC NIMAN FOLD Mochila tipo casual  49 cm  21 liters  Amarillo  Lively Yellow '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D11FYSZ/?tag=tolees-21'
 descuento: '35.10'
 average: '48.61'

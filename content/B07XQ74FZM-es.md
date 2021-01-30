@@ -16,6 +16,7 @@ comparePrice: 51.71 EUR
 prodname: 'Bolígrafo Por Scriveiner London - Bolígrafo de Gama Alta Negro con Acabado de 24 Quilates  Recambio Negro Schmidt  Regalos Hombre y Mujer  Bolígrafos Profesionales de Diseño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQ74FZM/?tag=tolees-21'
 descuento: '42.00'
 average: '29.99'

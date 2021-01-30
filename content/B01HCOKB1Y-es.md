@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'TYR Alliance 45L Mochila  Unisex Adulto  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HCOKB1Y/?tag=tolees-21'
 descuento: '21.82'
 average: '46.9'

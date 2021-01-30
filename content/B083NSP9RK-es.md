@@ -16,6 +16,7 @@ comparePrice: 25.78 EUR
 prodname: 'Queta Pizarra Mágica Dibujo con Luz para Niños  Tablero 3D Mágico con Luces LED para Niños  Boceto  Arte  Juguetes Educativos  Incluye 7 Plantillas  4 Bolígrafos  1 Paño de Limpieza  Luz '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NSP9RK/?tag=tolees-21'
 descuento: '50.00'
 average: '12.89'

@@ -16,6 +16,7 @@ comparePrice: 107.0 EUR
 prodname: 'Roncato Mochila Porta Computador Ironik - cm. 40 x 55 x 20 Capacidad 39 L  Ligero  Garantìa 2 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BNU0J24/?tag=tolees-21'
 descuento: '28.85'
 average: '76.13'

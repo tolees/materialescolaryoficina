@@ -16,6 +16,7 @@ comparePrice: 9.63 EUR
 prodname: 'Rotulador punta media 0 8 STABILO pointMax - Estuche con 8 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N48CKPC/?tag=tolees-21'
 descuento: '68.85'
 average: '3.316666666666667'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Convey Mochila con la Parte Superior Enrollada  Unisex Adulto  Verde  Rain Forest   O/S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7BKQQP/?tag=tolees-21'
 descuento: '45.01'
 average: '38.49'

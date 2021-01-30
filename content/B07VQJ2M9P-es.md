@@ -16,6 +16,7 @@ comparePrice: 22.5 EUR
 prodname: 'Carioca Color Box | 100 Rotuladores Super Lavables con una Caja de Metal Amarilla  Rotuladores Punta Fina y Punta Maxi con Álbum para Colorear  100 Rotuladores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQJ2M9P/?tag=tolees-21'
 descuento: '24.98'
 average: '16.88'

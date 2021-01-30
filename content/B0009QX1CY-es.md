@@ -16,6 +16,7 @@ comparePrice: 27.73 EUR
 prodname: 'Dymo D1 Standard  Cintas para Impresoras de Etiquetas  19 mm x 7 m  Negro sobre Transparente  Estándar Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009QX1CY/?tag=tolees-21'
 descuento: '27.05'
 average: '20.23'

@@ -16,6 +16,7 @@ comparePrice: 18.56 EUR
 prodname: 'Pilot Frixion - Pack de 12 rotuladores  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CWX4KLI/?tag=tolees-21'
 descuento: '25.92'
 average: '11.966666666666667'

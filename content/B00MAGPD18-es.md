@@ -16,6 +16,7 @@ comparePrice: 12.55 EUR
 prodname: 'Pilot Negro frixion Punta Redonda borrable bolígrafos Recambio Tinta BLS-fr7  9 repuestos   Pack of 3  9 Refills '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MAGPD18/?tag=tolees-21'
 descuento: '27.49'
 average: '9.1'

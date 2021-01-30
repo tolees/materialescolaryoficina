@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Acmebon Mochila Escolar de Ocio Ligera y Moderna - Cartera Escolar para Niñas y Niños con Lindo Estampado Cactus 626'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XX8WVP/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'APLI Kids - Bolsa goma EVA azul claro  400x600x2mm 5 hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C6ZIH16/?tag=tolees-21'
 descuento: '64.15'
 average: '3.94'

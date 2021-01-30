@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Rrtizan Bolsa de Computadora de Viaje para Hombres y Mujeres  Mochila de Negocios Portátil a Prueba de Agua de 17 Pulgadas con Puerto de Carga USB  Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQ5HL2C/?tag=tolees-21'
 descuento: '72.99'
 average: '12.8075'

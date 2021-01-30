@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Quiksilver Small Everyday Edition - Mochila Mediana Para Hombre Mochila Mediana  Hombre  Black  1SZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBFZK8P/?tag=tolees-21'
 descuento: '42.84'
 average: '15.175'

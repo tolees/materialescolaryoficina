@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'American Tourister Urban Groove - 15.6 Pulgadas Mochila para Portátil  48 cm  26 L  Azul  True Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RL321JG/?tag=tolees-21'
 descuento: '32.56'
 average: '32.580000000000005'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Eastpak Orbit Mochila Infantil  34 cm  10 Liters  Rosa  Tropical Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNZCHX8/?tag=tolees-21'
 descuento: '50.00'
 average: '33.405'

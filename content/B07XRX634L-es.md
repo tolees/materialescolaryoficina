@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'CARPISA ® Mochila de fantasía - Foresta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRX634L/?tag=tolees-21'
 descuento: '49.98'
 average: '14.98'

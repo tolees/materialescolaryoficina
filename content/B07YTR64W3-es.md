@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Samsonite Paradiver Light Mochila Infantil  S+  42 cm 10 L   Multicolor  R2D2 Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YTR64W3/?tag=tolees-21'
 descuento: '60.72'
 average: '35.94375'

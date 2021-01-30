@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Smyidel Tabla de Dibujo Portátil para Niños  Tablero de Dibujo de Graffiti  Bloc de Dibujo portátil borrable  Reutilizable 12 bolígrafos borrables de Color 14 Página  Bird '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRSY3CV/?tag=tolees-21'
 descuento: '15.80'
 average: '15.99'

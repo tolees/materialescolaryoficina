@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'AYUN 20pcs palillo de bolígrafos Bone bolígrafo con Tinta Negro de Doctor Nurse Amigos Estudiantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876S6DCW/?tag=tolees-21'
 descuento: '49.13'
 average: '9.92'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Pepe Jeans Daphne  Mochila Dos Compartimentos Con Portatablet  33 cm  10.3 liters  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9NXRBD/?tag=tolees-21'
 descuento: '19.99'
 average: '56'

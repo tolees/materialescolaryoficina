@@ -16,6 +16,7 @@ comparePrice: 40.33 EUR
 prodname: 'Parker Jotter Originals - Colección de bolígrafos  surtido de acabados retro  punta mediana  cuatro unidades  tinta negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5FHBPH/?tag=tolees-21'
 descuento: '46.62'
 average: '20.293333333333333'

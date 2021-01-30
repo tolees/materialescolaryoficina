@@ -16,6 +16,7 @@ comparePrice: 18.68 EUR
 prodname: 'Winsor & Newton - Bloc de 50 hojas de papel para rotuladores  A3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017TZM0YM/?tag=tolees-21'
 descuento: '42.93'
 average: '11.346666666666668'

@@ -16,6 +16,7 @@ comparePrice: 9.82 EUR
 prodname: 'Depesche 10709 Magic Scratch Book Miss Melody - Libro para Colorear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQLZ46C/?tag=tolees-21'
 descuento: '26.17'
 average: '7.25'

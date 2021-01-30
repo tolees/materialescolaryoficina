@@ -16,6 +16,7 @@ comparePrice: 47.39 EUR
 prodname: 'Eono 30L Waterproof  Ultralight Hiking Backpack with Internal Frame and Breathable Mesh Back'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCDW23Z/?tag=tolees-21'
 descuento: '20.00'
 average: '37.91'

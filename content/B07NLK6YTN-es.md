@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Mochila Infantil 3D Lady Bug'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLK6YTN/?tag=tolees-21'
 descuento: '21.93'
 average: '12.713333333333333'

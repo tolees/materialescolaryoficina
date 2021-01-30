@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Lifewit Mochila Portatil 15.6 Pulgadas para Hombre Impermeable Multifuncional Mochila para Ordenador Notebook Ideal para Estudiantes/ Negocios/ Viajes Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHWB78N/?tag=tolees-21'
 descuento: '50.01'
 average: '25.156666666666666'

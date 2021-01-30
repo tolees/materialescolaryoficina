@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Kipling MIYO Mochila Escolar  25 cm  8 Liters  Azul  Marine Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5Q11LC/?tag=tolees-21'
 descuento: '55.81'
 average: '26.07'

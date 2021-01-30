@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Estuche para Lápices BETOY Grande Capacidad Estuche Escolar para Estudiantes Papelería Bolsa de Lápiz Portable Estuche Organizador 20CM para Hombre Mujer Estudiante en Escuela Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08318LNVD/?tag=tolees-21'
 descuento: '15.55'
 average: '10.97'

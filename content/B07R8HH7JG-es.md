@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Vans OLD SKOOL III BACKPACK Mochila tipo casual  42 cm  22 L  Rojo  Cerise '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R8HH7JG/?tag=tolees-21'
 descuento: '50.00'
 average: '21.011176470588236'

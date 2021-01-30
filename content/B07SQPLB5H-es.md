@@ -16,6 +16,7 @@ comparePrice: 41 EUR
 prodname: 'Pepe Jeans Calvin Mochila Adaptable  Multicolor  44 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQPLB5H/?tag=tolees-21'
 descuento: '35.24'
 average: '26.55'

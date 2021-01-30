@@ -16,6 +16,7 @@ comparePrice: 5.93 EUR
 prodname: 'APLI 18419 - Estuche silicona Fluor Collection - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CKGGTTQ/?tag=tolees-21'
 descuento: '16.53'
 average: '5.6033333333333335'

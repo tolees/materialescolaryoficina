@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Juego de pintura de acuarela  48 colores profesionales  12 colores metálicos brillantes  lápiz de dibujo  bolígrafo de línea de gancho  caja de metal para niños  adultos  principiantes y profesionales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CDYRVDZ/?tag=tolees-21'
 descuento: '37.22'
 average: '26.99'

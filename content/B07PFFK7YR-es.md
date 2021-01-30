@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Samsonite Ziproll Mochila para portátil de 13.3 pulgadas  37 cm  19 L   Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFFK7YR/?tag=tolees-21'
 descuento: '35.89'
 average: '54.49'

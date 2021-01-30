@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Milan Capsule Uno - Bolígrafo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWK1ZW3/?tag=tolees-21'
 descuento: '69.92'
 average: '1.2188888888888885'

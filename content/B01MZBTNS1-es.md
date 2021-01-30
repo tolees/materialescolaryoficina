@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: '45L de Alta Capacidad Resistente al Agua de Viaje al Aire Libre Camping Ciclismo Multifunción Mochila Laptop Computer Bag No.2227  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZBTNS1/?tag=tolees-21'
 descuento: '54.55'
 average: '29.99'

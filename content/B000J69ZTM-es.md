@@ -16,6 +16,7 @@ comparePrice: 13.03 EUR
 prodname: 'Pilot 495518 - Bolígrafo  Azul  Azul  Transparente    12 unidades  medio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000J69ZTM/?tag=tolees-21'
 descuento: '27.17'
 average: '9.723333333333333'

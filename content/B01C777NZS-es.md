@@ -16,6 +16,7 @@ comparePrice: 4.33 EUR
 prodname: 'APLI Kids 14227 - Color Sticks 10 g 6 u.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C777NZS/?tag=tolees-21'
 descuento: '21.02'
 average: '3.875'

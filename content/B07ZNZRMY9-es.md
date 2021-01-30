@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Vicloon Bolsas de Documentos A5  10 Piezas Carpetas para Archivo Documentos de plástico con Malla  Bolsa de Archivo de Cremallera para Certificados Recibos Papelería Oficina Viaje Tarea Escolar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZNZRMY9/?tag=tolees-21'
 descuento: '33.36'
 average: '7.99'

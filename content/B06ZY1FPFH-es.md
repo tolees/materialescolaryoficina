@@ -16,6 +16,7 @@ comparePrice: 83.53 EUR
 prodname: 'NORSENS Robo de Mochila portátil de 15 6/14 Pulgadas de Hombres Impermeable Mochila portátil de Entretenimiento/Negocio / Escuela Gris Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZY1FPFH/?tag=tolees-21'
 descuento: '86.53'
 average: '16.535'

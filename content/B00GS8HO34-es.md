@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Caja de 3 rotuladores de punta fina Pigma Micron  modelo POXSDK3  de Sakura. Color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GS8HO34/?tag=tolees-21'
 descuento: '28.00'
 average: '5.4'

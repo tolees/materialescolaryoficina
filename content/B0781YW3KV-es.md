@@ -16,6 +16,7 @@ comparePrice: 5.37 EUR
 prodname: 'BIC Kids Evolution Stripes Lápices de colores - colores Surtidos  Blíster de 18 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781YW3KV/?tag=tolees-21'
 descuento: '27.37'
 average: '4.383333333333333'

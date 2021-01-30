@@ -16,6 +16,7 @@ comparePrice: 56.7 EUR
 prodname: 'Artesania Cerda Luces Lol  Mochila Casual  41 cm  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFSL2HL/?tag=tolees-21'
 descuento: '63.14'
 average: '20.9'

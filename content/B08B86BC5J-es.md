@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Mochila Niña 3 en 1 Sets de Bolsas Escolares Primaria Mochilas Infantiles Mochilas Unicornio Niño Mochila con Bolsa del Almuerzo + Estuche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B86BC5J/?tag=tolees-21'
 descuento: '45.82'
 average: '32.5'

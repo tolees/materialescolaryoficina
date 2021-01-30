@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Mochila para Portátil de Negocios Impermeable Mochila Antirrobo de Viaje Estudiantes Universitarios Hombres y Mujeres Bolsa  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FD7XDF8/?tag=tolees-21'
 descuento: '52.23'
 average: '36.5225'

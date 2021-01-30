@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Joymoze Mochila Escolar Impermeable para niño y niña Mochila para Adolescente Mochila para Mujer Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083WN9RQ8/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

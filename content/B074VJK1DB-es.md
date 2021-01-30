@@ -16,6 +16,7 @@ comparePrice: 20.17 EUR
 prodname: 'Parker Jotter London - Paquete de recambios Discovery tres recambios Quinkflow para bolígrafos y tres recambios de tinta de gel Quink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074VJK1DB/?tag=tolees-21'
 descuento: '38.32'
 average: '13.676666666666666'

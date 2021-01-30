@@ -16,6 +16,7 @@ comparePrice: 25.81 EUR
 prodname: 'Mochila  mochila escolar  mochila deportiva  mochila para el tiempo libre  mochila para niñas  mujeres  jóvenes  mochila escolar  azul oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM2F3KT/?tag=tolees-21'
 descuento: '46.73'
 average: '13.75'

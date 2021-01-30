@@ -16,6 +16,7 @@ comparePrice: 274.98 EUR
 prodname: 'HUION KAMVAS Pro 13  GT-133  120% sRGB Montura de Vidrio antirreflejo Laminado Completo Monitor con Pantalla sin lápiz con función de inclinación  266PPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L62CT4G/?tag=tolees-21'
 descuento: '15.00'
 average: '233.73'

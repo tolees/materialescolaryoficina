@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Cross Edge - Bolígrafo roller  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0044R7EHM/?tag=tolees-21'
 descuento: '50.40'
 average: '39.9'

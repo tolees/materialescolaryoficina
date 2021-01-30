@@ -16,6 +16,7 @@ comparePrice: 18.75 EUR
 prodname: 'Real Madrid CF 611854662 Mochila Adaptable a Carro  Niños  Blanco  43 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4KDCDR/?tag=tolees-21'
 descuento: '24.53'
 average: '14.15'

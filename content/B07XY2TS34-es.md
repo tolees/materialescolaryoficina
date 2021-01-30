@@ -16,6 +16,7 @@ comparePrice: 26.9 EUR
 prodname: 'int!rend Caja de regalo | incluye 10 rotuladores metálicos  caja de sorpresa personalizada  para cumpleaños  bodas  álbum de fotos creativo para amigos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XY2TS34/?tag=tolees-21'
 descuento: '26.02'
 average: '19.9'

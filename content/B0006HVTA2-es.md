@@ -16,6 +16,7 @@ comparePrice: 8.35 EUR
 prodname: 'BIC Soft Feel - Caja de 12 unidades  bolígrafos retráctiles Grip punta media  1 0 mm   color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0006HVTA2/?tag=tolees-21'
 descuento: '26.71'
 average: '6.12'

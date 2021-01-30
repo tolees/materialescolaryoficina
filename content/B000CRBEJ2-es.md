@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Eastpak Padded Pak r Mochila  40 cm  24 L  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000CRBEJ2/?tag=tolees-21'
 descuento: '27.02'
 average: '29.920909090909095'

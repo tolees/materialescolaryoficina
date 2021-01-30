@@ -16,6 +16,7 @@ comparePrice: 3.54 EUR
 prodname: 'Pilot IC-50 Negras – Cartuchos para bolígrafos Pluma estilográfica 6 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004H4ITQC/?tag=tolees-21'
 descuento: '26.55'
 average: '2.6'

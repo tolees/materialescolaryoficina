@@ -16,6 +16,7 @@ comparePrice: 35.3 EUR
 prodname: 'Parker IM - Bolígrafo Roller  Punto fino  color Acero  Brushed Metal Golden trim '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYP69HZ/?tag=tolees-21'
 descuento: '37.73'
 average: '21.98'

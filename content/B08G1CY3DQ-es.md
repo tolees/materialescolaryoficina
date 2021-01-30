@@ -16,6 +16,7 @@ comparePrice: 40.07 EUR
 prodname: 'Vangonee - Lápices de dibujo  95 unidades   color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G1CY3DQ/?tag=tolees-21'
 descuento: '45.00'
 average: '22.04'

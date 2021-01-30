@@ -16,6 +16,7 @@ comparePrice: 83.0 EUR
 prodname: 'Transformers Play-Doh Autobot Sqweeks  Multicolor  24 x 24 x 15 cm  Hasbro C0935EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9BMPWL/?tag=tolees-21'
 descuento: '63.33'
 average: '30.22'

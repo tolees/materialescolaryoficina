@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Milán - Expositor 20 bolígrafos Compact verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P91XXXQ/?tag=tolees-21'
 descuento: '50.39'
 average: '7.623750000000001'

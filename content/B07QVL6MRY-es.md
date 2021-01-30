@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'KIWI Design dji Osmo Pocket Accesorios - Extension Accesorios Kit: Soporte de Extensión  Selfie Stick  Mini Trípode Flexible  Clip de Mochila  Soporte para Bicicleta  Soporte de Ventosa  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVL6MRY/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

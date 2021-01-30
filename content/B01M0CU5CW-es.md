@@ -16,6 +16,7 @@ comparePrice: 41.82 EUR
 prodname: 'Tech air TAECB001 maletines para portátil 39 6 cm  15.6"  Mochila para Tablet Negro - Funda  Mochila para Tablet  39 6 cm  15.6"   660 g  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0CU5CW/?tag=tolees-21'
 descuento: '52.39'
 average: '19.5475'

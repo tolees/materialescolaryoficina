@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Desire Deluxe Rotuladores Pintura Acrílica para Madera  Tela  Piedras  Cerámica y Vidrio  12 Colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RSWWMLG/?tag=tolees-21'
 descuento: '20.01'
 average: '11.19'

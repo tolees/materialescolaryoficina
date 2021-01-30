@@ -16,6 +16,7 @@ comparePrice: 94.0 EUR
 prodname: 'Faber-Castell Ambition - Roller de bola  madera de peral'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000REHKUC/?tag=tolees-21'
 descuento: '17.73'
 average: '77.33'

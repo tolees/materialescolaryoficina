@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Ergobaby - Mochila Portabebé Original Downtown'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GYRFWPG/?tag=tolees-21'
 descuento: '37.45'
 average: '75.0'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'EverVanz Mochila de Lona para Portátil  Maleta Grande para Escuela  Viajes o Senderismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSHVQWH/?tag=tolees-21'
 descuento: '53.76'
 average: '37.59'

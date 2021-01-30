@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Miquel Rius Agenda Escolar Rígida de Espiral 155x213 Mm Semana Vista 2020 MissBorderlike Despreocupate Aguamarina Castellano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086RFYS5Y/?tag=tolees-21'
 descuento: '30.00'
 average: '11.55'

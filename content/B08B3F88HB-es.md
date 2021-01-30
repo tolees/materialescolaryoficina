@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Jarra de Leche de Acero Inoxidable  350 ml Taza de Café de Mano con Marca de Medición y Lápiz Artístico de Leche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3F88HB/?tag=tolees-21'
 descuento: '28.59'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 13.89 EUR
 prodname: 'Cyelk Afilador de Cuchillos Profesional  4 Etapas Knife Sharpener  4 en 1 Afilador de Cocina Manual  para Cuchillos y Tijeras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084ZGMY3S/?tag=tolees-21'
 descuento: '15.05'
 average: '13.675'

@@ -16,6 +16,7 @@ comparePrice: 4.79 EUR
 prodname: 'V-SOL Vintage Floral Bolsa Bolsillo Escolar de Lápiz Bolígrafo Pluma Ethnic Modelo C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LAZLPBG/?tag=tolees-21'
 descuento: '30.06'
 average: '3.35'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Miquelrius 17284 - Cubilete Rosa  Bella Garden'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGZ7LKF/?tag=tolees-21'
 descuento: '42.04'
 average: '6.95'

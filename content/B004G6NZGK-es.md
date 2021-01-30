@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'BIC Grip Pro 4 Colours - Pack de 12 bolígrafos con zona de agarre  tinta multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004G6NZGK/?tag=tolees-21'
 descuento: '40.54'
 average: '16.01'

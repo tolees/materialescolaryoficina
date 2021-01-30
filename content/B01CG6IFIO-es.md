@@ -16,6 +16,7 @@ comparePrice: 2.56 EUR
 prodname: 'Ceras PLASTIDECOR Pastel Estuche DE 12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CG6IFIO/?tag=tolees-21'
 descuento: '41.02'
 average: '1.712'

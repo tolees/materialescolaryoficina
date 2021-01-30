@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Cross Classic Century Bolígrafo - plata de ley'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000F0QMBG/?tag=tolees-21'
 descuento: '25.35'
 average: '104.90333333333334'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'BONNYCO Bolígrafo Tinta Invisible y Libreta Pack x 32 Cumpleaños Niños Colegio  Detalles Cumpleaños Infantiles o Relleno Piñata | Regalos para Niños en Comunión y Boda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PPX2QG/?tag=tolees-21'
 descuento: '32.53'
 average: '26.99'

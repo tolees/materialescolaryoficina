@@ -16,6 +16,7 @@ comparePrice: 66.4 EUR
 prodname: 'WowPrint - Mochila con diseño de caballos para el hombro  para la escuela  senderismo  viajes  mochila informal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH4CP5F/?tag=tolees-21'
 descuento: '55.02'
 average: '29.87'

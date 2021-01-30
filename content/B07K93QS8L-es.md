@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Karactermania Harry Potter Pride Gryffindor  Mochila Tipo Casual  48 cm  28 litros  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K93QS8L/?tag=tolees-21'
 descuento: '16.45'
 average: '62.17333333333334'

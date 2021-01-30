@@ -16,6 +16,7 @@ comparePrice: 6.72 EUR
 prodname: 'Faber-Castell 566 - Escuadra de 25 cm  color verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMD1O42/?tag=tolees-21'
 descuento: '24.40'
 average: '6.064'

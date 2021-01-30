@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Artina Set de Pinceles de Pintura Amsterdam. Juego de 17 Pinceles en Estuche con Soporte para Pinceles Ideal para acrílicos  óleo y Acuarelas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8R6KPN/?tag=tolees-21'
 descuento: '28.51'
 average: '14.29'

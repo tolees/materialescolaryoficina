@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling CLAS SEOUL Mochila escolar  45 cm  25 liters  Morado  Active Lilac Bl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRLVGHS/?tag=tolees-21'
 descuento: '45.00'
 average: '52.25'

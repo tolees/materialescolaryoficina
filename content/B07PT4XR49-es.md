@@ -16,6 +16,7 @@ comparePrice: 14.58 EUR
 prodname: 'Grip BE-TOOL - Juego de bolígrafos de punta redonda de tinta de gel para uso escolar y doméstico  0 5 mm  12 unidades  color negro  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT4XR49/?tag=tolees-21'
 descuento: '54.05'
 average: '6.7'

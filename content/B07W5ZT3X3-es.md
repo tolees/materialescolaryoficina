@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Calculadoras Científicas - Calculadora Científica Matemática Con Pantalla LCD Cubierta Dura Protectora Deslizable Para GCSE y Examen de Nivel A Calculadora Científica Escolar Batería Incluida  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5ZT3X3/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

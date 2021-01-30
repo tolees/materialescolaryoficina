@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Samsonte Cityvibe 2.0 - Mochila para portátil pequeño  41 cm  17 5 litros  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5YWHP2/?tag=tolees-21'
 descuento: '24.70'
 average: '86.26666666666667'

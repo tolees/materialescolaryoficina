@@ -16,6 +16,7 @@ comparePrice: 10.21 EUR
 prodname: 'Apli - Etiquetas Adhesivas multi3 para Inkjet Laser y fotocopiadoras Cantos Rectos 100 Hojas 105 x 37mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008OF9DCE/?tag=tolees-21'
 descuento: '36.34'
 average: '6.5'

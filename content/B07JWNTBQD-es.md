@@ -16,6 +16,7 @@ comparePrice: 324.95 EUR
 prodname: 'Lowepro Whistler Backpack 350 AW II Negro - Funda  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWNTBQD/?tag=tolees-21'
 descuento: '32.64'
 average: '218.89'

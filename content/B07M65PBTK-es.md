@@ -16,6 +16,7 @@ comparePrice: 25.01 EUR
 prodname: 'UTOTEBAG Mochila Portátil 15.6 Pulgadas Mochilas para Ordenador Portatil Antirrobo Impermeable con Puerto USB Ocio/Negocio/Viaje  Hombre/Mujer- Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M65PBTK/?tag=tolees-21'
 descuento: '36.07'
 average: '15.99'

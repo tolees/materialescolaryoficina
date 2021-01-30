@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Targus TSB700EU - Mochila Sport con Ruedas para portátiles de hasta 15.6"  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000JJN4P0/?tag=tolees-21'
 descuento: '19.52'
 average: '64.55'

@@ -16,6 +16,7 @@ comparePrice: 18.88 EUR
 prodname: 'Apli 1298 - Etiquetas  100 hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KJKGJG/?tag=tolees-21'
 descuento: '25.37'
 average: '14.09'

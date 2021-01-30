@@ -16,6 +16,7 @@ comparePrice: 83.98 EUR
 prodname: 'Mardingtop 65/75L Mochila Táctica Militar Mochila de Asalto para Senderismo Acampada Senderismo Outdoor  Gran Capacidad  Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRWQZX7/?tag=tolees-21'
 descuento: '15.00'
 average: '71.38'

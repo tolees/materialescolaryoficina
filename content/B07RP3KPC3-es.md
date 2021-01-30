@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Calvin Klein - Ck Must Psp20 Sml Backpack  Bolsos totes Mujer  Rojo  Tibetan Red   13x40x30 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RP3KPC3/?tag=tolees-21'
 descuento: '52.94'
 average: '61.275'

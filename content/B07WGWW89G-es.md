@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Tablero de Escritura LCD TEKFUN  Tablero de Graffiti  Tablero de Escritura de 8.5 Pulgadas con Bloqueo de Pantalla borrable y función Reutilizable Cuaderno Escolar y de Oficina  Regalo para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGWW89G/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Play Doh - Disney Buzz Lightyear  Hasbro  E3369EU5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMLL24R/?tag=tolees-21'
 descuento: '37.37'
 average: '14.164'

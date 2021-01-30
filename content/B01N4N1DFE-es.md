@@ -16,6 +16,7 @@ comparePrice: 17.82 EUR
 prodname: 'Faber-Castell 155534 - Caja metálica con 33 rotuladores Connector  10 clips y 2 plantillas para colorear con motivo de bailarina  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4N1DFE/?tag=tolees-21'
 descuento: '17.45'
 average: '14.335'

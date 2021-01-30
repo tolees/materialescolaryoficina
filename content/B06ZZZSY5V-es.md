@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Keep Out Gaming BK7GXL Mochila para portáil Gaming de 17"  Negro y Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZZSY5V/?tag=tolees-21'
 descuento: '20.06'
 average: '39.89'

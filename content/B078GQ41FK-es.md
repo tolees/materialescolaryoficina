@@ -16,6 +16,7 @@ comparePrice: 7.04 EUR
 prodname: 'APLI Kids- Bloc  16525 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GQ41FK/?tag=tolees-21'
 descuento: '27.13'
 average: '5.13'

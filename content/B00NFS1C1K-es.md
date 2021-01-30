@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Bestway Dura-Trek - Mochila  65 litros  70 x 32 x 22 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NFS1C1K/?tag=tolees-21'
 descuento: '61.58'
 average: '30.72'

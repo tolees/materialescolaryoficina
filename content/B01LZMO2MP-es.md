@@ -16,6 +16,7 @@ comparePrice: 5.8 EUR
 prodname: 'Marcador Pastel STABILO BOSS Original - Estuche con 4 colores pastel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZMO2MP/?tag=tolees-21'
 descuento: '32.93'
 average: '4.7075000000000005'

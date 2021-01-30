@@ -16,6 +16,7 @@ comparePrice: 12.33 EUR
 prodname: 'Rotulador con Punta Fina de Pincel de Pelo para Caligrafia China y Japonesa 4326'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HFFOBLQ/?tag=tolees-21'
 descuento: '32.85'
 average: '8.28'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'ZOMAKE Mochila Plegable Ligera 20L  Mochilas Pequeñas para Hombre Mujer  Mochilas Compacta para Viajar Senderismo Rosa Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBW6VTG/?tag=tolees-21'
 descuento: '15.85'
 average: '15.98'

@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'TRIXES Bolígrafo Stylus Negro de Punta Fina para Pantallas Táctiles Capacitivas de Teléfonos Inteligentes y Tabletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGHMY5N/?tag=tolees-21'
 descuento: '22.44'
 average: '3.87'

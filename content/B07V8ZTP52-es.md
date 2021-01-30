@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Tommy Hilfiger - Kids Core Backpack  Mochilas Unisex Niños  Azul  Desert Sky   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8ZTP52/?tag=tolees-21'
 descuento: '51.62'
 average: '31.625000000000004'

@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Vans Old Skool Iii - Mochila para hombre  color  talla OS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089YTPR34/?tag=tolees-21'
 descuento: '28.97'
 average: '26.99'

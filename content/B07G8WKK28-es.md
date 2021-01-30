@@ -16,6 +16,7 @@ comparePrice: 25.78 EUR
 prodname: 'LIANCHENYI Runway - Mochila de viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8WKK28/?tag=tolees-21'
 descuento: '30.45'
 average: '17.93'

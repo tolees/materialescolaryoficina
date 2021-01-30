@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Huyeta Stylus Pen para Apple Pencil Lápiz Stylus Recargable de 1.5 mm Punto Fino para iPhones/Android/Todas Las Tabletas con Pantalla Táctil y Teléfonos Móviles para Dibujar y Escribir  K811 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QMWDP5/?tag=tolees-21'
 descuento: '16.67'
 average: '24.99'

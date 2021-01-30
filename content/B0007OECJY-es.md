@@ -16,6 +16,7 @@ comparePrice: 21.85 EUR
 prodname: 'Faber-Castell 110012 - Lápices  12 unidades;Faber-Castel 110012 - Künstler Farbstifte Polychromos 12Stück in Metallbox'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0007OECJY/?tag=tolees-21'
 descuento: '21.92'
 average: '17.06'

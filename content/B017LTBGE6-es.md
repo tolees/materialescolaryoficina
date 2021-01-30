@@ -16,6 +16,7 @@ comparePrice: 11.22 EUR
 prodname: 'Boma B47008400013 - Cinta adhesiva para reparación  50 mm x 10 m   color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017LTBGE6/?tag=tolees-21'
 descuento: '21.84'
 average: '8.835'

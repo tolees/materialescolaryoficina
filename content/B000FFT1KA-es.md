@@ -16,6 +16,7 @@ comparePrice: 9.29 EUR
 prodname: 'STAEDTLER Ergo Soft - Lápices de Colores  12 Unidades   Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000FFT1KA/?tag=tolees-21'
 descuento: '22.93'
 average: '9.1025'

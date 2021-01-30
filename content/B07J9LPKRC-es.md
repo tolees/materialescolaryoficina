@@ -16,6 +16,7 @@ comparePrice: 46.0 EUR
 prodname: 'Mochila para portátil Movom Business con bandolera Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J9LPKRC/?tag=tolees-21'
 descuento: '20.65'
 average: '36.5'

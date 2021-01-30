@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Maped Color  Peps Jungle - Rotuladores de Colores  24 Unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C75DSKK/?tag=tolees-21'
 descuento: '20.84'
 average: '4.3500000000000005'

@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'Inateck 40L-44L Mochila de Viaje  Cabina Mochila de Equipaje de Mano Maleta Antirrobo TSA Friendly Negocios Mochila aprobada por Avion  Compatible con Portátil de 17.3 Pulgadas  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y2ZFL6R/?tag=tolees-21'
 descuento: '19.70'
 average: '52.99'

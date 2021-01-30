@@ -16,6 +16,7 @@ comparePrice: 39.52 EUR
 prodname: 'AspenSport Mount Cook - Mochila  65 L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001AH2XZM/?tag=tolees-21'
 descuento: '32.84'
 average: '34.0'

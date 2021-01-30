@@ -16,6 +16,7 @@ comparePrice: 11.14 EUR
 prodname: 'Conté Colouring Lápices de colores - colores Surtidos  Caja Metálica de 24 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LD5SAEY/?tag=tolees-21'
 descuento: '50.90'
 average: '5.47'

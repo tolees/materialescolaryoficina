@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Cross Classic Century - Bolígrafo  color oro de 10kts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00000IRGG/?tag=tolees-21'
 descuento: '37.38'
 average: '84.54'

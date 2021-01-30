@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Mochila Portabebés Ergonómico  Hommie Mochilas para Bebes Puro Algodón Ligero y Multiuso  Portabebés Transpirable Ideal para Recién Nacidos y Niños de 0 a 2 Años  3.5 a 20Kg  2019 Nueva Versión  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXNP6N8/?tag=tolees-21'
 descuento: '30.78'
 average: '26.99'

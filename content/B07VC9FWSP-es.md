@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Mochila dos compartimentos con portatablet Pepe Jeans Daphne Ocre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC9FWSP/?tag=tolees-21'
 descuento: '19.99'
 average: '56.0'

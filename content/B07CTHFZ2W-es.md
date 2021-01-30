@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'E·Durable Mini Pistola manualidades con 50 Piezas Barras de Pegamento para DIY Pequeño Arte  Empaques  Reparaciones Rápidas y en el hogar  oficina y escuela   15W~25W  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTHFZ2W/?tag=tolees-21'
 descuento: '20.01'
 average: '12.656666666666666'

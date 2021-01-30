@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Mochila Enso Dreams 40cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFJFG71/?tag=tolees-21'
 descuento: '15.00'
 average: '30.47'

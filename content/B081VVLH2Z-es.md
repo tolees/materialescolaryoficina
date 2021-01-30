@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Vans Ss20 Realm BackPACK  OS Negro mochila  Mochila real  VN0A3UI6PUB1  Exuberancia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081VVLH2Z/?tag=tolees-21'
 descuento: '44.00'
 average: '28.853333333333335'

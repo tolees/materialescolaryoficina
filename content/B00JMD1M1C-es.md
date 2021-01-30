@@ -16,6 +16,7 @@ comparePrice: 7.15 EUR
 prodname: 'Faber-Castell 813 - Regla técnica  30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMD1M1C/?tag=tolees-21'
 descuento: '24.76'
 average: '5.38'

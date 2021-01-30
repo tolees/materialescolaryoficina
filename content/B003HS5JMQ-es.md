@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Skip Hop- Pajaro Zoo Mochila  Color Azul  S  2194 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003HS5JMQ/?tag=tolees-21'
 descuento: '41.10'
 average: '14.13'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'XP-PEN Star 06 Tableta Gráfica Dibujo 10 x 6 Pulgada. 2.4G Inalámbrica Tableta Grafica Digital con 6 Teclas de Atajo y Lápiz Pasivo de 8192 Niveles a la Presión  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072TZ1WQ2/?tag=tolees-21'
 descuento: '15.00'
 average: '84.58999999999999'

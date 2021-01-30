@@ -16,6 +16,7 @@ comparePrice: 29.61 EUR
 prodname: 'Cortador de perilla de bonsai Ichiias  cortador de perilla de acero inoxidable de 180 mm Tijeras de corte de bola Herramientas de bonsai de jardín de modelado de paisajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0839DY4DS/?tag=tolees-21'
 descuento: '19.99'
 average: '23.69'

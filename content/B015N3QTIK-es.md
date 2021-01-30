@@ -16,6 +16,7 @@ comparePrice: 95.8 EUR
 prodname: 'Parker Sonnet - Bolígrafo  lacado en negro  con adorno dorado y punta media  en estuche '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015N3QTIK/?tag=tolees-21'
 descuento: '47.94'
 average: '49.87'

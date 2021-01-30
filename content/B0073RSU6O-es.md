@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'S&R Tijeras para corte de Chapa Aviación serie 250 mm  Corte Recto por Acero Laminado y Acero Inox'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0073RSU6O/?tag=tolees-21'
 descuento: '51.70'
 average: '13.5'

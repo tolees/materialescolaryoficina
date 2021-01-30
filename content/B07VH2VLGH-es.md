@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Homieco Mochilas para Perros Gatos  Portador de Viaje Mochila  Bolsa de Transporte para Mascotas Gatos Perros del Peso Hasta 3kg para Viajar/Senderismo/Camping'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VH2VLGH/?tag=tolees-21'
 descuento: '17.66'
 average: '13.99'

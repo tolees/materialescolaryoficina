@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Rimmel London Brow This Way Fill & Sculpt Lápiz de Cejas Tono 1 Blonde - 10 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCDSWSR/?tag=tolees-21'
 descuento: '71.33'
 average: '3.6133333333333333'

@@ -16,6 +16,7 @@ comparePrice: 12.96 EUR
 prodname: 'Guizu 9 Bolsas de Colores DIY + 12 bolígrafos de Colores  Bolsas de Colores para Graffiti para niños  Manualidades para niños  artículos para Fiestas  Regalos de cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DRSQ7FB/?tag=tolees-21'
 descuento: '15.20'
 average: '10.99'

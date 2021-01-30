@@ -16,6 +16,7 @@ comparePrice: 25.85 EUR
 prodname: 'Mochila Casual Pelo Lion King'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VP5SYDR/?tag=tolees-21'
 descuento: '19.54'
 average: '20.8'

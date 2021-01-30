@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: '24 bolígrafos para colorear  punta de fieltro de 0 4 mm  rotuladores de punta doble  rotuladores de pincel  bolígrafos de dibujo simulación acuarela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078W5B5QZ/?tag=tolees-21'
 descuento: '29.14'
 average: '13.424285714285714'

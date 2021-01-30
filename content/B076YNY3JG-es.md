@@ -16,6 +16,7 @@ comparePrice: 10.37 EUR
 prodname: 'Apli kids-Caja domino casita la granja  28 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076YNY3JG/?tag=tolees-21'
 descuento: '49.37'
 average: '7.619999999999999'

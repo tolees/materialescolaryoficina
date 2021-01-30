@@ -16,6 +16,7 @@ comparePrice: 93.45 EUR
 prodname: 'Mochila vintage de cuero unisex | Hecho a mano | Mochila de senderismo | Bolsa de viaje | Bolsa escolar | Envío gratis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLJ7MR6/?tag=tolees-21'
 descuento: '39.02'
 average: '56.99'

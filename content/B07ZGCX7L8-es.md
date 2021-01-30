@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Cinta Adhesiva de Nano Tape Lavable Transparente Traceless Grip Tape  Reutilizable Cinta Adhesiva de Doble Cara Gel Fuerte para Cocina  Pared  Automóvil  Baño  Oficina  Tapetes para Alfombras 3M+3M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZGCX7L8/?tag=tolees-21'
 descuento: '45.75'
 average: '7.59'

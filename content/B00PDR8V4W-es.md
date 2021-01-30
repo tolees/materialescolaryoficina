@@ -16,6 +16,7 @@ comparePrice: 3.9 EUR
 prodname: 'Carioca Joy - Rotuladores superlavables de punta fina  pack de 24 piezas  2.6 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PDR8V4W/?tag=tolees-21'
 descuento: '23.59'
 average: '2.994'

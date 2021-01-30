@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'Head Tour Team Backpack Bolsa de Tenis  Adultos Unisex  Navy/Azul  Otro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HL1K1VK/?tag=tolees-21'
 descuento: '42.20'
 average: '29.15'

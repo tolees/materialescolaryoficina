@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Set de Geometría Set de Matemáticas10 Piezas Que Incluye brújula  transportador  regla  Lápiz Espere Con Caja de Almacenamiento '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWGXD9B/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

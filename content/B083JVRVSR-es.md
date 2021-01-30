@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mochila para Niños de La Escuela  Conjunto de 3 Piezas de Mochila Escolar para niña  Mochila de Viaje para niña Impermeable y Sin Decoloración  Cactus '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083JVRVSR/?tag=tolees-21'
 descuento: '22.51'
 average: '30.99'

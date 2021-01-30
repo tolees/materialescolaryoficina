@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'APLI Kids - Bolsa de gomets cara feliz  3 hojas adhesivo removible'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011C8ETY6/?tag=tolees-21'
 descuento: '47.83'
 average: '1.5335294117647063'

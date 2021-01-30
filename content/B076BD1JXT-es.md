@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Joymoze Cartera Escolar para Niñas Impermeable - Linda Mochila para el Instituto - Mochila de Diario para Mujeres Pájaro Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076BD1JXT/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

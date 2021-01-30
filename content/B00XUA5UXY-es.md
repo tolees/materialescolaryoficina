@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Alpino DA000125 - Estuche 12 ceras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XUA5UXY/?tag=tolees-21'
 descuento: '17.36'
 average: '4.681428571428572'

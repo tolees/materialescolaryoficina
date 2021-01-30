@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'BIC Kids Learner Portaminas HB con Minas de Recambio  1 3 mm  – Rosa o Azul  Blíster de 1+2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LM1WFDG/?tag=tolees-21'
 descuento: '50.13'
 average: '1.99'

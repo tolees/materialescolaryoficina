@@ -16,6 +16,7 @@ comparePrice: 35.31 EUR
 prodname: 'Cabin Max Maleta con Ruedas  Maletas de Viaje Cabina 55x40x20  Convertible en Mochila – Equipaje con Ruedas de 44 litros y 1 7 kilogramos de Peso  Oxide Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8QM8B3/?tag=tolees-21'
 descuento: '32.09'
 average: '23.98'

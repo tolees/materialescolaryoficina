@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'El Potro Pipe Mochila Mujer para Portátil  35 x 25 x 10 cm  Lila'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1JDY1W/?tag=tolees-21'
 descuento: '15.00'
 average: '33.99'

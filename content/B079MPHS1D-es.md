@@ -16,6 +16,7 @@ comparePrice: 19.12 EUR
 prodname: 'Play Doh - Rex The Chomper  Hasbro  E1952EU5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MPHS1D/?tag=tolees-21'
 descuento: '22.59'
 average: '16.046666666666667'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'AmazonBasics Mochila para todos los días  azul marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNT38FV/?tag=tolees-21'
 descuento: '49.03'
 average: '8.709999999999999'

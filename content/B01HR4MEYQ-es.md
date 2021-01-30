@@ -16,6 +16,7 @@ comparePrice: 9.69 EUR
 prodname: 'Baban Tijeras 5MM Triángulo Dentado paño Tijeras Tijeras Tijera Dental Material de la Manija ABS + Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HR4MEYQ/?tag=tolees-21'
 descuento: '17.54'
 average: '8.99'

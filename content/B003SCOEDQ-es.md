@@ -16,6 +16,7 @@ comparePrice: 1.86 EUR
 prodname: 'Calculadora bolsillo sencilla Canon AS-8 Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003SCOEDQ/?tag=tolees-21'
 descuento: '19.89'
 average: '1.49'

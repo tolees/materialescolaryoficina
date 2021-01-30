@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'American Tourister Urban Groove Lifestyle - 17.3 Pulgadas Mochila para portátil 45 cm  28 L  Marrón  Saffron '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RL33JT3/?tag=tolees-21'
 descuento: '50.95'
 average: '38.97'

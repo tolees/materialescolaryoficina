@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Memoryee Stranger Things 3D de impresión Unisex Niño Bolsa para la Escuela Collection Mochila de Lona portátil Libro Satchel Bolsa de Senderismo - 15L / 32 x 17 x 42 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMR8L3X/?tag=tolees-21'
 descuento: '49.98'
 average: '17.42'

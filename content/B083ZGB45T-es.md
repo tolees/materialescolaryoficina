@@ -16,6 +16,7 @@ comparePrice: 60.45 EUR
 prodname: 'NEWHEY Mochila Ordenador Portatil 15.6 Pulgadas Hombre con Puerto de Carga USB Impermeable Mochila Viaje Hombre y Mujer para Estudios Negocio Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZGB45T/?tag=tolees-21'
 descuento: '45.64'
 average: '32.86'

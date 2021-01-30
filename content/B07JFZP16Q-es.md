@@ -16,6 +16,7 @@ comparePrice: 19.79 EUR
 prodname: 'Bolsa de Mochila Bolsa de Destino para  Bolsa de Almacenamiento de Target Pouch Bullet Storage Bolsa de Mochila Objetivo Bala Suave Niños para Elite Pistolas de Juguete Juego Dardos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JFZP16Q/?tag=tolees-21'
 descuento: '27.29'
 average: '14.39'

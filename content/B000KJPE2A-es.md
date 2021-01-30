@@ -16,6 +16,7 @@ comparePrice: 43.72 EUR
 prodname: 'Faber-Castell 128524 - Estuche de cartón con 24 tizas pastel  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KJPE2A/?tag=tolees-21'
 descuento: '15.23'
 average: '37.06'

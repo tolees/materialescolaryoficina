@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Candado de Combinación  DazSpirit 3 dígitos Candado de Seguridad de Viaje para Maletas de Viaje Estuche para casilleros Mochila de Gimnasia Paquete  5 Colores Nuevos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814PDGP9/?tag=tolees-21'
 descuento: '45.25'
 average: '10.95'

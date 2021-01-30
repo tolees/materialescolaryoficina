@@ -16,6 +16,7 @@ comparePrice: 31.41 EUR
 prodname: 'Mochila  Mochila Escolar  Mochila Deportiva  Mochila para el Tiempo Libre  Mochila para niñas  Mujeres y jóvenes Verde Schultasche Schulrucksack Hellgrün Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM3C21D/?tag=tolees-21'
 descuento: '57.02'
 average: '15.19'

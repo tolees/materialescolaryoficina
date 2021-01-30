@@ -16,6 +16,7 @@ comparePrice: 18.15 EUR
 prodname: 'Moleskine - Agenda Semanal de 18 Meses Alicia en el País de las Maravillas Edición Limitada  Color Púrpura  con Tapa Dura y Cierre Elástico  Tamaño de Bolsillo 9 x 14 cm  208 Páginas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J34NSJW/?tag=tolees-21'
 descuento: '45.18'
 average: '9.95'

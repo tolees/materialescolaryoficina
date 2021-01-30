@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'VAUDE Brenta 30 Mochila  Unisex Adulto  Negro  30-39 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0197ZPN7S/?tag=tolees-21'
 descuento: '35.75'
 average: '73.89'

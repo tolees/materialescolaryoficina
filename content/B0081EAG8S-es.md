@@ -16,6 +16,7 @@ comparePrice: 42.09 EUR
 prodname: 'Apli - Paquete De 200 Etiquetas Cd/Dvd Clásicas Cobertura Total 117/18'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0081EAG8S/?tag=tolees-21'
 descuento: '36.83'
 average: '26.59'

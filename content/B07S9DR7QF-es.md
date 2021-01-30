@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'adidas AC Class BP Sports Backpack  Unisex Adulto  Maroon  NS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9DR7QF/?tag=tolees-21'
 descuento: '30.08'
 average: '27.215'

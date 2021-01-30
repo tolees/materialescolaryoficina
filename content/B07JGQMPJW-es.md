@@ -16,6 +16,7 @@ comparePrice: 359.95 EUR
 prodname: 'Lowepro Whistler Rucksack 450 AW II Mochila Negro - Funda  Mochila  Universal  Tirante para Hombro  Compartimento del portátil  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGQMPJW/?tag=tolees-21'
 descuento: '29.96'
 average: '252.1'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'NU NUVO Híbrido PU Funda de Pantalla de activación/Soporte de Cuerpo Completo para iPad Pro 10.5 y 2017 iPad Air 2019 Cubierta a Prueba de Golpes Construido con Soporte para lápiz  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WG7YJH9/?tag=tolees-21'
 descuento: '68.01'
 average: '15.99'

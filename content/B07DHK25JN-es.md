@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mochila de Portáti  Hap Tim Hombre Mujer Mochila con Funda Ajustable para computadora de hasta 15.6 Pulgadas  Mochila Escolar Impermeable para el Viaje de Trabajo Diario de Negocios - Gris  7651-G '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHK25JN/?tag=tolees-21'
 descuento: '67.52'
 average: '12.99'

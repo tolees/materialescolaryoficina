@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'AmazonBasics - Mochila compacta de viaje  Morado  para viajes de fin de semana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079LG18LS/?tag=tolees-21'
 descuento: '22.63'
 average: '55.07'

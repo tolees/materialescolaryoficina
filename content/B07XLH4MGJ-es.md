@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Agenda 2021  Agenda Académica A5 Semanal para ver la agenda de enero de 2021 a diciembre de 2021  agenda semanal con funda de cuero  bolsillo interior con presilla para bolígrafo y 88 páginas de notas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLH4MGJ/?tag=tolees-21'
 descuento: '26.10'
 average: '16.99'

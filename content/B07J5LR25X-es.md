@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Mochila para portátil 13 3 pulgadas Movom Business Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5LR25X/?tag=tolees-21'
 descuento: '21.54'
 average: '23.49'

@@ -16,6 +16,7 @@ comparePrice: 77.99 EUR
 prodname: 'K&F Concept Mochila Cámara y Portátil de 15" Profesional y Multifunción con Protector de Lluvia y Apertura Lateral para Trípode  Cámaras Réflex  Lente  Accesorios y Ropa de Viaje Diaria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084FYLVTD/?tag=tolees-21'
 descuento: '19.23'
 average: '62.99'

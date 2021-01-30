@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Eastpak Out of Office Mochila  44 cm  27 L  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003OSUDOS/?tag=tolees-21'
 descuento: '25.02'
 average: '44.99'

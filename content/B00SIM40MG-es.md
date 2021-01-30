@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Skip Hop Zoo Pack - Mochila  diseño unicorn  color turquesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SIM40MG/?tag=tolees-21'
 descuento: '41.10'
 average: '14.13'

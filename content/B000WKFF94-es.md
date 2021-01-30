@@ -16,6 +16,7 @@ comparePrice: 7.12 EUR
 prodname: 'Pelikan Premium Textmarker Rotuladores fluorescentes  paquete de ahorro 10 piezas  amarillo  hecho en Alemania  set escolar  oficinas - 940379A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WKFF94/?tag=tolees-21'
 descuento: '15.17'
 average: '6.04'

@@ -16,6 +16,7 @@ comparePrice: 17.96 EUR
 prodname: 'iSuperb Bolsas de Cuerdas para Viajes Gimnasio Mochila con Cordon El Deporte Unisex Drawstring Bags  Dinosaurio '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHH7K2T/?tag=tolees-21'
 descuento: '50.06'
 average: '8.97'

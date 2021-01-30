@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'E·Durable Mini Pistolas de encolar con 30 Piezas Barras de Pegamento Colorido para DIY Pequeño Arte  Ideal para Manualidades Bricolaje y proyectos Escolares. Oficina y Escuela   15W~25W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNL6ZG3/?tag=tolees-21'
 descuento: '23.54'
 average: '10.923333333333334'

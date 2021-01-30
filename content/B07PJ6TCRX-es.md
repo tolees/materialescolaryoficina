@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Burton Backpack Kilo 2.0 Poliéster Large 27 Litro 49 x 28 x 18 cm  H/B/T  Unisex Mochilas  213431 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJ6TCRX/?tag=tolees-21'
 descuento: '30.00'
 average: '45.5'

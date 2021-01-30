@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling SEOUL - Mochila escolar  27 litros  Negro  LIVELY BLACK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1DGKFY/?tag=tolees-21'
 descuento: '40.83'
 average: '51.723333333333336'

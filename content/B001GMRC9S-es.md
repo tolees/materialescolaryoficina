@@ -16,6 +16,7 @@ comparePrice: 18.15 EUR
 prodname: 'Lyra 6521120 - Rotuladores  12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001GMRC9S/?tag=tolees-21'
 descuento: '21.98'
 average: '14.16'

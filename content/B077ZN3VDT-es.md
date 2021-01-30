@@ -16,6 +16,7 @@ comparePrice: 3.58 EUR
 prodname: 'MagiDeal Accesorio para Tablero LCD de Notas Escritura Dibujo Cubierta Protector de Tela/Lápiz Óptico - Lápiz Negro 4.8 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZN3VDT/?tag=tolees-21'
 descuento: '44.41'
 average: '1.99'

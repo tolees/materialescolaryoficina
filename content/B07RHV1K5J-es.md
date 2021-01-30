@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'American Tourister Urban Groove - 15.6 Pulgadas Mochila para portátil  48 cm  33.5 L  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHV1K5J/?tag=tolees-21'
 descuento: '24.80'
 average: '43.29545454545455'

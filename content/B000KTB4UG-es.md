@@ -16,6 +16,7 @@ comparePrice: 4.29 EUR
 prodname: 'BIC Kids Evolution Triangle ECOlutions Lápices de colores Triangulares - colores Surtidos  Blíster de 12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KTB4UG/?tag=tolees-21'
 descuento: '18.65'
 average: '3.347857142857143'

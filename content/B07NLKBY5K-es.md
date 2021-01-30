@@ -16,6 +16,7 @@ comparePrice: 23.97 EUR
 prodname: 'Mochila Infantil 3D Spiderman'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLKBY5K/?tag=tolees-21'
 descuento: '47.68'
 average: '14.035'

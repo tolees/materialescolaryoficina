@@ -16,6 +16,7 @@ comparePrice: 10.87 EUR
 prodname: 'Rotring S0194640 - Cartucho de tinta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001IVX4OY/?tag=tolees-21'
 descuento: '46.55'
 average: '5.81'

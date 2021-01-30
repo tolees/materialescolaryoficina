@@ -16,6 +16,7 @@ comparePrice: 29.77 EUR
 prodname: 'CARIOCA Estuche Wild Cubs | Estuche 2 Cremalleras con Material Escolar Escuela Infantil Primaria y Secundaria con 18 Lápices de Colores 18 Rotuladores Punta Fina y Accesorios Papelería  Tigre  42 Uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BCLX28C/?tag=tolees-21'
 descuento: '24.69'
 average: '22.42'

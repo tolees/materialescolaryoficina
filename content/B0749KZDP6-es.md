@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Pizarra blanca magnética de borrado en seco  con calendario mensual  organizador mensual y semanal  planificador para frigorífico de cocina  el aula escolar y sala de reuniones  color Horizontal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0749KZDP6/?tag=tolees-21'
 descuento: '17.66'
 average: '13.99'

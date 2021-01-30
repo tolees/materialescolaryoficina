@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Rotuladores Mágicos Magic Markers - 20 Uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005KPXI68/?tag=tolees-21'
 descuento: '26.16'
 average: '5.9'

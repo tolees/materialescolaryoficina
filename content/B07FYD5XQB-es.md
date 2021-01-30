@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Mochila para portátil Pepe Jeans Bromley Negra 15 6" doble compartimento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYD5XQB/?tag=tolees-21'
 descuento: '30.00'
 average: '40.00666666666667'

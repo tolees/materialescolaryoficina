@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'EFERRI Mochila Cuvat  Negro  23x12x29 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X32KSKZ/?tag=tolees-21'
 descuento: '55.49'
 average: '17.560000000000002'

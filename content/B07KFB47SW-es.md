@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Scratch Art JBSON 30 Hojas Dibujo Scratch Láminas para Rascar Creativas Papel para Dibujar con Niños  Manualidades  Escribir Listas  Incluye 4 Plantillas de Plantillas de Dibujo y 10 lápices de Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFB47SW/?tag=tolees-21'
 descuento: '24.30'
 average: '15.690000000000001'

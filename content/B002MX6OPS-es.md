@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'MONTIS Venture 30  Mochila de Senderismo y Ruta  30 l  1100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002MX6OPS/?tag=tolees-21'
 descuento: '27.64'
 average: '54.99'

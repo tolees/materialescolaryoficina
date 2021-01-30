@@ -16,6 +16,7 @@ comparePrice: 36.69 EUR
 prodname: 'Tablero de dibujo Juego de pintura para proyector Juego de dibujo para proyector de mesa para niños con 4 discos de imágenes diferentes 8 bolígrafos de color Juguetes de educación temprana  Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGZS523/?tag=tolees-21'
 descuento: '52.06'
 average: '17.59'

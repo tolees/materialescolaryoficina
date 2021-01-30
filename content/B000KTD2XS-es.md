@@ -16,6 +16,7 @@ comparePrice: 346.86 EUR
 prodname: 'RAPID 20942903 - Grapadora eléctrica modelo 90EC color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KTD2XS/?tag=tolees-21'
 descuento: '20.84'
 average: '270.575'

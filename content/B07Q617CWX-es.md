@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'DURAGADGET Mochila Camuflaje con Compartimentos Desmontables para Cámara Panasonic Lumix DC-GH5SE-K  Panasonic Lumix G7KEC-K  Panasonic Lumix DMC-LX100EGK + Funda Impermeable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q617CWX/?tag=tolees-21'
 descuento: '33.34'
 average: '21.99'

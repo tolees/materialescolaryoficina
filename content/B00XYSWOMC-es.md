@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Capital Sports Travel S Bolsa de deporte 45l  Tejido impermeable  compartimento apertura forma D  fácil llenado  material robusto  asa y correas  transportable mano  hombro  mochila espalda  negra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XYSWOMC/?tag=tolees-21'
 descuento: '73.98'
 average: '19.49'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mochila adaptable a carro Pepe Jeans Joss 42cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DTDTW71/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

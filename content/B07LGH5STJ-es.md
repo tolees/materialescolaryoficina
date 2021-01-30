@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Play-Doh  color surtido  Pack 8 Botes  Hasbro E5044EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGH5STJ/?tag=tolees-21'
 descuento: '33.67'
 average: '7.484285714285715'

@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Post-It 6820 - Notas adhesivas  76 x 76 mm  color amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BB0IYU/?tag=tolees-21'
 descuento: '49.83'
 average: '1.5'

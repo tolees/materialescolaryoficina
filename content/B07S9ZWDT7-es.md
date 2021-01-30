@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Maui & Sons Hawai Mochila 40 cm + estuche escolar  color Fucsia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9ZWDT7/?tag=tolees-21'
 descuento: '44.81'
 average: '14.9'

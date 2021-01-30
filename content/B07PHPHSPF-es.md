@@ -16,6 +16,7 @@ comparePrice: 18.54 EUR
 prodname: 'Scratch Tools  juego de lápices de colores de doble punta para colorear para niños  suministros de arte 14 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHPHSPF/?tag=tolees-21'
 descuento: '29.94'
 average: '12.99'

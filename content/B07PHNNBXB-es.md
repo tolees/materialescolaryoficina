@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Samsonite Checkmate - Mochila para portátil  44 cm   Gris  Gris  - 116125/1408'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHNNBXB/?tag=tolees-21'
 descuento: '26.50'
 average: '206.38750000000002'

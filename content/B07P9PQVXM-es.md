@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'FANDARE Mochila Hombres/Mujeres Bolsa de Escuela Adolescente Mochila Niña/Niño Viaje Mochilas Camping Daypack Poliéster Negro Flor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9PQVXM/?tag=tolees-21'
 descuento: '68.01'
 average: '31.99'

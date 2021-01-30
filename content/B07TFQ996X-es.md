@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Quiksilver Schoolie 30l-Mochila Grande para Hombre Backpack  Light Grey Heather  1SZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFQ996X/?tag=tolees-21'
 descuento: '26.31'
 average: '36.84'

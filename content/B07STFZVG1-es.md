@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Coronel Tapiocca  Mochila hombre estilo Nylon Negro  30x43x16 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STFZVG1/?tag=tolees-21'
 descuento: '18.02'
 average: '39.34'

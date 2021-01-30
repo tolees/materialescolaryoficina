@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'E-Vitta EVBP003002 - Mochila para Ordenador portátil de 16"  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DUB7PLC/?tag=tolees-21'
 descuento: '51.82'
 average: '14.641428571428571'

@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Kipling City Pack S  Mochila para Mujer  Verde  Seagrass   27 x 33.5 x 19 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJ4HQ7/?tag=tolees-21'
 descuento: '40.46'
 average: '38.937999999999995'

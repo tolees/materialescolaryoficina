@@ -16,6 +16,7 @@ comparePrice: 9.75 EUR
 prodname: 'Bourjois Liner Pinceau Lápiz de ojos Tono 35 Ultra Black  2.5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QTTF2KO/?tag=tolees-21'
 descuento: '22.26'
 average: '7.58'

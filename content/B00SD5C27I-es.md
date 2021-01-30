@@ -16,6 +16,7 @@ comparePrice: 12.16 EUR
 prodname: 'Faber-Castell 32722-8 - Compás de ajuste rápido  con tornillo central  articulaciones en ambos brazos y accesorios de recambio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SD5C27I/?tag=tolees-21'
 descuento: '18.59'
 average: '9.7875'

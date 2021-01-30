@@ -16,6 +16,7 @@ comparePrice: 4.79 EUR
 prodname: 'STABILO power Rotuladores escolares - Estuche con 12 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WGWP0K/?tag=tolees-21'
 descuento: '16.70'
 average: '3.99'

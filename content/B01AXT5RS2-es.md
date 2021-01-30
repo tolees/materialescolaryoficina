@@ -16,6 +16,7 @@ comparePrice: 37.2 EUR
 prodname: 'Petrus 624824 Grapadora Eléctrica  Grapa 10 Hojas  Funciona con Pilas  Gama WOW Turquesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AXT5RS2/?tag=tolees-21'
 descuento: '36.08'
 average: '23.78'

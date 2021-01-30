@@ -16,6 +16,7 @@ comparePrice: 24.91 EUR
 prodname: 'Syolee Tool - Lápiz Capacitivo para Pantalla táctil Universal  22 Unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XT7HS98/?tag=tolees-21'
 descuento: '56.44'
 average: '10.835'

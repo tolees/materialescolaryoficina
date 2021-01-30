@@ -16,6 +16,7 @@ comparePrice: 139.52 EUR
 prodname: 'Zecti Mochila profesional antigolpes para cámara DSLR Canon-Nikon-Sony Mochila fotografia con protector de lluvia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QNMVJT/?tag=tolees-21'
 descuento: '63.76'
 average: '51.49'

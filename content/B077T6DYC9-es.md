@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'TOTTO AC52ECO010-1710Z-6M2 - Estuche escolar con dos compartimentos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077T6DYC9/?tag=tolees-21'
 descuento: '29.87'
 average: '13.99'

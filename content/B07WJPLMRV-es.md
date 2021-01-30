@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Irvin Mochila Portaordenador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJPLMRV/?tag=tolees-21'
 descuento: '45.05'
 average: '35.72'

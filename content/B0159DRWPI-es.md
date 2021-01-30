@@ -16,6 +16,7 @@ comparePrice: 5.3 EUR
 prodname: 'Faber Castell B-136300 - Portaminas TK-Fine con goma de borrar y 3 minas finas  graduación HB  trazo 0.3 mm  color verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0159DRWPI/?tag=tolees-21'
 descuento: '30.00'
 average: '3.71'

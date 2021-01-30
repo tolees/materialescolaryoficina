@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour UA Undeniable SP 2.0 Accesorio  Mochila Deportiva  Unisex  Rojo  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JL2CM13/?tag=tolees-21'
 descuento: '42.38'
 average: '14.92'

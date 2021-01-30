@@ -16,6 +16,7 @@ comparePrice: 3.9 EUR
 prodname: 'Post-It 70005040152 - Dispensador 3+1 índex 1/2""'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0022QYYVQ/?tag=tolees-21'
 descuento: '15.64'
 average: '3.4650000000000003'

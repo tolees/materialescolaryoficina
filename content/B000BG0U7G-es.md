@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Cross Tech3+ - Bolígrafo multi-funcional  color cromado brillante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BG0U7G/?tag=tolees-21'
 descuento: '48.56'
 average: '36.01'

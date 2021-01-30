@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Samsonite Xbr Mochila Tipo Casual  15.6"  47 cm  22 L  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D1J5X9E/?tag=tolees-21'
 descuento: '17.68'
 average: '111.13'

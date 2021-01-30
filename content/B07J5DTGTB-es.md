@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Flydo Lenceria Sexy Mujer  Picardias Disfraces Escolar Uniforme Colegiala Atractiva Falda，Ropa Erótica Mujer Sexy Lencería De Dormir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5DTGTB/?tag=tolees-21'
 descuento: '50.04'
 average: '8.49'

@@ -16,6 +16,7 @@ comparePrice: 28.45 EUR
 prodname: 'Uworth Mochila Escolar Infantil Guarderia Niña Mochila Para Niños Conejo  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLRTKWN/?tag=tolees-21'
 descuento: '50.83'
 average: '13.99'

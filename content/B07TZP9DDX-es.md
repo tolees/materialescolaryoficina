@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Disney Mochila para Niños Coco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZP9DDX/?tag=tolees-21'
 descuento: '33.43'
 average: '9.092857142857143'

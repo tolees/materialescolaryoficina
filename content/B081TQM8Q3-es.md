@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'adidas Ryv Backpack Mochilla de Deporte  Unisex Adulto  Black  NS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TQM8Q3/?tag=tolees-21'
 descuento: '29.98'
 average: '23.07'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Hethrone Rotuladores Punta Pincel 100 Color Rotuladores Doble Punta Acuarelables Profesionales  Dual Tip Brush Pen para Adultos Niños Caligrafía  Lettering  Bocetos  Dibujo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXP61DF/?tag=tolees-21'
 descuento: '28.27'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling CLAS SEOUL Mochila escolar  45 cm  25 litros  Beige  True Beige '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076GX6JSC/?tag=tolees-21'
 descuento: '53.20'
 average: '44.46'

@@ -16,6 +16,7 @@ comparePrice: 14.45 EUR
 prodname: 'Rotulador punta media STABILO pointMax - Estuche con 12 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NADLD9I/?tag=tolees-21'
 descuento: '31.49'
 average: '9.9'

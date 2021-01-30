@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Moleskine - Agenda Semanal de 12 Meses 2020  Tapa Dura y Goma Elástica  Color Negro  Tamaño Pequeño 9 x 14 cm  144 Páginas  AGENDA 12 MOIS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVF73SD/?tag=tolees-21'
 descuento: '70.00'
 average: '5.37'

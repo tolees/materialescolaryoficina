@@ -16,6 +16,7 @@ comparePrice: 32.71 EUR
 prodname: 'Mochila Safta Espalda Ergonómica con Carro Safta Evolution'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083WWM1MR/?tag=tolees-21'
 descuento: '17.03'
 average: '27.14'

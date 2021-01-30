@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'STABILO Pen 68 brush Rotulador punta de pincel - Estuche de metal con 25 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081FQNGKG/?tag=tolees-21'
 descuento: '25.69'
 average: '28.98'

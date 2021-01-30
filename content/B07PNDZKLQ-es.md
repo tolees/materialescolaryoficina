@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'SKYSPER 60L / 65L Mochila de Senderismo Impermeable Mochila de Trekking Macutos Deportiva Morral con Cubierta de Lluvia para Viaje Picnic Marcha Camping Escalada Deporte al Aire Libre Hombre Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNDZKLQ/?tag=tolees-21'
 descuento: '46.16'
 average: '69.99'

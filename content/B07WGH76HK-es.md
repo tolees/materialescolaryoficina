@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Pepe Jeans  Pepeb  Miller  Mochila para Portátil 15 6"  Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGH76HK/?tag=tolees-21'
 descuento: '24.57'
 average: '67.88'

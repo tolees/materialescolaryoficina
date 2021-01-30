@@ -16,6 +16,7 @@ comparePrice: 62.45 EUR
 prodname: 'Mochila Mujer Hombre-Mochila Antirrobo Portatil 15.6 Pulgadas Estanca Mochilas Escolares Mochila Negra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R32FDCF/?tag=tolees-21'
 descuento: '61.59'
 average: '24.49'

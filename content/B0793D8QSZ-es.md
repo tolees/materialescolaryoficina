@@ -16,6 +16,7 @@ comparePrice: 189.9 EUR
 prodname: 'BABYBJÖRN One Air - Mochila Porta Bebé  3D Tejido de red  Antracita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793D8QSZ/?tag=tolees-21'
 descuento: '26.33'
 average: '153.032'

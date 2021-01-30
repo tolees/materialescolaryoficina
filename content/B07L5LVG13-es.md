@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Juego de 10 pinceles de pintura profesional de AOOK para acuarelas  pintura al óleo y pintura acrílica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5LVG13/?tag=tolees-21'
 descuento: '40.03'
 average: '8.99'

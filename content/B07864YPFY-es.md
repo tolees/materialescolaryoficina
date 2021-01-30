@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Play-Doh Helados Deliciosos  Hasbro E0042EU4    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07864YPFY/?tag=tolees-21'
 descuento: '15.21'
 average: '11.97'

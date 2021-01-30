@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Jovi 71 - Plastilina  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H1E5JUY/?tag=tolees-21'
 descuento: '67.56'
 average: '1.298'

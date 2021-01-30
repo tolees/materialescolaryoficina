@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'NEWSTYLE Set Para El Cuidado Del Bebé 12 Unids Bebé Kit de Cuidado Diario Conveniente Bebé Kit de Aseo Nail Clipper Tijeras Cepillo de Pelo Peine Manicura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXNJHB3/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

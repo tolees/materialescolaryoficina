@@ -16,6 +16,7 @@ comparePrice: 14.88 EUR
 prodname: 'Dakine Grom 13L - Mochila Minidsbrly'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHNFJ71/?tag=tolees-21'
 descuento: '17.34'
 average: '12.3'

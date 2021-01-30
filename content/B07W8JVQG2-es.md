@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'TOUS New Essence  Mochila Women s  U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8JVQG2/?tag=tolees-21'
 descuento: '40.00'
 average: '83.4'

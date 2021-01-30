@@ -16,6 +16,7 @@ comparePrice: 23.35 EUR
 prodname: 'Koooper Libro Aventuras up  Álbum de Fotos DIY  Album up  Tijeras  Pegatinas Cumpleaños/Aniversario/Boda/Graduación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMMMR34/?tag=tolees-21'
 descuento: '31.52'
 average: '14.283333333333333'

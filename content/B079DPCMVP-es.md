@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'Cuaderno Inteligente Reutilizable - NEWYES Libreta de B5 con Bolígrafo Borrable Usar Agua y Calor Para Limpiar Usa Aplicación Subirlas Notas a la Nube Everlast Notebook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DPCMVP/?tag=tolees-21'
 descuento: '57.80'
 average: '18.99'

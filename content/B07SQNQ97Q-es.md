@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Parfois - Mochila Efecto Piel - Mujeres - Tallas M - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQNQ97Q/?tag=tolees-21'
 descuento: '49.98'
 average: '13'

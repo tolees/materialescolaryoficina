@@ -16,6 +16,7 @@ comparePrice: 4.97 EUR
 prodname: 'Pentel Ain Stein - Minas para portaminas  0.7 x 60 mm  dureza HB  40 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005I4ESPG/?tag=tolees-21'
 descuento: '45.07'
 average: '2.73'

@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Cabin Max Metz 20L 40x20x25 cm Maleta de Cabina Pequeña Mochila de Viaje Stowaway Ideal para Llevar Debajo del Asiento en Ryanair  Nocturna '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085CCB64R/?tag=tolees-21'
 descuento: '32.62'
 average: '14.79'

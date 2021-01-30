@@ -16,6 +16,7 @@ comparePrice: 13.55 EUR
 prodname: 'Marcador STABILO BOSS Original Pastel - Caja con 10 unidades - Color rubor rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWVPPY6/?tag=tolees-21'
 descuento: '42.51'
 average: '7.79'

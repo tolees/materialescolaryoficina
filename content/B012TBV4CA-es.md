@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Milan 615350Y - Rotuladores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012TBV4CA/?tag=tolees-21'
 descuento: '15.24'
 average: '14.29'

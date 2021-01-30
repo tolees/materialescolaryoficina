@@ -16,6 +16,7 @@ comparePrice: 25.03 EUR
 prodname: 'BIC Kids Visacolor XL rotuladores Punta Gruesa - colores Surtidos  Caja de 48 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004MLTKRW/?tag=tolees-21'
 descuento: '31.24'
 average: '18.935000000000002'

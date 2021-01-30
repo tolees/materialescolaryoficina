@@ -16,6 +16,7 @@ comparePrice: 91.99 EUR
 prodname: 'UtoteBag Mochila Deporte Convertible Bolsa Gimnasio Viaje Bolsa Hombro para Hombre Mujer Ordenador portátil Mochila 17.3   Multiusos Lona Cilíndrico Alta Capacidad Mochila 42L Lienzo Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KS31X6N/?tag=tolees-21'
 descuento: '52.18'
 average: '43.99'

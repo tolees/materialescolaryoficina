@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'American Tourister AT Work - Mochila Mesh tipo casual para 15.6" portátil  50 cm  25 liters  Noir  Universe Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BYWDV6G/?tag=tolees-21'
 descuento: '19.40'
 average: '39.074000000000005'

@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Samsonite Guardit UP 14.1" Mochila Negro - Funda  Mochila para Tablet  35 8 cm  14.1"   Tirante para Hombro  700 g  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CMDCWH/?tag=tolees-21'
 descuento: '25.57'
 average: '59.425'

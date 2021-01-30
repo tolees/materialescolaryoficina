@@ -16,6 +16,7 @@ comparePrice: 9.45 EUR
 prodname: 'Moleskine - Agenda Diaria de 12 Meses 2020  Tapa Dura y Goma Elástica  Tamaño Pequeño 9 x 14 cm  400 Páginas  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3KHV75/?tag=tolees-21'
 descuento: '40.21'
 average: '5.65'

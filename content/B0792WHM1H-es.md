@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Cabin Max Metz Mochila de Viaje Equipaje de Mano Aprobada para Transporte Aéreo Maleta de Cabina 55x40x20 cm 44 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792WHM1H/?tag=tolees-21'
 descuento: '33.39'
 average: '19.95'

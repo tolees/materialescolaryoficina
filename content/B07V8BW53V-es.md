@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Acmebon Mochilas Modernas espaciosas y Lindas para niñas  Bolsa Escolar Ligera para Adolescentes Dinosaurio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8BW53V/?tag=tolees-21'
 descuento: '30.80'
 average: '26.98'

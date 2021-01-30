@@ -16,6 +16,7 @@ comparePrice: 13.28 EUR
 prodname: 'BIC Velleda 1701 ECOlutions rotuladores de Pizarra punta media - Negro  Caja de 12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NJUT8Q/?tag=tolees-21'
 descuento: '52.03'
 average: '8.8425'

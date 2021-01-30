@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Lápices de acuarela para colorear  20 pinceles para manualidades  colorear libros  bocetos  pintura de caligrafía  con 1 pincel de agua con punta de fieltro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WV1GQB/?tag=tolees-21'
 descuento: '26.28'
 average: '13.995000000000001'

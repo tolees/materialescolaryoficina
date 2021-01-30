@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Wacom CS-610CB Bamboo Stylus Fineline 3 Lápiz digital para iPhone y iPad / Punta extra fina  ideal para escribir y dibujar / Capacidad de respuesta a la presión / Diseño ergonómico / Color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L1V43UY/?tag=tolees-21'
 descuento: '42.09'
 average: '34.69'

@@ -16,6 +16,7 @@ comparePrice: 18.63 EUR
 prodname: 'Juego de 27 rollos de cinta adhesiva de papel japonés Washi para decorar manualidades  diseños de libros  ideal para festivales y fiestas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GGHLMH6/?tag=tolees-21'
 descuento: '30.27'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Kipling Clas Seoul S Mochila con Compartimento para Tableta  10 Litros  Rojo  True Red C '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6RC2XN/?tag=tolees-21'
 descuento: '54.13'
 average: '38.99'

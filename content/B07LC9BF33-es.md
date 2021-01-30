@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Samsonite Mochila de a Diario  Azul  Azul  - 115333/1090'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LC9BF33/?tag=tolees-21'
 descuento: '26.99'
 average: '101.49'

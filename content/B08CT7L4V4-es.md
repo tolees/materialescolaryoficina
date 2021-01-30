@@ -16,6 +16,7 @@ comparePrice: 51.55 EUR
 prodname: 'Ocobudbxw Útil Profesional Kit de Artista de Dibujo Lápices Boceto Carbón Artesanal Arte con Bolsa de Transporte Herramientas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CT7L4V4/?tag=tolees-21'
 descuento: '50.01'
 average: '25.77'

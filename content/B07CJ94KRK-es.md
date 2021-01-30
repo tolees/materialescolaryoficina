@@ -16,6 +16,7 @@ comparePrice: 56.64 EUR
 prodname: 'Carpeta de Conferencias  Wilbest A4 Carpeta de Cuero  Las Asas con Magnético  Calculadora de Energía Solar  Bolsillo Interno Velcro  Negocios y Viajes  Impermeabilización  34 x 25 cm - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJ94KRK/?tag=tolees-21'
 descuento: '52.35'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 2599.9 EUR
 prodname: 'Wacom DTH-2700 Cintiq 27 QHD Touch - Pantalla Creativa interactiva multitactíl de 27"  QHD  con lápiz de 2048 Niveles de presión  Soporte doblable Opcional '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R7QJAHY/?tag=tolees-21'
 descuento: '16.89'
 average: '2315.8625'

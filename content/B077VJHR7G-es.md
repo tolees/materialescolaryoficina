@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'LeaderPro 60W Pistola de Encolar viene una Bolsa y 20 Psc Barras de Pegamentos  Alta Temperatura Pistola de pegamento para Inicio de Reparación Rápida/Kits de Artesanía de Bricolaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VJHR7G/?tag=tolees-21'
 descuento: '35.50'
 average: '22.13492753623188'

@@ -16,6 +16,7 @@ comparePrice: 38 EUR
 prodname: 'Vans Realm  Mochila Tipo Casual  42 cm  22 Liters  Azul  Gibraltar Sea '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SK96GSL/?tag=tolees-21'
 descuento: '29.29'
 average: '28.486666666666668'

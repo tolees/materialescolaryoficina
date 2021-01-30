@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Pepe Jeans Ren - Mochila Adaptable  44 cm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SX2PN8G/?tag=tolees-21'
 descuento: '22.69'
 average: '32.47'

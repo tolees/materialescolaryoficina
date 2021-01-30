@@ -16,6 +16,7 @@ comparePrice: 2.05 EUR
 prodname: 'BIC Matic Fun 0 7 HB Portaminas Automático – Diseño en colores Surtidos  Blíster de 3 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009FYMVBI/?tag=tolees-21'
 descuento: '27.80'
 average: '1.48'

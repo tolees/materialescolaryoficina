@@ -16,6 +16,7 @@ comparePrice: 13.84 EUR
 prodname: 'Staedtler Design Journey 3001 TB18. Rotuladores acuarelables de doble punta. Caja con 18 marcadores de colores variados.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MYFX8L/?tag=tolees-21'
 descuento: '24.13'
 average: '10.5'

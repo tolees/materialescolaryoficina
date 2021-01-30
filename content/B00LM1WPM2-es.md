@@ -16,6 +16,7 @@ comparePrice: 3.9 EUR
 prodname: 'BIC Highlighter Grip Marcadores punta media  1 6 mm  - colores Surtidos  Blíster de 4+2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LM1WPM2/?tag=tolees-21'
 descuento: '17.95'
 average: '3.2'

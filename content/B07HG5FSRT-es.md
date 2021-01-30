@@ -16,6 +16,7 @@ comparePrice: 61.97 EUR
 prodname: 'WowPrint Animal Dragonfly - Mochila para libros  mochila escolar  senderismo  viajes  mochila casual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG5FSRT/?tag=tolees-21'
 descuento: '60.72'
 average: '24.34'

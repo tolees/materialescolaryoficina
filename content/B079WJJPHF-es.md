@@ -16,6 +16,7 @@ comparePrice: 12.72 EUR
 prodname: 'Pentel SES15-4COL - Estuche rotulador punta pincel 4 colores fantasía  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079WJJPHF/?tag=tolees-21'
 descuento: '23.51'
 average: '10.720624999999998'

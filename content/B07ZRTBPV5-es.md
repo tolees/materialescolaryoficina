@@ -16,6 +16,7 @@ comparePrice: 17.05 EUR
 prodname: 'Unicornio regalos para niñas paquete de 5  mochila con cordón de unicornio/bolsa de maquillaje/collar con colgante de unicornio/brazalete/anillo de unicornio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRTBPV5/?tag=tolees-21'
 descuento: '47.86'
 average: '8.89'

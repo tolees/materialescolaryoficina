@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Hustle 4.0 Mochila para portátil de 26 l resistente al agua  accesorio deportivo con útiles bolsillos  Unisex adulto  Negro  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNSHGN6/?tag=tolees-21'
 descuento: '51.84'
 average: '26.49'

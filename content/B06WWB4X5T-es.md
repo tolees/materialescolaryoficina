@@ -16,6 +16,7 @@ comparePrice: 36.7 EUR
 prodname: 'Jordi Labanda Floral Mochila Grande  20 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WWB4X5T/?tag=tolees-21'
 descuento: '40.05'
 average: '18.586666666666666'

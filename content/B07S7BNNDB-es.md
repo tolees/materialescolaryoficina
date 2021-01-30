@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Mochila Térmica  Besrey Mochila Nevera bolsa térmica comida grande  Mochila Portatil Almuerzo de Doble Capa  Ligera  Impermeable  para playa Trabajo Picnic Camping'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7BNNDB/?tag=tolees-21'
 descuento: '45.91'
 average: '32.45'

@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Conté Colouring rotuladores - colores Surtidos  Caja Metálica de 20 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LM1W3KQ/?tag=tolees-21'
 descuento: '50.05'
 average: '5.47'

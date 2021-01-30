@@ -16,6 +16,7 @@ comparePrice: 29.94 EUR
 prodname: 'Rapesco Eco HD-100 - Grapadora de gruesos  100 hojas  mas 2000 grapas 923/10  blanco mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU1FNUT/?tag=tolees-21'
 descuento: '31.90'
 average: '20.39'

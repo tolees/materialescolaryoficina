@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Rotuladores de pincel de caligrafía de doble punta  24 rotuladores de pintura de acuarela Rotuladores de arte Rotuladores de punta fina Bullet Journal para diario  rotulación a mano  libro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YKQG7GB/?tag=tolees-21'
 descuento: '55.03'
 average: '16.99'

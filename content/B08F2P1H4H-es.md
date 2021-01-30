@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Smatoy Organizador de Escritorio Papelería de Madera para Oficina Organizador de Escritorio para Documentos A4  Bolígrafos  Libros  Cuadernos y Archivos  Material de Escritorio '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F2P1H4H/?tag=tolees-21'
 descuento: '44.76'
 average: '20.99'

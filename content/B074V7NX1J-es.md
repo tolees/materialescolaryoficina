@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'CUILEE Mochila para niños bebés Mochilas para niños con Conejo Mascotas para guardería Niños  Roja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074V7NX1J/?tag=tolees-21'
 descuento: '70.01'
 average: '14.99'

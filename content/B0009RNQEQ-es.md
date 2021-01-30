@@ -16,6 +16,7 @@ comparePrice: 9.23 EUR
 prodname: 'CRAYOLA - 24 Lápices De Colores  3624 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009RNQEQ/?tag=tolees-21'
 descuento: '50.81'
 average: '4.54'

@@ -16,6 +16,7 @@ comparePrice: 38.14 EUR
 prodname: 'Star Wars Mochila Doble con cantoneras Adaptable a Carro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFYSZGC/?tag=tolees-21'
 descuento: '47.69'
 average: '19.95'

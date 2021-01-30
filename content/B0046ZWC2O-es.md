@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'L Oreal Paris Lápiz de Labios Infalible Lipliner 701 Stay Ultraviolet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0046ZWC2O/?tag=tolees-21'
 descuento: '47.78'
 average: '6.24'

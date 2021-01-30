@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'adidas AC Class BP Sports Backpack  Unisex Adulto  Pink Spirit  NS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S86HJP2/?tag=tolees-21'
 descuento: '50.08'
 average: '22.0'

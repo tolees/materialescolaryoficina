@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'EXERZ E Organizador de Escritorio 360 Grados Giratorio con Artículos de Oficina- Tijeras  Grapadora  Grapas  Lapices  Regla  Goma de Borrar INCLUIDO - Organizador de Oficina  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NK6FCZ7/?tag=tolees-21'
 descuento: '69.60'
 average: '6.99'

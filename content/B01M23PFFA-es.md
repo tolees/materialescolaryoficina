@@ -16,6 +16,7 @@ comparePrice: 25.2 EUR
 prodname: 'Parker IM - Bolígrafo  Punta mediana  color Negro  Black Lacquer Golden trim '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M23PFFA/?tag=tolees-21'
 descuento: '32.42'
 average: '17.03'

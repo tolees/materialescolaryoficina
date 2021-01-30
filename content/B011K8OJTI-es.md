@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Black Diamond Speed 22 Mochila  Unisex Adulto  Sulfur'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011K8OJTI/?tag=tolees-21'
 descuento: '35.87'
 average: '64.13'

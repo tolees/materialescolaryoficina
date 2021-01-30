@@ -16,6 +16,7 @@ comparePrice: 4.2 EUR
 prodname: 'Gvarro Canson 200408061- Bloc A4  20 Hojas  130 g/m²'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMD0PDI/?tag=tolees-21'
 descuento: '28.81'
 average: '3.6036363636363635'

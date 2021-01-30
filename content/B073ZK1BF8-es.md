@@ -16,6 +16,7 @@ comparePrice: 24.6 EUR
 prodname: 'Carioca Maletín TITA | Lápices de Colores  Caja Portátil de Lápices Super Resistentes en Resina con Cuerpo Hexagonal y Mina Super Resistente a Las Caídas  Colores Surtidos  120 Uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZK1BF8/?tag=tolees-21'
 descuento: '30.20'
 average: '18.080000000000002'

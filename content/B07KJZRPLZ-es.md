@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Patterson Backpack Mochila  Unisex Adulto  Gris  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJZRPLZ/?tag=tolees-21'
 descuento: '50.38'
 average: '13.123076923076924'

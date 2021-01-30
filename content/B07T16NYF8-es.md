@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Pepe Jeans Daniela  Mochila Escolar Adaptable  42 cm  20.83 Litros  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T16NYF8/?tag=tolees-21'
 descuento: '29.17'
 average: '29.75'

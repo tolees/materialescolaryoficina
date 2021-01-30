@@ -16,6 +16,7 @@ comparePrice: 27.35 EUR
 prodname: 'Rotulador STABILO Pen 68 - Estuche premium Colorparade con 20 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OZQAYG/?tag=tolees-21'
 descuento: '33.35'
 average: '17.7975'

@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Beter Tijeras de pedicura  especial para las uñas gruesas de los pies'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U8SG5IA/?tag=tolees-21'
 descuento: '30.96'
 average: '7.94'

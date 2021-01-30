@@ -16,6 +16,7 @@ comparePrice: 27.9 EUR
 prodname: 'CARIOCA Estuche Colors | Estuche 3 Cremalleras con Material Escolar Escuela Infantil Primaria Secundaria con 18 Lápices de Colores 18 Rotuladores Punta Fina 2 Rotuladores para Tejidos y Set Papelerías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P6JX73M/?tag=tolees-21'
 descuento: '33.08'
 average: '18.070000000000004'

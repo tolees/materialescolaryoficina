@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Mochila Infantil 3D  Estuche Escolar y Bolsa Merienda de Cuerdas – Mickey Mouse | Mochilas Escolares para Niños y Niñas de 3 Años | Material Escolar Vuelta al Cole de Mickey Mouse'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DFTLQ3Z/?tag=tolees-21'
 descuento: '36.04'
 average: '14.99'

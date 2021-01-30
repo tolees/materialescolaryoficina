@@ -16,6 +16,7 @@ comparePrice: 17.15 EUR
 prodname: 'Parker Jotter Stainless Steel bolígrafo CT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DJBH2Q6/?tag=tolees-21'
 descuento: '21.11'
 average: '13.53'

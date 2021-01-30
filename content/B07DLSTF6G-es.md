@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Samsonite PRO-DLX 5 - Backpack for 14.1" Laptop 1.2 KG Mochila tipo casual  42 cm  14 liters  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLSTF6G/?tag=tolees-21'
 descuento: '26.37'
 average: '146.53'

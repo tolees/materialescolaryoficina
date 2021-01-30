@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Burton Focus Mochila  Unisex Adulto  Negro  Negro   58 x 33 x 24 cm  30 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CPKGY4O/?tag=tolees-21'
 descuento: '31.56'
 average: '136.89'

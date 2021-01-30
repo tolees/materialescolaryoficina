@@ -16,6 +16,7 @@ comparePrice: 56.0 EUR
 prodname: 'Pepe Jeans Joseline Mochila cartera portaordenador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3FS7MV/?tag=tolees-21'
 descuento: '40.80'
 average: '33.15'

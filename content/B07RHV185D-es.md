@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'American Tourister Urban Groove - 14 Pulgadas Mochila para Portátil  45 cm  24 L  Negro  Jet Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHV185D/?tag=tolees-21'
 descuento: '26.26'
 average: '27.13'

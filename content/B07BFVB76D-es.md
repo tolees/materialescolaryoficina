@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Ruwhere - Lápiz para cejas en 6 colores  resistente al agua y con cepillo incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFVB76D/?tag=tolees-21'
 descuento: '22.25'
 average: '6.99'

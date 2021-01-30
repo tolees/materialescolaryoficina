@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Samsonite Paradiver Light - Mochila M  40 cm  16 L  Blanco  White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D17JA2C/?tag=tolees-21'
 descuento: '36.07'
 average: '60.83'

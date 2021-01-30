@@ -16,6 +16,7 @@ comparePrice: 24.97 EUR
 prodname: 'Borrador Mágnetico para Pizarra Blanca - Conjunto Premium de 4 - Goma de Borrar con Imanes Fuertes - Limpiador para Marcadores y Rotuladores de Borrado en Seco - Liquidador para Oficina y Escuela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LVTHBN0/?tag=tolees-21'
 descuento: '52.06'
 average: '11.97'

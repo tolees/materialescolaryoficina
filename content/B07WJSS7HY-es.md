@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Mochila Escolar USAMYNA Teens para Mujeres College Girls BTS Bookbag Carga USB y Headset Port Mochila para Portátil Mochila para Estudiantes  D '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJSS7HY/?tag=tolees-21'
 descuento: '22.05'
 average: '17.92'

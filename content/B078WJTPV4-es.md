@@ -16,6 +16,7 @@ comparePrice: 15.8 EUR
 prodname: 'AmazonBasics - Rotuladores de punta de fieltro  colores surtidos  paquete de 24'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WJTPV4/?tag=tolees-21'
 descuento: '24.75'
 average: '11.89'

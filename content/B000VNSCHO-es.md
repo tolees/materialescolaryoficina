@@ -16,6 +16,7 @@ comparePrice: 12.01 EUR
 prodname: 'Faber-Castell Castell 9000 Graphite Pencil - HB - Lápiz  paquete de  12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VNSCHO/?tag=tolees-21'
 descuento: '33.97'
 average: '7.93'

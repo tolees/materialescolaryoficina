@@ -16,6 +16,7 @@ comparePrice: 42.37 EUR
 prodname: 'Winsor & Newton - Set de Rotuladores ProMarker  12 + 1 Unidades  Set 2  Colores Surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFYSFVG/?tag=tolees-21'
 descuento: '44.18'
 average: '23.65'

@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Pilot Parallel - Bolígrafo  punta de 6.0 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003L22MTQ/?tag=tolees-21'
 descuento: '31.10'
 average: '9.99'

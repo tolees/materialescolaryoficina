@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Estudiantes estuche  ElectriBrite Estuche lapices  Estuche de lápices para niñas  estuche de lápices para adolescentes de 7 8 x 3 2 pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FM8H5GS/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Kit de cuidado para barba hombre • Sapiens • Aceite barba y bálsamo 100% origen natural HECHO EN FRANCIA • Cepillo barba de cerdas de jabalí  Peine de madera  Tijeras de punta redonda y Bolsa de tela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YSYS3YB/?tag=tolees-21'
 descuento: '50.19'
 average: '19.9'

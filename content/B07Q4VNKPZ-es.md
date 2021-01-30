@@ -16,6 +16,7 @@ comparePrice: 16.11 EUR
 prodname: 'CARE OF by PUMA Mochila 23L  Azul  Navy Blazer   One Size  Label: One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4VNKPZ/?tag=tolees-21'
 descuento: '21.79'
 average: '14.3'

@@ -16,6 +16,7 @@ comparePrice: 26.77 EUR
 prodname: 'Bonamana Estuche para lápices  diseño de Anime  doble capa  para estudiantes  adolescentes  color Roblox-B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5SGCHH/?tag=tolees-21'
 descuento: '44.42'
 average: '14.88'

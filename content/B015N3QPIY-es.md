@@ -16,6 +16,7 @@ comparePrice: 95.8 EUR
 prodname: 'Parker Sonnet - Bolígrafo  lacado en azul  con adorno acabado en paladio y punta media  en estuche '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015N3QPIY/?tag=tolees-21'
 descuento: '43.53'
 average: '54.1'

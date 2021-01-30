@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'RATEL Rotuladores Acuarelables incluye 24 plumas de pincel de acuarela con punta de pincel de nylon flexible  1 pluma de pincel de agua  1 almohadilla de acuarela para libros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6CCHG2/?tag=tolees-21'
 descuento: '30.02'
 average: '13.656666666666666'

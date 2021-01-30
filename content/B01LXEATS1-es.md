@@ -16,6 +16,7 @@ comparePrice: 75.63 EUR
 prodname: 'Parker Urban 1931626 - Bolígrafo roller  naranja  recambio de tinta negra para punta fina '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXEATS1/?tag=tolees-21'
 descuento: '47.11'
 average: '40.0'

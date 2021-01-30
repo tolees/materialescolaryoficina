@@ -16,6 +16,7 @@ comparePrice: 0.1 EUR
 prodname: 'Cartucho de Fono Giratorio con lápiz de Repuesto Negro y Rojo para Reproductor de Discos de Vinilo Dispositivo económico Duradero - Negro + Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z56J4PH/?tag=tolees-21'
 descuento: '90.00'
 average: '0.01'

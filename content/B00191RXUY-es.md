@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Herlitz 10801710 - Tijeras escolar con punta redonda  colores surtidos  una unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00191RXUY/?tag=tolees-21'
 descuento: '61.32'
 average: '2.01'

@@ -16,6 +16,7 @@ comparePrice: 32.07 EUR
 prodname: 'chaqlin - Juego de 3 bolsas de escuela para niños  mochila con bolsa de almuerzo  bolsa de lápices de dinosaurio  lobo  fútbol impreso Multicolor Dinosaurio de animales  3 unidades por juego. Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S196TRJ/?tag=tolees-21'
 descuento: '29.37'
 average: '22.65'

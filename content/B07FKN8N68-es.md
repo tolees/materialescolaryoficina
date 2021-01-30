@@ -16,6 +16,7 @@ comparePrice: 35.24 EUR
 prodname: 'Shiseido  Lápiz de ojos - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKN8N68/?tag=tolees-21'
 descuento: '46.65'
 average: '18.8'

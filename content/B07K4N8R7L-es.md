@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Bestlife - Mochila Trolley para Portátil 15.6    Tablet y Conector USB - Color Rojo  50 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4N8R7L/?tag=tolees-21'
 descuento: '31.03'
 average: '68.9'

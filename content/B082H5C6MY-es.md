@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Toplock Mochila antirrobo Azul Impermeable con Cierre Oculto para Hombre y Mujer. para Viaje/Trabajo/Estudios.para portátil 15 6 Pulgadas Puerto USB Muy espaciosa. Bobby Nomad Backpack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082H5C6MY/?tag=tolees-21'
 descuento: '52.84'
 average: '18.84'

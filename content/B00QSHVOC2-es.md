@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Nike AllegianceFC Barcelona Shld Cmpct Ba Mochila  Hombre  Marina  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QSHVOC2/?tag=tolees-21'
 descuento: '21.04'
 average: '23.68'

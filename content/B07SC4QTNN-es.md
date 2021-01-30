@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen Loke Backpack Mochila  Unisex adulto  Oxblood  25L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC4QTNN/?tag=tolees-21'
 descuento: '45.71'
 average: '36.724'

@@ -16,6 +16,7 @@ comparePrice: 56.0 EUR
 prodname: 'Mochila 40cm con carro Pepe Jeans Pam'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZ323JS/?tag=tolees-21'
 descuento: '47.21'
 average: '30.763333333333335'

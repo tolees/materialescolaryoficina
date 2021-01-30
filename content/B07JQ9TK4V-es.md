@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'Bestlife 2018 Mochila Tipo Casual  43 cm  22.0 litros  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQ9TK4V/?tag=tolees-21'
 descuento: '43.63'
 average: '25.9'

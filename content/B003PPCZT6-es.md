@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Eastpak Provider Mochila  44 cm  33 L  Gris  Sunday Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003PPCZT6/?tag=tolees-21'
 descuento: '31.59'
 average: '64.99'

@@ -16,6 +16,7 @@ comparePrice: 68.31 EUR
 prodname: 'Mochila Safta Escolar con Carro Incluido y Espalada Acolchada de Star Wars  Death Star'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083WWT6MT/?tag=tolees-21'
 descuento: '34.94'
 average: '44.44'

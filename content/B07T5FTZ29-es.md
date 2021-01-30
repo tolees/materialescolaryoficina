@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Mochila Saco Pepe Jeans Daniela  Multicolor  44 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T5FTZ29/?tag=tolees-21'
 descuento: '16.61'
 average: '16.67'

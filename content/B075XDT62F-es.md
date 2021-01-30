@@ -16,6 +16,7 @@ comparePrice: 47.92 EUR
 prodname: 'NORSENS – Mochila Ordenador portátil 17/15.6 Pulgadas antirrobo para Hombre/Mujer  Impermeable Bolsa Mochila PC portátil para Jugar a/Caso/Escolar Negro/Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075XDT62F/?tag=tolees-21'
 descuento: '67.63'
 average: '15.51'

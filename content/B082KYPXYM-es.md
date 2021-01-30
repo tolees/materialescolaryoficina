@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'baozun Rotuladores Metálicos  12 Color Rotuladores de Metálico Permanente Scrapbooking Materiales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KYPXYM/?tag=tolees-21'
 descuento: '50.03'
 average: '8.99'

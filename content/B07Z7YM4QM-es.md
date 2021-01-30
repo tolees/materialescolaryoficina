@@ -16,6 +16,7 @@ comparePrice: 36.98 EUR
 prodname: 'Bolígrafo Grabador de Voz Digital Portatil POVO 16GB Grabador de Sonido Espia Grabadora Audio con Reproductor de MP3 Activación Automática para Clases Reuniones Entrevistas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7YM4QM/?tag=tolees-21'
 descuento: '21.63'
 average: '28.98'

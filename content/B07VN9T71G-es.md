@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mochila Antirrobo Impermeable  Mochila Portátil Hombre 17.3 Pulgadas USB Impermeable del Escolar Trabajo Diario Viaje Negocio Multifuncional Daypacks Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VN9T71G/?tag=tolees-21'
 descuento: '26.68'
 average: '21.99'

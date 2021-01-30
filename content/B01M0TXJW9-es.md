@@ -16,6 +16,7 @@ comparePrice: 45.65 EUR
 prodname: 'PORT DESIGNS Sydney Laptop de 15.6    y Mochila Negra para Tableta de 10.1"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0TXJW9/?tag=tolees-21'
 descuento: '16.60'
 average: '38.07'

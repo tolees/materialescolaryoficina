@@ -16,6 +16,7 @@ comparePrice: 15.54 EUR
 prodname: 'PLASTILINA Giotto PATPLUME 150 GR Surtido Caja DE 12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005XZ7ZRI/?tag=tolees-21'
 descuento: '16.15'
 average: '11.305'

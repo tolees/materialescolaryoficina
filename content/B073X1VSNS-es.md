@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Eastpak Padded Pak r Mochila  40 cm  24 L  Azul  Cloud Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073X1VSNS/?tag=tolees-21'
 descuento: '56.00'
 average: '23.6'

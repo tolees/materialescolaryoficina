@@ -16,6 +16,7 @@ comparePrice: 11.85 EUR
 prodname: 'Mochila Infantil Personaje Disney LA Dama Y EL VAGABUNDO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM4QWSQ/?tag=tolees-21'
 descuento: '19.66'
 average: '9.52'

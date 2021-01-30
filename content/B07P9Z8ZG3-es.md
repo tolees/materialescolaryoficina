@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'American Tourister Urban Groove Disney - Backpack Medium Mochila tipo casual  40 cm  16 litros  Multicolor  Mickey Comics Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9Z8ZG3/?tag=tolees-21'
 descuento: '22.73'
 average: '35.666666666666664'

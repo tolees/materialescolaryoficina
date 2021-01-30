@@ -16,6 +16,7 @@ comparePrice: 2.18 EUR
 prodname: '12 lápices de colores diferentes con sacapuntas lápices de pintura portátiles para niños Artículos escolares de oficina duraderos - multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F469YVF/?tag=tolees-21'
 descuento: '33.49'
 average: '1.45'

@@ -16,6 +16,7 @@ comparePrice: 81.61 EUR
 prodname: 'WENGER 600638 Ibex - Mochila para portátil de 17"  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VOC90Y/?tag=tolees-21'
 descuento: '19.18'
 average: '68.76666666666665'

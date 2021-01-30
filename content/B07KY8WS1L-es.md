@@ -16,6 +16,7 @@ comparePrice: 31.5 EUR
 prodname: 'Eastpak ORBIT Mochila tipo casual   33.5 x 23 x 15 cm  10 liters  Rosa  Serene Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KY8WS1L/?tag=tolees-21'
 descuento: '28.57'
 average: '22.5'

@@ -16,6 +16,7 @@ comparePrice: 44.21 EUR
 prodname: 'Mochila de pañales para cambiar pañales con diseño abierto Abierto Gran capacidad Bolsa de momias a prueba de agua Multifunción Elegante para mamá/papá Viajar con un bebé  Chevron '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FT6D8RS/?tag=tolees-21'
 descuento: '31.80'
 average: '30.15'

@@ -16,6 +16,7 @@ comparePrice: 1.49 EUR
 prodname: '1 unids/Lote Diseño de Cabeza Redonda Lápiz de Metal Pantalla táctil Lente de Vidrio Digitalizador Reemplazo Pluma para iPhone iPad Tablet - Púrpura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084WQQFH4/?tag=tolees-21'
 descuento: '33.56'
 average: '0.99'

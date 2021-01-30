@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Gametime BP Mochila  Unisex Adulto  Gris  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJKWKYY/?tag=tolees-21'
 descuento: '47.80'
 average: '23.49'

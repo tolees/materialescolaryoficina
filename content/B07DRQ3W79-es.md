@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Mochila casual Pepe Jeans Olaia Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRQ3W79/?tag=tolees-21'
 descuento: '20.07'
 average: '22.38'

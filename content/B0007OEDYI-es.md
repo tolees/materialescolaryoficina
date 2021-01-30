@@ -16,6 +16,7 @@ comparePrice: 10.94 EUR
 prodname: 'STAEDTLER 334 SB10 - Bolígrafo punta fina  10 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0007OEDYI/?tag=tolees-21'
 descuento: '16.91'
 average: '8.65'

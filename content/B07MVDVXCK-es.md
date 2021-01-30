@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lápiz Capacitivo con Estación de Carga magnética  Soporte de 30 días de 1 45 mm Punta Fina Universal Compatible con iPhone  iPad  Android  Samsung  Huawei  Surface  Tableta y Smartphone  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVDVXCK/?tag=tolees-21'
 descuento: '27.51'
 average: '28.79'

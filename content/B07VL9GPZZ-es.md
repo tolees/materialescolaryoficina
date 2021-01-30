@@ -16,6 +16,7 @@ comparePrice: 22.5 EUR
 prodname: 'CARIOCA BOX |42736/10 - Caja de Lata Azul con 100 Rotuladores Superlavables con Punta Fina y Maxi y Álbum para Colorear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VL9GPZZ/?tag=tolees-21'
 descuento: '24.98'
 average: '16.88'

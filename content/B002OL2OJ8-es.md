@@ -16,6 +16,7 @@ comparePrice: 20.46 EUR
 prodname: 'Bolígrafos UB-157 Eye Fine  varios colores  tinta Uni Super Ink  punta de 0 7 mm. Paquete de 8 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002OL2OJ8/?tag=tolees-21'
 descuento: '32.60'
 average: '13.612'

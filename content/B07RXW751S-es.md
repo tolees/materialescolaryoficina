@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Diesel Discover-me Mirano  Mochila para Hombre  Multicolor  Black/White/Blue   15x44x30 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXW751S/?tag=tolees-21'
 descuento: '74.14'
 average: '23.27'

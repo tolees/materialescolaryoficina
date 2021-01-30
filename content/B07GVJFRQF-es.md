@@ -16,6 +16,7 @@ comparePrice: 69.69 EUR
 prodname: 'Lápiz Stylus Pen  40 Horas de Trabajo Continuo y de 30 días Stand por Tiempo Capacitiva Táctil Pluma con Bien Consejos  Pasó la Certificación CE & RoHs Pluma Digital Compatible de iPad Serie'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVJFRQF/?tag=tolees-21'
 descuento: '53.09'
 average: '32.69'

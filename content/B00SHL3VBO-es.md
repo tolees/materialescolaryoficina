@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'PlayColor 10121 - Caja de 12 temperas solidas 10 gramos  colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SHL3VBO/?tag=tolees-21'
 descuento: '18.13'
 average: '12.28'

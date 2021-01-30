@@ -16,6 +16,7 @@ comparePrice: 4.91 EUR
 prodname: 'Bolsa de pañales de tela portátil reutilizable a prueba de agua Mochila con bolsillo con cremallera Bolsa de viaje Organizador de bolsa de viaje para bebés - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKJMRVQ/?tag=tolees-21'
 descuento: '31.98'
 average: '3.34'

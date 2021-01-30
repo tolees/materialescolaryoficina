@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Eastpak Padded Pak r Mochila  40 cm  24 L  Rojo  Sailor Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3XBYZV/?tag=tolees-21'
 descuento: '20.94'
 average: '27.63'

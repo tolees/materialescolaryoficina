@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'homgeek Cuchillos de Cocina  Juego de Cuchillos Profesional Hecho de Acero alemán X50Cr15 Incluye Bloque de Madera  Afilador de Cuchillos  Tijeras  15 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRFNRM2/?tag=tolees-21'
 descuento: '32.60'
 average: '59.99'

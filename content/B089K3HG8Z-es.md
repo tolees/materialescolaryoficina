@@ -16,6 +16,7 @@ comparePrice: 28.21 EUR
 prodname: 'Symiu Herramientas Electricas De Juguete 19 Piezas Juegos De Imitación con Mochila Taladro Electrico Numerosos Accesorios Educativo Regalo para Niños Ninas 3 4 5 6 7 8 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089K3HG8Z/?tag=tolees-21'
 descuento: '15.85'
 average: '23.74'

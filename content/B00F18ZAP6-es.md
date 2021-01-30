@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Fjällräven Kånken no 2  Mochila de senderismo  Unisex Adulto  Verde  Dark Olive   16 L  38 x 27 x 13 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F18ZAP6/?tag=tolees-21'
 descuento: '27.24'
 average: '94.58'

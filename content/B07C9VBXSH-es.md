@@ -16,6 +16,7 @@ comparePrice: 93.94 EUR
 prodname: 'Vanguard Sedona Wanderlust - Mochila fotográfica  Color Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C9VBXSH/?tag=tolees-21'
 descuento: '26.51'
 average: '99.32666666666667'

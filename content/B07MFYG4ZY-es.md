@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Sunshine smile Conjunto de Herramientas para Bonsai Herramientas Bonsai Bonsai Tijeras Kit Pequeño Árbol De Los Bonsais Poda Kit!'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFYG4ZY/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

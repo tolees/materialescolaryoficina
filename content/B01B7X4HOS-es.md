@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Dimples Excel 2 in 1 Precisión Lápiz para Tactil Tablet iPad Pro Xiaomi Lenovo Huawei Windows Surface Pad Moviles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B7X4HOS/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

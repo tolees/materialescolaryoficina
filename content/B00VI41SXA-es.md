@@ -16,6 +16,7 @@ comparePrice: 14.31 EUR
 prodname: 'Play-Doh - Maletin Herramientas  Hasbro B1169EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VI41SXA/?tag=tolees-21'
 descuento: '23.20'
 average: '10.99'

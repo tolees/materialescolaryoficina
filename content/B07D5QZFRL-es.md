@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Puma Phase Backpack Backpack  Unisex adulto  Puma Black  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5QZFRL/?tag=tolees-21'
 descuento: '23.01'
 average: '13.295499999999999'

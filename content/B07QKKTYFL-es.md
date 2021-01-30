@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Vans VN0A3I6RTTZ1 Unisex adulto mochila  Verde  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKKTYFL/?tag=tolees-21'
 descuento: '19.98'
 average: '27.45'

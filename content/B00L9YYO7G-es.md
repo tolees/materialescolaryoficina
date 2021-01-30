@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'BIC Plastidecor Peques  Estuche Con 12 Ceras  Tamaño Único  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L9YYO7G/?tag=tolees-21'
 descuento: '53.38'
 average: '2.1837500000000003'

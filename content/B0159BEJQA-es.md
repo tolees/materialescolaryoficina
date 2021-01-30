@@ -16,6 +16,7 @@ comparePrice: 0.6 EUR
 prodname: 'Alpino DP00005601 - Pastilla plastilina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0159BEJQA/?tag=tolees-21'
 descuento: '30.00'
 average: '0.42'

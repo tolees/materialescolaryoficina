@@ -16,6 +16,7 @@ comparePrice: 26.47 EUR
 prodname: 'Carioca - Juego de colores Eco Family | Kit de colores para niños con 12 lápices de colores  6 lápices de dibujo HB  24 rotuladores  4 bolígrafos y juego marcadores  en plástico reciclado  50 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BCLZP55/?tag=tolees-21'
 descuento: '20.97'
 average: '20.92'

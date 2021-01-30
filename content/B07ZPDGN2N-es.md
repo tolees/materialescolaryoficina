@@ -16,6 +16,7 @@ comparePrice: 103.19 EUR
 prodname: 'Tommy Hilfiger Uptown Nylon Backpack  Mochila Hombre  Capitán Del Cielo  OS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPDGN2N/?tag=tolees-21'
 descuento: '16.25'
 average: '86.225'

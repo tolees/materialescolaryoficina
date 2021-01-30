@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Memoria Flash USB 64 GB PenDrive con Llavero Portátil Lápiz USB Flash Drive USB Llevero de Aluminio Impermeable para PC Tableta Computadora y Otros USB Dispositivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3NVVC6/?tag=tolees-21'
 descuento: '56.69'
 average: '11.49'

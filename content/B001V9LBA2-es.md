@@ -16,6 +16,7 @@ comparePrice: 5.66 EUR
 prodname: 'Rimmel London Exaggerate  lápiz de ojos a prueba de agua - 0 28 g de la aguamarina de la chispa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001V9LBA2/?tag=tolees-21'
 descuento: '73.50'
 average: '1.5'

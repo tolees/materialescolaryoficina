@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'BAIGIO Mochila Antirrobo Portátil 15.6 Pulgadas Hombre Mochila Laptop USB Impermeable con Cerradura para Viajes Negocio Trabajo Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDW692B/?tag=tolees-21'
 descuento: '43.68'
 average: '16.89'

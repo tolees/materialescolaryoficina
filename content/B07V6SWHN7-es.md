@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Kipling SEOUL XL Mochila tipo casual  45 cm  33 litros  Plateado  Metallic Glow '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6SWHN7/?tag=tolees-21'
 descuento: '62.67'
 average: '50.39'

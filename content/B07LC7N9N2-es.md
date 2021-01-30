@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Selighting Mochila Cámara Réflex Profesional y Impermeable Bolsa Fotográfica para Cámaras Réflex Trípode Canon Nikon Sony Pentax Drone Ordenador Portátil de 15.6   y Acceserios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LC7N9N2/?tag=tolees-21'
 descuento: '40.01'
 average: '35.32333333333334'

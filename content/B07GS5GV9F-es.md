@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Rotuladores de Pintura Acrílica  Keten 12 Colores Permanentes Punta Mediana para Piedra  Roca  Tela  Metal  Vidrio  Diseñar Taza de Cerámica  Scrapbooking'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GS5GV9F/?tag=tolees-21'
 descuento: '16.68'
 average: '14.39'

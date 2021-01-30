@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'KINGSLONG Mochila Portatil Mujer &Hombre Mochila Pare Laptop 15.6" Mochila Casual Ligera Enrollable Resistente al Agua Mochila para Urbana Estudiantes Viaje computadora portátil  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDB3HDH/?tag=tolees-21'
 descuento: '35.01'
 average: '38.99'

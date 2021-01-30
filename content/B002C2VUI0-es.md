@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'APLI 262  Rollo forro de libros adhesivo  1.5 x 0.5 m  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002C2VUI0/?tag=tolees-21'
 descuento: '42.71'
 average: '5.15'

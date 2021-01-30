@@ -16,6 +16,7 @@ comparePrice: 4.15 EUR
 prodname: 'Maped M244304 - Juego de regla  escuadra  cartabón y transportador de ángulos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001ANVQ4A/?tag=tolees-21'
 descuento: '30.12'
 average: '2.9'

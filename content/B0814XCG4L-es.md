@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'adidas Fest Bag Tref Sports Backpack  Unisex Adulto  White  NS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814XCG4L/?tag=tolees-21'
 descuento: '20.18'
 average: '14.36'

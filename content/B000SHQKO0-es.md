@@ -16,6 +16,7 @@ comparePrice: 24.05 EUR
 prodname: 'Pilot Frixion - Bolígrafo de tinta  trazo de 0 4 mm  tinta borrable   color azul  12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000SHQKO0/?tag=tolees-21'
 descuento: '18.88'
 average: '19.51'

@@ -16,6 +16,7 @@ comparePrice: 46.48 EUR
 prodname: 'Xnuoyo 17.3" Mochila Portátil para 12-17 Pulgadas Ordenador  Impermeable Multifuncional Mochila con Puerto de Carga USB & Puerto para Auriculares para Hombre de Viaje  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQ7CMX2/?tag=tolees-21'
 descuento: '22.57'
 average: '34.47'

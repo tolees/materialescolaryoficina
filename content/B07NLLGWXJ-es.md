@@ -16,6 +16,7 @@ comparePrice: 20.97 EUR
 prodname: 'Mochila Infantil 3D Disney Aladdin'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLLGWXJ/?tag=tolees-21'
 descuento: '42.82'
 average: '11.99'

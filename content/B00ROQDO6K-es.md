@@ -16,6 +16,7 @@ comparePrice: 6.72 EUR
 prodname: 'BIC 4 colores Stylus bolígrafos punta media  1 0 mm  - Grip Verde o Gris  Blíster de 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ROQDO6K/?tag=tolees-21'
 descuento: '23.07'
 average: '4.796666666666666'

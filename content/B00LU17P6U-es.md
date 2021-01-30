@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Black Diamond Bullet 16 Mochila  Unisex Adulto  Negro  Black   Tamaño Único'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LU17P6U/?tag=tolees-21'
 descuento: '45.24'
 average: '27.38'

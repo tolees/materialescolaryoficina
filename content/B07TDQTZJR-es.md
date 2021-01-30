@@ -16,6 +16,7 @@ comparePrice: 67.0 EUR
 prodname: 'Mochila doble cremallera con carro Pepe Jeans Uma negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TDQTZJR/?tag=tolees-21'
 descuento: '51.72'
 average: '33.79'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Mochilas Infantiles  Mochilas para Niños Niñas  Bolsa de Jardín de Infancia Mochila Infantil de Animales Dibujos Lindos para Niños Bolsa Escuela para Niños de 3-7 años  Azul Oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WPXDX72/?tag=tolees-21'
 descuento: '56.29'
 average: '7.323333333333333'

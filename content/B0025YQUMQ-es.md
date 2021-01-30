@@ -16,6 +16,7 @@ comparePrice: 6.19 EUR
 prodname: 'Jovi-725265 Caja de 15 Barras de plastilina  216047 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0025YQUMQ/?tag=tolees-21'
 descuento: '22.78'
 average: '5.216666666666667'

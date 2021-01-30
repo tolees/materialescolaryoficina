@@ -16,6 +16,7 @@ comparePrice: 57.84 EUR
 prodname: 'Targus Sol-Lite - Mochila Para Portátil  Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZW8QZW/?tag=tolees-21'
 descuento: '27.39'
 average: '38.753'

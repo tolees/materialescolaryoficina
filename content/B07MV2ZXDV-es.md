@@ -16,6 +16,7 @@ comparePrice: 30.88 EUR
 prodname: 'Atlético de Madrid "In Blue" Oficial Mochila Escolar 320x160x440mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV2ZXDV/?tag=tolees-21'
 descuento: '23.58'
 average: '23.6'

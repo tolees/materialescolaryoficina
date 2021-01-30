@@ -16,6 +16,7 @@ comparePrice: 27.9 EUR
 prodname: 'INT!REND Rotuladores punta de pincel 51 SET | Compuesto por 24 rotuladores acuarelables profesionales  2 pinceles  20 hojas papel de acuarela  5 plantillas para dibujar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G87DZBJ/?tag=tolees-21'
 descuento: '17.92'
 average: '22.9'

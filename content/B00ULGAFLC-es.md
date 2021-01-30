@@ -16,6 +16,7 @@ comparePrice: 2.87 EUR
 prodname: 'BIC Celebrate Cristal Shine bolígrafos punta media  1 0 mm  - Cuerpo y colores Surtidos  Blíster de 2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ULGAFLC/?tag=tolees-21'
 descuento: '30.66'
 average: '2.2931578947368423'

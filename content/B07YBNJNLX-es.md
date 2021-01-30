@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Parfois - Mochila Estampada - Mujeres - Tallas L - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBNJNLX/?tag=tolees-21'
 descuento: '20.01'
 average: '17.99'

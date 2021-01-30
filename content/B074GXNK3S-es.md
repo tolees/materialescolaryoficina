@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Faber-Castell 114624 - Estuche de metal con 24 ecolápices acuarelables hexagonales Goldfaber Aqua  colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074GXNK3S/?tag=tolees-21'
 descuento: '20.25'
 average: '19.84'

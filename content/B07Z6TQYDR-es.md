@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Samsonite Zalia 2.0  Mochila para portátiles y netbooks para Mujer  Negro  Black   M  36.5 cm - 11.5 L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6TQYDR/?tag=tolees-21'
 descuento: '20.04'
 average: '113.42'

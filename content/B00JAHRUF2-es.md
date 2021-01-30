@@ -16,6 +16,7 @@ comparePrice: 10.59 EUR
 prodname: 'Androni - Mochila de mar del bebé Crazy Fish'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JAHRUF2/?tag=tolees-21'
 descuento: '43.81'
 average: '5.95'

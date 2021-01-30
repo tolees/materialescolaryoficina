@@ -16,6 +16,7 @@ comparePrice: 11.62 EUR
 prodname: 'Panamami Conjunto de moldes de Herramientas de Arcilla de Color  Herramienta de plastilina Ambiental  no tóxico y Seguro  Ideal para artesanías de Alivio de estrés - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9WYDH2/?tag=tolees-21'
 descuento: '35.03'
 average: '7.55'

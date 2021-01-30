@@ -16,6 +16,7 @@ comparePrice: 8.15 EUR
 prodname: 'Post-it Extreme Notes - Cuaderno de notas  2 unidades  114 x 171 mm   color amarillo y verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDP8DF4/?tag=tolees-21'
 descuento: '26.99'
 average: '5.95'

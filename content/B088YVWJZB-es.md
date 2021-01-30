@@ -16,6 +16,7 @@ comparePrice: 34.49 EUR
 prodname: 'Masthome Tabla de Cortar de Cocina de plástico de Doble Cara con Sacapuntas Laterales Con 2 Piezas Tablas de Cortar de Cocina de Flexible y 1 tijeras y 1 pelador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088YVWJZB/?tag=tolees-21'
 descuento: '27.54'
 average: '24.99'

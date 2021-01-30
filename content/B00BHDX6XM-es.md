@@ -16,6 +16,7 @@ comparePrice: 61.7 EUR
 prodname: 'Kensington K62591EU - Mochila Triple Trek Optimizada para Ultrabook  Negro  43 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Kensington'
 buyurl: 'https://www.amazon.es/dp/B00BHDX6XM/?tag=tolees-21'
 descuento: '23.21'
 average: '47.5509677419354'
@@ -27,8 +28,8 @@ Está [Kensington K62591EU - Mochila Triple Trek Optimizada para Ultrabook  Negr
 
 ℹ️:
 
-- Guarde de forma segura su portátil y accesorios en esta mochila para portátiles en la que caben dispositivos de hasta 14" (35.5 cm)
-- Marca: Kensington
 - Protege y amortigua su portátil con nailon balístico de 1680 deniers de alta resistencia
+- Marca: Kensington
+- Guarde de forma segura su portátil y accesorios en esta mochila para portátiles en la que caben dispositivos de hasta 14" (35.5 cm)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BHDX6XM/?tag=tolees-21)

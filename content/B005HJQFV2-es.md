@@ -16,6 +16,7 @@ comparePrice: 7.13 EUR
 prodname: 'Staedtler 334 SB6CS1. Rotuladores de punta fina Triplus Fineliner. Pack de 6 marcadores de colores pastel.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005HJQFV2/?tag=tolees-21'
 descuento: '20.90'
 average: '5.537999999999999'

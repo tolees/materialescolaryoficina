@@ -16,6 +16,7 @@ comparePrice: 75.63 EUR
 prodname: 'Parker Urban 1931570 - Bolígrafo roller  morado oscuro  recambio de tinta negra para punta fina '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX2H8O2/?tag=tolees-21'
 descuento: '47.11'
 average: '40.0'

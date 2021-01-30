@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Otterbox Symmetry Folio Protección Anti-caídas  con Tapa para iPad 7  2019  con Soporte para lápiz 10.2"  Color Negro  Pro Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z7RZ0VK/?tag=tolees-21'
 descuento: '30.01'
 average: '41.99'

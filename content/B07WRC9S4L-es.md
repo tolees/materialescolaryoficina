@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Huntvp Bolsa de Riñonera Mochila de Bandolera 2 Vías de Llevar Estilo Militar Táctical Bolsa de Múltiple Función Impermeable para Aire Libre Correr Senderismo Ciclismo Camping  Camuflaje-M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRC9S4L/?tag=tolees-21'
 descuento: '62.51'
 average: '17.99'

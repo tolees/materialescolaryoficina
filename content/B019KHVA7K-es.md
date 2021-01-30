@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Arena Fastpack 2.1 Mochila  Unisex Adulto  Negro  Black/Fluo Yell   36x24x45 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019KHVA7K/?tag=tolees-21'
 descuento: '30.48'
 average: '56.3525'

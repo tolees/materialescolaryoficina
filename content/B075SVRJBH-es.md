@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Joymoze Bonita Mochila Escolar Impermeable para Niños y Niñas - Cartera Ligera de Estampado Elegante Cactus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075SVRJBH/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Backpack Liberté Patch Baza  Mochila moderna. para Mujer  azul  navy   37x9x24 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXW6W35/?tag=tolees-21'
 descuento: '15.37'
 average: '51.586000000000006'

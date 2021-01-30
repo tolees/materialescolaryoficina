@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Pepe Jeans 7742065  Mochila Casual  28 cm  6.72 litros  Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFDKH8T/?tag=tolees-21'
 descuento: '19.99'
 average: '48.0'

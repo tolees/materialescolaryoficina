@@ -16,6 +16,7 @@ comparePrice: 57.0 EUR
 prodname: 'Element Cypress Bpk  Backpack para Hombre  napa red  U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKB36D3/?tag=tolees-21'
 descuento: '42.07'
 average: '33.02'

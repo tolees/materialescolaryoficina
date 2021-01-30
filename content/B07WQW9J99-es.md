@@ -16,6 +16,7 @@ comparePrice: 21.55 EUR
 prodname: 'Mochila para portátil Mochila para Estudiantes Mochila Escolar de Stranger Things Mochila de Viaje con Puerto de Carga USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQW9J99/?tag=tolees-21'
 descuento: '25.85'
 average: '15.98'

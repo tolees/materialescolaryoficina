@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Kipling SOOBIN LIGHT - Bolsa escolar  29 liters  Azul  TRUE NAVY '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1DBZQ2/?tag=tolees-21'
 descuento: '27.37'
 average: '130.0'

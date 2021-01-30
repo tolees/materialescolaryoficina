@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Mochila Infantil 3D  Estuche Escolar y Bolsa Merienda de Cuerdas Pack Diseño Colorido – Minnie Mouse | Mochila Escolar Niña de 3 Años | Material Escolar Vuelta al Cole con Minnie Mouse'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DFNMJVV/?tag=tolees-21'
 descuento: '44.04'
 average: '13.99'

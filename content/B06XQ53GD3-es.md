@@ -16,6 +16,7 @@ comparePrice: 7.65 EUR
 prodname: 'Staedtler 308 S1WP3 - Rotulador  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQ53GD3/?tag=tolees-21'
 descuento: '57.91'
 average: '3.4450000000000007'

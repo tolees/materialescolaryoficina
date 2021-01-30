@@ -16,6 +16,7 @@ comparePrice: 47.48 EUR
 prodname: 'Desigual Back Azabache Nanaimo  Mochila para Mujer  Negro  Negro   12 x 35.5 x 28 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHW37QN/?tag=tolees-21'
 descuento: '16.09'
 average: '43.66'

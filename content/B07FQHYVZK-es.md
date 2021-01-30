@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Vans Realm Backpack Mochila Tipo Casual  42 cm  22 Liters  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQHYVZK/?tag=tolees-21'
 descuento: '28.97'
 average: '23.284000000000002'

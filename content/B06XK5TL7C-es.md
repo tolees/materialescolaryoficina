@@ -16,6 +16,7 @@ comparePrice: 5.65 EUR
 prodname: 'Rimmel London Brow This Way Fibre Pencil Lápiz de Cejas Tono 1 - 3 9 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XK5TL7C/?tag=tolees-21'
 descuento: '84.07'
 average: '1.5933333333333333'

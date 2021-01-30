@@ -16,6 +16,7 @@ comparePrice: 8.18 EUR
 prodname: 'Marcador fluorescente STABILO swing cool - Estuche con 6 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R4HG4JS/?tag=tolees-21'
 descuento: '22.98'
 average: '6.3'

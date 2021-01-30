@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Kipling ELLETTRONICO Mochila Tipo Casual  24 cm  2 Liters  Negro  Carbon Metallic '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4MCGLV/?tag=tolees-21'
 descuento: '43.72'
 average: '21.95'

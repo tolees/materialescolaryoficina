@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger - Sport Mix Backpack Solid  Carteras Hombre  Azul  Tommy Navy   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1TR3GF/?tag=tolees-21'
 descuento: '50.14'
 average: '49.81'

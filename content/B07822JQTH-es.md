@@ -16,6 +16,7 @@ comparePrice: 18.5 EUR
 prodname: 'BIC Gel-ocity Quick Dry bolígrafos Tinta en Gel punta media  0 7 mm  – Negro  Caja de 12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07822JQTH/?tag=tolees-21'
 descuento: '30.43'
 average: '12.87'

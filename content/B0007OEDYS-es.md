@@ -16,6 +16,7 @@ comparePrice: 5.8 EUR
 prodname: 'STABILO BOSS Original Marcador fluorescente multicolor - Estuche con 4 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0007OEDYS/?tag=tolees-21'
 descuento: '30.17'
 average: '4.25'

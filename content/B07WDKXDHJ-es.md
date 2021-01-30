@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Vans VN0A3UI6 - Mochila de Sintético mujer  Multicolor  Arrowwood leopard '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDKXDHJ/?tag=tolees-21'
 descuento: '50.00'
 average: '21.595'

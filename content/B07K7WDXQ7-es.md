@@ -16,6 +16,7 @@ comparePrice: 28.25 EUR
 prodname: 'Miquelrius - Mochila Pequeña Poliéster Cierres Cremallera Camuflaje Cars'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7WDXQ7/?tag=tolees-21'
 descuento: '72.00'
 average: '7.91'

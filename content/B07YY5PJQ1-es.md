@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Xnuoyo Scansmart Mochilas Portatil 15.6 Pulgadas  Mochila TSA Friendly con Puerto de Carga USB  Resistente al Agua Multifuncional Mochila de Gran Capacidad Portátil para Viajes de Negocios  Negro02 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YY5PJQ1/?tag=tolees-21'
 descuento: '15.00'
 average: '38.06142857142857'

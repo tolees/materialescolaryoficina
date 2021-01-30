@@ -16,6 +16,7 @@ comparePrice: 150.03 EUR
 prodname: 'Dymo S0915440 - Impresoras de etiquetas con teclado ABC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0045F8JXG/?tag=tolees-21'
 descuento: '17.48'
 average: '123.8'

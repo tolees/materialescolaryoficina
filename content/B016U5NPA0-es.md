@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'NAVIGATOR A4  80 g/m² papel universal 10x Reams  5 000 Sheets  - 2x Box'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016U5NPA0/?tag=tolees-21'
 descuento: '55.35'
 average: '26.798333333333332'

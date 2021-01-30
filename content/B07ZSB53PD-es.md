@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Mochila Bebe AngLink Mochila Carro Bebe Material Impermeable de Alta Calidad  Duradero Regalar Cinturón de Cochecito Mochila Maternidad Regalo Perfecto Para Mamá y Papá Jóvenes Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZSB53PD/?tag=tolees-21'
 descuento: '18.92'
 average: '29.156666666666666'

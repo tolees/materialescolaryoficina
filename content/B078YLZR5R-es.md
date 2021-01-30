@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Thule EnRoute - Mochila de 23L  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078YLZR5R/?tag=tolees-21'
 descuento: '42.05'
 average: '57.92'

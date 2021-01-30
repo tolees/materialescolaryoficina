@@ -16,6 +16,7 @@ comparePrice: 29.91 EUR
 prodname: 'Kit Cuidado Set Barba con Libre Champu Barba Peine Barba Cepillo Barba Aceite Barba Balsamo Barba Barba Tijeras Bolsa de Almacenamiento Eletronic Barba Libro Regalos Originales Para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797VH3MJ/?tag=tolees-21'
 descuento: '43.46'
 average: '14.318'

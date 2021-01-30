@@ -16,6 +16,7 @@ comparePrice: 228.78 EUR
 prodname: 'Faber-Castell 117511 - Estuche de metal con 120 ecolápices acuarelables  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KT73LK/?tag=tolees-21'
 descuento: '27.13'
 average: '165.98000000000002'

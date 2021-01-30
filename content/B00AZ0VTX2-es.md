@@ -16,6 +16,7 @@ comparePrice: 23.23 EUR
 prodname: 'Trunki PaddlePak - Mochila infantil impermeable para piscina y gimnasio  Violeta  37 x 29 x 17 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AZ0VTX2/?tag=tolees-21'
 descuento: '49.50'
 average: '11.73'

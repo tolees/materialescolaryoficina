@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Samsonite 93061-1820 maletines para portátil 35 8 cm  14.1"  Mochila Azul - Funda  Mochila  35 8 cm  14.1"   700 g  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CL1CFQ/?tag=tolees-21'
 descuento: '20.15'
 average: '45.17500000000001'

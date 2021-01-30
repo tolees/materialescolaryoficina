@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Samsonite Karissa Biz - Mochila  40 cm    Rojo  Formula Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9CCT8R/?tag=tolees-21'
 descuento: '36.76'
 average: '91.79333333333334'

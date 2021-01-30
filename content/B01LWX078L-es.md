@@ -16,6 +16,7 @@ comparePrice: 10.67 EUR
 prodname: 'APLI 13462 - Pack de 10 rollos de papel Electra  76.5 x 65 x 12 mm  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWX078L/?tag=tolees-21'
 descuento: '25.40'
 average: '7.96'

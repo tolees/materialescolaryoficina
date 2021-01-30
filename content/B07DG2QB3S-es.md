@@ -16,6 +16,7 @@ comparePrice: 27.68 EUR
 prodname: 'Plantilla Dibujo Supplies Pack Escolar con Escuadra Cartabón Regla y Semicírculo Stencil Plantillas de Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DG2QB3S/?tag=tolees-21'
 descuento: '71.46'
 average: '7.9'

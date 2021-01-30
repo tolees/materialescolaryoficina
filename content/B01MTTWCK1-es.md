@@ -16,6 +16,7 @@ comparePrice: 90.44 EUR
 prodname: 'Wenger/SwissGear Alexa 16 40 6 cm  16"  Mochila Negro - Funda  Mochila  40 6 cm  16"   Tirante para Hombro  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTTWCK1/?tag=tolees-21'
 descuento: '20.39'
 average: '75.99666666666667'

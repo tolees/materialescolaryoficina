@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'DYMO LW 99014 Etiquetas de envío / distintivos  blanco  54 mm x 101 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00028XNNG/?tag=tolees-21'
 descuento: '20.60'
 average: '23.82'

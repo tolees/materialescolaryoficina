@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Miquel Rius 17280 - Cubilete Azul  Bella Garden'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGZ6VBX/?tag=tolees-21'
 descuento: '44.49'
 average: '6.1'

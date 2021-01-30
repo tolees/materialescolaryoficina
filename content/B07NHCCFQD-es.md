@@ -16,6 +16,7 @@ comparePrice: 11.24 EUR
 prodname: 'Paper Mate InkJoy 100ST - Bolígrafos  punta mediana 1.0 mm  paquete de 27  colores fantasía surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHCCFQD/?tag=tolees-21'
 descuento: '18.86'
 average: '9.12'

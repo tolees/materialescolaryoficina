@@ -16,6 +16,7 @@ comparePrice: 22.61 EUR
 prodname: 'EKKONG Scratch Art Manualidades para Niños  48PCS Scratch Láminas Dinosaurios para Rascar Creativas Dibujar con 24 Lápices de Madera y 48 Cintas  para Cumpleaños Fiestas  Accesorios Dinosaurios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YK8BH3R/?tag=tolees-21'
 descuento: '42.55'
 average: '12.99'

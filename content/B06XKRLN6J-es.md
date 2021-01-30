@@ -16,6 +16,7 @@ comparePrice: 34.75 EUR
 prodname: 'adidas BP Power IV  Mochila Unisex Adultos  Negro  Negro/Blanco/Blanco   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKRLN6J/?tag=tolees-21'
 descuento: '19.17'
 average: '26.143636363636364'

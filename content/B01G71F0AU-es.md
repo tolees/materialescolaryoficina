@@ -16,6 +16,7 @@ comparePrice: 3.16 EUR
 prodname: 'Bourjois Liner Feutre Lápiz de ojos Tono 16 Noir - 7 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G71F0AU/?tag=tolees-21'
 descuento: '30.70'
 average: '2.19'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Mi Pequeño Poni Gorra para niña Premium Color Celeste con Orejas y Crin + lápiz de Regalo - My Little Pony Cap'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C6RBXJ2/?tag=tolees-21'
 descuento: '20.01'
 average: '11.19'

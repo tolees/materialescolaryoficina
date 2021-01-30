@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Manicura Pedicura Set  Tencoz 18 in 1 Cortaúñas de Acero Inoxidable para Manicura de manicura Famliy Manicura y Pedicura Set pedicura  oído recoger uñas tijeras con caja de cuero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNP3D8X/?tag=tolees-21'
 descuento: '15.01'
 average: '9.34'

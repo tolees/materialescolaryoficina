@@ -16,6 +16,7 @@ comparePrice: 15.3 EUR
 prodname: 'Play-Doh Pizzería  Multicolor  23 x 22 cm  Hasbro B1856EU6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5AB9G7/?tag=tolees-21'
 descuento: '21.63'
 average: '12.993333333333332'

@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'The North Face Borealis Classic Mochila  Unisex Adulto  montgbl/Vintgwt  OS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH4X7GR/?tag=tolees-21'
 descuento: '40.00'
 average: '60'

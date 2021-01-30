@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'AmazonBasics - Mochila compacta de viaje  Negro  para viajes de fin de semana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079L8DHGH/?tag=tolees-21'
 descuento: '39.63'
 average: '42.25'

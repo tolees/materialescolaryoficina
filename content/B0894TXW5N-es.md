@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Bolígrafos de Contorno de Doble Línea  Baozun 21Colores Rotuladores de Doble Línea Secado Rápido Resistente al Agua Pluma de Doble Línea para Hacer Tarjetas de Regalo Pintar Rocas Dibujar Manualidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894TXW5N/?tag=tolees-21'
 descuento: '31.83'
 average: '14.99'

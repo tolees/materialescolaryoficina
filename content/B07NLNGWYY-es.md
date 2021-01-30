@@ -16,6 +16,7 @@ comparePrice: 23.97 EUR
 prodname: 'Artesania Cerda Mochila Infantil 3D Avengers Capitan America  Color Azul  31 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLNGWYY/?tag=tolees-21'
 descuento: '44.18'
 average: '13.38'

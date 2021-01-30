@@ -16,6 +16,7 @@ comparePrice: 5.88 EUR
 prodname: 'Faber Castell 65021 - Pack escolar con escuadra  cartabón  regla y semicírculo  color verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMEAO5G/?tag=tolees-21'
 descuento: '33.67'
 average: '4.508'

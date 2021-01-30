@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Case Logic - Mochila para portátiles de 16"/40 cm  Color Negro y Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008NF2YJE/?tag=tolees-21'
 descuento: '47.51'
 average: '36.74'

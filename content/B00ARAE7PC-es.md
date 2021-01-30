@@ -16,6 +16,7 @@ comparePrice: 6.54 EUR
 prodname: 'BIC 4 colores Shine Bolígrafo Retráctil punta media  1 0 mm  – colores Metálicos Surtidos  Blíster de 2+1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ARAE7PC/?tag=tolees-21'
 descuento: '23.70'
 average: '4.922352941176471'

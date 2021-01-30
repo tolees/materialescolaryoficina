@@ -16,6 +16,7 @@ comparePrice: 13.41 EUR
 prodname: 'Milan 176512925 - Bolígrafo de punta redonda   25 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004TOI92E/?tag=tolees-21'
 descuento: '82.25'
 average: '2.38'

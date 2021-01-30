@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Back adaggio Denver - Mochila para mujer  15 50 x 27 70 x 28 70 cm   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XPL49DS/?tag=tolees-21'
 descuento: '36.10'
 average: '51.09'

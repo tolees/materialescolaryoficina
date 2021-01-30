@@ -16,6 +16,7 @@ comparePrice: 105.18 EUR
 prodname: 'APLI 1787 - Etiquetas blancas permanentes 210 0 x 148 0 mm 500 hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LE0Q3G/?tag=tolees-21'
 descuento: '41.31'
 average: '59.37500000000001'

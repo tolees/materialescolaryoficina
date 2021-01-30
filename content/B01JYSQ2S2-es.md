@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Chicco Easy Fit Mochila ergonómica portabebé  hasta 9 kg  color negro  Black Night '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JYSQ2S2/?tag=tolees-21'
 descuento: '23.22'
 average: '38.626666666666665'

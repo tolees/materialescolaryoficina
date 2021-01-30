@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Calvin Klein - Layered Round Backpack  Shoppers y bolsos de hombro Hombre  Azul  Navy   0.1x0.1x0.1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQ2PNFR/?tag=tolees-21'
 descuento: '57.19'
 average: '32.919999999999995'

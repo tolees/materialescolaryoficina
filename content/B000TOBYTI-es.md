@@ -16,6 +16,7 @@ comparePrice: 30.5 EUR
 prodname: 'Scotch Magic Tape - Cinta adhesiva transparente  14 rollos  19 mm x 33 m   transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000TOBYTI/?tag=tolees-21'
 descuento: '27.90'
 average: '21.99'

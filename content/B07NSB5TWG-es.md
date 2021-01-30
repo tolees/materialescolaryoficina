@@ -16,6 +16,7 @@ comparePrice: 34.41 EUR
 prodname: 'VOHONEY - Bolsa Escolar Verde School Backpack for Unicorn Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSB5TWG/?tag=tolees-21'
 descuento: '48.74'
 average: '17.64'

@@ -16,6 +16,7 @@ comparePrice: 42.8 EUR
 prodname: 'MKTOSASA - Mochila Multiusos en Resistente poliéster 300D. De diseño Urbano  Incluye Bolsillo antirrobo con tecnología de Seguridad RFID  Identificación por Radio Frecuencia  - 37x64x20 Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LL1C5H/?tag=tolees-21'
 descuento: '19.98'
 average: '34.25'

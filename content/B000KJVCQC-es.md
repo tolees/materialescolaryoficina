@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Faber-Castell 120511 - Minas  12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KJVCQC/?tag=tolees-21'
 descuento: '68.67'
 average: '1.25'

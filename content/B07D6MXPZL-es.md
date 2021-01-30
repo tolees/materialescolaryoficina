@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Kipling CLAS SEOUL S Mochila con Compartimento para Tableta  10 litros  Beige  True Beige '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6MXPZL/?tag=tolees-21'
 descuento: '61.09'
 average: '33.19'

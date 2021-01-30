@@ -16,6 +16,7 @@ comparePrice: 33.32 EUR
 prodname: 'Pistola de pegamento Dweyka  50 W  mini pistola de pegamento con 50 barras de pegamento  pistola de pegamento termofusible de alta temperatura con interruptor de encendido/apagado para proyectos de manualidades  reparaciones rápidas del hogar  decoración de festivales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BC3LQTT/?tag=tolees-21'
 descuento: '47.45'
 average: '17.51'

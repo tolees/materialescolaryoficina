@@ -16,6 +16,7 @@ comparePrice: 21.49 EUR
 prodname: 'CARIOCA Oops Azules | Set Bolígrafos Borrables Recargables con Tapa para el Colegio  Universidad y Oficina con Doble Goma Incorporada y Agarre Ergonómico  Bolígrafos Azules12 Uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQM39QR/?tag=tolees-21'
 descuento: '24.99'
 average: '16.12'

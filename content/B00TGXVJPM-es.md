@@ -16,6 +16,7 @@ comparePrice: 7.89 EUR
 prodname: 'BIC Velleda Pocket rotuladores Punta Ancha - colores Surtidos  Caja de 4 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TGXVJPM/?tag=tolees-21'
 descuento: '39.04'
 average: '4.81'

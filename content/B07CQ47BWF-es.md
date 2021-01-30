@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: '41 Piezas Set Dibujo Artistico Con Lapices Acuarelables  Lapices De Dibujo  Lapiz Grafito En Cartuchera Lapices para Colorear Libros Y Páginas  El mejor regalo para estudiantes  niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ47BWF/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'American Tourister Fun Limit - Mochila  Color Negro  Neon Palms '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQJF4W6/?tag=tolees-21'
 descuento: '38.15'
 average: '14.454999999999998'

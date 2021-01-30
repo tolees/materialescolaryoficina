@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'WOMGF barbero Tijeras Cortar Pelo tijeras de peluquería con capa de barbero y peine de maquinilla de afeitar  clips Conjunto Tijeras Peluquelo Profesional para el cabello'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CGCJGP9/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 55.45 EUR
 prodname: 'Parker Urban 1931578 - Bolígrafo  purpurina plateada  recambio de tinta azul para punta media '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MF5T6OR/?tag=tolees-21'
 descuento: '47.25'
 average: '29.25'

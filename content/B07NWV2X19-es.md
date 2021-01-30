@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Maui And Sons Waves - Mochila  42 cm  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWV2X19/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

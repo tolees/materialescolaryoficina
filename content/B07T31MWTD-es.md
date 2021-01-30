@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Letras y Números Magnéticos para Niños - Conjunto Completo: 182 Letras y 81 Números y Símbolos - Imanes Gruesos de Espuma para la Nevera - Incluye 2 Cajas  Pizarra Magnética  Rotuladores y Borrador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T31MWTD/?tag=tolees-21'
 descuento: '16.81'
 average: '24.95'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'HOMIEE Mochila para Portátil con Puerto de Carga USB/Puerto para Auriculares Bolsa antirrobo Liviana - Adaptable para 15.6 Pulgadas  Mochila Informal Delgada  Impermeable Viajes  Universidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTHKC4G/?tag=tolees-21'
 descuento: '31.17'
 average: '19.45357142857143'

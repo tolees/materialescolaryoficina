@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Armani Exchange - Liz Backpack  Mochilas Mujer  Negro  Nero Black   28x8x26 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THV2KWX/?tag=tolees-21'
 descuento: '57.43'
 average: '57.535'

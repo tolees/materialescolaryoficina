@@ -16,6 +16,7 @@ comparePrice: 20.44 EUR
 prodname: 'Alpino DP000129 - Kit pasta blanda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AO0DF1W/?tag=tolees-21'
 descuento: '29.89'
 average: '14.33'

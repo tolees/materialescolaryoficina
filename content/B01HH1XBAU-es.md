@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Superwings - Escritorio Completo con bolígrafo electrónico  Giochi Preziosi UPW18000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HH1XBAU/?tag=tolees-21'
 descuento: '55.25'
 average: '13.42'

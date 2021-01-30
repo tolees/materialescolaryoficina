@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Parfois - Mochila con Estampado De Fruta - Mujeres - Tallas L - Naranja 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHX7HMC/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

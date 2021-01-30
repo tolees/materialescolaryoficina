@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: 'Astor Perfect Stay 24h Eyeshadow Waterproof  Lápiz Sombra de Ojos Tono 700'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ECUZN5Q/?tag=tolees-21'
 descuento: '23.64'
 average: '4.2'

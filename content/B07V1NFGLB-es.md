@@ -16,6 +16,7 @@ comparePrice: 23.18 EUR
 prodname: 'safta Blackfit8 Magical Plumier mochila 4 estuches llenos  33 piezas  escolar  Rosa Unicornios  8412688348718 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1NFGLB/?tag=tolees-21'
 descuento: '38.91'
 average: '14.239'

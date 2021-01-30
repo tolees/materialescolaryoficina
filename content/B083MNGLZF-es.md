@@ -16,6 +16,7 @@ comparePrice: 11.1 EUR
 prodname: 'BIC 4 Colores Bolígrafos de Punta Media  1 0 mm  - Cuerpo de Varios Colores  Texturizado Escarchado Dorado y Plateado   Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083MNGLZF/?tag=tolees-21'
 descuento: '15.86'
 average: '9.34'

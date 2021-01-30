@@ -16,6 +16,7 @@ comparePrice: 18.5 EUR
 prodname: 'Stabilo Boss Original - Marcador  color pastel  Set 2  1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0764BWVJ7/?tag=tolees-21'
 descuento: '23.41'
 average: '14.17'

@@ -16,6 +16,7 @@ comparePrice: 29.97 EUR
 prodname: 'Zenacolor 24 Lápices de Colores Acuarelables  Numerados con Pincel en Caja Metálica Set de Ecolápices Acuarelables de Colores - Únicos y Diferentes - Coloreado para Adultos y Artistas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHQY3S7/?tag=tolees-21'
 descuento: '50.05'
 average: '14.97'

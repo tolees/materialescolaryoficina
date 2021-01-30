@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Eastpak Orbit Mini Mochila  34 cm  10 L  Azul  Cloud Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXTKV9R/?tag=tolees-21'
 descuento: '53.33'
 average: '25.0'

@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'APLI 11915 - Clips mariposa galvanizados nº 20 60 mm  25 clips'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CDI0K02/?tag=tolees-21'
 descuento: '29.86'
 average: '3.5'

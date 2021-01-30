@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Samsonite Color Funtime Mochila con Ruedas  51 cm  26 L  Azul  Street Sports '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TP5CYFR/?tag=tolees-21'
 descuento: '43.07'
 average: '59.78'

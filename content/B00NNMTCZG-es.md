@@ -16,6 +16,7 @@ comparePrice: 15.55 EUR
 prodname: '3 Claveles 7 Tijeras de Costura  Multiusos  Acero de Carbono   Tamaño: 18 cm-7"   Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NNMTCZG/?tag=tolees-21'
 descuento: '23.67'
 average: '11.87'

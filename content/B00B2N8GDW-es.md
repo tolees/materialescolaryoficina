@@ -16,6 +16,7 @@ comparePrice: 35.13 EUR
 prodname: '3 Claveles Tijeras Cocina Multiusos  Acero Inoxidable  Brillo  20 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B2N8GDW/?tag=tolees-21'
 descuento: '23.00'
 average: '26.495'

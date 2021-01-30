@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'LEGO - Pack de 3 bolígrafos de gel  51513 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015FM2GWW/?tag=tolees-21'
 descuento: '39.57'
 average: '6.95'

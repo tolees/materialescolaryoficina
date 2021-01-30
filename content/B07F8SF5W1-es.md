@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Samsung - Lápiz capacitivo S-Pen para Samsung Galaxy Note 9  color negro- Version española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8SF5W1/?tag=tolees-21'
 descuento: '29.70'
 average: '26.02'

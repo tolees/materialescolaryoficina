@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Staedler Noris - Lápiz  HB 2  50 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003HIG6OQ/?tag=tolees-21'
 descuento: '21.19'
 average: '23.45'

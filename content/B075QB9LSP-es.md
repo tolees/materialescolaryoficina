@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Troika - Bolígrafo  pequeño   regla de centímetro/pulgadas  destornillador plano/de estrella  lápiz  amarillo   mina negra  incluye 2 minas de repuesto  aluminio/latón/acero  mate  color amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QB9LSP/?tag=tolees-21'
 descuento: '20.20'
 average: '7.9'

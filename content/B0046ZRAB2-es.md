@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'L Oréal Paris Lápiz de Labios Infalible Lipliner 703 Fucsia Fever'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0046ZRAB2/?tag=tolees-21'
 descuento: '50.21'
 average: '5.58'

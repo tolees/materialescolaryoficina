@@ -16,6 +16,7 @@ comparePrice: 130.3 EUR
 prodname: 'BOPAI - Mochila unisex para hombre  impermeable  ligera  antirrobo  inteligente  para ordenador portátil  de 15 pulgadas  color negro  Nero1  Negro  - BOPAI0717'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB72Z5B/?tag=tolees-21'
 descuento: '61.79'
 average: '49.79'

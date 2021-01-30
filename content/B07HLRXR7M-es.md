@@ -16,6 +16,7 @@ comparePrice: 12.79 EUR
 prodname: ' akozon 1pc 7scheren vendaje sanitario Key2Life – Tijeras cortar Primeros Auxilios emergencia Medical Tool'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HLRXR7M/?tag=tolees-21'
 descuento: '60.20'
 average: '5.09'

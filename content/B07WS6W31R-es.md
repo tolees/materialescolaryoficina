@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'CiSiRUN Lápiz Táctil Lápiz iPad Lápiz para Pantalla Táctil Lápiz iPad Recargable con Puntas Ultra Finas de 1.5 mm Compatible con iPad/Tablets/iPhones/Samsung/Lenovo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WS6W31R/?tag=tolees-21'
 descuento: '62.51'
 average: '25.963333333333335'

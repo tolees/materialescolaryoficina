@@ -16,6 +16,7 @@ comparePrice: 25.89 EUR
 prodname: 'Rotulador de 80 Colores Marker Pen Marcadores Manga Creativos de Certificación SGS Rotulador Alcohol de Punta Doble ara Acuarela Graffiti para Principiantes Set de Rotuladores de Boceto Hecho a Mano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M73BCH6/?tag=tolees-21'
 descuento: '27.04'
 average: '18.89'

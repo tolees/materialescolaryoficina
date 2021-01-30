@@ -16,6 +16,7 @@ comparePrice: 29.17 EUR
 prodname: 'LEADSTAR Agua Dibujo Pintura  110x70cm Doodle Agua  Alfombra de Agua Doodle  Pizarra Mágica  Esteras de Agua Doodle Juegos Juguetes Educativo con 3 Bolígrafos 10 Plantillas 4 Sellos para Niños 3+ Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TMKMMX/?tag=tolees-21'
 descuento: '41.76'
 average: '16.99'

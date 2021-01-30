@@ -16,6 +16,7 @@ comparePrice: 77.99 EUR
 prodname: 'HUION Inspiroy Ink H320M  Rojo  Tableta de Dibujo gráfico Lápiz de Escritura LCD de Doble Uso Tableta ± 60 ° Tilt Pen sin batería 11 Teclas de Acceso rápido para Android 6.0 Windows y Mac OS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X28CTWJ/?tag=tolees-21'
 descuento: '20.52'
 average: '73.99'

@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'Coronel Tapiocca Mochila Red Azul Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSCQTWG/?tag=tolees-21'
 descuento: '43.57'
 average: '29.9'

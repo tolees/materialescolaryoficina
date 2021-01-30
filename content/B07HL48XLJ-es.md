@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Mochila Lona  Mochila para Portátil 17.3 Pulgadas  Vintage Recorrido del Morral al Aire Libre Acampada Y Senderismo  Ba8-Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HL48XLJ/?tag=tolees-21'
 descuento: '48.50'
 average: '32.99'

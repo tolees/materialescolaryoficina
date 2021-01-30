@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Calvin Klein - Punched Round Backpack  Shoppers y bolsos de hombro Hombre  Negro  Black   0.1x0.1x0.1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RP3GBMZ/?tag=tolees-21'
 descuento: '67.73'
 average: '58.88'

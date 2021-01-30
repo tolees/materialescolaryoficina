@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Ulikey Medidor de Suelo con 10 Piezas de Herramientas Bonsai  Miniherramientas de trasplante  Incluye podadora  Tijeras para Doblar  rastrillo pequeño  recortador de brotes  Cepillo de Limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N36WGZQ/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

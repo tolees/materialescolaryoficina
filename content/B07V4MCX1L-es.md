@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Kipling Seoul Mochila Tipo Casual  44 cm  27 Liters  Plateado  Metallic Glow '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4MCX1L/?tag=tolees-21'
 descuento: '44.43'
 average: '55.01'

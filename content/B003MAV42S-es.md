@@ -16,6 +16,7 @@ comparePrice: 9.25 EUR
 prodname: 'Flamastry Stabilo Power 30 sztuk'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003MAV42S/?tag=tolees-21'
 descuento: '27.57'
 average: '6.695'

@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Mochila Hombre para Portátil  Mochila Antirrobo Impermeable Mochilas para portatil 17.3 Pulgadas con Cargador USB Mochila Viajes para Ocio/Negocio-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BVFBTPN/?tag=tolees-21'
 descuento: '36.82'
 average: '30.96'

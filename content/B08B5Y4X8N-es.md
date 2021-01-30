@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Pegatina pizarra tamaño 78 8” x 23 6” pizarra adhesiva calendario poster decoración para la casa  la cocina  el despacho  regalos: tizas  tijeras  regla y esponja para borrar '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5Y4X8N/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

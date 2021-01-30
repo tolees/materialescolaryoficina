@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Mochila para portátil 15 6" Pepe Jeans Strike con bandolera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXFQQ7N/?tag=tolees-21'
 descuento: '20.01'
 average: '59.99111111111112'

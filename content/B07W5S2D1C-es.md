@@ -16,6 +16,7 @@ comparePrice: 59.91 EUR
 prodname: 'Fresion - Mochila de Viaje para Hombre  34 L  para Ordenador portátil de 15 6 a 17 3 Pulgadas  antirrobo  con Puerto de Carga USB  para Hombres y Mujeres y Estudiantes  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5S2D1C/?tag=tolees-21'
 descuento: '39.93'
 average: '35.99'

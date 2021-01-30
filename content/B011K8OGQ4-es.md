@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Black Diamond Speed 22 Mochila  Unisex Adulto  Graphite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011K8OGQ4/?tag=tolees-21'
 descuento: '36.40'
 average: '63.6'

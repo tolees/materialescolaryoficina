@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'CamelBak Lobo  - Mochila de hidratación  Rojo  3 litros  Rojo  Racing Red/ Pitch Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L8JEAIY/?tag=tolees-21'
 descuento: '34.98'
 average: '60.98'

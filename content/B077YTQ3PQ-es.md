@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Gibot Lápices de Colores para niños  Agarre de Palma de la Mano  Surtido de 12 Colores  apilables y Apto para niños pequeños  Producto Seguro y no tóxico.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YTQ3PQ/?tag=tolees-21'
 descuento: '26.66'
 average: '11.58'

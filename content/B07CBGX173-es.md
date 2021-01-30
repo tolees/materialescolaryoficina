@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'American Tourister AT Work - Mochila Coated tipo casual para 15.6" portátil  50 cm  25 liters  Gris  Shadow Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBGX173/?tag=tolees-21'
 descuento: '40.00'
 average: '33.775'

@@ -16,6 +16,7 @@ comparePrice: 10.16 EUR
 prodname: 'edding 4200-6-S-000 - Estuche con 6 rotuladores para porcelana  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J1Y8AMG/?tag=tolees-21'
 descuento: '19.49'
 average: '8.254999999999999'

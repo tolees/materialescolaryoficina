@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling City Pack S  Mochila para Mujer  Multicolor  Navy Stick Print   27 x 33.5 x 19 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJ81NW/?tag=tolees-21'
 descuento: '64.28'
 average: '31.555'

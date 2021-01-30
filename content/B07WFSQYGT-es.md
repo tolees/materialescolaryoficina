@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'BabbleRoo Mochilas de Pañales para Bebé  Gran Capacidad Mochila de Cambio Bolsa para Pañales con Cambiador y Porta Chupones para Mamá y Papá  gris oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFSQYGT/?tag=tolees-21'
 descuento: '20.00'
 average: '32.79'

@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'Carioca Roller Birello | Estuche Enrollable Azul con Rotuladores Doble Punta Super Lavables  Punta Fina y Punta Media Conica  Cierre con Velcro 24 Uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKC1P3K/?tag=tolees-21'
 descuento: '24.97'
 average: '13.13'

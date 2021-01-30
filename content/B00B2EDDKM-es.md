@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Herschel Retreat Backpack - Mochila casual unisex  Negro  Black   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B2EDDKM/?tag=tolees-21'
 descuento: '37.78'
 average: '66.235'

@@ -16,6 +16,7 @@ comparePrice: 6.75 EUR
 prodname: 'Max Factor Khol Pencil Eyeliner Lápiz de Ojos Tono 50 Charcoal Grey - 4 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005FQDDJ4/?tag=tolees-21'
 descuento: '19.26'
 average: '5.45'

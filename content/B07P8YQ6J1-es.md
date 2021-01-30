@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Cartera Escolar Enso Trust Me'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8YQ6J1/?tag=tolees-21'
 descuento: '20.00'
 average: '28.0'

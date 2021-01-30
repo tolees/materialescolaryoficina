@@ -16,6 +16,7 @@ comparePrice: 17.15 EUR
 prodname: 'Parker Jotter Kensington Red bolígrafo CT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DJBH2PC/?tag=tolees-21'
 descuento: '54.29'
 average: '7.84'

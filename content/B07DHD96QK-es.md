@@ -16,6 +16,7 @@ comparePrice: 15.89 EUR
 prodname: 'KUONIIY Tijeras  Hoja Recubierta de Titanio Súper Afilada  Conjunto de 5 Tijeras Multiusos con Mango Suave y Cómodo  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHD96QK/?tag=tolees-21'
 descuento: '18.25'
 average: '12.99'

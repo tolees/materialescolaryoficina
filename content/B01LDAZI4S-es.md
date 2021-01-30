@@ -16,6 +16,7 @@ comparePrice: 35.85 EUR
 prodname: 'Dis2 - Plumier de lápices doble bestial wolf negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LDAZI4S/?tag=tolees-21'
 descuento: '29.99'
 average: '25.1'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Parfois - Mochila Estampada - Mujeres - Tallas L - Crudo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9VXGM5/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

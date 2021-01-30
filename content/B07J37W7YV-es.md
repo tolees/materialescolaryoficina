@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Hustle 4.0 Mochila  Unisex Adulto  Gris  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J37W7YV/?tag=tolees-21'
 descuento: '28.04'
 average: '39.58'

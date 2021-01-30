@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Play-Doh - Pack 12 Botes Rojos  Hasbro E4826F02 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMMDJSH/?tag=tolees-21'
 descuento: '15.01'
 average: '12.74'

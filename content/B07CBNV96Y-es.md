@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'Samsonite Disney Ultimate 2.0 - Mochila Infantil S+  35 cm  10.5 L  Azul  Minnie Neon '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBNV96Y/?tag=tolees-21'
 descuento: '29.16'
 average: '32.82666666666667'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Juego de 16 imanes de neodimio  Imanes fuertes adhesivos con cinta adhesiva de 3M  Imanes autoadhesivos con película adhesiva  fuerza adhesiva extra  8Pcs 60x10x3 mm  8Pcs 20X10X2mm  16PC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DN9QZ4W/?tag=tolees-21'
 descuento: '23.54'
 average: '12.99'

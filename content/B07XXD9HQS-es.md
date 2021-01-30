@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Arteza Organizadores de escritorio en color gris oscuro | 6 accesorios | Portalápices  clasificador de cartas  bandeja de correo  revistero  tarjetero y porta-posits | Ideal para el hogar y la oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XXD9HQS/?tag=tolees-21'
 descuento: '15.01'
 average: '25.49'

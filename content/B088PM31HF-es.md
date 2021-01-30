@@ -16,6 +16,7 @@ comparePrice: 39.65 EUR
 prodname: 'Vans Realm Mochila para mujer  diseño floral  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088PM31HF/?tag=tolees-21'
 descuento: '29.41'
 average: '27.99'

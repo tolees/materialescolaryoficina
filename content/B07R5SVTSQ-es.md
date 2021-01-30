@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'PUMA Originals Backpack Mochilla  Adultos Unisex  Gibraltar Sea  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5SVTSQ/?tag=tolees-21'
 descuento: '44.61'
 average: '19.875'

@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Kaicut PT-0017 - Blister Tijera Escolar  surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008DCJKHQ/?tag=tolees-21'
 descuento: '30.06'
 average: '3.99'

@@ -16,6 +16,7 @@ comparePrice: 20.59 EUR
 prodname: 'Bolsa de Almacenamiento de Target Pouch para Gun N-Strike Elite Series Bolsa de Mochila Niños Target Pouch Storage Bag de Destino Bullet Suave Bolsa para Juego de Pistola de Juguete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWF2WB6/?tag=tolees-21'
 descuento: '42.74'
 average: '11.79'

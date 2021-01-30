@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Eastpak Padded Pak r Mochila  40 cm  24 L  Gris  Sunday Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003OJ8RAE/?tag=tolees-21'
 descuento: '58.00'
 average: '22.8'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Puma Pro Training II Backpack Mochilla  Unisex Adulto  Negro  Puma Black   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBYFAPO/?tag=tolees-21'
 descuento: '19.85'
 average: '17.083333333333332'

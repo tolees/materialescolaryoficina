@@ -16,6 +16,7 @@ comparePrice: 45.21 EUR
 prodname: 'Targus Drifter II mochila con 3 grandes compartimentos  mochila para ordenador de hasta 17 pulgadas  mochila impermeable con correas acolchadas - negro/gris  TBB23901GL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084YBZFLT/?tag=tolees-21'
 descuento: '28.40'
 average: '32.37'

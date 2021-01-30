@@ -16,6 +16,7 @@ comparePrice: 30.94 EUR
 prodname: 'Anker - Set de Material Escolar GRU  Mi Villano Favorito  ANKDMADS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TOGJBUG/?tag=tolees-21'
 descuento: '73.66'
 average: '8.15'

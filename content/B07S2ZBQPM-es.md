@@ -16,6 +16,7 @@ comparePrice: 172.83 EUR
 prodname: 'Lowepro LP37259-PWW Photo Active  Mochila para cámara exterior sin espejo con divisores QuickShelf  Tablet 12"/iPad/ Hidr.2L  Sony  Canon  Nikon  Objetivos  Gimbal  Dron  DJI  Azul/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2ZBQPM/?tag=tolees-21'
 descuento: '36.39'
 average: '109.94'

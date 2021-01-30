@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'CoolBELL Mochila antirrobo de 15.6 Pulgada/Mochila Escolares Juveniles y Casual de Impermeable con Puerto USB de Carga y diseño Ligera para Senderismo Trabajo Ocio y Diario Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PB95BXR/?tag=tolees-21'
 descuento: '22.95'
 average: '27.73'

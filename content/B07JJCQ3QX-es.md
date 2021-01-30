@@ -16,6 +16,7 @@ comparePrice: 64.72 EUR
 prodname: 'ASUS ROG Ranger BP1500 maletines para portátil 39 6 cm  15.6"  Mochila Negro  Gris - Funda  Mochila  39 6 cm  15.6"   720 g  Negro  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJCQ3QX/?tag=tolees-21'
 descuento: '24.29'
 average: '49.0'

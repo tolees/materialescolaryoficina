@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ohuhu - 60 rotuladores de acuarela con doble punta  punta fina y punta pincel  rotulador a base de agua  para caligrafía  dibujo  bocetos  libros de colorear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ68H1G/?tag=tolees-21'
 descuento: '33.34'
 average: '21.49'

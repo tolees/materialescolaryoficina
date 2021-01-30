@@ -16,6 +16,7 @@ comparePrice: 20.49 EUR
 prodname: 'COAWG Scrapbook Album de Fotos 80 Páginas Negra  con 12 Rotuladores Metalicos DIY Autoadhesivo Pegar y Escribir Libros de Memoria para Regalos de Boda Aniversario Cumpleanos Recuerdos Familiares Bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQ3SC5B/?tag=tolees-21'
 descuento: '18.35'
 average: '18.71'

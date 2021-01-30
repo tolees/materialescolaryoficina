@@ -16,6 +16,7 @@ comparePrice: 27.85 EUR
 prodname: 'GRÜNTEK Tijeras de Podar Profesionales Z-25 FORJADAS en Teflon 215 mm.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU5VASL/?tag=tolees-21'
 descuento: '39.32'
 average: '16.9'

@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: '40L Mochila Hombre Senderismo Deporte Viaje Grande Trekking Mujer Trabajo Casual Backpack Antirrobo Impermeable Camp Caminata Portátil Bolsa Mochila  Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMWN73T/?tag=tolees-21'
 descuento: '35.30'
 average: '32.99'

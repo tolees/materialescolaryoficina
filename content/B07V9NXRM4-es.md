@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Pepe Jeans  Mochila  33 cm  10.3 Liters  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9NXRM4/?tag=tolees-21'
 descuento: '19.99'
 average: '56.0'

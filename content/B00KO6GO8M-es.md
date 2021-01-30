@@ -16,6 +16,7 @@ comparePrice: 1.78 EUR
 prodname: 'BIC Cristal Soft bolígrafos punta media  1 2 mm  - Azul  Blíster de 4 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KO6GO8M/?tag=tolees-21'
 descuento: '26.97'
 average: '1.49'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Mimoo Pintura Facial Ninos  16 Colores Halloween Niño Kit Pintura Lápices de Colores  Pintura Corporal no Tóxica Lápices de Colores para Niños  Regalo de pascua de carnaval Niños Pequeños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077KV2MZG/?tag=tolees-21'
 descuento: '16.68'
 average: '8.49'

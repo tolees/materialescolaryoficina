@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'WLZP Mochila Bicicleta  Bolsa de Agua de Súper Ligero de 2L Depósito de Agua a Prueba de Fugas de Agua Tubo de Agua Desmontable para Bicicleta Ciclismo Senderismo Excursionismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R2JDHQ7/?tag=tolees-21'
 descuento: '46.67'
 average: '31.99'

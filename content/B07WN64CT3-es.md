@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Memoryee 3D Lienzo de Stranger Things Estudiantes Lápiz Estuche de gran capacidad Solapa con cremallera Bolsa de almacenamiento Titular de la pluma oficina portátil papelería'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WN64CT3/?tag=tolees-21'
 descuento: '22.23'
 average: '13.99'

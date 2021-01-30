@@ -16,6 +16,7 @@ comparePrice: 13.8 EUR
 prodname: 'APLI Kids - Caja sellos Animales de la granja con tinta   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0YA9HX/?tag=tolees-21'
 descuento: '57.10'
 average: '5.92'

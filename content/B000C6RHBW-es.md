@@ -16,6 +16,7 @@ comparePrice: 116.94 EUR
 prodname: 'Faber-Castell 110060 - Set de lápices de colores  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C6RHBW/?tag=tolees-21'
 descuento: '36.35'
 average: '74.43'

@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Acmebon Mochila Escolar para Niñas Adolescentes con Bolsa de Almuerzo y Estuche Cartera para Niños Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJM56PX/?tag=tolees-21'
 descuento: '38.78'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Columbus A08432 Mochila Plegable  Unisex Adulto  Azul  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRGWWX8/?tag=tolees-21'
 descuento: '59.30'
 average: '8.1'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Staedtler 308 SB6P - Pigment Liner Rotuladores   Paquete de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075JDMNBR/?tag=tolees-21'
 descuento: '29.02'
 average: '8.51'

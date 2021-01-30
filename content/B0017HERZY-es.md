@@ -16,6 +16,7 @@ comparePrice: 16.07 EUR
 prodname: 'Scotch Magic - Portarrollos de sobremesa con 4 cintas adhesivas  rolos mates y transparentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0017HERZY/?tag=tolees-21'
 descuento: '26.20'
 average: '11.86'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Samsonite Network 3 39 6 cm  15.6"  Mochila Azul - Funda  Mochila  39 6 cm  15.6"   800 g  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CSB4D9/?tag=tolees-21'
 descuento: '26.68'
 average: '46.99'

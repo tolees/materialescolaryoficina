@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Millet Ubic 40 - Mochila  Unisex Adulto  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ6C3DT/?tag=tolees-21'
 descuento: '29.38'
 average: '112.95'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Surface Pen 180 días de Trabajo 500hrs Standby  Surface Lápiz Compatible con Surface Go / Pro 3 / Pro 4 / Pro 6/ Pro 5  Surface Laptop / Book / Studio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVJJMBY/?tag=tolees-21'
 descuento: '34.29'
 average: '45.49'

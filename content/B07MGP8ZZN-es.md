@@ -16,6 +16,7 @@ comparePrice: 7.96 EUR
 prodname: 'Parker Jotter Originals colección de bolígrafos  acabado retro verde de los 90  punta mediana  tinta azul  una unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGP8ZZN/?tag=tolees-21'
 descuento: '21.98'
 average: '6.21'

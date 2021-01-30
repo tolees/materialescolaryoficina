@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'BABYBJÖRN  One- Mochila Porta Bebé  2018 Edition  Algodón Mix  Vaquero Gris/Gris Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792ZS2GP/?tag=tolees-21'
 descuento: '26.19'
 average: '125.41'

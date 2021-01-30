@@ -16,6 +16,7 @@ comparePrice: 7.78 EUR
 prodname: 'Alpino Maxi - Rotuladores  24 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AO0D87I/?tag=tolees-21'
 descuento: '31.75'
 average: '7.144'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Forever Ninette Origin-Cute Mochila Tipo Casual 44 Centimeters 23 Azul  Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5JJW8Y/?tag=tolees-21'
 descuento: '16.79'
 average: '33.2'

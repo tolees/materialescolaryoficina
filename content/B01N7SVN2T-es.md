@@ -16,6 +16,7 @@ comparePrice: 24.3 EUR
 prodname: 'Speedo Deluxe Ventilator Mesh Bag Mochila  Unisex Adulto  Negro  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7SVN2T/?tag=tolees-21'
 descuento: '30.53'
 average: '16.88'

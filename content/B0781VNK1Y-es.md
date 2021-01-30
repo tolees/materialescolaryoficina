@@ -16,6 +16,7 @@ comparePrice: 8.96 EUR
 prodname: 'BIC Kids Evolution ECOlutions Lápices para Colorear - colores Surtidos  Blíster de 36 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781VNK1Y/?tag=tolees-21'
 descuento: '33.15'
 average: '7.058333333333334'

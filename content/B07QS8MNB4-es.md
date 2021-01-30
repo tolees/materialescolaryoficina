@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Meinkind Mochila Portabebe Ergonomica Multifunción  para Bebé 3 5-15 kg  Algodón Transpirable y Ligero  con Reposacabeza Plegable y Tirantes Flexibles  con Cinturones Dobles Ajustables y Cómodos  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QS8MNB4/?tag=tolees-21'
 descuento: '65.34'
 average: '20.79'

@@ -16,6 +16,7 @@ comparePrice: 105.18 EUR
 prodname: 'Apli 1785 - Etiquetas  500 hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002C2S0YC/?tag=tolees-21'
 descuento: '45.49'
 average: '57.33'

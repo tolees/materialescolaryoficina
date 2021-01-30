@@ -16,6 +16,7 @@ comparePrice: 16.79 EUR
 prodname: 'Memoria Flash USB 64GB Memoria USB 3.0 Pendrive con Luz LED de Colores Data Traveler Impermeable USB Lápiz de Memoria Unidad Flash Drive Memoria Stick para PC/Laptop/Notebook/Car/Computadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082CM9TZ5/?tag=tolees-21'
 descuento: '19.06'
 average: '13.59'

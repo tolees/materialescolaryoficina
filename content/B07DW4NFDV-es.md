@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Pepe Jeans Jessa Mochila Escolar  43 cm  28.9 litros  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DW4NFDV/?tag=tolees-21'
 descuento: '18.32'
 average: '57.013999999999996'

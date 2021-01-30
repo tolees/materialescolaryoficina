@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Ergobaby Mochila Portabebé Ergonomica para Recién Nacido  Adapt 3-Posiciones Azul Celeste'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M21ABJ6/?tag=tolees-21'
 descuento: '22.09'
 average: '102.71818181818182'

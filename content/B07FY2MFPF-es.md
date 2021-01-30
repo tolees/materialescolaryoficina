@@ -16,6 +16,7 @@ comparePrice: 25.56 EUR
 prodname: 'LIANCHENYI Retro bandera de Inglaterra mochila casual mochila escolar mochila de viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY2MFPF/?tag=tolees-21'
 descuento: '30.48'
 average: '17.77'

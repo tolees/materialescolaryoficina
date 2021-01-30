@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Samsonite Guardit 2.0 Mochila para portátil con Ruedas  17.3 Pulgadas  48 cm  29 L  Gris  Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBZC972/?tag=tolees-21'
 descuento: '22.68'
 average: '109.22999999999999'

@@ -16,6 +16,7 @@ comparePrice: 33.71 EUR
 prodname: 'Demeu 11860 Banda Goma Trenzado:11 000 Bandas Trenzadas  28 Colores 500 broches 210 Cuentas más  85 Cuentas Letras .Conjunto Trenzada Mayores 6 años Edad 46 Colgantes  3 crochetes Mochila'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1C5B2X/?tag=tolees-21'
 descuento: '40.70'
 average: '19.99'

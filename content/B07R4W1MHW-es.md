@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Viedouce Mochila Portabebes Ergonómico Multifuncion Transpirable Algodón Puro Ligero Portabebés Con Capucha de Sueño Extraíble en La Espalda Con Correas de Hombro Suaves  0-48meses   Gris Oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4W1MHW/?tag=tolees-21'
 descuento: '20.00'
 average: '39.99'

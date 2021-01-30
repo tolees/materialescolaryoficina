@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Carlos belleza instrumento instrumento de masaje de los ojos multifunción eléctrica belleza lápiz para los ojos de grano fino  Lifting Reafirmante instrumento de cuidado de los ojos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3YM2CM/?tag=tolees-21'
 descuento: '56.73'
 average: '3.89'

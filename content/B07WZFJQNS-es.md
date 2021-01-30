@@ -16,6 +16,7 @@ comparePrice: 49.61 EUR
 prodname: 'Eastpak Padded Pak R Mochila  24 L  Rojo  Melange Print Lines   40 x 18 x 30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZFJQNS/?tag=tolees-21'
 descuento: '43.38'
 average: '25.95'

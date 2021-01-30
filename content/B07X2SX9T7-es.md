@@ -16,6 +16,7 @@ comparePrice: 40.84 EUR
 prodname: 'Eastpak Padded Pak r Mochila  40 cm  24 L  Rosa  Seashell Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2SX9T7/?tag=tolees-21'
 descuento: '26.57'
 average: '29.99'

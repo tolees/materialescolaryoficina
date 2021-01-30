@@ -16,6 +16,7 @@ comparePrice: 11.63 EUR
 prodname: 'Cinta adhesiva de señalización temporal tesa  color rojo/blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00331LILS/?tag=tolees-21'
 descuento: '30.70'
 average: '8.06'

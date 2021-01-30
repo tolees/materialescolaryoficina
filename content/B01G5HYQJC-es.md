@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Casio FX-82SPXII Iberia - Calculadora científica  Recomendada para el curriculum español y portugués  293 funciones  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G5HYQJC/?tag=tolees-21'
 descuento: '20.10'
 average: '15.625384615384617'

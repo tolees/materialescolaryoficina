@@ -16,6 +16,7 @@ comparePrice: 11.33 EUR
 prodname: 'Staedtler Lumocolor 350 WP8. Rotuladores permanentes con punta biselada. Estuche con 8 marcadores de colores variados.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CNYYJP2/?tag=tolees-21'
 descuento: '20.65'
 average: '8.99'

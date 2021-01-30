@@ -16,6 +16,7 @@ comparePrice: 43.89 EUR
 prodname: 'Karactermania Harry Potter Relic-Soft Rucksack  Klein  Mochila Tipo Casual 27 Centimeters 7.5 Multicolor  Multicolour '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5WBSXT/?tag=tolees-21'
 descuento: '44.41'
 average: '22.1'

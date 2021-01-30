@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Max Factor Xpert Eyeliner waterproof Lápiz de Ojos Tono 01 deep black - 13 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004FY1M3G/?tag=tolees-21'
 descuento: '19.29'
 average: '5.65'

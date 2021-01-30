@@ -16,6 +16,7 @@ comparePrice: 10.27 EUR
 prodname: 'Portaminas BE-TOOL de 0 5 mm  4 portaminas de 0 5 mm de metal  colores hermosos  lápiz automático para suministros escolares  escritura de trabajo y dibujo  plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRJHG8G/?tag=tolees-21'
 descuento: '26.48'
 average: '7.55'

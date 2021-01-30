@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Acmebon Mochila Escolar Resistente al Agua para Niñas Adolescentes Conjunto de Mochila con Bolsa de Almuerzo y Estuche Lirio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMPG3N5/?tag=tolees-21'
 descuento: '38.78'
 average: '29.99'

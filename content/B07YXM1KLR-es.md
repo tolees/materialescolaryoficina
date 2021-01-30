@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Hustle 5.0  mochila para portátil unisex  Negro  Black / Black / Silver   Taglia unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXM1KLR/?tag=tolees-21'
 descuento: '21.60'
 average: '43.12'

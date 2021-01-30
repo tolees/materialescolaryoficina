@@ -16,6 +16,7 @@ comparePrice: 125 EUR
 prodname: 'The North Face Base Camp-M Mochila Duffel  Unisex Adulto  acrylorg/pcntrd  OS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDTQX5L/?tag=tolees-21'
 descuento: '37.10'
 average: '78.62'

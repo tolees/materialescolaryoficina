@@ -16,6 +16,7 @@ comparePrice: 45.38 EUR
 prodname: 'Parker Urban 1931583 - Bolígrafo roller  negro tenue de adorno cromado  recambio de tinta negra para punta fina '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0BQ3JL/?tag=tolees-21'
 descuento: '36.10'
 average: '29.0'

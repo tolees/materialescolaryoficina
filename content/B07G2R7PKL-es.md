@@ -16,6 +16,7 @@ comparePrice: 50.31 EUR
 prodname: 'Atlético de Madrid plumier Mochila 4 Estuches llenos  33 Piezas  Escolar.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2R7PKL/?tag=tolees-21'
 descuento: '50.33'
 average: '24.99'

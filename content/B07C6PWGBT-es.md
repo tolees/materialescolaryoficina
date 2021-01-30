@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'RUVALINO Mochila para Ordenador Portátil  Se Adapta a Portátiles de 15.6-17" Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C6PWGBT/?tag=tolees-21'
 descuento: '50.04'
 average: '23.98'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Doble Cara Cinta Adhesiva de Espuma CHIFOOM 80pcs  Pad Adhesivo rendonda y Cuadrado para Paredes  Pisos  Puertas  Vidrios  Metales  Espejo  Bricolaje  Foto  en Cocina  Oficina  Pascua  Carnaval'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083Q8DXB2/?tag=tolees-21'
 descuento: '50.11'
 average: '10.97'

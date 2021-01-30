@@ -16,6 +16,7 @@ comparePrice: 4.46 EUR
 prodname: 'Jovi 71 - Plastilina  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009GGTQK4/?tag=tolees-21'
 descuento: '56.95'
 average: '1.92'

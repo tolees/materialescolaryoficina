@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Voilamart Juego de Herramientas para Bonsái 6 Piezas con Tijeras cizalla y cortadores de Acero al Carbono'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDYBL3G/?tag=tolees-21'
 descuento: '16.67'
 average: '29.99'

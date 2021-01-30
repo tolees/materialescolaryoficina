@@ -16,6 +16,7 @@ comparePrice: 29.85 EUR
 prodname: 'Mochila Escolar Instituto Star Wars'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFSMNZD/?tag=tolees-21'
 descuento: '55.34'
 average: '15.53'

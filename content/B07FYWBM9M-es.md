@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Ergobaby Original - Mochila portabebés ergonómicas  unisex  color gris pearl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYWBM9M/?tag=tolees-21'
 descuento: '33.28'
 average: '80.0'

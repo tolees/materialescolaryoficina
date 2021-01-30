@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Pepe Jeans Jill Mochila 42 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DW8HJ5P/?tag=tolees-21'
 descuento: '29.98'
 average: '27.595'

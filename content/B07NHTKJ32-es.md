@@ -16,6 +16,7 @@ comparePrice: 35.4 EUR
 prodname: 'MILAN Mochila Escolar  Capacidad 28l Moon Mochila Tipo Casual  48 cm  Blanco Y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHTKJ32/?tag=tolees-21'
 descuento: '63.90'
 average: '12.78'

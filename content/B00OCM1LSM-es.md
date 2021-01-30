@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Ausonia - 81003 TIJERAS DE PODA PROFESIONALES PARA VID DE 21 CM CON HOJAS FORJADAS Y TEMPLADAS  MANGOS DE ALUMINIO REVESTIDOS DE GOMA. CORTA RAMAS DE HASTA UN DIÁMETRO DE 25 MM  CIERRE DE SEGURIDAD CON GANCHO DE METAL NIQUELADO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OCM1LSM/?tag=tolees-21'
 descuento: '21.05'
 average: '30.0'

@@ -16,6 +16,7 @@ comparePrice: 20.4 EUR
 prodname: 'CERDÁ LIFE S LITTLE MOMENTS Mochila Infantil 3D Peppa Pig  Niñas  Rosa  Rosa   10x31x25 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBP8VZM/?tag=tolees-21'
 descuento: '36.76'
 average: '12.616666666666667'

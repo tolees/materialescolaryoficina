@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Calculadora  YEBMoo calculadora de tabla de 12 dígitos con gran pantalla electrónica. Calculadora de energía solar y pilas AA  color negro  Calculator-black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJ289SY/?tag=tolees-21'
 descuento: '40.54'
 average: '5.94'

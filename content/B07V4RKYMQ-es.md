@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Faburo 3 Piezas Cremallera Lienzo Estuche Bolsa de Lápiz y 6 Piezas Bolígrafo de Cactus  Caja de Lápiz Patrón De Cactus  Bolsa de Plumas  Papelería para Escolar y Oficinas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4RKYMQ/?tag=tolees-21'
 descuento: '20.02'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Afilador de lápices eléctrico portátil con batería para casa  colegio  oficina con espacio para lápices de todos los tamaños  rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6XNWF5/?tag=tolees-21'
 descuento: '83.35'
 average: '9.99'

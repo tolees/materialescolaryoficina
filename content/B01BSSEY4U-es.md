@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Westcott - Tijeras infantiles para diestros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BSSEY4U/?tag=tolees-21'
 descuento: '21.11'
 average: '1.57'

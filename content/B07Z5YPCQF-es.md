@@ -16,6 +16,7 @@ comparePrice: 6.3 EUR
 prodname: 'Faber Castell 154640 Rotulador Fluorescente  Color Metallic + Pastel  1 6 x 11 8 x 15 2 cm  FC154640 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5YPCQF/?tag=tolees-21'
 descuento: '22.22'
 average: '5.248333333333334'

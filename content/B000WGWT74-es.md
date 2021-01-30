@@ -16,6 +16,7 @@ comparePrice: 6.83 EUR
 prodname: 'Pentel GREEN-LABEL NM10 Fabric / Textile Pen  1 unidad '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WGWT74/?tag=tolees-21'
 descuento: '60.18'
 average: '2.72'

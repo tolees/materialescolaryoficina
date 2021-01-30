@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Play-Doh Camión De Grava  Hasbro E4293EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HM7JS9B/?tag=tolees-21'
 descuento: '21.96'
 average: '16.86'

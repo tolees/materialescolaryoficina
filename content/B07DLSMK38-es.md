@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'American Tourister Urban Groove - 15.6 pulgadas Mochila para portátil  50 cm  27 L  Azul  Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLSMK38/?tag=tolees-21'
 descuento: '46.15'
 average: '39.5675'

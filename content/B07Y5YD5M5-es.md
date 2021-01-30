@@ -16,6 +16,7 @@ comparePrice: 21.75 EUR
 prodname: 'Moleskine - Agenda Semanal de 18 Meses  Agenda Semanal 2020/2021  Agenda Semana Vista con Tapa Dura y Cierre Elástico  Tamaño Grande 13 x 21 cm  Color Negro  208 Páginas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5YD5M5/?tag=tolees-21'
 descuento: '25.56'
 average: '16.19'

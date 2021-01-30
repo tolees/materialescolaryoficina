@@ -16,6 +16,7 @@ comparePrice: 4.46 EUR
 prodname: 'Jovi 71 - Plastilina  color verde claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009GGTPMS/?tag=tolees-21'
 descuento: '60.76'
 average: '1.875'

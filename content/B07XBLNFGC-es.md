@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Casio FX-82SPXII Iberia - Calculadora científica con ilustración de Jess Wade en la tapa  293 funciones  24 niveles de paréntesis   color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBLNFGC/?tag=tolees-21'
 descuento: '20.10'
 average: '16.311999999999998'

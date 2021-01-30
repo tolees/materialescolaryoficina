@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Barras de pegamento caliente de Beeway®'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075K6T4NR/?tag=tolees-21'
 descuento: '26.94'
 average: '8.0'

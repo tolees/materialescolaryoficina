@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Antirrobo Mochila para Portátil  15.6 Pulgadas Impermeable Hombre Mujer Mochila  Multiusos Casual Daypacks para Escolar Negocio Trabajo Escuela  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZ24YHJ/?tag=tolees-21'
 descuento: '32.66'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 20.44 EUR
 prodname: 'Casio FX-83GTX - Calculadora científica  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5YWCQ8/?tag=tolees-21'
 descuento: '17.12'
 average: '16.94'

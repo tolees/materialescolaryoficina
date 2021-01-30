@@ -16,6 +16,7 @@ comparePrice: 13.55 EUR
 prodname: 'Marcador STABILO BOSS Original Pastel - Caja con 10 unidades - Color melocotón sedoso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0GMFIO/?tag=tolees-21'
 descuento: '43.25'
 average: '7.69'

@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'XP-PEN Deco Pro S Tableta Gráfica de Dibujo Profesional con Lápiz Pasivo de 8192 Niveles a La Presión 9 x 5 Pulgadas con 8 Teclas de Acceso Directo Compatibles para Windows y Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RY1M3W4/?tag=tolees-21'
 descuento: '15.00'
 average: '103.35363636363635'

@@ -16,6 +16,7 @@ comparePrice: 10.67 EUR
 prodname: 'BIC Kids Kid Couleur - Pack de 20 rotuladores de colorear para aprendizaje en caja metálica  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L34KWP0/?tag=tolees-21'
 descuento: '25.12'
 average: '7.760909090909091'

@@ -16,6 +16,7 @@ comparePrice: 9.6 EUR
 prodname: 'Mochila Stranger Things Faces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZVW7RK/?tag=tolees-21'
 descuento: '37.50'
 average: '6.0'

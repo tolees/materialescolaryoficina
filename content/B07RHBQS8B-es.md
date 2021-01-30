@@ -16,6 +16,7 @@ comparePrice: 18.49 EUR
 prodname: 'Memoria USB 3.0 64 GB  3 en 1 Pen Drive Tipo C USB 3.0 Micro USB OTG Lápiz USB Flash Drive con Llavero Metal Impermeable A Prueba de Golpes Compatible con Windows Android PC Tablets'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHBQS8B/?tag=tolees-21'
 descuento: '19.63'
 average: '15.75'

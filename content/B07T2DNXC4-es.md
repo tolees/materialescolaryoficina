@@ -16,6 +16,7 @@ comparePrice: 43.0 EUR
 prodname: 'Estuche de Actividades para niños de +3 años  Plantillas y Libro de Actividades de 60 Páginas con Pegatinas Reutilizables  Papel Multicolor  Páginas para Colorear y mucho más por Art with Smile'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2DNXC4/?tag=tolees-21'
 descuento: '30.70'
 average: '29.8'

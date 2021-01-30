@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Meloive El Mejor Set de 72 lápices de Colores Mejores lápices para Colorear para Artistas  dibujantes  ilustradores  diseñadores de Interiores  Estudiantes y Adultos Amantes de colorar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNV1ZYW/?tag=tolees-21'
 descuento: '50.02'
 average: '30.49'

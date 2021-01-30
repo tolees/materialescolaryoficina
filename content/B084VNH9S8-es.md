@@ -16,6 +16,7 @@ comparePrice: 0.1 EUR
 prodname: 'Triamisu Nueva Marca y bolígrafo Pad Phone 4G Conveniente - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084VNH9S8/?tag=tolees-21'
 descuento: '90.00'
 average: '0.01'

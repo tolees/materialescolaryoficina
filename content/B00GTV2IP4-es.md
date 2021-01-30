@@ -16,6 +16,7 @@ comparePrice: 53.0 EUR
 prodname: 'AUSONIA - 31110 Tijeras DE PODA Profesionales para HUERTOS DE FRUTALES DE Doble Corte con Hojas DE Acero FORJADAS EN Caliente Y TEMPLADAS  Mangos Revestido DE PLÁSTICO Y Cierre DE Seguridad con RODIL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GTV2IP4/?tag=tolees-21'
 descuento: '24.53'
 average: '40.0'

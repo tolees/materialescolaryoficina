@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Rotuladores  Set de 40 Colores de Doble Punta y Organizador de Marcadores de Lona con Cremallera. Marcadores para Dibujar Bocetos  Pintar  Colorear y Subrayar. VIEDGT LLC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BHNK2RV/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

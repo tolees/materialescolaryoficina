@@ -16,6 +16,7 @@ comparePrice: 21.94 EUR
 prodname: 'Staedtler Stick 430M3CP5. Bolígrafos de bola. Caja con 50 bolígrafos de punta media de color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000TKF71I/?tag=tolees-21'
 descuento: '33.64'
 average: '14.695'

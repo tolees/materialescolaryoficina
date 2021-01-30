@@ -16,6 +16,7 @@ comparePrice: 19.37 EUR
 prodname: 'Pilot BXGPN-V5 - Bolígrafo  Azul    12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000SHPKB4/?tag=tolees-21'
 descuento: '22.61'
 average: '14.99'

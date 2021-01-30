@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Staedtler Pigment liner Fineliner 0.1mm - Rotulador  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AHW56PK/?tag=tolees-21'
 descuento: '60.12'
 average: '1.99'

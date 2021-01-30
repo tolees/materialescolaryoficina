@@ -16,6 +16,7 @@ comparePrice: 2.5 EUR
 prodname: 'Faber Castell 554212 - Estuche de cartón con 12 rotuladores escolares  punta de fibra  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N2UGE1O/?tag=tolees-21'
 descuento: '16.40'
 average: '2.4057142857142857'

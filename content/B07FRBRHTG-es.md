@@ -16,6 +16,7 @@ comparePrice: 60.93 EUR
 prodname: 'Club Atlético de Madrid Atlético de Madrid Mochila con Carro Ruedas Evolution  Trolley Equipaje para niños  Rojo  44 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FRBRHTG/?tag=tolees-21'
 descuento: '42.56'
 average: '33.40625'

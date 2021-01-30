@@ -16,6 +16,7 @@ comparePrice: 45.38 EUR
 prodname: 'Parker Urban 1931590 - Bolígrafo roller  magenta vibrante  recambio de tinta negra para punta fina '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZO9XY2/?tag=tolees-21'
 descuento: '32.79'
 average: '30.5'

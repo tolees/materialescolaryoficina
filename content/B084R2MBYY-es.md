@@ -16,6 +16,7 @@ comparePrice: 4.53 EUR
 prodname: 'Pelikan Jazz Classic 815017 Bolígrafo con Mina Azul  color Mostaza amarilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084R2MBYY/?tag=tolees-21'
 descuento: '35.76'
 average: '2.91'

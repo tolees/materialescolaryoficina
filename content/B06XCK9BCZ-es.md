@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'MoKo 4 PZS Lápiz Táctil Capacitiva Universal  Digitales Stylus Pen con Consejos de Fibra para Apple iPad/iPad Mini/Air/Pro  iPhone  Kindle  Samsung Galaxy  Tableta Android/iOS - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCK9BCZ/?tag=tolees-21'
 descuento: '24.02'
 average: '7.59'

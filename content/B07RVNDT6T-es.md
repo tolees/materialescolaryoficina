@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Kit de cuidado profesional para barba y bigote: aceite hidratante  cera natural  cepillo  peine de madera  tijeras  navaja y perfilador de afeitado - Set de productos y accesorios para barbero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RVNDT6T/?tag=tolees-21'
 descuento: '25.01'
 average: '18.99'

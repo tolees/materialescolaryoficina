@@ -16,6 +16,7 @@ comparePrice: 78.99 EUR
 prodname: 'Antirrobo Mochilas Portatil 15.6 Pulgadas Impermeable Hombre Mochila con Puerto de Carga USB para Oficina Trabajo Diario Negocio - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC121BR/?tag=tolees-21'
 descuento: '27.85'
 average: '56.99'

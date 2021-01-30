@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Pepe Jeans Irvin Mochila para portátil 15.6 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFGXYDK/?tag=tolees-21'
 descuento: '43.12'
 average: '33.56'

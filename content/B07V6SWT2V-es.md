@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Kipling SEOUL Mochila tipo casual  44 cm  27 liters  Negro  Carbon Metallic '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6SWT2V/?tag=tolees-21'
 descuento: '56.27'
 average: '43.29'

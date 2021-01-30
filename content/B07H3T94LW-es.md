@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Nike Hayward Futura 2.0 Mochila  Unisex Adulto  Azul  Blue Void/University Red   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3T94LW/?tag=tolees-21'
 descuento: '28.62'
 average: '19.95'

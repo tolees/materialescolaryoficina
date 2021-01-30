@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'Tommy Hilfiger - Th Downtown Backpack  Mochilas Hombre  Negro  Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8YC4JK/?tag=tolees-21'
 descuento: '32.12'
 average: '108.54'

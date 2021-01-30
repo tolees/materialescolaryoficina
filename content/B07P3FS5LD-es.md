@@ -16,6 +16,7 @@ comparePrice: 52.0 EUR
 prodname: 'Mochila Carterón Enso Trust Me'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3FS5LD/?tag=tolees-21'
 descuento: '24.63'
 average: '39.19'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Eastpak Back To Work Mochila  43 cm  27 L  Gris  Sunday Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JPYYHWO/?tag=tolees-21'
 descuento: '31.14'
 average: '39.15666666666667'

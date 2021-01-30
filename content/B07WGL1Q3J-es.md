@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Evaduol Mochilas Escolares Infantil Mochila Niña Colegio Casual Mochila Ligero Escuela Bolsa Bebe Lindo Viajes Mochilas para Las Niños 2-5 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGL1Q3J/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

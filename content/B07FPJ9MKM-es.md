@@ -16,6 +16,7 @@ comparePrice: 48.96 EUR
 prodname: 'Real Madrid CF Bolsa de Deporte  Mochila con zapatillero Equipaje para niños  Blanco  50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPJ9MKM/?tag=tolees-21'
 descuento: '45.06'
 average: '26.751666666666665'

@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Mochila Tous Kaos New Colores Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7V5M8O/?tag=tolees-21'
 descuento: '26.76'
 average: '54.733333333333334'

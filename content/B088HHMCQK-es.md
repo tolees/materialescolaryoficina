@@ -16,6 +16,7 @@ comparePrice: 22.08 EUR
 prodname: 'Ritches Diario de Puntos A5 - Cuaderno de Tapa Dura de Cuero PU de Mármol Gris  Páginas Numeradas Con Puntos - Incluye Bolígrafo  Pegatinas y Caja de Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088HHMCQK/?tag=tolees-21'
 descuento: '50.00'
 average: '11.04'

@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Pritt Roller Compact  corrector roller para tapar errores  correctores de bolígrafo y textos impresos  versátil corrector blanco para frases y letras  2 x  4 2mm x 10m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072J3XW2M/?tag=tolees-21'
 descuento: '21.20'
 average: '4.843333333333333'

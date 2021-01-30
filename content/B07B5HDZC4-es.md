@@ -16,6 +16,7 @@ comparePrice: 62.0 EUR
 prodname: 'GABOL Mochila Trolley Cabina Saga. Bolsa de Viaje  50 cm  15 litros  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B5HDZC4/?tag=tolees-21'
 descuento: '52.00'
 average: '29.76'

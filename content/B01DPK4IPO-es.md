@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'The North Face Borealis Classic Mochila  Unisex Adulto  Negro  TNF Black   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DPK4IPO/?tag=tolees-21'
 descuento: '30.59'
 average: '62.0775'

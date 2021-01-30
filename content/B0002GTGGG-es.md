@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: 'Crayola 3678 - Lápices Decorados Jumbo   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002GTGGG/?tag=tolees-21'
 descuento: '19.09'
 average: '4.45'

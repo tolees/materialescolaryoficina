@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'BIC 371664 - Bolígrafo retráctil  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000MPLGH4/?tag=tolees-21'
 descuento: '41.37'
 average: '6.42'

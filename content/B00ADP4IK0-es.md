@@ -16,6 +16,7 @@ comparePrice: 8.65 EUR
 prodname: 'Carioca - Caja con 24 rotuladores  A52100024 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ADP4IK0/?tag=tolees-21'
 descuento: '22.08'
 average: '6.74'

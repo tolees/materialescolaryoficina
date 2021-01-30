@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Soarpop SA007 Mochila para ordenador portátil de hasta 17.3" pulgadas  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N3LEMN4/?tag=tolees-21'
 descuento: '23.34'
 average: '21.49'

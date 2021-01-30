@@ -16,6 +16,7 @@ comparePrice: 2.71 EUR
 prodname: 'BIC 4 Colores Sun Retractable Bolígrafos retráctiles  punta media  1.0 mm   colores modernos  blíster de 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CL2Y6KK/?tag=tolees-21'
 descuento: '44.65'
 average: '1.9072727272727275'

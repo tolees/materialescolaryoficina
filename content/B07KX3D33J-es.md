@@ -16,6 +16,7 @@ comparePrice: 43.0 EUR
 prodname: 'Karactermania Mickey Mouse True Mochila Tipo Casual  31 cm  13 litros  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KX3D33J/?tag=tolees-21'
 descuento: '31.40'
 average: '29.5'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Fjallraven Kaipak 28 Backpack  Unisex adulto  Redwood  OneSize'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TQXEYU4/?tag=tolees-21'
 descuento: '57.80'
 average: '63.29'

@@ -16,6 +16,7 @@ comparePrice: 24.76 EUR
 prodname: 'Wolfcraft 7089000 7089000-1 Set tacocraft 7" Grapadora con Caja metálica 4-14 mm  Clavos 14 mm 064  Incl. 1.000 Grapas 8 mm Tipo 053  negro  4-14mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003CRHMQ8/?tag=tolees-21'
 descuento: '25.28'
 average: '18.5'

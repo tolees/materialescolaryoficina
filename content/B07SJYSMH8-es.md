@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Lixada Mochila Hidratación 5L Mochila para Correr Ligera para Correr Ciclismo Equitación Excursionismo Alpinismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJYSMH8/?tag=tolees-21'
 descuento: '23.80'
 average: '22.72'

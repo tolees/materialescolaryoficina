@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling Supertaboo Mochila con Cordón  15 Litros  Azul  True Jeans '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HB56QP/?tag=tolees-21'
 descuento: '55.21'
 average: '14.136666666666667'

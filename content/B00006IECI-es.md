@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Cross - Bolígrafo utrasuave brillante cromo - Ref 3502'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00006IECI/?tag=tolees-21'
 descuento: '38.22'
 average: '29.855'

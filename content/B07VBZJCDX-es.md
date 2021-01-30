@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'zhi wei Mochila Antirrobo Impermeable Mochila para Ordenador Portátil Hombre 15.6 Pulgadas con Puerto de Carga USB para Hombre Mujer Multifuncional Daypacks Viaje Negocio Trabajo Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBZJCDX/?tag=tolees-21'
 descuento: '52.25'
 average: '24.60705882352941'

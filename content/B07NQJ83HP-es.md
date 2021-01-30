@@ -16,6 +16,7 @@ comparePrice: 45.26 EUR
 prodname: 'ZZKKO Animal Llama Mochilas Escolar Libro Bolsa de Viaje Senderismo Camping Daypack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQJ83HP/?tag=tolees-21'
 descuento: '32.50'
 average: '30.55'

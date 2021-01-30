@@ -16,6 +16,7 @@ comparePrice: 30.1 EUR
 prodname: 'APLI 2414 - Etiquetas Blancas permanentes 63 5 x 38 1 mm 100 Hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00565AFPO/?tag=tolees-21'
 descuento: '34.25'
 average: '19.775'

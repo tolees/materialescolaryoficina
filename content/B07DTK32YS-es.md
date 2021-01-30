@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Mochila Pepe Jeans Olaia doble compartimento azul 45cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DTK32YS/?tag=tolees-21'
 descuento: '29.99'
 average: '35.0'

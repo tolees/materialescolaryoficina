@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'Mochila doble compartimento adaptable a carro Spiderman Street'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYTWCW9/?tag=tolees-21'
 descuento: '20.59'
 average: '21.91'

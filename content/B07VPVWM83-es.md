@@ -16,6 +16,7 @@ comparePrice: 31.56 EUR
 prodname: 'Carioca Set Rotuladores Locos | Kit Rotuladores de Colores Divertidos para Lettering  con Sellos Pastel  Mágicos  Perfume y Muchos Más  con Punta Maxi y Fina  Colores Surtidos 74 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPVWM83/?tag=tolees-21'
 descuento: '21.83'
 average: '24.67'

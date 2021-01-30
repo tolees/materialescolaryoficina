@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Play-Doh Fábrica De Palomitas  Hasbro E5110EU4    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQGSFY9/?tag=tolees-21'
 descuento: '24.01'
 average: '15.888461538461538'

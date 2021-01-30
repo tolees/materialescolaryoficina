@@ -16,6 +16,7 @@ comparePrice: 10.19 EUR
 prodname: 'AmazonBasics - Barras de pegamento lavable multiusos  tamaño medio  21 g  lote de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8MPG85/?tag=tolees-21'
 descuento: '18.94'
 average: '8.155000000000001'

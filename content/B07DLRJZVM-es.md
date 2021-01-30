@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'ShiyiUP Pistola de Agua con Depósito Mochila'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLRJZVM/?tag=tolees-21'
 descuento: '50.07'
 average: '6.99'

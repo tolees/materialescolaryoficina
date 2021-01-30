@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Omy Set de 16 rotuladores ultralavables  17 x 4 x 17 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYH583X/?tag=tolees-21'
 descuento: '69.59'
 average: '6.210000000000001'

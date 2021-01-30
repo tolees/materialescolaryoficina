@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mochila para portátil Pepe Jeans Bromley Verde 13 3"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5YSX1P/?tag=tolees-21'
 descuento: '17.50'
 average: '32.99'

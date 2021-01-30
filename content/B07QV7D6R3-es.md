@@ -16,6 +16,7 @@ comparePrice: 36.95 EUR
 prodname: 'FANDARE Mochila Cielo Estrellado Bolsa de Escuela Hombres/Mujeres School Bag Adolescente Mochila Niña/Niño Viaje Mochilas Camping Daypack Poliéster Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QV7D6R3/?tag=tolees-21'
 descuento: '16.24'
 average: '30.95'

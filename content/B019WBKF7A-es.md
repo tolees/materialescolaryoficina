@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'L Oreal Paris Infalible Liner 24Hrs Lápiz Automático Gris 312 Flawless Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019WBKF7A/?tag=tolees-21'
 descuento: '46.04'
 average: '3.75'

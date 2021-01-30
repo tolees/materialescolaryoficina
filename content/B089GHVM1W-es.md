@@ -16,6 +16,7 @@ comparePrice: 46.86 EUR
 prodname: 'Mochila para Portátil Hombre 18 4 Pulgadas Impermeable Mochilas Puerto USB 17 3 Pulgadas Trabajo Ordenador Viaje Negocio Multifuncional Mochila Daypacks Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089GHVM1W/?tag=tolees-21'
 descuento: '15.00'
 average: '39.83'

@@ -16,6 +16,7 @@ comparePrice: 28.98 EUR
 prodname: 'YONKINY Mochila Portátil Escolares Juveniles Chica Chico Antirrobo USB Mochila de Seguridad 15.6 Pulgadas Ordenador Mochila Universidad Instituto Bolsa Impermeable de Colegio Viaje  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSPQFNG/?tag=tolees-21'
 descuento: '49.45'
 average: '14.65'

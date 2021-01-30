@@ -16,6 +16,7 @@ comparePrice: 22.49 EUR
 prodname: 'Pritt Barra Adhesiva  pegamento infantil seguro para niños para hacer manualidades  cola universal de adhesión fuerte para estuche escolar y oficina  15x22 g Pritt Stick'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J6DAEC6/?tag=tolees-21'
 descuento: '30.46'
 average: '18.69636363636364'

@@ -16,6 +16,7 @@ comparePrice: 34.97 EUR
 prodname: '120 Lápices de Colores  Numerado  de Zenacolor - 120 Colores Únicos para Libro de Colorear para Adultos - Fácil Acceso con 4 Bandejas - Regalo Ideal para Artistas  Adultos y Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KVTP11C/?tag=tolees-21'
 descuento: '20.02'
 average: '24.0'

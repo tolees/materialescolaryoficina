@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Staedtler Noris Eco 183-HBBK3. Lápices ecológicos de dureza media. Blíster con 3 lápices de grafito con mina HB.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4WY9QY/?tag=tolees-21'
 descuento: '62.58'
 average: '2.99'

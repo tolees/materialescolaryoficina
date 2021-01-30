@@ -16,6 +16,7 @@ comparePrice: 2.2 EUR
 prodname: 'BIC Cristal Original Fine - Bolígrafos punta fina  0.8 mm   Blíster de 4 unidades  Colores Surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007ZPYLTE/?tag=tolees-21'
 descuento: '45.45'
 average: '1.3900000000000001'

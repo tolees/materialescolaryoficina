@@ -16,6 +16,7 @@ comparePrice: 3.45 EUR
 prodname: 'Pilot G-Tec C4 - Bolígrafo roller  0 4 mm   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0091R9QSK/?tag=tolees-21'
 descuento: '30.43'
 average: '2.4'

@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Kipling Fundamental  Mochila para Mujer  Azul  Stone Blue Block   42x42x16.5 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTLVTN2/?tag=tolees-21'
 descuento: '61.68'
 average: '30.27'

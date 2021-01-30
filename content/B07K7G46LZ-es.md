@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Viedouce Mochila para Portátiles Escolares Mochilas Antirrobo Impermeable Daypacks con Puerto de Carga USB & Puerto de Auriculares Negocio Mochila Portátil para Hombre Mujer  Azul-17.3 Pulgadas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7G46LZ/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

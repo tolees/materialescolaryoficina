@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mochila 42cm adaptable Pepe Jeans Ariel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T5FX5K1/?tag=tolees-21'
 descuento: '19.98'
 average: '39.6588'

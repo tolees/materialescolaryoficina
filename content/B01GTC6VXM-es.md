@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'HP Odyssey - Mochila para portátiles de hasta 15.6" de Color Rojo  335 x 155 x 465 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GTC6VXM/?tag=tolees-21'
 descuento: '18.96'
 average: '32.875'

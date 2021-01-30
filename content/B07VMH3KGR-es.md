@@ -16,6 +16,7 @@ comparePrice: 19.35 EUR
 prodname: 'CARIOCA Oops Retráctil Azul | Set Bolígrafos Borrables Recargables Retráctiles para el Colegio  Universidad y Oficina con Goma Incorporada y Agarre Ergonómico  Bolígrafos Azules  12 Uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMH3KGR/?tag=tolees-21'
 descuento: '17.62'
 average: '15.94'

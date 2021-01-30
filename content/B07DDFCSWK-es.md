@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Puma 75581 Backpack  Unisex Adulto  Black  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDFCSWK/?tag=tolees-21'
 descuento: '38.51'
 average: '22.976666666666667'

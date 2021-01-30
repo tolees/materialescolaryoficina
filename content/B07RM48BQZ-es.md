@@ -16,6 +16,7 @@ comparePrice: 44.85 EUR
 prodname: 'Artesania Cerda Avengers Hulk - Mochila Escolar  44 cm  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM48BQZ/?tag=tolees-21'
 descuento: '69.01'
 average: '13.925'

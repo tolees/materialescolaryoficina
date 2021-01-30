@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'Bolsa grande de viaje  Bolsa de deporte Mochila  Mochila para hombres señora Bolsillo de computadora 40L  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074NWRLD3/?tag=tolees-21'
 descuento: '53.75'
 average: '30.52'

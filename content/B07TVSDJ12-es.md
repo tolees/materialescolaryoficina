@@ -16,6 +16,7 @@ comparePrice: 26.88 EUR
 prodname: 'Cinta adhesiva antiarañazos para gatos para muebles protectores Stop Cats Scratching Sticky Deterctive Protectores contra rasguños para alfombras Sofá Puerta y sofá transparente 3Inches x 15 Yards'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVSDJ12/?tag=tolees-21'
 descuento: '48.36'
 average: '13.88'

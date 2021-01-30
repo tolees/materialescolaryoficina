@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'HP 1FK05AA - Mochila para portátiles de hasta 15.6"  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XVS873C/?tag=tolees-21'
 descuento: '25.01'
 average: '20.6575'

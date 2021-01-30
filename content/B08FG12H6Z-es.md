@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Voova Mochila de Pañales para Mamá Papá con Cambiar de Mat  Estilo Versátil Resistente al Agua Bolsa de Pañales para Bebés  Gran Capacidad de Pañales Cambiador de Bolsa con Correas de Cochecito Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FG12H6Z/?tag=tolees-21'
 descuento: '32.01'
 average: '33.99'

@@ -16,6 +16,7 @@ comparePrice: 13.76 EUR
 prodname: 'Moleskine - Agenda Semanal de 18 Meses Edición Limitada Star Wars  TIE Star Hunt  Agenda Escolar 2019/2020 con Tapa Dura y Cierre Elástico  Tamaño de Bolsillo 9 x 14 cm  208 Páginas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVF7FS1/?tag=tolees-21'
 descuento: '27.69'
 average: '11.94'

@@ -16,6 +16,7 @@ comparePrice: 17.02 EUR
 prodname: 'Viaje al Aire Libre Carga USB Hombres Mujeres Mochila Impermeable Lona Adolescentes Estudiante Mochila Escolar Mochila portátil de Viaje - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NNNK1Z/?tag=tolees-21'
 descuento: '33.49'
 average: '11.32'

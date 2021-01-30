@@ -16,6 +16,7 @@ comparePrice: 30.66 EUR
 prodname: 'AmazonBasics - Mochila de deporte  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7WQ1F1/?tag=tolees-21'
 descuento: '34.80'
 average: '24.323333333333334'

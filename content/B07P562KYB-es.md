@@ -16,6 +16,7 @@ comparePrice: 22.5 EUR
 prodname: 'Mochila de paseo Pepe Jeans Molly gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P562KYB/?tag=tolees-21'
 descuento: '20.22'
 average: '18.060000000000002'

@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Mochila 42 cm Pepe Jeans Cuore'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3FSM7F/?tag=tolees-21'
 descuento: '20.24'
 average: '33.5'

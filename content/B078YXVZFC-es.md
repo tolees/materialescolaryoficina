@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Tijeras de Podar Profesional Yunque y Jardín OSPREY 190 mm. Podadora poderosa ligera y de corte limpio.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078YXVZFC/?tag=tolees-21'
 descuento: '47.28'
 average: '9.99'

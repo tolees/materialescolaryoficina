@@ -16,6 +16,7 @@ comparePrice: 15.33 EUR
 prodname: 'BIC 4 Color Bolígrafos - Bote Fluorescente de 6 Bolígrafos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071P2N5CS/?tag=tolees-21'
 descuento: '28.25'
 average: '11.0'

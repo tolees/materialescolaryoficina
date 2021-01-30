@@ -16,6 +16,7 @@ comparePrice: 24.27 EUR
 prodname: 'Bedee - Afilador de cuchillos  3 pasos  diamante  cerámica  tungsteno  con base antideslizante  repara fácil y rápidamente todo tipo de cuchillos  tijeras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q7VF2LZ/?tag=tolees-21'
 descuento: '62.51'
 average: '9.1'

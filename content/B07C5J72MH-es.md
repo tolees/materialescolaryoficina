@@ -16,6 +16,7 @@ comparePrice: 29.91 EUR
 prodname: 'Kit Set Cuidado Barba con Libre Champu Barba Peine Barba Cepillo Barba Aceite Barba Balsamo Barba Barba Tijeras Productos Hidratante Acondicionador Barba'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5J72MH/?tag=tolees-21'
 descuento: '30.09'
 average: '18.51'

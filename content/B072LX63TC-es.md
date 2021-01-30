@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Casio FX-85SP X II - Calculadora Científica  Recomendada para el Curriculum Español y Portugués  293 funciones  solar  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072LX63TC/?tag=tolees-21'
 descuento: '41.12'
 average: '18.675'

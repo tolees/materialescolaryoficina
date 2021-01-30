@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Mr.Wonderful 8435460731317 Mochila I Make U Look Cool'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F4L2G4L/?tag=tolees-21'
 descuento: '29.99'
 average: '27.97'

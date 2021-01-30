@@ -16,6 +16,7 @@ comparePrice: 19.53 EUR
 prodname: 'BIC Intensity Fine - Blíster de 20 unidades  rotulador punta fina  0 8 mm   colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLRBQ48/?tag=tolees-21'
 descuento: '48.85'
 average: '9.99'

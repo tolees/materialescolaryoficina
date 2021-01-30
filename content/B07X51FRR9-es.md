@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Eastpak Orbit Mochila  34 cm  10 L  Azul  Arctic Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X51FRR9/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

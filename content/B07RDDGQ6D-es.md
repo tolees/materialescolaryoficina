@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Xnuoyo 17.3 Pulgadas Mochila Hombre  Impermeable Mochila con Puerto de USB，Mochila de Gran Capacidad para Hombre Mujer Oficina Trabajo Diario Negocio Multifuncional  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDDGQ6D/?tag=tolees-21'
 descuento: '58.34'
 average: '24.656666666666666'

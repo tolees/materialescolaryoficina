@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Backpack Inlove Venice Mini  Mochila moderna. para Mujer  Grün  Musgo   28x10.5x28.1 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXS5PX6/?tag=tolees-21'
 descuento: '41.90'
 average: '36.766666666666666'

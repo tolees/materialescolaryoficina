@@ -16,6 +16,7 @@ comparePrice: 16.59 EUR
 prodname: 'WEILLCCE Bolsos para Mujer Mochila de Mujer Mochila Impermeable de Nylon Bandolera Doble Bolsos de Hombro Doble para Las Mujeres de la muchedumbre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G64VXWG/?tag=tolees-21'
 descuento: '21.88'
 average: '12.083333333333334'

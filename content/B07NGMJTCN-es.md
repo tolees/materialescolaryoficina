@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'adidas  Mochila Barricade 1.9 2019 Naranja Adultos unisex  Multicolor  Talla unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGMJTCN/?tag=tolees-21'
 descuento: '46.88'
 average: '26.56'

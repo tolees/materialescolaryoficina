@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Tijeras Peluquería Profesional  Dhaose Tijeras de Salón Juego de Tijeras de Acero Inoxidable con Peine'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0881GN3RC/?tag=tolees-21'
 descuento: '15.40'
 average: '12.323333333333334'

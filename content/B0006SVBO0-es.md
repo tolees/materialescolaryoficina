@@ -16,6 +16,7 @@ comparePrice: 2.62 EUR
 prodname: 'BIC 4 colores Original bolígrafos Retráctiles punta media  1 0 mm  - Blíster de 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0006SVBO0/?tag=tolees-21'
 descuento: '24.05'
 average: '1.99'

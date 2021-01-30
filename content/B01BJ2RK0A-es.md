@@ -16,6 +16,7 @@ comparePrice: 53.9 EUR
 prodname: 'Mochila Infantil Star Wars'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BJ2RK0A/?tag=tolees-21'
 descuento: '46.44'
 average: '28.87'

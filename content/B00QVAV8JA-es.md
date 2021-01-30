@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Safta - Conjunto dibujo escolar  940001   colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QVAV8JA/?tag=tolees-21'
 descuento: '34.09'
 average: '3.0833333333333335'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Thule TCDK-101 - Mochila para DSLR  Color Gris Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JXECZSE/?tag=tolees-21'
 descuento: '32.91'
 average: '134.18'

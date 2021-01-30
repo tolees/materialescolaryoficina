@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Eastpak Back To Work Mochila  43 cm  27 L  Azul  Cloud Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073X3BGKK/?tag=tolees-21'
 descuento: '28.36'
 average: '55.43'

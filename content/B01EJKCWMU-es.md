@@ -16,6 +16,7 @@ comparePrice: 229 EUR
 prodname: 'Moleskine - Set de Escritura Inteligente  Cuaderno Digital y Bolígrafo + Smart Bolígrafo  Cuaderno con Tapa Dura Negra Apto para Uso con Bolígrafo Moleskine+  Hojas Punteadas  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EJKCWMU/?tag=tolees-21'
 descuento: '38.87'
 average: '126.65666666666668'

@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Wenger Ibex - Mochila para portátil de 17"  con Bolsillo para Tableta  Color Negro balístico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CRXZ6V3/?tag=tolees-21'
 descuento: '36.28'
 average: '79.86'

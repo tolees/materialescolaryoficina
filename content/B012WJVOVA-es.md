@@ -16,6 +16,7 @@ comparePrice: 33.06 EUR
 prodname: 'WACOM LP190K - Lápiz para tablet CTL490  CTH490 y CTH690'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012WJVOVA/?tag=tolees-21'
 descuento: '24.65'
 average: '26.303333333333335'

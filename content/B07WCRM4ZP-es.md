@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'BAIGIO Mochila Portátil 17 Pulgadas Mochila de Negocios Mochila de Transporte para Ordenador Mochilas Escolares para Hombre con Puerto de Carga USB para Viajar Trabajo  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WCRM4ZP/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

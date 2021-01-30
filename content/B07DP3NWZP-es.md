@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Eastpak EK62030W Mochila Poliéster Negro/Blanco - Mochila para portátiles y netbooks  Poliéster  Negro/Blanco  Ciudad  Estampado  Unisex  300 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP3NWZP/?tag=tolees-21'
 descuento: '50.00'
 average: '25.0'

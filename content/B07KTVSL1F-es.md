@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Street Elite 25L Mochila  Unisex Adulto  Shark  O/S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTVSL1F/?tag=tolees-21'
 descuento: '37.76'
 average: '50.5'

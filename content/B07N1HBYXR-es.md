@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Kipling CLASS ROOM - Mochila escolar  28 liters  Azul  TRUE NAVY '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HBYXR/?tag=tolees-21'
 descuento: '55.77'
 average: '57.06'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Pepe Jeans Pam Mochila  Multicolor  40 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T26WRGM/?tag=tolees-21'
 descuento: '19.98'
 average: '32.0'

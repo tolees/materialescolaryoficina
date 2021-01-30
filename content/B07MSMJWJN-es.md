@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Juego de 200 bolígrafos de gel  100 colores de gel y 100 recambios de color  perfectos para libros de colorear para adultos  marcadores de dibujo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSMJWJN/?tag=tolees-21'
 descuento: '36.26'
 average: '22.94'

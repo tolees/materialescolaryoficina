@@ -16,6 +16,7 @@ comparePrice: 26.89 EUR
 prodname: 'Mochila para Portátil XQXA Mochila Unisex Impermeable para Ordenador Portátil de hasta 15.6 Pulgadas Con Anillo de bloqueo antirrobo y Puerto USB para Carga para los Estudios Trabajo o Viajes - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083LTB6CP/?tag=tolees-21'
 descuento: '15.32'
 average: '22.77'

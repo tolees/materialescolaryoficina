@@ -16,6 +16,7 @@ comparePrice: 22.41 EUR
 prodname: 'Nowakk Cabeza de Aceite de Peluquero eléctrica Cizalla de Empuje eléctrica Cizalla de Empuje eléctrica Afeitado Tallado Corte de Pelo USB Cabeza de Aceite eléctrica Tijeras - Bronce'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08KZPN9SZ/?tag=tolees-21'
 descuento: '33.51'
 average: '14.9'

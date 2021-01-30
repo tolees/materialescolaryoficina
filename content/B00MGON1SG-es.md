@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Eastpak Padded Pak r Mochila  40 cm  24 L  Gris  Black Denim '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MGON1SG/?tag=tolees-21'
 descuento: '26.02'
 average: '30.674444444444447'

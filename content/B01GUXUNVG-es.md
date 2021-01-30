@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Targus TSB89702EU Urban Explorer - Mochila para portátiles   sistema AIR X FLOW  hasta 15 6"  25 L   color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GUXUNVG/?tag=tolees-21'
 descuento: '55.87'
 average: '34.94533333333332'

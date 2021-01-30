@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'CoolBELL Maletín Ordenadores portátiles de 17 3 Pulgadas  43 9 cm  Convertible en Mochila de Hombro en Tejido Oxford. Maletín Multi Funcional para Ordenador portátil/Macbook/Tableta  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYXTH5R/?tag=tolees-21'
 descuento: '66.49'
 average: '12.06'

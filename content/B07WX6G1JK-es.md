@@ -16,6 +16,7 @@ comparePrice: 61.28 EUR
 prodname: 'Cross X Star Wars Han Solo - Bolígrafo de punta rodante Caja de regalo de personaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WX6G1JK/?tag=tolees-21'
 descuento: '15.14'
 average: '52'

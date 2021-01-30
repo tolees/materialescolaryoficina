@@ -16,6 +16,7 @@ comparePrice: 24.96 EUR
 prodname: 'Mochila grande de 43 L para hombre y mujer  para hombres  mochila escolar para niñas  adolescentes  mochila para portátil de 17 3 pulgadas / mochila de viaje / equipaje de mano / mochila antirrobo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLLQMC6/?tag=tolees-21'
 descuento: '20.71'
 average: '19.79'

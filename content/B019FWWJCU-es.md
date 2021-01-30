@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Lápices Colore. Lápices con goma de borrar  grafito  HB número 2  madera  color amarillo. Ideal para escribir  dibujar y bocetear  con goma para niños y adultos  144 unidades  color amarillo 144 Count'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019FWWJCU/?tag=tolees-21'
 descuento: '66.69'
 average: '10.899090909090908'

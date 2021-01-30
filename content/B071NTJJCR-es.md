@@ -16,6 +16,7 @@ comparePrice: 5.75 EUR
 prodname: 'Bourjois Khol & Contour Lápiz de ojos Tono 7 Prunissime - 4 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NTJJCR/?tag=tolees-21'
 descuento: '73.91'
 average: '1.7466666666666668'

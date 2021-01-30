@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'HP 1MR94AA - Lápiz para Tableta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XVDK7TV/?tag=tolees-21'
 descuento: '17.26'
 average: '42.3825'

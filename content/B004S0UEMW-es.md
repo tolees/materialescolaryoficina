@@ -16,6 +16,7 @@ comparePrice: 11.41 EUR
 prodname: 'Chicco Happy Hand - Set de cuidado de uñas para bebés: tijeras  corta uñas  lima y cepillo  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004S0UEMW/?tag=tolees-21'
 descuento: '17.09'
 average: '9.46'

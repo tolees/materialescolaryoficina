@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Pentel PHN-12 - Caja de 12 pasteles de aceite  colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ID6EMJ8/?tag=tolees-21'
 descuento: '63.27'
 average: '4.095'

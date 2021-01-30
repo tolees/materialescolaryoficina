@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Samsonite Disney Ultimate 2.0 Mochila 35 cm  12 L  Azul  Mickey Letters '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBMFR2L/?tag=tolees-21'
 descuento: '40.44'
 average: '32.04333333333334'

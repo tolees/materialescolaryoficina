@@ -16,6 +16,7 @@ comparePrice: 10.22 EUR
 prodname: 'DMM Supplies Mochila Happy Animals Ovejita Guardería  Unisex niños  Rosa  Talla del Producto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087MRTTPJ/?tag=tolees-21'
 descuento: '28.96'
 average: '7.26'

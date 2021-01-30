@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Escolar Estuche de Lápices Gran Capacidad Cartera Bolsa de Cosméticos Conveniente Dos Cremalleras con asa para los Estudiantes Jóvenes Chicas Chicos Niños 20x 8CM  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WR5LZ6Z/?tag=tolees-21'
 descuento: '75.04'
 average: '4.99'

@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'Alpino AL010760 - Estuche 36 lápices'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TB7DNV/?tag=tolees-21'
 descuento: '28.00'
 average: '11.16'

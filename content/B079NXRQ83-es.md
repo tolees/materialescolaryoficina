@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Mayka - Cinta Adhesiva Grande  IMC TOYS 97148 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NXRQ83/?tag=tolees-21'
 descuento: '69.98'
 average: '6.0'

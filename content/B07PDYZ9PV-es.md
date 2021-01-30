@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Samsonite 2WM - Mochila para portátil M de 15.6 pulgadas - Roll Top  64 cm  20 L  Marrón  Saffron '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDYZ9PV/?tag=tolees-21'
 descuento: '43.09'
 average: '96.17'

@@ -16,6 +16,7 @@ comparePrice: 2.33 EUR
 prodname: 'Jovi 72 - Plastilina  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009GGTVTU/?tag=tolees-21'
 descuento: '28.33'
 average: '1.9933333333333334'

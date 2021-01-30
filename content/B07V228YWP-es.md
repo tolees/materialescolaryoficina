@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Joymoze Mochila para Universidad Resistente al Agua y Moderna  Macuto Casual para Niña Adolescente Tulipán'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V228YWP/?tag=tolees-21'
 descuento: '46.01'
 average: '26.99'

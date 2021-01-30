@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Samsonite Spectrolite 2.0 35 8 cm  14.1"  Mochila Negro  Gris - Funda  Mochila  35 8 cm  14.1"   Tirante para hombro  1 2 kg  Negro  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CFHKNQ/?tag=tolees-21'
 descuento: '36.03'
 average: '99.16'

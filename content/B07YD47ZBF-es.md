@@ -16,6 +16,7 @@ comparePrice: 27.79 EUR
 prodname: 'Catekro Caja de Almacenamiento de Oficina de Gran Capacidad Suministros de Oficina Soporte de Bolígrafo de Almacenamiento de Papelería Multifuncional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YD47ZBF/?tag=tolees-21'
 descuento: '20.87'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 23.33 EUR
 prodname: 'PUREBOX Mochila para portátil para hombre  mochila escolar antirrobo de 15.6 a 17.3 pulgadas  compacta  resistente al agua  mochila de viaje para hombres con puerto de carga USB e interfaz de auriculares con bolsillos RFID'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W9KMFW2/?tag=tolees-21'
 descuento: '17.27'
 average: '19.3'

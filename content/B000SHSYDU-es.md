@@ -16,6 +16,7 @@ comparePrice: 1.35 EUR
 prodname: 'Staedtler 334-57 - Bolígrafo  Gris  Oliva '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000SHSYDU/?tag=tolees-21'
 descuento: '28.89'
 average: '0.96'

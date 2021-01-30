@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Don Algodón Mochila Mujer Casual Nailon Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1DN9K3/?tag=tolees-21'
 descuento: '37.37'
 average: '12.6375'

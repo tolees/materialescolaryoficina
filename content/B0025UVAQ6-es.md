@@ -16,6 +16,7 @@ comparePrice: 3.07 EUR
 prodname: 'Jovi-724987 Estuche Acuarelas  Multicolor  800 12 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0025UVAQ6/?tag=tolees-21'
 descuento: '23.45'
 average: '2.8899999999999997'

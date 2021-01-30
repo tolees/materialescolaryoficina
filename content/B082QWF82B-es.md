@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Sombra de Ojos  Eyeshadow  Eyeshadow Glitter  Eyeshadow Palette  Sombra de Ojos Hipoalergenico Waterproof Long-lasting Eye Shadow Stick Sombra de Ojos Lápiz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082QWF82B/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

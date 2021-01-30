@@ -16,6 +16,7 @@ comparePrice: 27.28 EUR
 prodname: 'BOLIGRAFO BIC Cristal Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IWSI38S/?tag=tolees-21'
 descuento: '29.84'
 average: '21.343333333333334'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Mochilas Infantiles Primaria Mochila Niña Unicornio Mochila Chica Bolsas Escolares Mochila Niño 3 en 1 Sets de Mochila Escolares Armada '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B7P3XMS/?tag=tolees-21'
 descuento: '44.16'
 average: '33.5'

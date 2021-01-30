@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Laluztop Pistola de Silicona Caliente 50W Pistola de Pegamento Profesional Con 30pcs Barras de Pegamento para Manualidades  7mm * 15cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T45LQR2/?tag=tolees-21'
 descuento: '31.21'
 average: '14.99222222222222'

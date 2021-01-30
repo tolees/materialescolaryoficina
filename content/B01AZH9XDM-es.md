@@ -16,6 +16,7 @@ comparePrice: 21.45 EUR
 prodname: 'APLI 13825 - Cinta de pintor  48 mm x 45 m  pack de 6 rollos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AZH9XDM/?tag=tolees-21'
 descuento: '51.61'
 average: '10.38'

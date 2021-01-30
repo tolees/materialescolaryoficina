@@ -16,6 +16,7 @@ comparePrice: 81.9 EUR
 prodname: 'Speedo T-KIT Teamster Mochila  Unisex Adulto  Azul  35 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CDGVL5/?tag=tolees-21'
 descuento: '31.64'
 average: '48.3625'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Mochila antirrobo para computadora portátil /portátil y Ipad de hasta 15.6 pulgadas  con puerto de carga USB y conector para auriculares  resistente al agua  ideal para universidades/negocios/viajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Z67SHS/?tag=tolees-21'
 descuento: '60.01'
 average: '23.656666666666666'

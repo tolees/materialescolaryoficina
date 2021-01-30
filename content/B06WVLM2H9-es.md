@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Cronus y Rhea® | Carpeta Exclusiva de Cuero Exclusivo  Scylla  | Estuche para lápices - Estuche para bolígrafos | Cuero Real | con Elegante Caja de Regalo | Hombres - Mujeres  Coñac '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVLM2H9/?tag=tolees-21'
 descuento: '35.77'
 average: '44.9'

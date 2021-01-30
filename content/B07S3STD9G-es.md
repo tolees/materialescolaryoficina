@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'HellDoler Manualidades para Niños 100 Hojas Manualidades para Rascar Scratch Art Cuadernos para Dibujar Papel de Rascar Incluye 4 Plantillas de Plantillas de Dibujo y 10 Lápices de Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3STD9G/?tag=tolees-21'
 descuento: '38.48'
 average: '18.49'

@@ -16,6 +16,7 @@ comparePrice: 13.55 EUR
 prodname: 'BIC Gel-ocity Quick Dry - Blíster de 6 unidades  bolígrafos de Gel  colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF6GLTD/?tag=tolees-21'
 descuento: '22.51'
 average: '9.34076923076923'

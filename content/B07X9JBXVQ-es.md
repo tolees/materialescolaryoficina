@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Parfois - Mochila Detalles Efecto Ante - Mujeres - Tallas M - Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9JBXVQ/?tag=tolees-21'
 descuento: '49.98'
 average: '13'

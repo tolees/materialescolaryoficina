@@ -16,6 +16,7 @@ comparePrice: 8.12 EUR
 prodname: 'Trendy New Shoulder Messenger Bag Mochila Mujer Pu Leather Shoulder Bag Messenger Bag Simple Portable Bag - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZFH7BB/?tag=tolees-21'
 descuento: '33.50'
 average: '5.4'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'WERNNSAI Luau Flamenco Suministros para la Fiesta - 12 PCS Bolsa de Favor de Fiesta con Cordón Bolsa Hawaiano Bolsa de Regalo de Fiesta para Chicas Cumpleaños Baby Shower Mochila Bolsas de Regalos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WKN39D/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

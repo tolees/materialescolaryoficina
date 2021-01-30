@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Aottom 36 Colores con Rotuladores Punta Pincel Rotuladores Acuarelables con Punta Suave  Plumas de Pincel de Acuarela con 6 Plantillas  Plumas de Dibujo  Estuche de Plumas de Caligrafía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088CXYZKJ/?tag=tolees-21'
 descuento: '22.23'
 average: '13.99'

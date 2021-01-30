@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'AtmosFlare- Disney Boligrafo 3D  Miscelanea  Giochi Preziosi Spagna D3D00000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BYC24LA/?tag=tolees-21'
 descuento: '71.50'
 average: '19.95'

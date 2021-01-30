@@ -16,6 +16,7 @@ comparePrice: 52.65 EUR
 prodname: 'Safta - f.c; barcelona oficial mochila escolar.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMM3J9H/?tag=tolees-21'
 descuento: '35.61'
 average: '33.9'

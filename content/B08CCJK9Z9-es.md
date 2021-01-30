@@ -16,6 +16,7 @@ comparePrice: 33.51 EUR
 prodname: 'A5/RedBronze 新品 Diario de piel en relieve vintage con juego de bolígrafos dorados A5 hecho a mano cuaderno de bocetos  diario de viaje y cuaderno para escribir  regalo para mujeres y hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CCJK9Z9/?tag=tolees-21'
 descuento: '40.35'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 131.91 EUR
 prodname: 'STABILO CarbOthello - Lápiz de color tiza-pastel - Caja de metal con 60 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0011UP7BK/?tag=tolees-21'
 descuento: '31.16'
 average: '79.455'

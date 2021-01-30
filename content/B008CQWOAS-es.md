@@ -16,6 +16,7 @@ comparePrice: 5.12 EUR
 prodname: 'Loctite Super Glue-3 Original  pegamento universal con triple resistencia  adhesivo transparente  pegamento instantáneo y fuerza instantánea  1x3 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008CQWOAS/?tag=tolees-21'
 descuento: '24.80'
 average: '3.85'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Kipling SEOUL PACKABLE - Mochila escolar  22.5 liters  Morado  PLUM LIGHT '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1DK8YV/?tag=tolees-21'
 descuento: '42.24'
 average: '25.99'

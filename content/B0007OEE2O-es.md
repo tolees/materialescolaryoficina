@@ -16,6 +16,7 @@ comparePrice: 22.26 EUR
 prodname: 'Rotulador punta fina STABILO point 88 - Estuche con 20 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0007OEE2O/?tag=tolees-21'
 descuento: '29.38'
 average: '13.5'

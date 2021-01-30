@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'NAKOSITE Ruta Perfecta es un Podómetro en 3D con Correa y Fijador  Contador de Pasos Basado en Precisión  Calculadora de Distancia Corta  Kilómetros y Millas   Monitorización de Calorías Quemadas  Modo Ejercicio  Rastreador de Rendimiento Diario  Memoria Diaria de 30 Días  Dispositivo Construido con Tecnología Tri -Axis  Basada en Sensores   Acabado Blanco y Fácil Lectura Digital del Monitor - BONO: Libro Electrónico Gratis + 365 Días de Garantía.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MWELR7W/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

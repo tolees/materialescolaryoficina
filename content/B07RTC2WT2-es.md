@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Tommy Hilfiger - Modern Nylon Backpack  Shoppers y bolsos de hombro Hombre  Multicolor  Sky Captain   12.5x46x31.5 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTC2WT2/?tag=tolees-21'
 descuento: '35.37'
 average: '77.3'

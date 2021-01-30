@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mochila de Portáti Hombre Mujer Mochila con funda ajustable para computadora de hasta 15.6 pulgadas  Mochila escolar impermeable para el viaje de trabajo diario de negocios - Azul gris  7651-BG '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHJL26Q/?tag=tolees-21'
 descuento: '67.52'
 average: '12.99'

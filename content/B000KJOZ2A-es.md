@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Q-Connect - Cinta Adhesiva Kf02164  33 M X 19 Mm  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KJOZ2A/?tag=tolees-21'
 descuento: '46.15'
 average: '1.61'

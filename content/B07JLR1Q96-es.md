@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Lote de 20 Estuches Para Colorear Con 5 Pinturas De Cera Incluidas Cada Uno. Ideal Para Regalos De Cumpleaños  Fiestas De Colegios  Comuniones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLR1Q96/?tag=tolees-21'
 descuento: '40.02'
 average: '12.59'

@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'LOSMILE Mujer Bolsos mochila Bolsos de mano Bolsos bandolera Mochila de a diario Bolsa de Viaje Bolsos de peso Ligero Nylon Backpack Daypack para Escuela trabajo fecha  Negro-grande '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3WS4GC/?tag=tolees-21'
 descuento: '38.78'
 average: '29.99'

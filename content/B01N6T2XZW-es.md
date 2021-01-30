@@ -16,6 +16,7 @@ comparePrice: 31.93 EUR
 prodname: 'Rapesco ECO HD-140 - Grapadora de gruesos  140 hojas de capacidad  color blanco mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6T2XZW/?tag=tolees-21'
 descuento: '35.30'
 average: '20.66'

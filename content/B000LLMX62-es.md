@@ -16,6 +16,7 @@ comparePrice: 33.73 EUR
 prodname: 'STAEDTLER FIMO soft ofenhärtende Modelliermasse  Kartonetui mit 24 sortierten Basic-Farben  24 Halbblöcke à 25 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LLMX62/?tag=tolees-21'
 descuento: '39.49'
 average: '20.41'

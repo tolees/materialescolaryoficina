@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Baby Playpen - Centro de actividades para niños  juego de seguridad en el patio  interior y exterior  con 14 paneles  bolígrafo  8 panel '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FLW5B8/?tag=tolees-21'
 descuento: '23.08'
 average: '99.99'

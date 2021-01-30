@@ -16,6 +16,7 @@ comparePrice: 16.81 EUR
 prodname: 'Play Doh PDH Core Estudio de creaciones animadas  Miscelanea  Hasbro C2860105    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XD9JKQN/?tag=tolees-21'
 descuento: '16.84'
 average: '15.42'

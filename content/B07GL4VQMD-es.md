@@ -16,6 +16,7 @@ comparePrice: 156.36 EUR
 prodname: 'Deuter Kid Comfort Mochila Tipo Casual 72 Centimeters 14 Rojo  Maron '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GL4VQMD/?tag=tolees-21'
 descuento: '18.24'
 average: '127.84'

@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'How.R.U Mochilas para Portátiles Y Netbooks Mochila Ordenador  Mochila Estanca  Mochila Ejecutivo Hombre  Mochila Negocios  Mochila Negras  Morral Negro Cargador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y2XK4JT/?tag=tolees-21'
 descuento: '60.62'
 average: '12.99'

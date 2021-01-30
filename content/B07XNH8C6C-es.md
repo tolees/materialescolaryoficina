@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Verolino Mochila para Pañales de Bebé  Rosa Gris + Ganchos + Cambiador '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XNH8C6C/?tag=tolees-21'
 descuento: '17.50'
 average: '32.99'

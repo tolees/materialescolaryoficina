@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'DANGZW Lápiz Stylus para iPad  Recargable Lápiz óptico Active Point de 1 5 mm Fine Point  Compatible con iPad 6  iPad Mini 5  iPad Air 3  iPad Pro  iPad Pro 3 para Escritura Precisas/Dibujo/Notas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPPN853/?tag=tolees-21'
 descuento: '15.01'
 average: '31.790000000000003'

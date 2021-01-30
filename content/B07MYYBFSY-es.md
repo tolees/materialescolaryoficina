@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'COO Funda Teclado iPad 9.7  Funda iPad 2018 con Ranura para Lápiz y Teclado Español  Incluye Letra Ñ  Bluetooth para iPad 2018/iPad 2017/iPad Pro 9.7/iPad Air 2/1 - Cubierta Magnética Delgada  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYYBFSY/?tag=tolees-21'
 descuento: '21.28'
 average: '36.99'

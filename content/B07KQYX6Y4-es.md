@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Diesel BOLD BACK II  Mochila para Hombre  Negro  Black   10x44x30 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQYX6Y4/?tag=tolees-21'
 descuento: '50.00'
 average: '65.0'

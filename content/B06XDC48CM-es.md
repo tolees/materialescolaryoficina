@@ -16,6 +16,7 @@ comparePrice: 11.15 EUR
 prodname: 'BIC Kids Kid Couleur rotuladores punta media - colores Surtidos  Estuche de 36 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDC48CM/?tag=tolees-21'
 descuento: '46.28'
 average: '6.413571428571429'

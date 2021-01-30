@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'VTech- DigiART Pizarra con Plantillas y Dibu-Ruedas para Colorear  3480-169022    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDDS79T/?tag=tolees-21'
 descuento: '59.98'
 average: '13.079999999999998'

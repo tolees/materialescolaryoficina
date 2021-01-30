@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'VBIGER Bolsos mochila mujer Antirrobo Mochila de Cuero PU Mano Mochilas Casual Bolsa Bandolera Messenger Bag Backpack  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPT7BNR/?tag=tolees-21'
 descuento: '50.03'
 average: '25.64666666666667'

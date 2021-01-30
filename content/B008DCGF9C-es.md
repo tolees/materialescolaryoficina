@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Alpino-490251 Pack de 12 lápices  Colores Surtidos  Multicolor  Industrias Massats 113 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008DCGF9C/?tag=tolees-21'
 descuento: '29.75'
 average: '6.99'

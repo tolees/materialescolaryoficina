@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Mochila Infantil 3D  Estuche Escolar y Bolsa Merienda de Cuerdas Frozen 2 Diseño Exclusivo – Frozen | Mochilas Escolares para Niñas y Niños de 3 Años | Material Escolar Vuelta al Cole de Frozen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DFJ96CJ/?tag=tolees-21'
 descuento: '20.04'
 average: '16.740000000000002'

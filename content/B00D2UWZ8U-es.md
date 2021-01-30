@@ -16,6 +16,7 @@ comparePrice: 4.42 EUR
 prodname: 'BIC Kids Plastidecor - Blíster de 18 unidades  ceras para colorear  colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D2UWZ8U/?tag=tolees-21'
 descuento: '44.12'
 average: '2.8950000000000005'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'NIKE Nk Heritage Bkpk - 2.0 Sports Backpack  Unisex adulto  sky grey/saffron quartz/ white   MISC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGMLMCY/?tag=tolees-21'
 descuento: '40.18'
 average: '16.75'

@@ -16,6 +16,7 @@ comparePrice: 17.97 EUR
 prodname: 'iSuperb Estuche Escolar Estudiantes Bolsa para Lapices Adolescentes Papelería Bolsa Caso Plumier Pencil Case para Niñas Colegio Color Sólido 19 8 X 8 X 5cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLTQB4X/?tag=tolees-21'
 descuento: '49.97'
 average: '8.99'

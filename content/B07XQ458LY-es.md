@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'maxtop 30L Mochila Ultraligera y Compacta Mochila Plegable Resistente al Agua para Hombres Mujeres Niños Acampar al Aire Libre Senderismo Mochila de Viaje Práctica Duradera  Negro   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQ458LY/?tag=tolees-21'
 descuento: '50.08'
 average: '14.97'

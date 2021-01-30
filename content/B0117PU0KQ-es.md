@@ -16,6 +16,7 @@ comparePrice: 19.28 EUR
 prodname: '3 Claveles Tijeras Costura y Multiusos  Profesional  Mango TPR  Acero Inoxidable  Tamaño: 30 cm-12"  Multicolor  25 cm  10" '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0117PU0KQ/?tag=tolees-21'
 descuento: '34.13'
 average: '12.7'

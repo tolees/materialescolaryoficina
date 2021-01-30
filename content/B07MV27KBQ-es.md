@@ -16,6 +16,7 @@ comparePrice: 19.91 EUR
 prodname: 'Kit Barba Cuidado para Hombre Crecimiento  Aseo y Recorte - Champú Barba  Originales Aceite Barba  Bálsamo Barba  Cepillo  Peine  Tijeras  Mejores Set Regalos para Él'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV27KBQ/?tag=tolees-21'
 descuento: '25.11'
 average: '16.243333333333332'

@@ -16,6 +16,7 @@ comparePrice: 24.15 EUR
 prodname: 'PetCay Cortauñas para Mascotas medianos y grandes - Tijeras uñas Profesional para Perro Gato Conejo Cobayas y Aves'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078NDHWCK/?tag=tolees-21'
 descuento: '41.24'
 average: '14.19'

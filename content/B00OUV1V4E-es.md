@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Bourjois Sourcil Precision Lápiz de cejas Tono 7 Noisette - 4 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OUV1V4E/?tag=tolees-21'
 descuento: '80.00'
 average: '2.5439999999999996'

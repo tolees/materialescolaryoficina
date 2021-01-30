@@ -16,6 +16,7 @@ comparePrice: 1.03 EUR
 prodname: 'Milan BMM9203 - Pack de 3 gomas de borrar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q1RA3KI/?tag=tolees-21'
 descuento: '15.53'
 average: '0.874'

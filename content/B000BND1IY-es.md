@@ -16,6 +16,7 @@ comparePrice: 27.96 EUR
 prodname: 'Targus Essential - Mochila para Transportar portátiles de 15.6"  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BND1IY/?tag=tolees-21'
 descuento: '47.71'
 average: '14.62'

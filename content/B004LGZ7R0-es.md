@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Mammut Classic Bumbag 0001 Mochila  Unisex Adultos  Negro  Black   8x18x22 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004LGZ7R0/?tag=tolees-21'
 descuento: '23.87'
 average: '14.2'

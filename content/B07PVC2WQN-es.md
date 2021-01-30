@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Castle Art Supplies 72 lápices de colores en estuche con cremallera para proteger y almacenar los lápices'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVC2WQN/?tag=tolees-21'
 descuento: '15.56'
 average: '37.99'

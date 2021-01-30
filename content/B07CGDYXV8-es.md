@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'Lifewit Mochila Antirrobo para Ordenador Portátil 15 6 Pulgadas Mochila Multifuncional para Hombres con Puerto de Carga USB Bolsos Ideal para Estudiantes/Negocios/Viajes  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGDYXV8/?tag=tolees-21'
 descuento: '53.98'
 average: '26.627499999999998'

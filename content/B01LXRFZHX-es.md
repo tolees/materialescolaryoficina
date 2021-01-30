@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Samsonite Qibyte Laptop Backpack 17.3" Mochila Tipo Casual  24.5 litros  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXRFZHX/?tag=tolees-21'
 descuento: '36.57'
 average: '56.32'

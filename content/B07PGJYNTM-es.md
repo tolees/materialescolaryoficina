@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Samsonite Checkmate Central Opening - Mochila para portátil  44 cm   Negro  Negro  - 116124/1041'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGJYNTM/?tag=tolees-21'
 descuento: '56.94'
 average: '120.13'

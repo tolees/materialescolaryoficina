@@ -16,6 +16,7 @@ comparePrice: 35.9 EUR
 prodname: 'aeioubaby.com Tabla RECOMPENSAS Magnética Grande | Pizarra de tareas para Pared o Frigorífico  43x32cm. 12 Actividades  2 rotuladores y 1 Globo | Presentación Caja niños y cumpleaños  Inglés '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0713XMGC3/?tag=tolees-21'
 descuento: '55.26'
 average: '16.06'

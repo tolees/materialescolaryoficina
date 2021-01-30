@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Quiksilver Burst - Mochila Mediana Para Hombre Mochila Mediana  Hombre  Black  1SZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBFX5ZY/?tag=tolees-21'
 descuento: '30.42'
 average: '32.0'

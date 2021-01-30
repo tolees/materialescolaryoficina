@@ -16,6 +16,7 @@ comparePrice: 35.77 EUR
 prodname: 'Rotulador punta fina STABILO point 88 - Estuche premium de tela Rollerset con 30 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BB8LCDE/?tag=tolees-21'
 descuento: '33.88'
 average: '22.19142857142857'

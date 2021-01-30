@@ -16,6 +16,7 @@ comparePrice: 41.98 EUR
 prodname: 'Vbiger Mochilas Escolares Ni?a Mochila Juveniles Adolescentes para 7 a 12 A?os'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3DHV7S/?tag=tolees-21'
 descuento: '40.71'
 average: '23.645'

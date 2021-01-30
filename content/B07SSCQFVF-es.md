@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'Coronel Tapiocca Classic  Mochila Estilo para Hombre  Cuero  43x30x15 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSCQFVF/?tag=tolees-21'
 descuento: '37.77'
 average: '39.605000000000004'

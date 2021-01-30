@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Newcom Mochila para Portátil 600D Poliéster Antirrobo y Resistente al Agua 15.6 Pulgadas Bolsa para Ordenador Negocios Viajes Universidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LCF4V2Y/?tag=tolees-21'
 descuento: '16.67'
 average: '24.99'

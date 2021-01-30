@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'NACATIN Mochila de Senderismo  Mochila de Montañismo 70L  Impermeable Mochila con Cubierta  Viajes de Camping  Montañismo  Excursionismo  Escalada  Trekking  Mochila  Acampada.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNDVYX2/?tag=tolees-21'
 descuento: '45.72'
 average: '37.99'

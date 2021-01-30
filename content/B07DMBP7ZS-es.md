@@ -16,6 +16,7 @@ comparePrice: 3.73 EUR
 prodname: 'APLI 16914 - Forro de libros con solapa ajustable PP 300 mm 5 u.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DMBP7ZS/?tag=tolees-21'
 descuento: '47.72'
 average: '1.95'

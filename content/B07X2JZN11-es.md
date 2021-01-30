@@ -16,6 +16,7 @@ comparePrice: 49.61 EUR
 prodname: 'Eastpak Padded Pak R - Mochila  Azul  Blakout Next   24L  40 x 18 x 30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2JZN11/?tag=tolees-21'
 descuento: '39.55'
 average: '29.99'

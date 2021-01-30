@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'L Oréal Paris Lápiz de Labios Lip Liner Couture by Color Riche 377'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TGV5MQ6/?tag=tolees-21'
 descuento: '20.80'
 average: '7.88'

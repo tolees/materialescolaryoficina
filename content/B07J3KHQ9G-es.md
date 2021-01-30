@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Moleskine - Agenda Diaria de 12 Meses 2020  Tamaño Grande 13 x 21 cm  400 Páginas  Negro  AGENDA 12 MOIS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3KHQ9G/?tag=tolees-21'
 descuento: '28.44'
 average: '11.45'

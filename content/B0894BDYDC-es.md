@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Mochila Hombre Mochila Escolares Juveniles Mochila Universidad Mochila Portatil 17 Pulgadas Mochila para PC con Puerto USB Mochila Enrollable Impermeable - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894BDYDC/?tag=tolees-21'
 descuento: '41.18'
 average: '29.99'

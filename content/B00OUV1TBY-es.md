@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Bourjois Sourcil Precision Lápiz de cejas Tono 6 Blond Clair - 4 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OUV1TBY/?tag=tolees-21'
 descuento: '80.00'
 average: '1.5'

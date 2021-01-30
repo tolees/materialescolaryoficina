@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Sokey - Protector de esquinas  protección para niños y bebés  transparente  protector de bordes de mesa con 1 rollo  cinta adhesiva de doble cara  extra ancho  1 rollo  6 m  20 pies '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X5FWBMQ/?tag=tolees-21'
 descuento: '56.27'
 average: '13.99'

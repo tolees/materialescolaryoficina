@@ -16,6 +16,7 @@ comparePrice: 30.9 EUR
 prodname: 'Karactermania Frozen Element - Mochila Bouquet  Multicolor  Pequeña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQ86G8C/?tag=tolees-21'
 descuento: '58.09'
 average: '12.95'

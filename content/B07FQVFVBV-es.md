@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Targus Groove X2 Compact Carbón Vegetal Mochila - Mochila para portátiles y netbooks  Carbón Vegetal  Monótono  300 D  38 1 cm  15"   Bolsillo Frontal  Bolsillo con Cremallera '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQVFVBV/?tag=tolees-21'
 descuento: '40.05'
 average: '27.962972972972963'

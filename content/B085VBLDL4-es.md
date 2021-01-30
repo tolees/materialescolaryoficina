@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'Carioca Set Colegio Primaria | Material Escolar con Lápices de Colores y de Dibujo  Rotuladores Super Lavables para Niños  Bolígrafos Borrables con Recambios  Goma y Sacapuntas  62 Uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085VBLDL4/?tag=tolees-21'
 descuento: '25.02'
 average: '21.67'

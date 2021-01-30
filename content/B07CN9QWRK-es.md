@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Eastpak Padded Pak R - Mochila  Verde  Crafty Moss   24L  40 x 18 x 30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN9QWRK/?tag=tolees-21'
 descuento: '18.30'
 average: '35.91'

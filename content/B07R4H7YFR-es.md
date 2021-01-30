@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Mochila Ordenador Antirrobo  Hombre Mochila Portatil 15.6 Pulgadas  Multiusos Mujer Daypacks con Puerto de USB para Escolar Negocio Viajes Senderismo Trabajo - 35L Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4H7YFR/?tag=tolees-21'
 descuento: '37.79'
 average: '27.99'

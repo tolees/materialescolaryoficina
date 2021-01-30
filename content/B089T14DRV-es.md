@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'UMBRO Padded Roll Top Backpack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089T14DRV/?tag=tolees-21'
 descuento: '30.00'
 average: '24.5'

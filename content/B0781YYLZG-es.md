@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Totto - Estuche escolar tres compartimentos  23 cm  - Ultrarresistente - Agapec'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781YYLZG/?tag=tolees-21'
 descuento: '30.19'
 average: '11.86'

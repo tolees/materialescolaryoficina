@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Antirrobo Mochila Seguridad Impermeable con Bloqueo Mochila Hombre Portátil 15 6 Pulgadas con Puerto de USB Mochila de Viaje del Trabajo Viaje Negocio Multifuncional Daypack Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8LQRCZ/?tag=tolees-21'
 descuento: '25.01'
 average: '17.99'

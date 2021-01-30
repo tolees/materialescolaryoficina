@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Safe Maddy Mochila Peluche Dragón Para Bebes Y Niños Infantil - Con Arnés De Seguridad Incluido - Ideal Para Guardería - Paseo -viajes Y Como Juguete - 3 En 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VV7JC9S/?tag=tolees-21'
 descuento: '60.01'
 average: '19.99'

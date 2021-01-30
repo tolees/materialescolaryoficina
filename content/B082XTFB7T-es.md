@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Filamento PLA Bronce Ultra Seda 1.75mm  Impresión 3D ERYONE Super PLA Filamento para Impresora 3D y Bolígrafo 3D  1kg 1 Carrete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XTFB7T/?tag=tolees-21'
 descuento: '23.11'
 average: '22.29'

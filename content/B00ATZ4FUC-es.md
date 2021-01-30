@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Alpino AL000656 - Lápices de colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ATZ4FUC/?tag=tolees-21'
 descuento: '32.06'
 average: '3.39'

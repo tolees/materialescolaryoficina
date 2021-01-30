@@ -16,6 +16,7 @@ comparePrice: 18.27 EUR
 prodname: 'Staedtler Mars Lumograph 100 G12 S. Pack de 12 lápices de dibujo de distinta dureza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001OUS8J0/?tag=tolees-21'
 descuento: '24.25'
 average: '13.504999999999999'

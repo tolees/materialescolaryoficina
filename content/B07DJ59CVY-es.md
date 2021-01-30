@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Soarpop Mochila Escolar Portatil de Estilo Clásico para Hombre Mujer Niña Niño  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ59CVY/?tag=tolees-21'
 descuento: '20.01'
 average: '19.99'

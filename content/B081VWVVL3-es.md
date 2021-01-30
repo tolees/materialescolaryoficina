@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Vans Ss20 Realm Backpack  OS Negro Mochila  Mochila Real  VN0A3UI64SG1  Verde  VN0A3UI64SG1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081VWVVL3/?tag=tolees-21'
 descuento: '47.11'
 average: '27.272222222222226'

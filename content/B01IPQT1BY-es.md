@@ -16,6 +16,7 @@ comparePrice: 23.28 EUR
 prodname: '52 pz  Caja de papelería para niños  con marcadores  crayones  Pinturas  sacapuntas  Goma de borrar  etc  Valor excepcional! by RIVENBERT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IPQT1BY/?tag=tolees-21'
 descuento: '60.01'
 average: '9.31'

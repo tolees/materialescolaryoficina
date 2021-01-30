@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Rotuladores de Pintura Acrílica 18 Colores，0.7mm Permanente Marcadores para Pintura de Tela  Cristal  Metal  Ceramica  Madera  Piedras  Plastico  Porcelana  Vidrio  Huevo de Pascua DIY'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FDW78C/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

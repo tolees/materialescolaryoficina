@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'BelleStyle Agua Dibujo Pintura  100*70cm Doodle Alfombra de Agua  Doodle Estera de Agua con Bolígrafos Mágica  Moldes  Sellos  Rueda  Plato de Agua  Folleto de Dibujo para Niños - Juguete Educativo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYH3GKG/?tag=tolees-21'
 descuento: '42.32'
 average: '14.99'

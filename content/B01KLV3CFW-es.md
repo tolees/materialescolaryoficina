@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Under Armour Ua Hustle 3.0  Mochila Unisex  Negro  Black/Black/Silver 001   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KLV3CFW/?tag=tolees-21'
 descuento: '20.70'
 average: '41.49333333333333'

@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Lápiz de Cera 6 Colores  Suaves y Blandas Cera  No Tóxicas  No manchan  Seguras para Niños  para Mayores de 3 Añ Flower Monaco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076TX96WH/?tag=tolees-21'
 descuento: '29.59'
 average: '11.9'

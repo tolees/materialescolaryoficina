@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Ergobaby Mochila Portabebés Ergonomicas Coleccion Original  Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QH2Y7S/?tag=tolees-21'
 descuento: '32.72'
 average: '80.67'

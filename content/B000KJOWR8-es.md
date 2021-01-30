@@ -16,6 +16,7 @@ comparePrice: 16.86 EUR
 prodname: 'APLI 1263 - Etiquetas blancas permanentes 64 6 x 33 8 mm 100 hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KJOWR8/?tag=tolees-21'
 descuento: '24.38'
 average: '12.75'

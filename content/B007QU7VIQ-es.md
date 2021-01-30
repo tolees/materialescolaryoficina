@@ -16,6 +16,7 @@ comparePrice: 33.78 EUR
 prodname: 'Sharpie - Rotuladores permanentes  punta fina  colores surtidos estándares  paquete de 24'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007QU7VIQ/?tag=tolees-21'
 descuento: '42.63'
 average: '20.566666666666666'

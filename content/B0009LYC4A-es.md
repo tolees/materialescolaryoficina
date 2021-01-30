@@ -16,6 +16,7 @@ comparePrice: 19.01 EUR
 prodname: 'DYMO D1 - Etiquetas Auténticas  Impresión Negra sobre Fondo Blanco  6 mm × 7 m  Autoadhesivas para Impresoras de Etiquetas LabelManager'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009LYC4A/?tag=tolees-21'
 descuento: '17.62'
 average: '15.435'

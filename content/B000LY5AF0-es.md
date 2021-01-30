@@ -16,6 +16,7 @@ comparePrice: 71.89 EUR
 prodname: 'Faber-Castell 112160 - Estuche de metal con 60 ecolápices Pitt pastel  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LY5AF0/?tag=tolees-21'
 descuento: '20.07'
 average: '57.46'

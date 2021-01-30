@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Mochila 32 cm Pepe Jeans Jareth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPWXN8H/?tag=tolees-21'
 descuento: '20.37'
 average: '22.005000000000003'

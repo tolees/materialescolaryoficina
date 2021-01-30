@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'Vanguard Alta Sky 45D - Mochila de Transporte  26x19x45cm  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBW2E9Q/?tag=tolees-21'
 descuento: '28.59'
 average: '164.17'

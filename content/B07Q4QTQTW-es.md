@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'deAO Colegio de Muñecas Conjunto 2en 1 de Bus Escolar y Salón de Clase Juguete Convertible para Muñecas Aula de Escuela Versátil con Accesorios Incluidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4QTQTW/?tag=tolees-21'
 descuento: '30.44'
 average: '31.99'

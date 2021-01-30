@@ -16,6 +16,7 @@ comparePrice: 30.35 EUR
 prodname: 'Fdit 48 Color Lápiz Assorted Professional Arte Lápices Colorante Acuarela Pintar Socialme-EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCV549Q/?tag=tolees-21'
 descuento: '32.49'
 average: '20.49'

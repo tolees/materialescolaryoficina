@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Mochila pequeña Pepe Jeans Katia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Z9PM1J/?tag=tolees-21'
 descuento: '30.00'
 average: '17.5'

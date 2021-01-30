@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Mochila de senderismo plegable ultra liviana pequeña  NEEKFOX Mochila de senderismo resistente al agua  Hombres Mujeres Niños Mochila de viaje para deportes al aire libre Camping Ciclismo a pie - 18L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NP3W8BR/?tag=tolees-21'
 descuento: '15.01'
 average: '13.865'

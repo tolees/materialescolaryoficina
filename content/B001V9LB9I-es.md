@@ -16,6 +16,7 @@ comparePrice: 4.24 EUR
 prodname: 'Rimmel London  Lápiz de Cejas  Marrón Oscuro  1 4 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001V9LB9I/?tag=tolees-21'
 descuento: '78.77'
 average: '0.9'

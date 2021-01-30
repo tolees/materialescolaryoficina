@@ -16,6 +16,7 @@ comparePrice: 8.45 EUR
 prodname: 'CASIO SL-310UC-PK - Calculadora  0.8 x 7 x 11.8 cm  color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076BCZDXT/?tag=tolees-21'
 descuento: '24.26'
 average: '5.5842857142857145'

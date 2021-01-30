@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Faber Castell B-9067-2B - Blíster tubo de 12 minas  0.7 mm 2B  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01842TWWC/?tag=tolees-21'
 descuento: '70.78'
 average: '1.75'

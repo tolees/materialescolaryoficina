@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'PLATERO P-U01B  Mochila unisex para computador portátil  15 6 pulgadas  Resistente al agua  con cremallera anti ladrón  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010DGR3VO/?tag=tolees-21'
 descuento: '61.92'
 average: '22.49'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Huawei Pen - Lápiz óptico para MatePad Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087QM21GT/?tag=tolees-21'
 descuento: '20.20'
 average: '79.0'

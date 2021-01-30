@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'PEKITAS- Pack Cinta 5 Metros +12 Esquinas + Cinta Adhesiva  Protección Bordes y Esquinas Hiper Grueso Denso Extra Ancho Amortiguación Golpes  Pack Rosa:Cinta 5m+12 esquinas+cinta adhesiva '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DM35CZ4/?tag=tolees-21'
 descuento: '44.20'
 average: '13.95'

@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'Pilot 151927 - Bolígrafo borrable  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005Z0OW1I/?tag=tolees-21'
 descuento: '15.59'
 average: '2.49'

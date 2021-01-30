@@ -16,6 +16,7 @@ comparePrice: 59.94 EUR
 prodname: 'Neusky - Bolsa Escolar Azul Blau1 Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLM9HK9/?tag=tolees-21'
 descuento: '56.64'
 average: '25.99'

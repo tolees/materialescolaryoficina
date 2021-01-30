@@ -16,6 +16,7 @@ comparePrice: 82.99 EUR
 prodname: 'Pawhut Transportin Carrito Perro 2 en 1 Mochila Carrito Plegable 65x37x46cm Mascotas Perro Gato'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YK894BQ/?tag=tolees-21'
 descuento: '27.29'
 average: '60.34'

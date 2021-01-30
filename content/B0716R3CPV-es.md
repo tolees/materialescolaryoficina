@@ -16,6 +16,7 @@ comparePrice: 3.12 EUR
 prodname: 'Bourjois Khol & Contour Lápiz de ojos Tono 3 Misti-gris - 4 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0716R3CPV/?tag=tolees-21'
 descuento: '36.22'
 average: '1.99'

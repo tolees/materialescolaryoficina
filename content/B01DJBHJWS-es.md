@@ -16,6 +16,7 @@ comparePrice: 26.22 EUR
 prodname: 'Parker Jotter Premium Tower Grey Diagonal bolígrafo CT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DJBHJWS/?tag=tolees-21'
 descuento: '58.09'
 average: '10.99'

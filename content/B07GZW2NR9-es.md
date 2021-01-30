@@ -16,6 +16,7 @@ comparePrice: 22.47 EUR
 prodname: 'Nike NESS7159-483 Mochila  Azul  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZW2NR9/?tag=tolees-21'
 descuento: '32.09'
 average: '21.683333333333334'

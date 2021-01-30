@@ -16,6 +16,7 @@ comparePrice: 21.18 EUR
 prodname: 'Parker Jotter  Bolígrafo  1  Bronze Gothic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0753KBSNP/?tag=tolees-21'
 descuento: '18.04'
 average: '17.36'

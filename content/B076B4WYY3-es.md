@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Casio MS-20UC-BU - Calculadora  2.3 x 10.5 x 14.95 cm  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076B4WYY3/?tag=tolees-21'
 descuento: '49.79'
 average: '6.0'

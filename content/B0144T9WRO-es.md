@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'APLI Kids - Bolsa de gomets  3 hojas  La primavera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0144T9WRO/?tag=tolees-21'
 descuento: '49.87'
 average: '2.0'

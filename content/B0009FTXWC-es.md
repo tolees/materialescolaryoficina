@@ -16,6 +16,7 @@ comparePrice: 26.98 EUR
 prodname: 'Casio FX-570ES PLUS - Calculadora científica 80 x 162 x 13.8 mm  plata/azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009FTXWC/?tag=tolees-21'
 descuento: '25.91'
 average: '19.25'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Funda para iPad  9 7 Pulgadas  2018/2017 Modelo  6ª / 5ª generación   con Soporte para lápiz  Carcasa con Auto-Sueño/Estela  Compatibles Apple iPad Air 2 / iPad Air Modelo  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNSVYNY/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

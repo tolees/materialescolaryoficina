@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'RE Lápiz Táctil 2.ª generación para Apple iPad 2018 y 2019 con Palm Rejection  1mm Fine Tip  Lápiz iPad Pencil Recargable Compatible con Apple iPad 6.ª/Air 3.ª/Mini 5.ª/Pro 11/ Pro 12.9 3.ª '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MNBTVC/?tag=tolees-21'
 descuento: '42.86'
 average: '39.99'

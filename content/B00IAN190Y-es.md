@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Sammies by Samsonite - Bolsa escolar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IAN190Y/?tag=tolees-21'
 descuento: '82.12'
 average: '4.46'

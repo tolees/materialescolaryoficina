@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Arteza Recambios de bolígrafo de gel azul | Paquete de 50 recargas de bolígrafo de tinta de gel azul | Secado rápido  sin tóxicos | Punta fina para escribir  tomar notas y dibujar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQRY4G6/?tag=tolees-21'
 descuento: '60.36'
 average: '9.51'

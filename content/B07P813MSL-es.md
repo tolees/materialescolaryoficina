@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Leathario Portafolio A4 Piel Portadocumentos Cremalleras de Viaje Carpeta de Conferencias de Cuero Imitación Organizadora Profesional Comercial de Negocios con Calculadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P813MSL/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

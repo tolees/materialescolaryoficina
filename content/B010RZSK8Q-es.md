@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Lixada Mochila de Senderismo 50L/60L con Cubierta Impermeable Mochila de Marcha Trekking Camping Deporte al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010RZSK8Q/?tag=tolees-21'
 descuento: '21.74'
 average: '35.99'

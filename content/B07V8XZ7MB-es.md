@@ -16,6 +16,7 @@ comparePrice: 21.66 EUR
 prodname: 'Tommy Hilfiger - Kids Core Drawstring Backpack  Mochilas Unisex Niños  Negro  Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8XZ7MB/?tag=tolees-21'
 descuento: '17.73'
 average: '17.82'

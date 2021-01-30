@@ -16,6 +16,7 @@ comparePrice: 4.34 EUR
 prodname: 'Paper Mate InkJoy 100RT  bolígrafo retráctil  punta media de 1 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F3BYALU/?tag=tolees-21'
 descuento: '31.57'
 average: '2.934'

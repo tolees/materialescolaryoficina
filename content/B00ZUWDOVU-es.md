@@ -16,6 +16,7 @@ comparePrice: 34.98 EUR
 prodname: 'Under Armour Ua Hustle Backpack Ldwr  Mochila Hombre  Gris  Graphite/Graphite/Silver 040   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZUWDOVU/?tag=tolees-21'
 descuento: '44.57'
 average: '24.84285714285714'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Samsonite Paradiver Light Mochila Infantil  S+  42 cm 10 L   Blanco  Stormtrooper White Mesh '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YTP7W6D/?tag=tolees-21'
 descuento: '42.05'
 average: '39.83'

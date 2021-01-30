@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Mochila Infantil 3D  Estuche Escolar y Bolsa Merienda de Cuerdas – Patrulla Canina | Mochilas Escolares para Niños y Niñas de 3 Años | Material Escolar Vuelta al Cole de Patrulla Canina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FBHPDM8/?tag=tolees-21'
 descuento: '32.04'
 average: '16.275714285714287'

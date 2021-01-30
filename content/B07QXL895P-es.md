@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Patterson Mochila  Unisex Adulto  Multicolor  46.7 x 30.2 x 11.4 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXL895P/?tag=tolees-21'
 descuento: '38.58'
 average: '17.98'

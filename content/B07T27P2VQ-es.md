@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Armani Exchange Liz - Mochila  28 x 8 x 26 cm  color Beige  talla 28x8x26 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T27P2VQ/?tag=tolees-21'
 descuento: '51.62'
 average: '62.89'

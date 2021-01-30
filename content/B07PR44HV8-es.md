@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Unidad Memoria Flash USB 3.0 128GB Memoria Lápiz Drive OTG PHICOOL [4 en 1] con Type C Conector USB Mirco Expansión de Memoria para iPhone  iPad  Android  PC - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PR44HV8/?tag=tolees-21'
 descuento: '15.00'
 average: '42.49'

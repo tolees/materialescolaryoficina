@@ -16,6 +16,7 @@ comparePrice: 62 EUR
 prodname: 'Mochila con carro Pepe Jeans Olaia doble compartimento rosa 44cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRMDNMF/?tag=tolees-21'
 descuento: '41.13'
 average: '38.125'

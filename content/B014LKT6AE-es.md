@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Lego Ninjago Mochila para niños Ninja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014LKT6AE/?tag=tolees-21'
 descuento: '52.51'
 average: '9.95'

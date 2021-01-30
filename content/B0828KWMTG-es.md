@@ -16,6 +16,7 @@ comparePrice: 30.75 EUR
 prodname: 'Lápices de Colores para niños  Surtido de 24 Colores  Apto para niños pequeños  Producto Seguro y no tóxico Flower Monaco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0828KWMTG/?tag=tolees-21'
 descuento: '51.54'
 average: '14.9'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: '5 Dry Erase Pockets | Fundas Reutilizables Fichas Papel A4 | Tamaño Grande 36x26cm | PET Reciclable Ecológico | 5 Colores 5 Rotuladores Borrador y Globo | Material Escolar Colegio Guardería Ludoteca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2B6JCT/?tag=tolees-21'
 descuento: '50.25'
 average: '9.9'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Kipling SEOUL PACKABLE - Mochila escolar  22.5 liters  Negro  BLACK LIGHT '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HTF73/?tag=tolees-21'
 descuento: '44.47'
 average: '25.50454545454545'

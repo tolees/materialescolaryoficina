@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Head Core Backpack Bolsa de Tenis  Adultos Unisex  Gris/Naranja  Otro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XC2NL4Z/?tag=tolees-21'
 descuento: '23.63'
 average: '22.91'

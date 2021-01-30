@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Diesel F-DISCOVER CROSS  Mochila para Hombre  Negro  Black   4x19.5x15 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQQBLX9/?tag=tolees-21'
 descuento: '50.00'
 average: '25.0'

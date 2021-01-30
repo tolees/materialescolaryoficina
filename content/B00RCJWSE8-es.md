@@ -16,6 +16,7 @@ comparePrice: 36.77 EUR
 prodname: '3M Post-It 654-SS-VP24COL-EU - Pack de 24 x 90 notas adhesivas /Bloc de notas Post it 76 x 76 mm  colores: neón  naranja  fucsia  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RCJWSE8/?tag=tolees-21'
 descuento: '40.33'
 average: '26.85375'

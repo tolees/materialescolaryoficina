@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Telescópico Magnético CHIFOOM 2pcs Pick Up Tool，Extensible，que Se Extiende hasta 66 cm con Clip para Bolígrafo para Recoger Tornillos Tuercas Objetos de Metal  1LB  Negro，Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082ZZY3SJ/?tag=tolees-21'
 descuento: '50.14'
 average: '8.97'

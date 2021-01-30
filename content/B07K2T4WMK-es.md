@@ -16,6 +16,7 @@ comparePrice: 23.24 EUR
 prodname: 'Agarrador de Lápiz  Firesara Nuevo diseño ergonómicas empuñaduras de lápiz de arco iris para niños Escritura a mano  Lápiz Agarre Postura Corrección Capacitación Ayudas de escritura para adultos Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2T4WMK/?tag=tolees-21'
 descuento: '57.01'
 average: '9.99'

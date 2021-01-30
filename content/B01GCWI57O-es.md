@@ -16,6 +16,7 @@ comparePrice: 7.61 EUR
 prodname: 'Paper Mate Dryline Cinta de corrección  5 mm x 8.5 m  4 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GCWI57O/?tag=tolees-21'
 descuento: '22.47'
 average: '5.745'

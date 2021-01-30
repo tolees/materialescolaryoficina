@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'SHIELDON Mochila para Portátil 17 Pulgadas  Mochila Ordenador Hombre Mochila Antirrobo Impermeable con Cinta Reflectiva  Mochila Grande Escalable Mochila de Viaje Mochilas Negocios  23-38L  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081MXWNQM/?tag=tolees-21'
 descuento: '18.46'
 average: '52.99'

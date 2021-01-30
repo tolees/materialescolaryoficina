@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'HOTLIFE Funda Teclado para iPad Mini 5 2019/Mini 4 2015  Funda 7.9   con Ranura de Lápiz y Teclado Español  Incluye Letra Ñ  Bluetooth Inalámbrico para iPad Mini 5/Mini 4 con Soporte Multiángulo Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PX9TTX6/?tag=tolees-21'
 descuento: '27.79'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger POPPY BACKPACK CORPMujerBolsos bandoleraBlanco  Corporate  13x40x31 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8JTKRS/?tag=tolees-21'
 descuento: '29.98'
 average: '69.95'

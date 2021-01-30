@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'iPad Lápiz Stylus  Tiempo de Trabajo de 40 Horas Espera de 30 días & Lápiz Capacitivo Activo con Punta y Precisa Aprobado por CE & RoHs Estilos de Pantalla Táctil Compatible de iPad Serie'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG9BY1G/?tag=tolees-21'
 descuento: '66.69'
 average: '17.556666666666665'

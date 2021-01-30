@@ -16,6 +16,7 @@ comparePrice: 4.89 EUR
 prodname: 'Trixie Tijeras Punta Redonda INOX  Cara y Patas  9 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000QC2ZQO/?tag=tolees-21'
 descuento: '53.17'
 average: '2.29'

@@ -16,6 +16,7 @@ comparePrice: 4.05 EUR
 prodname: 'Faber-Castell - Vaso para el agua Clic & Go plegable fácil de guardar  color verde y oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007TYWDQE/?tag=tolees-21'
 descuento: '23.46'
 average: '3.1'

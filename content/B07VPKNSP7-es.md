@@ -16,6 +16,7 @@ comparePrice: 20.85 EUR
 prodname: 'CARIOCA Oops Rojos| Set Bolígrafos Borrables Recargables con Tapa para el Colegio  Universidad y Oficina con Doble Goma Incorporada y Agarre Ergonómico  Bolígrafos Rojos 12 Uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPKNSP7/?tag=tolees-21'
 descuento: '38.32'
 average: '12.86'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen Loke Backpack Mochila  Unisex adulto  Royal Blue  25L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFBR1RJ/?tag=tolees-21'
 descuento: '52.30'
 average: '41.64'

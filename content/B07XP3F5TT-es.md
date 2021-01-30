@@ -16,6 +16,7 @@ comparePrice: 29.69 EUR
 prodname: 'Cámara enchufable Grabadora de conferencias Grabadora de Video Lápiz de grabación Exquisito Portátil Compacto Negocio eficiente 32Gb - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XP3F5TT/?tag=tolees-21'
 descuento: '32.00'
 average: '20.19'

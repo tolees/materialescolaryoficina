@@ -16,6 +16,7 @@ comparePrice: 14.19 EUR
 prodname: 'Rotulador Fudenosuke Doble Punta Gris Y Negro Tombow'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JKT2M4O/?tag=tolees-21'
 descuento: '57.36'
 average: '6.05'

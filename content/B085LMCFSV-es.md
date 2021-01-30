@@ -16,6 +16,7 @@ comparePrice: 42.8 EUR
 prodname: 'MKTOSASA - Mochila Multiusos en Resistente poliéster 600D de Acabado Denim. De diseño Urbano  Incluye Compartimento isotérmico Independiente con Cobertura de PEVA para Fiambrera - 30x62x13 Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LMCFSV/?tag=tolees-21'
 descuento: '19.98'
 average: '34.25'

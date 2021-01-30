@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Luz Nocturna  Mejorar 78 LEDs Led Armario con Sensor de Movimiento Recargable 4 Modos con Cinta Adhesiva Magnética para Armario  Pasillo  Estantería  Escalera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YY6TLX2/?tag=tolees-21'
 descuento: '20.01'
 average: '23.99'

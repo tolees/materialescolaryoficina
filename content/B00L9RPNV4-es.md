@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Eastpak Provider Mochila  44 cm  33 L  Gris  Black Denim '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L9RPNV4/?tag=tolees-21'
 descuento: '37.23'
 average: '59.41666666666667'

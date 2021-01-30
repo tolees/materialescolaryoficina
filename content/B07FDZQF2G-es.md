@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'Vintage Mochila Mujer Bolsos Mochila Hombre Antirrobo Mochila Portatil 15 6 Pulgadas Trabajo Impermeable Camping Deportiva Casual College Daypack  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDZQF2G/?tag=tolees-21'
 descuento: '47.89'
 average: '36.99'

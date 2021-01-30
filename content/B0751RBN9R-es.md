@@ -16,6 +16,7 @@ comparePrice: 146.55 EUR
 prodname: 'iskn The Slate 2+ Lápiz y Papel Tableta gráfica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0751RBN9R/?tag=tolees-21'
 descuento: '16.51'
 average: '141.78333333333333'

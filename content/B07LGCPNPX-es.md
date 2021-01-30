@@ -16,6 +16,7 @@ comparePrice: 28.85 EUR
 prodname: 'Silver Tulip Mochila para portátil Universidad Hombros Niños Escuela Bolsas de Libros Mochila para niñas  Rosa  Medio con Puerto USB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGCPNPX/?tag=tolees-21'
 descuento: '25.03'
 average: '21.665'

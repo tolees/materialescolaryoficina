@@ -16,6 +16,7 @@ comparePrice: 53.0 EUR
 prodname: 'Mochila Doble Cremallera Pepe Jeans Uma azul marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9KP4SX/?tag=tolees-21'
 descuento: '19.81'
 average: '42.5'

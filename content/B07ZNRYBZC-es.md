@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'YAMTION Mochila Mujer Mochilas Escolares Niña Mochila para Portátil 15 6 Pulgadas Mochilas para Ordenador con Puerto USB Mochilas Señora Bolsa de Escuela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZNRYBZC/?tag=tolees-21'
 descuento: '34.79'
 average: '29.99'

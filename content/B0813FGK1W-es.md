@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Portalápices 5 Piezas de Escritorio de Organizador de Pluma de Lápices para Oficina y Escuela Casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813FGK1W/?tag=tolees-21'
 descuento: '29.39'
 average: '6.32'

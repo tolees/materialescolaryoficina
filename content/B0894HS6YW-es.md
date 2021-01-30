@@ -16,6 +16,7 @@ comparePrice: 27.79 EUR
 prodname: 'Dazspirit 36 Colores Caja Acuarelas Profesionales & Papel de Acuarela. Versátil  Vibrante y Portátil  36 colores '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894HS6YW/?tag=tolees-21'
 descuento: '17.27'
 average: '22.99'

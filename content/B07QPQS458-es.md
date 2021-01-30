@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Pistola de Silicona  G★LAXIA Pistola de Pegar 100 W Con 10PCS 11.8mm Barras de Pegamento Calentamiento Rápid  Gatillo flexible  para Proyectos de Bricolaje y Manualidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPQS458/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 11.61 EUR
 prodname: '4170 00 - Paquete 24 rotuladores Giotto Turbo Color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0054Y5JCQ/?tag=tolees-21'
 descuento: '64.43'
 average: '3.96'

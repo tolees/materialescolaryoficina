@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Valentino by Mario - Superman  Bolsos mochila Mujer  Azul  Navy   16x32x29 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSNQ1BS/?tag=tolees-21'
 descuento: '30.44'
 average: '83.47'

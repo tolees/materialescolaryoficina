@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'HP Odyssey - Mochila para portátiles de hasta 15.6" de Color Negro  335 x 155 x 465 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VTPOH7M/?tag=tolees-21'
 descuento: '17.36'
 average: '40.79'

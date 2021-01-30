@@ -16,6 +16,7 @@ comparePrice: 3.9 EUR
 prodname: 'Edding 1200 – Rotuladores de colores pastel – Punta redonda 1 mm – Juego de 6 – Para escribir y pintar de forma creativa  para notas  dibujos  letras de mano y diario de bullet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRXCRMG/?tag=tolees-21'
 descuento: '25.64'
 average: '3.98'

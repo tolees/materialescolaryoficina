@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'BEZOX Cortaúñas con mango de madera  juego de cortaúñas para uñas encarnadas gruesas y duras  tijeras para uñas afiladas y lima de uñas de metal - Caja de regalo de metal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GLRBDTQ/?tag=tolees-21'
 descuento: '44.02'
 average: '13.99'

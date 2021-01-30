@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Samsonite Spectrolite 2.0 Laptop Backpack 43 9 cm  17.3"  Bumper Gris - Funda  Bumper  43 9 cm  17.3"   Expandible  Tirante para hombro  1 5 kg  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CNFXGJ/?tag=tolees-21'
 descuento: '30.00'
 average: '122.5'

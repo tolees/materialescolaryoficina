@@ -16,6 +16,7 @@ comparePrice: 30.98 EUR
 prodname: 'Campingaz Urban Picnic Bacpac 30L - Nevera Flexible Formato Mochila'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019X3ENRU/?tag=tolees-21'
 descuento: '35.77'
 average: '21.69454545454545'

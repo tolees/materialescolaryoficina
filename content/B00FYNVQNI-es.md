@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'Faber Castell 167004 - Estuche con 4 rotuladores calibrados ECCO Pigment con grosores de trazo de 0.2  0.4  0.6  0.8  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FYNVQNI/?tag=tolees-21'
 descuento: '50.45'
 average: '5.906666666666667'

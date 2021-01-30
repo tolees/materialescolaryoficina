@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'RJEU Mochila Mujer  15.6-17.3 Pulgadas Mochila Ordenador Portatil con Puerto de Carga USB para la Escola  Universidad  Viajes  Negocios  Flor-26L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083MWZJPH/?tag=tolees-21'
 descuento: '25.64'
 average: '25.99'

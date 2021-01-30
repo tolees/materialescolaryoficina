@@ -16,6 +16,7 @@ comparePrice: 76.99 EUR
 prodname: 'K&F Concept Mochila Fotografia para Cámara Reflex con Funda para Lluvia para Laptop Portátil 14" y Trípode '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084FXVKVW/?tag=tolees-21'
 descuento: '22.08'
 average: '58.49'

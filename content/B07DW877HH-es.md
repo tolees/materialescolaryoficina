@@ -16,6 +16,7 @@ comparePrice: 62.0 EUR
 prodname: 'Pepe Jeans Jill Mochila con carro  doble compartimento  44 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DW877HH/?tag=tolees-21'
 descuento: '29.84'
 average: '43.5'

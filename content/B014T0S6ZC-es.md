@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Pritt Cola blanca universal  de secado transparente y aplicación directa  100 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014T0S6ZC/?tag=tolees-21'
 descuento: '49.92'
 average: '2.7749999999999995'

@@ -16,6 +16,7 @@ comparePrice: 10.08 EUR
 prodname: 'Parker Jotter Originals Colección de bolígrafos  acabado clásico naranja  punta mediana  tinta azul  una unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PL1CWYT/?tag=tolees-21'
 descuento: '39.48'
 average: '6.1'

@@ -16,6 +16,7 @@ comparePrice: 16.89 EUR
 prodname: 'Pilot G-2 - Bolígrafo de tinta gel con trazo fino  azul  0 7 mm  tamaño XS  12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002GJN75I/?tag=tolees-21'
 descuento: '20.13'
 average: '13.49'

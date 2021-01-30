@@ -16,6 +16,7 @@ comparePrice: 16.17 EUR
 prodname: 'CestMall Scratch Art  Hojas Dibujo Scratch Láminas para Rascar Creativas Papel para Dibujar con Niños  Manualidades  Escribir Listas  2 lápices de Madera100 Hojas de Papel Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081ZST46N/?tag=tolees-21'
 descuento: '32.03'
 average: '10.99'

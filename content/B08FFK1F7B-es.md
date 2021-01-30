@@ -16,6 +16,7 @@ comparePrice: 19.26 EUR
 prodname: 'luosh Modelo de Arcilla  Kit de cortadores de Arcilla para Masa útil  plastilina para Manualidades  Molde de extrusión de Arcilla  Juego de Herramientas  Juguetes para Aprender a Jugar a los niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FFK1F7B/?tag=tolees-21'
 descuento: '50.00'
 average: '9.63'

@@ -16,6 +16,7 @@ comparePrice: 24.35 EUR
 prodname: 'Posca 153544841 - Pack de 8 rotuladores de pintura al agua  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076MWFG1Z/?tag=tolees-21'
 descuento: '38.73'
 average: '16.60333333333333'

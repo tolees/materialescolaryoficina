@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Ceras Manley 10 Colores 6cm =000330='
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPC4KX3/?tag=tolees-21'
 descuento: '60.00'
 average: '2.6'
