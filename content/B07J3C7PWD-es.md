@@ -28,10 +28,10 @@ Ahora mismo tienes [Under Armour UA Scrimmage 2.0 Backpack  mochila unisex  moch
 
 🔎:
 
-- Dos compartimentos principales con cremallera y un bolsillo de fácil acceso en la parte delantera
 - Bolsillo de malla para botellas de agua a ambos laterales
-- Tecnología UA Storm que repele el agua sin sacrificar la transpirabilidad
 - Correas para los hombros HeatGear acolchada y regulable para una total comodidad
 - Funda para ordenador portátil con forro suave y capacidad para MacBook Pro de 15” u ordenadores de tamaño similar
+- Tecnología UA Storm que repele el agua sin sacrificar la transpirabilidad
+- Dos compartimentos principales con cremallera y un bolsillo de fácil acceso en la parte delantera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07J3C7PWD/?tag=tolees-21)
