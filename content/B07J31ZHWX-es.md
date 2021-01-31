@@ -28,10 +28,10 @@ Está [Under Armour UA Scrimmage 2.0 Backpack  mochila unisex  mochila resistent
 
 ℹ️:
 
+- Correas para los hombros HeatGear acolchada y regulable para una total comodidad
 - Dos compartimentos principales con cremallera y un bolsillo de fácil acceso en la parte delantera
 - Bolsillo de malla para botellas de agua a ambos laterales
 - Tecnología UA Storm que repele el agua sin sacrificar la transpirabilidad
-- Correas para los hombros HeatGear acolchada y regulable para una total comodidad
 - Funda para ordenador portátil con forro suave y capacidad para MacBook Pro de 15” u ordenadores de tamaño similar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07J31ZHWX/?tag=tolees-21)

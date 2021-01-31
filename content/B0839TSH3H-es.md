@@ -28,10 +28,10 @@ En este momento está [Roxy Fresh Air  Mochila plegable. para Mujer  Color gris 
 
 🔎:
 
-- Straps: adjustable shoulder straps.
-- Fabric: printed light polyester Repreve and mesh, print placement may differ slightly
-- Compartments: 1 main zip-up compartment, 1 front zip-up compartment, 1 inside zip-up pocket to pach your backpack.
 - Roxy screen logo, informative patch
 - Type: packable backpack.
+- Fabric: printed light polyester Repreve and mesh, print placement may differ slightly
+- Straps: adjustable shoulder straps.
+- Compartments: 1 main zip-up compartment, 1 front zip-up compartment, 1 inside zip-up pocket to pach your backpack.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0839TSH3H/?tag=tolees-21)

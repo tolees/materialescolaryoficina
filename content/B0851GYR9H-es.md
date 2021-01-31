@@ -29,9 +29,9 @@ Tienes [Karactermania Harry Potter School - Mochila Running HS 1.2  Negro](https
 🔎:
 
 - Conector estéreo de 3,5mm para auriculares
+- Dimensiones: 44 x 30 x 17cm
+- Forro interior con bolsillo acolchado para dispositivos electrónicos
 - Mochila con tres compartimentos, trasera acolchada y adaptable a carro
 - Puerto uspara cargar el móvil mediante power bank (no incluida)
-- Forro interior con bolsillo acolchado para dispositivos electrónicos
-- Dimensiones: 44 x 30 x 17cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0851GYR9H/?tag=tolees-21)
