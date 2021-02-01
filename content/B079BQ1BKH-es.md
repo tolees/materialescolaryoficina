@@ -28,10 +28,10 @@ Está [XP-Pen G430S Tableta de Dibujo Gráfico 4 x 3 Pulgadas para OSU! con Láp
 
 ℹ️:
 
-- El G430S se puede usar con sistemas operativos Windows 10/8/7, Mac 10.10 y superior. La compatibilidad siempre se mejora constantemente a través de nuestras actualizaciones de controladores.
-- ¡Diseñado para OSU! jugabilidad, dibujo, pintura, bocetos, firmas electrónicas, etc. ¡No es necesario instalar controladores para OSU!
-- ¡El reemplazo perfecto para un ratón tradicional!El lapiz avanzado sin batería XP-Pen no requiere carga, lo que permite Draw and Play ininterrumpido
-- La tasa de informe del G430S se ha incrementado a 266 RPS, lo que hace que las líneas fluyan de forma más rápida y suave, mejorando el rendimiento general.
 - Área activa: 4 x 3 pulgadas. Aproveche al máximo nuestros 8192 niveles de sensibilidad a la presión, brindándole un control innovador y fluidez para expandir su producción creativa.
+- La tasa de informe del G430S se ha incrementado a 266 RPS, lo que hace que las líneas fluyan de forma más rápida y suave, mejorando el rendimiento general.
+- El G430S se puede usar con sistemas operativos Windows 10/8/7, Mac 10.10 y superior. La compatibilidad siempre se mejora constantemente a través de nuestras actualizaciones de controladores.
+- ¡El reemplazo perfecto para un ratón tradicional!El lapiz avanzado sin batería XP-Pen no requiere carga, lo que permite Draw and Play ininterrumpido
+- ¡Diseñado para OSU! jugabilidad, dibujo, pintura, bocetos, firmas electrónicas, etc. ¡No es necesario instalar controladores para OSU!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079BQ1BKH/?tag=tolees-21)
