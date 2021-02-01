@@ -31,7 +31,7 @@ Tienes [3M Post-it C50 - Organizador de escritorio – Incluye 1 bloc de notas  
 - Incluye: Un Bloc de Notas Post-it, Marcadores Post-it Index y Cinta Scotch Magic, fabricados con material 100 % reciclado preconsumo
 - Práctico: Post it Organizador de mesa evita el desorden del escritorio gracias a sus 7 compartimentos para todo el material de oficina: bolígrafos, calculadoras, tarjetas de visita y más
 - Cómodo: Organizador de oficina que permite tener el material de escritorio, el dispensador de cinta y las notas adhesivas a mano, ¡el sueño de los amantes del Post it!
-- Diseño original: Organizador de escritorio multifunción color plateado, de plástico resistente y con la parte inferior antideslizante, ¡accesorio de oficina ideal!
 - Contenido del envío: Post-it C50 (16,8 x 25,6 x 6,8 cm), 1 bloc de Notas Post-it amarillo (76 x 76 mm), 4 Post-it Index de colores (11,9 x 43,2 mm), 1 x Cinta Scotch Magic (19 mm x 33 m)
+- Diseño original: Organizador de escritorio multifunción color plateado, de plástico resistente y con la parte inferior antideslizante, ¡accesorio de oficina ideal!
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000SHPK5U/?tag=tolees-21)

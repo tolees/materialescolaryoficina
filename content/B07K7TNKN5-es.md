@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 22.09 % en APLI Kids Memory casita Safari  16820 '
-date: 2021-01-31 14:04:17
+date: 2021-02-01 20:12:54
 image: 'https://m.media-amazon.com/images/I/51oC7tGGWjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'APLI Kids'
 buyurl: 'https://www.amazon.es/dp/B07K7TNKN5/?tag=tolees-21'
 descuento: '22.09'
-average: '5.69714285714285'
+average: '5.61999999999999'
 ---
 
 Tienes [APLI Kids Memory casita Safari  16820 ](https://www.amazon.es/dp/B07K7TNKN5/?tag=tolees-21) con un 22.09 % de descuento con precio de oferta de 5.08 EUR (original: 6.52 EUR) en el siguiente enlace!
