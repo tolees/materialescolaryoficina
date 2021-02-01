@@ -28,12 +28,12 @@ En este momento está [Jovi 152818 - Caja de 12 botes de tempera escolar de 35 m
 
 🔎:
 
-- Incluyen pincel
+- Ideal para utilizar sobre papel cartulina madera tela pasta de modelar y arcilla
+- Para uso escolar
+- Caja de 12 botes de témpera Jovi surtidos
 - Pintura al agua
 - 12 colores surtidos: amarillo amarillo limón azul azul cyan blanco magenta marrón naranja negro rojo verde claro y verde oscuro
-- Para uso escolar
 - Secado rápido
-- Ideal para utilizar sobre papel cartulina madera tela pasta de modelar y arcilla
-- Caja de 12 botes de témpera Jovi surtidos
+- Incluyen pincel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KL28BJY/?tag=tolees-21)
