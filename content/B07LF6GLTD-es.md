@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'BIC Gel-ocity Quick Dry - Blíster de 6 u al 22.51 % de descuento'
-date: 2020-07-24 14:39:34
+title: 'BIC Gel-ocity Quick Dry Bolígrafos de Ge al 41.03 % de descuento'
+date: 2021-02-02 16:51:18
 image: 'https://m.media-amazon.com/images/I/51rwsBnUXRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF6GLTD-es BIC Gel-ocity Quick Dry - Blíster de 6 unidades bolígrafos...'
+slug: 'B07LF6GLTD-es BIC Gel-ocity Quick Dry Bolígrafos de Gel de punta media 0...'
 sku: 'B07LF6GLTD-es'
-tags: [ 'bolígrafos', ]
-actualPrice: 10.5 EUR
+tags: [ 'bolígrafo','bolígrafos', ]
+actualPrice: 7.99 EUR
 currency: EUR
-price: 10.5
+price: 7.99
 comparePrice: 13.55 EUR
-prodname: 'BIC Gel-ocity Quick Dry - Blíster de 6 unidades  bolígrafos de Gel  colores surtidos'
+prodname: 'BIC Gel-ocity Quick Dry Bolígrafos de Gel de punta media  0 7mm  - Colores Surtidos  Blíster de 6 Unidades – Bolígrafo retráctil con tinta de secado ultrarrápido'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'BIC'
 buyurl: 'https://www.amazon.es/dp/B07LF6GLTD/?tag=tolees-21'
-descuento: '22.51'
-average: '9.34076923076923'
+descuento: '41.03'
+average: '9.16066666666666'
 ---
 
-Está [BIC Gel-ocity Quick Dry - Blíster de 6 unidades  bolígrafos de Gel  colores surtidos](https://www.amazon.es/dp/B07LF6GLTD/?tag=tolees-21) con 22.51 de descuento por 10.5 EUR (original: 13.55 EUR) en el siguiente enlace!
+Está [BIC Gel-ocity Quick Dry Bolígrafos de Gel de punta media  0 7mm  - Colores Surtidos  Blíster de 6 Unidades – Bolígrafo retráctil con tinta de secado ultrarrápido](https://www.amazon.es/dp/B07LF6GLTD/?tag=tolees-21) con 41.03 de descuento por 7.99 EUR (original: 13.55 EUR) en el siguiente enlace!
 
-[![BIC Gel-ocity Quick Dry - Blíster de 6 u](https://m.media-amazon.com/images/I/51rwsBnUXRL._SL200_.jpg)](https://www.amazon.es/dp/B07LF6GLTD/?tag=tolees-21)
+[![BIC Gel-ocity Quick Dry Bolígrafos de Ge](https://m.media-amazon.com/images/I/51rwsBnUXRL._SL200_.jpg)](https://www.amazon.es/dp/B07LF6GLTD/?tag=tolees-21)
 
 ℹ️:
 
+- Esta luminosa tinta en gel se desliza por la página con una fluidez insólita
+- Este blíster contiene un surtido de 6 colores que combina los tonos clásicos con otros de temporada
+- El grip integral de su cuerpo ha sido diseñado para optimizar el manejo y ofrecer la máxima comodidad
+- Este bolígrafo de gel de punta media contiene una tinta de secado ultrarrápido que no gotea ni cala, adecuada para zurdos
+- Cuenta con un práctico sistema de punta retráctil con un solo clic
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LF6GLTD/?tag=tolees-21)
