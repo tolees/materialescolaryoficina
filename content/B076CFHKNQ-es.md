@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Samsonite Spectrolite 2.0 35 8 cm  14.1" al 36.03 % de descuento'
-date: 2020-10-01 17:31:01
+title: 'Samsonite LAPTOP BACKPACK 14.1"  GREY/BL al 17.34 % de descuento'
+date: 2021-02-03 18:15:46
 image: 'https://m.media-amazon.com/images/I/41fH0gNOrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CFHKNQ-es Samsonite Spectrolite 2.0 35 8 cm 14.1" Mochila Negro Gris...'
+slug: 'B076CFHKNQ-es Samsonite LAPTOP BACKPACK 14.1" GREY/BLACK -SPECTROLITE...'
 sku: 'B076CFHKNQ-es'
-tags: [ 'mochila', ]
-actualPrice: 99.16 EUR
+tags: [ 'backpack','mochila', ]
+actualPrice: 128.12 EUR
 currency: EUR
-price: 99.16
+price: 128.12
 comparePrice: 155.0 EUR
-prodname: 'Samsonite Spectrolite 2.0 35 8 cm  14.1"  Mochila Negro  Gris - Funda  Mochila  35 8 cm  14.1"   Tirante para hombro  1 2 kg  Negro  Gris '
+prodname: 'Samsonite LAPTOP BACKPACK 14.1"  GREY/BLACK  -SPECTROLITE 2.0  Mochila tipo casual  0 cm  Gris'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Samsonite'
 buyurl: 'https://www.amazon.es/dp/B076CFHKNQ/?tag=tolees-21'
-descuento: '36.03'
-average: '99.16'
+descuento: '17.34'
+average: '113.64'
 ---
 
-Está [Samsonite Spectrolite 2.0 35 8 cm  14.1"  Mochila Negro  Gris - Funda  Mochila  35 8 cm  14.1"   Tirante para hombro  1 2 kg  Negro  Gris ](https://www.amazon.es/dp/B076CFHKNQ/?tag=tolees-21) con 36.03 de descuento por 99.16 EUR (original: 155.0 EUR) en el siguiente enlace!
+Está [Samsonite LAPTOP BACKPACK 14.1"  GREY/BLACK  -SPECTROLITE 2.0  Mochila tipo casual  0 cm  Gris](https://www.amazon.es/dp/B076CFHKNQ/?tag=tolees-21) con 17.34 de descuento por 128.12 EUR (original: 155.0 EUR) en el siguiente enlace!
 
-[![Samsonite Spectrolite 2.0 35 8 cm  14.1"](https://m.media-amazon.com/images/I/41fH0gNOrcL._SL200_.jpg)](https://www.amazon.es/dp/B076CFHKNQ/?tag=tolees-21)
+[![Samsonite LAPTOP BACKPACK 14.1"  GREY/BL](https://m.media-amazon.com/images/I/41fH0gNOrcL._SL200_.jpg)](https://www.amazon.es/dp/B076CFHKNQ/?tag=tolees-21)
 
 ℹ️:
 
+- Sistema de gestión de cables Easy Pass, permitiendo que los cables pasen a través de diferentes compartimentos, manteniendo los dispositivos electrónicos cargados sin sacarlos.
+- Excepcional organización interior, con volúmenes optimizados y bolsillos de malla See-Thru.
+- Smart Sleeve (con bolsillo adicional escondido en Mochilas para una seguridad extra).
+- Compartimento de portátil adaptable Perfect Fit, idóneo para los últimos portátiles, MacBooks y dispositivos 2 en 1.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076CFHKNQ/?tag=tolees-21)
