@@ -29,9 +29,9 @@ Ahora mismo tienes [APLI Kids - Bolsa de gomets cara feliz-2  3 hojas adhesivo r
 🔎:
 
 - Pueden servir a maestros y padres
-- Pegatinas con diseño de caras felices y tristes
-- Con adhesivo removible
 - Las pegatinas cumplen con el estándar de juguete EN71-3
+- Pegatinas con diseño de caras felices y tristes
 - Se adhieren y se disminuyen sin dejar rastros
+- Con adhesivo removible
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0162EJBBG/?tag=tolees-21)

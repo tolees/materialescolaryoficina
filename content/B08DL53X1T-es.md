@@ -28,11 +28,11 @@ Está [Alpino escolar pack: 24 lápices de colores borrables + 24 rotuladores + 
 
 ℹ️:
 
-- Pack de material escolar económico
-- 24 lápices colores borrables con goma
 - Rotuladores con tinta súper lavable
 - Lápices con mina suave y resistente de 3mm
+- Pack de material escolar económico
 - 12 ceras Plastialpino
+- 24 lápices colores borrables con goma
 - Colores surtidos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DL53X1T/?tag=tolees-21)
