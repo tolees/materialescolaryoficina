@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B088CXYZKJ-es Aottom 36 Colores con Rotuladores Punta Pincel Rotuladores...'
 sku: 'B088CXYZKJ-es'
-tags: [ 'rotuladores', ]
+tags: [ 'rotuladores','rotuladores', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

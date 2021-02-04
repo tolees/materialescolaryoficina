@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01LVTHBN0-es Borrador Mágnetico para Pizarra Blanca - Conjunto Premium...'
 sku: 'B01LVTHBN0-es'
-tags: [ 'goma','de','borrar','rotuladores', ]
+tags: [ 'rotuladores','goma','de','borrar','rotuladores', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

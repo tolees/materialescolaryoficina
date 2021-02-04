@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07W8N1V2G-es Pintura para Porcelana y Cerámica RATEL 20 colores No...'
 sku: 'B07W8N1V2G-es'
-tags: [ 'rotuladores', ]
+tags: [ 'rotuladores','rotuladores', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

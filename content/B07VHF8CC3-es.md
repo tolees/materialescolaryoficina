@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VHF8CC3-es CARIOCA Estuche Pixel | Estuche 3 Cremalleras con Material...'
 sku: 'B07VHF8CC3-es'
-tags: [ 'lápices','escolar','lápices','material','escolar','rotuladores', ]
+tags: [ 'lápices','rotuladores','escolar','lápices','material','escolar','rotuladores', ]
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

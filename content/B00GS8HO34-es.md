@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00GS8HO34-es Caja de 3 rotuladores de punta fina Pigma Micron modelo...'
 sku: 'B00GS8HO34-es'
-tags: [ 'rotuladores', ]
+tags: [ 'rotuladores','rotuladores', ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

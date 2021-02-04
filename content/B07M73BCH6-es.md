@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07M73BCH6-es Rotulador de 80 Colores Marker Pen Marcadores Manga...'
 sku: 'B07M73BCH6-es'
-tags: [ 'rotulador','rotuladores', ]
+tags: [ 'rotuladores','rotulador','rotuladores', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

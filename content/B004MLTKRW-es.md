@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B004MLTKRW-es BIC Kids Visacolor XL rotuladores Punta Gruesa - colores...'
 sku: 'B004MLTKRW-es'
-tags: [ 'rotuladores', ]
+tags: [ 'rotuladores','rotuladores', ]
 actualPrice: 17.21 EUR
 currency: EUR
 price: 17.21

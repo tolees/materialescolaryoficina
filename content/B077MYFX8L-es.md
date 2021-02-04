@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B077MYFX8L-es Staedtler Design Journey 3001 TB18. Rotuladores...'
 sku: 'B077MYFX8L-es'
-tags: [ 'rotuladores', ]
+tags: [ 'rotuladores','rotuladores', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5
