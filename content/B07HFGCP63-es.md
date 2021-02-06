@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wacom One by Wacom Medium - Tableta gráf con un 25.00 % de descuento'
-date: 2021-02-01 16:04:16
+date: 2021-02-06 08:07:23
 image: 'https://m.media-amazon.com/images/I/41mXipjbMHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -30,9 +30,9 @@ En este momento está [Wacom One by Wacom Medium - Tableta gráfica con lápiz d
 
 - Requisitos de hardware: puerto HDMI y puerto USB-A estándar
 - Profundidad de color: 8 bits
-- Resolución de pantalla: 1920 x 1080 píxeles
-- Relación de aspecto: 16:9
 - Tamaño de la pantalla (medida en diagonal): 13.3 pulgadas
 - Requisitos del sistema: Windows 7 y posterior, Mac OS 10.13 y posterior
+- Relación de aspecto: 16:9
+- Resolución de pantalla: 1920 x 1080 píxeles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HFGCP63/?tag=tolees-21)
