@@ -28,7 +28,7 @@ En este momento está [Totto MA04IND589-1620B-N01 Mochila Maletín para Portáti
 
 🔎:
 
-- Mochila maletín para portátil 15" - Connect
 - Marca: Totto
+- Mochila maletín para portátil 15" - Connect
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B074MF8VKN/?tag=tolees-21)
