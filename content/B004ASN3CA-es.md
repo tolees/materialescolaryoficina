@@ -28,8 +28,8 @@ En este momento está [Giotto Turbo Color Rotuladores  Multicolor](https://www.a
 
 🔎:
 
-- 24 colores surtidos
-- Punta muy resistente de 2,8 mm de diámetro bloqueada que no se hunde.
 - Tinta lavable en la piel y en los tejidos
+- Punta muy resistente de 2,8 mm de diámetro bloqueada que no se hunde.
+- 24 colores surtidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004ASN3CA/?tag=tolees-21)
