@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel GraphGear - Portaminas retráctil  al 17.15 % de descuento'
-date: 2021-02-07 21:47:17
+date: 2021-02-08 21:55:15
 image: 'https://m.media-amazon.com/images/I/315mCu7kHxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.es/dp/B000GAU2RU/?tag=tolees-21'
 descuento: '17.15'
-average: '14.625'
+average: '14.4388888888889'
 ---
 
 Ahora mismo tienes [Pentel GraphGear - Portaminas retráctil metálico calibrado  Plateado  0.3 mm](https://www.amazon.es/dp/B000GAU2RU/?tag=tolees-21) a 12.95 EUR (original: 15.63 EUR) (17.15 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Pentel GraphGear - Portaminas retráctil metálico calibrado
 
 🔎:
 
-- La boquilla se retrae apretando la parte superior del clip
 - Portaminas retráctil metálico calibrado de lujo con cuerpo en acero mate muy funcional. Sujeción estriada y con bolitas de caucho para dibujar o escribir sin fatiga. Ideal para escritura general o dibujo técnico por su boquilla de 4 mm. La boquilla se retrae apretando la parte superior del clip. Indicador de dureza de mina. Contiene 2 minas Super Hi-Polymer HB de 0,3mm de grosor y un borrador Z2-1N.
+- Portaminas retráctil metálico calibrado de lujo con cuerpo en acero mate muy funcional
 - Sujeción estriada y con bolitas de caucho para dibujar o escribir sin fatiga
 - Ideal para escritura general o dibujo técnico por su boquilla de 4 mm
-- Portaminas retráctil metálico calibrado de lujo con cuerpo en acero mate muy funcional
+- La boquilla se retrae apretando la parte superior del clip
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000GAU2RU/?tag=tolees-21)
