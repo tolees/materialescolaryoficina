@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpino escolar pack: 24 lápices de color al 15.38 % de descuento'
-date: 2021-02-07 22:08:41
+date: 2021-02-08 22:17:34
 image: 'https://m.media-amazon.com/images/I/51lSmgOnKDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alpino'
 buyurl: 'https://www.amazon.es/dp/B08DL53X1T/?tag=tolees-21'
 descuento: '15.38'
-average: '10.5738333333332'
+average: '10.552950819672'
 ---
 
 Está [Alpino escolar pack: 24 lápices de colores borrables + 24 rotuladores + estuche con 12 ceras](https://www.amazon.es/dp/B08DL53X1T/?tag=tolees-21) con 15.38 de descuento por 9.3 EUR (original: 10.99 EUR) en el siguiente enlace!
