@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'APLI - Etiquetas Adhesivas Blancas multi al 22.21 % de descuento'
-date: 2021-01-25 23:46:17
+title: 'APLI - Etiquetas Adhesivas Blancas multi al 16.13 % de descuento'
+date: 2021-02-09 10:05:53
 image: 'https://m.media-amazon.com/images/I/515sS7WjzML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,29 @@ author: ring
 slug: 'B001JYHKH2-es APLI - Etiquetas Adhesivas Blancas multifunción 70x37 100...'
 sku: 'B001JYHKH2-es'
 tags: [ 'apli', ]
-actualPrice: 14.43 EUR
+actualPrice: 15.5 EUR
 currency: EUR
-price: 14.43
-comparePrice: 18.55 EUR
+price: 15.5
+comparePrice: 18.48 EUR
 prodname: 'APLI - Etiquetas Adhesivas Blancas multifunción 70x37 100 Hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B001JYHKH2/?tag=tolees-21'
-descuento: '22.21'
-average: '17.5525'
+descuento: '16.13'
+average: '17.7105555555554'
 ---
 
-Ahora mismo tienes [APLI - Etiquetas Adhesivas Blancas multifunción 70x37 100 Hojas](https://www.amazon.es/dp/B001JYHKH2/?tag=tolees-21) a 14.43 EUR (original: 18.55 EUR) (22.21 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [APLI - Etiquetas Adhesivas Blancas multifunción 70x37 100 Hojas](https://www.amazon.es/dp/B001JYHKH2/?tag=tolees-21) a 15.5 EUR (original: 18.48 EUR) (16.13 %  de descuento) en el siguiente enlace!
 
 [![APLI - Etiquetas Adhesivas Blancas multi](https://m.media-amazon.com/images/I/515sS7WjzML._SL200_.jpg)](https://www.amazon.es/dp/B001JYHKH2/?tag=tolees-21)
 
 🔎:
 
 - Tamaño de la hoja: Din A4
-- Cantos: Rectos
-- Cantidad de etiquetas: 2400
 - Adhesivo: Permanente
+- Cantidad de etiquetas: 2400
 - Etiquetas para impresoras inkjet, láser y fotocopiadora
+- Cantos: Rectos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001JYHKH2/?tag=tolees-21)

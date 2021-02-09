@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apli Paper 11475 Papel Fotografico A4 Ev con un 37.95 % de descuento'
-date: 2021-02-08 04:18:03
+date: 2021-02-09 10:01:03
 image: 'https://m.media-amazon.com/images/I/41wuf0AZJNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B000GYHX8C/?tag=tolees-21'
 descuento: '37.95'
-average: '13.2706936416185'
+average: '13.27'
 ---
 
 En este momento está [Apli Paper 11475 Papel Fotografico A4 Everyday 180GR 100H](https://www.amazon.es/dp/B000GYHX8C/?tag=tolees-21) a 13.21 EUR (original: 21.29 EUR) (37.95 %  de descuento) en el siguiente enlace!
