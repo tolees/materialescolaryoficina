@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.62 % en Fjallraven - Fjällräven Kånken No 2 Lapt'
-date: 2021-02-01 19:01:08
+date: 2021-02-09 09:50:46
 image: 'https://m.media-amazon.com/images/I/417iFmv1RfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fjallraven'
 buyurl: 'https://www.amazon.es/dp/B01E3W6PY0/?tag=tolees-21'
 descuento: '25.62'
-average: '124.48'
+average: '123.871111111112'
 ---
 
 Tienes [Fjallraven - Fjällräven Kånken No 2 Laptop 15  Mochila Unisex  Verde  Dark Olive   Talla única](https://www.amazon.es/dp/B01E3W6PY0/?tag=tolees-21) con un 25.62 % de descuento con precio de oferta de 119.0 EUR (original: 159.99 EUR) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [Fjallraven - Fjällräven Kånken No 2 Laptop 15  Mochila Unisex  Verde
 ℹ️:
 
 - Refinado mochila
-- Peso: 750 g
 - Tamaño: 40 cm x 28 cm x 16 cm
-- Material exterior: G-1000 Lite Eco: 65% poliéster, 35% algodón, G-1000 HeavyDuty: 65% poliéster, 35% algodón
 - Volumen: 18 L
+- Peso: 750 g
+- Material exterior: G-1000 Lite Eco: 65% poliéster, 35% algodón, G-1000 HeavyDuty: 65% poliéster, 35% algodón
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01E3W6PY0/?tag=tolees-21)
