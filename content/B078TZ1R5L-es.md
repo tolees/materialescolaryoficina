@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.60 % en Thule Lithos - Mochila de 20L  Color Roj'
-date: 2021-02-06 11:22:29
+date: 2021-02-10 13:50:46
 image: 'https://m.media-amazon.com/images/I/51ou4jmYoVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [Thule Lithos - Mochila de 20L  Color Rojo](https://www.amazon.es/dp/B078
 ℹ️:
 
 - Materiales de calidad
+- Alta resistencia al paso del tiempo
 - Espacio para portátil y tablet
 - Cremalleras duraderas
-- Alta resistencia al paso del tiempo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B078TZ1R5L/?tag=tolees-21)
