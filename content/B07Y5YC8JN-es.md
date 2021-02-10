@@ -28,10 +28,10 @@ En este momento está [Moleskine - Agenda Inteligente Profesional  Cuaderno Elec
 
 🔎:
 
-- Toma nota de tus planes y citas a mano en papel y sincronízalas digitalmente para tenerlas disponibles en cualquier momento gracias a esta Agenda Inteligente; con diseño semanal en dos páginas
-- La agenda electrónica de papel forma parte del sistema de escritura inteligente Moleskine+ y es compatible con el Pen+ Ellipse de Moleskine, así como con la aplicación Moleskine Notes, desarollada en inglés
-- Sincronización con Google Calendar, iCal y numerosas aplicaciones de calendario y otras aplicaciones digital; papel de color marfil sin ácido de 100 m/g2
 - La agenda inteligente de Moleskine tiene un diseño semanal de 12 meses, de enero a diciembre, con secciones de hora y día y suficiente espacio para marcar los objetivos, proyectos y actividades del mes
 - El paquete incluye una agenda inteligente con diseño semanal para 2021 - Smart Diary está disponible en tamaño L 13 x 21 cm con 176 páginas, color negro
+- Sincronización con Google Calendar, iCal y numerosas aplicaciones de calendario y otras aplicaciones digital; papel de color marfil sin ácido de 100 m/g2
+- La agenda electrónica de papel forma parte del sistema de escritura inteligente Moleskine+ y es compatible con el Pen+ Ellipse de Moleskine, así como con la aplicación Moleskine Notes, desarollada en inglés
+- Toma nota de tus planes y citas a mano en papel y sincronízalas digitalmente para tenerlas disponibles en cualquier momento gracias a esta Agenda Inteligente; con diseño semanal en dos páginas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y5YC8JN/?tag=tolees-21)
