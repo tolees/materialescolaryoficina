@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Targus TSB89702EU Urban Explorer - Mochi al 55.87 % de descuento'
-date: 2020-09-21 09:46:01
+title: 'Targus TSB89702EU Mochila Urban Explorer al 19.65 % de descuento'
+date: 2021-02-10 07:59:42
 image: 'https://m.media-amazon.com/images/I/41R0X3YSu0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GUXUNVG-es Targus TSB89702EU Urban Explorer - Mochila para portátiles...'
+slug: 'B01GUXUNVG-es Targus TSB89702EU Mochila Urban Explorer para portátiles...'
 sku: 'B01GUXUNVG-es'
 tags: [ 'mochila', ]
-actualPrice: 30.89 EUR
+actualPrice: 56.24 EUR
 currency: EUR
-price: 30.89
+price: 56.24
 comparePrice: 69.99 EUR
-prodname: 'Targus TSB89702EU Urban Explorer - Mochila para portátiles   sistema AIR X FLOW  hasta 15 6"  25 L   color azul'
+prodname: 'Targus TSB89702EU Mochila Urban Explorer para portátiles de 15 6" en azul'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Targus'
 buyurl: 'https://www.amazon.es/dp/B01GUXUNVG/?tag=tolees-21'
-descuento: '55.87'
-average: '34.94533333333332'
+descuento: '19.65'
+average: '36.27625'
 ---
 
-Está [Targus TSB89702EU Urban Explorer - Mochila para portátiles   sistema AIR X FLOW  hasta 15 6"  25 L   color azul](https://www.amazon.es/dp/B01GUXUNVG/?tag=tolees-21) con 55.87 de descuento por 30.89 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [Targus TSB89702EU Mochila Urban Explorer para portátiles de 15 6" en azul](https://www.amazon.es/dp/B01GUXUNVG/?tag=tolees-21) con 19.65 de descuento por 56.24 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![Targus TSB89702EU Urban Explorer - Mochi](https://m.media-amazon.com/images/I/41R0X3YSu0L._SL200_.jpg)](https://www.amazon.es/dp/B01GUXUNVG/?tag=tolees-21)
+[![Targus TSB89702EU Mochila Urban Explorer](https://m.media-amazon.com/images/I/41R0X3YSu0L._SL200_.jpg)](https://www.amazon.es/dp/B01GUXUNVG/?tag=tolees-21)
 
 ℹ️:
 
+- Paneles reflectantes inteligentes, lazos para la luz de tu bicicleta y un silbato oculto para mantenerte a salvo en la ciudad y en el campo
+- Correas de hombro acolchadas, correa para el pecho y relleno trasero AIR X FLOW o cómodo para llevar todo el día
+- Material repelente al agua y base impermeable para mantener sus pertenencias secas
+- Mochila para portátil contemporánea diseñada para la vida urbana y aventuras al aire libre
+- Dedicado bolsillo acolchado para computadora portátil para proteger su kit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GUXUNVG/?tag=tolees-21)
