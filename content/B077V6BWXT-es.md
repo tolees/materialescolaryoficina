@@ -28,9 +28,9 @@ Está [Kipling City Pack S  Mochila para Mujer  Azul  True Navy   27x33.5x19 cm]
 
 ℹ️:
 
-- Composición: Sintético
+- Revestimiento: Sintético
 - Cierre: Cremallera
 - Material exterior: Sintético
-- Revestimiento: Sintético
+- Composición: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077V6BWXT/?tag=tolees-21)
