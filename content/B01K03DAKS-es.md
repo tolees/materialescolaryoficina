@@ -28,10 +28,10 @@ En este momento está [Moleskine - Bolsa ID Vertical para Ordenador Portátil o 
 
 🔎:
 
-- Una bolsa de transporte para el ordenador o iPad de hasta 15 pulgadas, pero también para cuadernos, documentos y libros
-- Fabricado en poliéster impermeable, con asas acolchadas y hebilla metálica
-- Equipado con cinta elástica y cremallera para asegurar el dispositivo; correa para el hombro o fijarla al asa de la maleta
-- Tamaño 30 x 38 x 10 cm
 - Con bandolera ajustable y extraíble, cinta para fijar la bolsa al asa de la maleta y bolsillo trasero con corchete
+- Equipado con cinta elástica y cremallera para asegurar el dispositivo; correa para el hombro o fijarla al asa de la maleta
+- Fabricado en poliéster impermeable, con asas acolchadas y hebilla metálica
+- Una bolsa de transporte para el ordenador o iPad de hasta 15 pulgadas, pero también para cuadernos, documentos y libros
+- Tamaño 30 x 38 x 10 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01K03DAKS/?tag=tolees-21)
