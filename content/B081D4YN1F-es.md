@@ -28,13 +28,13 @@ Está [Burton Distortion 2.0 Mochila  Gray Heather](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- Separate bottom compartiment; ergonomic shoulder straps with ad adjustable sternum strap; board carry straps
+- Tipo de material: Poliéster
+- Volumen: 29 litros
+- Nombre de departamento: Unisex adulto
 - Durable te fabric construction repels water in snow and wintry-mix conditions
 - Tipo de deporte: Snowboard, Camping/Hiking, Outdoor Lifestyle
-- Nombre de departamento: Unisex adulto
 - External zippered access to main compartiment
-- Tipo de material: Poliéster
+- Separate bottom compartiment; ergonomic shoulder straps with ad adjustable sternum strap; board carry straps
 - Multiple external accessory pockets; laptop sleeve 16in x 11in; tablet sleeve 11in x 10in
-- Volumen: 29 litros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081D4YN1F/?tag=tolees-21)
