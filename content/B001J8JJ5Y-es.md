@@ -28,10 +28,10 @@ Tienes [Apli 1286 - Etiquetas  100 hojas](https://www.amazon.es/dp/B001J8JJ5Y/?t
 
 ℹ️:
 
-- Formato de las etiquetas predefinido en la mayoría de softwares
-- Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
 - 52.5 x 29.7 mm
 - Etiquetas por paquete: 4000
+- Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
 - Etiquetas Apli. A4
+- Formato de las etiquetas predefinido en la mayoría de softwares
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001J8JJ5Y/?tag=tolees-21)
