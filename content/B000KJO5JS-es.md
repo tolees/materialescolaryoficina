@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.92 % en Apli 1264 - Etiquetas  100 hojas'
-date: 2021-02-08 04:28:36
+date: 2021-02-12 11:17:44
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B000KJO5JS/?tag=tolees-21'
 descuento: '44.92'
-average: '15.6177011494252'
+average: '15.6393258426966'
 ---
 
 Tienes [Apli 1264 - Etiquetas  100 hojas](https://www.amazon.es/dp/B000KJO5JS/?tag=tolees-21) con un 44.92 % de descuento con precio de oferta de 16.58 EUR (original: 30.1 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [Apli 1264 - Etiquetas  100 hojas](https://www.amazon.es/dp/B000KJO5JS/?t
 ℹ️:
 
 - Formato de las etiquetas predefinido en la mayoría de softwares
-- Etiquetas Apli. A4
 - 210 x 148 mm
+- Etiquetas Apli. A4
 - Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KJO5JS/?tag=tolees-21)
