@@ -28,10 +28,10 @@ Está [Parker Jotter London - Paquete de recambios Discovery tres recambios Quin
 
 ℹ️:
 
-- Todos los recambios Parker Ouinkflow garantizan unos resultados de escritura de primera calidad sin saltos
 - Todos los recambios de tinta de gel Parker Ouink están formulados para ofrecer trazos definidos y con menos borrones
 - Punta mediana pensada para detalles minuciosos y fáciles de leer
-- Incluye: dos recambios Quinkflow para bolígrafos de tinta de color azul y uno de tinta de color negro (punta mediana), así como dos recambios de tinta de gel Quink de color negro y uno de color azul (punta mediana)
+- Todos los recambios Parker Ouinkflow garantizan unos resultados de escritura de primera calidad sin saltos
 - Escritura fluida y vívida
+- Incluye: dos recambios Quinkflow para bolígrafos de tinta de color azul y uno de tinta de color negro (punta mediana), así como dos recambios de tinta de gel Quink de color negro y uno de color azul (punta mediana)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074VJK1DB/?tag=tolees-21)
