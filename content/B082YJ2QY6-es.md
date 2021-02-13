@@ -30,7 +30,7 @@ Está [C Y P Mochila Infantil Eva 3D Bebés Llorones Lady 30x11x21 cm  Rojo  MC-
 
 - Creado siguiendo los más altos estándares de la marca CYP
 - Diseñado para ofrecer una excelente experiencia al cliente
-- Diseño moderno
 - Diseño funcional
+- Diseño moderno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082YJ2QY6/?tag=tolees-21)
