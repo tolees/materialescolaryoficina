@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WindTook Mochila Portátil Mochila Trabaj con un 15.00 % de descuento'
-date: 2021-01-23 16:13:59
+date: 2021-02-14 02:30:31
 image: 'https://m.media-amazon.com/images/I/41HT36l-UGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 38.99 EUR
 prodname: 'WindTook Mochila Portátil Mochila Trabajo Hombre Impermeable con USB Mochila para Ordenador Portatil 17 Pulgadas Multifunciona Maletín Dackpack Gran Capacidad para Trabajo Viaje 33 x 18 x 49CM Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: 'WindTook'
 buyurl: 'https://www.amazon.es/dp/B07PNV8HCR/?tag=tolees-21'
 descuento: '15.00'
-average: '36.065'
+average: '35.09'
 ---
 
 En este momento está [WindTook Mochila Portátil Mochila Trabajo Hombre Impermeable con USB Mochila para Ordenador Portatil 17 Pulgadas Multifunciona Maletín Dackpack Gran Capacidad para Trabajo Viaje 33 x 18 x 49CM Negro](https://www.amazon.es/dp/B07PNV8HCR/?tag=tolees-21) a 33.14 EUR (original: 38.99 EUR) (15.00 %  de descuento) en el siguiente enlace!
