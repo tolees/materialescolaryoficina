@@ -28,10 +28,10 @@ Ahora mismo tienes [APLI - Etiquetas Adhesivas Blancas multifunción 70x37 100 H
 
 🔎:
 
-- Adhesivo: Permanente
 - Cantos: Rectos
 - Tamaño de la hoja: Din A4
 - Etiquetas para impresoras inkjet, láser y fotocopiadora
 - Cantidad de etiquetas: 2400
+- Adhesivo: Permanente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001JYHKH2/?tag=tolees-21)
