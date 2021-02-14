@@ -28,10 +28,10 @@ Tienes [safta Mochila Infantil de Superzings Serie 5  Azul  220x100x270mm](https
 
 🔎:
 
+- Safta Superzings Oficial mochila infantil escolar para niños en guardería; ideal para niños de 2 a 5 años
 - Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar
+- Medidas: 220 x 100 x 270 mm; capacidad: 6 L; peso: 0.21 Kg
 - Safta se caracteriza por la tecnología y la investigación para garantizar unos productos de gran calidad, aptos para el día a día de coles e institutos; son productos diseñados en España, siguiendo todos los procesos de fabricación y calidad de Europa
 - Tiradores en los cursores para facilitar su apertura; doble tirador en cremallera principal; costuras reforzadas; asa de mano en la parte superior y tarjeta de identificación personal
-- Safta Superzings Oficial mochila infantil escolar para niños en guardería; ideal para niños de 2 a 5 años
-- Medidas: 220 x 100 x 270 mm; capacidad: 6 L; peso: 0.21 Kg
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089DY8X4W/?tag=tolees-21)
