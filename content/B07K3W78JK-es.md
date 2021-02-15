@@ -29,9 +29,9 @@ En este momento está [iiniim Leggings Niña Leggings Cintura Elástica Pantalon
 🔎:
 
 - Cintura elástica ofrece buena elasticidad. Tejido suave y liso, cómodo de llevar.
-- Los colores metálicos brillantes se pueden combinar con cualquier color superior y tienen ese look de moda y atuendo elegante.
-- Perfecto para fiestas de cumpleaños, actuaciones, disfraces, concursos de baile y cualquier otra ocasión especial.
-- La Tabla de tallas significa rangos de edad para las niñas, pero son solo para orientación general.
 - Leggings Wet look Stretchy style para niña chica.
+- Los colores metálicos brillantes se pueden combinar con cualquier color superior y tienen ese look de moda y atuendo elegante.
+- La Tabla de tallas significa rangos de edad para las niñas, pero son solo para orientación general.
+- Perfecto para fiestas de cumpleaños, actuaciones, disfraces, concursos de baile y cualquier otra ocasión especial.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K3W78JK/?tag=tolees-21)
