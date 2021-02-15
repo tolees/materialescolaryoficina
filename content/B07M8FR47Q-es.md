@@ -28,10 +28,10 @@ Ahora mismo tienes [STAEDTLER Design Journey 3200 TB36  Rotuladores para letteri
 
 🔎:
 
-- Anchura de la línea: punta del extremo ancho de 3 mm y punta del extremo fino de 0,5 mm a 0,8 mm.
-- Bolígrafo con dos puntas de fibra para las mejores creatividades y caligrafías sobre papel.
 - Rotuladores dobles de tinta de colores variados con una punta de anchura fina y una punta de anchura ultrafina.
-- El cuerpo y el capuchón están fabricados en polipropileno ventilado (ISO 11540) lo cual garantiza una larga vida útil.
+- Anchura de la línea: punta del extremo ancho de 3 mm y punta del extremo fino de 0,5 mm a 0,8 mm.
 - Marcadores apropiados para escritura a mano y otros estilos de caligrafía, así como para ilustraciones, manga y coloraciones.
+- Bolígrafo con dos puntas de fibra para las mejores creatividades y caligrafías sobre papel.
+- El cuerpo y el capuchón están fabricados en polipropileno ventilado (ISO 11540) lo cual garantiza una larga vida útil.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M8FR47Q/?tag=tolees-21)
