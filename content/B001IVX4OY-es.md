@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Rotring S0194640 - Cartucho de tinta al 46.55 % de rebaja'
-date: 2020-03-24 01:21:22
+title: 'Rotring S0194640 - Cartucho de tinta al 20.23 % de rebaja'
+date: 2021-02-16 19:37:56
 image: 'https://m.media-amazon.com/images/I/41o3tz7Cf0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,28 @@ author: ring
 slug: 'B001IVX4OY-es Rotring S0194640 - Cartucho de tinta'
 sku: 'B001IVX4OY-es'
 tags: [ 'rotring', ]
-actualPrice: 5.81 EUR
+actualPrice: 12.26 EUR
 currency: EUR
-price: 5.81
-comparePrice: 10.87 EUR
+price: 12.26
+comparePrice: 15.37 EUR
 prodname: 'Rotring S0194640 - Cartucho de tinta'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Rotring'
 buyurl: 'https://www.amazon.es/dp/B001IVX4OY/?tag=tolees-21'
-descuento: '46.55'
-average: '5.81'
+descuento: '20.23'
+average: '10.11'
 ---
 
-Tienes [Rotring S0194640 - Cartucho de tinta](https://www.amazon.es/dp/B001IVX4OY/?tag=tolees-21) con precio final de  5.81 EUR (original: 10.87 EUR) (46.55 %  de rebaja) aqui!
+Tienes [Rotring S0194640 - Cartucho de tinta](https://www.amazon.es/dp/B001IVX4OY/?tag=tolees-21) con precio final de  12.26 EUR (original: 15.37 EUR) (20.23 %  de rebaja) aqui!
 
 [![Rotring S0194640 - Cartucho de tinta](https://m.media-amazon.com/images/I/41o3tz7Cf0L._SL200_.jpg)](https://www.amazon.es/dp/B001IVX4OY/?tag=tolees-21)
 
 🔎:
 
+- Juego de 3 cartuchos de tinta de color negro
+- Resistente a limpieza, a agua y no se desvanece
+- Secado rápido sobre apoyo de dibujo y con buena adhesión
+- Tinta compuesta por pigmentos especiales, que derivan de agua destilada y no se asientan
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001IVX4OY/?tag=tolees-21)
