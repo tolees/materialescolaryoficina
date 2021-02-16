@@ -28,9 +28,9 @@ Tienes [Rotring S0194640 - Cartucho de tinta](https://www.amazon.es/dp/B001IVX4O
 
 🔎:
 
-- Juego de 3 cartuchos de tinta de color negro
 - Resistente a limpieza, a agua y no se desvanece
 - Secado rápido sobre apoyo de dibujo y con buena adhesión
+- Juego de 3 cartuchos de tinta de color negro
 - Tinta compuesta por pigmentos especiales, que derivan de agua destilada y no se asientan
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001IVX4OY/?tag=tolees-21)
