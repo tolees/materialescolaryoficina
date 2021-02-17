@@ -28,10 +28,10 @@ En este momento está [safta 612079020 Unicorns Mochila pequeña Ruedas  Carro  
 
 🔎:
 
-- Bolsillo de red lateral
-- Para niños entre 3-6 años
-- Tiene unas cintas que permiten sujetarla al carro (extraíble), pudiendo usarse para la escuela o para viajar
-- Cuenta con un compartimento principal y un bolsillo exterior
 - Mochila infantil con carro
+- Para niños entre 3-6 años
+- Cuenta con un compartimento principal y un bolsillo exterior
+- Bolsillo de red lateral
+- Tiene unas cintas que permiten sujetarla al carro (extraíble), pudiendo usarse para la escuela o para viajar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083WYMHVC/?tag=tolees-21)
