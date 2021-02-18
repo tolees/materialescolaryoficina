@@ -29,8 +29,8 @@ En este momento está [Cerdá  Mochila con Botella de Agua Infantil de Spiderman
 🔎:
 
 - MOCHILA INFANTIL con licencia oficial de Disney Studios idónea para niños de 2 a 6 años
-- MOCHILAS DE GUARDERÍA con un bolsillo lateral de malla elástica para llevar la botella de agua o de zumo y asas acolchadas para que no se hagan daño cuando la lleven puesta
 - MOCHILA CON BOTELLA DE AGUA perfecta para ir a la guardería y que puedan llevar sus juguetes y su bebida favorita en este estupendo conjunto de Minnie Mouse
+- MOCHILAS DE GUARDERÍA con un bolsillo lateral de malla elástica para llevar la botella de agua o de zumo y asas acolchadas para que no se hagan daño cuando la lleven puesta
 - MOCHILAS INFANTILES DISNEY con medidas 25x31x1 al estar fabricadas en poliester hace que sean blandas y resistentes
 - MOCHILA GOMA EVA con la cara de Minnie en el frontal con diseño sobre goma EVA para que sea suave y blandito al tacto
 
