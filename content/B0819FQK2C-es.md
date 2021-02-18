@@ -28,10 +28,10 @@ Ahora mismo tienes [PUTORSEN® Bandeja ergonómico de cajones de Almacenamiento 
 
 🔎:
 
-- ✅ Hecho de plástico ABS y la función giratoria se abre y cierra 360 grados completos.
-- ✅ Garantía: DE POR VIDA.
 - ✅ El cajón de almacenamiento tiene 13.8 pulgadas de ancho, 7.9 pulgadas de profundidad y 3.8 pulgadas de alto, y tiene suficiente espacio para bolígrafos / lápices, papel, notas y otros suministros de trabajo.
 - ✅ Capacidad de peso de 6.6 libras. Se adapta al escritorio con un grosor mínimo de 0,71 pulgadas.
 - ✅ La solución de almacenamiento ergonómico se monta de forma segura debajo de su escritorio, liberando el espacio que tanto necesita en su escritorio.
+- ✅ Garantía: DE POR VIDA.
+- ✅ Hecho de plástico ABS y la función giratoria se abre y cierra 360 grados completos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0819FQK2C/?tag=tolees-21)
