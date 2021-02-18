@@ -28,10 +28,10 @@ Está [Apli Paper Ref. 14534 Juego de Gomets design by Martina Hogan](https://ww
 
 ℹ️:
 
+- Cada figura indica las formas y colores de gomets necesarios para acabar el dibujo
+- Juego compuesto de 16 hojas a cumplimentar y 12 hojas de gomets removibles
 - El niño debe cumplimentar los dibujos con gomets
 - Estimula la psicomotricidad fina
-- Cada figura indica las formas y colores de gomets necesarios para acabar el dibujo
 - Desarrolla la coordinación óculo-manual y la visión espacial
-- Juego compuesto de 16 hojas a cumplimentar y 12 hojas de gomets removibles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NAH2EI1/?tag=tolees-21)
