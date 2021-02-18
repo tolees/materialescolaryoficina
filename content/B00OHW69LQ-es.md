@@ -28,10 +28,10 @@ Tienes [HP OMEN - Mochila para portátiles gaming de hasta 17.3"  bolsillos inte
 
 🔎:
 
-- Bolsillos para ratón, teclado, cables...
 - Correas acolchadas para mayor comodidad
-- Compartimento doble para portátil y tablet
-- Para portátiles de hasta 17.3"
 - Cierre para colgar los auriculares
+- Bolsillos para ratón, teclado, cables...
+- Para portátiles de hasta 17.3"
+- Compartimento doble para portátil y tablet
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00OHW69LQ/?tag=tolees-21)
