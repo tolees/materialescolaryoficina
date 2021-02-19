@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cerdá - MOCHILA INFANTIL 3D STAR WARS DA al 35.14 % de rebaja'
-date: 2021-02-16 14:09:39
+date: 2021-02-19 21:08:19
 image: 'https://m.media-amazon.com/images/I/41rRlEZOiVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cerdá'
 buyurl: 'https://www.amazon.es/dp/B07JFW2X4J/?tag=tolees-21'
 descuento: '35.14'
-average: '8.11333333333333'
+average: '8.185'
 ---
 
 Tienes [Cerdá - MOCHILA INFANTIL 3D STAR WARS DARTH VADER](https://www.amazon.es/dp/B07JFW2X4J/?tag=tolees-21) con precio final de  8.4 EUR (original: 12.95 EUR) (35.14 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Cerdá - MOCHILA INFANTIL 3D STAR WARS DARTH VADER](https://www.amazon.e
 
 🔎:
 
-- Producto de alta calidad
 - Tamaño de 26x31x10cm
+- Producto de alta calidad
 - Producto licencia oficial
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JFW2X4J/?tag=tolees-21)
