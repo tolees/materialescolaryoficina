@@ -28,10 +28,10 @@ Tienes [ARTESANIA CERDA Avengers Thor - Mochila Infantil  31 cm  Gris](https://w
 
 🔎:
 
+- Producto de alta Calidad con Garantía de Fabricante
+- Fabricado en 100% Polyester
 - Mochila Infantil Personaje Avengers Thor
 - Producto Oficial
 - Tamaño 25x31x10cm
-- Producto de alta Calidad con Garantía de Fabricante
-- Fabricado en 100% Polyester
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RJYK9GP/?tag=tolees-21)
