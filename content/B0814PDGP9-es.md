@@ -2,7 +2,7 @@
 layout: post
 title: 'Candado de Combinación  DazSpirit 3 dígi al 45.25 % de rebaja'
 date: 2020-06-01 04:48:57
-image: 'https://m.media-amazon.com/images/I/51AcC18LunL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AcC18LunL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.95'
 
 Tienes [Candado de Combinación  DazSpirit 3 dígitos Candado de Seguridad de Viaje para Maletas de Viaje Estuche para casilleros Mochila de Gimnasia Paquete  5 Colores Nuevos ](https://www.amazon.es/dp/B0814PDGP9/?tag=tolees-21) con precio final de  10.95 EUR (original: 20.0 EUR) (45.25 %  de rebaja) aqui!
 
-[![Candado de Combinación  DazSpirit 3 dígi](https://m.media-amazon.com/images/I/51AcC18LunL._SL200_.jpg)](https://www.amazon.es/dp/B0814PDGP9/?tag=tolees-21)
+[![Candado de Combinación  DazSpirit 3 dígi](https://m.media-amazon.com/images/I/51AcC18LunL._SL400_.jpg)](https://www.amazon.es/dp/B0814PDGP9/?tag=tolees-21)
 
 🔎:
 

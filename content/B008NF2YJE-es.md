@@ -2,7 +2,7 @@
 layout: post
 title: 'Case Logic - Mochila para portátiles de  al 47.51 % de descuento'
 date: 2020-08-27 12:31:04
-image: 'https://m.media-amazon.com/images/I/41cx44Q2mSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cx44Q2mSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.74'
 
 Ahora mismo tienes [Case Logic - Mochila para portátiles de 16"/40 cm  Color Negro y Rojo](https://www.amazon.es/dp/B008NF2YJE/?tag=tolees-21) a 36.74 EUR (original: 69.99 EUR) (47.51 %  de descuento) en el siguiente enlace!
 
-[![Case Logic - Mochila para portátiles de ](https://m.media-amazon.com/images/I/41cx44Q2mSL._SL200_.jpg)](https://www.amazon.es/dp/B008NF2YJE/?tag=tolees-21)
+[![Case Logic - Mochila para portátiles de ](https://m.media-amazon.com/images/I/41cx44Q2mSL._SL400_.jpg)](https://www.amazon.es/dp/B008NF2YJE/?tag=tolees-21)
 
 🔎:
 

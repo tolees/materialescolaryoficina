@@ -2,7 +2,7 @@
 layout: post
 title: 'RAPID 20942903 - Grapadora eléctrica mod al 20.84 % de descuento'
 date: 2020-02-12 04:08:06
-image: 'https://m.media-amazon.com/images/I/41yN-+LBm5L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yN-+LBm5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '270.575'
 
 Ahora mismo tienes [RAPID 20942903 - Grapadora eléctrica modelo 90EC color blanco](https://www.amazon.es/dp/B000KTD2XS/?tag=tolees-21) a 274.57 EUR (original: 346.86 EUR) (20.84 %  de descuento) en el siguiente enlace!
 
-[![RAPID 20942903 - Grapadora eléctrica mod](https://m.media-amazon.com/images/I/41yN-+LBm5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000KTD2XS/?tag=tolees-21)
+[![RAPID 20942903 - Grapadora eléctrica mod](https://m.media-amazon.com/images/I/41yN-+LBm5L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000KTD2XS/?tag=tolees-21)
 
 🔎:
 

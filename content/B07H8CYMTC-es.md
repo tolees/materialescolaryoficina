@@ -2,7 +2,7 @@
 layout: post
 title: 'Colorful Art Co Set Rotuladores punta pi con un 46.71 % de descuento'
 date: 2020-04-14 00:03:52
-image: 'https://m.media-amazon.com/images/I/51FpxFzEjfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FpxFzEjfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.97'
 
 En este momento está [Colorful Art Co Set Rotuladores punta pincel acuarela - 20 colores vivos - Premium Rotuladores de color de punta pincel suave & rotulador agua - Rotuladores Pintar Rotulado Caligrafía Arts and Crafts](https://www.amazon.es/dp/B07H8CYMTC/?tag=tolees-21) a 15.97 EUR (original: 29.97 EUR) (46.71 %  de descuento) en el siguiente enlace!
 
-[![Colorful Art Co Set Rotuladores punta pi](https://m.media-amazon.com/images/I/51FpxFzEjfL._SL200_.jpg)](https://www.amazon.es/dp/B07H8CYMTC/?tag=tolees-21)
+[![Colorful Art Co Set Rotuladores punta pi](https://m.media-amazon.com/images/I/51FpxFzEjfL._SL400_.jpg)](https://www.amazon.es/dp/B07H8CYMTC/?tag=tolees-21)
 
 🔎:
 

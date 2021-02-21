@@ -2,7 +2,7 @@
 layout: post
 title: 'LIANCHENYI Retro bandera de Inglaterra m al 30.48 % de descuento'
 date: 2020-08-14 12:48:29
-image: 'https://m.media-amazon.com/images/I/51tDexsIQxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tDexsIQxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.77'
 
 Ahora mismo tienes [LIANCHENYI Retro bandera de Inglaterra mochila casual mochila escolar mochila de viaje](https://www.amazon.es/dp/B07FY2MFPF/?tag=tolees-21) a 17.77 EUR (original: 25.56 EUR) (30.48 %  de descuento) en el siguiente enlace!
 
-[![LIANCHENYI Retro bandera de Inglaterra m](https://m.media-amazon.com/images/I/51tDexsIQxL._SL200_.jpg)](https://www.amazon.es/dp/B07FY2MFPF/?tag=tolees-21)
+[![LIANCHENYI Retro bandera de Inglaterra m](https://m.media-amazon.com/images/I/51tDexsIQxL._SL400_.jpg)](https://www.amazon.es/dp/B07FY2MFPF/?tag=tolees-21)
 
 🔎:
 

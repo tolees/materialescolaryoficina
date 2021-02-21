@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila Stranger Things Faces al 37.50 % de descuento'
 date: 2020-09-18 16:22:01
-image: 'https://m.media-amazon.com/images/I/41uakugWjhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uakugWjhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.0'
 
 Ahora mismo tienes [Mochila Stranger Things Faces](https://www.amazon.es/dp/B078ZVW7RK/?tag=tolees-21) a 6.0 EUR (original: 9.6 EUR) (37.50 %  de descuento) en el siguiente enlace!
 
-[![Mochila Stranger Things Faces](https://m.media-amazon.com/images/I/41uakugWjhL._SL200_.jpg)](https://www.amazon.es/dp/B078ZVW7RK/?tag=tolees-21)
+[![Mochila Stranger Things Faces](https://m.media-amazon.com/images/I/41uakugWjhL._SL400_.jpg)](https://www.amazon.es/dp/B078ZVW7RK/?tag=tolees-21)
 
 🔎:
 

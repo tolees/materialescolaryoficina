@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 64.43 % en 4170 00 - Paquete 24 rotuladores Giotto '
 date: 2020-09-09 01:52:06
-image: 'https://m.media-amazon.com/images/I/51S64eVbVVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51S64eVbVVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.96'
 
 Tienes [4170 00 - Paquete 24 rotuladores Giotto Turbo Color](https://www.amazon.es/dp/B0054Y5JCQ/?tag=tolees-21) con un 64.43 % de descuento con precio de oferta de 4.13 EUR (original: 11.61 EUR) en el siguiente enlace!
 
-[![4170 00 - Paquete 24 rotuladores Giotto ](https://m.media-amazon.com/images/I/51S64eVbVVL._SL200_.jpg)](https://www.amazon.es/dp/B0054Y5JCQ/?tag=tolees-21)
+[![4170 00 - Paquete 24 rotuladores Giotto ](https://m.media-amazon.com/images/I/51S64eVbVVL._SL400_.jpg)](https://www.amazon.es/dp/B0054Y5JCQ/?tag=tolees-21)
 
 ℹ️:
 

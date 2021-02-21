@@ -2,7 +2,7 @@
 layout: post
 title: 'NOBES Tableta de Escritura LCD 8.5 Inch  al 43.96 % de rebaja'
 date: 2020-03-18 12:04:50
-image: 'https://m.media-amazon.com/images/I/51Ir8qlDmfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ir8qlDmfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.665'
 
 Tienes [NOBES Tableta de Escritura LCD 8.5 Inch  LCD Tablero de Dibujo Gráfica Pizarra Magica de Mensaje Memo Pad Electrónico con Lápiz Regalos para Niños Clase Oficina Casa Cocina  8.5 Inch  Azul ](https://www.amazon.es/dp/B07CYKK1T9/?tag=tolees-21) con precio final de  12.99 EUR (original: 23.18 EUR) (43.96 %  de rebaja) aqui!
 
-[![NOBES Tableta de Escritura LCD 8.5 Inch ](https://m.media-amazon.com/images/I/51Ir8qlDmfL._SL200_.jpg)](https://www.amazon.es/dp/B07CYKK1T9/?tag=tolees-21)
+[![NOBES Tableta de Escritura LCD 8.5 Inch ](https://m.media-amazon.com/images/I/51Ir8qlDmfL._SL400_.jpg)](https://www.amazon.es/dp/B07CYKK1T9/?tag=tolees-21)
 
 🔎:
 

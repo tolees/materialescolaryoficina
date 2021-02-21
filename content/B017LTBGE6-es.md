@@ -2,7 +2,7 @@
 layout: post
 title: 'Boma B47008400013 - Cinta adhesiva para  al 21.84 % de descuento'
 date: 2020-08-23 17:31:33
-image: 'https://m.media-amazon.com/images/I/417ut2QAGHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417ut2QAGHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.835'
 
 Está [Boma B47008400013 - Cinta adhesiva para reparación  50 mm x 10 m   color marrón](https://www.amazon.es/dp/B017LTBGE6/?tag=tolees-21) con 21.84 de descuento por 8.77 EUR (original: 11.22 EUR) en el siguiente enlace!
 
-[![Boma B47008400013 - Cinta adhesiva para ](https://m.media-amazon.com/images/I/417ut2QAGHL._SL200_.jpg)](https://www.amazon.es/dp/B017LTBGE6/?tag=tolees-21)
+[![Boma B47008400013 - Cinta adhesiva para ](https://m.media-amazon.com/images/I/417ut2QAGHL._SL400_.jpg)](https://www.amazon.es/dp/B017LTBGE6/?tag=tolees-21)
 
 ℹ️:
 

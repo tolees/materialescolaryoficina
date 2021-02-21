@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger - Kids Core Drawstring Ba al 17.73 % de descuento'
 date: 2020-09-14 05:43:27
-image: 'https://m.media-amazon.com/images/I/41bMHwfp4ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bMHwfp4ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.82'
 
 Ahora mismo tienes [Tommy Hilfiger - Kids Core Drawstring Backpack  Mochilas Unisex Niños  Negro  Black   1x1x1 cm  W x H L ](https://www.amazon.es/dp/B07V8XZ7MB/?tag=tolees-21) a 17.82 EUR (original: 21.66 EUR) (17.73 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger - Kids Core Drawstring Ba](https://m.media-amazon.com/images/I/41bMHwfp4ML._SL200_.jpg)](https://www.amazon.es/dp/B07V8XZ7MB/?tag=tolees-21)
+[![Tommy Hilfiger - Kids Core Drawstring Ba](https://m.media-amazon.com/images/I/41bMHwfp4ML._SL400_.jpg)](https://www.amazon.es/dp/B07V8XZ7MB/?tag=tolees-21)
 
 🔎:
 

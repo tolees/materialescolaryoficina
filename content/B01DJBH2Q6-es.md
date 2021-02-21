@@ -2,7 +2,7 @@
 layout: post
 title: 'Parker Jotter Stainless Steel bolígrafo  al 21.11 % de descuento'
 date: 2020-01-18 01:01:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41taB6lD6KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41taB6lD6KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.53'
 
 Está [Parker Jotter Stainless Steel bolígrafo CT](https://www.amazon.es/dp/B01DJBH2Q6/?tag=tolees-21) con 21.11 de descuento por 13.53 EUR (original: 17.15 EUR) en el siguiente enlace!
 
-[![Parker Jotter Stainless Steel bolígrafo ](https://images-eu.ssl-images-amazon.com/images/I/41taB6lD6KL._SL200_.jpg)](https://www.amazon.es/dp/B01DJBH2Q6/?tag=tolees-21)
+[![Parker Jotter Stainless Steel bolígrafo ](https://images-eu.ssl-images-amazon.com/images/I/41taB6lD6KL._SL400_.jpg)](https://www.amazon.es/dp/B01DJBH2Q6/?tag=tolees-21)
 
 ℹ️:
 

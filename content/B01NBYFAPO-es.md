@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Pro Training II Backpack Mochilla   al 19.85 % de descuento'
 date: 2020-06-25 12:31:05
-image: 'https://m.media-amazon.com/images/I/31p-bYXH0AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31p-bYXH0AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.083333333333332'
 
 Está [Puma Pro Training II Backpack Mochilla  Unisex Adulto  Negro  Puma Black   Talla única](https://www.amazon.es/dp/B01NBYFAPO/?tag=tolees-21) con 19.85 de descuento por 15.99 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![Puma Pro Training II Backpack Mochilla  ](https://m.media-amazon.com/images/I/31p-bYXH0AL._SL200_.jpg)](https://www.amazon.es/dp/B01NBYFAPO/?tag=tolees-21)
+[![Puma Pro Training II Backpack Mochilla  ](https://m.media-amazon.com/images/I/31p-bYXH0AL._SL400_.jpg)](https://www.amazon.es/dp/B01NBYFAPO/?tag=tolees-21)
 
 ℹ️:
 

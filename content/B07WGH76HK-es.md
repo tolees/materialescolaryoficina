@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans  Pepeb  Miller  Mochila para  al 24.57 % de descuento'
 date: 2020-06-15 19:31:45
-image: 'https://m.media-amazon.com/images/I/41+acXJK4NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+acXJK4NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.88'
 
 Está [Pepe Jeans  Pepeb  Miller  Mochila para Portátil 15 6"  Marrón](https://www.amazon.es/dp/B07WGH76HK/?tag=tolees-21) con 24.57 de descuento por 67.88 EUR (original: 89.99 EUR) en el siguiente enlace!
 
-[![Pepe Jeans  Pepeb  Miller  Mochila para ](https://m.media-amazon.com/images/I/41+acXJK4NL._SL200_.jpg)](https://www.amazon.es/dp/B07WGH76HK/?tag=tolees-21)
+[![Pepe Jeans  Pepeb  Miller  Mochila para ](https://m.media-amazon.com/images/I/41+acXJK4NL._SL400_.jpg)](https://www.amazon.es/dp/B07WGH76HK/?tag=tolees-21)
 
 ℹ️:
 

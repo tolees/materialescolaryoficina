@@ -2,7 +2,7 @@
 layout: post
 title: 'Moleskine - Set de Escritura Inteligente al 38.87 % de descuento'
 date: 2020-01-12 22:59:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IoTgOiTXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IoTgOiTXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '126.65666666666668'
 
 Está [Moleskine - Set de Escritura Inteligente  Cuaderno Digital y Bolígrafo + Smart Bolígrafo  Cuaderno con Tapa Dura Negra Apto para Uso con Bolígrafo Moleskine+  Hojas Punteadas  Color Negro](https://www.amazon.es/dp/B01EJKCWMU/?tag=tolees-21) con 38.87 de descuento por 139.99 EUR (original: 229 EUR) en el siguiente enlace!
 
-[![Moleskine - Set de Escritura Inteligente](https://images-eu.ssl-images-amazon.com/images/I/41IoTgOiTXL._SL200_.jpg)](https://www.amazon.es/dp/B01EJKCWMU/?tag=tolees-21)
+[![Moleskine - Set de Escritura Inteligente](https://images-eu.ssl-images-amazon.com/images/I/41IoTgOiTXL._SL400_.jpg)](https://www.amazon.es/dp/B01EJKCWMU/?tag=tolees-21)
 
 ℹ️:
 

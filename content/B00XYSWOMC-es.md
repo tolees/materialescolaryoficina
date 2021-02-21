@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 73.98 % en Capital Sports Travel S Bolsa de deporte'
 date: 2020-02-09 13:18:57
-image: 'https://m.media-amazon.com/images/I/41gMvPf0UxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gMvPf0UxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.49'
 
 Tienes [Capital Sports Travel S Bolsa de deporte 45l  Tejido impermeable  compartimento apertura forma D  fácil llenado  material robusto  asa y correas  transportable mano  hombro  mochila espalda  negra ](https://www.amazon.es/dp/B00XYSWOMC/?tag=tolees-21) con un 73.98 % de descuento con precio de oferta de 19.49 EUR (original: 74.9 EUR) en el siguiente enlace!
 
-[![Capital Sports Travel S Bolsa de deporte](https://m.media-amazon.com/images/I/41gMvPf0UxL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00XYSWOMC/?tag=tolees-21)
+[![Capital Sports Travel S Bolsa de deporte](https://m.media-amazon.com/images/I/41gMvPf0UxL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00XYSWOMC/?tag=tolees-21)
 
 ℹ️:
 

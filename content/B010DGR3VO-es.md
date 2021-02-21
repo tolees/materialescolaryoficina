@@ -2,7 +2,7 @@
 layout: post
 title: 'PLATERO P-U01B  Mochila unisex para comp con un 61.92 % de descuento'
 date: 2020-09-23 14:32:52
-image: 'https://m.media-amazon.com/images/I/41U1TgPYtEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41U1TgPYtEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.49'
 
 En este momento está [PLATERO P-U01B  Mochila unisex para computador portátil  15 6 pulgadas  Resistente al agua  con cremallera anti ladrón  negro](https://www.amazon.es/dp/B010DGR3VO/?tag=tolees-21) a 15.99 EUR (original: 41.99 EUR) (61.92 %  de descuento) en el siguiente enlace!
 
-[![PLATERO P-U01B  Mochila unisex para comp](https://m.media-amazon.com/images/I/41U1TgPYtEL._SL200_.jpg)](https://www.amazon.es/dp/B010DGR3VO/?tag=tolees-21)
+[![PLATERO P-U01B  Mochila unisex para comp](https://m.media-amazon.com/images/I/41U1TgPYtEL._SL400_.jpg)](https://www.amazon.es/dp/B010DGR3VO/?tag=tolees-21)
 
 🔎:
 

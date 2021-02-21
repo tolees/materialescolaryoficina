@@ -2,7 +2,7 @@
 layout: post
 title: 'Lowepro Whistler Rucksack 450 AW II Moch al 29.96 % de descuento'
 date: 2020-08-20 13:02:00
-image: 'https://m.media-amazon.com/images/I/415yTTZvSjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415yTTZvSjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '252.1'
 
 Ahora mismo tienes [Lowepro Whistler Rucksack 450 AW II Mochila Negro - Funda  Mochila  Universal  Tirante para Hombro  Compartimento del portátil  Gris ](https://www.amazon.es/dp/B07JGQMPJW/?tag=tolees-21) a 252.1 EUR (original: 359.95 EUR) (29.96 %  de descuento) en el siguiente enlace!
 
-[![Lowepro Whistler Rucksack 450 AW II Moch](https://m.media-amazon.com/images/I/415yTTZvSjL._SL200_.jpg)](https://www.amazon.es/dp/B07JGQMPJW/?tag=tolees-21)
+[![Lowepro Whistler Rucksack 450 AW II Moch](https://m.media-amazon.com/images/I/415yTTZvSjL._SL400_.jpg)](https://www.amazon.es/dp/B07JGQMPJW/?tag=tolees-21)
 
 🔎:
 

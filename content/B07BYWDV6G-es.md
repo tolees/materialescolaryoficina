@@ -2,7 +2,7 @@
 layout: post
 title: 'American Tourister AT Work - Mochila Mes al 19.40 % de descuento'
 date: 2020-08-09 20:30:39
-image: 'https://m.media-amazon.com/images/I/41rJbUv9omL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rJbUv9omL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.074000000000005'
 
 Está [American Tourister AT Work - Mochila Mesh tipo casual para 15.6" portátil  50 cm  25 liters  Noir  Universe Black ](https://www.amazon.es/dp/B07BYWDV6G/?tag=tolees-21) con 19.40 de descuento por 36.27 EUR (original: 45.0 EUR) en el siguiente enlace!
 
-[![American Tourister AT Work - Mochila Mes](https://m.media-amazon.com/images/I/41rJbUv9omL._SL200_.jpg)](https://www.amazon.es/dp/B07BYWDV6G/?tag=tolees-21)
+[![American Tourister AT Work - Mochila Mes](https://m.media-amazon.com/images/I/41rJbUv9omL._SL400_.jpg)](https://www.amazon.es/dp/B07BYWDV6G/?tag=tolees-21)
 
 ℹ️:
 

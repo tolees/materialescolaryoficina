@@ -2,7 +2,7 @@
 layout: post
 title: 'iSuperb Estuche Escolar Estudiantes Bols al 49.97 % de rebaja'
 date: 2020-05-16 09:08:12
-image: 'https://m.media-amazon.com/images/I/41hJZrayIiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hJZrayIiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [iSuperb Estuche Escolar Estudiantes Bolsa para Lapices Adolescentes Papelería Bolsa Caso Plumier Pencil Case para Niñas Colegio Color Sólido 19 8 X 8 X 5cm](https://www.amazon.es/dp/B07DLTQB4X/?tag=tolees-21) con precio final de  8.99 EUR (original: 17.97 EUR) (49.97 %  de rebaja) aqui!
 
-[![iSuperb Estuche Escolar Estudiantes Bols](https://m.media-amazon.com/images/I/41hJZrayIiL._SL200_.jpg)](https://www.amazon.es/dp/B07DLTQB4X/?tag=tolees-21)
+[![iSuperb Estuche Escolar Estudiantes Bols](https://m.media-amazon.com/images/I/41hJZrayIiL._SL400_.jpg)](https://www.amazon.es/dp/B07DLTQB4X/?tag=tolees-21)
 
 🔎:
 

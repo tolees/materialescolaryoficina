@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 19.18 % en WENGER 600638 Ibex - Mochila para portát'
 date: 2020-09-25 09:00:53
-image: 'https://m.media-amazon.com/images/I/41zhc2Ey0vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zhc2Ey0vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.76666666666665'
 
 Tienes [WENGER 600638 Ibex - Mochila para portátil de 17"  color azul](https://www.amazon.es/dp/B000VOC90Y/?tag=tolees-21) con un 19.18 % de descuento con precio de oferta de 65.96 EUR (original: 81.61 EUR) en el siguiente enlace!
 
-[![WENGER 600638 Ibex - Mochila para portát](https://m.media-amazon.com/images/I/41zhc2Ey0vL._SL200_.jpg)](https://www.amazon.es/dp/B000VOC90Y/?tag=tolees-21)
+[![WENGER 600638 Ibex - Mochila para portát](https://m.media-amazon.com/images/I/41zhc2Ey0vL._SL400_.jpg)](https://www.amazon.es/dp/B000VOC90Y/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Carioca Set Colegio Primaria | Material  al 25.02 % de rebaja'
 date: 2020-09-21 12:48:16
-image: 'https://m.media-amazon.com/images/I/51PJFxNFbAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51PJFxNFbAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.67'
 
 Tienes [Carioca Set Colegio Primaria | Material Escolar con Lápices de Colores y de Dibujo  Rotuladores Super Lavables para Niños  Bolígrafos Borrables con Recambios  Goma y Sacapuntas  62 Uds](https://www.amazon.es/dp/B085VBLDL4/?tag=tolees-21) con precio final de  21.67 EUR (original: 28.9 EUR) (25.02 %  de rebaja) aqui!
 
-[![Carioca Set Colegio Primaria | Material ](https://m.media-amazon.com/images/I/51PJFxNFbAL._SL200_.jpg)](https://www.amazon.es/dp/B085VBLDL4/?tag=tolees-21)
+[![Carioca Set Colegio Primaria | Material ](https://m.media-amazon.com/images/I/51PJFxNFbAL._SL400_.jpg)](https://www.amazon.es/dp/B085VBLDL4/?tag=tolees-21)
 
 🔎:
 

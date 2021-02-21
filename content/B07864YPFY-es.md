@@ -2,7 +2,7 @@
 layout: post
 title: 'Play-Doh Helados Deliciosos  Hasbro E004 al 15.21 % de rebaja'
 date: 2020-09-24 13:33:52
-image: 'https://m.media-amazon.com/images/I/51j37P-fa1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51j37P-fa1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.97'
 
 Tienes [Play-Doh Helados Deliciosos  Hasbro E0042EU4    color/modelo surtido](https://www.amazon.es/dp/B07864YPFY/?tag=tolees-21) con precio final de  12.71 EUR (original: 14.99 EUR) (15.21 %  de rebaja) aqui!
 
-[![Play-Doh Helados Deliciosos  Hasbro E004](https://m.media-amazon.com/images/I/51j37P-fa1L._SL200_.jpg)](https://www.amazon.es/dp/B07864YPFY/?tag=tolees-21)
+[![Play-Doh Helados Deliciosos  Hasbro E004](https://m.media-amazon.com/images/I/51j37P-fa1L._SL400_.jpg)](https://www.amazon.es/dp/B07864YPFY/?tag=tolees-21)
 
 🔎:
 

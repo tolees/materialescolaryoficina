@@ -2,7 +2,7 @@
 layout: post
 title: 'Queta Pizarra Mágica Dibujo con Luz para al 50.00 % de rebaja'
 date: 2020-05-31 08:03:32
-image: 'https://m.media-amazon.com/images/I/51Y8yEUkuEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Y8yEUkuEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.89'
 
 Tienes [Queta Pizarra Mágica Dibujo con Luz para Niños  Tablero 3D Mágico con Luces LED para Niños  Boceto  Arte  Juguetes Educativos  Incluye 7 Plantillas  4 Bolígrafos  1 Paño de Limpieza  Luz ](https://www.amazon.es/dp/B083NSP9RK/?tag=tolees-21) con precio final de  12.89 EUR (original: 25.78 EUR) (50.00 %  de rebaja) aqui!
 
-[![Queta Pizarra Mágica Dibujo con Luz para](https://m.media-amazon.com/images/I/51Y8yEUkuEL._SL200_.jpg)](https://www.amazon.es/dp/B083NSP9RK/?tag=tolees-21)
+[![Queta Pizarra Mágica Dibujo con Luz para](https://m.media-amazon.com/images/I/51Y8yEUkuEL._SL400_.jpg)](https://www.amazon.es/dp/B083NSP9RK/?tag=tolees-21)
 
 🔎:
 

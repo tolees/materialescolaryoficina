@@ -2,7 +2,7 @@
 layout: post
 title: 'HellDoler Manualidades para Niños 100 Ho al 38.48 % de rebaja'
 date: 2020-08-10 05:12:15
-image: 'https://m.media-amazon.com/images/I/51lG1Tq8k0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lG1Tq8k0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.49'
 
 Tienes [HellDoler Manualidades para Niños 100 Hojas Manualidades para Rascar Scratch Art Cuadernos para Dibujar Papel de Rascar Incluye 4 Plantillas de Plantillas de Dibujo y 10 Lápices de Madera](https://www.amazon.es/dp/B07S3STD9G/?tag=tolees-21) con precio final de  15.99 EUR (original: 25.99 EUR) (38.48 %  de rebaja) aqui!
 
-[![HellDoler Manualidades para Niños 100 Ho](https://m.media-amazon.com/images/I/51lG1Tq8k0L._SL200_.jpg)](https://www.amazon.es/dp/B07S3STD9G/?tag=tolees-21)
+[![HellDoler Manualidades para Niños 100 Ho](https://m.media-amazon.com/images/I/51lG1Tq8k0L._SL400_.jpg)](https://www.amazon.es/dp/B07S3STD9G/?tag=tolees-21)
 
 🔎:
 

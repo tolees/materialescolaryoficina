@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.00 % en Miquel Rius Agenda Escolar Rígida de Esp'
 date: 2020-10-09 18:37:08
-image: 'https://m.media-amazon.com/images/I/41Z1Skxv97L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z1Skxv97L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.55'
 
 Tienes [Miquel Rius Agenda Escolar Rígida de Espiral 155x213 Mm Semana Vista 2020 MissBorderlike Despreocupate Aguamarina Castellano](https://www.amazon.es/dp/B086RFYS5Y/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 11.55 EUR (original: 16.5 EUR) en el siguiente enlace!
 
-[![Miquel Rius Agenda Escolar Rígida de Esp](https://m.media-amazon.com/images/I/41Z1Skxv97L._SL200_.jpg)](https://www.amazon.es/dp/B086RFYS5Y/?tag=tolees-21)
+[![Miquel Rius Agenda Escolar Rígida de Esp](https://m.media-amazon.com/images/I/41Z1Skxv97L._SL400_.jpg)](https://www.amazon.es/dp/B086RFYS5Y/?tag=tolees-21)
 
 ℹ️:
 

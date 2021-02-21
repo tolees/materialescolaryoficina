@@ -2,7 +2,7 @@
 layout: post
 title: 'BIC Cristal Original Punta Fina - Estuch al 24.76 % de descuento'
 date: 2020-02-19 13:32:37
-image: 'https://m.media-amazon.com/images/I/41Fwbu-exHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fwbu-exHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.58'
 
 Ahora mismo tienes [BIC Cristal Original Punta Fina - Estuche de 4 bolígrafos  color negro](https://www.amazon.es/dp/B007W1HI7I/?tag=tolees-21) a 1.58 EUR (original: 2.1 EUR) (24.76 %  de descuento) en el siguiente enlace!
 
-[![BIC Cristal Original Punta Fina - Estuch](https://m.media-amazon.com/images/I/41Fwbu-exHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B007W1HI7I/?tag=tolees-21)
+[![BIC Cristal Original Punta Fina - Estuch](https://m.media-amazon.com/images/I/41Fwbu-exHL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B007W1HI7I/?tag=tolees-21)
 
 🔎:
 

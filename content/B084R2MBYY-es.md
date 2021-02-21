@@ -2,7 +2,7 @@
 layout: post
 title: 'Pelikan Jazz Classic 815017 Bolígrafo co al 35.76 % de descuento'
 date: 2020-09-27 02:18:12
-image: 'https://m.media-amazon.com/images/I/215vugo0baL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/215vugo0baL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.91'
 
 Ahora mismo tienes [Pelikan Jazz Classic 815017 Bolígrafo con Mina Azul  color Mostaza amarilla](https://www.amazon.es/dp/B084R2MBYY/?tag=tolees-21) a 2.91 EUR (original: 4.53 EUR) (35.76 %  de descuento) en el siguiente enlace!
 
-[![Pelikan Jazz Classic 815017 Bolígrafo co](https://m.media-amazon.com/images/I/215vugo0baL._SL200_.jpg)](https://www.amazon.es/dp/B084R2MBYY/?tag=tolees-21)
+[![Pelikan Jazz Classic 815017 Bolígrafo co](https://m.media-amazon.com/images/I/215vugo0baL._SL400_.jpg)](https://www.amazon.es/dp/B084R2MBYY/?tag=tolees-21)
 
 🔎:
 

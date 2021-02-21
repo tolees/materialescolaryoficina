@@ -2,7 +2,7 @@
 layout: post
 title: 'Staedtler Pigment liner Fineliner 0.1mm  al 60.12 % de descuento'
 date: 2020-05-24 12:33:00
-image: 'https://m.media-amazon.com/images/I/21F6QuNQJ9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21F6QuNQJ9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.99'
 
 Está [Staedtler Pigment liner Fineliner 0.1mm - Rotulador  Negro ](https://www.amazon.es/dp/B00AHW56PK/?tag=tolees-21) con 60.12 de descuento por 1.99 EUR (original: 4.99 EUR) en el siguiente enlace!
 
-[![Staedtler Pigment liner Fineliner 0.1mm ](https://m.media-amazon.com/images/I/21F6QuNQJ9L._SL200_.jpg)](https://www.amazon.es/dp/B00AHW56PK/?tag=tolees-21)
+[![Staedtler Pigment liner Fineliner 0.1mm ](https://m.media-amazon.com/images/I/21F6QuNQJ9L._SL400_.jpg)](https://www.amazon.es/dp/B00AHW56PK/?tag=tolees-21)
 
 ℹ️:
 

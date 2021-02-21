@@ -2,7 +2,7 @@
 layout: post
 title: 'Voilamart Juego de Herramientas para Bon con un 16.67 % de descuento'
 date: 2020-10-07 20:47:22
-image: 'https://m.media-amazon.com/images/I/51boJvGnW4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51boJvGnW4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 En este momento está [Voilamart Juego de Herramientas para Bonsái 6 Piezas con Tijeras cizalla y cortadores de Acero al Carbono](https://www.amazon.es/dp/B07FDYBL3G/?tag=tolees-21) a 29.99 EUR (original: 35.99 EUR) (16.67 %  de descuento) en el siguiente enlace!
 
-[![Voilamart Juego de Herramientas para Bon](https://m.media-amazon.com/images/I/51boJvGnW4L._SL200_.jpg)](https://www.amazon.es/dp/B07FDYBL3G/?tag=tolees-21)
+[![Voilamart Juego de Herramientas para Bon](https://m.media-amazon.com/images/I/51boJvGnW4L._SL400_.jpg)](https://www.amazon.es/dp/B07FDYBL3G/?tag=tolees-21)
 
 🔎:
 

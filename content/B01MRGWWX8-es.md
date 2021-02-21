@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbus A08432 Mochila Plegable  Unisex con un 59.30 % de descuento'
 date: 2020-02-25 11:44:08
-image: 'https://m.media-amazon.com/images/I/51zbGCrdzFL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zbGCrdzFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.1'
 
 En este momento está [Columbus A08432 Mochila Plegable  Unisex Adulto  Azul  Talla Única](https://www.amazon.es/dp/B01MRGWWX8/?tag=tolees-21) a 8.1 EUR (original: 19.9 EUR) (59.30 %  de descuento) en el siguiente enlace!
 
-[![Columbus A08432 Mochila Plegable  Unisex](https://m.media-amazon.com/images/I/51zbGCrdzFL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01MRGWWX8/?tag=tolees-21)
+[![Columbus A08432 Mochila Plegable  Unisex](https://m.media-amazon.com/images/I/51zbGCrdzFL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01MRGWWX8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Rotuladores metálicos  Kaliwa Juego de 1 al 60.02 % de descuento'
 date: 2020-05-30 16:20:01
-image: 'https://m.media-amazon.com/images/I/51pghQ8vMQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pghQ8vMQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Rotuladores metálicos  Kaliwa Juego de 10 Colores Surtidos Rotuladores Permanente para Hacer Regalo de Cumpleaños  Tarjetas  Scrapbooking  Foto de Bricolaje  Album de piedra  Pintura de Roca Vidrio](https://www.amazon.es/dp/B07TQFT6LJ/?tag=tolees-21) con 60.02 de descuento por 9.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![Rotuladores metálicos  Kaliwa Juego de 1](https://m.media-amazon.com/images/I/51pghQ8vMQL._SL200_.jpg)](https://www.amazon.es/dp/B07TQFT6LJ/?tag=tolees-21)
+[![Rotuladores metálicos  Kaliwa Juego de 1](https://m.media-amazon.com/images/I/51pghQ8vMQL._SL400_.jpg)](https://www.amazon.es/dp/B07TQFT6LJ/?tag=tolees-21)
 
 ℹ️:
 

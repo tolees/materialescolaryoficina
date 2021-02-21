@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila 32 cm Pepe Jeans Jareth con un 20.37 % de descuento'
 date: 2020-01-30 08:42:56
-image: 'https://m.media-amazon.com/images/I/512ln+c7xZL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512ln+c7xZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.005000000000003'
 
 En este momento está [Mochila 32 cm Pepe Jeans Jareth](https://www.amazon.es/dp/B07NPWXN8H/?tag=tolees-21) a 21.5 EUR (original: 27.0 EUR) (20.37 %  de descuento) en el siguiente enlace!
 
-[![Mochila 32 cm Pepe Jeans Jareth](https://m.media-amazon.com/images/I/512ln+c7xZL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NPWXN8H/?tag=tolees-21)
+[![Mochila 32 cm Pepe Jeans Jareth](https://m.media-amazon.com/images/I/512ln+c7xZL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NPWXN8H/?tag=tolees-21)
 
 🔎:
 

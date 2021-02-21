@@ -2,7 +2,7 @@
 layout: post
 title: 'KUONIIY Tijeras  Hoja Recubierta de Tita al 18.25 % de descuento'
 date: 2020-01-15 10:48:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51jS0Kr2QkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jS0Kr2QkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Está [KUONIIY Tijeras  Hoja Recubierta de Titanio Súper Afilada  Conjunto de 5 Tijeras Multiusos con Mango Suave y Cómodo  Negro](https://www.amazon.es/dp/B07DHD96QK/?tag=tolees-21) con 18.25 de descuento por 12.99 EUR (original: 15.89 EUR) en el siguiente enlace!
 
-[![KUONIIY Tijeras  Hoja Recubierta de Tita](https://images-eu.ssl-images-amazon.com/images/I/51jS0Kr2QkL._SL200_.jpg)](https://www.amazon.es/dp/B07DHD96QK/?tag=tolees-21)
+[![KUONIIY Tijeras  Hoja Recubierta de Tita](https://images-eu.ssl-images-amazon.com/images/I/51jS0Kr2QkL._SL400_.jpg)](https://www.amazon.es/dp/B07DHD96QK/?tag=tolees-21)
 
 ℹ️:
 

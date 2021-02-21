@@ -2,7 +2,7 @@
 layout: post
 title: 'AmazonBasics Mochila para todos los días con un 49.03 % de descuento'
 date: 2020-01-14 11:22:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41TvKzBzQcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TvKzBzQcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.709999999999999'
 
 En este momento está [AmazonBasics Mochila para todos los días  azul marino](https://www.amazon.es/dp/B07FNT38FV/?tag=tolees-21) a 7.64 EUR (original: 14.99 EUR) (49.03 %  de descuento) en el siguiente enlace!
 
-[![AmazonBasics Mochila para todos los días](https://images-eu.ssl-images-amazon.com/images/I/41TvKzBzQcL._SL200_.jpg)](https://www.amazon.es/dp/B07FNT38FV/?tag=tolees-21)
+[![AmazonBasics Mochila para todos los días](https://images-eu.ssl-images-amazon.com/images/I/41TvKzBzQcL._SL400_.jpg)](https://www.amazon.es/dp/B07FNT38FV/?tag=tolees-21)
 
 🔎:
 

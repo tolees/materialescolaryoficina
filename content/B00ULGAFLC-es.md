@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.66 % en BIC Celebrate Cristal Shine bolígrafos p'
 date: 2020-10-06 21:46:57
-image: 'https://m.media-amazon.com/images/I/41WmP5d6q4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WmP5d6q4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.2931578947368423'
 
 Tienes [BIC Celebrate Cristal Shine bolígrafos punta media  1 0 mm  - Cuerpo y colores Surtidos  Blíster de 2 unidades](https://www.amazon.es/dp/B00ULGAFLC/?tag=tolees-21) con un 30.66 % de descuento con precio de oferta de 1.99 EUR (original: 2.87 EUR) en el siguiente enlace!
 
-[![BIC Celebrate Cristal Shine bolígrafos p](https://m.media-amazon.com/images/I/41WmP5d6q4L._SL200_.jpg)](https://www.amazon.es/dp/B00ULGAFLC/?tag=tolees-21)
+[![BIC Celebrate Cristal Shine bolígrafos p](https://m.media-amazon.com/images/I/41WmP5d6q4L._SL400_.jpg)](https://www.amazon.es/dp/B00ULGAFLC/?tag=tolees-21)
 
 ℹ️:
 

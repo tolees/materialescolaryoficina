@@ -2,7 +2,7 @@
 layout: post
 title: 'LeaderPro 60W Pistola de Encolar viene u al 35.50 % de descuento'
 date: 2020-09-08 06:00:36
-image: 'https://m.media-amazon.com/images/I/51X54DAe2sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51X54DAe2sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.13492753623188'
 
 Ahora mismo tienes [LeaderPro 60W Pistola de Encolar viene una Bolsa y 20 Psc Barras de Pegamentos  Alta Temperatura Pistola de pegamento para Inicio de Reparación Rápida/Kits de Artesanía de Bricolaje](https://www.amazon.es/dp/B077VJHR7G/?tag=tolees-21) a 19.99 EUR (original: 30.99 EUR) (35.50 %  de descuento) en el siguiente enlace!
 
-[![LeaderPro 60W Pistola de Encolar viene u](https://m.media-amazon.com/images/I/51X54DAe2sL._SL200_.jpg)](https://www.amazon.es/dp/B077VJHR7G/?tag=tolees-21)
+[![LeaderPro 60W Pistola de Encolar viene u](https://m.media-amazon.com/images/I/51X54DAe2sL._SL400_.jpg)](https://www.amazon.es/dp/B077VJHR7G/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BIC Kids Kid Couleur rotuladores punta m con un 46.28 % de descuento'
 date: 2020-10-09 15:48:40
-image: 'https://m.media-amazon.com/images/I/51AovIdRW0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AovIdRW0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.413571428571429'
 
 En este momento está [BIC Kids Kid Couleur rotuladores punta media - colores Surtidos  Estuche de 36 unidades](https://www.amazon.es/dp/B06XDC48CM/?tag=tolees-21) a 5.99 EUR (original: 11.15 EUR) (46.28 %  de descuento) en el siguiente enlace!
 
-[![BIC Kids Kid Couleur rotuladores punta m](https://m.media-amazon.com/images/I/51AovIdRW0L._SL200_.jpg)](https://www.amazon.es/dp/B06XDC48CM/?tag=tolees-21)
+[![BIC Kids Kid Couleur rotuladores punta m](https://m.media-amazon.com/images/I/51AovIdRW0L._SL400_.jpg)](https://www.amazon.es/dp/B06XDC48CM/?tag=tolees-21)
 
 🔎:
 

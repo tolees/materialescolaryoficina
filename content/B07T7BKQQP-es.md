@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Convey Mochila con la Parte Sup al 45.01 % de descuento'
 date: 2020-06-26 17:18:18
-image: 'https://m.media-amazon.com/images/I/41oLoznuC3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oLoznuC3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.49'
 
 Ahora mismo tienes [Columbia Convey Mochila con la Parte Superior Enrollada  Unisex Adulto  Verde  Rain Forest   O/S](https://www.amazon.es/dp/B07T7BKQQP/?tag=tolees-21) a 38.49 EUR (original: 69.99 EUR) (45.01 %  de descuento) en el siguiente enlace!
 
-[![Columbia Convey Mochila con la Parte Sup](https://m.media-amazon.com/images/I/41oLoznuC3L._SL200_.jpg)](https://www.amazon.es/dp/B07T7BKQQP/?tag=tolees-21)
+[![Columbia Convey Mochila con la Parte Sup](https://m.media-amazon.com/images/I/41oLoznuC3L._SL400_.jpg)](https://www.amazon.es/dp/B07T7BKQQP/?tag=tolees-21)
 
 🔎:
 

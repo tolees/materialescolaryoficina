@@ -2,7 +2,7 @@
 layout: post
 title: 'Estuche de Actividades para niños de +3  al 30.70 % de rebaja'
 date: 2020-04-01 21:09:55
-image: 'https://m.media-amazon.com/images/I/51ZoWv5vK6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZoWv5vK6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.8'
 
 Tienes [Estuche de Actividades para niños de +3 años  Plantillas y Libro de Actividades de 60 Páginas con Pegatinas Reutilizables  Papel Multicolor  Páginas para Colorear y mucho más por Art with Smile](https://www.amazon.es/dp/B07T2DNXC4/?tag=tolees-21) con precio final de  29.8 EUR (original: 43.0 EUR) (30.70 %  de rebaja) aqui!
 
-[![Estuche de Actividades para niños de +3 ](https://m.media-amazon.com/images/I/51ZoWv5vK6L._SL200_.jpg)](https://www.amazon.es/dp/B07T2DNXC4/?tag=tolees-21)
+[![Estuche de Actividades para niños de +3 ](https://m.media-amazon.com/images/I/51ZoWv5vK6L._SL400_.jpg)](https://www.amazon.es/dp/B07T2DNXC4/?tag=tolees-21)
 
 🔎:
 

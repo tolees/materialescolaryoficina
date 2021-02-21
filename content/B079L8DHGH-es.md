@@ -2,7 +2,7 @@
 layout: post
 title: 'AmazonBasics - Mochila compacta de viaje con un 39.63 % de descuento'
 date: 2020-01-21 20:34:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41eKqgNiG%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eKqgNiG%2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.25'
 
 En este momento está [AmazonBasics - Mochila compacta de viaje  Negro  para viajes de fin de semana](https://www.amazon.es/dp/B079L8DHGH/?tag=tolees-21) a 42.25 EUR (original: 69.99 EUR) (39.63 %  de descuento) en el siguiente enlace!
 
-[![AmazonBasics - Mochila compacta de viaje](https://images-eu.ssl-images-amazon.com/images/I/41eKqgNiG%2BL._SL200_.jpg)](https://www.amazon.es/dp/B079L8DHGH/?tag=tolees-21)
+[![AmazonBasics - Mochila compacta de viaje](https://images-eu.ssl-images-amazon.com/images/I/41eKqgNiG%2BL._SL400_.jpg)](https://www.amazon.es/dp/B079L8DHGH/?tag=tolees-21)
 
 🔎:
 

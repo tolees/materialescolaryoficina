@@ -2,7 +2,7 @@
 layout: post
 title: 'Miquel Rius 17280 - Cubilete Azul  Bella al 44.49 % de descuento'
 date: 2020-05-29 18:56:53
-image: 'https://m.media-amazon.com/images/I/21dQcfsLdBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21dQcfsLdBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.1'
 
 Está [Miquel Rius 17280 - Cubilete Azul  Bella Garden](https://www.amazon.es/dp/B07YGZ6VBX/?tag=tolees-21) con 44.49 de descuento por 6.1 EUR (original: 10.99 EUR) en el siguiente enlace!
 
-[![Miquel Rius 17280 - Cubilete Azul  Bella](https://m.media-amazon.com/images/I/21dQcfsLdBL._SL200_.jpg)](https://www.amazon.es/dp/B07YGZ6VBX/?tag=tolees-21)
+[![Miquel Rius 17280 - Cubilete Azul  Bella](https://m.media-amazon.com/images/I/21dQcfsLdBL._SL400_.jpg)](https://www.amazon.es/dp/B07YGZ6VBX/?tag=tolees-21)
 
 ℹ️:
 

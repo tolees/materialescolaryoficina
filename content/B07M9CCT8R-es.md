@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsonite Karissa Biz - Mochila  40 cm   con un 36.76 % de descuento'
 date: 2020-09-22 23:15:30
-image: 'https://m.media-amazon.com/images/I/31RulmUiRYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RulmUiRYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '91.79333333333334'
 
 En este momento está [Samsonite Karissa Biz - Mochila  40 cm    Rojo  Formula Red ](https://www.amazon.es/dp/B07M9CCT8R/?tag=tolees-21) a 94.23 EUR (original: 149.0 EUR) (36.76 %  de descuento) en el siguiente enlace!
 
-[![Samsonite Karissa Biz - Mochila  40 cm  ](https://m.media-amazon.com/images/I/31RulmUiRYL._SL200_.jpg)](https://www.amazon.es/dp/B07M9CCT8R/?tag=tolees-21)
+[![Samsonite Karissa Biz - Mochila  40 cm  ](https://m.media-amazon.com/images/I/31RulmUiRYL._SL400_.jpg)](https://www.amazon.es/dp/B07M9CCT8R/?tag=tolees-21)
 
 🔎:
 

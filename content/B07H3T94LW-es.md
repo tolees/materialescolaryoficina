@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Hayward Futura 2.0 Mochila  Unisex  al 28.62 % de rebaja'
 date: 2020-01-20 07:10:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ha660%2BlwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ha660%2BlwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Tienes [Nike Hayward Futura 2.0 Mochila  Unisex Adulto  Azul  Blue Void/University Red   Talla Única](https://www.amazon.es/dp/B07H3T94LW/?tag=tolees-21) con precio final de  19.95 EUR (original: 27.95 EUR) (28.62 %  de rebaja) aqui!
 
-[![Nike Hayward Futura 2.0 Mochila  Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41ha660%2BlwL._SL200_.jpg)](https://www.amazon.es/dp/B07H3T94LW/?tag=tolees-21)
+[![Nike Hayward Futura 2.0 Mochila  Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41ha660%2BlwL._SL400_.jpg)](https://www.amazon.es/dp/B07H3T94LW/?tag=tolees-21)
 
 🔎:
 

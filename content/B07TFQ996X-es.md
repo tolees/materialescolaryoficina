@@ -2,7 +2,7 @@
 layout: post
 title: 'Quiksilver Schoolie 30l-Mochila Grande p al 26.31 % de descuento'
 date: 2020-02-11 19:48:05
-image: 'https://m.media-amazon.com/images/I/51jL2WP7B7L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jL2WP7B7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.84'
 
 Está [Quiksilver Schoolie 30l-Mochila Grande para Hombre Backpack  Light Grey Heather  1SZ](https://www.amazon.es/dp/B07TFQ996X/?tag=tolees-21) con 26.31 de descuento por 36.84 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Quiksilver Schoolie 30l-Mochila Grande p](https://m.media-amazon.com/images/I/51jL2WP7B7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TFQ996X/?tag=tolees-21)
+[![Quiksilver Schoolie 30l-Mochila Grande p](https://m.media-amazon.com/images/I/51jL2WP7B7L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TFQ996X/?tag=tolees-21)
 
 ℹ️:
 

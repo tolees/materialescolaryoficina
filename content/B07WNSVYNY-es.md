@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda para iPad  9 7 Pulgadas  2018/2017 al 38.48 % de descuento'
 date: 2020-05-15 09:41:34
-image: 'https://m.media-amazon.com/images/I/51jyMvRHJAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jyMvRHJAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Ahora mismo tienes [Funda para iPad  9 7 Pulgadas  2018/2017 Modelo  6ª / 5ª generación   con Soporte para lápiz  Carcasa con Auto-Sueño/Estela  Compatibles Apple iPad Air 2 / iPad Air Modelo  Negro](https://www.amazon.es/dp/B07WNSVYNY/?tag=tolees-21) a 15.99 EUR (original: 25.99 EUR) (38.48 %  de descuento) en el siguiente enlace!
 
-[![Funda para iPad  9 7 Pulgadas  2018/2017](https://m.media-amazon.com/images/I/51jyMvRHJAL._SL200_.jpg)](https://www.amazon.es/dp/B07WNSVYNY/?tag=tolees-21)
+[![Funda para iPad  9 7 Pulgadas  2018/2017](https://m.media-amazon.com/images/I/51jyMvRHJAL._SL400_.jpg)](https://www.amazon.es/dp/B07WNSVYNY/?tag=tolees-21)
 
 🔎:
 

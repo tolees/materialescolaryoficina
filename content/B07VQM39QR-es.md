@@ -2,7 +2,7 @@
 layout: post
 title: 'CARIOCA Oops Azules | Set Bolígrafos Bor al 24.99 % de rebaja'
 date: 2020-10-02 10:01:07
-image: 'https://m.media-amazon.com/images/I/41eiH5yCafL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eiH5yCafL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.12'
 
 Tienes [CARIOCA Oops Azules | Set Bolígrafos Borrables Recargables con Tapa para el Colegio  Universidad y Oficina con Doble Goma Incorporada y Agarre Ergonómico  Bolígrafos Azules12 Uds](https://www.amazon.es/dp/B07VQM39QR/?tag=tolees-21) con precio final de  16.12 EUR (original: 21.49 EUR) (24.99 %  de rebaja) aqui!
 
-[![CARIOCA Oops Azules | Set Bolígrafos Bor](https://m.media-amazon.com/images/I/41eiH5yCafL._SL200_.jpg)](https://www.amazon.es/dp/B07VQM39QR/?tag=tolees-21)
+[![CARIOCA Oops Azules | Set Bolígrafos Bor](https://m.media-amazon.com/images/I/41eiH5yCafL._SL400_.jpg)](https://www.amazon.es/dp/B07VQM39QR/?tag=tolees-21)
 
 🔎:
 

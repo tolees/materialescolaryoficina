@@ -2,7 +2,7 @@
 layout: post
 title: 'Omy Set de 16 rotuladores ultralavables  con un 69.59 % de descuento'
 date: 2020-01-16 20:25:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21SOxPWMW9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21SOxPWMW9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.210000000000001'
 
 En este momento está [Omy Set de 16 rotuladores ultralavables  17 x 4 x 17 cm](https://www.amazon.es/dp/B06ZYH583X/?tag=tolees-21) a 3.95 EUR (original: 12.99 EUR) (69.59 %  de descuento) en el siguiente enlace!
 
-[![Omy Set de 16 rotuladores ultralavables ](https://images-eu.ssl-images-amazon.com/images/I/21SOxPWMW9L._SL200_.jpg)](https://www.amazon.es/dp/B06ZYH583X/?tag=tolees-21)
+[![Omy Set de 16 rotuladores ultralavables ](https://images-eu.ssl-images-amazon.com/images/I/21SOxPWMW9L._SL400_.jpg)](https://www.amazon.es/dp/B06ZYH583X/?tag=tolees-21)
 
 🔎:
 

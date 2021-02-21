@@ -2,7 +2,7 @@
 layout: post
 title: 'AYUN 20pcs palillo de bolígrafos Bone bo al 49.13 % de descuento'
 date: 2020-05-12 15:36:31
-image: 'https://m.media-amazon.com/images/I/41v-2VikXOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41v-2VikXOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.92'
 
 Está [AYUN 20pcs palillo de bolígrafos Bone bolígrafo con Tinta Negro de Doctor Nurse Amigos Estudiantes](https://www.amazon.es/dp/B0876S6DCW/?tag=tolees-21) con 49.13 de descuento por 9.92 EUR (original: 19.5 EUR) en el siguiente enlace!
 
-[![AYUN 20pcs palillo de bolígrafos Bone bo](https://m.media-amazon.com/images/I/41v-2VikXOL._SL200_.jpg)](https://www.amazon.es/dp/B0876S6DCW/?tag=tolees-21)
+[![AYUN 20pcs palillo de bolígrafos Bone bo](https://m.media-amazon.com/images/I/41v-2VikXOL._SL400_.jpg)](https://www.amazon.es/dp/B0876S6DCW/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Gibot Lápices de Colores para niños  Aga con un 26.66 % de descuento'
 date: 2020-06-20 09:28:50
-image: 'https://m.media-amazon.com/images/I/51sJ7bm0YxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sJ7bm0YxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.58'
 
 En este momento está [Gibot Lápices de Colores para niños  Agarre de Palma de la Mano  Surtido de 12 Colores  apilables y Apto para niños pequeños  Producto Seguro y no tóxico.](https://www.amazon.es/dp/B077YTQ3PQ/?tag=tolees-21) a 10.26 EUR (original: 13.99 EUR) (26.66 %  de descuento) en el siguiente enlace!
 
-[![Gibot Lápices de Colores para niños  Aga](https://m.media-amazon.com/images/I/51sJ7bm0YxL._SL200_.jpg)](https://www.amazon.es/dp/B077YTQ3PQ/?tag=tolees-21)
+[![Gibot Lápices de Colores para niños  Aga](https://m.media-amazon.com/images/I/51sJ7bm0YxL._SL400_.jpg)](https://www.amazon.es/dp/B077YTQ3PQ/?tag=tolees-21)
 
 🔎:
 

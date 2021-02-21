@@ -2,7 +2,7 @@
 layout: post
 title: 'Jovi 71 - Plastilina  color verde claro al 60.76 % de rebaja'
 date: 2020-04-14 10:32:11
-image: 'https://m.media-amazon.com/images/I/21Bj17PFO9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21Bj17PFO9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.875'
 
 Tienes [Jovi 71 - Plastilina  color verde claro](https://www.amazon.es/dp/B009GGTPMS/?tag=tolees-21) con precio final de  1.75 EUR (original: 4.46 EUR) (60.76 %  de rebaja) aqui!
 
-[![Jovi 71 - Plastilina  color verde claro](https://m.media-amazon.com/images/I/21Bj17PFO9L._SL200_.jpg)](https://www.amazon.es/dp/B009GGTPMS/?tag=tolees-21)
+[![Jovi 71 - Plastilina  color verde claro](https://m.media-amazon.com/images/I/21Bj17PFO9L._SL400_.jpg)](https://www.amazon.es/dp/B009GGTPMS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Westcott - Tijeras infantiles para diest al 21.11 % de rebaja'
 date: 2020-04-13 22:02:18
-image: 'https://m.media-amazon.com/images/I/31lmzJNBw4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lmzJNBw4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.57'
 
 Tienes [Westcott - Tijeras infantiles para diestros](https://www.amazon.es/dp/B01BSSEY4U/?tag=tolees-21) con precio final de  1.57 EUR (original: 1.99 EUR) (21.11 %  de rebaja) aqui!
 
-[![Westcott - Tijeras infantiles para diest](https://m.media-amazon.com/images/I/31lmzJNBw4L._SL200_.jpg)](https://www.amazon.es/dp/B01BSSEY4U/?tag=tolees-21)
+[![Westcott - Tijeras infantiles para diest](https://m.media-amazon.com/images/I/31lmzJNBw4L._SL400_.jpg)](https://www.amazon.es/dp/B01BSSEY4U/?tag=tolees-21)
 
 🔎:
 

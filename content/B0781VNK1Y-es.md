@@ -2,7 +2,7 @@
 layout: post
 title: 'BIC Kids Evolution ECOlutions Lápices pa al 33.15 % de descuento'
 date: 2020-09-10 17:20:14
-image: 'https://m.media-amazon.com/images/I/51bBq8seBxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bBq8seBxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.058333333333334'
 
 Está [BIC Kids Evolution ECOlutions Lápices para Colorear - colores Surtidos  Blíster de 36 unidades](https://www.amazon.es/dp/B0781VNK1Y/?tag=tolees-21) con 33.15 de descuento por 5.99 EUR (original: 8.96 EUR) en el siguiente enlace!
 
-[![BIC Kids Evolution ECOlutions Lápices pa](https://m.media-amazon.com/images/I/51bBq8seBxL._SL200_.jpg)](https://www.amazon.es/dp/B0781VNK1Y/?tag=tolees-21)
+[![BIC Kids Evolution ECOlutions Lápices pa](https://m.media-amazon.com/images/I/51bBq8seBxL._SL400_.jpg)](https://www.amazon.es/dp/B0781VNK1Y/?tag=tolees-21)
 
 ℹ️:
 

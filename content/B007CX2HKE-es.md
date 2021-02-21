@@ -2,7 +2,7 @@
 layout: post
 title: 'BIC 4 colores Original bolígrafos Retrác al 29.24 % de descuento'
 date: 2020-08-30 07:46:49
-image: 'https://m.media-amazon.com/images/I/51kdsdf4wZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kdsdf4wZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.833333333333334'
 
 Ahora mismo tienes [BIC 4 colores Original bolígrafos Retráctiles punta media  1 0 mm  - Blíster de 2+1](https://www.amazon.es/dp/B007CX2HKE/?tag=tolees-21) a 3.8 EUR (original: 5.37 EUR) (29.24 %  de descuento) en el siguiente enlace!
 
-[![BIC 4 colores Original bolígrafos Retrác](https://m.media-amazon.com/images/I/51kdsdf4wZL._SL200_.jpg)](https://www.amazon.es/dp/B007CX2HKE/?tag=tolees-21)
+[![BIC 4 colores Original bolígrafos Retrác](https://m.media-amazon.com/images/I/51kdsdf4wZL._SL400_.jpg)](https://www.amazon.es/dp/B007CX2HKE/?tag=tolees-21)
 
 🔎:
 

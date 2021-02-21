@@ -2,7 +2,7 @@
 layout: post
 title: 'TOTTO AC52ECO010-1710Z-6M2 - Estuche esc al 29.87 % de rebaja'
 date: 2020-09-21 21:11:08
-image: 'https://m.media-amazon.com/images/I/51zwcC2JTkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zwcC2JTkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [TOTTO AC52ECO010-1710Z-6M2 - Estuche escolar con dos compartimentos](https://www.amazon.es/dp/B077T6DYC9/?tag=tolees-21) con precio final de  13.99 EUR (original: 19.95 EUR) (29.87 %  de rebaja) aqui!
 
-[![TOTTO AC52ECO010-1710Z-6M2 - Estuche esc](https://m.media-amazon.com/images/I/51zwcC2JTkL._SL200_.jpg)](https://www.amazon.es/dp/B077T6DYC9/?tag=tolees-21)
+[![TOTTO AC52ECO010-1710Z-6M2 - Estuche esc](https://m.media-amazon.com/images/I/51zwcC2JTkL._SL400_.jpg)](https://www.amazon.es/dp/B077T6DYC9/?tag=tolees-21)
 
 🔎:
 

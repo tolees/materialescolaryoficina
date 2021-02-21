@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila Infantil Personaje Disney LA Dam al 19.66 % de rebaja'
 date: 2020-07-10 09:01:22
-image: 'https://m.media-amazon.com/images/I/51YYjByyF0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YYjByyF0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.52'
 
 Tienes [Mochila Infantil Personaje Disney LA Dama Y EL VAGABUNDO](https://www.amazon.es/dp/B07RM4QWSQ/?tag=tolees-21) con precio final de  9.52 EUR (original: 11.85 EUR) (19.66 %  de rebaja) aqui!
 
-[![Mochila Infantil Personaje Disney LA Dam](https://m.media-amazon.com/images/I/51YYjByyF0L._SL200_.jpg)](https://www.amazon.es/dp/B07RM4QWSQ/?tag=tolees-21)
+[![Mochila Infantil Personaje Disney LA Dam](https://m.media-amazon.com/images/I/51YYjByyF0L._SL400_.jpg)](https://www.amazon.es/dp/B07RM4QWSQ/?tag=tolees-21)
 
 🔎:
 

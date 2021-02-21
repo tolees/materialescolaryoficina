@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans VN0A3UI6 - Mochila de Sintético muj al 50.00 % de descuento'
 date: 2020-05-12 12:29:32
-image: 'https://m.media-amazon.com/images/I/51pDSl7xukL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pDSl7xukL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.595'
 
 Ahora mismo tienes [Vans VN0A3UI6 - Mochila de Sintético mujer  Multicolor  Arrowwood leopard ](https://www.amazon.es/dp/B07WDKXDHJ/?tag=tolees-21) a 20.0 EUR (original: 40.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Vans VN0A3UI6 - Mochila de Sintético muj](https://m.media-amazon.com/images/I/51pDSl7xukL._SL200_.jpg)](https://www.amazon.es/dp/B07WDKXDHJ/?tag=tolees-21)
+[![Vans VN0A3UI6 - Mochila de Sintético muj](https://m.media-amazon.com/images/I/51pDSl7xukL._SL400_.jpg)](https://www.amazon.es/dp/B07WDKXDHJ/?tag=tolees-21)
 
 🔎:
 

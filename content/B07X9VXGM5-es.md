@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.34 % en Parfois - Mochila Estampada - Mujeres - '
 date: 2020-01-17 12:23:55
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zyC6PIBzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zyC6PIBzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [Parfois - Mochila Estampada - Mujeres - Tallas L - Crudo](https://www.amazon.es/dp/B07X9VXGM5/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Parfois - Mochila Estampada - Mujeres - ](https://images-eu.ssl-images-amazon.com/images/I/41zyC6PIBzL._SL200_.jpg)](https://www.amazon.es/dp/B07X9VXGM5/?tag=tolees-21)
+[![Parfois - Mochila Estampada - Mujeres - ](https://images-eu.ssl-images-amazon.com/images/I/41zyC6PIBzL._SL400_.jpg)](https://www.amazon.es/dp/B07X9VXGM5/?tag=tolees-21)
 
 ℹ️:
 

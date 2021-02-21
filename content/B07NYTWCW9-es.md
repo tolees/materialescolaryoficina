@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila doble compartimento adaptable a  al 20.59 % de rebaja'
 date: 2020-03-20 15:01:58
-image: 'https://m.media-amazon.com/images/I/51whC5G+ihL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51whC5G+ihL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.91'
 
 Tienes [Mochila doble compartimento adaptable a carro Spiderman Street](https://www.amazon.es/dp/B07NYTWCW9/?tag=tolees-21) con precio final de  27.0 EUR (original: 34.0 EUR) (20.59 %  de rebaja) aqui!
 
-[![Mochila doble compartimento adaptable a ](https://m.media-amazon.com/images/I/51whC5G+ihL._SL200_.jpg)](https://www.amazon.es/dp/B07NYTWCW9/?tag=tolees-21)
+[![Mochila doble compartimento adaptable a ](https://m.media-amazon.com/images/I/51whC5G+ihL._SL400_.jpg)](https://www.amazon.es/dp/B07NYTWCW9/?tag=tolees-21)
 
 🔎:
 

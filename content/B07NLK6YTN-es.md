@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila Infantil 3D Lady Bug al 21.93 % de descuento'
 date: 2020-07-03 08:31:31
-image: 'https://m.media-amazon.com/images/I/51hYTMewdpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hYTMewdpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.713333333333333'
 
 Está [Mochila Infantil 3D Lady Bug](https://www.amazon.es/dp/B07NLK6YTN/?tag=tolees-21) con 21.93 de descuento por 11.32 EUR (original: 14.5 EUR) en el siguiente enlace!
 
-[![Mochila Infantil 3D Lady Bug](https://m.media-amazon.com/images/I/51hYTMewdpL._SL200_.jpg)](https://www.amazon.es/dp/B07NLK6YTN/?tag=tolees-21)
+[![Mochila Infantil 3D Lady Bug](https://m.media-amazon.com/images/I/51hYTMewdpL._SL400_.jpg)](https://www.amazon.es/dp/B07NLK6YTN/?tag=tolees-21)
 
 ℹ️:
 

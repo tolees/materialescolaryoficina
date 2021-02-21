@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 18.94 % en AmazonBasics - Barras de pegamento lavab'
 date: 2020-05-24 17:44:16
-image: 'https://m.media-amazon.com/images/I/311iczb6r4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311iczb6r4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.155000000000001'
 
 Tienes [AmazonBasics - Barras de pegamento lavable multiusos  tamaño medio  21 g  lote de 4](https://www.amazon.es/dp/B07F8MPG85/?tag=tolees-21) con un 18.94 % de descuento con precio de oferta de 8.26 EUR (original: 10.19 EUR) en el siguiente enlace!
 
-[![AmazonBasics - Barras de pegamento lavab](https://m.media-amazon.com/images/I/311iczb6r4L._SL200_.jpg)](https://www.amazon.es/dp/B07F8MPG85/?tag=tolees-21)
+[![AmazonBasics - Barras de pegamento lavab](https://m.media-amazon.com/images/I/311iczb6r4L._SL400_.jpg)](https://www.amazon.es/dp/B07F8MPG85/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pentel Ain Stein - Minas para portaminas al 45.07 % de rebaja'
 date: 2020-04-16 09:14:17
-image: 'https://m.media-amazon.com/images/I/51+JNLC1ZsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+JNLC1ZsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.73'
 
 Tienes [Pentel Ain Stein - Minas para portaminas  0.7 x 60 mm  dureza HB  40 unidades ](https://www.amazon.es/dp/B005I4ESPG/?tag=tolees-21) con precio final de  2.73 EUR (original: 4.97 EUR) (45.07 %  de rebaja) aqui!
 
-[![Pentel Ain Stein - Minas para portaminas](https://m.media-amazon.com/images/I/51+JNLC1ZsL._SL200_.jpg)](https://www.amazon.es/dp/B005I4ESPG/?tag=tolees-21)
+[![Pentel Ain Stein - Minas para portaminas](https://m.media-amazon.com/images/I/51+JNLC1ZsL._SL400_.jpg)](https://www.amazon.es/dp/B005I4ESPG/?tag=tolees-21)
 
 🔎:
 

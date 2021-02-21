@@ -2,7 +2,7 @@
 layout: post
 title: 'Eastpak Padded Pak r Mochila  40 cm  24  al 26.02 % de descuento'
 date: 2020-09-20 12:05:19
-image: 'https://m.media-amazon.com/images/I/415VujhAwYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415VujhAwYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.674444444444447'
 
 Está [Eastpak Padded Pak r Mochila  40 cm  24 L  Gris  Black Denim ](https://www.amazon.es/dp/B00MGON1SG/?tag=tolees-21) con 26.02 de descuento por 36.99 EUR (original: 50.0 EUR) en el siguiente enlace!
 
-[![Eastpak Padded Pak r Mochila  40 cm  24 ](https://m.media-amazon.com/images/I/415VujhAwYL._SL200_.jpg)](https://www.amazon.es/dp/B00MGON1SG/?tag=tolees-21)
+[![Eastpak Padded Pak r Mochila  40 cm  24 ](https://m.media-amazon.com/images/I/415VujhAwYL._SL400_.jpg)](https://www.amazon.es/dp/B00MGON1SG/?tag=tolees-21)
 
 ℹ️:
 

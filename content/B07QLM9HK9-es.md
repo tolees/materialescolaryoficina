@@ -2,7 +2,7 @@
 layout: post
 title: 'Neusky - Bolsa Escolar Azul Blau1 Large al 56.64 % de rebaja'
 date: 2020-07-23 13:01:58
-image: 'https://m.media-amazon.com/images/I/41tpMBkd-8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tpMBkd-8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.99'
 
 Tienes [Neusky - Bolsa Escolar Azul Blau1 Large](https://www.amazon.es/dp/B07QLM9HK9/?tag=tolees-21) con precio final de  25.99 EUR (original: 59.94 EUR) (56.64 %  de rebaja) aqui!
 
-[![Neusky - Bolsa Escolar Azul Blau1 Large](https://m.media-amazon.com/images/I/41tpMBkd-8L._SL200_.jpg)](https://www.amazon.es/dp/B07QLM9HK9/?tag=tolees-21)
+[![Neusky - Bolsa Escolar Azul Blau1 Large](https://m.media-amazon.com/images/I/41tpMBkd-8L._SL400_.jpg)](https://www.amazon.es/dp/B07QLM9HK9/?tag=tolees-21)
 
 🔎:
 

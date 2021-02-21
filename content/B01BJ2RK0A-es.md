@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.44 % en Mochila Infantil Star Wars'
 date: 2020-04-09 09:32:54
-image: 'https://m.media-amazon.com/images/I/417tGatI4ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417tGatI4ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.87'
 
 Tienes [Mochila Infantil Star Wars](https://www.amazon.es/dp/B01BJ2RK0A/?tag=tolees-21) con un 46.44 % de descuento con precio de oferta de 28.87 EUR (original: 53.9 EUR) en el siguiente enlace!
 
-[![Mochila Infantil Star Wars](https://m.media-amazon.com/images/I/417tGatI4ML._SL200_.jpg)](https://www.amazon.es/dp/B01BJ2RK0A/?tag=tolees-21)
+[![Mochila Infantil Star Wars](https://m.media-amazon.com/images/I/417tGatI4ML._SL400_.jpg)](https://www.amazon.es/dp/B01BJ2RK0A/?tag=tolees-21)
 
 ℹ️:
 

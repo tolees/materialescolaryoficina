@@ -2,7 +2,7 @@
 layout: post
 title: 'Arena Fastpack 2.1 Mochila  Unisex Adult al 30.48 % de descuento'
 date: 2020-04-28 10:48:39
-image: 'https://m.media-amazon.com/images/I/51Aj9sYG-0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Aj9sYG-0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.3525'
 
 Ahora mismo tienes [Arena Fastpack 2.1 Mochila  Unisex Adulto  Negro  Black/Fluo Yell   36x24x45 cm  W x H x L ](https://www.amazon.es/dp/B019KHVA7K/?tag=tolees-21) a 55.61 EUR (original: 79.99 EUR) (30.48 %  de descuento) en el siguiente enlace!
 
-[![Arena Fastpack 2.1 Mochila  Unisex Adult](https://m.media-amazon.com/images/I/51Aj9sYG-0L._SL200_.jpg)](https://www.amazon.es/dp/B019KHVA7K/?tag=tolees-21)
+[![Arena Fastpack 2.1 Mochila  Unisex Adult](https://m.media-amazon.com/images/I/51Aj9sYG-0L._SL400_.jpg)](https://www.amazon.es/dp/B019KHVA7K/?tag=tolees-21)
 
 🔎:
 

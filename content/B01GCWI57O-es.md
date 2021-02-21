@@ -2,7 +2,7 @@
 layout: post
 title: 'Paper Mate Dryline Cinta de corrección   al 22.47 % de descuento'
 date: 2020-08-18 18:37:14
-image: 'https://m.media-amazon.com/images/I/511-vep-z1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511-vep-z1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.745'
 
 Ahora mismo tienes [Paper Mate Dryline Cinta de corrección  5 mm x 8.5 m  4 unidades](https://www.amazon.es/dp/B01GCWI57O/?tag=tolees-21) a 5.9 EUR (original: 7.61 EUR) (22.47 %  de descuento) en el siguiente enlace!
 
-[![Paper Mate Dryline Cinta de corrección  ](https://m.media-amazon.com/images/I/511-vep-z1L._SL200_.jpg)](https://www.amazon.es/dp/B01GCWI57O/?tag=tolees-21)
+[![Paper Mate Dryline Cinta de corrección  ](https://m.media-amazon.com/images/I/511-vep-z1L._SL400_.jpg)](https://www.amazon.es/dp/B01GCWI57O/?tag=tolees-21)
 
 🔎:
 

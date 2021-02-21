@@ -2,7 +2,7 @@
 layout: post
 title: 'Kit Set Cuidado Barba con Libre Champu B al 30.09 % de descuento'
 date: 2020-09-15 18:32:08
-image: 'https://m.media-amazon.com/images/I/51h7KJeQ-dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51h7KJeQ-dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.51'
 
 Ahora mismo tienes [Kit Set Cuidado Barba con Libre Champu Barba Peine Barba Cepillo Barba Aceite Barba Balsamo Barba Barba Tijeras Productos Hidratante Acondicionador Barba](https://www.amazon.es/dp/B07C5J72MH/?tag=tolees-21) a 20.91 EUR (original: 29.91 EUR) (30.09 %  de descuento) en el siguiente enlace!
 
-[![Kit Set Cuidado Barba con Libre Champu B](https://m.media-amazon.com/images/I/51h7KJeQ-dL._SL200_.jpg)](https://www.amazon.es/dp/B07C5J72MH/?tag=tolees-21)
+[![Kit Set Cuidado Barba con Libre Champu B](https://m.media-amazon.com/images/I/51h7KJeQ-dL._SL400_.jpg)](https://www.amazon.es/dp/B07C5J72MH/?tag=tolees-21)
 
 🔎:
 

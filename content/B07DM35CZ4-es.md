@@ -2,7 +2,7 @@
 layout: post
 title: 'PEKITAS- Pack Cinta 5 Metros +12 Esquina al 44.20 % de rebaja'
 date: 2020-05-11 14:42:56
-image: 'https://m.media-amazon.com/images/I/41MAqMRtIKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MAqMRtIKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.95'
 
 Tienes [PEKITAS- Pack Cinta 5 Metros +12 Esquinas + Cinta Adhesiva  Protección Bordes y Esquinas Hiper Grueso Denso Extra Ancho Amortiguación Golpes  Pack Rosa:Cinta 5m+12 esquinas+cinta adhesiva ](https://www.amazon.es/dp/B07DM35CZ4/?tag=tolees-21) con precio final de  13.95 EUR (original: 25.0 EUR) (44.20 %  de rebaja) aqui!
 
-[![PEKITAS- Pack Cinta 5 Metros +12 Esquina](https://m.media-amazon.com/images/I/41MAqMRtIKL._SL200_.jpg)](https://www.amazon.es/dp/B07DM35CZ4/?tag=tolees-21)
+[![PEKITAS- Pack Cinta 5 Metros +12 Esquina](https://m.media-amazon.com/images/I/41MAqMRtIKL._SL400_.jpg)](https://www.amazon.es/dp/B07DM35CZ4/?tag=tolees-21)
 
 🔎:
 

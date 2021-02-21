@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.98 % en Pepe Jeans Jill Mochila 42 cm'
 date: 2020-09-21 18:42:15
-image: 'https://m.media-amazon.com/images/I/518Gb4Q7RTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518Gb4Q7RTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.595'
 
 Tienes [Pepe Jeans Jill Mochila 42 cm](https://www.amazon.es/dp/B07DW8HJ5P/?tag=tolees-21) con un 29.98 % de descuento con precio de oferta de 28.0 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Jill Mochila 42 cm](https://m.media-amazon.com/images/I/518Gb4Q7RTL._SL200_.jpg)](https://www.amazon.es/dp/B07DW8HJ5P/?tag=tolees-21)
+[![Pepe Jeans Jill Mochila 42 cm](https://m.media-amazon.com/images/I/518Gb4Q7RTL._SL400_.jpg)](https://www.amazon.es/dp/B07DW8HJ5P/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Diesel Discover-me Mirano  Mochila para  al 74.14 % de descuento'
 date: 2020-09-04 17:11:15
-image: 'https://m.media-amazon.com/images/I/51+3fulyRFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+3fulyRFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.27'
 
 Está [Diesel Discover-me Mirano  Mochila para Hombre  Multicolor  Black/White/Blue   15x44x30 centimeters  W x H x L ](https://www.amazon.es/dp/B07RXW751S/?tag=tolees-21) con 74.14 de descuento por 23.27 EUR (original: 90.0 EUR) en el siguiente enlace!
 
-[![Diesel Discover-me Mirano  Mochila para ](https://m.media-amazon.com/images/I/51+3fulyRFL._SL200_.jpg)](https://www.amazon.es/dp/B07RXW751S/?tag=tolees-21)
+[![Diesel Discover-me Mirano  Mochila para ](https://m.media-amazon.com/images/I/51+3fulyRFL._SL400_.jpg)](https://www.amazon.es/dp/B07RXW751S/?tag=tolees-21)
 
 ℹ️:
 

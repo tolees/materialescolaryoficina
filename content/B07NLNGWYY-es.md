@@ -2,7 +2,7 @@
 layout: post
 title: 'Artesania Cerda Mochila Infantil 3D Aven al 44.18 % de descuento'
 date: 2020-04-07 09:02:35
-image: 'https://m.media-amazon.com/images/I/51BkGQOL68L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BkGQOL68L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.38'
 
 Ahora mismo tienes [Artesania Cerda Mochila Infantil 3D Avengers Capitan America  Color Azul  31 cm](https://www.amazon.es/dp/B07NLNGWYY/?tag=tolees-21) a 13.38 EUR (original: 23.97 EUR) (44.18 %  de descuento) en el siguiente enlace!
 
-[![Artesania Cerda Mochila Infantil 3D Aven](https://m.media-amazon.com/images/I/51BkGQOL68L._SL200_.jpg)](https://www.amazon.es/dp/B07NLNGWYY/?tag=tolees-21)
+[![Artesania Cerda Mochila Infantil 3D Aven](https://m.media-amazon.com/images/I/51BkGQOL68L._SL400_.jpg)](https://www.amazon.es/dp/B07NLNGWYY/?tag=tolees-21)
 
 🔎:
 

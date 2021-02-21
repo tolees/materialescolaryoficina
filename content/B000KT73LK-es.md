@@ -2,7 +2,7 @@
 layout: post
 title: 'Faber-Castell 117511 - Estuche de metal  con un 27.13 % de descuento'
 date: 2020-07-10 00:30:59
-image: 'https://m.media-amazon.com/images/I/41wjHM8O5yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wjHM8O5yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '165.98000000000002'
 
 En este momento está [Faber-Castell 117511 - Estuche de metal con 120 ecolápices acuarelables  multicolor](https://www.amazon.es/dp/B000KT73LK/?tag=tolees-21) a 166.72 EUR (original: 228.78 EUR) (27.13 %  de descuento) en el siguiente enlace!
 
-[![Faber-Castell 117511 - Estuche de metal ](https://m.media-amazon.com/images/I/41wjHM8O5yL._SL200_.jpg)](https://www.amazon.es/dp/B000KT73LK/?tag=tolees-21)
+[![Faber-Castell 117511 - Estuche de metal ](https://m.media-amazon.com/images/I/41wjHM8O5yL._SL400_.jpg)](https://www.amazon.es/dp/B000KT73LK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Head Core Backpack Bolsa de Tenis  Adult al 23.63 % de rebaja'
 date: 2020-09-12 09:07:18
-image: 'https://m.media-amazon.com/images/I/41xRz9KwSPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xRz9KwSPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.91'
 
 Tienes [Head Core Backpack Bolsa de Tenis  Adultos Unisex  Gris/Naranja  Otro](https://www.amazon.es/dp/B07XC2NL4Z/?tag=tolees-21) con precio final de  22.91 EUR (original: 30.0 EUR) (23.63 %  de rebaja) aqui!
 
-[![Head Core Backpack Bolsa de Tenis  Adult](https://m.media-amazon.com/images/I/41xRz9KwSPL._SL200_.jpg)](https://www.amazon.es/dp/B07XC2NL4Z/?tag=tolees-21)
+[![Head Core Backpack Bolsa de Tenis  Adult](https://m.media-amazon.com/images/I/41xRz9KwSPL._SL400_.jpg)](https://www.amazon.es/dp/B07XC2NL4Z/?tag=tolees-21)
 
 🔎:
 

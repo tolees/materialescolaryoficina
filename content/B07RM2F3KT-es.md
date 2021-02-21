@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila  mochila escolar  mochila deport con un 46.73 % de descuento'
 date: 2020-09-17 10:48:03
-image: 'https://m.media-amazon.com/images/I/51x9YZPpwTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51x9YZPpwTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.75'
 
 En este momento está [Mochila  mochila escolar  mochila deportiva  mochila para el tiempo libre  mochila para niñas  mujeres  jóvenes  mochila escolar  azul oscuro ](https://www.amazon.es/dp/B07RM2F3KT/?tag=tolees-21) a 13.75 EUR (original: 25.81 EUR) (46.73 %  de descuento) en el siguiente enlace!
 
-[![Mochila  mochila escolar  mochila deport](https://m.media-amazon.com/images/I/51x9YZPpwTL._SL200_.jpg)](https://www.amazon.es/dp/B07RM2F3KT/?tag=tolees-21)
+[![Mochila  mochila escolar  mochila deport](https://m.media-amazon.com/images/I/51x9YZPpwTL._SL400_.jpg)](https://www.amazon.es/dp/B07RM2F3KT/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BIC Velleda 1701 ECOlutions rotuladores  con un 52.03 % de descuento'
 date: 2020-03-31 17:40:19
-image: 'https://m.media-amazon.com/images/I/51pywylePJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pywylePJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.8425'
 
 En este momento está [BIC Velleda 1701 ECOlutions rotuladores de Pizarra punta media - Negro  Caja de 12 unidades](https://www.amazon.es/dp/B000NJUT8Q/?tag=tolees-21) a 6.37 EUR (original: 13.28 EUR) (52.03 %  de descuento) en el siguiente enlace!
 
-[![BIC Velleda 1701 ECOlutions rotuladores ](https://m.media-amazon.com/images/I/51pywylePJL._SL200_.jpg)](https://www.amazon.es/dp/B000NJUT8Q/?tag=tolees-21)
+[![BIC Velleda 1701 ECOlutions rotuladores ](https://m.media-amazon.com/images/I/51pywylePJL._SL400_.jpg)](https://www.amazon.es/dp/B000NJUT8Q/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Cuaderno Inteligente Reutilizable - NEWY al 57.80 % de rebaja'
 date: 2020-07-02 11:29:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41E3XbXd2nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E3XbXd2nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Tienes [Cuaderno Inteligente Reutilizable - NEWYES Libreta de B5 con Bolígrafo Borrable Usar Agua y Calor Para Limpiar Usa Aplicación Subirlas Notas a la Nube Everlast Notebook](https://www.amazon.es/dp/B079DPCMVP/?tag=tolees-21) con precio final de  18.99 EUR (original: 45 EUR) (57.80 %  de rebaja) aqui!
 
-[![Cuaderno Inteligente Reutilizable - NEWY](https://images-eu.ssl-images-amazon.com/images/I/41E3XbXd2nL._SL200_.jpg)](https://www.amazon.es/dp/B079DPCMVP/?tag=tolees-21)
+[![Cuaderno Inteligente Reutilizable - NEWY](https://images-eu.ssl-images-amazon.com/images/I/41E3XbXd2nL._SL400_.jpg)](https://www.amazon.es/dp/B079DPCMVP/?tag=tolees-21)
 
 🔎:
 

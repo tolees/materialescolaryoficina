@@ -2,7 +2,7 @@
 layout: post
 title: 'INT!REND Rotuladores punta de pincel 51  al 17.92 % de descuento'
 date: 2020-04-14 09:21:51
-image: 'https://m.media-amazon.com/images/I/51woHjrSNbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51woHjrSNbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.9'
 
 Ahora mismo tienes [INT!REND Rotuladores punta de pincel 51 SET | Compuesto por 24 rotuladores acuarelables profesionales  2 pinceles  20 hojas papel de acuarela  5 plantillas para dibujar](https://www.amazon.es/dp/B07G87DZBJ/?tag=tolees-21) a 22.9 EUR (original: 27.9 EUR) (17.92 %  de descuento) en el siguiente enlace!
 
-[![INT!REND Rotuladores punta de pincel 51 ](https://m.media-amazon.com/images/I/51woHjrSNbL._SL200_.jpg)](https://www.amazon.es/dp/B07G87DZBJ/?tag=tolees-21)
+[![INT!REND Rotuladores punta de pincel 51 ](https://m.media-amazon.com/images/I/51woHjrSNbL._SL400_.jpg)](https://www.amazon.es/dp/B07G87DZBJ/?tag=tolees-21)
 
 🔎:
 

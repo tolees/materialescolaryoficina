@@ -2,7 +2,7 @@
 layout: post
 title: 'Parfois - Mochila Detalles Efecto Ante - al 49.98 % de rebaja'
 date: 2020-01-07 12:35:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31T6lwBZ1gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31T6lwBZ1gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13'
 
 Tienes [Parfois - Mochila Detalles Efecto Ante - Mujeres - Tallas M - Beige](https://www.amazon.es/dp/B07X9JBXVQ/?tag=tolees-21) con precio final de  13 EUR (original: 25.99 EUR) (49.98 %  de rebaja) aqui!
 
-[![Parfois - Mochila Detalles Efecto Ante -](https://images-eu.ssl-images-amazon.com/images/I/31T6lwBZ1gL._SL200_.jpg)](https://www.amazon.es/dp/B07X9JBXVQ/?tag=tolees-21)
+[![Parfois - Mochila Detalles Efecto Ante -](https://images-eu.ssl-images-amazon.com/images/I/31T6lwBZ1gL._SL400_.jpg)](https://www.amazon.es/dp/B07X9JBXVQ/?tag=tolees-21)
 
 🔎:
 

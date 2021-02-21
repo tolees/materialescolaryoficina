@@ -2,7 +2,7 @@
 layout: post
 title: 'VAUDE Brenta 30 Mochila  Unisex Adulto   al 35.75 % de descuento'
 date: 2020-04-13 21:44:17
-image: 'https://m.media-amazon.com/images/I/41ax2S5w+ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ax2S5w+ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.89'
 
 Ahora mismo tienes [VAUDE Brenta 30 Mochila  Unisex Adulto  Negro  30-39 l](https://www.amazon.es/dp/B0197ZPN7S/?tag=tolees-21) a 73.89 EUR (original: 115.0 EUR) (35.75 %  de descuento) en el siguiente enlace!
 
-[![VAUDE Brenta 30 Mochila  Unisex Adulto  ](https://m.media-amazon.com/images/I/41ax2S5w+ZL._SL200_.jpg)](https://www.amazon.es/dp/B0197ZPN7S/?tag=tolees-21)
+[![VAUDE Brenta 30 Mochila  Unisex Adulto  ](https://m.media-amazon.com/images/I/41ax2S5w+ZL._SL400_.jpg)](https://www.amazon.es/dp/B0197ZPN7S/?tag=tolees-21)
 
 🔎:
 

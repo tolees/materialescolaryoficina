@@ -2,7 +2,7 @@
 layout: post
 title: 'Moleskine - Agenda Diaria de 12 Meses 20 al 28.44 % de rebaja'
 date: 2020-02-05 10:56:50
-image: 'https://m.media-amazon.com/images/I/31E1NN1qjrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31E1NN1qjrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.45'
 
 Tienes [Moleskine - Agenda Diaria de 12 Meses 2020  Tamaño Grande 13 x 21 cm  400 Páginas  Negro  AGENDA 12 MOIS ](https://www.amazon.es/dp/B07J3KHQ9G/?tag=tolees-21) con precio final de  11.45 EUR (original: 16.0 EUR) (28.44 %  de rebaja) aqui!
 
-[![Moleskine - Agenda Diaria de 12 Meses 20](https://m.media-amazon.com/images/I/31E1NN1qjrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07J3KHQ9G/?tag=tolees-21)
+[![Moleskine - Agenda Diaria de 12 Meses 20](https://m.media-amazon.com/images/I/31E1NN1qjrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07J3KHQ9G/?tag=tolees-21)
 
 🔎:
 

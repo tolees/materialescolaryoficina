@@ -2,7 +2,7 @@
 layout: post
 title: 'Karactermania Frozen Element - Mochila B con un 58.09 % de descuento'
 date: 2020-01-23 10:06:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416mv%2BbPrxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416mv%2BbPrxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.95'
 
 En este momento está [Karactermania Frozen Element - Mochila Bouquet  Multicolor  Pequeña](https://www.amazon.es/dp/B07YQ86G8C/?tag=tolees-21) a 12.95 EUR (original: 30.9 EUR) (58.09 %  de descuento) en el siguiente enlace!
 
-[![Karactermania Frozen Element - Mochila B](https://images-eu.ssl-images-amazon.com/images/I/416mv%2BbPrxL._SL200_.jpg)](https://www.amazon.es/dp/B07YQ86G8C/?tag=tolees-21)
+[![Karactermania Frozen Element - Mochila B](https://images-eu.ssl-images-amazon.com/images/I/416mv%2BbPrxL._SL400_.jpg)](https://www.amazon.es/dp/B07YQ86G8C/?tag=tolees-21)
 
 🔎:
 

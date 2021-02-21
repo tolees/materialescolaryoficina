@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans VN0A3I6RTTZ1 Unisex adulto mochila  al 19.98 % de descuento'
 date: 2020-03-28 14:32:02
-image: 'https://m.media-amazon.com/images/I/41EqqwP9C6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EqqwP9C6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.45'
 
 Ahora mismo tienes [Vans VN0A3I6RTTZ1 Unisex adulto mochila  Verde  One Size](https://www.amazon.es/dp/B07QKKTYFL/?tag=tolees-21) a 30.4 EUR (original: 37.99 EUR) (19.98 %  de descuento) en el siguiente enlace!
 
-[![Vans VN0A3I6RTTZ1 Unisex adulto mochila ](https://m.media-amazon.com/images/I/41EqqwP9C6L._SL200_.jpg)](https://www.amazon.es/dp/B07QKKTYFL/?tag=tolees-21)
+[![Vans VN0A3I6RTTZ1 Unisex adulto mochila ](https://m.media-amazon.com/images/I/41EqqwP9C6L._SL400_.jpg)](https://www.amazon.es/dp/B07QKKTYFL/?tag=tolees-21)
 
 🔎:
 

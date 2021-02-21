@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike NESS7159-483 Mochila  Azul  Talla Ú al 32.09 % de rebaja'
 date: 2020-02-29 22:50:57
-image: 'https://m.media-amazon.com/images/I/41qfjkMqA+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qfjkMqA+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.683333333333334'
 
 Tienes [Nike NESS7159-483 Mochila  Azul  Talla Única](https://www.amazon.es/dp/B07GZW2NR9/?tag=tolees-21) con precio final de  15.26 EUR (original: 22.47 EUR) (32.09 %  de rebaja) aqui!
 
-[![Nike NESS7159-483 Mochila  Azul  Talla Ú](https://m.media-amazon.com/images/I/41qfjkMqA+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07GZW2NR9/?tag=tolees-21)
+[![Nike NESS7159-483 Mochila  Azul  Talla Ú](https://m.media-amazon.com/images/I/41qfjkMqA+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07GZW2NR9/?tag=tolees-21)
 
 🔎:
 

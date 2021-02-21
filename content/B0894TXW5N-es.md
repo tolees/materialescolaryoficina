@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 31.83 % en Bolígrafos de Contorno de Doble Línea  B'
 date: 2020-08-20 09:11:09
-image: 'https://m.media-amazon.com/images/I/61u6hY1JuFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61u6hY1JuFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Tienes [Bolígrafos de Contorno de Doble Línea  Baozun 21Colores Rotuladores de Doble Línea Secado Rápido Resistente al Agua Pluma de Doble Línea para Hacer Tarjetas de Regalo Pintar Rocas Dibujar Manualidades](https://www.amazon.es/dp/B0894TXW5N/?tag=tolees-21) con un 31.83 % de descuento con precio de oferta de 14.99 EUR (original: 21.99 EUR) en el siguiente enlace!
 
-[![Bolígrafos de Contorno de Doble Línea  B](https://m.media-amazon.com/images/I/61u6hY1JuFL._SL200_.jpg)](https://www.amazon.es/dp/B0894TXW5N/?tag=tolees-21)
+[![Bolígrafos de Contorno de Doble Línea  B](https://m.media-amazon.com/images/I/61u6hY1JuFL._SL400_.jpg)](https://www.amazon.es/dp/B0894TXW5N/?tag=tolees-21)
 
 ℹ️:
 

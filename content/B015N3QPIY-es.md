@@ -2,7 +2,7 @@
 layout: post
 title: 'Parker Sonnet - Bolígrafo  lacado en azu con un 43.53 % de descuento'
 date: 2020-01-04 08:02:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31-uU54o14L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-uU54o14L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.1'
 
 En este momento está [Parker Sonnet - Bolígrafo  lacado en azul  con adorno acabado en paladio y punta media  en estuche ](https://www.amazon.es/dp/B015N3QPIY/?tag=tolees-21) a 54.1 EUR (original: 95.8 EUR) (43.53 %  de descuento) en el siguiente enlace!
 
-[![Parker Sonnet - Bolígrafo  lacado en azu](https://images-eu.ssl-images-amazon.com/images/I/31-uU54o14L._SL200_.jpg)](https://www.amazon.es/dp/B015N3QPIY/?tag=tolees-21)
+[![Parker Sonnet - Bolígrafo  lacado en azu](https://images-eu.ssl-images-amazon.com/images/I/31-uU54o14L._SL400_.jpg)](https://www.amazon.es/dp/B015N3QPIY/?tag=tolees-21)
 
 🔎:
 

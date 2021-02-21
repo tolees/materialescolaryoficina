@@ -2,7 +2,7 @@
 layout: post
 title: 'Faber Castell 554212 - Estuche de cartón al 16.40 % de descuento'
 date: 2020-05-17 11:07:45
-image: 'https://m.media-amazon.com/images/I/51jtnEYbisL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jtnEYbisL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.4057142857142857'
 
 Está [Faber Castell 554212 - Estuche de cartón con 12 rotuladores escolares  punta de fibra  multicolor](https://www.amazon.es/dp/B00N2UGE1O/?tag=tolees-21) con 16.40 de descuento por 2.09 EUR (original: 2.5 EUR) en el siguiente enlace!
 
-[![Faber Castell 554212 - Estuche de cartón](https://m.media-amazon.com/images/I/51jtnEYbisL._SL200_.jpg)](https://www.amazon.es/dp/B00N2UGE1O/?tag=tolees-21)
+[![Faber Castell 554212 - Estuche de cartón](https://m.media-amazon.com/images/I/51jtnEYbisL._SL400_.jpg)](https://www.amazon.es/dp/B00N2UGE1O/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.25 % en Marcador STABILO BOSS Original Pastel - '
 date: 2020-04-13 17:36:34
-image: 'https://m.media-amazon.com/images/I/41LBKr2MMlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LBKr2MMlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.69'
 
 Tienes [Marcador STABILO BOSS Original Pastel - Caja con 10 unidades - Color melocotón sedoso](https://www.amazon.es/dp/B01M0GMFIO/?tag=tolees-21) con un 43.25 % de descuento con precio de oferta de 7.69 EUR (original: 13.55 EUR) en el siguiente enlace!
 
-[![Marcador STABILO BOSS Original Pastel - ](https://m.media-amazon.com/images/I/41LBKr2MMlL._SL200_.jpg)](https://www.amazon.es/dp/B01M0GMFIO/?tag=tolees-21)
+[![Marcador STABILO BOSS Original Pastel - ](https://m.media-amazon.com/images/I/41LBKr2MMlL._SL400_.jpg)](https://www.amazon.es/dp/B01M0GMFIO/?tag=tolees-21)
 
 ℹ️:
 

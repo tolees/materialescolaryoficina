@@ -2,7 +2,7 @@
 layout: post
 title: 'Herschel Retreat Backpack - Mochila casu al 37.78 % de descuento'
 date: 2020-10-12 08:08:10
-image: 'https://m.media-amazon.com/images/I/41PDwQaRVZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PDwQaRVZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.235'
 
 Ahora mismo tienes [Herschel Retreat Backpack - Mochila casual unisex  Negro  Black   Talla única](https://www.amazon.es/dp/B00B2EDDKM/?tag=tolees-21) a 55.99 EUR (original: 89.99 EUR) (37.78 %  de descuento) en el siguiente enlace!
 
-[![Herschel Retreat Backpack - Mochila casu](https://m.media-amazon.com/images/I/41PDwQaRVZL._SL200_.jpg)](https://www.amazon.es/dp/B00B2EDDKM/?tag=tolees-21)
+[![Herschel Retreat Backpack - Mochila casu](https://m.media-amazon.com/images/I/41PDwQaRVZL._SL400_.jpg)](https://www.amazon.es/dp/B00B2EDDKM/?tag=tolees-21)
 
 🔎:
 

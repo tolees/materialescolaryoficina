@@ -2,7 +2,7 @@
 layout: post
 title: 'Parker Urban 1931584 - Bolígrafo roller  con un 23.53 % de descuento'
 date: 2020-01-30 22:43:33
-image: 'https://m.media-amazon.com/images/I/31+vvdlxARL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+vvdlxARL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.7'
 
 En este momento está [Parker Urban 1931584 - Bolígrafo roller  negro tenue de adorno dorado  recambio de tinta negra para punta fina ](https://www.amazon.es/dp/B01LZCHIB8/?tag=tolees-21) a 34.7 EUR (original: 45.38 EUR) (23.53 %  de descuento) en el siguiente enlace!
 
-[![Parker Urban 1931584 - Bolígrafo roller ](https://m.media-amazon.com/images/I/31+vvdlxARL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LZCHIB8/?tag=tolees-21)
+[![Parker Urban 1931584 - Bolígrafo roller ](https://m.media-amazon.com/images/I/31+vvdlxARL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01LZCHIB8/?tag=tolees-21)
 
 🔎:
 

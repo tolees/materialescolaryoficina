@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 73.66 % en Anker - Set de Material Escolar GRU  Mi '
 date: 2020-01-16 17:40:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51iJIy32i6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iJIy32i6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.15'
 
 Tienes [Anker - Set de Material Escolar GRU  Mi Villano Favorito  ANKDMADS ](https://www.amazon.es/dp/B00TOGJBUG/?tag=tolees-21) con un 73.66 % de descuento con precio de oferta de 8.15 EUR (original: 30.94 EUR) en el siguiente enlace!
 
-[![Anker - Set de Material Escolar GRU  Mi ](https://images-eu.ssl-images-amazon.com/images/I/51iJIy32i6L._SL200_.jpg)](https://www.amazon.es/dp/B00TOGJBUG/?tag=tolees-21)
+[![Anker - Set de Material Escolar GRU  Mi ](https://images-eu.ssl-images-amazon.com/images/I/51iJIy32i6L._SL400_.jpg)](https://www.amazon.es/dp/B00TOGJBUG/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Jovi 72 - Plastilina  color rosa al 28.33 % de rebaja'
 date: 2020-03-31 08:31:27
-image: 'https://m.media-amazon.com/images/I/310HYlnWURL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310HYlnWURL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.9933333333333334'
 
 Tienes [Jovi 72 - Plastilina  color rosa](https://www.amazon.es/dp/B009GGTVTU/?tag=tolees-21) con precio final de  1.67 EUR (original: 2.33 EUR) (28.33 %  de rebaja) aqui!
 
-[![Jovi 72 - Plastilina  color rosa](https://m.media-amazon.com/images/I/310HYlnWURL._SL200_.jpg)](https://www.amazon.es/dp/B009GGTVTU/?tag=tolees-21)
+[![Jovi 72 - Plastilina  color rosa](https://m.media-amazon.com/images/I/310HYlnWURL._SL400_.jpg)](https://www.amazon.es/dp/B009GGTVTU/?tag=tolees-21)
 
 🔎:
 

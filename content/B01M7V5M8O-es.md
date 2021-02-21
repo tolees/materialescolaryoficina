@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila Tous Kaos New Colores Rosa con un 26.76 % de descuento'
 date: 2020-06-22 17:18:27
-image: 'https://m.media-amazon.com/images/I/41bGCe8jiZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bGCe8jiZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.733333333333334'
 
 En este momento está [Mochila Tous Kaos New Colores Rosa](https://www.amazon.es/dp/B01M7V5M8O/?tag=tolees-21) a 47.6 EUR (original: 64.99 EUR) (26.76 %  de descuento) en el siguiente enlace!
 
-[![Mochila Tous Kaos New Colores Rosa](https://m.media-amazon.com/images/I/41bGCe8jiZL._SL200_.jpg)](https://www.amazon.es/dp/B01M7V5M8O/?tag=tolees-21)
+[![Mochila Tous Kaos New Colores Rosa](https://m.media-amazon.com/images/I/41bGCe8jiZL._SL400_.jpg)](https://www.amazon.es/dp/B01M7V5M8O/?tag=tolees-21)
 
 🔎:
 

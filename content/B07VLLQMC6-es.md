@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila grande de 43 L para hombre y muj al 20.71 % de descuento'
 date: 2020-07-17 21:19:49
-image: 'https://m.media-amazon.com/images/I/41zstjUxjXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zstjUxjXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.79'
 
 Está [Mochila grande de 43 L para hombre y mujer  para hombres  mochila escolar para niñas  adolescentes  mochila para portátil de 17 3 pulgadas / mochila de viaje / equipaje de mano / mochila antirrobo](https://www.amazon.es/dp/B07VLLQMC6/?tag=tolees-21) con 20.71 de descuento por 19.79 EUR (original: 24.96 EUR) en el siguiente enlace!
 
-[![Mochila grande de 43 L para hombre y muj](https://m.media-amazon.com/images/I/41zstjUxjXL._SL200_.jpg)](https://www.amazon.es/dp/B07VLLQMC6/?tag=tolees-21)
+[![Mochila grande de 43 L para hombre y muj](https://m.media-amazon.com/images/I/41zstjUxjXL._SL400_.jpg)](https://www.amazon.es/dp/B07VLLQMC6/?tag=tolees-21)
 
 ℹ️:
 

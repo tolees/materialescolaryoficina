@@ -2,7 +2,7 @@
 layout: post
 title: 'GABOL Mochila Trolley Cabina Saga. Bolsa al 52.00 % de rebaja'
 date: 2020-05-18 10:31:30
-image: 'https://m.media-amazon.com/images/I/31oVZ-sdY2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oVZ-sdY2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.76'
 
 Tienes [GABOL Mochila Trolley Cabina Saga. Bolsa de Viaje  50 cm  15 litros  Azul](https://www.amazon.es/dp/B07B5HDZC4/?tag=tolees-21) con precio final de  29.76 EUR (original: 62.0 EUR) (52.00 %  de rebaja) aqui!
 
-[![GABOL Mochila Trolley Cabina Saga. Bolsa](https://m.media-amazon.com/images/I/31oVZ-sdY2L._SL200_.jpg)](https://www.amazon.es/dp/B07B5HDZC4/?tag=tolees-21)
+[![GABOL Mochila Trolley Cabina Saga. Bolsa](https://m.media-amazon.com/images/I/31oVZ-sdY2L._SL400_.jpg)](https://www.amazon.es/dp/B07B5HDZC4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'STABILO CarbOthello - Lápiz de color tiz al 31.16 % de descuento'
 date: 2020-03-11 07:34:55
-image: 'https://m.media-amazon.com/images/I/412lDdkozIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412lDdkozIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.455'
 
 Ahora mismo tienes [STABILO CarbOthello - Lápiz de color tiza-pastel - Caja de metal con 60 colores](https://www.amazon.es/dp/B0011UP7BK/?tag=tolees-21) a 90.81 EUR (original: 131.91 EUR) (31.16 %  de descuento) en el siguiente enlace!
 
-[![STABILO CarbOthello - Lápiz de color tiz](https://m.media-amazon.com/images/I/412lDdkozIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0011UP7BK/?tag=tolees-21)
+[![STABILO CarbOthello - Lápiz de color tiz](https://m.media-amazon.com/images/I/412lDdkozIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0011UP7BK/?tag=tolees-21)
 
 🔎:
 

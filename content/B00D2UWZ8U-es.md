@@ -2,7 +2,7 @@
 layout: post
 title: 'BIC Kids Plastidecor - Blíster de 18 uni con un 44.12 % de descuento'
 date: 2020-04-15 15:41:40
-image: 'https://m.media-amazon.com/images/I/61pDrelI38L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61pDrelI38L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.8950000000000005'
 
 En este momento está [BIC Kids Plastidecor - Blíster de 18 unidades  ceras para colorear  colores surtidos](https://www.amazon.es/dp/B00D2UWZ8U/?tag=tolees-21) a 2.47 EUR (original: 4.42 EUR) (44.12 %  de descuento) en el siguiente enlace!
 
-[![BIC Kids Plastidecor - Blíster de 18 uni](https://m.media-amazon.com/images/I/61pDrelI38L._SL200_.jpg)](https://www.amazon.es/dp/B00D2UWZ8U/?tag=tolees-21)
+[![BIC Kids Plastidecor - Blíster de 18 uni](https://m.media-amazon.com/images/I/61pDrelI38L._SL400_.jpg)](https://www.amazon.es/dp/B00D2UWZ8U/?tag=tolees-21)
 
 🔎:
 

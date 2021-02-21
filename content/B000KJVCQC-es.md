@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 68.67 % en Faber-Castell 120511 - Minas  12 unidade'
 date: 2020-04-01 19:02:19
-image: 'https://m.media-amazon.com/images/I/31BiZOzlV4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BiZOzlV4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.25'
 
 Tienes [Faber-Castell 120511 - Minas  12 unidades](https://www.amazon.es/dp/B000KJVCQC/?tag=tolees-21) con un 68.67 % de descuento con precio de oferta de 1.25 EUR (original: 3.99 EUR) en el siguiente enlace!
 
-[![Faber-Castell 120511 - Minas  12 unidade](https://m.media-amazon.com/images/I/31BiZOzlV4L._SL200_.jpg)](https://www.amazon.es/dp/B000KJVCQC/?tag=tolees-21)
+[![Faber-Castell 120511 - Minas  12 unidade](https://m.media-amazon.com/images/I/31BiZOzlV4L._SL400_.jpg)](https://www.amazon.es/dp/B000KJVCQC/?tag=tolees-21)
 
 ℹ️:
 

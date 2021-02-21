@@ -2,7 +2,7 @@
 layout: post
 title: 'Pritt Roller Compact  corrector roller p al 21.20 % de descuento'
 date: 2020-05-15 11:54:41
-image: 'https://m.media-amazon.com/images/I/51KtTpZjlWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KtTpZjlWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.843333333333333'
 
 Ahora mismo tienes [Pritt Roller Compact  corrector roller para tapar errores  correctores de bolígrafo y textos impresos  versátil corrector blanco para frases y letras  2 x  4 2mm x 10m ](https://www.amazon.es/dp/B072J3XW2M/?tag=tolees-21) a 4.72 EUR (original: 5.99 EUR) (21.20 %  de descuento) en el siguiente enlace!
 
-[![Pritt Roller Compact  corrector roller p](https://m.media-amazon.com/images/I/51KtTpZjlWL._SL200_.jpg)](https://www.amazon.es/dp/B072J3XW2M/?tag=tolees-21)
+[![Pritt Roller Compact  corrector roller p](https://m.media-amazon.com/images/I/51KtTpZjlWL._SL400_.jpg)](https://www.amazon.es/dp/B072J3XW2M/?tag=tolees-21)
 
 🔎:
 

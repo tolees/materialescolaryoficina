@@ -2,7 +2,7 @@
 layout: post
 title: 'ZOMAKE Mochila Plegable Ligera 20L  Moch al 15.85 % de descuento'
 date: 2020-09-04 01:43:00
-image: 'https://m.media-amazon.com/images/I/510rwO9qY4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510rwO9qY4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.98'
 
 Está [ZOMAKE Mochila Plegable Ligera 20L  Mochilas Pequeñas para Hombre Mujer  Mochilas Compacta para Viajar Senderismo Rosa Claro ](https://www.amazon.es/dp/B07PBW6VTG/?tag=tolees-21) con 15.85 de descuento por 15.98 EUR (original: 18.99 EUR) en el siguiente enlace!
 
-[![ZOMAKE Mochila Plegable Ligera 20L  Moch](https://m.media-amazon.com/images/I/510rwO9qY4L._SL200_.jpg)](https://www.amazon.es/dp/B07PBW6VTG/?tag=tolees-21)
+[![ZOMAKE Mochila Plegable Ligera 20L  Moch](https://m.media-amazon.com/images/I/510rwO9qY4L._SL400_.jpg)](https://www.amazon.es/dp/B07PBW6VTG/?tag=tolees-21)
 
 ℹ️:
 

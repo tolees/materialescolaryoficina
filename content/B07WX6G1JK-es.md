@@ -2,7 +2,7 @@
 layout: post
 title: 'Cross X Star Wars Han Solo - Bolígrafo d al 15.14 % de descuento'
 date: 2020-01-08 07:31:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21iuPgU8ztL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21iuPgU8ztL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52'
 
 Está [Cross X Star Wars Han Solo - Bolígrafo de punta rodante Caja de regalo de personaje](https://www.amazon.es/dp/B07WX6G1JK/?tag=tolees-21) con 15.14 de descuento por 52 EUR (original: 61.28 EUR) en el siguiente enlace!
 
-[![Cross X Star Wars Han Solo - Bolígrafo d](https://images-eu.ssl-images-amazon.com/images/I/21iuPgU8ztL._SL200_.jpg)](https://www.amazon.es/dp/B07WX6G1JK/?tag=tolees-21)
+[![Cross X Star Wars Han Solo - Bolígrafo d](https://images-eu.ssl-images-amazon.com/images/I/21iuPgU8ztL._SL400_.jpg)](https://www.amazon.es/dp/B07WX6G1JK/?tag=tolees-21)
 
 ℹ️:
 

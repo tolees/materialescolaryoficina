@@ -2,7 +2,7 @@
 layout: post
 title: 'Mayka - Cinta Adhesiva Grande  IMC TOYS  con un 69.98 % de descuento'
 date: 2020-01-18 02:39:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51wn2WnyhKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wn2WnyhKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.0'
 
 En este momento está [Mayka - Cinta Adhesiva Grande  IMC TOYS 97148 ](https://www.amazon.es/dp/B079NXRQ83/?tag=tolees-21) a 6 EUR (original: 19.99 EUR) (69.98 %  de descuento) en el siguiente enlace!
 
-[![Mayka - Cinta Adhesiva Grande  IMC TOYS ](https://images-eu.ssl-images-amazon.com/images/I/51wn2WnyhKL._SL200_.jpg)](https://www.amazon.es/dp/B079NXRQ83/?tag=tolees-21)
+[![Mayka - Cinta Adhesiva Grande  IMC TOYS ](https://images-eu.ssl-images-amazon.com/images/I/51wn2WnyhKL._SL400_.jpg)](https://www.amazon.es/dp/B079NXRQ83/?tag=tolees-21)
 
 🔎:
 

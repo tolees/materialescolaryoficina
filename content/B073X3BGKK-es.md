@@ -2,7 +2,7 @@
 layout: post
 title: 'Eastpak Back To Work Mochila  43 cm  27  con un 28.36 % de descuento'
 date: 2020-01-28 02:06:50
-image: 'https://m.media-amazon.com/images/I/419EhMSVsvL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419EhMSVsvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.43'
 
 En este momento está [Eastpak Back To Work Mochila  43 cm  27 L  Azul  Cloud Navy ](https://www.amazon.es/dp/B073X3BGKK/?tag=tolees-21) a 50.15 EUR (original: 70.0 EUR) (28.36 %  de descuento) en el siguiente enlace!
 
-[![Eastpak Back To Work Mochila  43 cm  27 ](https://m.media-amazon.com/images/I/419EhMSVsvL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B073X3BGKK/?tag=tolees-21)
+[![Eastpak Back To Work Mochila  43 cm  27 ](https://m.media-amazon.com/images/I/419EhMSVsvL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B073X3BGKK/?tag=tolees-21)
 
 🔎:
 

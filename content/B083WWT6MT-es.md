@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila Safta Escolar con Carro Incluido al 34.94 % de descuento'
 date: 2020-05-29 19:05:14
-image: 'https://m.media-amazon.com/images/I/41NjPKX902L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NjPKX902L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.44'
 
 Está [Mochila Safta Escolar con Carro Incluido y Espalada Acolchada de Star Wars  Death Star](https://www.amazon.es/dp/B083WWT6MT/?tag=tolees-21) con 34.94 de descuento por 44.44 EUR (original: 68.31 EUR) en el siguiente enlace!
 
-[![Mochila Safta Escolar con Carro Incluido](https://m.media-amazon.com/images/I/41NjPKX902L._SL200_.jpg)](https://www.amazon.es/dp/B083WWT6MT/?tag=tolees-21)
+[![Mochila Safta Escolar con Carro Incluido](https://m.media-amazon.com/images/I/41NjPKX902L._SL400_.jpg)](https://www.amazon.es/dp/B083WWT6MT/?tag=tolees-21)
 
 ℹ️:
 

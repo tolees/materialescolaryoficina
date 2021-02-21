@@ -2,7 +2,7 @@
 layout: post
 title: 'Caja de 3 rotuladores de punta fina Pigm al 28.00 % de rebaja'
 date: 2020-04-01 18:45:54
-image: 'https://m.media-amazon.com/images/I/31QA4GWbgXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QA4GWbgXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.4'
 
 Tienes [Caja de 3 rotuladores de punta fina Pigma Micron  modelo POXSDK3  de Sakura. Color negro](https://www.amazon.es/dp/B00GS8HO34/?tag=tolees-21) con precio final de  5.4 EUR (original: 7.5 EUR) (28.00 %  de rebaja) aqui!
 
-[![Caja de 3 rotuladores de punta fina Pigm](https://m.media-amazon.com/images/I/31QA4GWbgXL._SL200_.jpg)](https://www.amazon.es/dp/B00GS8HO34/?tag=tolees-21)
+[![Caja de 3 rotuladores de punta fina Pigm](https://m.media-amazon.com/images/I/31QA4GWbgXL._SL400_.jpg)](https://www.amazon.es/dp/B00GS8HO34/?tag=tolees-21)
 
 🔎:
 

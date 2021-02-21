@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans  Mochila  33 cm  10.3 Liters  al 19.99 % de rebaja'
 date: 2020-01-15 10:09:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zf72AuQhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zf72AuQhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.0'
 
 Tienes [Pepe Jeans  Mochila  33 cm  10.3 Liters  Negro](https://www.amazon.es/dp/B07V9NXRM4/?tag=tolees-21) con precio final de  56 EUR (original: 69.99 EUR) (19.99 %  de rebaja) aqui!
 
-[![Pepe Jeans  Mochila  33 cm  10.3 Liters ](https://images-eu.ssl-images-amazon.com/images/I/41Zf72AuQhL._SL200_.jpg)](https://www.amazon.es/dp/B07V9NXRM4/?tag=tolees-21)
+[![Pepe Jeans  Mochila  33 cm  10.3 Liters ](https://images-eu.ssl-images-amazon.com/images/I/41Zf72AuQhL._SL400_.jpg)](https://www.amazon.es/dp/B07V9NXRM4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila 42 cm Pepe Jeans Cuore al 20.24 % de descuento'
 date: 2020-06-21 17:39:01
-image: 'https://m.media-amazon.com/images/I/51uvAQXeS8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uvAQXeS8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.5'
 
 Ahora mismo tienes [Mochila 42 cm Pepe Jeans Cuore](https://www.amazon.es/dp/B07P3FSM7F/?tag=tolees-21) a 33.5 EUR (original: 42.0 EUR) (20.24 %  de descuento) en el siguiente enlace!
 
-[![Mochila 42 cm Pepe Jeans Cuore](https://m.media-amazon.com/images/I/51uvAQXeS8L._SL200_.jpg)](https://www.amazon.es/dp/B07P3FSM7F/?tag=tolees-21)
+[![Mochila 42 cm Pepe Jeans Cuore](https://m.media-amazon.com/images/I/51uvAQXeS8L._SL400_.jpg)](https://www.amazon.es/dp/B07P3FSM7F/?tag=tolees-21)
 
 🔎:
 

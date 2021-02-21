@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila con carro Pepe Jeans Olaia doble al 41.13 % de descuento'
 date: 2020-01-22 11:37:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41B8leeci9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B8leeci9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.125'
 
 Ahora mismo tienes [Mochila con carro Pepe Jeans Olaia doble compartimento rosa 44cm](https://www.amazon.es/dp/B07DRMDNMF/?tag=tolees-21) a 36.5 EUR (original: 62 EUR) (41.13 %  de descuento) en el siguiente enlace!
 
-[![Mochila con carro Pepe Jeans Olaia doble](https://images-eu.ssl-images-amazon.com/images/I/41B8leeci9L._SL200_.jpg)](https://www.amazon.es/dp/B07DRMDNMF/?tag=tolees-21)
+[![Mochila con carro Pepe Jeans Olaia doble](https://images-eu.ssl-images-amazon.com/images/I/41B8leeci9L._SL400_.jpg)](https://www.amazon.es/dp/B07DRMDNMF/?tag=tolees-21)
 
 🔎:
 

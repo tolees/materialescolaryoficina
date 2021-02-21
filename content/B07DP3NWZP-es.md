@@ -2,7 +2,7 @@
 layout: post
 title: 'Eastpak EK62030W Mochila Poliéster Negro con un 50.00 % de descuento'
 date: 2020-02-11 19:55:58
-image: 'https://m.media-amazon.com/images/I/51jlS6IUEtL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jlS6IUEtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.0'
 
 En este momento está [Eastpak EK62030W Mochila Poliéster Negro/Blanco - Mochila para portátiles y netbooks  Poliéster  Negro/Blanco  Ciudad  Estampado  Unisex  300 mm ](https://www.amazon.es/dp/B07DP3NWZP/?tag=tolees-21) a 25.0 EUR (original: 50.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Eastpak EK62030W Mochila Poliéster Negro](https://m.media-amazon.com/images/I/51jlS6IUEtL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DP3NWZP/?tag=tolees-21)
+[![Eastpak EK62030W Mochila Poliéster Negro](https://m.media-amazon.com/images/I/51jlS6IUEtL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DP3NWZP/?tag=tolees-21)
 
 🔎:
 

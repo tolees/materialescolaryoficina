@@ -2,7 +2,7 @@
 layout: post
 title: 'LIANCHENYI Runway - Mochila de viaje con un 30.45 % de descuento'
 date: 2020-09-08 13:01:15
-image: 'https://m.media-amazon.com/images/I/41-Cob7cAEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-Cob7cAEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.93'
 
 En este momento está [LIANCHENYI Runway - Mochila de viaje](https://www.amazon.es/dp/B07G8WKK28/?tag=tolees-21) a 17.93 EUR (original: 25.78 EUR) (30.45 %  de descuento) en el siguiente enlace!
 
-[![LIANCHENYI Runway - Mochila de viaje](https://m.media-amazon.com/images/I/41-Cob7cAEL._SL200_.jpg)](https://www.amazon.es/dp/B07G8WKK28/?tag=tolees-21)
+[![LIANCHENYI Runway - Mochila de viaje](https://m.media-amazon.com/images/I/41-Cob7cAEL._SL400_.jpg)](https://www.amazon.es/dp/B07G8WKK28/?tag=tolees-21)
 
 🔎:
 

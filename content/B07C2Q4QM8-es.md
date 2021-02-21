@@ -2,7 +2,7 @@
 layout: post
 title: 'Carretilla Plegable Wilbest  Carritos Po con un 51.75 % de descuento'
 date: 2020-01-03 09:46:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51k20n7Vb7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51k20n7Vb7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.89'
 
 En este momento está [Carretilla Plegable Wilbest  Carritos Porta Equipajes con 4 Ruedas Carga Máxima 70 kg/165 lbs - Después de Plegar se Puede Poner en la Mochila - Negro](https://www.amazon.es/dp/B07C2Q4QM8/?tag=tolees-21) a 32.99 EUR (original: 68.37 EUR) (51.75 %  de descuento) en el siguiente enlace!
 
-[![Carretilla Plegable Wilbest  Carritos Po](https://images-eu.ssl-images-amazon.com/images/I/51k20n7Vb7L._SL200_.jpg)](https://www.amazon.es/dp/B07C2Q4QM8/?tag=tolees-21)
+[![Carretilla Plegable Wilbest  Carritos Po](https://images-eu.ssl-images-amazon.com/images/I/51k20n7Vb7L._SL400_.jpg)](https://www.amazon.es/dp/B07C2Q4QM8/?tag=tolees-21)
 
 🔎:
 

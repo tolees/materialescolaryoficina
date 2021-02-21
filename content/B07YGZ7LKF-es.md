@@ -2,7 +2,7 @@
 layout: post
 title: 'Miquelrius 17284 - Cubilete Rosa  Bella  al 42.04 % de descuento'
 date: 2020-05-30 09:48:03
-image: 'https://m.media-amazon.com/images/I/217ThUP2S8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/217ThUP2S8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Ahora mismo tienes [Miquelrius 17284 - Cubilete Rosa  Bella Garden](https://www.amazon.es/dp/B07YGZ7LKF/?tag=tolees-21) a 6.95 EUR (original: 11.99 EUR) (42.04 %  de descuento) en el siguiente enlace!
 
-[![Miquelrius 17284 - Cubilete Rosa  Bella ](https://m.media-amazon.com/images/I/217ThUP2S8L._SL200_.jpg)](https://www.amazon.es/dp/B07YGZ7LKF/?tag=tolees-21)
+[![Miquelrius 17284 - Cubilete Rosa  Bella ](https://m.media-amazon.com/images/I/217ThUP2S8L._SL400_.jpg)](https://www.amazon.es/dp/B07YGZ7LKF/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Cross Mochila doble compartim al 29.99 % de descuento'
 date: 2020-09-22 14:13:46
-image: 'https://m.media-amazon.com/images/I/51NxxFWpm+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NxxFWpm+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.0'
 
 Ahora mismo tienes [Pepe Jeans Cross Mochila doble compartimento  44 cm  color Azul](https://www.amazon.es/dp/B07DY88R7B/?tag=tolees-21) a 35.0 EUR (original: 49.99 EUR) (29.99 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Cross Mochila doble compartim](https://m.media-amazon.com/images/I/51NxxFWpm+L._SL200_.jpg)](https://www.amazon.es/dp/B07DY88R7B/?tag=tolees-21)
+[![Pepe Jeans Cross Mochila doble compartim](https://m.media-amazon.com/images/I/51NxxFWpm+L._SL400_.jpg)](https://www.amazon.es/dp/B07DY88R7B/?tag=tolees-21)
 
 🔎:
 

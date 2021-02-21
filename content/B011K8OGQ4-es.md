@@ -2,7 +2,7 @@
 layout: post
 title: 'Black Diamond Speed 22 Mochila  Unisex A al 36.40 % de rebaja'
 date: 2020-02-20 01:13:25
-image: 'https://m.media-amazon.com/images/I/41ES8MXz3lL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ES8MXz3lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.6'
 
 Tienes [Black Diamond Speed 22 Mochila  Unisex Adulto  Graphite](https://www.amazon.es/dp/B011K8OGQ4/?tag=tolees-21) con precio final de  63.6 EUR (original: 100.0 EUR) (36.40 %  de rebaja) aqui!
 
-[![Black Diamond Speed 22 Mochila  Unisex A](https://m.media-amazon.com/images/I/41ES8MXz3lL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B011K8OGQ4/?tag=tolees-21)
+[![Black Diamond Speed 22 Mochila  Unisex A](https://m.media-amazon.com/images/I/41ES8MXz3lL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B011K8OGQ4/?tag=tolees-21)
 
 🔎:
 

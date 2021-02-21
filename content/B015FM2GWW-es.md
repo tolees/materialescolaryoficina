@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO - Pack de 3 bolígrafos de gel  5151 al 39.57 % de descuento'
 date: 2020-07-09 04:14:27
-image: 'https://m.media-amazon.com/images/I/412jw7J6pWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412jw7J6pWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Ahora mismo tienes [LEGO - Pack de 3 bolígrafos de gel  51513 ](https://www.amazon.es/dp/B015FM2GWW/?tag=tolees-21) a 6.95 EUR (original: 11.5 EUR) (39.57 %  de descuento) en el siguiente enlace!
 
-[![LEGO - Pack de 3 bolígrafos de gel  5151](https://m.media-amazon.com/images/I/412jw7J6pWL._SL200_.jpg)](https://www.amazon.es/dp/B015FM2GWW/?tag=tolees-21)
+[![LEGO - Pack de 3 bolígrafos de gel  5151](https://m.media-amazon.com/images/I/412jw7J6pWL._SL400_.jpg)](https://www.amazon.es/dp/B015FM2GWW/?tag=tolees-21)
 
 🔎:
 

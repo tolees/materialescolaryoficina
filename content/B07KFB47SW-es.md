@@ -2,7 +2,7 @@
 layout: post
 title: 'Scratch Art JBSON 30 Hojas Dibujo Scratc al 24.30 % de descuento'
 date: 2020-04-16 18:17:53
-image: 'https://m.media-amazon.com/images/I/411dsaOM2jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411dsaOM2jL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.690000000000001'
 
 Ahora mismo tienes [Scratch Art JBSON 30 Hojas Dibujo Scratch Láminas para Rascar Creativas Papel para Dibujar con Niños  Manualidades  Escribir Listas  Incluye 4 Plantillas de Plantillas de Dibujo y 10 lápices de Madera](https://www.amazon.es/dp/B07KFB47SW/?tag=tolees-21) a 15.89 EUR (original: 20.99 EUR) (24.30 %  de descuento) en el siguiente enlace!
 
-[![Scratch Art JBSON 30 Hojas Dibujo Scratc](https://m.media-amazon.com/images/I/411dsaOM2jL._SL200_.jpg)](https://www.amazon.es/dp/B07KFB47SW/?tag=tolees-21)
+[![Scratch Art JBSON 30 Hojas Dibujo Scratc](https://m.media-amazon.com/images/I/411dsaOM2jL._SL400_.jpg)](https://www.amazon.es/dp/B07KFB47SW/?tag=tolees-21)
 
 🔎:
 

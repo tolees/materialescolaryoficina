@@ -2,7 +2,7 @@
 layout: post
 title: 'Plantilla Dibujo Supplies Pack Escolar c con un 71.46 % de descuento'
 date: 2020-04-01 13:09:48
-image: 'https://m.media-amazon.com/images/I/51CTYLdwYbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CTYLdwYbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.9'
 
 En este momento está [Plantilla Dibujo Supplies Pack Escolar con Escuadra Cartabón Regla y Semicírculo Stencil Plantillas de Madera](https://www.amazon.es/dp/B07DG2QB3S/?tag=tolees-21) a 7.9 EUR (original: 27.68 EUR) (71.46 %  de descuento) en el siguiente enlace!
 
-[![Plantilla Dibujo Supplies Pack Escolar c](https://m.media-amazon.com/images/I/51CTYLdwYbL._SL200_.jpg)](https://www.amazon.es/dp/B07DG2QB3S/?tag=tolees-21)
+[![Plantilla Dibujo Supplies Pack Escolar c](https://m.media-amazon.com/images/I/51CTYLdwYbL._SL400_.jpg)](https://www.amazon.es/dp/B07DG2QB3S/?tag=tolees-21)
 
 🔎:
 

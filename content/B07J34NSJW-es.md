@@ -2,7 +2,7 @@
 layout: post
 title: 'Moleskine - Agenda Semanal de 18 Meses A al 45.18 % de rebaja'
 date: 2020-02-15 14:10:52
-image: 'https://m.media-amazon.com/images/I/51fZdA8YjSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fZdA8YjSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 Tienes [Moleskine - Agenda Semanal de 18 Meses Alicia en el País de las Maravillas Edición Limitada  Color Púrpura  con Tapa Dura y Cierre Elástico  Tamaño de Bolsillo 9 x 14 cm  208 Páginas](https://www.amazon.es/dp/B07J34NSJW/?tag=tolees-21) con precio final de  9.95 EUR (original: 18.15 EUR) (45.18 %  de rebaja) aqui!
 
-[![Moleskine - Agenda Semanal de 18 Meses A](https://m.media-amazon.com/images/I/51fZdA8YjSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07J34NSJW/?tag=tolees-21)
+[![Moleskine - Agenda Semanal de 18 Meses A](https://m.media-amazon.com/images/I/51fZdA8YjSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07J34NSJW/?tag=tolees-21)
 
 🔎:
 

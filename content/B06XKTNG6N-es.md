@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Brow This Way Fibre Pencil al 84.07 % de descuento'
 date: 2020-07-16 20:42:11
-image: 'https://m.media-amazon.com/images/I/31vGTVjj1tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vGTVjj1tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.835'
 
 Está [Rimmel London Brow This Way Fibre Pencil Lápiz de Cejas  Tono 3 - 1.08 gr](https://www.amazon.es/dp/B06XKTNG6N/?tag=tolees-21) con 84.07 de descuento por 0.9 EUR (original: 5.65 EUR) en el siguiente enlace!
 
-[![Rimmel London Brow This Way Fibre Pencil](https://m.media-amazon.com/images/I/31vGTVjj1tL._SL200_.jpg)](https://www.amazon.es/dp/B06XKTNG6N/?tag=tolees-21)
+[![Rimmel London Brow This Way Fibre Pencil](https://m.media-amazon.com/images/I/31vGTVjj1tL._SL400_.jpg)](https://www.amazon.es/dp/B06XKTNG6N/?tag=tolees-21)
 
 ℹ️:
 

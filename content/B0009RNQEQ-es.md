@@ -2,7 +2,7 @@
 layout: post
 title: 'CRAYOLA - 24 Lápices De Colores  3624  al 50.81 % de rebaja'
 date: 2020-05-28 12:19:14
-image: 'https://m.media-amazon.com/images/I/51uqacf+CcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uqacf+CcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.54'
 
 Tienes [CRAYOLA - 24 Lápices De Colores  3624 ](https://www.amazon.es/dp/B0009RNQEQ/?tag=tolees-21) con precio final de  4.54 EUR (original: 9.23 EUR) (50.81 %  de rebaja) aqui!
 
-[![CRAYOLA - 24 Lápices De Colores  3624 ](https://m.media-amazon.com/images/I/51uqacf+CcL._SL200_.jpg)](https://www.amazon.es/dp/B0009RNQEQ/?tag=tolees-21)
+[![CRAYOLA - 24 Lápices De Colores  3624 ](https://m.media-amazon.com/images/I/51uqacf+CcL._SL400_.jpg)](https://www.amazon.es/dp/B0009RNQEQ/?tag=tolees-21)
 
 🔎:
 

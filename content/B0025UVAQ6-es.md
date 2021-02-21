@@ -2,7 +2,7 @@
 layout: post
 title: 'Jovi-724987 Estuche Acuarelas  Multicolo al 23.45 % de descuento'
 date: 2020-04-05 13:18:42
-image: 'https://m.media-amazon.com/images/I/417ElJUAZLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417ElJUAZLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.8899999999999997'
 
 Está [Jovi-724987 Estuche Acuarelas  Multicolor  800 12 ](https://www.amazon.es/dp/B0025UVAQ6/?tag=tolees-21) con 23.45 de descuento por 2.35 EUR (original: 3.07 EUR) en el siguiente enlace!
 
-[![Jovi-724987 Estuche Acuarelas  Multicolo](https://m.media-amazon.com/images/I/417ElJUAZLL._SL200_.jpg)](https://www.amazon.es/dp/B0025UVAQ6/?tag=tolees-21)
+[![Jovi-724987 Estuche Acuarelas  Multicolo](https://m.media-amazon.com/images/I/417ElJUAZLL._SL400_.jpg)](https://www.amazon.es/dp/B0025UVAQ6/?tag=tolees-21)
 
 ℹ️:
 

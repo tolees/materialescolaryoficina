@@ -2,7 +2,7 @@
 layout: post
 title: 'Play Doh - Rex The Chomper  Hasbro  E195 al 22.59 % de descuento'
 date: 2020-06-18 10:46:48
-image: 'https://m.media-amazon.com/images/I/51xxClSYQEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xxClSYQEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.046666666666667'
 
 Está [Play Doh - Rex The Chomper  Hasbro  E1952EU5 ](https://www.amazon.es/dp/B079MPHS1D/?tag=tolees-21) con 22.59 de descuento por 14.8 EUR (original: 19.12 EUR) en el siguiente enlace!
 
-[![Play Doh - Rex The Chomper  Hasbro  E195](https://m.media-amazon.com/images/I/51xxClSYQEL._SL200_.jpg)](https://www.amazon.es/dp/B079MPHS1D/?tag=tolees-21)
+[![Play Doh - Rex The Chomper  Hasbro  E195](https://m.media-amazon.com/images/I/51xxClSYQEL._SL400_.jpg)](https://www.amazon.es/dp/B079MPHS1D/?tag=tolees-21)
 
 ℹ️:
 

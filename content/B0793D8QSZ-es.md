@@ -2,7 +2,7 @@
 layout: post
 title: 'BABYBJÖRN One Air - Mochila Porta Bebé   con un 26.33 % de descuento'
 date: 2020-09-09 09:26:19
-image: 'https://m.media-amazon.com/images/I/51q9zxbr6GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51q9zxbr6GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '153.032'
 
 En este momento está [BABYBJÖRN One Air - Mochila Porta Bebé  3D Tejido de red  Antracita](https://www.amazon.es/dp/B0793D8QSZ/?tag=tolees-21) a 139.9 EUR (original: 189.9 EUR) (26.33 %  de descuento) en el siguiente enlace!
 
-[![BABYBJÖRN One Air - Mochila Porta Bebé  ](https://m.media-amazon.com/images/I/51q9zxbr6GL._SL200_.jpg)](https://www.amazon.es/dp/B0793D8QSZ/?tag=tolees-21)
+[![BABYBJÖRN One Air - Mochila Porta Bebé  ](https://m.media-amazon.com/images/I/51q9zxbr6GL._SL400_.jpg)](https://www.amazon.es/dp/B0793D8QSZ/?tag=tolees-21)
 
 🔎:
 

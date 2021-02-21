@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila Saco Pepe Jeans Daniela  Multico al 16.61 % de rebaja'
 date: 2020-01-16 10:25:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51QIzSYjCRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QIzSYjCRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.67'
 
 Tienes [Mochila Saco Pepe Jeans Daniela  Multicolor  44 cm](https://www.amazon.es/dp/B07T5FTZ29/?tag=tolees-21) con precio final de  16.67 EUR (original: 19.99 EUR) (16.61 %  de rebaja) aqui!
 
-[![Mochila Saco Pepe Jeans Daniela  Multico](https://images-eu.ssl-images-amazon.com/images/I/51QIzSYjCRL._SL200_.jpg)](https://www.amazon.es/dp/B07T5FTZ29/?tag=tolees-21)
+[![Mochila Saco Pepe Jeans Daniela  Multico](https://images-eu.ssl-images-amazon.com/images/I/51QIzSYjCRL._SL400_.jpg)](https://www.amazon.es/dp/B07T5FTZ29/?tag=tolees-21)
 
 🔎:
 

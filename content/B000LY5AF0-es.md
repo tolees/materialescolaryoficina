@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 20.07 % en Faber-Castell 112160 - Estuche de metal '
 date: 2020-02-15 16:50:37
-image: 'https://m.media-amazon.com/images/I/41r5DFzO-RL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r5DFzO-RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.46'
 
 Tienes [Faber-Castell 112160 - Estuche de metal con 60 ecolápices Pitt pastel  multicolor](https://www.amazon.es/dp/B000LY5AF0/?tag=tolees-21) con un 20.07 % de descuento con precio de oferta de 57.46 EUR (original: 71.89 EUR) en el siguiente enlace!
 
-[![Faber-Castell 112160 - Estuche de metal ](https://m.media-amazon.com/images/I/41r5DFzO-RL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000LY5AF0/?tag=tolees-21)
+[![Faber-Castell 112160 - Estuche de metal ](https://m.media-amazon.com/images/I/41r5DFzO-RL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000LY5AF0/?tag=tolees-21)
 
 ℹ️:
 

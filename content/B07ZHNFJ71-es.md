@@ -2,7 +2,7 @@
 layout: post
 title: 'Dakine Grom 13L - Mochila Minidsbrly al 17.34 % de descuento'
 date: 2020-10-01 17:48:35
-image: 'https://m.media-amazon.com/images/I/41KxXDT4DsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KxXDT4DsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.3'
 
 Está [Dakine Grom 13L - Mochila Minidsbrly](https://www.amazon.es/dp/B07ZHNFJ71/?tag=tolees-21) con 17.34 de descuento por 12.3 EUR (original: 14.88 EUR) en el siguiente enlace!
 
-[![Dakine Grom 13L - Mochila Minidsbrly](https://m.media-amazon.com/images/I/41KxXDT4DsL._SL200_.jpg)](https://www.amazon.es/dp/B07ZHNFJ71/?tag=tolees-21)
+[![Dakine Grom 13L - Mochila Minidsbrly](https://m.media-amazon.com/images/I/41KxXDT4DsL._SL400_.jpg)](https://www.amazon.es/dp/B07ZHNFJ71/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger - Kids Core Backpack  Moc al 51.62 % de descuento'
 date: 2020-07-26 09:13:07
-image: 'https://m.media-amazon.com/images/I/41eGyQckUkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eGyQckUkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.625000000000004'
 
 Ahora mismo tienes [Tommy Hilfiger - Kids Core Backpack  Mochilas Unisex Niños  Azul  Desert Sky   1x1x1 cm  W x H L ](https://www.amazon.es/dp/B07V8ZTP52/?tag=tolees-21) a 36.24 EUR (original: 74.9 EUR) (51.62 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger - Kids Core Backpack  Moc](https://m.media-amazon.com/images/I/41eGyQckUkL._SL200_.jpg)](https://www.amazon.es/dp/B07V8ZTP52/?tag=tolees-21)
+[![Tommy Hilfiger - Kids Core Backpack  Moc](https://m.media-amazon.com/images/I/41eGyQckUkL._SL400_.jpg)](https://www.amazon.es/dp/B07V8ZTP52/?tag=tolees-21)
 
 🔎:
 

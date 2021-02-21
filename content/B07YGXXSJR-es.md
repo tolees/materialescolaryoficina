@@ -2,7 +2,7 @@
 layout: post
 title: 'Miquelrius - Agenda 2020 al 50.00 % de descuento'
 date: 2020-02-11 19:25:44
-image: 'https://m.media-amazon.com/images/I/311CUdO9XzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311CUdO9XzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.55'
 
 Ahora mismo tienes [Miquelrius - Agenda 2020](https://www.amazon.es/dp/B07YGXXSJR/?tag=tolees-21) a 3.55 EUR (original: 7.1 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Miquelrius - Agenda 2020](https://m.media-amazon.com/images/I/311CUdO9XzL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07YGXXSJR/?tag=tolees-21)
+[![Miquelrius - Agenda 2020](https://m.media-amazon.com/images/I/311CUdO9XzL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07YGXXSJR/?tag=tolees-21)
 
 🔎:
 

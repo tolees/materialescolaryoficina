@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Lápiz de Labios Lip Liner  al 20.80 % de descuento'
 date: 2020-01-14 00:23:58
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41LbIJ4HTIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LbIJ4HTIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.88'
 
 Está [L Oréal Paris Lápiz de Labios Lip Liner Couture by Color Riche 377](https://www.amazon.es/dp/B00TGV5MQ6/?tag=tolees-21) con 20.80 de descuento por 7.88 EUR (original: 9.95 EUR) en el siguiente enlace!
 
-[![L Oréal Paris Lápiz de Labios Lip Liner ](https://images-eu.ssl-images-amazon.com/images/I/41LbIJ4HTIL._SL200_.jpg)](https://www.amazon.es/dp/B00TGV5MQ6/?tag=tolees-21)
+[![L Oréal Paris Lápiz de Labios Lip Liner ](https://images-eu.ssl-images-amazon.com/images/I/41LbIJ4HTIL._SL400_.jpg)](https://www.amazon.es/dp/B00TGV5MQ6/?tag=tolees-21)
 
 ℹ️:
 

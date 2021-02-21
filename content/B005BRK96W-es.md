@@ -2,7 +2,7 @@
 layout: post
 title: 'BIC Cristal Original bolígrafos punta me al 22.74 % de descuento'
 date: 2020-06-02 06:15:58
-image: 'https://m.media-amazon.com/images/I/51mC96O-SLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mC96O-SLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.197692307692308'
 
 Está [BIC Cristal Original bolígrafos punta media  1 0 mm  – colores Surtidos  Blíster de 20+7](https://www.amazon.es/dp/B005BRK96W/?tag=tolees-21) con 22.74 de descuento por 5.98 EUR (original: 7.74 EUR) en el siguiente enlace!
 
-[![BIC Cristal Original bolígrafos punta me](https://m.media-amazon.com/images/I/51mC96O-SLL._SL200_.jpg)](https://www.amazon.es/dp/B005BRK96W/?tag=tolees-21)
+[![BIC Cristal Original bolígrafos punta me](https://m.media-amazon.com/images/I/51mC96O-SLL._SL400_.jpg)](https://www.amazon.es/dp/B005BRK96W/?tag=tolees-21)
 
 ℹ️:
 

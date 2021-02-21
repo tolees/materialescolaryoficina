@@ -2,7 +2,7 @@
 layout: post
 title: 'Memoryee Stranger Things 3D de impresión con un 49.98 % de descuento'
 date: 2020-10-05 11:38:15
-image: 'https://m.media-amazon.com/images/I/51cLAM2TOVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cLAM2TOVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.42'
 
 En este momento está [Memoryee Stranger Things 3D de impresión Unisex Niño Bolsa para la Escuela Collection Mochila de Lona portátil Libro Satchel Bolsa de Senderismo - 15L / 32 x 17 x 42 cm](https://www.amazon.es/dp/B07VMR8L3X/?tag=tolees-21) a 15.0 EUR (original: 29.99 EUR) (49.98 %  de descuento) en el siguiente enlace!
 
-[![Memoryee Stranger Things 3D de impresión](https://m.media-amazon.com/images/I/51cLAM2TOVL._SL200_.jpg)](https://www.amazon.es/dp/B07VMR8L3X/?tag=tolees-21)
+[![Memoryee Stranger Things 3D de impresión](https://m.media-amazon.com/images/I/51cLAM2TOVL._SL400_.jpg)](https://www.amazon.es/dp/B07VMR8L3X/?tag=tolees-21)
 
 🔎:
 

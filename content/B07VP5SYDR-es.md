@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 19.54 % en Mochila Casual Pelo Lion King'
 date: 2020-08-04 08:01:13
-image: 'https://m.media-amazon.com/images/I/51ijnK+VmuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ijnK+VmuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.8'
 
 Tienes [Mochila Casual Pelo Lion King](https://www.amazon.es/dp/B07VP5SYDR/?tag=tolees-21) con un 19.54 % de descuento con precio de oferta de 20.8 EUR (original: 25.85 EUR) en el siguiente enlace!
 
-[![Mochila Casual Pelo Lion King](https://m.media-amazon.com/images/I/51ijnK+VmuL._SL200_.jpg)](https://www.amazon.es/dp/B07VP5SYDR/?tag=tolees-21)
+[![Mochila Casual Pelo Lion King](https://m.media-amazon.com/images/I/51ijnK+VmuL._SL400_.jpg)](https://www.amazon.es/dp/B07VP5SYDR/?tag=tolees-21)
 
 ℹ️:
 

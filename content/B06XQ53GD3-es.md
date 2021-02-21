@@ -2,7 +2,7 @@
 layout: post
 title: 'Staedtler 308 S1WP3 - Rotulador  color n con un 57.91 % de descuento'
 date: 2020-05-31 10:32:46
-image: 'https://m.media-amazon.com/images/I/41pfPaV+JRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pfPaV+JRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.4450000000000007'
 
 En este momento está [Staedtler 308 S1WP3 - Rotulador  color negro](https://www.amazon.es/dp/B06XQ53GD3/?tag=tolees-21) a 3.22 EUR (original: 7.65 EUR) (57.91 %  de descuento) en el siguiente enlace!
 
-[![Staedtler 308 S1WP3 - Rotulador  color n](https://m.media-amazon.com/images/I/41pfPaV+JRL._SL200_.jpg)](https://www.amazon.es/dp/B06XQ53GD3/?tag=tolees-21)
+[![Staedtler 308 S1WP3 - Rotulador  color n](https://m.media-amazon.com/images/I/41pfPaV+JRL._SL400_.jpg)](https://www.amazon.es/dp/B06XQ53GD3/?tag=tolees-21)
 
 🔎:
 

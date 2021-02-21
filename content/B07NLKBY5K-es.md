@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 47.68 % en Mochila Infantil 3D Spiderman'
 date: 2020-03-09 18:47:23
-image: 'https://m.media-amazon.com/images/I/51JzfW1CStL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JzfW1CStL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.035'
 
 Tienes [Mochila Infantil 3D Spiderman](https://www.amazon.es/dp/B07NLKBY5K/?tag=tolees-21) con un 47.68 % de descuento con precio de oferta de 12.54 EUR (original: 23.97 EUR) en el siguiente enlace!
 
-[![Mochila Infantil 3D Spiderman](https://m.media-amazon.com/images/I/51JzfW1CStL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NLKBY5K/?tag=tolees-21)
+[![Mochila Infantil 3D Spiderman](https://m.media-amazon.com/images/I/51JzfW1CStL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NLKBY5K/?tag=tolees-21)
 
 ℹ️:
 

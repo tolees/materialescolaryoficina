@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Pam - Mochila Saco  Multicolo al 19.96 % de descuento'
 date: 2020-08-13 05:22:52
-image: 'https://m.media-amazon.com/images/I/518jtLyUg2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518jtLyUg2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.0'
 
 Está [Pepe Jeans Pam - Mochila Saco  Multicolor  44 cm](https://www.amazon.es/dp/B07SYMFZR1/?tag=tolees-21) con 19.96 de descuento por 16.0 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Pam - Mochila Saco  Multicolo](https://m.media-amazon.com/images/I/518jtLyUg2L._SL200_.jpg)](https://www.amazon.es/dp/B07SYMFZR1/?tag=tolees-21)
+[![Pepe Jeans Pam - Mochila Saco  Multicolo](https://m.media-amazon.com/images/I/518jtLyUg2L._SL400_.jpg)](https://www.amazon.es/dp/B07SYMFZR1/?tag=tolees-21)
 
 ℹ️:
 

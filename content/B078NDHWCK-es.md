@@ -2,7 +2,7 @@
 layout: post
 title: 'PetCay Cortauñas para Mascotas medianos  con un 41.24 % de descuento'
 date: 2020-07-17 06:41:30
-image: 'https://m.media-amazon.com/images/I/41-4nuzFBVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-4nuzFBVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.19'
 
 En este momento está [PetCay Cortauñas para Mascotas medianos y grandes - Tijeras uñas Profesional para Perro Gato Conejo Cobayas y Aves](https://www.amazon.es/dp/B078NDHWCK/?tag=tolees-21) a 14.19 EUR (original: 24.15 EUR) (41.24 %  de descuento) en el siguiente enlace!
 
-[![PetCay Cortauñas para Mascotas medianos ](https://m.media-amazon.com/images/I/41-4nuzFBVL._SL200_.jpg)](https://www.amazon.es/dp/B078NDHWCK/?tag=tolees-21)
+[![PetCay Cortauñas para Mascotas medianos ](https://m.media-amazon.com/images/I/41-4nuzFBVL._SL400_.jpg)](https://www.amazon.es/dp/B078NDHWCK/?tag=tolees-21)
 
 🔎:
 

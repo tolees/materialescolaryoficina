@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila Pepe Jeans Olaia doble compartim al 29.99 % de descuento'
 date: 2020-04-10 08:29:38
-image: 'https://m.media-amazon.com/images/I/51o6m2sZuwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51o6m2sZuwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.0'
 
 Ahora mismo tienes [Mochila Pepe Jeans Olaia doble compartimento azul 45cm](https://www.amazon.es/dp/B07DTK32YS/?tag=tolees-21) a 35.0 EUR (original: 49.99 EUR) (29.99 %  de descuento) en el siguiente enlace!
 
-[![Mochila Pepe Jeans Olaia doble compartim](https://m.media-amazon.com/images/I/51o6m2sZuwL._SL200_.jpg)](https://www.amazon.es/dp/B07DTK32YS/?tag=tolees-21)
+[![Mochila Pepe Jeans Olaia doble compartim](https://m.media-amazon.com/images/I/51o6m2sZuwL._SL400_.jpg)](https://www.amazon.es/dp/B07DTK32YS/?tag=tolees-21)
 
 🔎:
 

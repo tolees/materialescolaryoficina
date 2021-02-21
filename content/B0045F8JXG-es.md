@@ -2,7 +2,7 @@
 layout: post
 title: 'Dymo S0915440 - Impresoras de etiquetas  con un 17.48 % de descuento'
 date: 2020-06-15 08:07:55
-image: 'https://m.media-amazon.com/images/I/412K6C+AuiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412K6C+AuiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '123.8'
 
 En este momento está [Dymo S0915440 - Impresoras de etiquetas con teclado ABC](https://www.amazon.es/dp/B0045F8JXG/?tag=tolees-21) a 123.8 EUR (original: 150.03 EUR) (17.48 %  de descuento) en el siguiente enlace!
 
-[![Dymo S0915440 - Impresoras de etiquetas ](https://m.media-amazon.com/images/I/412K6C+AuiL._SL200_.jpg)](https://www.amazon.es/dp/B0045F8JXG/?tag=tolees-21)
+[![Dymo S0915440 - Impresoras de etiquetas ](https://m.media-amazon.com/images/I/412K6C+AuiL._SL400_.jpg)](https://www.amazon.es/dp/B0045F8JXG/?tag=tolees-21)
 
 🔎:
 

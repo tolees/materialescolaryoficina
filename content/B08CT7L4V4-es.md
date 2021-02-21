@@ -2,7 +2,7 @@
 layout: post
 title: 'Ocobudbxw Útil Profesional Kit de Artist al 50.01 % de rebaja'
 date: 2020-08-05 11:23:22
-image: 'https://m.media-amazon.com/images/I/41QNMSzud4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QNMSzud4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.77'
 
 Tienes [Ocobudbxw Útil Profesional Kit de Artista de Dibujo Lápices Boceto Carbón Artesanal Arte con Bolsa de Transporte Herramientas](https://www.amazon.es/dp/B08CT7L4V4/?tag=tolees-21) con precio final de  25.77 EUR (original: 51.55 EUR) (50.01 %  de rebaja) aqui!
 
-[![Ocobudbxw Útil Profesional Kit de Artist](https://m.media-amazon.com/images/I/41QNMSzud4L._SL200_.jpg)](https://www.amazon.es/dp/B08CT7L4V4/?tag=tolees-21)
+[![Ocobudbxw Útil Profesional Kit de Artist](https://m.media-amazon.com/images/I/41QNMSzud4L._SL400_.jpg)](https://www.amazon.es/dp/B08CT7L4V4/?tag=tolees-21)
 
 🔎:
 

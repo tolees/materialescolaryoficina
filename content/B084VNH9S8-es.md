@@ -2,7 +2,7 @@
 layout: post
 title: 'Triamisu Nueva Marca y bolígrafo Pad Pho con un 90.00 % de descuento'
 date: 2020-03-12 12:04:56
-image: 'https://m.media-amazon.com/images/I/31LE1IfvBvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LE1IfvBvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.01'
 
 En este momento está [Triamisu Nueva Marca y bolígrafo Pad Phone 4G Conveniente - Rojo](https://www.amazon.es/dp/B084VNH9S8/?tag=tolees-21) a 0.01 EUR (original: 0.1 EUR) (90.00 %  de descuento) en el siguiente enlace!
 
-[![Triamisu Nueva Marca y bolígrafo Pad Pho](https://m.media-amazon.com/images/I/31LE1IfvBvL._SL200_.jpg)](https://www.amazon.es/dp/B084VNH9S8/?tag=tolees-21)
+[![Triamisu Nueva Marca y bolígrafo Pad Pho](https://m.media-amazon.com/images/I/31LE1IfvBvL._SL400_.jpg)](https://www.amazon.es/dp/B084VNH9S8/?tag=tolees-21)
 
 🔎:
 

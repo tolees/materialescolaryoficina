@@ -2,7 +2,7 @@
 layout: post
 title: 'Mochila para portátil Movom Business con al 20.65 % de rebaja'
 date: 2020-08-09 10:45:35
-image: 'https://m.media-amazon.com/images/I/415aHWsAVDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415aHWsAVDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.5'
 
 Tienes [Mochila para portátil Movom Business con bandolera Negra](https://www.amazon.es/dp/B07J9LPKRC/?tag=tolees-21) con precio final de  36.5 EUR (original: 46.0 EUR) (20.65 %  de rebaja) aqui!
 
-[![Mochila para portátil Movom Business con](https://m.media-amazon.com/images/I/415aHWsAVDL._SL200_.jpg)](https://www.amazon.es/dp/B07J9LPKRC/?tag=tolees-21)
+[![Mochila para portátil Movom Business con](https://m.media-amazon.com/images/I/415aHWsAVDL._SL400_.jpg)](https://www.amazon.es/dp/B07J9LPKRC/?tag=tolees-21)
 
 🔎:
 

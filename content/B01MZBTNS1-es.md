@@ -2,7 +2,7 @@
 layout: post
 title: '45L de Alta Capacidad Resistente al Agua al 54.55 % de descuento'
 date: 2020-06-15 20:46:55
-image: 'https://m.media-amazon.com/images/I/510KFhuN3bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510KFhuN3bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Está [45L de Alta Capacidad Resistente al Agua de Viaje al Aire Libre Camping Ciclismo Multifunción Mochila Laptop Computer Bag No.2227  Negro ](https://www.amazon.es/dp/B01MZBTNS1/?tag=tolees-21) con 54.55 de descuento por 29.99 EUR (original: 65.99 EUR) en el siguiente enlace!
 
-[![45L de Alta Capacidad Resistente al Agua](https://m.media-amazon.com/images/I/510KFhuN3bL._SL200_.jpg)](https://www.amazon.es/dp/B01MZBTNS1/?tag=tolees-21)
+[![45L de Alta Capacidad Resistente al Agua](https://m.media-amazon.com/images/I/510KFhuN3bL._SL400_.jpg)](https://www.amazon.es/dp/B01MZBTNS1/?tag=tolees-21)
 
 ℹ️:
 

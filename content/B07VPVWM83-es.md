@@ -2,7 +2,7 @@
 layout: post
 title: 'Carioca Set Rotuladores Locos | Kit Rotu con un 21.83 % de descuento'
 date: 2020-09-21 12:01:07
-image: 'https://m.media-amazon.com/images/I/61rhqx0aGlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61rhqx0aGlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.67'
 
 En este momento está [Carioca Set Rotuladores Locos | Kit Rotuladores de Colores Divertidos para Lettering  con Sellos Pastel  Mágicos  Perfume y Muchos Más  con Punta Maxi y Fina  Colores Surtidos 74 Unidades](https://www.amazon.es/dp/B07VPVWM83/?tag=tolees-21) a 24.67 EUR (original: 31.56 EUR) (21.83 %  de descuento) en el siguiente enlace!
 
-[![Carioca Set Rotuladores Locos | Kit Rotu](https://m.media-amazon.com/images/I/61rhqx0aGlL._SL200_.jpg)](https://www.amazon.es/dp/B07VPVWM83/?tag=tolees-21)
+[![Carioca Set Rotuladores Locos | Kit Rotu](https://m.media-amazon.com/images/I/61rhqx0aGlL._SL400_.jpg)](https://www.amazon.es/dp/B07VPVWM83/?tag=tolees-21)
 
 🔎:
 
