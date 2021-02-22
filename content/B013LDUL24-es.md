@@ -28,8 +28,8 @@ Tienes [Case Logic RBP414K - Mochila de 14"  Color Negro](https://www.amazon.es/
 
 🔎:
 
-- Compartimiento con acolchado grueso con capacidad para portátiles con pantallas de hasta 14,1 pulgadas
 - Bolsillo con cremallera y forro de felpa que permite acceder rápidamente al teléfono
+- Compartimiento con acolchado grueso con capacidad para portátiles con pantallas de hasta 14,1 pulgadas
 - Funda acolchada para tableta iPad o 10.1”
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B013LDUL24/?tag=tolees-21)
