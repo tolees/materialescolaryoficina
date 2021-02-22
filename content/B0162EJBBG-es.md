@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'APLI Kids - Bolsa de gomets cara feliz-2 al 19.90 % de descuento'
-date: 2021-02-21 04:13:25
-image: 'https://m.media-amazon.com/images/I/51lO3P1skdL._SL200_.jpg'
+date: 2021-02-22 10:04:22
+image: 'https://m.media-amazon.com/images/I/51lO3P1skdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'APLI Kids'
 buyurl: 'https://www.amazon.es/dp/B0162EJBBG/?tag=tolees-21'
 descuento: '19.90'
-average: '1.55655462184874'
+average: '1.55677685950414'
 ---
 
 Ahora mismo tienes [APLI Kids - Bolsa de gomets cara feliz-2  3 hojas adhesivo removible  Surtido II  Única  14226 ](https://www.amazon.es/dp/B0162EJBBG/?tag=tolees-21) a 1.57 EUR (original: 1.96 EUR) (19.90 %  de descuento) en el siguiente enlace!
 
-[![APLI Kids - Bolsa de gomets cara feliz-2](https://m.media-amazon.com/images/I/51lO3P1skdL._SL200_.jpg)](https://www.amazon.es/dp/B0162EJBBG/?tag=tolees-21)
+[![APLI Kids - Bolsa de gomets cara feliz-2](https://m.media-amazon.com/images/I/51lO3P1skdL._SL400_.jpg)](https://www.amazon.es/dp/B0162EJBBG/?tag=tolees-21)
 
 🔎:
 
