@@ -28,10 +28,10 @@ En este momento está [Parker Jotter Bond Street Black bolígrafo CT](https://ww
 
 🔎:
 
+- Una nueva interpretación de nuestro diseño Jotter icónico y elegante, que ha sido un clásico durante 60 años
+- Cuerpo de acero inoxidable en acabado negro realzado con adornos brillantes y un clip con forma de punta de flecha
 - Estuchado en un distintivo estuche de regalo de Parker
 - Clic característico de apertura y cierre
 - Equipado con un recambio Quinkflow para disfrutar de un flujo de tinta óptimo y escribir con suavidad; tinta azul, punta mediana; también compatible con recambios de tinta de gel Parker
-- Cuerpo de acero inoxidable en acabado negro realzado con adornos brillantes y un clip con forma de punta de flecha
-- Una nueva interpretación de nuestro diseño Jotter icónico y elegante, que ha sido un clásico durante 60 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DJBH8SS/?tag=tolees-21)
