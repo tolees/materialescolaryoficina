@@ -28,9 +28,9 @@ Tienes [CRAYOLA- Disney Rotuladores Súper Punta Lavables 24 ud  Multicolor  Pac
 
 ℹ️:
 
-- Marcador de pintura no permanente con tinta pigmentada base al agua
-- Pinta sobre cualquier superficie y es muy resistente a la luz
-- multicolor
 - Es inodoro y las manchas se pueden lavar con agua, desapareciendo inmediatamente
+- multicolor
+- Pinta sobre cualquier superficie y es muy resistente a la luz
+- Marcador de pintura no permanente con tinta pigmentada base al agua
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000NIJ5SM/?tag=tolees-21)
