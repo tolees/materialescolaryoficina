@@ -28,8 +28,8 @@ Tienes [Thule EnRoute - Mochila de 18L  Color Negro](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Cremalleras duraderas
 - Materiales de calidad
+- Cremalleras duraderas
 - Alta resistencia al paso del tiempo
 - Espacio para portátil y tablet
 

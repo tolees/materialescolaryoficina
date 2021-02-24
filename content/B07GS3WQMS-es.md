@@ -28,10 +28,10 @@ En este momento está [BIC My 4 Colours Box - Caja de 5 Bolígrafos 4 Colores  S
 
 🔎:
 
-- El pack My 4 Colours Box contiene 5 bolígrafos BIC 4 Color en una bonita caja que hará las delicias de los fans de este icono de BIC
-- Los míticos bolígrafos cuentan con un cuerpo redondo bicolor y un clip lateral que permite engancharlos en el bolsillo o en un cuaderno
-- Su punta media ofrece una escritura limpia y fluida que te permitirá crear códigos en tus notas o estupendos diseños con bolígrafo
-- Fieles a nuestra calidad, la producción de estos bolígrafos tiene lugar en las fábricas de BIC en Europa
 - La caja contiene 3 bolis BIC 4 Color Shine con tintas de colores clásicos y 2 bolis BIC 4 Color Fun en tonos vivos
+- Los míticos bolígrafos cuentan con un cuerpo redondo bicolor y un clip lateral que permite engancharlos en el bolsillo o en un cuaderno
+- Fieles a nuestra calidad, la producción de estos bolígrafos tiene lugar en las fábricas de BIC en Europa
+- Su punta media ofrece una escritura limpia y fluida que te permitirá crear códigos en tus notas o estupendos diseños con bolígrafo
+- El pack My 4 Colours Box contiene 5 bolígrafos BIC 4 Color en una bonita caja que hará las delicias de los fans de este icono de BIC
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GS3WQMS/?tag=tolees-21)
