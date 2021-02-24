@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Kipling Seoul Mochila Escolar  Azul  Rob al 60.56 % de rebaja'
+date: 2021-02-24 13:43:02
+image: 'https://m.media-amazon.com/images/I/51SLQ7yYYmL._SL400_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07YQDSM64-es Kipling Seoul Mochila Escolar Azul Robot Camo Pink'
+sku: 'B07YQDSM64-es'
+tags: [ 'mochila','escolar', ]
+actualPrice: 37.47 EUR
+currency: EUR
+price: 37.47
+comparePrice: 95.0 EUR
+prodname: 'Kipling Seoul Mochila Escolar  Azul  Robot Camo Pink '
+country: 'es'
+flag: '🇪🇸'
+brand: 'Kipling'
+buyurl: 'https://www.amazon.es/dp/B07YQDSM64/?tag=tolees-21'
+descuento: '60.56'
+average: '32.065'
+---
+
+Tienes [Kipling Seoul Mochila Escolar  Azul  Robot Camo Pink ](https://www.amazon.es/dp/B07YQDSM64/?tag=tolees-21) con precio final de  37.47 EUR (original: 95.0 EUR) (60.56 %  de rebaja) aqui!
+
+[![Kipling Seoul Mochila Escolar  Azul  Rob](https://m.media-amazon.com/images/I/51SLQ7yYYmL._SL400_.jpg)](https://www.amazon.es/dp/B07YQDSM64/?tag=tolees-21)
+
+🔎:
+
+- Seúl.
+- Robot Camo Rosa
+- Bolsas escolares.
+- KI485157J
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07YQDSM64/?tag=tolees-21)
