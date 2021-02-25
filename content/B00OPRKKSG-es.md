@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.01 % en Pentel Arts - Juego de recambio de 12 ca'
-date: 2021-02-24 10:02:58
+date: 2021-02-25 14:38:21
 image: 'https://m.media-amazon.com/images/I/41CxiZvptOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.es/dp/B00OPRKKSG/?tag=tolees-21'
 descuento: '26.01'
-average: '14.5343181818182'
+average: '14.5153603603604'
 ---
 
 Tienes [Pentel Arts - Juego de recambio de 12 cartuchos de tinta negra para rotulador de bolsillo con punta de pincel](https://www.amazon.es/dp/B00OPRKKSG/?tag=tolees-21) con un 26.01 % de descuento con precio de oferta de 12.43 EUR (original: 16.8 EUR) en el siguiente enlace!
