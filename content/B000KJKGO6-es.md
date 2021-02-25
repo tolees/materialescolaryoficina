@@ -30,8 +30,8 @@ Está [APLI Labels 105 x 148mm  Blanco  105 mm  148 mm  310 x 220 x 20 mm](https
 
 - Etiquetas por paquete: 400
 - 105 x 148 mm
+- Etiquetas Apli. A4
 - Formato de las etiquetas predefinido en la mayoría de softwares
 - Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
-- Etiquetas Apli. A4
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000KJKGO6/?tag=tolees-21)
