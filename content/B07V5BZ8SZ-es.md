@@ -28,10 +28,10 @@ En este momento está [FCB - FC Barcelona Mochila Doble Escolar con cantoneras](
 
 🔎:
 
-- Mochila doble escolar adaptable a carro; medidas: 32cm x 15cm x 42cm
 - Es adaptable a carro; tiene unas cintas que permiten sujetarla a una trolley (el carro se vende por separado), pudiendo usarse para la escuela o para viajar
-- Tiene un bolsillo frontal con organizador para bolis, llaves, teléfono móvil; bolsillo de red lateral para la bebida
-- Producto con licencia oficial
+- Mochila doble escolar adaptable a carro; medidas: 32cm x 15cm x 42cm
 - Con cantoneras de goma de refuerzo, para una mayor durabilidad
+- Producto con licencia oficial
+- Tiene un bolsillo frontal con organizador para bolis, llaves, teléfono móvil; bolsillo de red lateral para la bebida
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07V5BZ8SZ/?tag=tolees-21)

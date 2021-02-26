@@ -28,7 +28,7 @@ Tienes [TOTTO Mochila P Tablet Y Pc Kripton Mochila Tipo Casual  40 cm  25 litro
 
 🔎:
 
-- Marca: Totto
 - Mochila para portátil 13" - Kripton
+- Marca: Totto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JJC7NH9/?tag=tolees-21)
