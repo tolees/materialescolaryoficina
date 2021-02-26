@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOTTO Mochila P Tablet Y Pc Kripton Moch al 30.05 % de rebaja'
-date: 2021-02-24 08:15:20
+date: 2021-02-26 13:43:28
 image: 'https://m.media-amazon.com/images/I/41r1FnT5uJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [TOTTO Mochila P Tablet Y Pc Kripton Mochila Tipo Casual  40 cm  25 litro
 
 🔎:
 
-- Mochila para portátil 13" - Kripton
 - Marca: Totto
+- Mochila para portátil 13" - Kripton
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JJC7NH9/?tag=tolees-21)
