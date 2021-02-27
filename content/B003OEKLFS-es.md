@@ -28,10 +28,10 @@ En este momento está [Faber-Castell - Faber Castell 166004 - Estuche con 4 rotu
 
 🔎:
 
-- Tinta pigmentada resistente al agua y a la acción de la luz
 - Para escribir, dibujar y abocetar
-- Aptos para normógrafos y reglas
 - Zona de agarre ergonómica y clip de metal
+- Aptos para normógrafos y reglas
 - Grosores de trazo: 0.1; 0.3; 0.5; 0.7
+- Tinta pigmentada resistente al agua y a la acción de la luz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003OEKLFS/?tag=tolees-21)
