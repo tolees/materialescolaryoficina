@@ -28,8 +28,8 @@ Tienes [Moleskine 11299 - Libreta con tapa dura  diseño Batman  Edición limita
 
 🔎:
 
-- Diseño Batman
 - Tamaño de bolsillo
 - Rayada
+- Diseño Batman
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00NOIH94A/?tag=tolees-21)
