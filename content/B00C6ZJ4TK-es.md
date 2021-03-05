@@ -28,10 +28,10 @@ Tienes [APLI 12848 - Cola  40 g  color blanco](https://www.amazon.es/dp/B00C6ZJ4
 
 🔎:
 
-- Fórmula libre de solventes y no tóxica, apto para uso escolar
-- El formato ideal para proyectos pequeños y aplicaciones en detalle
 - Cola blanca de 40 g
 - El adhesivo ideal para utilizar en papel, cartulina y cartón pero también en madera, por lo que es apto para proyectos de manualidades
+- El formato ideal para proyectos pequeños y aplicaciones en detalle
 - Cola blanca líquida con un tapón dosificador de punta no desmontable que permite una aplicación fácil y precisa
+- Fórmula libre de solventes y no tóxica, apto para uso escolar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00C6ZJ4TK/?tag=tolees-21)
