@@ -29,8 +29,8 @@ En este momento está [Samsonite - Samsonte Hexa-Packs - Mochila para portátil 
 🔎:
 
 - Solapa práctica integrada en el pack Work y pack Travel
-- Dimensiones: 33 x 17 x 50 cm - 22 L - 1 kg. Compartimento para portátil 15.6\".
 - Exterior fabricado de material diseñado 100% a partir de botellas de plástico PET recicladas
+- Dimensiones: 33 x 17 x 50 cm - 22 L - 1 kg. Compartimento para portátil 15.6\".
 - Los pack Day, Sports y Travel cuentan con un conector para el cargador en la parte superior y cintas de compresión de fácil acceso para un ajuste del tamaño óptimo
 - Todos los modelos ofrecen una organización interior bien equipada que incluye una zona para el portátil y funda para la tablet
 
