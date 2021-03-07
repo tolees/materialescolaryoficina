@@ -28,9 +28,9 @@ Tienes [Pentel Arts - Juego de recambio de 12 cartuchos de tinta negra para rotu
 
 ℹ️:
 
+- Tinta de pigmentación permanente resistente tanto al agua como a la decoloración.
 - Cartuchos de recambio que son fáciles de sustituir sin ensuciar nada de tinta.
 - Son fáciles de llevar, compactos y fáciles de usar en comparación con los pinceles y las pinturas tradicionales.
-- Tinta de pigmentación permanente resistente tanto al agua como a la decoloración.
 - Cartuchos de tinta para rotuladores de bolsillo Pentel con punta de pincel.Juego de 12 cartuchos de recambio (FP10BP).
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00OPRKKSG/?tag=tolees-21)
