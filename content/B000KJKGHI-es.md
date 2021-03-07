@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.41 % en Apli 01285  1 caja de etiquetas autoadhe'
-date: 2021-03-06 14:30:18
+date: 2021-03-07 14:34:14
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B000KJKGHI/?tag=tolees-21'
 descuento: '25.41'
-average: '16.2581702127656'
+average: '16.225274261603'
 ---
 
 Tienes [Apli 01285  1 caja de etiquetas autoadhesivas multiusos  44 etiquetas por hoja A4  48 5 x 25 4 mm  blanco  100 hojas](https://www.amazon.es/dp/B000KJKGHI/?tag=tolees-21) con un 25.41 % de descuento con precio de oferta de 12.36 EUR (original: 16.57 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [Apli 01285  1 caja de etiquetas autoadhesivas multiusos  44 etiquetas po
 
 ℹ️:
 
+- 100 hojas
 - 1 caja de etiquetas autoadhesivas multiusos, 44 etiquetas por hoja A4
 - Dimensiones (Ancho x Profundidad x Altura): 48.5 x 25.4
-- 100 hojas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KJKGHI/?tag=tolees-21)
