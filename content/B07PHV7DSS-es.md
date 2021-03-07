@@ -28,10 +28,10 @@ Ahora mismo tienes [APLI Kids 16807 - Rotuladores Stamps 10 u. Única](https://w
 
 🔎:
 
+- Los rotuladores apli kids son fácilmente lavables, disponen de capuchón anti asfixia, no son tóxicos ni contienen gluten y su tinta es de larga duración.
+- Amarillo-estrella, rosa-corazón, naranja-cara sonriente, rojo-labios, verde-dedos, azul claro-línea estrella, azul-pulgar ok, lila-interrogante, marrón-símbolo acierto y negro-pie
 - Recomendados para niños a partir de 3 años
 - Pack de 10 rotuladores stamps tamaño 14,4 x 137 mm
 - Rotuladores con doble punta bloqueada de 7,5 mm.: una con punta redonda de color y la otra con sello en punta plana
-- Amarillo-estrella, rosa-corazón, naranja-cara sonriente, rojo-labios, verde-dedos, azul claro-línea estrella, azul-pulgar ok, lila-interrogante, marrón-símbolo acierto y negro-pie
-- Los rotuladores apli kids son fácilmente lavables, disponen de capuchón anti asfixia, no son tóxicos ni contienen gluten y su tinta es de larga duración.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PHV7DSS/?tag=tolees-21)
