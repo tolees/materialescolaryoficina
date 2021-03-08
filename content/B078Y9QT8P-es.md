@@ -28,10 +28,10 @@ En este momento está [XP-PEN G640 Tableta Gráfica 6 x 4 Pulgadas Nivel de Pres
 
 🔎:
 
-- El G640 se puede usar con los sistemas operativos Windows 10/8/7, Mac 10.10 y superior. La compatibilidad siempre se mejora constantemente a través de nuestras actualizaciones de controladores.
-- ¡Compare con el G430, el G640 proporciona un área activa más amplia para dibujar y jugar! La posición del cable USB está diseñado para adaptarse a su estilo de dibujo y juego.
-- El G640 tiene solo 2 mm de grosor, es tan delgado como todas las tabletas gráficas de nivel primario, lo que le permite llevarlo mientras viajas. ¡Diseñado para usuarios diestros y zurdos!
 - La tasa de informe del G640 se ha incrementado a 266 RPS, lo que hace que las líneas fluyan de forma más rápida y suave, mejorando el rendimiento general.
+- El G640 se puede usar con los sistemas operativos Windows 10/8/7, Mac 10.10 y superior. La compatibilidad siempre se mejora constantemente a través de nuestras actualizaciones de controladores.
+- El G640 tiene solo 2 mm de grosor, es tan delgado como todas las tabletas gráficas de nivel primario, lo que le permite llevarlo mientras viajas. ¡Diseñado para usuarios diestros y zurdos!
 - Área activa: 6 x 4 pulgadas. Utiliza al máximo nuestros 8192 niveles de sensibilidad a la presión del lápiz. Brinda control y fluidez innovadores para expandir su producción creativa.
+- ¡Compare con el G430, el G640 proporciona un área activa más amplia para dibujar y jugar! La posición del cable USB está diseñado para adaptarse a su estilo de dibujo y juego.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078Y9QT8P/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Marcador STABILO BOSS Original Pastel - Estuche con 6 colores](https://ww
 
 ℹ️:
 
-- Punta de escritura inclinada para líneas gruesas y finas
-- Tinta pigmentada a base de agua
 - Calidad Alemana
 - Ancho de escritura: 2 y 5 mm
+- Punta de escritura inclinada para líneas gruesas y finas
+- Tinta pigmentada a base de agua
 - Tecnología Anti secado STABILO: Hasta 4 horas destapado sin secarse
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HYN1KDC/?tag=tolees-21)
