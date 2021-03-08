@@ -28,10 +28,10 @@ Está [N+A - Bolígrafos de tinta de gel borrables  bolígrafos de gel de tinta 
 
 ℹ️:
 
-- Bolígrafos de tinta termo sensibles especiales: los termosensibles de alta calidad, sin manchas, sin ácido, sin decoloración o sangrado, no ensucian sus manos y papel que lo ayudan a mantener el trabajo ordenado y organizado.
-- Cuidado seguro: los bolígrafos de gel borrables están hechos de material seguro y no tóxico, tanto adultos como niños pueden usarlo a gusto. 8 colores surtidos (negro, azul, celeste, rojo, verde, rosa rojo, morado, naranja), cantidad suficiente para cubrir sus necesidades.
 - Ideal para escribir: los estudiantes pueden usar estos bolígrafos de gel para tomar notas y hacer tareas. O complete Sudoku y crucigramas sin errores ni agujeros en el papel. No se recomienda su uso en papel de examen, documentos legales u oficiales.
-- Bolígrafos de bola borrables: le permite escribir sin problemas. si comete un error descuidado, utilizando únicamente el borrador, borra el error, y reescribe el correcto sin dañar los documentos. La nueva tinta termosensible desaparecerá con la fricción, sin dejar residuos y sin rasgar el papel.
+- Bolígrafos de tinta termo sensibles especiales: los termosensibles de alta calidad, sin manchas, sin ácido, sin decoloración o sangrado, no ensucian sus manos y papel que lo ayudan a mantener el trabajo ordenado y organizado.
 - Escritura suave y precisa: el bolígrafo de gel roller viene con puntas de bola de rodillo duraderas, punta extrafina (0,5 mm), la punta del bolígrafo está perfectamente conectada al cuerpo del bolígrafo. La punta fina escribe prolijamente, le brinda una experiencia de escritura fluida. Pequeño y delicado, elegante y duradero.
+- Cuidado seguro: los bolígrafos de gel borrables están hechos de material seguro y no tóxico, tanto adultos como niños pueden usarlo a gusto. 8 colores surtidos (negro, azul, celeste, rojo, verde, rosa rojo, morado, naranja), cantidad suficiente para cubrir sus necesidades.
+- Bolígrafos de bola borrables: le permite escribir sin problemas. si comete un error descuidado, utilizando únicamente el borrador, borra el error, y reescribe el correcto sin dañar los documentos. La nueva tinta termosensible desaparecerá con la fricción, sin dejar residuos y sin rasgar el papel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SWV1JXY/?tag=tolees-21)
