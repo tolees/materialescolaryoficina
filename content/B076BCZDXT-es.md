@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'CASIO SL-310UC-PK - Calculadora  0.8 x 7 al 24.26 % de descuento'
-date: 2020-09-07 11:31:11
+title: 'CASIO SL-310UC-PK - Calculadora  0.8 x 7 al 31.72 % de descuento'
+date: 2021-03-08 12:16:40
 image: 'https://m.media-amazon.com/images/I/510GEH+0uGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,29 @@ author: ring
 slug: 'B076BCZDXT-es CASIO SL-310UC-PK - Calculadora 0.8 x 7 x 11.8 cm color Rosa'
 sku: 'B076BCZDXT-es'
 tags: [ 'calculadora', ]
-actualPrice: 6.4 EUR
+actualPrice: 5.77 EUR
 currency: EUR
-price: 6.4
+price: 5.77
 comparePrice: 8.45 EUR
 prodname: 'CASIO SL-310UC-PK - Calculadora  0.8 x 7 x 11.8 cm  color Rosa'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B076BCZDXT/?tag=tolees-21'
-descuento: '24.26'
-average: '5.5842857142857145'
+descuento: '31.72'
+average: '5.62555555555556'
 ---
 
-Está [CASIO SL-310UC-PK - Calculadora  0.8 x 7 x 11.8 cm  color Rosa](https://www.amazon.es/dp/B076BCZDXT/?tag=tolees-21) con 24.26 de descuento por 6.4 EUR (original: 8.45 EUR) en el siguiente enlace!
+Está [CASIO SL-310UC-PK - Calculadora  0.8 x 7 x 11.8 cm  color Rosa](https://www.amazon.es/dp/B076BCZDXT/?tag=tolees-21) con 31.72 de descuento por 5.77 EUR (original: 8.45 EUR) en el siguiente enlace!
 
 [![CASIO SL-310UC-PK - Calculadora  0.8 x 7](https://m.media-amazon.com/images/I/510GEH+0uGL._SL400_.jpg)](https://www.amazon.es/dp/B076BCZDXT/?tag=tolees-21)
 
 ℹ️:
 
+- Pantalla LC extra grande de 10 dígitos
+- 8 teclas memoria y Tecla de símbolo + / -
+- Subdivisión en miles y Tecla de corrección rápida
+- Raíz Cuadrada y Cálculo de unidades de tiempo
+- Calculación de impuestos y de porcentajes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076BCZDXT/?tag=tolees-21)
