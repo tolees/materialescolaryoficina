@@ -28,10 +28,10 @@ En este momento está [BIC Kids Visa rotuladores punta fina - colores Surtidos  
 
 🔎:
 
-- Los rotuladores BIC Kids Visa no se secan nunca, aunque tu pequeño despistado los deje destapados durante 3 meses (excepto el negro)
-- Su tinta con base de agua se limpia fácilmente de la mayoría de tejidos
 - Los 18 llamativos colores de este cubo de 84 unidades permiten crear obras mente vívidas y coloridas
 - Estos rotuladores de colores han sido especialmente diseñados para que niños a partir de 5 años hagan sus proyectos diarios
+- Su tinta con base de agua se limpia fácilmente de la mayoría de tejidos
+- Los rotuladores BIC Kids Visa no se secan nunca, aunque tu pequeño despistado los deje destapados durante 3 meses (excepto el negro)
 - Estos rotuladores de punta fina son adecuados para los niños que están aprendiendo a hacer dibujos más detallados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001AS5Z3S/?tag=tolees-21)
