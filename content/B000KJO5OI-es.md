@@ -28,10 +28,10 @@ Tienes [APLI 10199 - Etiquetas  25 hojas  A4](https://www.amazon.es/dp/B000KJO5O
 
 ℹ️:
 
-- Din A4
-- Nº de hojas por pack: 25 hojas
 - Cantidad de etiquetas : 2000
+- Nº de hojas por pack: 25 hojas
 - Medidas: 35.6 x 16.9
 - Las etiquetas autoadhesivas blancas para impresoras Inkjet, Láser y Fotocopiadora se caracterizan por su versatilidad, flexibilidad y sencillez de uso
+- Din A4
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KJO5OI/?tag=tolees-21)
