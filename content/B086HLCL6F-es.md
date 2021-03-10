@@ -31,7 +31,7 @@ Está [American Tourister Fast Route - 15.6 Pulgadas Mochila para Portátil con 
 - Varios bolsillos delanteros y gran compartimento principal con correas cruzadas
 - Compartimento separado para 15 Portátil de 6 pulgadas
 - Mochila para portátil con 2 ruedas 15. 6 pulgadas: 36 x 24 x 55 cm - 37 L - 2, 10 kg
-- Correa de hombro ergonómica
 - Incluye soporte para botellas
+- Correa de hombro ergonómica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086HLCL6F/?tag=tolees-21)
