@@ -28,10 +28,10 @@ En este momento está [Milan Capsule Uno - Bolígrafo](https://www.amazon.es/dp/
 
 🔎:
 
-- Diseño original creado por el departamento de I+D de MILAN. 
-- Punta 1 mm. Tinta fabricada en Alemania. Pulsador con retorno.
-- Cuerpo del mismo color que la tinta
-- Medidas bolígrafo: 13,4 x 1,6 cm. 1,4 cm .
 - Longitud de escritura aproximada de 1.000 metros.
+- Punta 1 mm. Tinta fabricada en Alemania. Pulsador con retorno.
+- Medidas bolígrafo: 13,4 x 1,6 cm. 1,4 cm .
+- Cuerpo del mismo color que la tinta
+- Diseño original creado por el departamento de I+D de MILAN. 
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GWK1ZW3/?tag=tolees-21)
