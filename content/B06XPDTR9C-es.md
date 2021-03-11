@@ -28,9 +28,9 @@ Tienes [Hybrid Dual Metallic de Pentel - Caja de 8 Boligrafos Roller Gel de Colo
 
 🔎:
 
-- - Producen diferentes tonalidades según el color del papel. Si escribes en un papel blanco y en uno oscuro, con un mismo bolígrafo, el resultado es sorprendente.
-- - Perfecto para dibujar, colorear, decorar y personalizar tarjetas.
-- - Hazte con este estuche de 8 rollers y sé el más original y creativo de estas Fiestas.
 - - Tinta de gel con efecto purpurina realmente brillantes.
+- - Perfecto para dibujar, colorear, decorar y personalizar tarjetas.
+- - Producen diferentes tonalidades según el color del papel. Si escribes en un papel blanco y en uno oscuro, con un mismo bolígrafo, el resultado es sorprendente.
+- - Hazte con este estuche de 8 rollers y sé el más original y creativo de estas Fiestas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XPDTR9C/?tag=tolees-21)
