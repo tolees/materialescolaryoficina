@@ -28,8 +28,8 @@ Tienes [Parker Deluxe GP Converter - Recambio para bolígrafos y plumas](https:/
 
 ℹ️:
 
-- Bañada en oro.
-- Con cartucho rellenable.
 - El clip no está bañado en oro.
+- Con cartucho rellenable.
+- Bañada en oro.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0052XFZ5K/?tag=tolees-21)
