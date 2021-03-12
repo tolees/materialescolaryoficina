@@ -29,8 +29,8 @@ Tienes [BIC - Tipp-Ex Shake n Squeeze Corrector Líquido ideal para profesionale
 🔎:
 
 - Un lápiz corrector de máxima calidad con una capacidad de secado rápido espectacular que te permite volver a escribir al instante
-- Tapón de doble función: protege la punta del lápiz y permite engancharlo a un cuaderno
 - Basta con agitar y apretar el cuerpo blando del lápiz corrector para disfrutar de un control del flujo preciso
+- Tapón de doble función: protege la punta del lápiz y permite engancharlo a un cuaderno
 - El corrector líquido Tipp-Ex Shake’n’Squeeze de 8 ml es un bolígrafo corrector de alto rendimiento
 - Su fina punta metálica ha sido diseñada para que solo elimines lo que quieres corregir
 
