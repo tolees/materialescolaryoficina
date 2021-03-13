@@ -28,10 +28,10 @@ Tienes [APLI 16911 - Forro de libros con solapa ajustable PP 285 mm 5 u.](https:
 
 🔎:
 
-- Pack con 5 unidades
-- Producto en cumplimiento del reglamento REACH sobre la fabricación, comercialización y uso de sustancias y mezclas químicas en productos
-- la forma más fácil de forrar libros, cuadernos y carpetas, ya que se adaptan a cada ancho sin necesidad de cortar ni utilizar cinta adhesiva
 - Forra en solo 3 pasos: Introduce la s tapas del libro en la s solapas, ajusta el forro cerrando el libro y retira la cinta y pégalo
+- Producto en cumplimiento del reglamento REACH sobre la fabricación, comercialización y uso de sustancias y mezclas químicas en productos
 - Fundas transparentes de PP (polipropileno) de 75 micras tamaño 285 mm con solapa autoajustable
+- Pack con 5 unidades
+- la forma más fácil de forrar libros, cuadernos y carpetas, ya que se adaptan a cada ancho sin necesidad de cortar ni utilizar cinta adhesiva
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DM9CWQS/?tag=tolees-21)
