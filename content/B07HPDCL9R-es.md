@@ -29,8 +29,8 @@ Tienes [Fjallraven Kånken No. 2 Laptop 15" Backpack  Unisex Adulto  Deep Forest
 🔎:
 
 - Tipo de fábrica: 65% Polyester, 35% Cotton
-- Anchura: 11.02 pulgadas
 - Padded shoulder straps
+- Anchura: 11.02 pulgadas
 - With a Padded Compartiment for a laptop computer
 - Classic backpack
 
