@@ -28,8 +28,8 @@ Está [Rotulador STABILO Pen 68 - Estuche con 20 colores](https://www.amazon.es/
 
 ℹ️:
 
-- Hasta 24 horas destapado sin secarse
 - Colores surtidos
+- Hasta 24 horas destapado sin secarse
 - Gama de 20 colores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0007OEE1U/?tag=tolees-21)
