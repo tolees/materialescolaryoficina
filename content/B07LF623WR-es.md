@@ -28,10 +28,10 @@ En este momento está [BIC Gel-ocity Quick Dry Bolígrafos de Gel de punta media
 
 🔎:
 
-- Este blíster contiene un surtido de 13 colores que combina los tonos clásicos con otros de temporada
-- Cuenta con un práctico sistema de punta retráctil con un solo clic
-- El grip integral de su cuerpo ha sido diseñado para optimizar el manejo y ofrecer la máxima comodidad
 - Este bolígrafo de gel de punta media contiene una tinta de secado ultrarrápido que no gotea ni cala, adecuada para zurdos
 - Esta luminosa tinta en gel se desliza por la página con una fluidez insólita
+- El grip integral de su cuerpo ha sido diseñado para optimizar el manejo y ofrecer la máxima comodidad
+- Este blíster contiene un surtido de 13 colores que combina los tonos clásicos con otros de temporada
+- Cuenta con un práctico sistema de punta retráctil con un solo clic
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LF623WR/?tag=tolees-21)
