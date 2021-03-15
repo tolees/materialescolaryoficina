@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'BIC Kids Visacolor XL rotuladores Punta  al 31.24 % de rebaja'
-date: 2020-02-19 13:49:33
-image: 'https://m.media-amazon.com/images/I/51o9bP6vqYL._AC_._SL400_.jpg'
+title: 'BIC Kids Visacolor XL rotuladores Punta  al 33.41 % de rebaja'
+date: 2021-03-15 13:55:02
+image: 'https://m.media-amazon.com/images/I/51o9bP6vqYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004MLTKRW-es BIC Kids Visacolor XL rotuladores Punta Gruesa - colores...'
+slug: 'B004MLTKRW-es BIC Kids Visacolor XL rotuladores Punta Gruesa - Colores...'
 sku: 'B004MLTKRW-es'
-tags: [ 'rotuladores','rotuladores', ]
-actualPrice: 17.21 EUR
+tags: [ 'rotuladores','escolar','material','escolar','rotuladores', ]
+actualPrice: 13.77 EUR
 currency: EUR
-price: 17.21
-comparePrice: 25.03 EUR
-prodname: 'BIC Kids Visacolor XL rotuladores Punta Gruesa - colores Surtidos  Caja de 48 unidades'
+price: 13.77
+comparePrice: 20.68 EUR
+prodname: 'BIC Kids Visacolor XL rotuladores Punta Gruesa - Colores surtidos  Caja de 48 unidades – rotuladores lavables para niños  certificados con etiqueta ecológica  material escolar'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'BIC'
 buyurl: 'https://www.amazon.es/dp/B004MLTKRW/?tag=tolees-21'
-descuento: '31.24'
-average: '18.935000000000002'
+descuento: '33.41'
+average: '16.3525'
 ---
 
-Tienes [BIC Kids Visacolor XL rotuladores Punta Gruesa - colores Surtidos  Caja de 48 unidades](https://www.amazon.es/dp/B004MLTKRW/?tag=tolees-21) con precio final de  17.21 EUR (original: 25.03 EUR) (31.24 %  de rebaja) aqui!
+Tienes [BIC Kids Visacolor XL rotuladores Punta Gruesa - Colores surtidos  Caja de 48 unidades – rotuladores lavables para niños  certificados con etiqueta ecológica  material escolar](https://www.amazon.es/dp/B004MLTKRW/?tag=tolees-21) con precio final de  13.77 EUR (original: 20.68 EUR) (33.41 %  de rebaja) aqui!
 
-[![BIC Kids Visacolor XL rotuladores Punta ](https://m.media-amazon.com/images/I/51o9bP6vqYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B004MLTKRW/?tag=tolees-21)
+[![BIC Kids Visacolor XL rotuladores Punta ](https://m.media-amazon.com/images/I/51o9bP6vqYL._SL400_.jpg)](https://www.amazon.es/dp/B004MLTKRW/?tag=tolees-21)
 
 🔎:
 
+- La amplitud de su punta fija facilita el trazado de líneas gruesas para colorear zonas grandes
+- Se presentan en una selección de 24 llamativos colores cuya tinta con base de agua se limpia muy fácilmente de la mayoría de tejidos
+- Los rotuladores BIC Kids Visacolor XL ECOlutions tienen un cuerpo redondo que facilita su agarre a los niños a partir de 3 años
+- Los BIC Kids Visacolor XL ECOlutions no se secan nunca, aunque los dejes destapados durante 2 meses
+- Están fabricados con un 54 % de materiales reciclados y certificados con la etiqueta ecológica NF Environnement
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004MLTKRW/?tag=tolees-21)
