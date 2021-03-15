@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moleskine - Lápices de acuarela  12 colo al 50.00 % de descuento'
-date: 2021-03-14 18:52:24
+date: 2021-03-15 21:46:11
 image: 'https://m.media-amazon.com/images/I/41i1S-hvOnL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Está [Moleskine - Lápices de acuarela  12 colores ](https://www.amazon.es/dp/B
 
 - Hecho de cedro natural
 - 12 lápices de acuarela con una punta de 3 mm
-- Viene en una caja de metal
 - Con una forma rectangular distintiva
+- Viene en una caja de metal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XFXYBFX/?tag=tolees-21)
