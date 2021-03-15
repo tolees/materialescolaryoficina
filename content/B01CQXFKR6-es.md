@@ -28,9 +28,9 @@ Está [Hugo Boss - Bolígrafo loop black negro mate](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Acabado de las partes metal: cromo Plating
-- Dimensión: 140 x 11.5 x 11.5 mm
 - Acabado del conector: Rubber
 - Color: Black
+- Acabado de las partes metal: cromo Plating
+- Dimensión: 140 x 11.5 x 11.5 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CQXFKR6/?tag=tolees-21)

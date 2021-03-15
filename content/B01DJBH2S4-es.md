@@ -28,10 +28,10 @@ Tienes [Parker Jotter Stainless Steel bolígrafo CT](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Equipado con un recambio Quinkflow para disfrutar de un flujo de tinta óptimo y escribir con suavidad; tinta azul, punta mediana; también compatible con recambios de tinta de gel Parker
-- Clic característico de apertura y cierre
-- Una nueva interpretación de nuestro diseño Jotter icónico y elegante, que ha sido un clásico durante 60 años
 - Cuerpo de acero inoxidable realzado con adornos brillantes y un clip con forma de punta de flecha
+- Clic característico de apertura y cierre
+- Equipado con un recambio Quinkflow para disfrutar de un flujo de tinta óptimo y escribir con suavidad; tinta azul, punta mediana; también compatible con recambios de tinta de gel Parker
+- Una nueva interpretación de nuestro diseño Jotter icónico y elegante, que ha sido un clásico durante 60 años
 - Estuchado en un distintivo estuche de regalo de Parker
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01DJBH2S4/?tag=tolees-21)
