@@ -28,10 +28,10 @@ Tienes [Moleskine - Bolsa para Dispositivos Electrónicos  Ordenador Portátil  
 
 🔎:
 
-- Esta bolsa de poliuretano negro es adecuada para proteger tu portátil, notebook y iPad de hasta 15 pulgadas
-- Más que una bolsa para dispositivos electrónicos, una verdadera herramienta de trabajo para llevar tus documentos
-- Todo a mano gracias al gran bolsillo con cremallera en la parte trasera de la mochila y a los diferentes bolsillos y espacios interiores: un organizador con dos soportes para bolígrafos
-- Tamaño 29 x 39 x 6 cm - Negro
 - Gracias a los tirantes ajustables, la mochila se puede colocar a una altura óptima para la espalda: llevar el dispositivo contigo nunca ha sido tan cómodo
+- Esta bolsa de poliuretano negro es adecuada para proteger tu portátil, notebook y iPad de hasta 15 pulgadas
+- Tamaño 29 x 39 x 6 cm - Negro
+- Todo a mano gracias al gran bolsillo con cremallera en la parte trasera de la mochila y a los diferentes bolsillos y espacios interiores: un organizador con dos soportes para bolígrafos
+- Más que una bolsa para dispositivos electrónicos, una verdadera herramienta de trabajo para llevar tus documentos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06Y1KM5Q9/?tag=tolees-21)

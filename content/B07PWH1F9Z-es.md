@@ -30,8 +30,8 @@ Tienes [Wenger 606489 City Upgrade 16" 2 - Piece Laptop Backpack  Padded Laptop 
 
 - Mesh curtain folds down to function as a regular backpack
 - Padded 16" laptop compartment and dedicated 12" tablet pocket
-- Water resistant front quick pockets
-- Two piece style features a slim 16" backpack and removable crossbody sling
 - Trolley pass-through sleeve
+- Two piece style features a slim 16" backpack and removable crossbody sling
+- Water resistant front quick pockets
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PWH1F9Z/?tag=tolees-21)
