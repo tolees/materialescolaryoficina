@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DN9QZ4W-es Juego de 16 imanes de neodimio Imanes fuertes adhesivos...'
 sku: 'B07DN9QZ4W-es'
-tags: [ 'cinta','adhesiva', ]
+tags: [ 'adhesiva','cinta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B083Q8DXB2-es Doble Cara Cinta Adhesiva de Espuma CHIFOOM 80pcs Pad...'
 sku: 'B083Q8DXB2-es'
-tags: [ 'cinta','adhesiva', ]
+tags: [ 'adhesiva','cinta', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

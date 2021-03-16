@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B083JVRVSR-es Mochila para Niños de La Escuela Conjunto de 3 Piezas de...'
 sku: 'B083JVRVSR-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

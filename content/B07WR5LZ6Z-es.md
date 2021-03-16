@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07WR5LZ6Z-es Escolar Estuche de Lápices Gran Capacidad Cartera Bolsa de...'
 sku: 'B07WR5LZ6Z-es'
-tags: [ 'lápices','escolar','lápices', ]
+tags: [ 'escolar','lápices', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

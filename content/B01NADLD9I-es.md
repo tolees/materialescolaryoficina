@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01NADLD9I-es Rotulador punta media STABILO pointMax - Estuche con 12...'
 sku: 'B01NADLD9I-es'
-tags: [ 'stabilo','rotulador','stabilo', ]
+tags: [ 'rotulador','stabilo', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

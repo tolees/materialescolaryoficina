@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01KLV3CFW-es Under Armour Ua Hustle 3.0 Mochila Unisex Negro...'
 sku: 'B01KLV3CFW-es'
-tags: [ 'mochila','mochila','unisex', ]
+tags: [ 'mochila','unisex', ]
 actualPrice: 47.54 EUR
 currency: EUR
 price: 47.54

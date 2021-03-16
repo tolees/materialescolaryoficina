@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07W6YT1QP-es Vuelta al cole pencil case regalos originales para Chicas...'
 sku: 'B07W6YT1QP-es'
-tags: [ 'bolígrafos','mochila','escolar', ]
+tags: [ 'bolígrafos','escolar','mochila', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0002GTGGG-es Crayola 3678 - Lápices Decorados Jumbo color/modelo surtido'
 sku: 'B0002GTGGG-es'
-tags: [ 'lápices','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

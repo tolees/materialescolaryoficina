@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YKQG7GB-es Rotuladores de pincel de caligrafía de doble punta 24...'
 sku: 'B07YKQG7GB-es'
-tags: [ 'rotuladores','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

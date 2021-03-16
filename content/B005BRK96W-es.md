@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B005BRK96W-es BIC Cristal Original bolígrafos punta media 1 0 mm –...'
 sku: 'B005BRK96W-es'
-tags: [ 'bolígrafos','bic','cristal', ]
+tags: [ 'bic','bolígrafos','cristal', ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

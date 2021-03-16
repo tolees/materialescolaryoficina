@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06XKRLN6J-es adidas BP Power IV Mochila Unisex Adultos Negro...'
 sku: 'B06XKRLN6J-es'
-tags: [ 'mochila','mochila','unisex', ]
+tags: [ 'mochila','unisex', ]
 actualPrice: 28.09 EUR
 currency: EUR
 price: 28.09

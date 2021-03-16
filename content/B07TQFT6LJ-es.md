@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07TQFT6LJ-es Rotuladores metálicos Kaliwa Juego de 10 Colores Surtidos...'
 sku: 'B07TQFT6LJ-es'
-tags: [ 'rotuladores','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

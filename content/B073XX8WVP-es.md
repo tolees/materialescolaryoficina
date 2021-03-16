@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B073XX8WVP-es Acmebon Mochila Escolar de Ocio Ligera y Moderna - Cartera...'
 sku: 'B073XX8WVP-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

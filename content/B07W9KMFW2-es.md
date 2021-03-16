@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07W9KMFW2-es PUREBOX Mochila para portátil para hombre mochila escolar...'
 sku: 'B07W9KMFW2-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 19.3 EUR
 currency: EUR
 price: 19.3

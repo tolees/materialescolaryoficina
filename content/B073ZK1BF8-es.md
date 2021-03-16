@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B073ZK1BF8-es Carioca Maletín TITA | Lápices de Colores Caja Portátil de...'
 sku: 'B073ZK1BF8-es'
-tags: [ 'lápices','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 17.17 EUR
 currency: EUR
 price: 17.17

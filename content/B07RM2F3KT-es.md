@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07RM2F3KT-es Mochila mochila escolar mochila deportiva mochila para el...'
 sku: 'B07RM2F3KT-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

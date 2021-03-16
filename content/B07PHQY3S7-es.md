@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07PHQY3S7-es Zenacolor 24 Lápices de Colores Acuarelables Numerados con...'
 sku: 'B07PHQY3S7-es'
-tags: [ 'lápices','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

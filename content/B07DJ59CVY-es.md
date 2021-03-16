@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DJ59CVY-es Soarpop Mochila Escolar Portatil de Estilo Clásico para...'
 sku: 'B07DJ59CVY-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

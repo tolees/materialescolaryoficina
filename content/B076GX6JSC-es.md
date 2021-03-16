@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B076GX6JSC-es Kipling CLAS SEOUL Mochila escolar 45 cm 25 litros Beige...'
 sku: 'B076GX6JSC-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 44.46 EUR
 currency: EUR
 price: 44.46

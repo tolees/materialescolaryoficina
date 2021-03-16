@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VMPG3N5-es Acmebon Mochila Escolar Resistente al Agua para Niñas...'
 sku: 'B07VMPG3N5-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07ZQ3SC5B-es COAWG Scrapbook Album de Fotos 80 Páginas Negra con 12...'
 sku: 'B07ZQ3SC5B-es'
-tags: [ 'rotuladores','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 16.73 EUR
 currency: EUR
 price: 16.73

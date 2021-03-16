@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0011UP7BK-es STABILO CarbOthello - Lápiz de color tiza-pastel - Caja de...'
 sku: 'B0011UP7BK-es'
-tags: [ 'lápiz','stabilo','stabilo', ]
+tags: [ 'lápiz','stabilo', ]
 actualPrice: 90.81 EUR
 currency: EUR
 price: 90.81

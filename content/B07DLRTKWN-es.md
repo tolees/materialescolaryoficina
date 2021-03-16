@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DLRTKWN-es Uworth Mochila Escolar Infantil Guarderia Niña Mochila...'
 sku: 'B07DLRTKWN-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

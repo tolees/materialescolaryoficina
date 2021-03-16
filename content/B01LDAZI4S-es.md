@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01LDAZI4S-es Dis2 - Plumier de lápices doble bestial wolf negro'
 sku: 'B01LDAZI4S-es'
-tags: [ 'lápices','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 25.1 EUR
 currency: EUR
 price: 25.1

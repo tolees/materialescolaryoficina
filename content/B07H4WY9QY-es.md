@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07H4WY9QY-es Staedtler Noris Eco 183-HBBK3. Lápices ecológicos de...'
 sku: 'B07H4WY9QY-es'
-tags: [ 'lápices','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

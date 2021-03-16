@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07TZPP71Z-es LOBKIN Rotuladores de Pintura Acrílica Keten 12 Colores...'
 sku: 'B07TZPP71Z-es'
-tags: [ 'rotuladores','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

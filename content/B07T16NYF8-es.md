@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07T16NYF8-es Pepe Jeans Daniela Mochila Escolar Adaptable 42 cm 20.83...'
 sku: 'B07T16NYF8-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

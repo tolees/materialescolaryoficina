@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00IWSI38S-es BOLIGRAFO BIC Cristal Oro'
 sku: 'B00IWSI38S-es'
-tags: [ 'boligrafo','bic','cristal', ]
+tags: [ 'bic','boligrafo','cristal', ]
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

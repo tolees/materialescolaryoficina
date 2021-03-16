@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0007OEDZC-es STABILO BOSS Original Marcador fluorescente multicolor-...'
 sku: 'B0007OEDZC-es'
-tags: [ 'stabilo','stabilo', ]
+tags: [ 'stabilo', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B089NNNK1Z-es Viaje al Aire Libre Carga USB Hombres Mujeres Mochila...'
 sku: 'B089NNNK1Z-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

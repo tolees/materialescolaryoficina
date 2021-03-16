@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B000TOBYTI-es Scotch Magic Tape - Cinta adhesiva transparente 14 rollos...'
 sku: 'B000TOBYTI-es'
-tags: [ 'cinta','adhesiva','scotch','magic', ]
+tags: [ 'adhesiva','cinta','magic','scotch', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

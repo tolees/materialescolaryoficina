@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B089SP1ZM9-es Gifort Rotuladores para Tela Permanentes 24 Colores...'
 sku: 'B089SP1ZM9-es'
-tags: [ 'rotuladores','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

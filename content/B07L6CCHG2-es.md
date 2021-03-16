@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07L6CCHG2-es RATEL Rotuladores Acuarelables incluye 24 plumas de pincel...'
 sku: 'B07L6CCHG2-es'
-tags: [ 'rotuladores','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

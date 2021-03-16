@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B085VBLDL4-es Carioca Set Colegio Primaria | Material Escolar con...'
 sku: 'B085VBLDL4-es'
-tags: [ 'bolígrafos','lápices','rotuladores','escolar','lápices','material','escolar','rotuladores', ]
+tags: [ 'bolígrafos','escolar','lápices','material','rotuladores', ]
 actualPrice: 21.67 EUR
 currency: EUR
 price: 21.67

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07BPTQ4SS-es Rotuladores Metalizados Rymall Rotuladores de Colores...'
 sku: 'B07BPTQ4SS-es'
-tags: [ 'rotuladores','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

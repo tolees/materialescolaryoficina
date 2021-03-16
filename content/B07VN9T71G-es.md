@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VN9T71G-es Mochila Antirrobo Impermeable Mochila Portátil Hombre 17.3...'
 sku: 'B07VN9T71G-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

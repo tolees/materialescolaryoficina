@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08DF8W8TZ-es Mochila Infantil 3D Estuche Escolar y Bolsa Merienda de...'
 sku: 'B08DF8W8TZ-es'
-tags: [ 'mochila','escolar','material','escolar', ]
+tags: [ 'escolar','material','mochila', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

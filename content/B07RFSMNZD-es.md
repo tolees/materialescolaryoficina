@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07RFSMNZD-es Mochila Escolar Instituto Star Wars'
 sku: 'B07RFSMNZD-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 13.33 EUR
 currency: EUR
 price: 13.33

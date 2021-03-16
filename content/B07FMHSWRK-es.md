@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07FMHSWRK-es Winsor & Newton Acuarela multicolor 24 lápices'
 sku: 'B07FMHSWRK-es'
-tags: [ 'lápices','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 17.47 EUR
 currency: EUR
 price: 17.47

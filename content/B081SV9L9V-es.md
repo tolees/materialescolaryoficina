@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B081SV9L9V-es Vogueing Tool Cinta adhesiva de esponja negra 5 m de...'
 sku: 'B081SV9L9V-es'
-tags: [ 'cinta','adhesiva', ]
+tags: [ 'adhesiva','cinta', ]
 actualPrice: 12.4 EUR
 currency: EUR
 price: 12.4

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VB72Z5B-es BOPAI - Mochila unisex para hombre impermeable ligera...'
 sku: 'B07VB72Z5B-es'
-tags: [ 'mochila','mochila','unisex', ]
+tags: [ 'mochila','unisex', ]
 actualPrice: 49.79 EUR
 currency: EUR
 price: 49.79

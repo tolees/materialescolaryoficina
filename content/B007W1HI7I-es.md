@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B007W1HI7I-es BIC Cristal Original Punta Fina - Estuche de 4 bolígrafos...'
 sku: 'B007W1HI7I-es'
-tags: [ 'bolígrafos','bic','cristal', ]
+tags: [ 'bic','bolígrafos','cristal', ]
 actualPrice: 1.58 EUR
 currency: EUR
 price: 1.58

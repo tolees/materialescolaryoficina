@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VQJ2M9P-es Carioca Color Box | 100 Rotuladores Super Lavables con una...'
 sku: 'B07VQJ2M9P-es'
-tags: [ 'colorear','rotuladores','rotuladores', ]
+tags: [ 'colorear','rotuladores', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

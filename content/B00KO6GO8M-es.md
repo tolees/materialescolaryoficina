@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00KO6GO8M-es BIC Cristal Soft bolígrafos punta media 1 2 mm - Azul...'
 sku: 'B00KO6GO8M-es'
-tags: [ 'bolígrafos','bic','cristal', ]
+tags: [ 'bic','bolígrafos','cristal', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

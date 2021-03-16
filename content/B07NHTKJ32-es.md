@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07NHTKJ32-es MILAN Mochila Escolar Capacidad 28l Moon Mochila Tipo...'
 sku: 'B07NHTKJ32-es'
-tags: [ 'mochila','escolar', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 12.78 EUR
 currency: EUR
 price: 12.78
