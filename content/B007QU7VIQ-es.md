@@ -5,7 +5,7 @@ date: 2020-03-17 21:57:43
 image: 'https://m.media-amazon.com/images/I/51tsghaq7ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007QU7VIQ-es Sharpie - Rotuladores permanentes punta fina colores...'
 sku: 'B007QU7VIQ-es'
 tags: [ 'rotuladores', ]

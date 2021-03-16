@@ -5,7 +5,7 @@ date: 2020-06-24 12:32:28
 image: 'https://m.media-amazon.com/images/I/41S0dE6hb6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJ4HQ7-es Kipling City Pack S Mochila para Mujer Verde Seagrass 27 x...'
 sku: 'B07PSJ4HQ7-es'
 tags: [ 'mochila', ]

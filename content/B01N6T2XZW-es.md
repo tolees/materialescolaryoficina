@@ -5,7 +5,7 @@ date: 2020-09-13 10:36:06
 image: 'https://m.media-amazon.com/images/I/41IYdJ2ciwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6T2XZW-es Rapesco ECO HD-140 - Grapadora de gruesos 140 hojas de...'
 sku: 'B01N6T2XZW-es'
 tags: [ 'grapadora', ]

@@ -5,7 +5,7 @@ date: 2020-09-10 17:04:16
 image: 'https://m.media-amazon.com/images/I/419252XODiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5SVTSQ-es PUMA Originals Backpack Mochilla Adultos Unisex Gibraltar...'
 sku: 'B07R5SVTSQ-es'
 tags: [ 'backpack', ]

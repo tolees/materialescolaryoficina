@@ -5,7 +5,7 @@ date: 2020-01-22 17:28:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bL%2BNYjUaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH4X7GR-es The North Face Borealis Classic Mochila Unisex Adulto...'
 sku: 'B07HH4X7GR-es'
 tags: [ 'mochila', ]

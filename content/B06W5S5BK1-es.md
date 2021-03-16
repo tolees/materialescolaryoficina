@@ -5,7 +5,7 @@ date: 2020-09-30 05:27:31
 image: 'https://m.media-amazon.com/images/I/41VfitNaYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W5S5BK1-es Cronus y Rhea® | Carpeta Exclusiva de Cuero Exclusivo...'
 sku: 'B06W5S5BK1-es'
 tags: [ 'bolígrafos','lápices', ]

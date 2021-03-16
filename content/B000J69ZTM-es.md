@@ -5,7 +5,7 @@ date: 2020-05-06 17:36:12
 image: 'https://m.media-amazon.com/images/I/21HuVy0vyeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000J69ZTM-es Pilot 495518 - Bolígrafo Azul Azul Transparente 12...'
 sku: 'B000J69ZTM-es'
 tags: [ 'bolígrafo', ]

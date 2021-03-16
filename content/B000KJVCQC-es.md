@@ -5,7 +5,7 @@ date: 2020-04-01 19:02:19
 image: 'https://m.media-amazon.com/images/I/31BiZOzlV4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJVCQC-es Faber-Castell 120511 - Minas 12 unidades'
 sku: 'B000KJVCQC-es'
 tags: [ 'faber-castell', ]

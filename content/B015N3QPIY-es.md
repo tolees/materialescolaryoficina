@@ -5,7 +5,7 @@ date: 2020-01-04 08:02:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31-uU54o14L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015N3QPIY-es Parker Sonnet - Bolígrafo lacado en azul con adorno...'
 sku: 'B015N3QPIY-es'
 tags: [ 'bolígrafo', ]

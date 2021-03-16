@@ -5,7 +5,7 @@ date: 2020-08-09 20:30:39
 image: 'https://m.media-amazon.com/images/I/41rJbUv9omL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BYWDV6G-es American Tourister AT Work - Mochila Mesh tipo casual para...'
 sku: 'B07BYWDV6G-es'
 tags: [ 'mochila', ]

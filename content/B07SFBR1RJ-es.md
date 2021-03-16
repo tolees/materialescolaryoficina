@@ -5,7 +5,7 @@ date: 2020-08-25 19:17:37
 image: 'https://m.media-amazon.com/images/I/41DuEdX2poL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFBR1RJ-es Helly Hansen Loke Backpack Mochila Unisex adulto Royal...'
 sku: 'B07SFBR1RJ-es'
 tags: [ 'backpack','mochila', ]

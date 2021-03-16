@@ -5,7 +5,7 @@ date: 2020-08-22 15:12:27
 image: 'https://m.media-amazon.com/images/I/51z873LjpgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHCCFQD-es Paper Mate InkJoy 100ST - Bolígrafos punta mediana 1.0 mm...'
 sku: 'B07NHCCFQD-es'
 tags: [ 'bolígrafos','mate','paper', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 10:07:08
 image: 'https://m.media-amazon.com/images/I/51tWDY9ZHtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P562KYB-es Mochila de paseo Pepe Jeans Molly gris'
 sku: 'B07P562KYB-es'
 tags: [ 'mochila', ]

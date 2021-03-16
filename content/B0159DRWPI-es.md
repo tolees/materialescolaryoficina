@@ -5,7 +5,7 @@ date: 2020-05-19 17:11:29
 image: 'https://m.media-amazon.com/images/I/41pcisU-XZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0159DRWPI-es Faber Castell B-136300 - Portaminas TK-Fine con goma de...'
 sku: 'B0159DRWPI-es'
 tags: [ 'borrar','castell','de','faber','goma','portaminas', ]

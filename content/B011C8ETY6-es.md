@@ -5,7 +5,7 @@ date: 2020-09-18 02:33:34
 image: 'https://m.media-amazon.com/images/I/51Ye+j6Ql8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011C8ETY6-es APLI Kids - Bolsa de gomets cara feliz 3 hojas adhesivo...'
 sku: 'B011C8ETY6-es'
 tags: [ 'apli', ]

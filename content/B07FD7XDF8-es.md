@@ -5,7 +5,7 @@ date: 2020-07-22 08:17:36
 image: 'https://m.media-amazon.com/images/I/41mttdEimjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FD7XDF8-es Mochila para Portátil de Negocios Impermeable Mochila...'
 sku: 'B07FD7XDF8-es'
 tags: [ 'mochila', ]

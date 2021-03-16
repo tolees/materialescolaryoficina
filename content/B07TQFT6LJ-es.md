@@ -5,7 +5,7 @@ date: 2020-05-30 16:20:01
 image: 'https://m.media-amazon.com/images/I/51pghQ8vMQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQFT6LJ-es Rotuladores metálicos Kaliwa Juego de 10 Colores Surtidos...'
 sku: 'B07TQFT6LJ-es'
 tags: [ 'rotuladores', ]

@@ -5,7 +5,7 @@ date: 2020-04-08 06:04:02
 image: 'https://m.media-amazon.com/images/I/51j1fV0j4fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LDAZI4S-es Dis2 - Plumier de lápices doble bestial wolf negro'
 sku: 'B01LDAZI4S-es'
 tags: [ 'lápices', ]

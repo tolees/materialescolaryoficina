@@ -5,7 +5,7 @@ date: 2020-09-20 11:34:29
 image: 'https://m.media-amazon.com/images/I/51RqsOrjyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQRY4G6-es Arteza Recambios de bolígrafo de gel azul | Paquete de 50...'
 sku: 'B07ZQRY4G6-es'
 tags: [ 'bolígrafo', ]

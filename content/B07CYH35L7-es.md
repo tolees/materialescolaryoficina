@@ -5,7 +5,7 @@ date: 2020-08-21 18:15:22
 image: 'https://m.media-amazon.com/images/I/41EtV7E0nkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYH35L7-es American Tourister Urban Groove Lifestyle - 17.3 pulgadas...'
 sku: 'B07CYH35L7-es'
 tags: [ 'mochila', ]

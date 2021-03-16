@@ -5,7 +5,7 @@ date: 2020-03-22 19:15:26
 image: 'https://m.media-amazon.com/images/I/21Fs7OjT+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000SHSYDU-es Staedtler 334-57 - Bolígrafo Gris Oliva'
 sku: 'B000SHSYDU-es'
 tags: [ 'bolígrafo', ]

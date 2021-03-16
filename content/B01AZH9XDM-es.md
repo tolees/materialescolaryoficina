@@ -5,7 +5,7 @@ date: 2020-04-10 00:15:05
 image: 'https://m.media-amazon.com/images/I/41EKPSoCPvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AZH9XDM-es APLI 13825 - Cinta de pintor 48 mm x 45 m pack de 6 rollos'
 sku: 'B01AZH9XDM-es'
 tags: [ 'apli', ]

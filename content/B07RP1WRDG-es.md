@@ -5,7 +5,7 @@ date: 2020-08-19 18:37:52
 image: 'https://m.media-amazon.com/images/I/41LsqqW6G2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP1WRDG-es Urban Armor Gear Plyo Funda para Apple Ipad Air 3 2019 /...'
 sku: 'B07RP1WRDG-es'
 tags: [ 'lápiz', ]

@@ -5,7 +5,7 @@ date: 2020-03-16 09:11:17
 image: 'https://m.media-amazon.com/images/I/417q7Nz3dmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XP1DGKM-es Cartucho de Fono Giratorio con lápiz de Repuesto Negro y...'
 sku: 'B07XP1DGKM-es'
 tags: [ 'lápiz', ]

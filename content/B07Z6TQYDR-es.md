@@ -5,7 +5,7 @@ date: 2020-09-17 18:15:37
 image: 'https://m.media-amazon.com/images/I/316DQfXAwtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6TQYDR-es Samsonite Zalia 2.0 Mochila para portátiles y netbooks...'
 sku: 'B07Z6TQYDR-es'
 tags: [ 'mochila', ]

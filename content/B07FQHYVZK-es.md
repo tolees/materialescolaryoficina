@@ -5,7 +5,7 @@ date: 2020-08-24 18:46:09
 image: 'https://m.media-amazon.com/images/I/31jYJYc7UlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQHYVZK-es Vans Realm Backpack Mochila Tipo Casual 42 cm 22 Liters...'
 sku: 'B07FQHYVZK-es'
 tags: [ 'backpack','mochila', ]

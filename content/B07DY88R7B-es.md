@@ -5,7 +5,7 @@ date: 2020-09-22 14:13:46
 image: 'https://m.media-amazon.com/images/I/51NxxFWpm+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DY88R7B-es Pepe Jeans Cross Mochila doble compartimento 44 cm color Azul'
 sku: 'B07DY88R7B-es'
 tags: [ 'mochila', ]

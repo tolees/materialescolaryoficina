@@ -5,7 +5,7 @@ date: 2020-06-25 10:21:16
 image: 'https://m.media-amazon.com/images/I/31J+vnRnhrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4VNKPZ-es CARE OF by PUMA Mochila 23L Azul Navy Blazer One Size...'
 sku: 'B07Q4VNKPZ-es'
 tags: [ 'mochila', ]

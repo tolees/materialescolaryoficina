@@ -5,7 +5,7 @@ date: 2020-01-08 07:31:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21iuPgU8ztL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WX6G1JK-es Cross X Star Wars Han Solo - Bolígrafo de punta rodante...'
 sku: 'B07WX6G1JK-es'
 tags: [ 'bolígrafo', ]

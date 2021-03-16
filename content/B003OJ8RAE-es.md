@@ -5,7 +5,7 @@ date: 2020-06-24 16:19:57
 image: 'https://m.media-amazon.com/images/I/41GgtFTvngL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003OJ8RAE-es Eastpak Padded Pak r Mochila 40 cm 24 L Gris Sunday Grey'
 sku: 'B003OJ8RAE-es'
 tags: [ 'mochila', ]

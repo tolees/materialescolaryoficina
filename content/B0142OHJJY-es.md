@@ -5,7 +5,7 @@ date: 2020-08-06 21:50:30
 image: 'https://m.media-amazon.com/images/I/51uj4AcbjVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0142OHJJY-es Mochila Cámara Réflex - [Multi-Capa] Mochila Fotografía...'
 sku: 'B0142OHJJY-es'
 tags: [ 'mochila', ]

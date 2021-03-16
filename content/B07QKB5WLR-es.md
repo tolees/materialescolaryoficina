@@ -5,7 +5,7 @@ date: 2020-04-08 06:05:42
 image: 'https://m.media-amazon.com/images/I/41VVgWBI2eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKB5WLR-es Pistola de Silicona G★LAXIA Pistola de Pegar 60W Con 10PCS...'
 sku: 'B07QKB5WLR-es'
 tags: [ 'barras','de','pegamento', ]

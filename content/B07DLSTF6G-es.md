@@ -5,7 +5,7 @@ date: 2020-09-17 12:01:07
 image: 'https://m.media-amazon.com/images/I/31rzARfQr3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLSTF6G-es Samsonite PRO-DLX 5 - Backpack for 14.1" Laptop 1.2 KG...'
 sku: 'B07DLSTF6G-es'
 tags: [ 'backpack','mochila', ]

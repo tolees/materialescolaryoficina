@@ -5,7 +5,7 @@ date: 2020-04-05 21:13:26
 image: 'https://m.media-amazon.com/images/I/51r0z+ja1EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081ZST46N-es CestMall Scratch Art Hojas Dibujo Scratch Láminas para...'
 sku: 'B081ZST46N-es'
 tags: [ 'lápices', ]

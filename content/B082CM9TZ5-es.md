@@ -5,7 +5,7 @@ date: 2020-06-21 20:34:06
 image: 'https://m.media-amazon.com/images/I/41G0-B7eX8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082CM9TZ5-es Memoria Flash USB 64GB Memoria USB 3.0 Pendrive con Luz...'
 sku: 'B082CM9TZ5-es'
 tags: [ 'lápiz', ]

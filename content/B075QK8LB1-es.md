@@ -5,7 +5,7 @@ date: 2020-02-15 18:38:05
 image: 'https://m.media-amazon.com/images/I/31GDwGr7rLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QK8LB1-es CYBEX Gold Mochila Portabebés MAIRA.tie desde el...'
 sku: 'B075QK8LB1-es'
 tags: [ 'mochila', ]

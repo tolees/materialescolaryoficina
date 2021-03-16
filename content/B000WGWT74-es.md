@@ -5,7 +5,7 @@ date: 2020-04-16 09:14:08
 image: 'https://m.media-amazon.com/images/I/21qso+5L4sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WGWT74-es Pentel GREEN-LABEL NM10 Fabric / Textile Pen 1 unidad'
 sku: 'B000WGWT74-es'
 tags: [ 'pentel', ]

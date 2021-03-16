@@ -5,7 +5,7 @@ date: 2020-04-15 00:26:30
 image: 'https://m.media-amazon.com/images/I/51l7Jabx8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GQ41FK-es APLI Kids- Bloc 16525'
 sku: 'B078GQ41FK-es'
 tags: [ 'apli', ]

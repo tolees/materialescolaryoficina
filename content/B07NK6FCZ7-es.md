@@ -5,7 +5,7 @@ date: 2020-08-22 20:48:04
 image: 'https://m.media-amazon.com/images/I/41Lzp2DYFpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NK6FCZ7-es EXERZ E Organizador de Escritorio 360 Grados Giratorio con...'
 sku: 'B07NK6FCZ7-es'
 tags: [ 'borrar','de','goma','grapadora','tijeras', ]

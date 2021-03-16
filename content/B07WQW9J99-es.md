@@ -5,7 +5,7 @@ date: 2020-08-26 03:00:28
 image: 'https://m.media-amazon.com/images/I/41WHtlNxOZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQW9J99-es Mochila para portátil Mochila para Estudiantes Mochila...'
 sku: 'B07WQW9J99-es'
 tags: [ 'escolar','mochila', ]

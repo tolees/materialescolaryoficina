@@ -5,7 +5,7 @@ date: 2020-04-05 14:04:36
 image: 'https://m.media-amazon.com/images/I/21ap+usexiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WS6W31R-es CiSiRUN Lápiz Táctil Lápiz iPad Lápiz para Pantalla Táctil...'
 sku: 'B07WS6W31R-es'
 tags: [ 'lápiz', ]

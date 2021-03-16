@@ -5,7 +5,7 @@ date: 2020-06-29 01:30:38
 image: 'https://m.media-amazon.com/images/I/41Q8oYPXzGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZZSY5V-es Keep Out Gaming BK7GXL Mochila para portáil Gaming de 17"...'
 sku: 'B06ZZZSY5V-es'
 tags: [ 'mochila', ]

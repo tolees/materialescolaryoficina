@@ -5,7 +5,7 @@ date: 2020-08-26 07:29:31
 image: 'https://m.media-amazon.com/images/I/41XgNAD5AYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRXCRMG-es Edding 1200 – Rotuladores de colores pastel – Punta...'
 sku: 'B07RRXCRMG-es'
 tags: [ 'rotuladores', ]

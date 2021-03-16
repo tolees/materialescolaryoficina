@@ -5,7 +5,7 @@ date: 2020-03-12 15:39:18
 image: 'https://m.media-amazon.com/images/I/31E+zlTGMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP3KPC3-es Calvin Klein - Ck Must Psp20 Sml Backpack Bolsos totes...'
 sku: 'B07RP3KPC3-es'
 tags: [ 'backpack', ]

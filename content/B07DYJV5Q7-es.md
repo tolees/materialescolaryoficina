@@ -5,7 +5,7 @@ date: 2020-08-15 15:05:39
 image: 'https://m.media-amazon.com/images/I/41iV5SuBq8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYJV5Q7-es Pepe Jeans Cross Mochila con carro doble compartimento 44...'
 sku: 'B07DYJV5Q7-es'
 tags: [ 'mochila', ]

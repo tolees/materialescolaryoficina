@@ -5,7 +5,7 @@ date: 2020-01-17 08:56:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51krQoFCcUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QSHVOC2-es Nike AllegianceFC Barcelona Shld Cmpct Ba Mochila Hombre...'
 sku: 'B00QSHVOC2-es'
 tags: [ 'mochila', ]

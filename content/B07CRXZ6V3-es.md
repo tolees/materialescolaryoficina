@@ -5,7 +5,7 @@ date: 2020-09-25 01:34:46
 image: 'https://m.media-amazon.com/images/I/41MXCkf2CDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CRXZ6V3-es Wenger Ibex - Mochila para portátil de 17" con Bolsillo...'
 sku: 'B07CRXZ6V3-es'
 tags: [ 'mochila', ]

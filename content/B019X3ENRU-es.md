@@ -5,7 +5,7 @@ date: 2020-08-18 08:38:27
 image: 'https://m.media-amazon.com/images/I/319pNEvDSCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019X3ENRU-es Campingaz Urban Picnic Bacpac 30L - Nevera Flexible...'
 sku: 'B019X3ENRU-es'
 tags: [ 'mochila', ]

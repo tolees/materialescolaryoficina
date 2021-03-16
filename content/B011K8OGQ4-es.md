@@ -5,7 +5,7 @@ date: 2020-02-20 01:13:25
 image: 'https://m.media-amazon.com/images/I/41ES8MXz3lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011K8OGQ4-es Black Diamond Speed 22 Mochila Unisex Adulto Graphite'
 sku: 'B011K8OGQ4-es'
 tags: [ 'mochila', ]

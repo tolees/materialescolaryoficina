@@ -5,7 +5,7 @@ date: 2020-09-17 22:06:20
 image: 'https://m.media-amazon.com/images/I/51vQT-LwkpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM3C21D-es Mochila Mochila Escolar Mochila Deportiva Mochila para el...'
 sku: 'B07RM3C21D-es'
 tags: [ 'escolar','mochila', ]

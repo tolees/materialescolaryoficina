@@ -5,7 +5,7 @@ date: 2020-07-24 18:32:37
 image: 'https://m.media-amazon.com/images/I/417-bbSLVqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4MCX1L-es Kipling Seoul Mochila Tipo Casual 44 cm 27 Liters Plateado...'
 sku: 'B07V4MCX1L-es'
 tags: [ 'mochila', ]

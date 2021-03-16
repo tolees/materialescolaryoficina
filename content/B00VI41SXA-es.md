@@ -5,7 +5,7 @@ date: 2020-03-27 20:45:19
 image: 'https://m.media-amazon.com/images/I/51lr7tjzoxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VI41SXA-es Play-Doh - Maletin Herramientas Hasbro B1169EU4'
 sku: 'B00VI41SXA-es'
 tags: [ 'play-doh', ]

@@ -5,7 +5,7 @@ date: 2020-07-10 00:30:59
 image: 'https://m.media-amazon.com/images/I/41wjHM8O5yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KT73LK-es Faber-Castell 117511 - Estuche de metal con 120 ecolápices...'
 sku: 'B000KT73LK-es'
 tags: [ 'faber-castell', ]

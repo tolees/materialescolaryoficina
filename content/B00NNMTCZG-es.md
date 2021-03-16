@@ -5,7 +5,7 @@ date: 2020-08-23 12:08:41
 image: 'https://m.media-amazon.com/images/I/31-KDynXofL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NNMTCZG-es 3 Claveles 7 Tijeras de Costura Multiusos Acero de Carbono...'
 sku: 'B00NNMTCZG-es'
 tags: [ 'tijeras', ]

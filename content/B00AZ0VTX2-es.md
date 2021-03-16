@@ -5,7 +5,7 @@ date: 2020-04-07 07:10:57
 image: 'https://m.media-amazon.com/images/I/413b7bLfSTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AZ0VTX2-es Trunki PaddlePak - Mochila infantil impermeable para...'
 sku: 'B00AZ0VTX2-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-10-01 12:04:20
 image: 'https://m.media-amazon.com/images/I/516MGUd5nDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BCLX28C-es CARIOCA Estuche Wild Cubs | Estuche 2 Cremalleras con...'
 sku: 'B08BCLX28C-es'
 tags: [ 'escolar','lápices','material','rotuladores', ]

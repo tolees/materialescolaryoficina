@@ -5,7 +5,7 @@ date: 2020-07-06 08:03:11
 image: 'https://m.media-amazon.com/images/I/41Ry3ASAL-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SM8NL5G-es Cabin Max Metz 20L 40x20x25 cm Maleta de Cabina Pequeña...'
 sku: 'B07SM8NL5G-es'
 tags: [ 'mochila', ]

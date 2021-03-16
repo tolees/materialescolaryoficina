@@ -5,7 +5,7 @@ date: 2020-04-14 17:50:58
 image: 'https://m.media-amazon.com/images/I/41GMKGdt6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0007OEDYS-es STABILO BOSS Original Marcador fluorescente multicolor -...'
 sku: 'B0007OEDYS-es'
 tags: [ 'stabilo', ]

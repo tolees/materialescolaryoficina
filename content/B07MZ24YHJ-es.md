@@ -5,7 +5,7 @@ date: 2020-06-20 06:30:29
 image: 'https://m.media-amazon.com/images/I/41oxEs5vKnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZ24YHJ-es Antirrobo Mochila para Portátil 15.6 Pulgadas Impermeable...'
 sku: 'B07MZ24YHJ-es'
 tags: [ 'escolar','mochila', ]

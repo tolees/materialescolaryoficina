@@ -5,7 +5,7 @@ date: 2020-08-09 15:01:36
 image: 'https://m.media-amazon.com/images/I/51qWGQPBowL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C6PWGBT-es RUVALINO Mochila para Ordenador Portátil Se Adapta a...'
 sku: 'B07C6PWGBT-es'
 tags: [ 'mochila', ]

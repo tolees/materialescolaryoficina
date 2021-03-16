@@ -5,7 +5,7 @@ date: 2020-03-28 14:32:02
 image: 'https://m.media-amazon.com/images/I/41EqqwP9C6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKKTYFL-es Vans VN0A3I6RTTZ1 Unisex adulto mochila Verde One Size'
 sku: 'B07QKKTYFL-es'
 tags: [ 'mochila', ]

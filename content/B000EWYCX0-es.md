@@ -5,7 +5,7 @@ date: 2020-01-04 16:52:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41n6CbHU--L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000EWYCX0-es Faber-Castell 110011 - Estuche de metal con 120 ecolápices...'
 sku: 'B000EWYCX0-es'
 tags: [ 'faber-castell', ]

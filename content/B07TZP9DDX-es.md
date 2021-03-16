@@ -5,7 +5,7 @@ date: 2020-06-03 23:31:52
 image: 'https://m.media-amazon.com/images/I/51mhAiBcO+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZP9DDX-es Disney Mochila para Niños Coco'
 sku: 'B07TZP9DDX-es'
 tags: [ 'mochila', ]

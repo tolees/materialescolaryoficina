@@ -5,7 +5,7 @@ date: 2020-05-31 19:05:18
 image: 'https://m.media-amazon.com/images/I/41Yz9BiLt7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFDKH8T-es Pepe Jeans 7742065 Mochila Casual 28 cm 6.72 litros Marrón'
 sku: 'B07VFDKH8T-es'
 tags: [ 'mochila', ]

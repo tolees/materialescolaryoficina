@@ -5,7 +5,7 @@ date: 2020-10-10 19:45:58
 image: 'https://m.media-amazon.com/images/I/417DdusC0qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6SWHN7-es Kipling SEOUL XL Mochila tipo casual 45 cm 33 litros...'
 sku: 'B07V6SWHN7-es'
 tags: [ 'mochila', ]

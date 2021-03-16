@@ -5,7 +5,7 @@ date: 2020-08-16 12:01:12
 image: 'https://m.media-amazon.com/images/I/51bDpBHE91L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQGSFY9-es Play-Doh Fábrica De Palomitas Hasbro E5110EU4 color/modelo...'
 sku: 'B07KQGSFY9-es'
 tags: [ 'play-doh', ]

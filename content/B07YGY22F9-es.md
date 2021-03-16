@@ -5,7 +5,7 @@ date: 2020-02-23 14:45:33
 image: 'https://m.media-amazon.com/images/I/21Vrz6eJ-wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGY22F9-es Miquelrius - Agenda 2020'
 sku: 'B07YGY22F9-es'
 tags: [ 'miquelrius', ]

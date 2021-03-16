@@ -5,7 +5,7 @@ date: 2020-01-28 08:13:33
 image: 'https://m.media-amazon.com/images/I/51ehKXL2tlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00028XNNG-es DYMO LW 99014 Etiquetas de envío / distintivos blanco 54...'
 sku: 'B00028XNNG-es'
 tags: [ 'dymo', ]

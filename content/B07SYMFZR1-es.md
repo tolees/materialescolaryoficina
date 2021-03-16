@@ -5,7 +5,7 @@ date: 2020-08-13 05:22:52
 image: 'https://m.media-amazon.com/images/I/518jtLyUg2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYMFZR1-es Pepe Jeans Pam - Mochila Saco Multicolor 44 cm'
 sku: 'B07SYMFZR1-es'
 tags: [ 'mochila', ]

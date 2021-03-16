@@ -5,7 +5,7 @@ date: 2020-09-18 07:29:57
 image: 'https://m.media-amazon.com/images/I/41HB3gVyXZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JPYYHWO-es Eastpak Back To Work Mochila 43 cm 27 L Gris Sunday Grey'
 sku: 'B00JPYYHWO-es'
 tags: [ 'mochila', ]

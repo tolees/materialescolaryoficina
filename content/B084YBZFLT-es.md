@@ -5,7 +5,7 @@ date: 2020-07-15 09:30:03
 image: 'https://m.media-amazon.com/images/I/41YvwHEAw4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084YBZFLT-es Targus Drifter II mochila con 3 grandes compartimentos...'
 sku: 'B084YBZFLT-es'
 tags: [ 'mochila', ]

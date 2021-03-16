@@ -5,7 +5,7 @@ date: 2020-04-16 17:51:08
 image: 'https://m.media-amazon.com/images/I/51pVaQxBvYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0144T9WRO-es APLI Kids - Bolsa de gomets 3 hojas La primavera'
 sku: 'B0144T9WRO-es'
 tags: [ 'apli', ]

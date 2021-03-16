@@ -5,7 +5,7 @@ date: 2020-02-12 12:56:41
 image: 'https://m.media-amazon.com/images/I/21kjh9hzVtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0046ZRAB2-es L Oréal Paris Lápiz de Labios Infalible Lipliner 703...'
 sku: 'B0046ZRAB2-es'
 tags: [ 'lápiz', ]

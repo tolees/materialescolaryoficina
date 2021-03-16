@@ -5,7 +5,7 @@ date: 2020-03-31 08:31:27
 image: 'https://m.media-amazon.com/images/I/310HYlnWURL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009GGTVTU-es Jovi 72 - Plastilina color rosa'
 sku: 'B009GGTVTU-es'
 tags: [ 'plastilina', ]

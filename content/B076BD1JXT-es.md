@@ -5,7 +5,7 @@ date: 2020-08-23 14:45:36
 image: 'https://m.media-amazon.com/images/I/51VdHo83wOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076BD1JXT-es Joymoze Cartera Escolar para Niñas Impermeable - Linda...'
 sku: 'B076BD1JXT-es'
 tags: [ 'escolar','mochila', ]

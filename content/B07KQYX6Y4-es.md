@@ -5,7 +5,7 @@ date: 2020-03-05 17:25:41
 image: 'https://m.media-amazon.com/images/I/31JsF+ri2iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQYX6Y4-es Diesel BOLD BACK II Mochila para Hombre Negro Black...'
 sku: 'B07KQYX6Y4-es'
 tags: [ 'mochila', ]

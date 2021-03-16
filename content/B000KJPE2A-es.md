@@ -5,7 +5,7 @@ date: 2020-04-04 02:17:12
 image: 'https://m.media-amazon.com/images/I/51qcDzMOZHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJPE2A-es Faber-Castell 128524 - Estuche de cartón con 24 tizas...'
 sku: 'B000KJPE2A-es'
 tags: [ 'faber-castell', ]

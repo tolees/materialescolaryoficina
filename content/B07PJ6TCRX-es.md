@@ -5,7 +5,7 @@ date: 2020-06-16 10:09:45
 image: 'https://m.media-amazon.com/images/I/41SA+8Ftw7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJ6TCRX-es Burton Backpack Kilo 2.0 Poliéster Large 27 Litro 49 x 28...'
 sku: 'B07PJ6TCRX-es'
 tags: [ 'backpack', ]

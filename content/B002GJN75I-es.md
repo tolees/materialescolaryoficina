@@ -5,7 +5,7 @@ date: 2020-07-04 18:02:32
 image: 'https://m.media-amazon.com/images/I/219bGF8YLPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002GJN75I-es Pilot G-2 - Bolígrafo de tinta gel con trazo fino azul 0 7...'
 sku: 'B002GJN75I-es'
 tags: [ 'bolígrafo', ]

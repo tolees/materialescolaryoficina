@@ -5,7 +5,7 @@ date: 2020-04-05 10:35:26
 image: 'https://m.media-amazon.com/images/I/51dj7S0-DQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LM1WPM2-es BIC Highlighter Grip Marcadores punta media 1 6 mm -...'
 sku: 'B00LM1WPM2-es'
 tags: [ 'bic','highlighter', ]

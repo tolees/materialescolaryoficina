@@ -5,7 +5,7 @@ date: 2020-05-19 13:43:36
 image: 'https://m.media-amazon.com/images/I/51VreHAOWCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002OL2OJ8-es Bolígrafos UB-157 Eye Fine varios colores tinta Uni Super...'
 sku: 'B002OL2OJ8-es'
 tags: [ 'bolígrafos', ]

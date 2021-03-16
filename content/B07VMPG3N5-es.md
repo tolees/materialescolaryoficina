@@ -5,7 +5,7 @@ date: 2020-05-29 16:46:26
 image: 'https://m.media-amazon.com/images/I/51OYFlTvmRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMPG3N5-es Acmebon Mochila Escolar Resistente al Agua para Niñas...'
 sku: 'B07VMPG3N5-es'
 tags: [ 'escolar','mochila', ]

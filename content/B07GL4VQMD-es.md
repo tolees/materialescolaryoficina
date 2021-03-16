@@ -5,7 +5,7 @@ date: 2020-01-25 20:44:11
 image: 'https://m.media-amazon.com/images/I/41cMuOjdbsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GL4VQMD-es Deuter Kid Comfort Mochila Tipo Casual 72 Centimeters 14...'
 sku: 'B07GL4VQMD-es'
 tags: [ 'mochila', ]

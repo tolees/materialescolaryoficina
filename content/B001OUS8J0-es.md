@@ -5,7 +5,7 @@ date: 2020-03-12 09:04:39
 image: 'https://m.media-amazon.com/images/I/514f5trLXpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001OUS8J0-es Staedtler Mars Lumograph 100 G12 S. Pack de 12 lápices de...'
 sku: 'B001OUS8J0-es'
 tags: [ 'lápices', ]

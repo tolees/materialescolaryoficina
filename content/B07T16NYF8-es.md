@@ -5,7 +5,7 @@ date: 2020-08-13 20:07:23
 image: 'https://m.media-amazon.com/images/I/51ywilKRjOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T16NYF8-es Pepe Jeans Daniela Mochila Escolar Adaptable 42 cm 20.83...'
 sku: 'B07T16NYF8-es'
 tags: [ 'escolar','mochila', ]

@@ -5,7 +5,7 @@ date: 2020-09-18 14:53:38
 image: 'https://m.media-amazon.com/images/I/31QwWUp4u+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFFK6VN-es Samsonite Ziproll Mochila para portátil de 13.3 pulgadas...'
 sku: 'B07PFFK6VN-es'
 tags: [ 'mochila', ]

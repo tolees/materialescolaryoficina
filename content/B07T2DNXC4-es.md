@@ -5,7 +5,7 @@ date: 2020-04-01 21:09:55
 image: 'https://m.media-amazon.com/images/I/51ZoWv5vK6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2DNXC4-es Estuche de Actividades para niños de +3 años Plantillas y...'
 sku: 'B07T2DNXC4-es'
 tags: [ 'colorear', ]

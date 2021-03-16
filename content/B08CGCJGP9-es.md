@@ -5,7 +5,7 @@ date: 2020-09-23 14:24:27
 image: 'https://m.media-amazon.com/images/I/41MsxDEd5XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CGCJGP9-es WOMGF barbero Tijeras Cortar Pelo tijeras de peluquería...'
 sku: 'B08CGCJGP9-es'
 tags: [ 'tijeras', ]

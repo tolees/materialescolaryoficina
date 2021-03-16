@@ -5,7 +5,7 @@ date: 2020-02-02 03:03:19
 image: 'https://m.media-amazon.com/images/I/41pbVfgR8QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QB9LSP-es Troika - Bolígrafo pequeño regla de centímetro/pulgadas...'
 sku: 'B075QB9LSP-es'
 tags: [ 'bolígrafo','lápiz', ]

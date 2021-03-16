@@ -5,7 +5,7 @@ date: 2020-03-19 08:02:25
 image: 'https://m.media-amazon.com/images/I/61FGDpzsM1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8N1V2G-es Pintura para Porcelana y Cerámica RATEL 20 colores No...'
 sku: 'B07W8N1V2G-es'
 tags: [ 'rotuladores', ]

@@ -5,7 +5,7 @@ date: 2020-08-09 15:31:26
 image: 'https://m.media-amazon.com/images/I/51S9gbV9uhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQ3SC5B-es COAWG Scrapbook Album de Fotos 80 Páginas Negra con 12...'
 sku: 'B07ZQ3SC5B-es'
 tags: [ 'rotuladores', ]

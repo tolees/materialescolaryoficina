@@ -5,7 +5,7 @@ date: 2020-07-19 06:50:13
 image: 'https://m.media-amazon.com/images/I/519eblpOxnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W9KMFW2-es PUREBOX Mochila para portátil para hombre mochila escolar...'
 sku: 'B07W9KMFW2-es'
 tags: [ 'escolar','mochila', ]

@@ -5,7 +5,7 @@ date: 2020-01-18 01:01:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41taB6lD6KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DJBH2Q6-es Parker Jotter Stainless Steel bolígrafo CT'
 sku: 'B01DJBH2Q6-es'
 tags: [ 'bolígrafo', ]

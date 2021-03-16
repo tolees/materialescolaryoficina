@@ -5,7 +5,7 @@ date: 2020-01-08 13:36:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qsS2DBjNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3WS4GC-es LOSMILE Mujer Bolsos mochila Bolsos de mano Bolsos...'
 sku: 'B07N3WS4GC-es'
 tags: [ 'backpack','mochila', ]

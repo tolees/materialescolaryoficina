@@ -5,7 +5,7 @@ date: 2020-04-01 18:45:54
 image: 'https://m.media-amazon.com/images/I/31QA4GWbgXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GS8HO34-es Caja de 3 rotuladores de punta fina Pigma Micron modelo...'
 sku: 'B00GS8HO34-es'
 tags: [ 'rotuladores', ]

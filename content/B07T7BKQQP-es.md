@@ -5,7 +5,7 @@ date: 2020-06-26 17:18:18
 image: 'https://m.media-amazon.com/images/I/41oLoznuC3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7BKQQP-es Columbia Convey Mochila con la Parte Superior Enrollada...'
 sku: 'B07T7BKQQP-es'
 tags: [ 'mochila', ]

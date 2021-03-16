@@ -5,7 +5,7 @@ date: 2020-10-03 10:54:56
 image: 'https://m.media-amazon.com/images/I/51nWelMifPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0007OECJY-es Faber-Castell 110012 - Lápices 12 unidades;Faber-Castel...'
 sku: 'B0007OECJY-es'
 tags: [ 'faber-castell','lápices', ]

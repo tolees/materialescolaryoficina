@@ -5,7 +5,7 @@ date: 2020-08-24 07:12:45
 image: 'https://m.media-amazon.com/images/I/410UqK9TuZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KB4ZM5M-es Miquelrius - Mochila Grande Poliéster Con Carro Cierres...'
 sku: 'B07KB4ZM5M-es'
 tags: [ 'miquelrius','mochila', ]

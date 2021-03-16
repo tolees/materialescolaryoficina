@@ -5,7 +5,7 @@ date: 2020-07-23 12:37:06
 image: 'https://m.media-amazon.com/images/I/31-ovfxEc+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP3GBMZ-es Calvin Klein - Punched Round Backpack Shoppers y bolsos de...'
 sku: 'B07RP3GBMZ-es'
 tags: [ 'backpack', ]

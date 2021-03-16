@@ -5,7 +5,7 @@ date: 2020-02-03 00:22:20
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00565AFPO-es APLI 2414 - Etiquetas Blancas permanentes 63 5 x 38 1 mm...'
 sku: 'B00565AFPO-es'
 tags: [ 'apli', ]

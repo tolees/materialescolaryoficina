@@ -5,7 +5,7 @@ date: 2020-01-24 16:35:40
 image: 'https://m.media-amazon.com/images/I/41JV9jse1eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZFJQNS-es Eastpak Padded Pak R Mochila 24 L Rojo Melange Print Lines...'
 sku: 'B07WZFJQNS-es'
 tags: [ 'mochila', ]

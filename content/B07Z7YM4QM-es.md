@@ -5,7 +5,7 @@ date: 2020-01-15 09:03:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AqGu6RjDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7YM4QM-es Bolígrafo Grabador de Voz Digital Portatil POVO 16GB...'
 sku: 'B07Z7YM4QM-es'
 tags: [ 'bolígrafo', ]

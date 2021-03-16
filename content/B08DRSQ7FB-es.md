@@ -5,7 +5,7 @@ date: 2020-08-27 18:06:53
 image: 'https://m.media-amazon.com/images/I/510QUEUi6CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DRSQ7FB-es Guizu 9 Bolsas de Colores DIY + 12 bolígrafos de Colores...'
 sku: 'B08DRSQ7FB-es'
 tags: [ 'bolígrafos', ]

@@ -5,7 +5,7 @@ date: 2020-02-19 07:37:52
 image: 'https://m.media-amazon.com/images/I/41KnwMgU-LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SIM40MG-es Skip Hop Zoo Pack - Mochila diseño unicorn color turquesa'
 sku: 'B00SIM40MG-es'
 tags: [ 'mochila', ]

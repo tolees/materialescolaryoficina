@@ -5,7 +5,7 @@ date: 2020-01-31 08:45:55
 image: 'https://m.media-amazon.com/images/I/41JlD5JTq6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV2ZXDV-es Atlético de Madrid "In Blue" Oficial Mochila Escolar...'
 sku: 'B07MV2ZXDV-es'
 tags: [ 'escolar','mochila', ]

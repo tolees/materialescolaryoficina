@@ -5,7 +5,7 @@ date: 2020-07-09 04:14:27
 image: 'https://m.media-amazon.com/images/I/412jw7J6pWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015FM2GWW-es LEGO - Pack de 3 bolígrafos de gel 51513'
 sku: 'B015FM2GWW-es'
 tags: [ 'bolígrafos', ]

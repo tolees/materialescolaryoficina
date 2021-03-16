@@ -5,7 +5,7 @@ date: 2020-07-19 08:53:40
 image: 'https://m.media-amazon.com/images/I/31qfA8Mqx4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001V9LB9I-es Rimmel London Lápiz de Cejas Marrón Oscuro 1 4 g'
 sku: 'B001V9LB9I-es'
 tags: [ 'lápiz', ]

@@ -5,7 +5,7 @@ date: 2020-06-19 14:39:40
 image: 'https://m.media-amazon.com/images/I/41FpiPG6haL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083QMWDP5-es Huyeta Stylus Pen para Apple Pencil Lápiz Stylus...'
 sku: 'B083QMWDP5-es'
 tags: [ 'lápiz', ]

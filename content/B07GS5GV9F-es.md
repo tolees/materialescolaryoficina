@@ -5,7 +5,7 @@ date: 2020-07-04 14:03:36
 image: 'https://m.media-amazon.com/images/I/513nEOsFvRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GS5GV9F-es Rotuladores de Pintura Acrílica Keten 12 Colores...'
 sku: 'B07GS5GV9F-es'
 tags: [ 'rotuladores', ]

@@ -5,7 +5,7 @@ date: 2020-10-10 10:00:26
 image: 'https://m.media-amazon.com/images/I/514vrspBB5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPKNSP7-es CARIOCA Oops Rojos| Set Bolígrafos Borrables Recargables...'
 sku: 'B07VPKNSP7-es'
 tags: [ 'bolígrafos', ]

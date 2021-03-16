@@ -5,7 +5,7 @@ date: 2020-04-30 10:31:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51AguDtzm7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT9Z3O3-es WOLFWILL Tijeras de Perro 5 Herramientas para Cortar el...'
 sku: 'B01MT9Z3O3-es'
 tags: [ 'tijeras', ]

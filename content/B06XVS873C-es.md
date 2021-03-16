@@ -5,7 +5,7 @@ date: 2020-08-25 09:05:46
 image: 'https://m.media-amazon.com/images/I/41qGCphS-cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XVS873C-es HP 1FK05AA - Mochila para portátiles de hasta 15.6" color...'
 sku: 'B06XVS873C-es'
 tags: [ 'mochila', ]

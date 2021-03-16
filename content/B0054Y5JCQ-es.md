@@ -5,7 +5,7 @@ date: 2020-09-09 01:52:06
 image: 'https://m.media-amazon.com/images/I/51S64eVbVVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0054Y5JCQ-es 4170 00 - Paquete 24 rotuladores Giotto Turbo Color'
 sku: 'B0054Y5JCQ-es'
 tags: [ 'rotuladores', ]

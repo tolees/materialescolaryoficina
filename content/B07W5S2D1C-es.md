@@ -5,7 +5,7 @@ date: 2020-09-09 15:32:43
 image: 'https://m.media-amazon.com/images/I/41NrdwLGoML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5S2D1C-es Fresion - Mochila de Viaje para Hombre 34 L para Ordenador...'
 sku: 'B07W5S2D1C-es'
 tags: [ 'mochila', ]

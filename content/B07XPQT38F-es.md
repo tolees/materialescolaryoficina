@@ -5,7 +5,7 @@ date: 2020-05-22 12:53:32
 image: 'https://m.media-amazon.com/images/I/31tsDirRXpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPQT38F-es Desigual Back new Colorama Nanaimo - Mochila para mujer 11...'
 sku: 'B07XPQT38F-es'
 tags: [ 'mochila', ]

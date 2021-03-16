@@ -5,7 +5,7 @@ date: 2020-08-25 03:16:50
 image: 'https://m.media-amazon.com/images/I/41Mtd2+m6KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088HHMCQK-es Ritches Diario de Puntos A5 - Cuaderno de Tapa Dura de...'
 sku: 'B088HHMCQK-es'
 tags: [ 'bolígrafo', ]

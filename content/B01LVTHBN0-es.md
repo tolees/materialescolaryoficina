@@ -5,7 +5,7 @@ date: 2020-01-06 14:46:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUir0cUeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LVTHBN0-es Borrador Mágnetico para Pizarra Blanca - Conjunto Premium...'
 sku: 'B01LVTHBN0-es'
 tags: [ 'borrar','de','goma','rotuladores', ]

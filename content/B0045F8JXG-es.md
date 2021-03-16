@@ -5,7 +5,7 @@ date: 2020-06-15 08:07:55
 image: 'https://m.media-amazon.com/images/I/412K6C+AuiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0045F8JXG-es Dymo S0915440 - Impresoras de etiquetas con teclado ABC'
 sku: 'B0045F8JXG-es'
 tags: [ 'dymo', ]

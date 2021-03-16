@@ -5,7 +5,7 @@ date: 2020-01-28 02:06:50
 image: 'https://m.media-amazon.com/images/I/419EhMSVsvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073X3BGKK-es Eastpak Back To Work Mochila 43 cm 27 L Azul Cloud Navy'
 sku: 'B073X3BGKK-es'
 tags: [ 'mochila', ]

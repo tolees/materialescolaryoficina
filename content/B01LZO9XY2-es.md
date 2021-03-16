@@ -5,7 +5,7 @@ date: 2020-01-30 22:43:10
 image: 'https://m.media-amazon.com/images/I/41YtJ7t23YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZO9XY2-es Parker Urban 1931590 - Bolígrafo roller magenta vibrante...'
 sku: 'B01LZO9XY2-es'
 tags: [ 'bolígrafo', ]

@@ -5,7 +5,7 @@ date: 2020-08-20 14:04:01
 image: 'https://m.media-amazon.com/images/I/51LYr4i7bzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083WWM1MR-es Mochila Safta Espalda Ergonómica con Carro Safta Evolution'
 sku: 'B083WWM1MR-es'
 tags: [ 'mochila', ]

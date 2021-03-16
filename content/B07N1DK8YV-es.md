@@ -5,7 +5,7 @@ date: 2020-04-04 19:56:59
 image: 'https://m.media-amazon.com/images/I/41ekYanEjZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1DK8YV-es Kipling SEOUL PACKABLE - Mochila escolar 22.5 liters...'
 sku: 'B07N1DK8YV-es'
 tags: [ 'escolar','mochila', ]

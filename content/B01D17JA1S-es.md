@@ -5,7 +5,7 @@ date: 2020-09-04 16:16:03
 image: 'https://m.media-amazon.com/images/I/31e8D4XqyUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D17JA1S-es Samsonite Paradiver Light - 15.6 Pulgadas Mochila para...'
 sku: 'B01D17JA1S-es'
 tags: [ 'mochila', ]

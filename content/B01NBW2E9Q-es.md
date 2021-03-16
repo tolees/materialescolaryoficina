@@ -5,7 +5,7 @@ date: 2020-08-19 01:00:40
 image: 'https://m.media-amazon.com/images/I/51296IUPEUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBW2E9Q-es Vanguard Alta Sky 45D - Mochila de Transporte 26x19x45cm...'
 sku: 'B01NBW2E9Q-es'
 tags: [ 'mochila', ]

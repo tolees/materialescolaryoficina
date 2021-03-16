@@ -5,7 +5,7 @@ date: 2020-03-05 20:43:31
 image: 'https://m.media-amazon.com/images/I/41NBOgRnJ6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000J6DHT6-es CASIO FC-100V Calculadora Financiera 13.7 x 80 x 161 mm...'
 sku: 'B000J6DHT6-es'
 tags: [ 'calculadora', ]

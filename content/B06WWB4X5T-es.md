@@ -5,7 +5,7 @@ date: 2020-08-12 15:44:25
 image: 'https://m.media-amazon.com/images/I/51nxzo51mJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WWB4X5T-es Jordi Labanda Floral Mochila Grande 20 L'
 sku: 'B06WWB4X5T-es'
 tags: [ 'mochila', ]

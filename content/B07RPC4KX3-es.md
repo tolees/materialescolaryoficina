@@ -5,7 +5,7 @@ date: 2020-05-23 19:51:32
 image: 'https://m.media-amazon.com/images/I/41zwAxnn25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPC4KX3-es Ceras Manley 10 Colores 6cm =000330='
 sku: 'B07RPC4KX3-es'
 tags: [ 'manley', ]

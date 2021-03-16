@@ -5,7 +5,7 @@ date: 2020-09-01 19:10:24
 image: 'https://m.media-amazon.com/images/I/41qpl+-cSfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G5HYQJC-es Casio FX-82SPXII Iberia - Calculadora científica...'
 sku: 'B01G5HYQJC-es'
 tags: [ 'calculadora', ]

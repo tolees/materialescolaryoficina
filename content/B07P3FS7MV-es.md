@@ -5,7 +5,7 @@ date: 2020-08-15 19:07:08
 image: 'https://m.media-amazon.com/images/I/510po11I1nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3FS7MV-es Pepe Jeans Joseline Mochila cartera portaordenador'
 sku: 'B07P3FS7MV-es'
 tags: [ 'mochila', ]

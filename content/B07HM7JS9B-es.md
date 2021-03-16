@@ -5,7 +5,7 @@ date: 2020-09-21 15:15:15
 image: 'https://m.media-amazon.com/images/I/51gtey3qOxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HM7JS9B-es Play-Doh Camión De Grava Hasbro E4293EU4'
 sku: 'B07HM7JS9B-es'
 tags: [ 'play-doh', ]

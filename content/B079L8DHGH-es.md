@@ -5,7 +5,7 @@ date: 2020-01-21 20:34:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eKqgNiG%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079L8DHGH-es AmazonBasics - Mochila compacta de viaje Negro para viajes...'
 sku: 'B079L8DHGH-es'
 tags: [ 'mochila', ]

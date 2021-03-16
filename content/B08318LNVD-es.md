@@ -5,7 +5,7 @@ date: 2020-08-27 02:59:13
 image: 'https://m.media-amazon.com/images/I/51hKb7E5fOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08318LNVD-es Estuche para Lápices BETOY Grande Capacidad Estuche...'
 sku: 'B08318LNVD-es'
 tags: [ 'escolar','lápices','lápiz', ]

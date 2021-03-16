@@ -5,7 +5,7 @@ date: 2020-04-18 03:10:27
 image: 'https://m.media-amazon.com/images/I/41DtIffcFZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGBF44X-es Heiyo Lápiz Surface 200 Horas de Trabajo y 360 días de...'
 sku: 'B07KGBF44X-es'
 tags: [ 'lápiz', ]

@@ -5,7 +5,7 @@ date: 2020-04-05 13:18:42
 image: 'https://m.media-amazon.com/images/I/417ElJUAZLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0025UVAQ6-es Jovi-724987 Estuche Acuarelas Multicolor 800 12'
 sku: 'B0025UVAQ6-es'
 tags: [ 'acuarelas', ]

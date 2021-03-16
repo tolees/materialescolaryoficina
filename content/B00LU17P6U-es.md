@@ -5,7 +5,7 @@ date: 2020-10-08 19:39:49
 image: 'https://m.media-amazon.com/images/I/314JoBTRETL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LU17P6U-es Black Diamond Bullet 16 Mochila Unisex Adulto Negro Black...'
 sku: 'B00LU17P6U-es'
 tags: [ 'mochila', ]

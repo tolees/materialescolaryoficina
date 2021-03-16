@@ -5,7 +5,7 @@ date: 2020-05-11 16:23:46
 image: 'https://m.media-amazon.com/images/I/51LSNYW-KtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7SVN2T-es Speedo Deluxe Ventilator Mesh Bag Mochila Unisex Adulto...'
 sku: 'B01N7SVN2T-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-09-16 17:35:37
 image: 'https://m.media-amazon.com/images/I/41mVGnS4qrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003PPCZT6-es Eastpak Provider Mochila 44 cm 33 L Gris Sunday Grey'
 sku: 'B003PPCZT6-es'
 tags: [ 'mochila', ]

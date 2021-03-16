@@ -5,7 +5,7 @@ date: 2020-05-12 12:29:32
 image: 'https://m.media-amazon.com/images/I/51pDSl7xukL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDKXDHJ-es Vans VN0A3UI6 - Mochila de Sintético mujer Multicolor...'
 sku: 'B07WDKXDHJ-es'
 tags: [ 'mochila', ]

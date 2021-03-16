@@ -5,7 +5,7 @@ date: 2020-08-23 10:26:59
 image: 'https://m.media-amazon.com/images/I/414yPMcP3AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SX2PN8G-es Pepe Jeans Ren - Mochila Adaptable 44 cm Negro'
 sku: 'B07SX2PN8G-es'
 tags: [ 'mochila', ]

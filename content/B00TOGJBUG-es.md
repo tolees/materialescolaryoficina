@@ -5,7 +5,7 @@ date: 2020-01-16 17:40:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51iJIy32i6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TOGJBUG-es Anker - Set de Material Escolar GRU Mi Villano Favorito...'
 sku: 'B00TOGJBUG-es'
 tags: [ 'escolar','material', ]

@@ -5,7 +5,7 @@ date: 2020-05-18 10:31:30
 image: 'https://m.media-amazon.com/images/I/31oVZ-sdY2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B5HDZC4-es GABOL Mochila Trolley Cabina Saga. Bolsa de Viaje 50 cm 15...'
 sku: 'B07B5HDZC4-es'
 tags: [ 'mochila', ]

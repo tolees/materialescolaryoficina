@@ -5,7 +5,7 @@ date: 2020-03-28 12:22:36
 image: 'https://m.media-amazon.com/images/I/41xoIC2DDmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003HIG6OQ-es Staedler Noris - Lápiz HB 2 50 unidades'
 sku: 'B003HIG6OQ-es'
 tags: [ 'lápiz', ]

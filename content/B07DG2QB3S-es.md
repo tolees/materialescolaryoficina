@@ -5,7 +5,7 @@ date: 2020-04-01 13:09:48
 image: 'https://m.media-amazon.com/images/I/51CTYLdwYbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DG2QB3S-es Plantilla Dibujo Supplies Pack Escolar con Escuadra...'
 sku: 'B07DG2QB3S-es'
 tags: [ 'cartabón','escolar', ]

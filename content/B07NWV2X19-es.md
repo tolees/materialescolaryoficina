@@ -5,7 +5,7 @@ date: 2020-08-21 04:34:52
 image: 'https://m.media-amazon.com/images/I/51LjnV5XzYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWV2X19-es Maui And Sons Waves - Mochila 42 cm Multicolor'
 sku: 'B07NWV2X19-es'
 tags: [ 'mochila', ]

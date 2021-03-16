@@ -5,7 +5,7 @@ date: 2020-07-22 12:17:52
 image: 'https://m.media-amazon.com/images/I/41PlcVPi4OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQ2PNFR-es Calvin Klein - Layered Round Backpack Shoppers y bolsos de...'
 sku: 'B07RQ2PNFR-es'
 tags: [ 'backpack', ]

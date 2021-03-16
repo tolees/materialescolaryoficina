@@ -5,7 +5,7 @@ date: 2020-03-27 12:34:22
 image: 'https://m.media-amazon.com/images/I/41mQ0R9eMOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JL2Z5S7-es Under Armour Gametime BP Mochila Unisex Adulto Negro OSFA'
 sku: 'B07JL2Z5S7-es'
 tags: [ 'mochila', ]

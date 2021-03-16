@@ -5,7 +5,7 @@ date: 2020-04-16 08:50:42
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001J8FHIW-es Apli 1277 - Etiquetas 100 hojas'
 sku: 'B001J8FHIW-es'
 tags: [ 'apli', ]

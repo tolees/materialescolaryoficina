@@ -5,7 +5,7 @@ date: 2020-01-20 22:09:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZgXwQNU%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK96GSL-es Vans Realm Mochila Tipo Casual 42 cm 22 Liters Azul...'
 sku: 'B07SK96GSL-es'
 tags: [ 'mochila', ]

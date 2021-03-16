@@ -5,7 +5,7 @@ date: 2020-04-17 09:32:22
 image: 'https://m.media-amazon.com/images/I/21qJfqEQneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8RF1MM-es Samsung - Lápiz capacitivo S-Pen para Samsung Galaxy Note...'
 sku: 'B07F8RF1MM-es'
 tags: [ 'lápiz', ]

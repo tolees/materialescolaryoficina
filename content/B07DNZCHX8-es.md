@@ -5,7 +5,7 @@ date: 2020-02-20 10:12:50
 image: 'https://m.media-amazon.com/images/I/41TRA9gPdjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNZCHX8-es Eastpak Orbit Mochila Infantil 34 cm 10 Liters Rosa...'
 sku: 'B07DNZCHX8-es'
 tags: [ 'mochila', ]

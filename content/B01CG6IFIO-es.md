@@ -5,7 +5,7 @@ date: 2020-05-30 19:47:16
 image: 'https://m.media-amazon.com/images/I/51n07gh2ZiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CG6IFIO-es Ceras PLASTIDECOR Pastel Estuche DE 12'
 sku: 'B01CG6IFIO-es'
 tags: [ 'plastidecor', ]

@@ -5,7 +5,7 @@ date: 2020-08-28 03:30:14
 image: 'https://m.media-amazon.com/images/I/41k0b+RxfAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCK9BCZ-es MoKo 4 PZS Lápiz Táctil Capacitiva Universal Digitales...'
 sku: 'B06XCK9BCZ-es'
 tags: [ 'lápiz', ]

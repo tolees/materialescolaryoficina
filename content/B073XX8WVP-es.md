@@ -5,7 +5,7 @@ date: 2020-08-12 11:09:44
 image: 'https://m.media-amazon.com/images/I/51Zkh+2mJOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XX8WVP-es Acmebon Mochila Escolar de Ocio Ligera y Moderna - Cartera...'
 sku: 'B073XX8WVP-es'
 tags: [ 'escolar','mochila', ]

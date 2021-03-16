@@ -5,7 +5,7 @@ date: 2020-07-25 10:16:48
 image: 'https://m.media-amazon.com/images/I/41m1iGaPIeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T45LQR2-es Laluztop Pistola de Silicona Caliente 50W Pistola de...'
 sku: 'B07T45LQR2-es'
 tags: [ 'barras','de','pegamento', ]

@@ -5,7 +5,7 @@ date: 2020-09-11 16:00:46
 image: 'https://m.media-amazon.com/images/I/51ii0LECx0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBP8VZM-es CERDÁ LIFE S LITTLE MOMENTS Mochila Infantil 3D Peppa Pig...'
 sku: 'B07VBP8VZM-es'
 tags: [ 'mochila', ]

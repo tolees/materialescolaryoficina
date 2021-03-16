@@ -5,7 +5,7 @@ date: 2020-09-22 21:09:45
 image: 'https://m.media-amazon.com/images/I/419BKddtsaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OCM1LSM-es Ausonia - 81003 TIJERAS DE PODA PROFESIONALES PARA VID DE...'
 sku: 'B00OCM1LSM-es'
 tags: [ 'tijeras', ]

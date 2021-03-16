@@ -5,7 +5,7 @@ date: 2020-09-18 07:01:55
 image: 'https://m.media-amazon.com/images/I/51Pdg3qpoOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NJXSHQ-es zhi wei Mochila Portatil 15.6 Pulgadas Mochila Hombre...'
 sku: 'B083NJXSHQ-es'
 tags: [ 'backpack','mochila', ]

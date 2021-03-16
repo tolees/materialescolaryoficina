@@ -5,7 +5,7 @@ date: 2020-04-02 05:07:00
 image: 'https://m.media-amazon.com/images/I/51k8XF6pTjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZPP71Z-es LOBKIN Rotuladores de Pintura Acrílica Keten 12 Colores...'
 sku: 'B07TZPP71Z-es'
 tags: [ 'rotuladores', ]

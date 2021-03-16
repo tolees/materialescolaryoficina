@@ -5,7 +5,7 @@ date: 2020-09-21 18:42:15
 image: 'https://m.media-amazon.com/images/I/518Gb4Q7RTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW8HJ5P-es Pepe Jeans Jill Mochila 42 cm'
 sku: 'B07DW8HJ5P-es'
 tags: [ 'mochila', ]

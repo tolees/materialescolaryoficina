@@ -5,7 +5,7 @@ date: 2020-04-07 22:17:38
 image: 'https://m.media-amazon.com/images/I/31lA2uH2c+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082ZZY3SJ-es Telescópico Magnético CHIFOOM 2pcs Pick Up...'
 sku: 'B082ZZY3SJ-es'
 tags: [ 'bolígrafo', ]

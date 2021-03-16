@@ -5,7 +5,7 @@ date: 2020-08-26 23:30:32
 image: 'https://m.media-amazon.com/images/I/51y8yCGRu0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QPWNY9-es Smyidel 2020 Nuevo Dibujo en Color 3D Puzzle con 12...'
 sku: 'B086QPWNY9-es'
 tags: [ 'bolígrafos', ]

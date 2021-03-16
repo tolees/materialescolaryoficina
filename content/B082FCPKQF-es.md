@@ -5,7 +5,7 @@ date: 2020-06-25 11:46:17
 image: 'https://m.media-amazon.com/images/I/41Vg9finHVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FCPKQF-es Toplock Mochila antirrobo Negra Impermeable con Cierre...'
 sku: 'B082FCPKQF-es'
 tags: [ 'backpack','mochila', ]

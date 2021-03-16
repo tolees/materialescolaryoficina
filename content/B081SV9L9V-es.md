@@ -5,7 +5,7 @@ date: 2020-04-07 22:17:32
 image: 'https://m.media-amazon.com/images/I/51VCFeai8kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SV9L9V-es Vogueing Tool Cinta adhesiva de esponja negra 5 m de...'
 sku: 'B081SV9L9V-es'
 tags: [ 'adhesiva','cinta', ]

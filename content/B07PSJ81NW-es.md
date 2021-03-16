@@ -5,7 +5,7 @@ date: 2020-04-27 14:58:35
 image: 'https://m.media-amazon.com/images/I/51BLRhI5UEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJ81NW-es Kipling City Pack S Mochila para Mujer Multicolor Navy...'
 sku: 'B07PSJ81NW-es'
 tags: [ 'mochila', ]

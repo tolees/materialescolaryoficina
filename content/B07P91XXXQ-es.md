@@ -5,7 +5,7 @@ date: 2020-08-01 09:57:56
 image: 'https://m.media-amazon.com/images/I/41M7gDckT6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P91XXXQ-es Milán - Expositor 20 bolígrafos Compact verde'
 sku: 'B07P91XXXQ-es'
 tags: [ 'bolígrafos', ]

@@ -5,7 +5,7 @@ date: 2020-07-10 18:44:32
 image: 'https://m.media-amazon.com/images/I/41FKaDYAB-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CNFX4H-es American Tourister Grab N Go Disney - 15.6 Pulgadas...'
 sku: 'B076CNFX4H-es'
 tags: [ 'mochila', ]

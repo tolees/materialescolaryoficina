@@ -5,7 +5,7 @@ date: 2020-07-03 18:07:58
 image: 'https://m.media-amazon.com/images/I/51wlzEpE-RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076B4WYY3-es Casio MS-20UC-BU - Calculadora 2.3 x 10.5 x 14.95 cm color...'
 sku: 'B076B4WYY3-es'
 tags: [ 'calculadora', ]

@@ -5,7 +5,7 @@ date: 2020-03-09 18:47:23
 image: 'https://m.media-amazon.com/images/I/51JzfW1CStL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLKBY5K-es Mochila Infantil 3D Spiderman'
 sku: 'B07NLKBY5K-es'
 tags: [ 'mochila', ]

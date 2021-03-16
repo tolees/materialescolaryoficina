@@ -5,7 +5,7 @@ date: 2020-08-18 18:37:14
 image: 'https://m.media-amazon.com/images/I/511-vep-z1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GCWI57O-es Paper Mate Dryline Cinta de corrección 5 mm x 8.5 m 4...'
 sku: 'B01GCWI57O-es'
 tags: [ 'mate','paper', ]

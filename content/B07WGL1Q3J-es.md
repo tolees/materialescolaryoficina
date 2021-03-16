@@ -5,7 +5,7 @@ date: 2020-08-09 13:21:16
 image: 'https://m.media-amazon.com/images/I/51e+8jv019L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGL1Q3J-es Evaduol Mochilas Escolares Infantil Mochila Niña Colegio...'
 sku: 'B07WGL1Q3J-es'
 tags: [ 'mochila', ]

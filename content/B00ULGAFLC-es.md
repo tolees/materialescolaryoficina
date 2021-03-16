@@ -5,7 +5,7 @@ date: 2020-10-06 21:46:57
 image: 'https://m.media-amazon.com/images/I/41WmP5d6q4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ULGAFLC-es BIC Celebrate Cristal Shine bolígrafos punta media 1 0 mm...'
 sku: 'B00ULGAFLC-es'
 tags: [ 'bolígrafos', ]

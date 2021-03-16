@@ -5,7 +5,7 @@ date: 2020-01-08 11:39:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51exY9qOGpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVF7FS4-es Moleskine - Agenda Semanal de 12 meses para 2020 El...'
 sku: 'B07JVF7FS4-es'
 tags: [ 'moleskine', ]

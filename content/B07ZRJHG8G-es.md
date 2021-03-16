@@ -5,7 +5,7 @@ date: 2020-04-16 09:16:31
 image: 'https://m.media-amazon.com/images/I/41tqvtjXRcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRJHG8G-es Portaminas BE-TOOL de 0 5 mm 4 portaminas de 0 5 mm de...'
 sku: 'B07ZRJHG8G-es'
 tags: [ 'lápiz','portaminas', ]

@@ -5,7 +5,7 @@ date: 2020-04-25 13:02:33
 image: 'https://m.media-amazon.com/images/I/51q21LE+A0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFZP16Q-es Bolsa de Mochila Bolsa de Destino para Bolsa de...'
 sku: 'B07JFZP16Q-es'
 tags: [ 'mochila', ]

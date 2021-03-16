@@ -5,7 +5,7 @@ date: 2020-10-07 20:00:50
 image: 'https://m.media-amazon.com/images/I/41HqdYS+lZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFYSFVG-es Winsor & Newton - Set de Rotuladores ProMarker 12 + 1...'
 sku: 'B07RFYSFVG-es'
 tags: [ 'rotuladores', ]

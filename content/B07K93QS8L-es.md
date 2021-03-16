@@ -5,7 +5,7 @@ date: 2020-05-31 10:05:41
 image: 'https://m.media-amazon.com/images/I/41hlhVJTCfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K93QS8L-es Karactermania Harry Potter Pride Gryffindor Mochila Tipo...'
 sku: 'B07K93QS8L-es'
 tags: [ 'mochila', ]

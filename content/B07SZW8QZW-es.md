@@ -5,7 +5,7 @@ date: 2020-10-10 07:15:48
 image: 'https://m.media-amazon.com/images/I/31xdy3WFzXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZW8QZW-es Targus Sol-Lite - Mochila Para Portátil Azul Marino'
 sku: 'B07SZW8QZW-es'
 tags: [ 'mochila', ]

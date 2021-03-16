@@ -5,7 +5,7 @@ date: 2020-09-05 16:45:42
 image: 'https://m.media-amazon.com/images/I/51CnMOfqlqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9WYDH2-es Panamami Conjunto de moldes de Herramientas de Arcilla de...'
 sku: 'B07V9WYDH2-es'
 tags: [ 'plastilina', ]

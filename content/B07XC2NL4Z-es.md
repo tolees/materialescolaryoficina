@@ -5,7 +5,7 @@ date: 2020-09-12 09:07:18
 image: 'https://m.media-amazon.com/images/I/41xRz9KwSPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XC2NL4Z-es Head Core Backpack Bolsa de Tenis Adultos Unisex...'
 sku: 'B07XC2NL4Z-es'
 tags: [ 'backpack', ]

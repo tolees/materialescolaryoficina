@@ -5,7 +5,7 @@ date: 2020-03-29 09:19:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/515IBa3wSUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QNMVJT-es Zecti Mochila profesional antigolpes para cámara DSLR...'
 sku: 'B073QNMVJT-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-01-18 19:07:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YoYW34M1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8JTKRS-es Tommy Hilfiger POPPY BACKPACK CORPMujerBolsos...'
 sku: 'B07N8JTKRS-es'
 tags: [ 'backpack', ]

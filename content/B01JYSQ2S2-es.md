@@ -5,7 +5,7 @@ date: 2020-01-10 18:03:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ERhObXH9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JYSQ2S2-es Chicco Easy Fit Mochila ergonómica portabebé hasta 9 kg...'
 sku: 'B01JYSQ2S2-es'
 tags: [ 'mochila', ]

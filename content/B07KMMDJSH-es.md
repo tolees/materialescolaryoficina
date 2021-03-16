@@ -5,7 +5,7 @@ date: 2020-09-24 13:52:14
 image: 'https://m.media-amazon.com/images/I/41fjF061FeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMMDJSH-es Play-Doh - Pack 12 Botes Rojos Hasbro E4826F02'
 sku: 'B07KMMDJSH-es'
 tags: [ 'play-doh', ]

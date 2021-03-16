@@ -5,7 +5,7 @@ date: 2020-06-24 11:59:19
 image: 'https://m.media-amazon.com/images/I/61cIMStArYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W42C5KW-es Fivejoy Agua Dibujo Pintura 150 x 100 cm Agua Doodle...'
 sku: 'B07W42C5KW-es'
 tags: [ 'bolígrafos', ]

@@ -5,7 +5,7 @@ date: 2020-05-17 04:10:51
 image: 'https://m.media-amazon.com/images/I/41GsI9SrCvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001ANVQ4A-es Maped M244304 - Juego de regla escuadra cartabón y...'
 sku: 'B001ANVQ4A-es'
 tags: [ 'cartabón', ]

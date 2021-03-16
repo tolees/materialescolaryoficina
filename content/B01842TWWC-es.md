@@ -5,7 +5,7 @@ date: 2020-02-18 23:03:51
 image: 'https://m.media-amazon.com/images/I/21DKTw6eIdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01842TWWC-es Faber Castell B-9067-2B - Blíster tubo de 12 minas 0.7 mm...'
 sku: 'B01842TWWC-es'
 tags: [ 'castell','faber', ]

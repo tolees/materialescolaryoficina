@@ -5,7 +5,7 @@ date: 2020-08-20 15:10:56
 image: 'https://m.media-amazon.com/images/I/416Vl6nbKZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5Y4X8N-es Pegatina pizarra tamaño 78 8” x 23 6” pizarra adhesiva...'
 sku: 'B08B5Y4X8N-es'
 tags: [ 'tijeras', ]

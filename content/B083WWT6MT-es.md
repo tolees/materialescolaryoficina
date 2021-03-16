@@ -5,7 +5,7 @@ date: 2020-05-29 19:05:14
 image: 'https://m.media-amazon.com/images/I/41NjPKX902L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083WWT6MT-es Mochila Safta Escolar con Carro Incluido y Espalada...'
 sku: 'B083WWT6MT-es'
 tags: [ 'escolar','mochila', ]

@@ -5,7 +5,7 @@ date: 2020-01-17 12:23:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zyC6PIBzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9VXGM5-es Parfois - Mochila Estampada - Mujeres - Tallas L - Crudo'
 sku: 'B07X9VXGM5-es'
 tags: [ 'mochila', ]

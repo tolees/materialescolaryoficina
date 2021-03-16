@@ -5,7 +5,7 @@ date: 2020-04-01 19:01:46
 image: 'https://m.media-amazon.com/images/I/51+GiMgw7CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MAGPD18-es Pilot Negro frixion Punta Redonda borrable bolígrafos...'
 sku: 'B00MAGPD18-es'
 tags: [ 'bolígrafos', ]

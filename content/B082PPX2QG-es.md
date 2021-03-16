@@ -5,7 +5,7 @@ date: 2020-08-30 15:37:23
 image: 'https://m.media-amazon.com/images/I/51HuZf3DfHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PPX2QG-es BONNYCO Bolígrafo Tinta Invisible y Libreta Pack x 32...'
 sku: 'B082PPX2QG-es'
 tags: [ 'bolígrafo', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 10:52:04
 image: 'https://m.media-amazon.com/images/I/4106NnXpcZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRQ3W79-es Mochila casual Pepe Jeans Olaia Rosa'
 sku: 'B07DRQ3W79-es'
 tags: [ 'mochila', ]

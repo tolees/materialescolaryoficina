@@ -5,7 +5,7 @@ date: 2020-02-03 10:14:27
 image: 'https://m.media-amazon.com/images/I/31v0e7H6ReL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HLRXR7M-es akozon 1pc 7scheren vendaje sanitario Key2Life – Tijeras...'
 sku: 'B07HLRXR7M-es'
 tags: [ 'tijeras', ]

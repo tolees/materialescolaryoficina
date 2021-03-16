@@ -5,7 +5,7 @@ date: 2020-06-25 15:37:03
 image: 'https://m.media-amazon.com/images/I/41HGK0lVVGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R8HH7JG-es Vans OLD SKOOL III BACKPACK Mochila tipo casual 42 cm 22 L...'
 sku: 'B07R8HH7JG-es'
 tags: [ 'backpack','mochila', ]

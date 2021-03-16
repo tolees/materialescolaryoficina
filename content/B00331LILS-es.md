@@ -5,7 +5,7 @@ date: 2020-04-03 18:54:24
 image: 'https://m.media-amazon.com/images/I/51qPea+q5ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00331LILS-es Cinta adhesiva de señalización temporal tesa color...'
 sku: 'B00331LILS-es'
 tags: [ 'adhesiva','cinta', ]

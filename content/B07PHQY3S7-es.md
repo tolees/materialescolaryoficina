@@ -5,7 +5,7 @@ date: 2020-08-04 19:31:20
 image: 'https://m.media-amazon.com/images/I/51ztV19DFEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHQY3S7-es Zenacolor 24 Lápices de Colores Acuarelables Numerados con...'
 sku: 'B07PHQY3S7-es'
 tags: [ 'lápices', ]

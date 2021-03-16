@@ -5,7 +5,7 @@ date: 2020-05-11 14:42:56
 image: 'https://m.media-amazon.com/images/I/41MAqMRtIKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DM35CZ4-es PEKITAS- Pack Cinta 5 Metros +12 Esquinas + Cinta Adhesiva...'
 sku: 'B07DM35CZ4-es'
 tags: [ 'adhesiva','cinta', ]

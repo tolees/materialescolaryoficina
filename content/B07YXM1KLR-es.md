@@ -5,7 +5,7 @@ date: 2020-09-28 14:03:14
 image: 'https://m.media-amazon.com/images/I/417FmPbplBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXM1KLR-es Under Armour Hustle 5.0 mochila para portátil unisex Negro...'
 sku: 'B07YXM1KLR-es'
 tags: [ 'mochila', ]

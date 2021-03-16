@@ -5,7 +5,7 @@ date: 2020-06-08 07:12:38
 image: 'https://m.media-amazon.com/images/I/41kK0FlpB-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHBQS8B-es Memoria USB 3.0 64 GB 3 en 1 Pen Drive Tipo C USB 3.0...'
 sku: 'B07RHBQS8B-es'
 tags: [ 'lápiz', ]

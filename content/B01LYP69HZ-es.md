@@ -5,7 +5,7 @@ date: 2020-07-09 04:56:03
 image: 'https://m.media-amazon.com/images/I/31kZ3JTeD8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYP69HZ-es Parker IM - Bolígrafo Roller Punto fino color Acero...'
 sku: 'B01LYP69HZ-es'
 tags: [ 'bolígrafo', ]

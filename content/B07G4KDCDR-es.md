@@ -5,7 +5,7 @@ date: 2020-09-04 06:12:32
 image: 'https://m.media-amazon.com/images/I/41+KWW98BKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4KDCDR-es Real Madrid CF 611854662 Mochila Adaptable a Carro Niños...'
 sku: 'B07G4KDCDR-es'
 tags: [ 'mochila', ]

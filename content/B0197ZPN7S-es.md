@@ -5,7 +5,7 @@ date: 2020-04-13 21:44:17
 image: 'https://m.media-amazon.com/images/I/41ax2S5w+ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0197ZPN7S-es VAUDE Brenta 30 Mochila Unisex Adulto Negro 30-39 l'
 sku: 'B0197ZPN7S-es'
 tags: [ 'mochila', ]

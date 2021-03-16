@@ -5,7 +5,7 @@ date: 2020-08-16 09:13:37
 image: 'https://m.media-amazon.com/images/I/41TCshh8X9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Z67SHS-es Mochila antirrobo para computadora portátil /portátil y...'
 sku: 'B079Z67SHS-es'
 tags: [ 'mochila', ]

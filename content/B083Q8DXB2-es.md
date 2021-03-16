@@ -5,7 +5,7 @@ date: 2020-04-07 22:13:27
 image: 'https://m.media-amazon.com/images/I/51nW2nFm9RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083Q8DXB2-es Doble Cara Cinta Adhesiva de Espuma CHIFOOM 80pcs Pad...'
 sku: 'B083Q8DXB2-es'
 tags: [ 'adhesiva','cinta', ]

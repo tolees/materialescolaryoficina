@@ -5,7 +5,7 @@ date: 2020-05-31 15:53:12
 image: 'https://m.media-amazon.com/images/I/51RCv+nyfwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002GTGGG-es Crayola 3678 - Lápices Decorados Jumbo color/modelo surtido'
 sku: 'B0002GTGGG-es'
 tags: [ 'lápices', ]

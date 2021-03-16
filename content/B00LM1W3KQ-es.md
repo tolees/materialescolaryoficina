@@ -5,7 +5,7 @@ date: 2020-04-08 22:23:42
 image: 'https://m.media-amazon.com/images/I/4191yeVte3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LM1W3KQ-es Conté Colouring rotuladores - colores Surtidos Caja...'
 sku: 'B00LM1W3KQ-es'
 tags: [ 'rotuladores', ]

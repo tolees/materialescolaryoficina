@@ -5,7 +5,7 @@ date: 2020-10-11 07:42:17
 image: 'https://m.media-amazon.com/images/I/41Fw6t0BXOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07822JQTH-es BIC Gel-ocity Quick Dry bolígrafos Tinta en Gel punta...'
 sku: 'B07822JQTH-es'
 tags: [ 'bolígrafos', ]

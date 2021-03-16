@@ -5,7 +5,7 @@ date: 2020-07-05 12:02:33
 image: 'https://m.media-amazon.com/images/I/51JNN9D6TsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXS5PX6-es Desigual Backpack Inlove Venice Mini Mochila moderna. para...'
 sku: 'B07MXS5PX6-es'
 tags: [ 'backpack','mochila', ]

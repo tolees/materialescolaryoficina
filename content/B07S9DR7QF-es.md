@@ -5,7 +5,7 @@ date: 2020-03-01 19:02:02
 image: 'https://m.media-amazon.com/images/I/41r0rVgQw5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9DR7QF-es adidas AC Class BP Sports Backpack Unisex Adulto Maroon NS'
 sku: 'B07S9DR7QF-es'
 tags: [ 'backpack', ]

@@ -5,7 +5,7 @@ date: 2020-07-16 20:46:46
 image: 'https://m.media-amazon.com/images/I/21BLIPm2joL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XK5TL7C-es Rimmel London Brow This Way Fibre Pencil Lápiz de Cejas...'
 sku: 'B06XK5TL7C-es'
 tags: [ 'lápiz', ]

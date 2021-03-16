@@ -5,7 +5,7 @@ date: 2020-05-09 10:35:13
 image: 'https://m.media-amazon.com/images/I/41meTalQS6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072LX63TC-es Casio FX-85SP X II - Calculadora Científica Recomendada...'
 sku: 'B072LX63TC-es'
 tags: [ 'calculadora', ]

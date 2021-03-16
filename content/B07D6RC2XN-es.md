@@ -5,7 +5,7 @@ date: 2020-10-09 11:03:11
 image: 'https://m.media-amazon.com/images/I/51cnJSft35L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6RC2XN-es Kipling Clas Seoul S Mochila con Compartimento para...'
 sku: 'B07D6RC2XN-es'
 tags: [ 'mochila', ]

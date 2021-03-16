@@ -5,7 +5,7 @@ date: 2020-09-12 20:11:01
 image: 'https://m.media-amazon.com/images/I/51fpUuLiaqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ARAE7PC-es BIC 4 colores Shine Bolígrafo Retráctil punta media 1 0 mm...'
 sku: 'B00ARAE7PC-es'
 tags: [ 'bolígrafo', ]

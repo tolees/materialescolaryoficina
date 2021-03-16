@@ -5,7 +5,7 @@ date: 2020-07-10 20:10:26
 image: 'https://m.media-amazon.com/images/I/51zadXKS+CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XD9JKQN-es Play Doh PDH Core Estudio de creaciones animadas...'
 sku: 'B06XD9JKQN-es'
 tags: [ 'doh','play', ]

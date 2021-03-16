@@ -5,7 +5,7 @@ date: 2020-03-29 18:02:22
 image: 'https://m.media-amazon.com/images/I/51F2dJ7U92L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BB0IYU-es Post-It 6820 - Notas adhesivas 76 x 76 mm color amarillo'
 sku: 'B001BB0IYU-es'
 tags: [ 'post-it', ]

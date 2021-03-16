@@ -5,7 +5,7 @@ date: 2020-06-01 04:48:57
 image: 'https://m.media-amazon.com/images/I/51AcC18LunL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814PDGP9-es Candado de Combinación DazSpirit 3 dígitos Candado de...'
 sku: 'B0814PDGP9-es'
 tags: [ 'mochila', ]

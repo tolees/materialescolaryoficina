@@ -5,7 +5,7 @@ date: 2020-08-24 10:10:28
 image: 'https://m.media-amazon.com/images/I/41WYHlyzC+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5FX5K1-es Mochila 42cm adaptable Pepe Jeans Ariel'
 sku: 'B07T5FX5K1-es'
 tags: [ 'mochila', ]

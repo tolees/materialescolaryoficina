@@ -5,7 +5,7 @@ date: 2020-06-04 01:14:48
 image: 'https://m.media-amazon.com/images/I/51eMxWmkPwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XNH8C6C-es Verolino Mochila para Pañales de Bebé Rosa Gris + Ganchos...'
 sku: 'B07XNH8C6C-es'
 tags: [ 'mochila', ]

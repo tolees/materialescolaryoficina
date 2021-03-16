@@ -5,7 +5,7 @@ date: 2020-03-16 13:06:49
 image: 'https://m.media-amazon.com/images/I/41oUIvMSLJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075K6T4NR-es Barras de pegamento caliente de Beeway®'
 sku: 'B075K6T4NR-es'
 tags: [ 'barras','de','pegamento', ]

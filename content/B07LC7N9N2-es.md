@@ -5,7 +5,7 @@ date: 2020-07-08 15:31:12
 image: 'https://m.media-amazon.com/images/I/41IPnRW4ujL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LC7N9N2-es Selighting Mochila Cámara Réflex Profesional y Impermeable...'
 sku: 'B07LC7N9N2-es'
 tags: [ 'mochila', ]

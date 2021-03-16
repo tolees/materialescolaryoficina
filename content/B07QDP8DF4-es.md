@@ -5,7 +5,7 @@ date: 2020-05-29 06:46:25
 image: 'https://m.media-amazon.com/images/I/51m2cNG3QsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDP8DF4-es Post-it Extreme Notes - Cuaderno de notas 2 unidades 114 x...'
 sku: 'B07QDP8DF4-es'
 tags: [ 'post-it', ]

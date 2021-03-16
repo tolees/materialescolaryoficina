@@ -5,7 +5,7 @@ date: 2020-02-03 12:48:40
 image: 'https://m.media-amazon.com/images/I/418CkOr1M2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGMJTCN-es adidas Mochila Barricade 1.9 2019 Naranja Adultos unisex...'
 sku: 'B07NGMJTCN-es'
 tags: [ 'mochila', ]

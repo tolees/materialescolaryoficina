@@ -5,7 +5,7 @@ date: 2020-02-29 22:50:57
 image: 'https://m.media-amazon.com/images/I/41qfjkMqA+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZW2NR9-es Nike NESS7159-483 Mochila Azul Talla Única'
 sku: 'B07GZW2NR9-es'
 tags: [ 'mochila', ]

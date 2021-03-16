@@ -5,7 +5,7 @@ date: 2020-02-07 09:25:25
 image: 'https://m.media-amazon.com/images/I/41YLGbsFw2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDFCSWK-es Puma 75581 Backpack Unisex Adulto Black OSFA'
 sku: 'B07DDFCSWK-es'
 tags: [ 'backpack', ]

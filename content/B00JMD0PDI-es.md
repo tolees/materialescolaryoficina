@@ -5,7 +5,7 @@ date: 2020-10-06 16:58:40
 image: 'https://m.media-amazon.com/images/I/515lGC0OEGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JMD0PDI-es Gvarro Canson 200408061- Bloc A4 20 Hojas 130 g/m²'
 sku: 'B00JMD0PDI-es'
 tags: [ 'gvarro', ]

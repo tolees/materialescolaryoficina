@@ -5,7 +5,7 @@ date: 2020-01-14 18:09:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fpJPrCwFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792ZS2GP-es BABYBJÖRN One- Mochila Porta Bebé 2018 Edition Algodón Mix...'
 sku: 'B0792ZS2GP-es'
 tags: [ 'mochila', ]

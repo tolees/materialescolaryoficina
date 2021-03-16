@@ -5,7 +5,7 @@ date: 2020-10-06 20:26:09
 image: 'https://m.media-amazon.com/images/I/41uyzvgqfvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BC3LQTT-es Pistola de pegamento Dweyka 50 W mini pistola de pegamento...'
 sku: 'B08BC3LQTT-es'
 tags: [ 'barras','de','pegamento', ]

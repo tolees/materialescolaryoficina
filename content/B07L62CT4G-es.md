@@ -5,7 +5,7 @@ date: 2020-08-02 23:05:16
 image: 'https://m.media-amazon.com/images/I/41i8ZwulyJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L62CT4G-es HUION KAMVAS Pro 13 GT-133 120% sRGB Montura de Vidrio...'
 sku: 'B07L62CT4G-es'
 tags: [ 'lápiz', ]

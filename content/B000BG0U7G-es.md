@@ -5,7 +5,7 @@ date: 2020-03-14 14:13:30
 image: 'https://m.media-amazon.com/images/I/312msG0tKiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BG0U7G-es Cross Tech3+ - Bolígrafo multi-funcional color cromado...'
 sku: 'B000BG0U7G-es'
 tags: [ 'bolígrafo', ]

@@ -5,7 +5,7 @@ date: 2020-06-06 17:52:15
 image: 'https://m.media-amazon.com/images/I/51FTkLX7hdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M73BCH6-es Rotulador de 80 Colores Marker Pen Marcadores Manga...'
 sku: 'B07M73BCH6-es'
 tags: [ 'rotulador','rotuladores', ]

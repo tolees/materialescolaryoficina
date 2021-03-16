@@ -5,7 +5,7 @@ date: 2020-09-08 06:00:36
 image: 'https://m.media-amazon.com/images/I/51X54DAe2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VJHR7G-es LeaderPro 60W Pistola de Encolar viene una Bolsa y 20 Psc...'
 sku: 'B077VJHR7G-es'
 tags: [ 'barras','de','pegamento', ]

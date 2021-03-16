@@ -5,7 +5,7 @@ date: 2020-02-22 11:45:28
 image: 'https://m.media-amazon.com/images/I/41bAStrxwlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXNP6N8-es Mochila Portabebés Ergonómico Hommie Mochilas para Bebes...'
 sku: 'B07KXNP6N8-es'
 tags: [ 'mochila', ]

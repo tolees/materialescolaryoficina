@@ -5,7 +5,7 @@ date: 2020-05-16 19:31:58
 image: 'https://m.media-amazon.com/images/I/51Zw1zqOrXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0017HERZY-es Scotch Magic - Portarrollos de sobremesa con 4 cintas...'
 sku: 'B0017HERZY-es'
 tags: [ 'magic','scotch', ]

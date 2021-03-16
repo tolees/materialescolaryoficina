@@ -5,7 +5,7 @@ date: 2020-07-27 13:55:34
 image: 'https://m.media-amazon.com/images/I/51Xmh72OQFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019FWWJCU-es Lápices Colore. Lápices con goma de borrar grafito HB...'
 sku: 'B019FWWJCU-es'
 tags: [ 'borrar','de','goma','lápices', ]

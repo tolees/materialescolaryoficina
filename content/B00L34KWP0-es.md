@@ -5,7 +5,7 @@ date: 2020-10-04 13:20:54
 image: 'https://m.media-amazon.com/images/I/41TE4PUY4TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L34KWP0-es BIC Kids Kid Couleur - Pack de 20 rotuladores de colorear...'
 sku: 'B00L34KWP0-es'
 tags: [ 'colorear','rotuladores', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 12:53:09
 image: 'https://m.media-amazon.com/images/I/51aGNYcvavL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHTKJ32-es MILAN Mochila Escolar Capacidad 28l Moon Mochila Tipo...'
 sku: 'B07NHTKJ32-es'
 tags: [ 'escolar','mochila', ]

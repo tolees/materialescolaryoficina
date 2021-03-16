@@ -5,7 +5,7 @@ date: 2020-02-09 22:36:09
 image: 'https://m.media-amazon.com/images/I/21klGUEdrrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019WBKF7A-es L Oreal Paris Infalible Liner 24Hrs Lápiz Automático Gris...'
 sku: 'B019WBKF7A-es'
 tags: [ 'lápiz', ]

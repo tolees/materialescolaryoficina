@@ -5,7 +5,7 @@ date: 2020-01-18 02:39:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51wn2WnyhKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NXRQ83-es Mayka - Cinta Adhesiva Grande IMC TOYS 97148'
 sku: 'B079NXRQ83-es'
 tags: [ 'adhesiva','cinta', ]

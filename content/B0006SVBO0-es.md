@@ -5,7 +5,7 @@ date: 2020-10-08 17:14:45
 image: 'https://m.media-amazon.com/images/I/41QT+BYxpLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0006SVBO0-es BIC 4 colores Original bolígrafos Retráctiles punta media...'
 sku: 'B0006SVBO0-es'
 tags: [ 'bolígrafos', ]

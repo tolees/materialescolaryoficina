@@ -5,7 +5,7 @@ date: 2020-01-05 23:28:53
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKN8N68-es Shiseido Lápiz de ojos - 1 Unidad'
 sku: 'B07FKN8N68-es'
 tags: [ 'lápiz', ]

@@ -5,7 +5,7 @@ date: 2020-04-17 00:36:28
 image: 'https://m.media-amazon.com/images/I/51bmgN6Z0tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T26WRGM-es Pepe Jeans Pam Mochila Multicolor 40 cm'
 sku: 'B07T26WRGM-es'
 tags: [ 'mochila', ]

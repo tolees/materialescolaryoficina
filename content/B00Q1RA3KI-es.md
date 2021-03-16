@@ -5,7 +5,7 @@ date: 2020-05-18 11:27:39
 image: 'https://m.media-amazon.com/images/I/412SHPlTJeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q1RA3KI-es Milan BMM9203 - Pack de 3 gomas de borrar'
 sku: 'B00Q1RA3KI-es'
 tags: [ 'borrar','de','gomas', ]

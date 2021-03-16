@@ -5,7 +5,7 @@ date: 2020-03-05 09:16:32
 image: 'https://m.media-amazon.com/images/I/41Ywkao4MGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YLZR5R-es Thule EnRoute - Mochila de 23L Color Azul'
 sku: 'B078YLZR5R-es'
 tags: [ 'mochila', ]

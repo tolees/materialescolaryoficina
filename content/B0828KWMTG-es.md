@@ -5,7 +5,7 @@ date: 2020-05-27 13:04:11
 image: 'https://m.media-amazon.com/images/I/51f2aX3InPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0828KWMTG-es Lápices de Colores para niños Surtido de 24 Colores Apto...'
 sku: 'B0828KWMTG-es'
 tags: [ 'lápices', ]

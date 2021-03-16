@@ -5,7 +5,7 @@ date: 2020-07-20 08:37:31
 image: 'https://m.media-amazon.com/images/I/41CWeqLVGvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081VVLH2Z-es Vans Ss20 Realm BackPACK OS Negro mochila Mochila real...'
 sku: 'B081VVLH2Z-es'
 tags: [ 'backpack','mochila', ]

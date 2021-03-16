@@ -5,7 +5,7 @@ date: 2020-05-31 08:03:32
 image: 'https://m.media-amazon.com/images/I/51Y8yEUkuEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NSP9RK-es Queta Pizarra Mágica Dibujo con Luz para Niños Tablero 3D...'
 sku: 'B083NSP9RK-es'
 tags: [ 'bolígrafos', ]

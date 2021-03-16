@@ -5,7 +5,7 @@ date: 2020-02-03 18:57:39
 image: 'https://m.media-amazon.com/images/I/41Wk1+0xC8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHNNBXB-es Samsonite Checkmate - Mochila para portátil 44 cm Gris...'
 sku: 'B07PHNNBXB-es'
 tags: [ 'mochila', ]

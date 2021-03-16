@@ -5,7 +5,7 @@ date: 2020-08-09 05:06:42
 image: 'https://m.media-amazon.com/images/I/41jSRpNNc5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4HNVBP-es Pepe Jeans Mochila 32 cm 9.6 Liters Negro'
 sku: 'B07T4HNVBP-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-05-13 11:11:05
 image: 'https://m.media-amazon.com/images/I/514h0i67VfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0842LYGLB-es Bodyguard Bolsa para cámara DSLR 2en1 y Mochila...'
 sku: 'B0842LYGLB-es'
 tags: [ 'mochila', ]

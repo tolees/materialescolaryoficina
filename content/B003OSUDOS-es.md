@@ -5,7 +5,7 @@ date: 2020-05-30 07:03:56
 image: 'https://m.media-amazon.com/images/I/316OzvSwFoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003OSUDOS-es Eastpak Out of Office Mochila 44 cm 27 L Negro Black'
 sku: 'B003OSUDOS-es'
 tags: [ 'mochila', ]

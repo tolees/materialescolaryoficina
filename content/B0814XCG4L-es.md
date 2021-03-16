@@ -5,7 +5,7 @@ date: 2020-02-11 18:36:57
 image: 'https://m.media-amazon.com/images/I/31lGwsVuYuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814XCG4L-es adidas Fest Bag Tref Sports Backpack Unisex Adulto White NS'
 sku: 'B0814XCG4L-es'
 tags: [ 'backpack', ]

@@ -5,7 +5,7 @@ date: 2020-02-11 20:34:51
 image: 'https://m.media-amazon.com/images/I/41Jxio6KeRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ59CVY-es Soarpop Mochila Escolar Portatil de Estilo Clásico para...'
 sku: 'B07DJ59CVY-es'
 tags: [ 'escolar','mochila', ]

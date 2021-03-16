@@ -5,7 +5,7 @@ date: 2020-08-14 23:37:55
 image: 'https://m.media-amazon.com/images/I/51c-8cBKF0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BL4Y3TK-es ManLee Bolsa de lápiz Multifuncional Estuche de Lápices...'
 sku: 'B08BL4Y3TK-es'
 tags: [ 'lápices','lápiz', ]

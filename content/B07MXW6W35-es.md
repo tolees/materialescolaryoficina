@@ -5,7 +5,7 @@ date: 2020-05-21 18:09:26
 image: 'https://m.media-amazon.com/images/I/41jsReWwhkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXW6W35-es Desigual Backpack Liberté Patch Baza Mochila moderna. para...'
 sku: 'B07MXW6W35-es'
 tags: [ 'backpack','mochila', ]

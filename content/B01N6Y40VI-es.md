@@ -5,7 +5,7 @@ date: 2020-01-16 01:04:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nrQnuLYhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6Y40VI-es Pritt Roller Compact corrector roller para tapar errores...'
 sku: 'B01N6Y40VI-es'
 tags: [ 'bolígrafo','pritt', ]

@@ -5,7 +5,7 @@ date: 2020-04-08 11:46:15
 image: 'https://m.media-amazon.com/images/I/31miXr6kTOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2JZN11-es Eastpak Padded Pak R - Mochila Azul Blakout Next 24L 40 x...'
 sku: 'B07X2JZN11-es'
 tags: [ 'mochila', ]

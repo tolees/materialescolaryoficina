@@ -5,7 +5,7 @@ date: 2020-05-23 06:37:58
 image: 'https://m.media-amazon.com/images/I/319Ud+z154L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JMD1O42-es Faber-Castell 566 - Escuadra de 25 cm color verde'
 sku: 'B00JMD1O42-es'
 tags: [ 'faber-castell', ]

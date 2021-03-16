@@ -5,7 +5,7 @@ date: 2020-02-03 19:24:25
 image: 'https://m.media-amazon.com/images/I/51nZ4RuboRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBNJNLX-es Parfois - Mochila Estampada - Mujeres - Tallas L - Rosa'
 sku: 'B07YBNJNLX-es'
 tags: [ 'mochila', ]

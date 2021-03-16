@@ -5,7 +5,7 @@ date: 2020-08-30 12:52:07
 image: 'https://m.media-amazon.com/images/I/519X1edta0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005KPXI68-es Rotuladores Mágicos Magic Markers - 20 Uds'
 sku: 'B005KPXI68-es'
 tags: [ 'rotuladores', ]

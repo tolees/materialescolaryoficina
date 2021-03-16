@@ -5,7 +5,7 @@ date: 2020-02-29 09:38:41
 image: 'https://m.media-amazon.com/images/I/41dSZRrjmML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009FTXWC-es Casio FX-570ES PLUS - Calculadora científica 80 x 162 x...'
 sku: 'B0009FTXWC-es'
 tags: [ 'calculadora', ]

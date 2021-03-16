@@ -5,7 +5,7 @@ date: 2020-08-10 05:12:15
 image: 'https://m.media-amazon.com/images/I/51lG1Tq8k0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3STD9G-es HellDoler Manualidades para Niños 100 Hojas Manualidades...'
 sku: 'B07S3STD9G-es'
 tags: [ 'lápices', ]

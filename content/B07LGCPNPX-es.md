@@ -5,7 +5,7 @@ date: 2020-09-14 20:37:53
 image: 'https://m.media-amazon.com/images/I/31ZbO+uCZOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGCPNPX-es Silver Tulip Mochila para portátil Universidad Hombros...'
 sku: 'B07LGCPNPX-es'
 tags: [ 'mochila', ]

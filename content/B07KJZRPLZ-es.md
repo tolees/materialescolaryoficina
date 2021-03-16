@@ -5,7 +5,7 @@ date: 2020-07-22 08:39:56
 image: 'https://m.media-amazon.com/images/I/41c2uE16WKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJZRPLZ-es Under Armour Patterson Backpack Mochila Unisex Adulto Gris...'
 sku: 'B07KJZRPLZ-es'
 tags: [ 'backpack','mochila', ]

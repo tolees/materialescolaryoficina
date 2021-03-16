@@ -5,7 +5,7 @@ date: 2020-06-24 17:38:51
 image: 'https://m.media-amazon.com/images/I/31QxK06gv9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGMLMCY-es NIKE Nk Heritage Bkpk - 2.0 Sports Backpack Unisex adulto...'
 sku: 'B07RGMLMCY-es'
 tags: [ 'backpack', ]

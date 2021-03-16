@@ -5,7 +5,7 @@ date: 2020-10-12 08:08:10
 image: 'https://m.media-amazon.com/images/I/41PDwQaRVZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B2EDDKM-es Herschel Retreat Backpack - Mochila casual unisex Negro...'
 sku: 'B00B2EDDKM-es'
 tags: [ 'backpack','mochila', ]

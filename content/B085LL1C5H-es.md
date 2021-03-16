@@ -5,7 +5,7 @@ date: 2020-05-30 08:39:03
 image: 'https://m.media-amazon.com/images/I/41oHjKTZ8mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LL1C5H-es MKTOSASA - Mochila Multiusos en Resistente poliéster 300D....'
 sku: 'B085LL1C5H-es'
 tags: [ 'mochila', ]

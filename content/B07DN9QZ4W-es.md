@@ -5,7 +5,7 @@ date: 2020-01-04 12:01:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4120a-7WP2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DN9QZ4W-es Juego de 16 imanes de neodimio Imanes fuertes adhesivos...'
 sku: 'B07DN9QZ4W-es'
 tags: [ 'adhesiva','cinta', ]

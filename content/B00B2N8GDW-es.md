@@ -5,7 +5,7 @@ date: 2020-06-25 20:13:45
 image: 'https://m.media-amazon.com/images/I/41OH6qlgYyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B2N8GDW-es 3 Claveles Tijeras Cocina Multiusos Acero Inoxidable...'
 sku: 'B00B2N8GDW-es'
 tags: [ 'tijeras', ]

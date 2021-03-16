@@ -5,7 +5,7 @@ date: 2020-04-05 20:31:36
 image: 'https://m.media-amazon.com/images/I/51OCY2pisKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HB56QP-es Kipling Supertaboo Mochila con Cordón 15 Litros Azul True...'
 sku: 'B076HB56QP-es'
 tags: [ 'mochila', ]

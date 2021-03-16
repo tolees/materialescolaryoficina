@@ -5,7 +5,7 @@ date: 2020-04-16 17:50:26
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJOWR8-es APLI 1263 - Etiquetas blancas permanentes 64 6 x 33 8 mm...'
 sku: 'B000KJOWR8-es'
 tags: [ 'apli', ]

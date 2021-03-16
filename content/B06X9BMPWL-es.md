@@ -5,7 +5,7 @@ date: 2020-05-02 15:05:37
 image: 'https://m.media-amazon.com/images/I/510rOs2veyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9BMPWL-es Transformers Play-Doh Autobot Sqweeks Multicolor 24 x 24 x...'
 sku: 'B06X9BMPWL-es'
 tags: [ 'play-doh', ]

@@ -5,7 +5,7 @@ date: 2020-08-16 14:15:39
 image: 'https://m.media-amazon.com/images/I/41hlDA4mqEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5LR25X-es Mochila para portátil 13 3 pulgadas Movom Business Negra'
 sku: 'B07J5LR25X-es'
 tags: [ 'mochila', ]

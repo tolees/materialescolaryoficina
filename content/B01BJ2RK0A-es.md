@@ -5,7 +5,7 @@ date: 2020-04-09 09:32:54
 image: 'https://m.media-amazon.com/images/I/417tGatI4ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BJ2RK0A-es Mochila Infantil Star Wars'
 sku: 'B01BJ2RK0A-es'
 tags: [ 'mochila', ]

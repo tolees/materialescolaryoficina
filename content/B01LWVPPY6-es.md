@@ -5,7 +5,7 @@ date: 2020-04-13 17:36:36
 image: 'https://m.media-amazon.com/images/I/411o5yiVC2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWVPPY6-es Marcador STABILO BOSS Original Pastel - Caja con 10...'
 sku: 'B01LWVPPY6-es'
 tags: [ 'stabilo', ]

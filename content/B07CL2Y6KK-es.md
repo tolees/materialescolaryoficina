@@ -5,7 +5,7 @@ date: 2020-08-25 06:03:09
 image: 'https://m.media-amazon.com/images/I/41yIm7LW2uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CL2Y6KK-es BIC 4 Colores Sun Retractable Bolígrafos retráctiles punta...'
 sku: 'B07CL2Y6KK-es'
 tags: [ 'bolígrafos', ]

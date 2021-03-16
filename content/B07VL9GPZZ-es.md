@@ -5,7 +5,7 @@ date: 2020-09-28 21:56:10
 image: 'https://m.media-amazon.com/images/I/51VAM2bRhGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VL9GPZZ-es CARIOCA BOX |42736/10 - Caja de Lata Azul con 100...'
 sku: 'B07VL9GPZZ-es'
 tags: [ 'colorear','rotuladores', ]

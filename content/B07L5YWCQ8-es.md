@@ -5,7 +5,7 @@ date: 2020-04-27 16:08:38
 image: 'https://m.media-amazon.com/images/I/41P0veiUPlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5YWCQ8-es Casio FX-83GTX - Calculadora científica Color Azul'
 sku: 'B07L5YWCQ8-es'
 tags: [ 'calculadora', ]

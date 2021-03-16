@@ -5,7 +5,7 @@ date: 2020-01-14 11:22:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TvKzBzQcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNT38FV-es AmazonBasics Mochila para todos los días azul marino'
 sku: 'B07FNT38FV-es'
 tags: [ 'mochila', ]

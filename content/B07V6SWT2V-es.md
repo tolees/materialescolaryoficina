@@ -5,7 +5,7 @@ date: 2020-08-20 14:43:14
 image: 'https://m.media-amazon.com/images/I/41PxvMa0RML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6SWT2V-es Kipling SEOUL Mochila tipo casual 44 cm 27 liters Negro...'
 sku: 'B07V6SWT2V-es'
 tags: [ 'mochila', ]

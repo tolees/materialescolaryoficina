@@ -5,7 +5,7 @@ date: 2020-02-26 15:45:05
 image: 'https://m.media-amazon.com/images/I/51IBe5BDeVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFYSZGC-es Star Wars Mochila Doble con cantoneras Adaptable a Carro'
 sku: 'B07YFYSZGC-es'
 tags: [ 'mochila', ]

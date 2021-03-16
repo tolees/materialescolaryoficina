@@ -5,7 +5,7 @@ date: 2020-01-07 19:56:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41edW1x6kwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQJF4W6-es American Tourister Fun Limit - Mochila Color Negro Neon Palms'
 sku: 'B07SQJF4W6-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-05-21 13:04:06
 image: 'https://m.media-amazon.com/images/I/41dNgNRrj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0159BEJQA-es Alpino DP00005601 - Pastilla plastilina'
 sku: 'B0159BEJQA-es'
 tags: [ 'alpino','plastilina', ]

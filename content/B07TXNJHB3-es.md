@@ -5,7 +5,7 @@ date: 2020-02-12 10:10:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EiQhswQrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXNJHB3-es NEWSTYLE Set Para El Cuidado Del Bebé 12 Unids Bebé Kit de...'
 sku: 'B07TXNJHB3-es'
 tags: [ 'tijeras', ]

@@ -5,7 +5,7 @@ date: 2020-06-06 15:23:24
 image: 'https://m.media-amazon.com/images/I/41t-BLrirQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D11FYSZ-es Kipling CLASSIC NIMAN FOLD Mochila tipo casual 49 cm 21...'
 sku: 'B07D11FYSZ-es'
 tags: [ 'mochila', ]

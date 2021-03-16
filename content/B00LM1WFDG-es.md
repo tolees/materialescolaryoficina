@@ -5,7 +5,7 @@ date: 2020-04-15 12:16:54
 image: 'https://m.media-amazon.com/images/I/51EYiwE3BWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LM1WFDG-es BIC Kids Learner Portaminas HB con Minas de Recambio 1 3...'
 sku: 'B00LM1WFDG-es'
 tags: [ 'portaminas', ]

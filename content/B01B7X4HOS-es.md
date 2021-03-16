@@ -5,7 +5,7 @@ date: 2020-07-15 02:21:27
 image: 'https://m.media-amazon.com/images/I/41MXnI9ZdAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B7X4HOS-es Dimples Excel 2 in 1 Precisión Lápiz para Tactil Tablet...'
 sku: 'B01B7X4HOS-es'
 tags: [ 'lápiz', ]

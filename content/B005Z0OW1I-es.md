@@ -5,7 +5,7 @@ date: 2020-04-23 19:24:41
 image: 'https://m.media-amazon.com/images/I/31plN3rad-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005Z0OW1I-es Pilot 151927 - Bolígrafo borrable color rojo'
 sku: 'B005Z0OW1I-es'
 tags: [ 'bolígrafo', ]

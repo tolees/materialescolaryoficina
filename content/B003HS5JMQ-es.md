@@ -5,7 +5,7 @@ date: 2020-02-22 00:09:44
 image: 'https://m.media-amazon.com/images/I/41Ch-uuiyCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003HS5JMQ-es Skip Hop- Pajaro Zoo Mochila Color Azul S 2194'
 sku: 'B003HS5JMQ-es'
 tags: [ 'mochila', ]

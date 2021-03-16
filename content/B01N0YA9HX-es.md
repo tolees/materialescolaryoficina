@@ -5,7 +5,7 @@ date: 2020-08-21 16:02:50
 image: 'https://m.media-amazon.com/images/I/51QsT4po2hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0YA9HX-es APLI Kids - Caja sellos Animales de la granja con tinta...'
 sku: 'B01N0YA9HX-es'
 tags: [ 'apli', ]

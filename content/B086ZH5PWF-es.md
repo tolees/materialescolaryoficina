@@ -5,7 +5,7 @@ date: 2020-05-11 14:02:03
 image: 'https://m.media-amazon.com/images/I/31TehmMfuBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZH5PWF-es Bolígrafo de 10 colores Bolígrafo de gel de dibujos...'
 sku: 'B086ZH5PWF-es'
 tags: [ 'bolígrafo','escolar', ]

@@ -5,7 +5,7 @@ date: 2020-10-01 17:48:35
 image: 'https://m.media-amazon.com/images/I/41KxXDT4DsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHNFJ71-es Dakine Grom 13L - Mochila Minidsbrly'
 sku: 'B07ZHNFJ71-es'
 tags: [ 'mochila', ]

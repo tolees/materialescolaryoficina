@@ -5,7 +5,7 @@ date: 2020-10-09 18:37:08
 image: 'https://m.media-amazon.com/images/I/41Z1Skxv97L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086RFYS5Y-es Miquel Rius Agenda Escolar Rígida de Espiral 155x213 Mm...'
 sku: 'B086RFYS5Y-es'
 tags: [ 'escolar','miquel','rius', ]

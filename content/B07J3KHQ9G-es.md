@@ -5,7 +5,7 @@ date: 2020-02-05 10:56:50
 image: 'https://m.media-amazon.com/images/I/31E1NN1qjrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3KHQ9G-es Moleskine - Agenda Diaria de 12 Meses 2020 Tamaño Grande...'
 sku: 'B07J3KHQ9G-es'
 tags: [ 'moleskine', ]

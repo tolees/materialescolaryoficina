@@ -5,7 +5,7 @@ date: 2020-03-19 22:28:50
 image: 'https://m.media-amazon.com/images/I/41EZuwZsf5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYF24BZ-es Mochila para portátil Pepe Jeans Bromley Negra 15 6"'
 sku: 'B07FYF24BZ-es'
 tags: [ 'mochila', ]

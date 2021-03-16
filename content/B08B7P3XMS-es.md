@@ -5,7 +5,7 @@ date: 2020-08-09 11:13:50
 image: 'https://m.media-amazon.com/images/I/51tHk5flJrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B7P3XMS-es Mochilas Infantiles Primaria Mochila Niña Unicornio...'
 sku: 'B08B7P3XMS-es'
 tags: [ 'mochila', ]

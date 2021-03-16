@@ -5,7 +5,7 @@ date: 2020-07-25 08:36:49
 image: 'https://m.media-amazon.com/images/I/41vHriMYBVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMM3J9H-es Safta - f.c; barcelona oficial mochila escolar.'
 sku: 'B07JMM3J9H-es'
 tags: [ 'mochila', ]

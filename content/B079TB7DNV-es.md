@@ -5,7 +5,7 @@ date: 2020-05-14 10:05:56
 image: 'https://m.media-amazon.com/images/I/41XK6IWPjVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TB7DNV-es Alpino AL010760 - Estuche 36 lápices'
 sku: 'B079TB7DNV-es'
 tags: [ 'alpino','lápices', ]

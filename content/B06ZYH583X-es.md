@@ -5,7 +5,7 @@ date: 2020-01-16 20:25:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21SOxPWMW9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYH583X-es Omy Set de 16 rotuladores ultralavables 17 x 4 x 17 cm'
 sku: 'B06ZYH583X-es'
 tags: [ 'rotuladores', ]

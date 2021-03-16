@@ -5,7 +5,7 @@ date: 2020-04-09 00:53:48
 image: 'https://m.media-amazon.com/images/I/31eI8DgnoiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00006IECI-es Cross - Bolígrafo utrasuave brillante cromo - Ref 3502'
 sku: 'B00006IECI-es'
 tags: [ 'bolígrafo', ]

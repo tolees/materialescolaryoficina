@@ -5,7 +5,7 @@ date: 2020-06-06 19:59:13
 image: 'https://m.media-amazon.com/images/I/51GkfOwGmHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWBHTDW-es PHYLES Tablero de Dibujo Mágico Pizarra 3D Mágico con...'
 sku: 'B07YWBHTDW-es'
 tags: [ 'bolígrafos', ]

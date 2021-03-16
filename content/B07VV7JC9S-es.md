@@ -5,7 +5,7 @@ date: 2020-01-05 13:05:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410INiNF6sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VV7JC9S-es Safe Maddy Mochila Peluche Dragón Para Bebes Y Niños...'
 sku: 'B07VV7JC9S-es'
 tags: [ 'mochila', ]

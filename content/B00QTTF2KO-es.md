@@ -5,7 +5,7 @@ date: 2020-01-07 16:58:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z%2BKdsMQJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QTTF2KO-es Bourjois Liner Pinceau Lápiz de ojos Tono 35 Ultra Black...'
 sku: 'B00QTTF2KO-es'
 tags: [ 'lápiz', ]

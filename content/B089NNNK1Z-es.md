@@ -5,7 +5,7 @@ date: 2020-06-12 08:03:14
 image: 'https://m.media-amazon.com/images/I/31DOkL99x+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NNNK1Z-es Viaje al Aire Libre Carga USB Hombres Mujeres Mochila...'
 sku: 'B089NNNK1Z-es'
 tags: [ 'escolar','mochila', ]

@@ -5,7 +5,7 @@ date: 2020-09-08 19:45:20
 image: 'https://m.media-amazon.com/images/I/61+fzZ7ZfHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7WO14Y-es Zenacolor - 120 Lápices de Colores con Caja de Metal - 120...'
 sku: 'B01N7WO14Y-es'
 tags: [ 'lápices', ]

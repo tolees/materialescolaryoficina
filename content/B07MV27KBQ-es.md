@@ -5,7 +5,7 @@ date: 2020-06-21 18:14:47
 image: 'https://m.media-amazon.com/images/I/51AwX7OAT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV27KBQ-es Kit Barba Cuidado para Hombre Crecimiento Aseo y Recorte -...'
 sku: 'B07MV27KBQ-es'
 tags: [ 'tijeras', ]

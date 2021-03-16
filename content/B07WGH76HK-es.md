@@ -5,7 +5,7 @@ date: 2020-06-15 19:31:45
 image: 'https://m.media-amazon.com/images/I/41+acXJK4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGH76HK-es Pepe Jeans Pepeb Miller Mochila para Portátil 15 6" Marrón'
 sku: 'B07WGH76HK-es'
 tags: [ 'mochila', ]

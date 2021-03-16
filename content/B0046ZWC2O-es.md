@@ -5,7 +5,7 @@ date: 2020-02-17 17:32:29
 image: 'https://m.media-amazon.com/images/I/21UhP3QDRbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0046ZWC2O-es L Oreal Paris Lápiz de Labios Infalible Lipliner 701 Stay...'
 sku: 'B0046ZWC2O-es'
 tags: [ 'lápiz', ]

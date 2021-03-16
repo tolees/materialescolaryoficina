@@ -5,7 +5,7 @@ date: 2020-04-02 19:02:19
 image: 'https://m.media-amazon.com/images/I/41v4+EACagL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXL895P-es Under Armour Patterson Mochila Unisex Adulto Multicolor...'
 sku: 'B07QXL895P-es'
 tags: [ 'mochila', ]

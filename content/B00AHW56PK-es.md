@@ -5,7 +5,7 @@ date: 2020-05-24 12:33:00
 image: 'https://m.media-amazon.com/images/I/21F6QuNQJ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AHW56PK-es Staedtler Pigment liner Fineliner 0.1mm - Rotulador Negro'
 sku: 'B00AHW56PK-es'
 tags: [ 'rotulador', ]

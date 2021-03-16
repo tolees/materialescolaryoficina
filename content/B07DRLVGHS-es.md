@@ -5,7 +5,7 @@ date: 2020-03-31 21:15:52
 image: 'https://m.media-amazon.com/images/I/41psD+vDGeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRLVGHS-es Kipling CLAS SEOUL Mochila escolar 45 cm 25 liters Morado...'
 sku: 'B07DRLVGHS-es'
 tags: [ 'escolar','mochila', ]

@@ -5,7 +5,7 @@ date: 2020-03-02 07:30:32
 image: 'https://m.media-amazon.com/images/I/41Z6db8rTpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLR1Q96-es Lote de 20 Estuches Para Colorear Con 5 Pinturas De Cera...'
 sku: 'B07JLR1Q96-es'
 tags: [ 'colorear', ]

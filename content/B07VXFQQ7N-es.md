@@ -5,7 +5,7 @@ date: 2020-09-30 17:00:56
 image: 'https://m.media-amazon.com/images/I/41GF5P4J0OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXFQQ7N-es Mochila para portátil 15 6" Pepe Jeans Strike con bandolera'
 sku: 'B07VXFQQ7N-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-07-01 18:32:57
 image: 'https://m.media-amazon.com/images/I/41AkBa3UWrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8JVQG2-es TOUS New Essence Mochila Women s U'
 sku: 'B07W8JVQG2-es'
 tags: [ 'mochila', ]

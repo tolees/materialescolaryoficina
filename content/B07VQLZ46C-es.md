@@ -5,7 +5,7 @@ date: 2020-06-01 00:09:33
 image: 'https://m.media-amazon.com/images/I/51mdJhDMLEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQLZ46C-es Depesche 10709 Magic Scratch Book Miss Melody - Libro para...'
 sku: 'B07VQLZ46C-es'
 tags: [ 'colorear', ]

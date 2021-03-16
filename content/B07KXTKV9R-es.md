@@ -5,7 +5,7 @@ date: 2020-06-22 08:37:05
 image: 'https://m.media-amazon.com/images/I/31jdco6-a0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXTKV9R-es Eastpak Orbit Mini Mochila 34 cm 10 L Azul Cloud Navy'
 sku: 'B07KXTKV9R-es'
 tags: [ 'mochila', ]

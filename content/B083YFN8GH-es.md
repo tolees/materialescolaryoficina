@@ -5,7 +5,7 @@ date: 2020-08-18 23:01:11
 image: 'https://m.media-amazon.com/images/I/4126MUaYP1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083YFN8GH-es Kipling SUPERTABOO - Mochila Supertaboo KI563769O KI563769O'
 sku: 'B083YFN8GH-es'
 tags: [ 'mochila', ]

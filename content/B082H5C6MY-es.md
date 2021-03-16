@@ -5,7 +5,7 @@ date: 2020-07-01 20:23:08
 image: 'https://m.media-amazon.com/images/I/41BI29RKQeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082H5C6MY-es Toplock Mochila antirrobo Azul Impermeable con Cierre...'
 sku: 'B082H5C6MY-es'
 tags: [ 'backpack','mochila', ]

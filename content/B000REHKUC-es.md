@@ -5,7 +5,7 @@ date: 2020-03-04 04:49:02
 image: 'https://m.media-amazon.com/images/I/31sDvEud1pL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000REHKUC-es Faber-Castell Ambition - Roller de bola madera de peral'
 sku: 'B000REHKUC-es'
 tags: [ 'faber-castell', ]

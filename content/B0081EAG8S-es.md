@@ -5,7 +5,7 @@ date: 2020-08-05 05:07:59
 image: 'https://m.media-amazon.com/images/I/515lKS9bp2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0081EAG8S-es Apli - Paquete De 200 Etiquetas Cd/Dvd Clásicas Cobertura...'
 sku: 'B0081EAG8S-es'
 tags: [ 'apli', ]

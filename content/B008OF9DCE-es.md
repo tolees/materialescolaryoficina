@@ -5,7 +5,7 @@ date: 2020-04-15 00:25:34
 image: 'https://m.media-amazon.com/images/I/51PrPkXn7+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008OF9DCE-es Apli - Etiquetas Adhesivas multi3 para Inkjet Laser y...'
 sku: 'B008OF9DCE-es'
 tags: [ 'apli', ]

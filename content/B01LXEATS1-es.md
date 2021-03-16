@@ -5,7 +5,7 @@ date: 2020-01-30 22:41:08
 image: 'https://m.media-amazon.com/images/I/41qjf82akzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXEATS1-es Parker Urban 1931626 - Bolígrafo roller naranja recambio...'
 sku: 'B01LXEATS1-es'
 tags: [ 'bolígrafo', ]

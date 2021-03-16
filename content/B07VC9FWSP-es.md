@@ -5,7 +5,7 @@ date: 2020-01-15 10:09:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414dbVwq3%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC9FWSP-es Mochila dos compartimentos con portatablet Pepe Jeans...'
 sku: 'B07VC9FWSP-es'
 tags: [ 'mochila', ]

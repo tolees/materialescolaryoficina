@@ -5,7 +5,7 @@ date: 2020-07-13 17:10:58
 image: 'https://m.media-amazon.com/images/I/51l9XG+N3eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YSYS3YB-es Kit de cuidado para barba hombre • Sapiens • Aceite barba...'
 sku: 'B07YSYS3YB-es'
 tags: [ 'tijeras', ]

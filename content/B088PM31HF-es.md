@@ -5,7 +5,7 @@ date: 2020-09-26 15:21:52
 image: 'https://m.media-amazon.com/images/I/51XJ8CtUudL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088PM31HF-es Vans Realm Mochila para mujer diseño floral color negro'
 sku: 'B088PM31HF-es'
 tags: [ 'mochila', ]

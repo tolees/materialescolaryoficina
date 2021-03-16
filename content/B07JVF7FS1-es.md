@@ -5,7 +5,7 @@ date: 2020-01-11 14:32:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/516jRi5jeIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVF7FS1-es Moleskine - Agenda Semanal de 18 Meses Edición Limitada...'
 sku: 'B07JVF7FS1-es'
 tags: [ 'escolar','moleskine', ]

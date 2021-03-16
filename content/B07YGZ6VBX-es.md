@@ -5,7 +5,7 @@ date: 2020-05-29 18:56:53
 image: 'https://m.media-amazon.com/images/I/21dQcfsLdBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGZ6VBX-es Miquel Rius 17280 - Cubilete Azul Bella Garden'
 sku: 'B07YGZ6VBX-es'
 tags: [ 'miquel','rius', ]

@@ -5,7 +5,7 @@ date: 2020-03-06 18:53:57
 image: 'https://m.media-amazon.com/images/I/41XKE-ZHsHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRBHX1L-es Xnuoyo 17.3" Mochila Portátil para 12-17 Pulgadas...'
 sku: 'B07PRBHX1L-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-04-03 09:04:04
 image: 'https://m.media-amazon.com/images/I/51fbth+6HTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM48BQZ-es Artesania Cerda Avengers Hulk - Mochila Escolar 44 cm Verde'
 sku: 'B07RM48BQZ-es'
 tags: [ 'escolar','mochila', ]

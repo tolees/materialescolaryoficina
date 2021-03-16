@@ -5,7 +5,7 @@ date: 2020-10-03 17:25:18
 image: 'https://m.media-amazon.com/images/I/41f9WyxpBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGH5STJ-es Play-Doh color surtido Pack 8 Botes Hasbro E5044EU4'
 sku: 'B07LGH5STJ-es'
 tags: [ 'play-doh', ]

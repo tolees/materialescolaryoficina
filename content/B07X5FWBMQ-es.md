@@ -5,7 +5,7 @@ date: 2020-05-17 14:43:12
 image: 'https://m.media-amazon.com/images/I/41ItAWWPxZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5FWBMQ-es Sokey - Protector de esquinas protección para niños y...'
 sku: 'B07X5FWBMQ-es'
 tags: [ 'adhesiva','cinta', ]

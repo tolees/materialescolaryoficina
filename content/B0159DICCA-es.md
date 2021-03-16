@@ -5,7 +5,7 @@ date: 2020-05-30 10:33:23
 image: 'https://m.media-amazon.com/images/I/41TiZTO6HFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0159DICCA-es Alpino DP00006501 - Pastilla plastilina'
 sku: 'B0159DICCA-es'
 tags: [ 'alpino','plastilina', ]

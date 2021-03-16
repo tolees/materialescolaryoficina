@@ -5,7 +5,7 @@ date: 2020-01-08 19:58:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z47mLah4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N3LEMN4-es Soarpop SA007 Mochila para ordenador portátil de hasta...'
 sku: 'B00N3LEMN4-es'
 tags: [ 'mochila', ]

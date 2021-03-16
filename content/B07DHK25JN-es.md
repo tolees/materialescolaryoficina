@@ -5,7 +5,7 @@ date: 2020-07-14 11:46:17
 image: 'https://m.media-amazon.com/images/I/51rYGoICBcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHK25JN-es Mochila de Portáti Hap Tim Hombre Mujer Mochila con Funda...'
 sku: 'B07DHK25JN-es'
 tags: [ 'escolar','mochila', ]

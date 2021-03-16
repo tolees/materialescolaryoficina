@@ -5,7 +5,7 @@ date: 2020-09-30 19:41:04
 image: 'https://m.media-amazon.com/images/I/41P4J1u2CuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FG12H6Z-es Voova Mochila de Pañales para Mamá Papá con Cambiar de Mat...'
 sku: 'B08FG12H6Z-es'
 tags: [ 'mochila', ]

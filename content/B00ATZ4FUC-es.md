@@ -5,7 +5,7 @@ date: 2020-04-23 09:46:45
 image: 'https://m.media-amazon.com/images/I/51YM757yngL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ATZ4FUC-es Alpino AL000656 - Lápices de colores'
 sku: 'B00ATZ4FUC-es'
 tags: [ 'alpino','lápices', ]

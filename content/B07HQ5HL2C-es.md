@@ -5,7 +5,7 @@ date: 2020-08-16 11:34:53
 image: 'https://m.media-amazon.com/images/I/41D1T6uisBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQ5HL2C-es Rrtizan Bolsa de Computadora de Viaje para Hombres y...'
 sku: 'B07HQ5HL2C-es'
 tags: [ 'mochila', ]

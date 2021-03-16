@@ -5,7 +5,7 @@ date: 2020-09-14 05:43:27
 image: 'https://m.media-amazon.com/images/I/41bMHwfp4ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8XZ7MB-es Tommy Hilfiger - Kids Core Drawstring Backpack Mochilas...'
 sku: 'B07V8XZ7MB-es'
 tags: [ 'backpack', ]

@@ -5,7 +5,7 @@ date: 2020-05-29 15:07:07
 image: 'https://m.media-amazon.com/images/I/410tQndrz8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2R7PKL-es Atlético de Madrid plumier Mochila 4 Estuches llenos 33...'
 sku: 'B07G2R7PKL-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-05-19 19:44:45
 image: 'https://m.media-amazon.com/images/I/51B2i0M3c4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0007OEE2E-es Rotulador punta fina STABILO point 88 - Estuche con 10...'
 sku: 'B0007OEE2E-es'
 tags: [ 'rotulador','stabilo', ]

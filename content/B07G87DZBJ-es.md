@@ -5,7 +5,7 @@ date: 2020-04-14 09:21:51
 image: 'https://m.media-amazon.com/images/I/51woHjrSNbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G87DZBJ-es INT!REND Rotuladores punta de pincel 51 SET | Compuesto...'
 sku: 'B07G87DZBJ-es'
 tags: [ 'rotuladores', ]

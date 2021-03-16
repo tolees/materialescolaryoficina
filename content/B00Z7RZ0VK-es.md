@@ -5,7 +5,7 @@ date: 2020-05-27 16:11:32
 image: 'https://m.media-amazon.com/images/I/41Use-n+wuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z7RZ0VK-es Otterbox Symmetry Folio Protección Anti-caídas con Tapa...'
 sku: 'B00Z7RZ0VK-es'
 tags: [ 'lápiz', ]

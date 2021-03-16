@@ -5,7 +5,7 @@ date: 2020-07-22 14:29:20
 image: 'https://m.media-amazon.com/images/I/31aeFZZuwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0117PU0KQ-es 3 Claveles Tijeras Costura y Multiusos Profesional Mango...'
 sku: 'B0117PU0KQ-es'
 tags: [ 'tijeras', ]

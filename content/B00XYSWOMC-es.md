@@ -5,7 +5,7 @@ date: 2020-02-09 13:18:57
 image: 'https://m.media-amazon.com/images/I/41gMvPf0UxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XYSWOMC-es Capital Sports Travel S Bolsa de deporte 45l Tejido...'
 sku: 'B00XYSWOMC-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-06-15 13:01:56
 image: 'https://m.media-amazon.com/images/I/51UOW6O7BYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074GWYF17-es Faber-Castell 114724 - Estuche de metal con 24 ecolápices...'
 sku: 'B074GWYF17-es'
 tags: [ 'faber-castell', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 13:01:33
 image: 'https://m.media-amazon.com/images/I/51i6yHznikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFJFG71-es Mochila Enso Dreams 40cm'
 sku: 'B07BFJFG71-es'
 tags: [ 'mochila', ]

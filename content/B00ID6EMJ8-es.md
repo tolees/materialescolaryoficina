@@ -5,7 +5,7 @@ date: 2020-04-18 01:43:13
 image: 'https://m.media-amazon.com/images/I/41wkYts-DfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ID6EMJ8-es Pentel PHN-12 - Caja de 12 pasteles de aceite colores...'
 sku: 'B00ID6EMJ8-es'
 tags: [ 'pentel', ]

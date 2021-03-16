@@ -5,7 +5,7 @@ date: 2020-06-01 19:36:43
 image: 'https://m.media-amazon.com/images/I/41oSTbxBxrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014T0S6ZC-es Pritt Cola blanca universal de secado transparente y...'
 sku: 'B014T0S6ZC-es'
 tags: [ 'blanca','cola','pritt', ]

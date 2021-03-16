@@ -5,7 +5,7 @@ date: 2020-02-15 14:10:52
 image: 'https://m.media-amazon.com/images/I/51fZdA8YjSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J34NSJW-es Moleskine - Agenda Semanal de 18 Meses Alicia en el País...'
 sku: 'B07J34NSJW-es'
 tags: [ 'moleskine', ]

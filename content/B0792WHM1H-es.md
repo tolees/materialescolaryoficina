@@ -5,7 +5,7 @@ date: 2020-01-22 17:46:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518kCFcUjNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792WHM1H-es Cabin Max Metz Mochila de Viaje Equipaje de Mano Aprobada...'
 sku: 'B0792WHM1H-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-05-26 20:34:01
 image: 'https://m.media-amazon.com/images/I/31+hHFbbTzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M23PFFA-es Parker IM - Bolígrafo Punta mediana color Negro Black...'
 sku: 'B01M23PFFA-es'
 tags: [ 'bolígrafo', ]

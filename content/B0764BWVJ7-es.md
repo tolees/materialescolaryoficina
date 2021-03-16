@@ -5,7 +5,7 @@ date: 2020-09-21 20:05:35
 image: 'https://m.media-amazon.com/images/I/51jdTYHlk6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0764BWVJ7-es Stabilo Boss Original - Marcador color pastel Set 2 1'
 sku: 'B0764BWVJ7-es'
 tags: [ 'stabilo', ]

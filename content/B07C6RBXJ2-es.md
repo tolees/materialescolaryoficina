@@ -5,7 +5,7 @@ date: 2020-08-22 08:46:31
 image: 'https://m.media-amazon.com/images/I/41MY5VgwMRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C6RBXJ2-es Mi Pequeño Poni Gorra para niña Premium Color Celeste con...'
 sku: 'B07C6RBXJ2-es'
 tags: [ 'lápiz', ]

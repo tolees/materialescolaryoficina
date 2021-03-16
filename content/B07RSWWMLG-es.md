@@ -5,7 +5,7 @@ date: 2020-08-07 07:48:01
 image: 'https://m.media-amazon.com/images/I/61n8IQ81ytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RSWWMLG-es Desire Deluxe Rotuladores Pintura Acrílica para Madera...'
 sku: 'B07RSWWMLG-es'
 tags: [ 'rotuladores', ]

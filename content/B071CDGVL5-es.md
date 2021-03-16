@@ -5,7 +5,7 @@ date: 2020-01-30 15:32:31
 image: 'https://m.media-amazon.com/images/I/51zzTnfN1VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CDGVL5-es Speedo T-KIT Teamster Mochila Unisex Adulto Azul 35 l'
 sku: 'B071CDGVL5-es'
 tags: [ 'mochila', ]

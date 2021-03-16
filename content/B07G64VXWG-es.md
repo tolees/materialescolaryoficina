@@ -5,7 +5,7 @@ date: 2020-06-19 09:12:45
 image: 'https://m.media-amazon.com/images/I/41-l6UoR7bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G64VXWG-es WEILLCCE Bolsos para Mujer Mochila de Mujer Mochila...'
 sku: 'B07G64VXWG-es'
 tags: [ 'mochila', ]

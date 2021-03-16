@@ -5,7 +5,7 @@ date: 2020-07-21 08:15:27
 image: 'https://m.media-amazon.com/images/I/41fnB+kspQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CWX4KLI-es Pilot Frixion - Pack de 12 rotuladores Multicolor'
 sku: 'B00CWX4KLI-es'
 tags: [ 'rotuladores', ]

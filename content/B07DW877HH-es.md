@@ -5,7 +5,7 @@ date: 2020-09-09 14:23:46
 image: 'https://m.media-amazon.com/images/I/5198VpEH6uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW877HH-es Pepe Jeans Jill Mochila con carro doble compartimento 44 cm'
 sku: 'B07DW877HH-es'
 tags: [ 'mochila', ]

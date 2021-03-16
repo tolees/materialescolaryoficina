@@ -5,7 +5,7 @@ date: 2020-08-11 10:28:43
 image: 'https://m.media-amazon.com/images/I/314U75ZMi5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3XBYZV-es Eastpak Padded Pak r Mochila 40 cm 24 L Rojo Sailor Red'
 sku: 'B07X3XBYZV-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-03-01 18:43:22
 image: 'https://m.media-amazon.com/images/I/41tGvwTqpmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8YC4JK-es Tommy Hilfiger - Th Downtown Backpack Mochilas Hombre...'
 sku: 'B07V8YC4JK-es'
 tags: [ 'backpack', ]

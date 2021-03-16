@@ -5,7 +5,7 @@ date: 2020-07-08 09:10:47
 image: 'https://m.media-amazon.com/images/I/51S1yQ3L9NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0749KZDP6-es Pizarra blanca magnética de borrado en seco con calendario...'
 sku: 'B0749KZDP6-es'
 tags: [ 'escolar', ]

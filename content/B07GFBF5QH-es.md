@@ -5,7 +5,7 @@ date: 2020-04-05 13:19:07
 image: 'https://m.media-amazon.com/images/I/51s+pVHjpYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFBF5QH-es Bosquejo Lápices de Dibujo del Artístico Profesional Set...'
 sku: 'B07GFBF5QH-es'
 tags: [ 'colorear','lápices', ]

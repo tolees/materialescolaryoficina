@@ -5,7 +5,7 @@ date: 2020-10-02 11:43:47
 image: 'https://m.media-amazon.com/images/I/41A4oJ-PxKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3CXKHS-es Ellesse Mochila Rolby Hombre Mochila SAAY0591 negro Talla...'
 sku: 'B07G3CXKHS-es'
 tags: [ 'mochila', ]

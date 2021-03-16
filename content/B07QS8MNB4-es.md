@@ -5,7 +5,7 @@ date: 2020-10-01 00:37:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51YUvoQKOIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QS8MNB4-es Meinkind Mochila Portabebe Ergonomica Multifunción para...'
 sku: 'B07QS8MNB4-es'
 tags: [ 'mochila', ]

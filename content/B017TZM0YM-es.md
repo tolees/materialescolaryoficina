@@ -5,7 +5,7 @@ date: 2020-08-28 11:54:33
 image: 'https://m.media-amazon.com/images/I/51qvDDUFE8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017TZM0YM-es Winsor & Newton - Bloc de 50 hojas de papel para...'
 sku: 'B017TZM0YM-es'
 tags: [ 'rotuladores', ]

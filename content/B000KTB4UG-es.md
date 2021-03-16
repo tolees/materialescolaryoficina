@@ -5,7 +5,7 @@ date: 2020-05-15 17:08:19
 image: 'https://m.media-amazon.com/images/I/51SpKtu3uqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KTB4UG-es BIC Kids Evolution Triangle ECOlutions Lápices de colores...'
 sku: 'B000KTB4UG-es'
 tags: [ 'lápices', ]

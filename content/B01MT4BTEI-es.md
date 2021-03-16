@@ -5,7 +5,7 @@ date: 2020-06-01 20:14:43
 image: 'https://m.media-amazon.com/images/I/41VqjzTtArL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT4BTEI-es GRÜNTEK Tijeras de podar y cortar Flores Frutas y Verduras...'
 sku: 'B01MT4BTEI-es'
 tags: [ 'tijeras', ]

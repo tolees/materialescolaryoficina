@@ -5,7 +5,7 @@ date: 2020-09-04 22:30:23
 image: 'https://m.media-amazon.com/images/I/41bvw0Xg+HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VTPOH7M-es HP Odyssey - Mochila para portátiles de hasta 15.6" de...'
 sku: 'B00VTPOH7M-es'
 tags: [ 'mochila', ]

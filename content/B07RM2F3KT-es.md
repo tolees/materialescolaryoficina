@@ -5,7 +5,7 @@ date: 2020-09-17 10:48:03
 image: 'https://m.media-amazon.com/images/I/51x9YZPpwTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM2F3KT-es Mochila mochila escolar mochila deportiva mochila para el...'
 sku: 'B07RM2F3KT-es'
 tags: [ 'escolar','mochila', ]

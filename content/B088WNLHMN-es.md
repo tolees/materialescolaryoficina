@@ -5,7 +5,7 @@ date: 2020-08-30 15:32:56
 image: 'https://m.media-amazon.com/images/I/41yCwdQObML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WNLHMN-es NACTECH 20pcs Washi Tape Washi Cinta Adhesiva Cinta para...'
 sku: 'B088WNLHMN-es'
 tags: [ 'adhesiva','cinta', ]

@@ -5,7 +5,7 @@ date: 2020-02-04 18:18:21
 image: 'https://m.media-amazon.com/images/I/514jTKgGtoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4N1DFE-es Faber-Castell 155534 - Caja metálica con 33 rotuladores...'
 sku: 'B01N4N1DFE-es'
 tags: [ 'colorear','faber-castell','rotuladores', ]

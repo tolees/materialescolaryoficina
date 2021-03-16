@@ -5,7 +5,7 @@ date: 2020-09-19 16:01:07
 image: 'https://m.media-amazon.com/images/I/31M75OdDmbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4N8R7L-es Bestlife - Mochila Trolley para Portátil 15.6 Tablet y...'
 sku: 'B07K4N8R7L-es'
 tags: [ 'mochila', ]

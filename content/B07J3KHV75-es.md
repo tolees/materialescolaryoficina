@@ -5,7 +5,7 @@ date: 2020-03-03 16:33:34
 image: 'https://m.media-amazon.com/images/I/413QJvCqT7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3KHV75-es Moleskine - Agenda Diaria de 12 Meses 2020 Tapa Dura y...'
 sku: 'B07J3KHV75-es'
 tags: [ 'moleskine', ]

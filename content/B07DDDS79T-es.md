@@ -5,7 +5,7 @@ date: 2020-09-20 07:26:49
 image: 'https://m.media-amazon.com/images/I/51cIpSDwUoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDDS79T-es VTech- DigiART Pizarra con Plantillas y Dibu-Ruedas para...'
 sku: 'B07DDDS79T-es'
 tags: [ 'colorear', ]

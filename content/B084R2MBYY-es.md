@@ -5,7 +5,7 @@ date: 2020-09-27 02:18:12
 image: 'https://m.media-amazon.com/images/I/215vugo0baL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084R2MBYY-es Pelikan Jazz Classic 815017 Bolígrafo con Mina Azul color...'
 sku: 'B084R2MBYY-es'
 tags: [ 'bolígrafo', ]

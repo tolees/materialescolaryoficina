@@ -5,7 +5,7 @@ date: 2020-05-24 16:03:17
 image: 'https://m.media-amazon.com/images/I/51XD+B84JGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V228YWP-es Joymoze Mochila para Universidad Resistente al Agua y...'
 sku: 'B07V228YWP-es'
 tags: [ 'mochila', ]

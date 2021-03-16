@@ -5,7 +5,7 @@ date: 2020-04-18 12:36:07
 image: 'https://m.media-amazon.com/images/I/310fT3aUuAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000SHPKB4-es Pilot BXGPN-V5 - Bolígrafo Azul 12 unidades'
 sku: 'B000SHPKB4-es'
 tags: [ 'bolígrafo', ]

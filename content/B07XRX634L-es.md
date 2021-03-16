@@ -5,7 +5,7 @@ date: 2020-06-23 12:44:01
 image: 'https://m.media-amazon.com/images/I/51v0XKnyCzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRX634L-es CARPISA ® Mochila de fantasía - Foresta'
 sku: 'B07XRX634L-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-09-23 10:52:27
 image: 'https://m.media-amazon.com/images/I/51X8dKY5MAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQJ2M9P-es Carioca Color Box | 100 Rotuladores Super Lavables con una...'
 sku: 'B07VQJ2M9P-es'
 tags: [ 'colorear','rotuladores', ]

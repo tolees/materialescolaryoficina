@@ -5,7 +5,7 @@ date: 2020-02-08 17:44:59
 image: 'https://m.media-amazon.com/images/I/41gHFofDsTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0073RSU6O-es S&R Tijeras para corte de Chapa Aviación serie 250 mm...'
 sku: 'B0073RSU6O-es'
 tags: [ 'tijeras', ]

@@ -5,7 +5,7 @@ date: 2020-04-02 03:39:26
 image: 'https://m.media-amazon.com/images/I/41NL7FMed+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4WY9QY-es Staedtler Noris Eco 183-HBBK3. Lápices ecológicos de...'
 sku: 'B07H4WY9QY-es'
 tags: [ 'lápices', ]

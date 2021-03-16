@@ -5,7 +5,7 @@ date: 2020-07-17 17:01:55
 image: 'https://m.media-amazon.com/images/I/411mXlRjhGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3F88HB-es Jarra de Leche de Acero Inoxidable 350 ml Taza de Café de...'
 sku: 'B08B3F88HB-es'
 tags: [ 'lápiz', ]

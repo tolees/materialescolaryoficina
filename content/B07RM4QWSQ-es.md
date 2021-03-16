@@ -5,7 +5,7 @@ date: 2020-07-10 09:01:22
 image: 'https://m.media-amazon.com/images/I/51YYjByyF0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM4QWSQ-es Mochila Infantil Personaje Disney LA Dama Y EL VAGABUNDO'
 sku: 'B07RM4QWSQ-es'
 tags: [ 'mochila', ]

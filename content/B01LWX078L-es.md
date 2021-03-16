@@ -5,7 +5,7 @@ date: 2020-04-18 02:18:55
 image: 'https://m.media-amazon.com/images/I/31NwH0PMXrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWX078L-es APLI 13462 - Pack de 10 rollos de papel Electra 76.5 x 65...'
 sku: 'B01LWX078L-es'
 tags: [ 'apli', ]

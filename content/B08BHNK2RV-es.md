@@ -5,7 +5,7 @@ date: 2020-10-07 19:18:33
 image: 'https://m.media-amazon.com/images/I/51m2i57ad5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHNK2RV-es Rotuladores Set de 40 Colores de Doble Punta y Organizador...'
 sku: 'B08BHNK2RV-es'
 tags: [ 'colorear','rotuladores', ]

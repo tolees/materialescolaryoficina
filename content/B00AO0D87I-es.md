@@ -5,7 +5,7 @@ date: 2020-07-19 14:01:14
 image: 'https://m.media-amazon.com/images/I/41hCHRZHBXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AO0D87I-es Alpino Maxi - Rotuladores 24 unidades'
 sku: 'B00AO0D87I-es'
 tags: [ 'alpino','rotuladores', ]

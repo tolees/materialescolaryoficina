@@ -5,7 +5,7 @@ date: 2020-08-20 17:42:52
 image: 'https://m.media-amazon.com/images/I/41htOXPtPeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9ZWDT7-es Maui & Sons Hawai Mochila 40 cm + estuche escolar color...'
 sku: 'B07S9ZWDT7-es'
 tags: [ 'escolar','mochila', ]

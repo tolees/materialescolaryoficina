@@ -5,7 +5,7 @@ date: 2020-07-08 13:29:54
 image: 'https://m.media-amazon.com/images/I/51spfn+iaYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XTFB7T-es Filamento PLA Bronce Ultra Seda 1.75mm Impresión 3D ERYONE...'
 sku: 'B082XTFB7T-es'
 tags: [ 'bolígrafo', ]

@@ -5,7 +5,7 @@ date: 2020-09-16 09:45:57
 image: 'https://m.media-amazon.com/images/I/51rRz2IzE+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLMRQBP-es Carioca Set Baby 2+ | 53222 - Kit Colores: Rotuladores...'
 sku: 'B07VLMRQBP-es'
 tags: [ 'lápices','rotuladores', ]

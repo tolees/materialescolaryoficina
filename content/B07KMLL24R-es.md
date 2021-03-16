@@ -5,7 +5,7 @@ date: 2020-09-27 16:29:26
 image: 'https://m.media-amazon.com/images/I/512LxoCaVzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMLL24R-es Play Doh - Disney Buzz Lightyear Hasbro E3369EU5'
 sku: 'B07KMLL24R-es'
 tags: [ 'doh','play', ]

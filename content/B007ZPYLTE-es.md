@@ -5,7 +5,7 @@ date: 2020-04-02 18:18:52
 image: 'https://m.media-amazon.com/images/I/41AwqghwfTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007ZPYLTE-es BIC Cristal Original Fine - Bolígrafos punta fina 0.8 mm...'
 sku: 'B007ZPYLTE-es'
 tags: [ 'bic','bolígrafos','cristal', ]

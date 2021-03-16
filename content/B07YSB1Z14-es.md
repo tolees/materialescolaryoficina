@@ -5,7 +5,7 @@ date: 2020-09-18 10:31:34
 image: 'https://m.media-amazon.com/images/I/41OR9SzBMHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YSB1Z14-es TOMSHOO Mochila de Hidratación Mochila conVejiga de Agua...'
 sku: 'B07YSB1Z14-es'
 tags: [ 'mochila', ]

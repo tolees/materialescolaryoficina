@@ -5,7 +5,7 @@ date: 2020-09-10 17:20:14
 image: 'https://m.media-amazon.com/images/I/51bBq8seBxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781VNK1Y-es BIC Kids Evolution ECOlutions Lápices para Colorear -...'
 sku: 'B0781VNK1Y-es'
 tags: [ 'colorear','lápices', ]

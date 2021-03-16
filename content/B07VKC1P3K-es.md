@@ -5,7 +5,7 @@ date: 2020-09-29 11:36:02
 image: 'https://m.media-amazon.com/images/I/41nYZTpoGjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKC1P3K-es Carioca Roller Birello | Estuche Enrollable Azul con...'
 sku: 'B07VKC1P3K-es'
 tags: [ 'rotuladores', ]

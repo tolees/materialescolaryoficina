@@ -5,7 +5,7 @@ date: 2020-09-20 01:46:53
 image: 'https://m.media-amazon.com/images/I/31oL9UMQmyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1JDY1W-es El Potro Pipe Mochila Mujer para Portátil 35 x 25 x 10 cm...'
 sku: 'B07K1JDY1W-es'
 tags: [ 'mochila', ]

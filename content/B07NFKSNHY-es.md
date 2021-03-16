@@ -5,7 +5,7 @@ date: 2020-08-06 15:04:45
 image: 'https://m.media-amazon.com/images/I/518e8a4u-oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFKSNHY-es Kipling ECHO Bolsa escolar 50 cm 29 liters Multicolor...'
 sku: 'B07NFKSNHY-es'
 tags: [ 'escolar', ]

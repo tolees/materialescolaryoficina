@@ -5,7 +5,7 @@ date: 2020-01-30 22:41:36
 image: 'https://m.media-amazon.com/images/I/41wVGQMH2zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWQUWFE-es Parker Urban 1931618 - Bolígrafo roller verde recambio de...'
 sku: 'B01LWQUWFE-es'
 tags: [ 'bolígrafo', ]

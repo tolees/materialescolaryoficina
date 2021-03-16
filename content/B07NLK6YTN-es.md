@@ -5,7 +5,7 @@ date: 2020-07-03 08:31:31
 image: 'https://m.media-amazon.com/images/I/51hYTMewdpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLK6YTN-es Mochila Infantil 3D Lady Bug'
 sku: 'B07NLK6YTN-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-08-17 00:28:18
 image: 'https://m.media-amazon.com/images/I/41il+0w0YjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X28CTWJ-es HUION Inspiroy Ink H320M Rojo Tableta de Dibujo gráfico...'
 sku: 'B07X28CTWJ-es'
 tags: [ 'lápiz', ]

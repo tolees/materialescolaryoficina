@@ -5,7 +5,7 @@ date: 2020-09-06 12:01:16
 image: 'https://m.media-amazon.com/images/I/61UdOcJN8wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6CCHG2-es RATEL Rotuladores Acuarelables incluye 24 plumas de pincel...'
 sku: 'B07L6CCHG2-es'
 tags: [ 'rotuladores', ]

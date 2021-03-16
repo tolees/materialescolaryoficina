@@ -5,7 +5,7 @@ date: 2020-04-07 13:29:08
 image: 'https://m.media-amazon.com/images/I/518fZD7dW8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGHLMH6-es Juego de 27 rollos de cinta adhesiva de papel japonés...'
 sku: 'B07GGHLMH6-es'
 tags: [ 'adhesiva','cinta', ]

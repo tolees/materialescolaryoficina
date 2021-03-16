@@ -5,7 +5,7 @@ date: 2020-05-30 15:43:18
 image: 'https://m.media-amazon.com/images/I/51H4OaTwCLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0007OEDYI-es STAEDTLER 334 SB10 - Bolígrafo punta fina 10 unidades'
 sku: 'B0007OEDYI-es'
 tags: [ 'bolígrafo', ]

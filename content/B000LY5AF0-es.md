@@ -5,7 +5,7 @@ date: 2020-02-15 16:50:37
 image: 'https://m.media-amazon.com/images/I/41r5DFzO-RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LY5AF0-es Faber-Castell 112160 - Estuche de metal con 60 ecolápices...'
 sku: 'B000LY5AF0-es'
 tags: [ 'faber-castell', ]

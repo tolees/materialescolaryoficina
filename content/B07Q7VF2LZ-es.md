@@ -5,7 +5,7 @@ date: 2020-09-21 12:02:29
 image: 'https://m.media-amazon.com/images/I/51hsiCdQB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q7VF2LZ-es Bedee - Afilador de cuchillos 3 pasos diamante cerámica...'
 sku: 'B07Q7VF2LZ-es'
 tags: [ 'tijeras', ]

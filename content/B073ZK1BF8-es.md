@@ -5,7 +5,7 @@ date: 2020-10-01 11:05:18
 image: 'https://m.media-amazon.com/images/I/413hBB9tUUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZK1BF8-es Carioca Maletín TITA | Lápices de Colores Caja Portátil de...'
 sku: 'B073ZK1BF8-es'
 tags: [ 'lápices', ]

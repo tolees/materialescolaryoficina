@@ -5,7 +5,7 @@ date: 2020-04-08 06:07:25
 image: 'https://m.media-amazon.com/images/I/41uB8ckWi+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2T4WMK-es Agarrador de Lápiz Firesara Nuevo diseño ergonómicas...'
 sku: 'B07K2T4WMK-es'
 tags: [ 'lápiz', ]

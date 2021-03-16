@@ -5,7 +5,7 @@ date: 2020-06-23 15:48:20
 image: 'https://m.media-amazon.com/images/I/51dBIM48OsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074NWRLD3-es Bolsa grande de viaje Bolsa de deporte Mochila Mochila...'
 sku: 'B074NWRLD3-es'
 tags: [ 'mochila', ]

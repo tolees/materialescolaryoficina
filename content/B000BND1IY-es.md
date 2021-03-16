@@ -5,7 +5,7 @@ date: 2020-07-27 16:31:38
 image: 'https://m.media-amazon.com/images/I/41kk4qBVmlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BND1IY-es Targus Essential - Mochila para Transportar portátiles de...'
 sku: 'B000BND1IY-es'
 tags: [ 'mochila', ]

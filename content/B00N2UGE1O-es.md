@@ -5,7 +5,7 @@ date: 2020-05-17 11:07:45
 image: 'https://m.media-amazon.com/images/I/51jtnEYbisL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N2UGE1O-es Faber Castell 554212 - Estuche de cartón con 12...'
 sku: 'B00N2UGE1O-es'
 tags: [ 'castell','faber','rotuladores', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 08:43:31
 image: 'https://m.media-amazon.com/images/I/51k4DYvS8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DMBP7ZS-es APLI 16914 - Forro de libros con solapa ajustable PP 300...'
 sku: 'B07DMBP7ZS-es'
 tags: [ 'apli', ]

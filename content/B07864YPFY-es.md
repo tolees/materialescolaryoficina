@@ -5,7 +5,7 @@ date: 2020-09-24 13:33:52
 image: 'https://m.media-amazon.com/images/I/51j37P-fa1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07864YPFY-es Play-Doh Helados Deliciosos Hasbro E0042EU4 color/modelo...'
 sku: 'B07864YPFY-es'
 tags: [ 'play-doh', ]

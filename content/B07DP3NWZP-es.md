@@ -5,7 +5,7 @@ date: 2020-02-11 19:55:58
 image: 'https://m.media-amazon.com/images/I/51jlS6IUEtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP3NWZP-es Eastpak EK62030W Mochila Poliéster Negro/Blanco - Mochila...'
 sku: 'B07DP3NWZP-es'
 tags: [ 'mochila', ]

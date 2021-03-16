@@ -5,7 +5,7 @@ date: 2020-08-12 23:14:29
 image: 'https://m.media-amazon.com/images/I/61mUVOzxLlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXP61DF-es Hethrone Rotuladores Punta Pincel 100 Color Rotuladores...'
 sku: 'B07RXP61DF-es'
 tags: [ 'rotuladores', ]

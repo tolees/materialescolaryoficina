@@ -5,7 +5,7 @@ date: 2020-03-27 22:48:28
 image: 'https://m.media-amazon.com/images/I/311fI0kW2LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U8SG5IA-es Beter Tijeras de pedicura especial para las uñas gruesas...'
 sku: 'B00U8SG5IA-es'
 tags: [ 'tijeras', ]

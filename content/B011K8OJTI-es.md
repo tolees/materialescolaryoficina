@@ -5,7 +5,7 @@ date: 2020-01-04 17:14:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417mVwy4aAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011K8OJTI-es Black Diamond Speed 22 Mochila Unisex Adulto Sulfur'
 sku: 'B011K8OJTI-es'
 tags: [ 'mochila', ]

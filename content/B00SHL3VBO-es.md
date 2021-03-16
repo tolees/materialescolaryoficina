@@ -5,7 +5,7 @@ date: 2020-05-17 08:48:56
 image: 'https://m.media-amazon.com/images/I/41f5ngLy3kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SHL3VBO-es PlayColor 10121 - Caja de 12 temperas solidas 10 gramos...'
 sku: 'B00SHL3VBO-es'
 tags: [ 'playcolor', ]

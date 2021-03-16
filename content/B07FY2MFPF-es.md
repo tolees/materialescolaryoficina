@@ -5,7 +5,7 @@ date: 2020-08-14 12:48:29
 image: 'https://m.media-amazon.com/images/I/51tDexsIQxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY2MFPF-es LIANCHENYI Retro bandera de Inglaterra mochila casual...'
 sku: 'B07FY2MFPF-es'
 tags: [ 'escolar','mochila', ]

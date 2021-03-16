@@ -5,7 +5,7 @@ date: 2020-06-27 06:36:15
 image: 'https://m.media-amazon.com/images/I/51L0KDzbjSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7WQ1F1-es AmazonBasics - Mochila de deporte Azul'
 sku: 'B07D7WQ1F1-es'
 tags: [ 'mochila', ]

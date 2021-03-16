@@ -5,7 +5,7 @@ date: 2020-10-07 19:03:51
 image: 'https://m.media-amazon.com/images/I/51aJDnyqViL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQVFVBV-es Targus Groove X2 Compact Carbón Vegetal Mochila - Mochila...'
 sku: 'B07FQVFVBV-es'
 tags: [ 'mochila', ]

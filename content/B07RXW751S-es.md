@@ -5,7 +5,7 @@ date: 2020-09-04 17:11:15
 image: 'https://m.media-amazon.com/images/I/51+3fulyRFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXW751S-es Diesel Discover-me Mirano Mochila para Hombre Multicolor...'
 sku: 'B07RXW751S-es'
 tags: [ 'mochila', ]

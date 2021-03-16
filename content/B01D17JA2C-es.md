@@ -5,7 +5,7 @@ date: 2020-08-10 19:12:35
 image: 'https://m.media-amazon.com/images/I/41HlN+1s9tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D17JA2C-es Samsonite Paradiver Light - Mochila M 40 cm 16 L Blanco White'
 sku: 'B01D17JA2C-es'
 tags: [ 'mochila', ]

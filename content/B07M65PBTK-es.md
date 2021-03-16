@@ -5,7 +5,7 @@ date: 2020-02-08 18:29:47
 image: 'https://m.media-amazon.com/images/I/413s8nsS8gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M65PBTK-es UTOTEBAG Mochila Portátil 15.6 Pulgadas Mochilas para...'
 sku: 'B07M65PBTK-es'
 tags: [ 'mochila', ]

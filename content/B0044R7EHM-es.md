@@ -5,7 +5,7 @@ date: 2020-03-24 14:23:48
 image: 'https://m.media-amazon.com/images/I/41EqO5+N54L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0044R7EHM-es Cross Edge - Bolígrafo roller color azul'
 sku: 'B0044R7EHM-es'
 tags: [ 'bolígrafo', ]

@@ -5,7 +5,7 @@ date: 2020-07-07 16:26:33
 image: 'https://m.media-amazon.com/images/I/41nUPwQLhqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQ74FZM-es Bolígrafo Por Scriveiner London - Bolígrafo de Gama Alta...'
 sku: 'B07XQ74FZM-es'
 tags: [ 'bolígrafo','bolígrafos', ]

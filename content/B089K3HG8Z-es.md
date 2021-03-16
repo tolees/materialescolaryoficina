@@ -5,7 +5,7 @@ date: 2020-08-18 03:10:42
 image: 'https://m.media-amazon.com/images/I/51jc-mYe3KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089K3HG8Z-es Symiu Herramientas Electricas De Juguete 19 Piezas Juegos...'
 sku: 'B089K3HG8Z-es'
 tags: [ 'mochila', ]

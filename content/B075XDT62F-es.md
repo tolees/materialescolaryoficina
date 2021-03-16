@@ -5,7 +5,7 @@ date: 2020-08-11 19:12:42
 image: 'https://m.media-amazon.com/images/I/41nlzEn8TZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XDT62F-es NORSENS – Mochila Ordenador portátil 17/15.6 Pulgadas...'
 sku: 'B075XDT62F-es'
 tags: [ 'mochila', ]

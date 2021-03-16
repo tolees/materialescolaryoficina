@@ -5,7 +5,7 @@ date: 2020-06-04 15:51:04
 image: 'https://m.media-amazon.com/images/I/51RPt8KfE1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C777NZS-es APLI Kids 14227 - Color Sticks 10 g 6 u.'
 sku: 'B01C777NZS-es'
 tags: [ 'apli', ]

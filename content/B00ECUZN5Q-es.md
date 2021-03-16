@@ -5,7 +5,7 @@ date: 2020-09-03 21:55:52
 image: 'https://m.media-amazon.com/images/I/31bp4A0hMVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ECUZN5Q-es Astor Perfect Stay 24h Eyeshadow Waterproof Lápiz Sombra...'
 sku: 'B00ECUZN5Q-es'
 tags: [ 'lápiz', ]

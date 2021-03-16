@@ -5,7 +5,7 @@ date: 2020-05-06 20:03:00
 image: 'https://m.media-amazon.com/images/I/31SayK59uKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003SCOEDQ-es Calculadora bolsillo sencilla Canon AS-8 Negra'
 sku: 'B003SCOEDQ-es'
 tags: [ 'calculadora', ]

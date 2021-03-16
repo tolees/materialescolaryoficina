@@ -5,7 +5,7 @@ date: 2020-05-30 07:34:58
 image: 'https://m.media-amazon.com/images/I/51Z2SXvKLjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WGWP0K-es STABILO power Rotuladores escolares - Estuche con 12 colores'
 sku: 'B000WGWP0K-es'
 tags: [ 'rotuladores','stabilo', ]

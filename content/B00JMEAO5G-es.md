@@ -5,7 +5,7 @@ date: 2020-08-21 18:21:13
 image: 'https://m.media-amazon.com/images/I/512L17exm7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JMEAO5G-es Faber Castell 65021 - Pack escolar con escuadra cartabón...'
 sku: 'B00JMEAO5G-es'
 tags: [ 'cartabón','castell','escolar','faber', ]

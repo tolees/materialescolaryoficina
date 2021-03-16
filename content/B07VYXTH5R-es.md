@@ -5,7 +5,7 @@ date: 2020-01-10 11:43:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412AUm-xvbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYXTH5R-es CoolBELL Maletín Ordenadores portátiles de 17 3 Pulgadas...'
 sku: 'B07VYXTH5R-es'
 tags: [ 'mochila', ]

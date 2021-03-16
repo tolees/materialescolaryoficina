@@ -5,7 +5,7 @@ date: 2020-08-13 09:14:31
 image: 'https://m.media-amazon.com/images/I/511lHkz4yBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBMFR2L-es Samsonite Disney Ultimate 2.0 Mochila 35 cm 12 L Azul...'
 sku: 'B07CBMFR2L-es'
 tags: [ 'mochila', ]

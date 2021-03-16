@@ -5,7 +5,7 @@ date: 2020-07-13 16:58:52
 image: 'https://m.media-amazon.com/images/I/41cMCOC6AlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB72Z5B-es BOPAI - Mochila unisex para hombre impermeable ligera...'
 sku: 'B07VB72Z5B-es'
 tags: [ 'mochila','unisex', ]

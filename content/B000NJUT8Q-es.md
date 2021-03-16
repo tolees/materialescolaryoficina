@@ -5,7 +5,7 @@ date: 2020-03-31 17:40:19
 image: 'https://m.media-amazon.com/images/I/51pywylePJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NJUT8Q-es BIC Velleda 1701 ECOlutions rotuladores de Pizarra punta...'
 sku: 'B000NJUT8Q-es'
 tags: [ 'rotuladores', ]

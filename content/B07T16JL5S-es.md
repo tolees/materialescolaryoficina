@@ -5,7 +5,7 @@ date: 2020-10-07 12:05:39
 image: 'https://m.media-amazon.com/images/I/51MflIYJzhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T16JL5S-es Mochila Adaptable Pepe Jeans Daniela'
 sku: 'B07T16JL5S-es'
 tags: [ 'mochila', ]

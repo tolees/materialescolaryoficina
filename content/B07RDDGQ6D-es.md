@@ -5,7 +5,7 @@ date: 2020-03-04 14:52:48
 image: 'https://m.media-amazon.com/images/I/41QftFC3D9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDDGQ6D-es Xnuoyo 17.3 Pulgadas Mochila Hombre Impermeable Mochila...'
 sku: 'B07RDDGQ6D-es'
 tags: [ 'mochila', ]

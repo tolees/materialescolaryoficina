@@ -5,7 +5,7 @@ date: 2020-06-21 18:32:54
 image: 'https://m.media-amazon.com/images/I/41jUq4FDXRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1B2ZJ5-es The North Face Equipment TNF Mochila Borealis Unisex...'
 sku: 'B07D1B2ZJ5-es'
 tags: [ 'mochila', ]

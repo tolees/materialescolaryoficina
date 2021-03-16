@@ -5,7 +5,7 @@ date: 2020-06-27 14:37:35
 image: 'https://m.media-amazon.com/images/I/31kyYWdfSeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2SX9T7-es Eastpak Padded Pak r Mochila 40 cm 24 L Rosa Seashell Pink'
 sku: 'B07X2SX9T7-es'
 tags: [ 'mochila', ]

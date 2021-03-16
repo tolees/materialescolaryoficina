@@ -5,7 +5,7 @@ date: 2020-04-14 11:34:05
 image: 'https://m.media-amazon.com/images/I/417WjfJg91L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1DN9K3-es Don Algodón Mochila Mujer Casual Nailon Rojo'
 sku: 'B07T1DN9K3-es'
 tags: [ 'mochila', ]

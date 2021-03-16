@@ -5,7 +5,7 @@ date: 2020-01-25 07:57:54
 image: 'https://m.media-amazon.com/images/I/51alSKU3flL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001GMRC9S-es Lyra 6521120 - Rotuladores 12 unidades'
 sku: 'B001GMRC9S-es'
 tags: [ 'rotuladores', ]

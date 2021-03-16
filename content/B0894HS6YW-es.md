@@ -5,7 +5,7 @@ date: 2020-08-10 19:26:30
 image: 'https://m.media-amazon.com/images/I/51HEo1gyriL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894HS6YW-es Dazspirit 36 Colores Caja Acuarelas Profesionales & Papel...'
 sku: 'B0894HS6YW-es'
 tags: [ 'acuarelas', ]

@@ -5,7 +5,7 @@ date: 2020-08-03 20:38:31
 image: 'https://m.media-amazon.com/images/I/318hMfjgOuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JKT2M4O-es Rotulador Fudenosuke Doble Punta Gris Y Negro Tombow'
 sku: 'B00JKT2M4O-es'
 tags: [ 'rotulador', ]

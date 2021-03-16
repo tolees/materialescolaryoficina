@@ -5,7 +5,7 @@ date: 2020-09-30 09:19:57
 image: 'https://m.media-amazon.com/images/I/51Leev-W2ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082QWF82B-es Sombra de Ojos Eyeshadow Eyeshadow Glitter Eyeshadow...'
 sku: 'B082QWF82B-es'
 tags: [ 'lápiz', ]

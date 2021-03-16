@@ -5,7 +5,7 @@ date: 2020-07-03 10:30:56
 image: 'https://m.media-amazon.com/images/I/51rFd7DUARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081FQNGKG-es STABILO Pen 68 brush Rotulador punta de pincel - Estuche...'
 sku: 'B081FQNGKG-es'
 tags: [ 'rotulador','stabilo', ]

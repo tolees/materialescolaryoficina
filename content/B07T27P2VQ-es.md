@@ -5,7 +5,7 @@ date: 2020-06-17 04:12:45
 image: 'https://m.media-amazon.com/images/I/41QbFo8KC2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T27P2VQ-es Armani Exchange Liz - Mochila 28 x 8 x 26 cm color Beige...'
 sku: 'B07T27P2VQ-es'
 tags: [ 'mochila', ]

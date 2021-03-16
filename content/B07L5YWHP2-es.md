@@ -5,7 +5,7 @@ date: 2020-08-11 09:15:31
 image: 'https://m.media-amazon.com/images/I/41Dv+cbGl+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5YWHP2-es Samsonte Cityvibe 2.0 - Mochila para portátil pequeño 41...'
 sku: 'B07L5YWHP2-es'
 tags: [ 'mochila', ]

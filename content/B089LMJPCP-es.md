@@ -5,7 +5,7 @@ date: 2020-08-31 11:59:20
 image: 'https://m.media-amazon.com/images/I/51Llh+EP7AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089LMJPCP-es TONZE Herramientas Juguete Juegos de Imitación Bolsa de...'
 sku: 'B089LMJPCP-es'
 tags: [ 'mochila', ]

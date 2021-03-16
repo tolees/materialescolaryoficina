@@ -5,7 +5,7 @@ date: 2020-07-16 18:11:46
 image: 'https://m.media-amazon.com/images/I/314N0Tov2gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OUV1V4E-es Bourjois Sourcil Precision Lápiz de cejas Tono 7 Noisette...'
 sku: 'B00OUV1V4E-es'
 tags: [ 'lápiz', ]

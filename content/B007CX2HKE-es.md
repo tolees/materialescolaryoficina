@@ -5,7 +5,7 @@ date: 2020-08-30 07:46:49
 image: 'https://m.media-amazon.com/images/I/51kdsdf4wZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007CX2HKE-es BIC 4 colores Original bolígrafos Retráctiles punta media...'
 sku: 'B007CX2HKE-es'
 tags: [ 'bolígrafos', ]

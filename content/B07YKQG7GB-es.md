@@ -5,7 +5,7 @@ date: 2020-07-21 13:49:23
 image: 'https://m.media-amazon.com/images/I/51QNVPtU7pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YKQG7GB-es Rotuladores de pincel de caligrafía de doble punta 24...'
 sku: 'B07YKQG7GB-es'
 tags: [ 'rotuladores', ]

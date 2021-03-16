@@ -5,7 +5,7 @@ date: 2020-04-07 12:02:26
 image: 'https://m.media-amazon.com/images/I/41NfhU+VgoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU5VASL-es GRÜNTEK Tijeras de Podar Profesionales Z-25 FORJADAS en...'
 sku: 'B01MU5VASL-es'
 tags: [ 'tijeras', ]

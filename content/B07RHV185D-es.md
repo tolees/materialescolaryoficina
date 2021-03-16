@@ -5,7 +5,7 @@ date: 2020-09-28 05:16:01
 image: 'https://m.media-amazon.com/images/I/31d5B1s98LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHV185D-es American Tourister Urban Groove - 14 Pulgadas Mochila para...'
 sku: 'B07RHV185D-es'
 tags: [ 'mochila', ]

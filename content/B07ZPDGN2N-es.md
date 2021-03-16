@@ -5,7 +5,7 @@ date: 2020-10-10 17:40:38
 image: 'https://m.media-amazon.com/images/I/41Uytjb2j4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPDGN2N-es Tommy Hilfiger Uptown Nylon Backpack Mochila Hombre...'
 sku: 'B07ZPDGN2N-es'
 tags: [ 'backpack','mochila', ]

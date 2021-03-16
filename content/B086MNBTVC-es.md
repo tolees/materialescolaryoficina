@@ -5,7 +5,7 @@ date: 2020-06-01 18:07:28
 image: 'https://m.media-amazon.com/images/I/41ZmZhOplhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MNBTVC-es RE Lápiz Táctil 2.ª generación para Apple iPad 2018 y 2019...'
 sku: 'B086MNBTVC-es'
 tags: [ 'lápiz', ]

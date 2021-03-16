@@ -5,7 +5,7 @@ date: 2020-07-09 06:51:01
 image: 'https://m.media-amazon.com/images/I/5120z5OSmLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZSCWKMS-es Mochila Bebe AngLink Mochila Carro Bebe Material...'
 sku: 'B07ZSCWKMS-es'
 tags: [ 'mochila', ]

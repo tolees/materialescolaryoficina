@@ -5,7 +5,7 @@ date: 2020-08-22 13:07:15
 image: 'https://m.media-amazon.com/images/I/511W3L9A2PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JAHRUF2-es Androni - Mochila de mar del bebé Crazy Fish'
 sku: 'B00JAHRUF2-es'
 tags: [ 'mochila', ]

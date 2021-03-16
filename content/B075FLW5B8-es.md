@@ -5,7 +5,7 @@ date: 2020-01-19 09:43:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JZ4oXdrkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FLW5B8-es Baby Playpen - Centro de actividades para niños juego de...'
 sku: 'B075FLW5B8-es'
 tags: [ 'bolígrafo', ]

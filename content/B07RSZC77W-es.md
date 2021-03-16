@@ -5,7 +5,7 @@ date: 2020-02-07 08:39:47
 image: 'https://m.media-amazon.com/images/I/41bnVL44qpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RSZC77W-es LUNCIA Mochila Termica Nevera Flexible Portátil Resistente...'
 sku: 'B07RSZC77W-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-08-10 16:50:51
 image: 'https://m.media-amazon.com/images/I/61gA7fTuDWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XUA5UXY-es Alpino DA000125 - Estuche 12 ceras'
 sku: 'B00XUA5UXY-es'
 tags: [ 'alpino', ]

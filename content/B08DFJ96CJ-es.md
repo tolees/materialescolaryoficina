@@ -5,7 +5,7 @@ date: 2020-09-07 21:25:24
 image: 'https://m.media-amazon.com/images/I/51OZksA1lBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFJ96CJ-es Mochila Infantil 3D Estuche Escolar y Bolsa Merienda de...'
 sku: 'B08DFJ96CJ-es'
 tags: [ 'escolar','material','mochila', ]

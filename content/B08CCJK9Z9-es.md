@@ -5,7 +5,7 @@ date: 2020-09-12 13:17:12
 image: 'https://m.media-amazon.com/images/I/61Qq7cLMDbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CCJK9Z9-es A5/RedBronze 新品 Diario de piel en relieve vintage con...'
 sku: 'B08CCJK9Z9-es'
 tags: [ 'bolígrafos', ]

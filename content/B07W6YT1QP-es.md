@@ -5,7 +5,7 @@ date: 2020-04-08 06:04:17
 image: 'https://m.media-amazon.com/images/I/51lC9lz2AkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6YT1QP-es Vuelta al cole pencil case regalos originales para Chicas...'
 sku: 'B07W6YT1QP-es'
 tags: [ 'bolígrafos','escolar','mochila', ]

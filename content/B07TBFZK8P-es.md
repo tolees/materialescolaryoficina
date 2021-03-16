@@ -5,7 +5,7 @@ date: 2020-06-11 00:26:40
 image: 'https://m.media-amazon.com/images/I/413I9JrLhzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBFZK8P-es Quiksilver Small Everyday Edition - Mochila Mediana Para...'
 sku: 'B07TBFZK8P-es'
 tags: [ 'mochila', ]

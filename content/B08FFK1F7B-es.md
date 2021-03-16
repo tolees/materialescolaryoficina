@@ -5,7 +5,7 @@ date: 2020-09-22 16:01:21
 image: 'https://m.media-amazon.com/images/I/41gAWJ0ASDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FFK1F7B-es luosh Modelo de Arcilla Kit de cortadores de Arcilla para...'
 sku: 'B08FFK1F7B-es'
 tags: [ 'plastilina', ]

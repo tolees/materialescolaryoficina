@@ -5,7 +5,7 @@ date: 2020-08-13 10:18:57
 image: 'https://m.media-amazon.com/images/I/41FioG7j0wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG9BY1G-es iPad Lápiz Stylus Tiempo de Trabajo de 40 Horas Espera de...'
 sku: 'B07KG9BY1G-es'
 tags: [ 'lápiz', ]

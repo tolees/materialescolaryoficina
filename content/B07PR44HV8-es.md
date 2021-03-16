@@ -5,7 +5,7 @@ date: 2020-09-21 00:01:55
 image: 'https://m.media-amazon.com/images/I/41lgJa1k-TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PR44HV8-es Unidad Memoria Flash USB 3.0 128GB Memoria Lápiz Drive OTG...'
 sku: 'B07PR44HV8-es'
 tags: [ 'lápiz', ]

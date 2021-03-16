@@ -5,7 +5,7 @@ date: 2020-05-05 07:31:55
 image: 'https://m.media-amazon.com/images/I/410sU9WxzVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LD5SAEY-es Conté Colouring Lápices de colores - colores Surtidos Caja...'
 sku: 'B00LD5SAEY-es'
 tags: [ 'lápices', ]

@@ -5,7 +5,7 @@ date: 2020-08-22 16:24:17
 image: 'https://m.media-amazon.com/images/I/21-BusKKsOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L1V43UY-es Wacom CS-610CB Bamboo Stylus Fineline 3 Lápiz digital para...'
 sku: 'B01L1V43UY-es'
 tags: [ 'lápiz', ]

@@ -5,7 +5,7 @@ date: 2020-06-01 18:33:59
 image: 'https://m.media-amazon.com/images/I/41eOcuL3SAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FYNVQNI-es Faber Castell 167004 - Estuche con 4 rotuladores...'
 sku: 'B00FYNVQNI-es'
 tags: [ 'castell','faber','rotuladores', ]

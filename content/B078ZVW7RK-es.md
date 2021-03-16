@@ -5,7 +5,7 @@ date: 2020-09-18 16:22:01
 image: 'https://m.media-amazon.com/images/I/41uakugWjhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZVW7RK-es Mochila Stranger Things Faces'
 sku: 'B078ZVW7RK-es'
 tags: [ 'mochila', ]

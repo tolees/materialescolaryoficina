@@ -5,7 +5,7 @@ date: 2020-08-11 18:02:21
 image: 'https://m.media-amazon.com/images/I/51iqN5u4G8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSNTH6Y-es Roxy Sugar Baby - Mochila Mediana para Mujer Mochila...'
 sku: 'B07SSNTH6Y-es'
 tags: [ 'mochila', ]

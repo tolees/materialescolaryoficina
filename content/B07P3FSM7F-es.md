@@ -5,7 +5,7 @@ date: 2020-06-21 17:39:01
 image: 'https://m.media-amazon.com/images/I/51uvAQXeS8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3FSM7F-es Mochila 42 cm Pepe Jeans Cuore'
 sku: 'B07P3FSM7F-es'
 tags: [ 'mochila', ]

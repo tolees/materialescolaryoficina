@@ -5,7 +5,7 @@ date: 2020-04-10 14:19:55
 image: 'https://m.media-amazon.com/images/I/41-lpPI2yfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009QX1CY-es Dymo D1 Standard Cintas para Impresoras de Etiquetas 19 mm...'
 sku: 'B0009QX1CY-es'
 tags: [ 'dymo', ]

@@ -5,7 +5,7 @@ date: 2020-04-12 00:39:41
 image: 'https://m.media-amazon.com/images/I/515gxlWnOkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YK8BH3R-es EKKONG Scratch Art Manualidades para Niños 48PCS Scratch...'
 sku: 'B07YK8BH3R-es'
 tags: [ 'lápices', ]

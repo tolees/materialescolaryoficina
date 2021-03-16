@@ -5,7 +5,7 @@ date: 2020-08-18 23:30:32
 image: 'https://m.media-amazon.com/images/I/41Tuci6QrxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y2ZFL6R-es Inateck 40L-44L Mochila de Viaje Cabina Mochila de...'
 sku: 'B07Y2ZFL6R-es'
 tags: [ 'mochila', ]

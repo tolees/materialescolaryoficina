@@ -5,7 +5,7 @@ date: 2020-04-24 12:37:33
 image: 'https://m.media-amazon.com/images/I/51H36ePNSpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWF2WB6-es Bolsa de Almacenamiento de Target Pouch para Gun N-Strike...'
 sku: 'B07JWF2WB6-es'
 tags: [ 'mochila', ]

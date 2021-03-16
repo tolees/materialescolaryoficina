@@ -5,7 +5,7 @@ date: 2020-02-10 08:37:50
 image: 'https://m.media-amazon.com/images/I/41CFSg3+iBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STFZVG1-es Coronel Tapiocca Mochila hombre estilo Nylon Negro...'
 sku: 'B07STFZVG1-es'
 tags: [ 'mochila', ]

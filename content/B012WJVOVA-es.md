@@ -5,7 +5,7 @@ date: 2020-08-19 19:31:10
 image: 'https://m.media-amazon.com/images/I/21Uhndng0wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012WJVOVA-es WACOM LP190K - Lápiz para tablet CTL490 CTH490 y CTH690'
 sku: 'B012WJVOVA-es'
 tags: [ 'lápiz', ]

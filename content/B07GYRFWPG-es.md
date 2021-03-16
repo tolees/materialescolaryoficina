@@ -5,7 +5,7 @@ date: 2020-02-24 12:57:33
 image: 'https://m.media-amazon.com/images/I/41j1baNL8jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GYRFWPG-es Ergobaby - Mochila Portabebé Original Downtown'
 sku: 'B07GYRFWPG-es'
 tags: [ 'mochila', ]

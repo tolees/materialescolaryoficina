@@ -5,7 +5,7 @@ date: 2020-06-28 11:32:53
 image: 'https://m.media-amazon.com/images/I/413DGMX68+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089T14DRV-es UMBRO Padded Roll Top Backpack'
 sku: 'B089T14DRV-es'
 tags: [ 'backpack', ]

@@ -5,7 +5,7 @@ date: 2020-01-20 13:21:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31QCBzXjIPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3YM2CM-es Carlos belleza instrumento instrumento de masaje de los...'
 sku: 'B07N3YM2CM-es'
 tags: [ 'lápiz', ]

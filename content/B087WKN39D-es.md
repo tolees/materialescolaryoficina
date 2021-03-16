@@ -5,7 +5,7 @@ date: 2020-09-02 06:19:55
 image: 'https://m.media-amazon.com/images/I/41feMC3egVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WKN39D-es WERNNSAI Luau Flamenco Suministros para la Fiesta - 12 PCS...'
 sku: 'B087WKN39D-es'
 tags: [ 'mochila', ]

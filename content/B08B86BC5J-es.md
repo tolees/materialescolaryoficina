@@ -5,7 +5,7 @@ date: 2020-08-10 13:41:15
 image: 'https://m.media-amazon.com/images/I/51WP7Uut+jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B86BC5J-es Mochila Niña 3 en 1 Sets de Bolsas Escolares Primaria...'
 sku: 'B08B86BC5J-es'
 tags: [ 'mochila', ]

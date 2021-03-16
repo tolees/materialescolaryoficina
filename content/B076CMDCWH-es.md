@@ -5,7 +5,7 @@ date: 2020-02-09 10:20:08
 image: 'https://m.media-amazon.com/images/I/31U4MYLaYmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CMDCWH-es Samsonite Guardit UP 14.1" Mochila Negro - Funda Mochila...'
 sku: 'B076CMDCWH-es'
 tags: [ 'mochila', ]

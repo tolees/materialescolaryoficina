@@ -5,7 +5,7 @@ date: 2020-08-03 13:43:20
 image: 'https://m.media-amazon.com/images/I/61sMAp4iOVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FDW78C-es Rotuladores de Pintura Acrílica 18 Colores，0.7mm...'
 sku: 'B088FDW78C-es'
 tags: [ 'rotuladores', ]

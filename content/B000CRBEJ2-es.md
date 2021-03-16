@@ -5,7 +5,7 @@ date: 2020-10-04 10:04:02
 image: 'https://m.media-amazon.com/images/I/317kycTnnbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000CRBEJ2-es Eastpak Padded Pak r Mochila 40 cm 24 L Negro Black'
 sku: 'B000CRBEJ2-es'
 tags: [ 'mochila', ]

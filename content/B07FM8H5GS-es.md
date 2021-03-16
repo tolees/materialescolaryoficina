@@ -5,7 +5,7 @@ date: 2020-08-14 16:25:50
 image: 'https://m.media-amazon.com/images/I/41FSy9OdJ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM8H5GS-es Estudiantes estuche ElectriBrite Estuche lapices Estuche...'
 sku: 'B07FM8H5GS-es'
 tags: [ 'lápices', ]

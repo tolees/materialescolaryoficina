@@ -5,7 +5,7 @@ date: 2020-03-23 08:12:53
 image: 'https://m.media-amazon.com/images/I/310JjqpwO3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0716R3CPV-es Bourjois Khol & Contour Lápiz de ojos Tono 3 Misti-gris -...'
 sku: 'B0716R3CPV-es'
 tags: [ 'lápiz', ]

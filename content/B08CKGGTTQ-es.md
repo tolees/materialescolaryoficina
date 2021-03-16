@@ -5,7 +5,7 @@ date: 2020-09-23 14:33:51
 image: 'https://m.media-amazon.com/images/I/31Ga1bGoz9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKGGTTQ-es APLI 18419 - Estuche silicona Fluor Collection - Rosa'
 sku: 'B08CKGGTTQ-es'
 tags: [ 'apli', ]

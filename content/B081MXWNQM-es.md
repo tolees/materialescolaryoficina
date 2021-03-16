@@ -5,7 +5,7 @@ date: 2020-03-22 23:03:52
 image: 'https://m.media-amazon.com/images/I/417eJpji0HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081MXWNQM-es SHIELDON Mochila para Portátil 17 Pulgadas Mochila...'
 sku: 'B081MXWNQM-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 17:50:37
 image: 'https://m.media-amazon.com/images/I/51G8ETD4dyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CDI0K02-es APLI 11915 - Clips mariposa galvanizados nº 20 60 mm 25 clips'
 sku: 'B00CDI0K02-es'
 tags: [ 'apli', ]

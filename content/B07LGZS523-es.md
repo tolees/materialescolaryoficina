@@ -5,7 +5,7 @@ date: 2020-04-06 13:13:25
 image: 'https://m.media-amazon.com/images/I/41UtAK5mQOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGZS523-es Tablero de dibujo Juego de pintura para proyector Juego de...'
 sku: 'B07LGZS523-es'
 tags: [ 'bolígrafos', ]

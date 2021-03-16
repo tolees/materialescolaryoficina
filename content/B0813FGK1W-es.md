@@ -5,7 +5,7 @@ date: 2020-09-21 21:52:40
 image: 'https://m.media-amazon.com/images/I/51hJD8MIbcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813FGK1W-es Portalápices 5 Piezas de Escritorio de Organizador de...'
 sku: 'B0813FGK1W-es'
 tags: [ 'lápices', ]

@@ -5,7 +5,7 @@ date: 2020-07-10 17:04:10
 image: 'https://m.media-amazon.com/images/I/51zFPChrInL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LAZLPBG-es V-SOL Vintage Floral Bolsa Bolsillo Escolar de Lápiz...'
 sku: 'B01LAZLPBG-es'
 tags: [ 'bolígrafo','escolar','lápiz', ]

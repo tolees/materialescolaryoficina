@@ -5,7 +5,7 @@ date: 2020-02-05 10:50:50
 image: 'https://m.media-amazon.com/images/I/41TpaY-7QlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LLMX62-es STAEDTLER FIMO soft ofenhärtende Modelliermasse Kartonetui...'
 sku: 'B000LLMX62-es'
 tags: [ 'fimo', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 12:56:49
 image: 'https://m.media-amazon.com/images/I/41KHJOe4UiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KO6GO8M-es BIC Cristal Soft bolígrafos punta media 1 2 mm - Azul...'
 sku: 'B00KO6GO8M-es'
 tags: [ 'bic','bolígrafos','cristal', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 15:32:39
 image: 'https://m.media-amazon.com/images/I/31gW-l53d1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000QC2ZQO-es Trixie Tijeras Punta Redonda INOX Cara y Patas 9 cm'
 sku: 'B000QC2ZQO-es'
 tags: [ 'tijeras', ]

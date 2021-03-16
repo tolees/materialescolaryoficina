@@ -5,7 +5,7 @@ date: 2020-04-16 18:23:35
 image: 'https://m.media-amazon.com/images/I/41zcWV7tV6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNL6ZG3-es E·Durable Mini Pistolas de encolar con 30 Piezas Barras de...'
 sku: 'B07FNL6ZG3-es'
 tags: [ 'barras','de','pegamento', ]

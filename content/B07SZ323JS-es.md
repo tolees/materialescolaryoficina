@@ -5,7 +5,7 @@ date: 2020-09-06 14:14:03
 image: 'https://m.media-amazon.com/images/I/41b3pEsUhdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZ323JS-es Mochila 40cm con carro Pepe Jeans Pam'
 sku: 'B07SZ323JS-es'
 tags: [ 'mochila', ]

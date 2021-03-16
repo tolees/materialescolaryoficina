@@ -5,7 +5,7 @@ date: 2020-02-12 04:08:06
 image: 'https://m.media-amazon.com/images/I/41yN-+LBm5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KTD2XS-es RAPID 20942903 - Grapadora eléctrica modelo 90EC color blanco'
 sku: 'B000KTD2XS-es'
 tags: [ 'grapadora', ]

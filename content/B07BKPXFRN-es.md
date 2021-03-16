@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Harry Potter KM-38194 2018 Mochila Tipo  al 49.90 % de descuento'
-date: 2021-03-15 16:09:51
+date: 2021-03-16 16:23:43
 image: 'https://m.media-amazon.com/images/I/51p1XfnOSVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BKPXFRN-es Harry Potter KM-38194 2018 Mochila Tipo Casual 40 cm 1...'
 sku: 'B07BKPXFRN-es'
-tags: [ 'mochila', ]
+tags: [ 'harry potter','mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARRY POTTER'
 buyurl: 'https://www.amazon.es/dp/B07BKPXFRN/?tag=tolees-21'
 descuento: '49.90'
-average: '21.3766666666667'
+average: '21.0300000000001'
 ---
 
 Ahora mismo tienes [Harry Potter KM-38194 2018 Mochila Tipo Casual  40 cm  1 litro  Multicolor](https://www.amazon.es/dp/B07BKPXFRN/?tag=tolees-21) a 19.99 EUR (original: 39.9 EUR) (49.90 %  de descuento) en el siguiente enlace!
@@ -29,7 +29,7 @@ Ahora mismo tienes [Harry Potter KM-38194 2018 Mochila Tipo Casual  40 cm  1 lit
 🔎:
 
 - Licencia 100% original
-- Tipología Mochilas sin carro
 - Producto oficial Harry Potter
+- Tipología Mochilas sin carro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BKPXFRN/?tag=tolees-21)

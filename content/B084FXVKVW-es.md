@@ -5,7 +5,7 @@ date: 2020-09-01 03:42:38
 image: 'https://m.media-amazon.com/images/I/51PYVgLhnbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084FXVKVW-es K&F Concept Mochila Fotografia para Cámara Reflex con...'
 sku: 'B084FXVKVW-es'
 tags: [ 'mochila', ]

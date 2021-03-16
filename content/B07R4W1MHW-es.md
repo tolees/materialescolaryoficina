@@ -5,7 +5,7 @@ date: 2019-12-31 19:48:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51IbLtymA0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4W1MHW-es Viedouce Mochila Portabebes Ergonómico Multifuncion...'
 sku: 'B07R4W1MHW-es'
 tags: [ 'mochila', ]

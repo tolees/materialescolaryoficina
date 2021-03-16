@@ -5,7 +5,7 @@ date: 2020-07-02 11:29:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41E3XbXd2nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DPCMVP-es Cuaderno Inteligente Reutilizable - NEWYES Libreta de B5...'
 sku: 'B079DPCMVP-es'
 tags: [ 'bolígrafo', ]

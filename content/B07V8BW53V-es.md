@@ -5,7 +5,7 @@ date: 2020-05-28 08:46:38
 image: 'https://m.media-amazon.com/images/I/51Hs9X3lnPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8BW53V-es Acmebon Mochilas Modernas espaciosas y Lindas para niñas...'
 sku: 'B07V8BW53V-es'
 tags: [ 'escolar', ]

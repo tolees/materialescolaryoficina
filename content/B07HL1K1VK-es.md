@@ -5,7 +5,7 @@ date: 2020-01-15 08:54:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415GGtYkHhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL1K1VK-es Head Tour Team Backpack Bolsa de Tenis Adultos Unisex...'
 sku: 'B07HL1K1VK-es'
 tags: [ 'backpack', ]

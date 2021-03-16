@@ -5,7 +5,7 @@ date: 2020-09-28 01:06:56
 image: 'https://m.media-amazon.com/images/I/41wwcOCuLsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079WJJPHF-es Pentel SES15-4COL - Estuche rotulador punta pincel 4...'
 sku: 'B079WJJPHF-es'
 tags: [ 'pentel','rotulador', ]

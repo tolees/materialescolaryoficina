@@ -5,7 +5,7 @@ date: 2020-09-01 03:30:51
 image: 'https://m.media-amazon.com/images/I/31mu9Zy3IHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDYZ9PV-es Samsonite 2WM - Mochila para portátil M de 15.6 pulgadas -...'
 sku: 'B07PDYZ9PV-es'
 tags: [ 'mochila', ]

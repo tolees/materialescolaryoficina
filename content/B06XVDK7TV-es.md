@@ -5,7 +5,7 @@ date: 2020-04-17 07:58:42
 image: 'https://m.media-amazon.com/images/I/21BdejhAssL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XVDK7TV-es HP 1MR94AA - Lápiz para Tableta'
 sku: 'B06XVDK7TV-es'
 tags: [ 'lápiz', ]

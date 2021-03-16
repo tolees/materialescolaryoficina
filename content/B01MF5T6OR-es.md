@@ -5,7 +5,7 @@ date: 2020-01-25 15:53:41
 image: 'https://m.media-amazon.com/images/I/31zvLXfOWnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MF5T6OR-es Parker Urban 1931578 - Bolígrafo purpurina plateada...'
 sku: 'B01MF5T6OR-es'
 tags: [ 'bolígrafo', ]

@@ -5,7 +5,7 @@ date: 2020-09-08 10:45:46
 image: 'https://m.media-amazon.com/images/I/41rWpWDZDwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJSS7HY-es Mochila Escolar USAMYNA Teens para Mujeres College Girls...'
 sku: 'B07WJSS7HY-es'
 tags: [ 'escolar','mochila', ]

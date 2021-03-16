@@ -5,7 +5,7 @@ date: 2020-04-18 01:41:15
 image: 'https://m.media-amazon.com/images/I/31NwH0PMXrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HOFLZ5S-es APLI 13325 - Pack de 10 rollos de papel Electra 75 x 65 x...'
 sku: 'B00HOFLZ5S-es'
 tags: [ 'apli', ]

@@ -5,7 +5,7 @@ date: 2020-03-29 14:24:25
 image: 'https://m.media-amazon.com/images/I/31SjIZYVycL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CBHQI9W-es L´Oréal Paris Make Up Artist Eyeliner Super Liner...'
 sku: 'B00CBHQI9W-es'
 tags: [ 'lápiz', ]

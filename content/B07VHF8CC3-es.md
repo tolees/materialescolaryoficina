@@ -5,7 +5,7 @@ date: 2020-09-21 10:10:44
 image: 'https://m.media-amazon.com/images/I/51yk-pXmo4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHF8CC3-es CARIOCA Estuche Pixel | Estuche 3 Cremalleras con Material...'
 sku: 'B07VHF8CC3-es'
 tags: [ 'escolar','lápices','material','rotuladores', ]

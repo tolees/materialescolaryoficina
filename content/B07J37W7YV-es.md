@@ -5,7 +5,7 @@ date: 2020-04-01 08:37:30
 image: 'https://m.media-amazon.com/images/I/419liKB63oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J37W7YV-es Under Armour Hustle 4.0 Mochila Unisex Adulto Gris OSFA'
 sku: 'B07J37W7YV-es'
 tags: [ 'mochila', ]

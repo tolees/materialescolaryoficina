@@ -5,7 +5,7 @@ date: 2020-01-07 12:35:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31T6lwBZ1gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9JBXVQ-es Parfois - Mochila Detalles Efecto Ante - Mujeres - Tallas...'
 sku: 'B07X9JBXVQ-es'
 tags: [ 'mochila', ]

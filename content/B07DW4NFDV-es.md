@@ -5,7 +5,7 @@ date: 2020-04-07 22:11:47
 image: 'https://m.media-amazon.com/images/I/41Q2dMbJ9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW4NFDV-es Pepe Jeans Jessa Mochila Escolar 43 cm 28.9 litros Negro'
 sku: 'B07DW4NFDV-es'
 tags: [ 'escolar','mochila', ]

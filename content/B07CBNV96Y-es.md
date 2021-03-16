@@ -5,7 +5,7 @@ date: 2020-01-03 16:35:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51CF6GeYcFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBNV96Y-es Samsonite Disney Ultimate 2.0 - Mochila Infantil S+ 35 cm...'
 sku: 'B07CBNV96Y-es'
 tags: [ 'mochila', ]

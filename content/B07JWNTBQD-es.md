@@ -5,7 +5,7 @@ date: 2020-09-17 03:43:47
 image: 'https://m.media-amazon.com/images/I/41+F36O3yrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWNTBQD-es Lowepro Whistler Backpack 350 AW II Negro - Funda Gris'
 sku: 'B07JWNTBQD-es'
 tags: [ 'backpack', ]

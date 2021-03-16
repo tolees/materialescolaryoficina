@@ -5,7 +5,7 @@ date: 2020-09-26 12:00:54
 image: 'https://m.media-amazon.com/images/I/31Rl1+vQFHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F469YVF-es 12 lápices de colores diferentes con sacapuntas lápices de...'
 sku: 'B08F469YVF-es'
 tags: [ 'lápices', ]

@@ -5,7 +5,7 @@ date: 2020-09-10 12:01:35
 image: 'https://m.media-amazon.com/images/I/41leu2I8gEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H1E5JUY-es Jovi 71 - Plastilina color rojo'
 sku: 'B00H1E5JUY-es'
 tags: [ 'plastilina', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 09:14:17
 image: 'https://m.media-amazon.com/images/I/51+JNLC1ZsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005I4ESPG-es Pentel Ain Stein - Minas para portaminas 0.7 x 60 mm...'
 sku: 'B005I4ESPG-es'
 tags: [ 'pentel','portaminas', ]

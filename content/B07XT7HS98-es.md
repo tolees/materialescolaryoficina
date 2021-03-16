@@ -5,7 +5,7 @@ date: 2020-04-13 00:50:10
 image: 'https://m.media-amazon.com/images/I/51SNpRd+9aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XT7HS98-es Syolee Tool - Lápiz Capacitivo para Pantalla táctil...'
 sku: 'B07XT7HS98-es'
 tags: [ 'lápiz', ]

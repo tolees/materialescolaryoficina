@@ -5,7 +5,7 @@ date: 2020-03-05 16:42:30
 image: 'https://m.media-amazon.com/images/I/31F7o3AHodL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002LCWBM-es Fiskars 1003859 - Tijeras para niños color azul or verde'
 sku: 'B0002LCWBM-es'
 tags: [ 'tijeras', ]

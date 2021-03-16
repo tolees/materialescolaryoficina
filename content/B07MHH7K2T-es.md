@@ -5,7 +5,7 @@ date: 2020-04-22 13:03:51
 image: 'https://m.media-amazon.com/images/I/41kFutkOsdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHH7K2T-es iSuperb Bolsas de Cuerdas para Viajes Gimnasio Mochila con...'
 sku: 'B07MHH7K2T-es'
 tags: [ 'mochila', ]

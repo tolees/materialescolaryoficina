@@ -5,7 +5,7 @@ date: 2020-06-07 11:45:46
 image: 'https://m.media-amazon.com/images/I/518+aP6nHCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077KV2MZG-es Mimoo Pintura Facial Ninos 16 Colores Halloween Niño Kit...'
 sku: 'B077KV2MZG-es'
 tags: [ 'lápices', ]

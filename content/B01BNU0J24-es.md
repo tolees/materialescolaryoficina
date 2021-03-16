@@ -5,7 +5,7 @@ date: 2020-09-10 18:34:24
 image: 'https://m.media-amazon.com/images/I/31VW3X9Zw7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BNU0J24-es Roncato Mochila Porta Computador Ironik - cm. 40 x 55 x 20...'
 sku: 'B01BNU0J24-es'
 tags: [ 'mochila', ]

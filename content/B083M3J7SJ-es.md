@@ -5,7 +5,7 @@ date: 2020-05-20 07:01:54
 image: 'https://m.media-amazon.com/images/I/41N3k2nuyWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083M3J7SJ-es Bolsa de pañales de tela portátil reutilizable a prueba de...'
 sku: 'B083M3J7SJ-es'
 tags: [ 'mochila', ]

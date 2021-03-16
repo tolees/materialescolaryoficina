@@ -5,7 +5,7 @@ date: 2020-09-01 03:30:52
 image: 'https://m.media-amazon.com/images/I/51neK6-D8bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WKFF94-es Pelikan Premium Textmarker Rotuladores fluorescentes...'
 sku: 'B000WKFF94-es'
 tags: [ 'escolar','rotuladores', ]

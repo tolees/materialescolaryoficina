@@ -5,7 +5,7 @@ date: 2020-08-16 17:46:15
 image: 'https://m.media-amazon.com/images/I/41OR9SzBMHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWTWVMK-es TOMSHOO Mochila de hidratación Mochila con vejiga de Agua...'
 sku: 'B07TWTWVMK-es'
 tags: [ 'mochila', ]

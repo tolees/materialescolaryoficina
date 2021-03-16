@@ -5,7 +5,7 @@ date: 2020-03-14 02:44:14
 image: 'https://m.media-amazon.com/images/I/51IFDti8HJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014LKT6AE-es Lego Ninjago Mochila para niños Ninja'
 sku: 'B014LKT6AE-es'
 tags: [ 'mochila', ]

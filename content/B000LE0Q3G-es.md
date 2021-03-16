@@ -5,7 +5,7 @@ date: 2020-08-13 11:03:12
 image: 'https://m.media-amazon.com/images/I/51JOQLYsr5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LE0Q3G-es APLI 1787 - Etiquetas blancas permanentes 210 0 x 148 0 mm...'
 sku: 'B000LE0Q3G-es'
 tags: [ 'apli', ]

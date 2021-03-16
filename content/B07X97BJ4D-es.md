@@ -5,7 +5,7 @@ date: 2020-08-09 08:55:29
 image: 'https://m.media-amazon.com/images/I/41qArKtwTSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X97BJ4D-es KingsLong Mochila Portatil Mujer &Hombre Mochila Pare...'
 sku: 'B07X97BJ4D-es'
 tags: [ 'mochila', ]

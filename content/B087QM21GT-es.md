@@ -5,7 +5,7 @@ date: 2020-08-14 21:00:32
 image: 'https://m.media-amazon.com/images/I/11mh07PPQeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QM21GT-es Huawei Pen - Lápiz óptico para MatePad Pro'
 sku: 'B087QM21GT-es'
 tags: [ 'lápiz', ]

@@ -5,7 +5,7 @@ date: 2020-07-09 23:51:56
 image: 'https://m.media-amazon.com/images/I/51S-MY+cP-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082QQJPNW-es Filamento PLA Oro Ultra Seda 1.75mm ERYONE Impresión 3D...'
 sku: 'B082QQJPNW-es'
 tags: [ 'bolígrafo', ]

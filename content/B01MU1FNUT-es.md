@@ -5,7 +5,7 @@ date: 2020-02-18 16:02:50
 image: 'https://m.media-amazon.com/images/I/41SVBRibtPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU1FNUT-es Rapesco Eco HD-100 - Grapadora de gruesos 100 hojas mas...'
 sku: 'B01MU1FNUT-es'
 tags: [ 'grapadora', ]

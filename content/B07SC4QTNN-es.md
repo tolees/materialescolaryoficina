@@ -5,7 +5,7 @@ date: 2020-09-15 12:13:38
 image: 'https://m.media-amazon.com/images/I/41f9f70zApL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC4QTNN-es Helly Hansen Loke Backpack Mochila Unisex adulto Oxblood 25L'
 sku: 'B07SC4QTNN-es'
 tags: [ 'backpack','mochila', ]

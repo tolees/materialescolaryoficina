@@ -5,7 +5,7 @@ date: 2020-01-22 11:37:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41B8leeci9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRMDNMF-es Mochila con carro Pepe Jeans Olaia doble compartimento...'
 sku: 'B07DRMDNMF-es'
 tags: [ 'mochila', ]

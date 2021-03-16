@@ -5,7 +5,7 @@ date: 2020-01-30 18:55:25
 image: 'https://m.media-amazon.com/images/I/51aVMj5D-CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BYC24LA-es AtmosFlare- Disney Boligrafo 3D Miscelanea Giochi Preziosi...'
 sku: 'B01BYC24LA-es'
 tags: [ 'boligrafo', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 00:25:08
 image: 'https://m.media-amazon.com/images/I/4116gR6DHPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJOZ2A-es Q-Connect - Cinta Adhesiva Kf02164 33 M X 19 Mm Transparente'
 sku: 'B000KJOZ2A-es'
 tags: [ 'adhesiva','cinta', ]

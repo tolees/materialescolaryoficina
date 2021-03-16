@@ -5,7 +5,7 @@ date: 2020-09-22 14:30:26
 image: 'https://m.media-amazon.com/images/I/3143O6w+vaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CSB4D9-es Samsonite Network 3 39 6 cm 15.6" Mochila Azul - Funda...'
 sku: 'B076CSB4D9-es'
 tags: [ 'mochila', ]

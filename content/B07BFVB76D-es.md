@@ -5,7 +5,7 @@ date: 2020-06-02 06:45:48
 image: 'https://m.media-amazon.com/images/I/41LpniNxF8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFVB76D-es Ruwhere - Lápiz para cejas en 6 colores resistente al agua...'
 sku: 'B07BFVB76D-es'
 tags: [ 'lápiz', ]

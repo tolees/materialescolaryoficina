@@ -5,7 +5,7 @@ date: 2020-04-15 08:42:32
 image: 'https://m.media-amazon.com/images/I/51cvDqGFlOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHPHSPF-es Scratch Tools juego de lápices de colores de doble punta...'
 sku: 'B07PHPHSPF-es'
 tags: [ 'colorear','lápices', ]

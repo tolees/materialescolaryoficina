@@ -5,7 +5,7 @@ date: 2020-03-13 17:11:10
 image: 'https://m.media-amazon.com/images/I/21s768HfTkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TGV5V0S-es L Oréal Paris Lápiz de Labios Lip Liner Couture by Color...'
 sku: 'B00TGV5V0S-es'
 tags: [ 'lápiz', ]

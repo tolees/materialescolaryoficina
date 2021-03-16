@@ -5,7 +5,7 @@ date: 2020-08-30 06:10:38
 image: 'https://m.media-amazon.com/images/I/51neyK2WQiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083MWZJPH-es RJEU Mochila Mujer 15.6-17.3 Pulgadas Mochila Ordenador...'
 sku: 'B083MWZJPH-es'
 tags: [ 'mochila', ]

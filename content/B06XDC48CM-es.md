@@ -5,7 +5,7 @@ date: 2020-10-09 15:48:40
 image: 'https://m.media-amazon.com/images/I/51AovIdRW0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDC48CM-es BIC Kids Kid Couleur rotuladores punta media - colores...'
 sku: 'B06XDC48CM-es'
 tags: [ 'rotuladores', ]

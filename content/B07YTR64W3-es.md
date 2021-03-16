@@ -5,7 +5,7 @@ date: 2020-06-01 09:06:40
 image: 'https://m.media-amazon.com/images/I/41y4NXKIWbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YTR64W3-es Samsonite Paradiver Light Mochila Infantil S+ 42 cm 10 L...'
 sku: 'B07YTR64W3-es'
 tags: [ 'mochila', ]

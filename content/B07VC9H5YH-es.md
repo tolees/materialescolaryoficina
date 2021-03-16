@@ -5,7 +5,7 @@ date: 2020-02-05 17:27:18
 image: 'https://m.media-amazon.com/images/I/41cV9MvfroL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC9H5YH-es Pepe Jeans Mochila 28 cm 6.72 Liters Azul'
 sku: 'B07VC9H5YH-es'
 tags: [ 'mochila', ]

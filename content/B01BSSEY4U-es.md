@@ -5,7 +5,7 @@ date: 2020-04-13 22:02:18
 image: 'https://m.media-amazon.com/images/I/31lmzJNBw4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSSEY4U-es Westcott - Tijeras infantiles para diestros'
 sku: 'B01BSSEY4U-es'
 tags: [ 'tijeras', ]

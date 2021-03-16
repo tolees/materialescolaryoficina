@@ -5,7 +5,7 @@ date: 2020-03-26 08:55:35
 image: 'https://m.media-amazon.com/images/I/41epxmqZ5+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z56J4PH-es Cartucho de Fono Giratorio con lápiz de Repuesto Negro y...'
 sku: 'B07Z56J4PH-es'
 tags: [ 'lápiz', ]

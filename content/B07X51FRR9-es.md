@@ -5,7 +5,7 @@ date: 2020-04-26 14:38:45
 image: 'https://m.media-amazon.com/images/I/314XP4QJ7PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X51FRR9-es Eastpak Orbit Mochila 34 cm 10 L Azul Arctic Blue'
 sku: 'B07X51FRR9-es'
 tags: [ 'mochila', ]

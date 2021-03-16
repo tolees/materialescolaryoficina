@@ -5,7 +5,7 @@ date: 2020-01-30 22:45:01
 image: 'https://m.media-amazon.com/images/I/41HN6TP676L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY1Q2YO-es Parker Urban 1931566 - Bolígrafo roller azul oscuro...'
 sku: 'B01LY1Q2YO-es'
 tags: [ 'bolígrafo', ]

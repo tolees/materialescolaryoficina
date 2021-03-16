@@ -5,7 +5,7 @@ date: 2020-06-22 09:14:55
 image: 'https://m.media-amazon.com/images/I/51sXLjCt56L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNSHGN6-es Under Armour Hustle 4.0 Mochila para portátil de 26 l...'
 sku: 'B07NNSHGN6-es'
 tags: [ 'mochila', ]

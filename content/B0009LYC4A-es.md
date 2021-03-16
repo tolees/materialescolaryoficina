@@ -5,7 +5,7 @@ date: 2020-03-14 00:19:10
 image: 'https://m.media-amazon.com/images/I/51paUi31c7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009LYC4A-es DYMO D1 - Etiquetas Auténticas Impresión Negra sobre Fondo...'
 sku: 'B0009LYC4A-es'
 tags: [ 'dymo', ]

@@ -5,7 +5,7 @@ date: 2020-07-01 04:14:05
 image: 'https://m.media-amazon.com/images/I/512C-ybkgEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDNPQ11-es BabbleRoo Mochilas de Pañales para Bebé Gran Capacidad...'
 sku: 'B07WDNPQ11-es'
 tags: [ 'mochila', ]

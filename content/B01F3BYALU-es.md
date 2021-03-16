@@ -5,7 +5,7 @@ date: 2020-05-14 13:31:44
 image: 'https://m.media-amazon.com/images/I/51o+nQhercL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F3BYALU-es Paper Mate InkJoy 100RT bolígrafo retráctil punta media de...'
 sku: 'B01F3BYALU-es'
 tags: [ 'bolígrafo', ]

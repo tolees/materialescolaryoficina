@@ -5,7 +5,7 @@ date: 2020-09-14 16:46:02
 image: 'https://m.media-amazon.com/images/I/41Q4aV7llSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075STMNT3-es Joymoze Bonita Mochila Escolar Impermeable para Niños y...'
 sku: 'B075STMNT3-es'
 tags: [ 'escolar','mochila', ]

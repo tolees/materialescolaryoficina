@@ -5,7 +5,7 @@ date: 2020-03-05 11:34:38
 image: 'https://m.media-amazon.com/images/I/41VpT4g-QcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J1Y8AMG-es edding 4200-6-S-000 - Estuche con 6 rotuladores para...'
 sku: 'B00J1Y8AMG-es'
 tags: [ 'rotuladores', ]

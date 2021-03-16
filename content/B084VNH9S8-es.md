@@ -5,7 +5,7 @@ date: 2020-03-12 12:04:56
 image: 'https://m.media-amazon.com/images/I/31LE1IfvBvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084VNH9S8-es Triamisu Nueva Marca y bolígrafo Pad Phone 4G Conveniente...'
 sku: 'B084VNH9S8-es'
 tags: [ 'bolígrafo', ]

@@ -5,7 +5,7 @@ date: 2020-09-17 12:58:56
 image: 'https://m.media-amazon.com/images/I/41M7gl1j1yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SD5C27I-es Faber-Castell 32722-8 - Compás de ajuste rápido con...'
 sku: 'B00SD5C27I-es'
 tags: [ 'faber-castell', ]

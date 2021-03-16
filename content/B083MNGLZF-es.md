@@ -5,7 +5,7 @@ date: 2020-04-26 14:17:53
 image: 'https://m.media-amazon.com/images/I/51O9SFWB6AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083MNGLZF-es BIC 4 Colores Bolígrafos de Punta Media 1 0 mm - Cuerpo de...'
 sku: 'B083MNGLZF-es'
 tags: [ 'bolígrafos', ]

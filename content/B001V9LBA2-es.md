@@ -5,7 +5,7 @@ date: 2020-07-18 13:32:10
 image: 'https://m.media-amazon.com/images/I/31yEseQV8fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001V9LBA2-es Rimmel London Exaggerate lápiz de ojos a prueba de agua -...'
 sku: 'B001V9LBA2-es'
 tags: [ 'lápiz', ]

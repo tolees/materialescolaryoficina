@@ -5,7 +5,7 @@ date: 2020-08-15 02:03:37
 image: 'https://m.media-amazon.com/images/I/21j6sJDAKxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004H4ITQC-es Pilot IC-50 Negras – Cartuchos para bolígrafos Pluma...'
 sku: 'B004H4ITQC-es'
 tags: [ 'bolígrafos', ]

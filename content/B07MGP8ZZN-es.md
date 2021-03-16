@@ -5,7 +5,7 @@ date: 2020-07-23 14:37:34
 image: 'https://m.media-amazon.com/images/I/31mJFPMZ+0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGP8ZZN-es Parker Jotter Originals colección de bolígrafos acabado...'
 sku: 'B07MGP8ZZN-es'
 tags: [ 'bolígrafos', ]

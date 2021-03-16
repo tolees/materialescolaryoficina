@@ -5,7 +5,7 @@ date: 2020-07-26 16:06:43
 image: 'https://m.media-amazon.com/images/I/41I3cSrmeKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0007OEE1K-es Rotulador STABILO Pen 68 - Estuche con 10 colores'
 sku: 'B0007OEE1K-es'
 tags: [ 'rotulador','stabilo', ]

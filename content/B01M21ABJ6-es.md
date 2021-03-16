@@ -5,7 +5,7 @@ date: 2020-04-14 15:53:53
 image: 'https://m.media-amazon.com/images/I/41NamRTGofL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M21ABJ6-es Ergobaby Mochila Portabebé Ergonomica para Recién Nacido...'
 sku: 'B01M21ABJ6-es'
 tags: [ 'mochila', ]

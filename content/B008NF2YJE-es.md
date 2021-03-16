@@ -5,7 +5,7 @@ date: 2020-08-27 12:31:04
 image: 'https://m.media-amazon.com/images/I/41cx44Q2mSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008NF2YJE-es Case Logic - Mochila para portátiles de 16"/40 cm Color...'
 sku: 'B008NF2YJE-es'
 tags: [ 'mochila', ]

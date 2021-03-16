@@ -5,7 +5,7 @@ date: 2020-02-17 15:03:03
 image: 'https://m.media-amazon.com/images/I/419VNdDC7UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVSDJ12-es Cinta adhesiva antiarañazos para gatos para muebles...'
 sku: 'B07TVSDJ12-es'
 tags: [ 'adhesiva','cinta', ]

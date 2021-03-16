@@ -5,7 +5,7 @@ date: 2020-01-22 15:27:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31am-jZbuTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KY8WS1L-es Eastpak ORBIT Mochila tipo casual 33.5 x 23 x 15 cm 10...'
 sku: 'B07KY8WS1L-es'
 tags: [ 'mochila', ]

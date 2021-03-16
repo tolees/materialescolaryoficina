@@ -5,7 +5,7 @@ date: 2020-06-25 15:25:19
 image: 'https://m.media-amazon.com/images/I/41d0TzfleaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009FYMVBI-es BIC Matic Fun 0 7 HB Portaminas Automático – Diseño en...'
 sku: 'B009FYMVBI-es'
 tags: [ 'portaminas', ]

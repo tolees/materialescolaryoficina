@@ -5,7 +5,7 @@ date: 2020-02-28 06:04:31
 image: 'https://m.media-amazon.com/images/I/31s4Bx5fFqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGJYNTM-es Samsonite Checkmate Central Opening - Mochila para...'
 sku: 'B07PGJYNTM-es'
 tags: [ 'mochila', ]

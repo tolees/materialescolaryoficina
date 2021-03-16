@@ -5,7 +5,7 @@ date: 2020-05-12 04:06:09
 image: 'https://m.media-amazon.com/images/I/41iOYgMG9cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPJ9MKM-es Real Madrid CF Bolsa de Deporte Mochila con zapatillero...'
 sku: 'B07FPJ9MKM-es'
 tags: [ 'mochila', ]

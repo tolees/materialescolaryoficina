@@ -5,7 +5,7 @@ date: 2020-01-30 08:42:56
 image: 'https://m.media-amazon.com/images/I/512ln+c7xZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPWXN8H-es Mochila 32 cm Pepe Jeans Jareth'
 sku: 'B07NPWXN8H-es'
 tags: [ 'mochila', ]

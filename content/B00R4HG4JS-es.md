@@ -5,7 +5,7 @@ date: 2020-05-18 16:24:49
 image: 'https://m.media-amazon.com/images/I/51anbiZOJvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R4HG4JS-es Marcador fluorescente STABILO swing cool - Estuche con 6...'
 sku: 'B00R4HG4JS-es'
 tags: [ 'stabilo', ]

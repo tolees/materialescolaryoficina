@@ -5,7 +5,7 @@ date: 2020-10-02 10:23:02
 image: 'https://m.media-amazon.com/images/I/41iZ6Qo3cyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DJBH2PC-es Parker Jotter Kensington Red bolígrafo CT'
 sku: 'B01DJBH2PC-es'
 tags: [ 'bolígrafo', ]

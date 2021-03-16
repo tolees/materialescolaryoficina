@@ -5,7 +5,7 @@ date: 2020-08-18 17:27:28
 image: 'https://m.media-amazon.com/images/I/51h+LWxC-uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFGXYDK-es Pepe Jeans Irvin Mochila para portátil 15.6 Pulgadas'
 sku: 'B07WFGXYDK-es'
 tags: [ 'mochila', ]

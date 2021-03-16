@@ -5,7 +5,7 @@ date: 2020-06-09 10:15:38
 image: 'https://m.media-amazon.com/images/I/51kQ8jv7d9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDB3HDH-es KINGSLONG Mochila Portatil Mujer &Hombre Mochila Pare...'
 sku: 'B07MDB3HDH-es'
 tags: [ 'mochila', ]

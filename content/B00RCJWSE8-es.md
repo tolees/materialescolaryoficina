@@ -5,7 +5,7 @@ date: 2020-07-30 08:45:23
 image: 'https://m.media-amazon.com/images/I/51xLyDXEf9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RCJWSE8-es 3M Post-It 654-SS-VP24COL-EU - Pack de 24 x 90 notas...'
 sku: 'B00RCJWSE8-es'
 tags: [ 'post-it', ]

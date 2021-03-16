@@ -5,7 +5,7 @@ date: 2020-09-15 18:14:20
 image: 'https://m.media-amazon.com/images/I/51jv2s+gNEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WGX91E-es Staedler 326 WP10 - Estuche con 10 rotuladores Multicolor'
 sku: 'B000WGX91E-es'
 tags: [ 'rotuladores', ]

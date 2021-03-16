@@ -5,7 +5,7 @@ date: 2020-05-31 10:32:46
 image: 'https://m.media-amazon.com/images/I/41pfPaV+JRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XQ53GD3-es Staedtler 308 S1WP3 - Rotulador color negro'
 sku: 'B06XQ53GD3-es'
 tags: [ 'rotulador', ]

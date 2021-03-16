@@ -5,7 +5,7 @@ date: 2020-05-31 18:45:52
 image: 'https://m.media-amazon.com/images/I/61s8qAeK22L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P1C5B2X-es Demeu 11860 Banda Goma Trenzado:11 000 Bandas Trenzadas 28...'
 sku: 'B07P1C5B2X-es'
 tags: [ 'mochila', ]

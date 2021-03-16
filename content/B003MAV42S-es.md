@@ -5,7 +5,7 @@ date: 2020-02-28 11:38:38
 image: 'https://m.media-amazon.com/images/I/51E7SkZUUGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003MAV42S-es Flamastry Stabilo Power 30 sztuk'
 sku: 'B003MAV42S-es'
 tags: [ 'stabilo', ]

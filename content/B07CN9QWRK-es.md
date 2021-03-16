@@ -5,7 +5,7 @@ date: 2020-04-23 14:50:58
 image: 'https://m.media-amazon.com/images/I/41jTeSwTz+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN9QWRK-es Eastpak Padded Pak R - Mochila Verde Crafty Moss 24L 40 x...'
 sku: 'B07CN9QWRK-es'
 tags: [ 'mochila', ]

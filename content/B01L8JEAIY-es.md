@@ -5,7 +5,7 @@ date: 2020-03-05 19:21:32
 image: 'https://m.media-amazon.com/images/I/41TzIRlZDuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L8JEAIY-es CamelBak Lobo - Mochila de hidratación Rojo 3 litros Rojo...'
 sku: 'B01L8JEAIY-es'
 tags: [ 'mochila', ]

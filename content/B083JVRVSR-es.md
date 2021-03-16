@@ -5,7 +5,7 @@ date: 2020-08-22 13:14:28
 image: 'https://m.media-amazon.com/images/I/51kddhKdMfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JVRVSR-es Mochila para Niños de La Escuela Conjunto de 3 Piezas de...'
 sku: 'B083JVRVSR-es'
 tags: [ 'escolar','mochila', ]

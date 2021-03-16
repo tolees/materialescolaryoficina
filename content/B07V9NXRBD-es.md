@@ -5,7 +5,7 @@ date: 2020-01-15 10:09:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rO2b5KZdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9NXRBD-es Pepe Jeans Daphne Mochila Dos Compartimentos Con...'
 sku: 'B07V9NXRBD-es'
 tags: [ 'mochila', ]

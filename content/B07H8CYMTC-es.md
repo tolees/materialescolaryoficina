@@ -5,7 +5,7 @@ date: 2020-04-14 00:03:52
 image: 'https://m.media-amazon.com/images/I/51FpxFzEjfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8CYMTC-es Colorful Art Co Set Rotuladores punta pincel acuarela - 20...'
 sku: 'B07H8CYMTC-es'
 tags: [ 'rotulador','rotuladores', ]

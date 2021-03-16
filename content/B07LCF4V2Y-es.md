@@ -5,7 +5,7 @@ date: 2020-07-06 22:45:20
 image: 'https://m.media-amazon.com/images/I/41XYvc7YImL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCF4V2Y-es Newcom Mochila para Portátil 600D Poliéster Antirrobo y...'
 sku: 'B07LCF4V2Y-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-03-01 14:03:18
 image: 'https://m.media-amazon.com/images/I/41XgvlkU8BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007TYWDQE-es Faber-Castell - Vaso para el agua Clic & Go plegable fácil...'
 sku: 'B007TYWDQE-es'
 tags: [ 'faber-castell', ]

@@ -5,7 +5,7 @@ date: 2020-02-11 10:49:21
 image: 'https://m.media-amazon.com/images/I/51qFpVxGEbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFW1K45-es TANDES KIDS Máquina de burbujas para niños Rana de pompas...'
 sku: 'B07GFW1K45-es'
 tags: [ 'mochila', ]

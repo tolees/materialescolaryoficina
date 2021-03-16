@@ -5,7 +5,7 @@ date: 2020-09-09 00:30:52
 image: 'https://m.media-amazon.com/images/I/413ZLXGSk0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJCQ3QX-es ASUS ROG Ranger BP1500 maletines para portátil 39 6 cm...'
 sku: 'B07JJCQ3QX-es'
 tags: [ 'mochila', ]

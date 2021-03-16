@@ -5,7 +5,7 @@ date: 2020-06-06 14:25:17
 image: 'https://m.media-amazon.com/images/I/51nCvbgoi5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XY2TS34-es int!rend Caja de regalo | incluye 10 rotuladores metálicos...'
 sku: 'B07XY2TS34-es'
 tags: [ 'rotuladores', ]

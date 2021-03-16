@@ -5,7 +5,7 @@ date: 2020-09-21 12:01:07
 image: 'https://m.media-amazon.com/images/I/61rhqx0aGlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPVWM83-es Carioca Set Rotuladores Locos | Kit Rotuladores de Colores...'
 sku: 'B07VPVWM83-es'
 tags: [ 'rotuladores', ]

@@ -5,7 +5,7 @@ date: 2020-04-21 13:28:40
 image: 'https://m.media-amazon.com/images/I/51Iu6ycje7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CNYYJP2-es Staedtler Lumocolor 350 WP8. Rotuladores permanentes con...'
 sku: 'B01CNYYJP2-es'
 tags: [ 'rotuladores', ]

@@ -5,7 +5,7 @@ date: 2020-05-30 12:21:23
 image: 'https://m.media-amazon.com/images/I/51ttAgzpTmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJ94KRK-es Carpeta de Conferencias Wilbest A4 Carpeta de Cuero Las...'
 sku: 'B07CJ94KRK-es'
 tags: [ 'calculadora', ]

@@ -5,7 +5,7 @@ date: 2020-09-15 16:46:05
 image: 'https://m.media-amazon.com/images/I/5191J13eqpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDYRVDZ-es Juego de pintura de acuarela 48 colores profesionales 12...'
 sku: 'B08CDYRVDZ-es'
 tags: [ 'bolígrafo','lápiz', ]

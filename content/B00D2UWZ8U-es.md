@@ -5,7 +5,7 @@ date: 2020-04-15 15:41:40
 image: 'https://m.media-amazon.com/images/I/61pDrelI38L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D2UWZ8U-es BIC Kids Plastidecor - Blíster de 18 unidades ceras para...'
 sku: 'B00D2UWZ8U-es'
 tags: [ 'colorear','plastidecor', ]

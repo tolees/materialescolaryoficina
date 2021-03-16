@@ -5,7 +5,7 @@ date: 2020-08-27 08:34:04
 image: 'https://m.media-amazon.com/images/I/41xlM7BtZzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5WBSXT-es Karactermania Harry Potter Relic-Soft Rucksack Klein...'
 sku: 'B07S5WBSXT-es'
 tags: [ 'mochila', ]

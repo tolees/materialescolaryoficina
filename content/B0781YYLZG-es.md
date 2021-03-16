@@ -5,7 +5,7 @@ date: 2020-02-03 20:15:06
 image: 'https://m.media-amazon.com/images/I/41LFjyRoMpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781YYLZG-es Totto - Estuche escolar tres compartimentos 23 cm -...'
 sku: 'B0781YYLZG-es'
 tags: [ 'escolar', ]

@@ -5,7 +5,7 @@ date: 2020-04-14 10:32:11
 image: 'https://m.media-amazon.com/images/I/21Bj17PFO9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009GGTPMS-es Jovi 71 - Plastilina color verde claro'
 sku: 'B009GGTPMS-es'
 tags: [ 'plastilina', ]

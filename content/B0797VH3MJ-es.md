@@ -5,7 +5,7 @@ date: 2020-09-27 09:59:34
 image: 'https://m.media-amazon.com/images/I/51S9JWIyTjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797VH3MJ-es Kit Cuidado Set Barba con Libre Champu Barba Peine Barba...'
 sku: 'B0797VH3MJ-es'
 tags: [ 'tijeras', ]

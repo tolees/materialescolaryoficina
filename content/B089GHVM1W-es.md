@@ -5,7 +5,7 @@ date: 2020-07-10 23:33:37
 image: 'https://m.media-amazon.com/images/I/41jExMr1ZzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GHVM1W-es Mochila para Portátil Hombre 18 4 Pulgadas Impermeable...'
 sku: 'B089GHVM1W-es'
 tags: [ 'mochila', ]

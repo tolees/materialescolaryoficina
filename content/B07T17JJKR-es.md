@@ -5,7 +5,7 @@ date: 2020-06-19 14:24:37
 image: 'https://m.media-amazon.com/images/I/41uJkUUgPsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T17JJKR-es Armani Exchange Liz - Mochila 28 x 8 x 26 cm color Azul...'
 sku: 'B07T17JJKR-es'
 tags: [ 'mochila', ]

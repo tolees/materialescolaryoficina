@@ -5,7 +5,7 @@ date: 2020-01-25 16:47:08
 image: 'https://m.media-amazon.com/images/I/4193JMkkaOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WG7YJH9-es NU NUVO Híbrido PU Funda de Pantalla de activación/Soporte...'
 sku: 'B07WG7YJH9-es'
 tags: [ 'lápiz', ]

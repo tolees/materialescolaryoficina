@@ -5,7 +5,7 @@ date: 2020-09-03 06:21:29
 image: 'https://m.media-amazon.com/images/I/41asaLt4iLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMH3KGR-es CARIOCA Oops Retráctil Azul | Set Bolígrafos Borrables...'
 sku: 'B07VMH3KGR-es'
 tags: [ 'bolígrafos', ]

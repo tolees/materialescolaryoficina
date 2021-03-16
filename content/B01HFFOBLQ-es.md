@@ -5,7 +5,7 @@ date: 2020-04-15 00:46:27
 image: 'https://m.media-amazon.com/images/I/51MWENfe2eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HFFOBLQ-es Rotulador con Punta Fina de Pincel de Pelo para Caligrafia...'
 sku: 'B01HFFOBLQ-es'
 tags: [ 'rotulador', ]

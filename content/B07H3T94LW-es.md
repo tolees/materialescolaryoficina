@@ -5,7 +5,7 @@ date: 2020-01-20 07:10:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ha660%2BlwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3T94LW-es Nike Hayward Futura 2.0 Mochila Unisex Adulto Azul Blue...'
 sku: 'B07H3T94LW-es'
 tags: [ 'mochila', ]

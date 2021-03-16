@@ -5,7 +5,7 @@ date: 2020-02-23 10:31:51
 image: 'https://m.media-amazon.com/images/I/41WUL2GVh-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVJFRQF-es Lápiz Stylus Pen 40 Horas de Trabajo Continuo y de 30 días...'
 sku: 'B07GVJFRQF-es'
 tags: [ 'lápiz', ]

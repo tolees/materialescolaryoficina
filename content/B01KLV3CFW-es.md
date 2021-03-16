@@ -5,7 +5,7 @@ date: 2020-08-01 03:17:47
 image: 'https://m.media-amazon.com/images/I/41-iIMvg21L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KLV3CFW-es Under Armour Ua Hustle 3.0 Mochila Unisex Negro...'
 sku: 'B01KLV3CFW-es'
 tags: [ 'mochila','unisex', ]

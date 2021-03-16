@@ -5,7 +5,7 @@ date: 2020-08-24 00:03:14
 image: 'https://m.media-amazon.com/images/I/512uYTZ9ISL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8LQRCZ-es Antirrobo Mochila Seguridad Impermeable con Bloqueo...'
 sku: 'B07M8LQRCZ-es'
 tags: [ 'mochila', ]

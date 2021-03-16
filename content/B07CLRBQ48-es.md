@@ -5,7 +5,7 @@ date: 2020-08-23 18:48:18
 image: 'https://m.media-amazon.com/images/I/51LfO--4NTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLRBQ48-es BIC Intensity Fine - Blíster de 20 unidades rotulador...'
 sku: 'B07CLRBQ48-es'
 tags: [ 'rotulador', ]

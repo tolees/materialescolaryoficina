@@ -5,7 +5,7 @@ date: 2020-03-11 07:34:48
 image: 'https://m.media-amazon.com/images/I/51NgiUVm7sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OZQAYG-es Rotulador STABILO Pen 68 - Estuche premium Colorparade con...'
 sku: 'B000OZQAYG-es'
 tags: [ 'rotulador','stabilo', ]

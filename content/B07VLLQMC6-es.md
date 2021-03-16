@@ -5,7 +5,7 @@ date: 2020-07-17 21:19:49
 image: 'https://m.media-amazon.com/images/I/41zstjUxjXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLLQMC6-es Mochila grande de 43 L para hombre y mujer para hombres...'
 sku: 'B07VLLQMC6-es'
 tags: [ 'escolar','mochila', ]

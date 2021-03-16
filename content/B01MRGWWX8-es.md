@@ -5,7 +5,7 @@ date: 2020-02-25 11:44:08
 image: 'https://m.media-amazon.com/images/I/51zbGCrdzFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRGWWX8-es Columbus A08432 Mochila Plegable Unisex Adulto Azul Talla...'
 sku: 'B01MRGWWX8-es'
 tags: [ 'mochila', ]

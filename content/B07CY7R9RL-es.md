@@ -5,7 +5,7 @@ date: 2020-09-21 21:48:59
 image: 'https://m.media-amazon.com/images/I/41qSrdF3ssL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CY7R9RL-es American Tourister Urban Groove Lifestyle Laptop Backpack...'
 sku: 'B07CY7R9RL-es'
 tags: [ 'backpack','mochila', ]

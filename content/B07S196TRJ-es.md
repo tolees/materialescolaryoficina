@@ -5,7 +5,7 @@ date: 2020-09-27 11:52:59
 image: 'https://m.media-amazon.com/images/I/51f8jdj1oVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S196TRJ-es chaqlin - Juego de 3 bolsas de escuela para niños mochila...'
 sku: 'B07S196TRJ-es'
 tags: [ 'lápices','mochila', ]

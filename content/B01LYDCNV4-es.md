@@ -5,7 +5,7 @@ date: 2020-01-30 22:44:12
 image: 'https://m.media-amazon.com/images/I/41bhWK6JfKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYDCNV4-es Parker Urban 1931586 - Bolígrafo roller purpurina plateada...'
 sku: 'B01LYDCNV4-es'
 tags: [ 'bolígrafo', ]

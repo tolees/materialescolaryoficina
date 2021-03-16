@@ -5,7 +5,7 @@ date: 2020-05-28 15:25:14
 image: 'https://m.media-amazon.com/images/I/41Ahy1THprL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005HJQFV2-es Staedtler 334 SB6CS1. Rotuladores de punta fina Triplus...'
 sku: 'B005HJQFV2-es'
 tags: [ 'rotuladores', ]

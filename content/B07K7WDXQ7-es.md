@@ -5,7 +5,7 @@ date: 2020-06-06 20:45:54
 image: 'https://m.media-amazon.com/images/I/311r06EHKzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7WDXQ7-es Miquelrius - Mochila Pequeña Poliéster Cierres Cremallera...'
 sku: 'B07K7WDXQ7-es'
 tags: [ 'miquelrius','mochila', ]

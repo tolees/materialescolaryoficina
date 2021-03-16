@@ -5,7 +5,7 @@ date: 2020-09-23 09:31:01
 image: 'https://m.media-amazon.com/images/I/51uMhNC95ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNV1ZYW-es Meloive El Mejor Set de 72 lápices de Colores Mejores...'
 sku: 'B07CNV1ZYW-es'
 tags: [ 'colorear','lápices', ]

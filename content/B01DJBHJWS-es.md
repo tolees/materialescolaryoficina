@@ -5,7 +5,7 @@ date: 2020-08-20 10:27:51
 image: 'https://m.media-amazon.com/images/I/41ZWaZ1XgeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DJBHJWS-es Parker Jotter Premium Tower Grey Diagonal bolígrafo CT'
 sku: 'B01DJBHJWS-es'
 tags: [ 'bolígrafo', ]

@@ -5,7 +5,7 @@ date: 2020-05-24 17:44:16
 image: 'https://m.media-amazon.com/images/I/311iczb6r4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8MPG85-es AmazonBasics - Barras de pegamento lavable multiusos...'
 sku: 'B07F8MPG85-es'
 tags: [ 'barras','de','pegamento', ]

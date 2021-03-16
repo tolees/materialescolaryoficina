@@ -5,7 +5,7 @@ date: 2020-01-17 19:06:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BYIReIhVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVL6MRY-es KIWI Design dji Osmo Pocket Accesorios - Extension...'
 sku: 'B07QVL6MRY-es'
 tags: [ 'mochila', ]

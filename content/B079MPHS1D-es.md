@@ -5,7 +5,7 @@ date: 2020-06-18 10:46:48
 image: 'https://m.media-amazon.com/images/I/51xxClSYQEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MPHS1D-es Play Doh - Rex The Chomper Hasbro E1952EU5'
 sku: 'B079MPHS1D-es'
 tags: [ 'doh','play', ]

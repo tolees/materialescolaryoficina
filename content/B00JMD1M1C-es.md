@@ -5,7 +5,7 @@ date: 2020-01-28 11:59:35
 image: 'https://m.media-amazon.com/images/I/21ObDqw2ZML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JMD1M1C-es Faber-Castell 813 - Regla técnica 30 cm'
 sku: 'B00JMD1M1C-es'
 tags: [ 'faber-castell', ]

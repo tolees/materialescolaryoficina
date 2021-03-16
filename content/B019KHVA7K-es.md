@@ -5,7 +5,7 @@ date: 2020-04-28 10:48:39
 image: 'https://m.media-amazon.com/images/I/51Aj9sYG-0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019KHVA7K-es Arena Fastpack 2.1 Mochila Unisex Adulto Negro Black/Fluo...'
 sku: 'B019KHVA7K-es'
 tags: [ 'mochila', ]

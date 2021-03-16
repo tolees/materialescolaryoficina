@@ -5,7 +5,7 @@ date: 2020-01-16 10:25:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51QIzSYjCRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5FTZ29-es Mochila Saco Pepe Jeans Daniela Multicolor 44 cm'
 sku: 'B07T5FTZ29-es'
 tags: [ 'mochila', ]

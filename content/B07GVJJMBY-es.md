@@ -5,7 +5,7 @@ date: 2020-03-24 06:55:32
 image: 'https://m.media-amazon.com/images/I/41O0fvT-yJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVJJMBY-es Surface Pen 180 días de Trabajo 500hrs Standby Surface...'
 sku: 'B07GVJJMBY-es'
 tags: [ 'lápiz', ]

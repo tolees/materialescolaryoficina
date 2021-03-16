@@ -5,7 +5,7 @@ date: 2020-10-10 12:33:30
 image: 'https://m.media-amazon.com/images/I/51o-LdOlsnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N48CKPC-es Rotulador punta media 0 8 STABILO pointMax - Estuche con 8...'
 sku: 'B01N48CKPC-es'
 tags: [ 'rotulador','stabilo', ]

@@ -5,7 +5,7 @@ date: 2020-07-18 20:35:20
 image: 'https://m.media-amazon.com/images/I/51hF4fVCXSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRTBPV5-es Unicornio regalos para niñas paquete de 5 mochila con...'
 sku: 'B07ZRTBPV5-es'
 tags: [ 'mochila', ]

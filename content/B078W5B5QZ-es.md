@@ -5,7 +5,7 @@ date: 2020-04-16 18:21:47
 image: 'https://m.media-amazon.com/images/I/51goZBoPiBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078W5B5QZ-es 24 bolígrafos para colorear punta de fieltro de 0 4 mm...'
 sku: 'B078W5B5QZ-es'
 tags: [ 'bolígrafos','colorear','rotuladores', ]

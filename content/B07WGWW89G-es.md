@@ -5,7 +5,7 @@ date: 2020-07-09 06:45:34
 image: 'https://m.media-amazon.com/images/I/519O0jyLqEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGWW89G-es Tablero de Escritura LCD TEKFUN Tablero de Graffiti...'
 sku: 'B07WGWW89G-es'
 tags: [ 'escolar', ]

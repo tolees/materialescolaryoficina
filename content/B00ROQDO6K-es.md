@@ -5,7 +5,7 @@ date: 2020-07-17 05:10:25
 image: 'https://m.media-amazon.com/images/I/51qk+o1-z4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ROQDO6K-es BIC 4 colores Stylus bolígrafos punta media 1 0 mm - Grip...'
 sku: 'B00ROQDO6K-es'
 tags: [ 'bolígrafos', ]

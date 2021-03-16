@@ -5,7 +5,7 @@ date: 2020-04-09 15:09:02
 image: 'https://m.media-amazon.com/images/I/51P-qsJYLxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5ZT3X3-es Calculadoras Científicas - Calculadora Científica...'
 sku: 'B07W5ZT3X3-es'
 tags: [ 'calculadora','escolar', ]

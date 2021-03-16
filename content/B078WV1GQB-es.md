@@ -5,7 +5,7 @@ date: 2020-04-27 15:11:23
 image: 'https://m.media-amazon.com/images/I/618YbhoBqJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WV1GQB-es Lápices de acuarela para colorear 20 pinceles para...'
 sku: 'B078WV1GQB-es'
 tags: [ 'colorear','lápices', ]

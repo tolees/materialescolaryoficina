@@ -5,7 +5,7 @@ date: 2020-03-08 10:05:14
 image: 'https://m.media-amazon.com/images/I/51rUdwH0J7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZGB45T-es NEWHEY Mochila Ordenador Portatil 15.6 Pulgadas Hombre con...'
 sku: 'B083ZGB45T-es'
 tags: [ 'mochila', ]

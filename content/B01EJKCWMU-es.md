@@ -5,7 +5,7 @@ date: 2020-01-12 22:59:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IoTgOiTXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EJKCWMU-es Moleskine - Set de Escritura Inteligente Cuaderno Digital...'
 sku: 'B01EJKCWMU-es'
 tags: [ 'bolígrafo','moleskine', ]

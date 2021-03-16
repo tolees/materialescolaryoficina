@@ -5,7 +5,7 @@ date: 2020-04-18 01:14:14
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJKGJG-es Apli 1298 - Etiquetas 100 hojas'
 sku: 'B000KJKGJG-es'
 tags: [ 'apli', ]

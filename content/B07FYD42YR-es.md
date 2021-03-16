@@ -5,7 +5,7 @@ date: 2020-01-29 09:15:11
 image: 'https://m.media-amazon.com/images/I/41vNsNr-oML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYD42YR-es Mochila para portátil Pepe Jeans Bromley Verde 15 6" doble...'
 sku: 'B07FYD42YR-es'
 tags: [ 'mochila', ]

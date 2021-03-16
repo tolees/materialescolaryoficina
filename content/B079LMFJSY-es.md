@@ -5,7 +5,7 @@ date: 2020-01-21 20:35:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51cLObtUEsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079LMFJSY-es AmazonBasics - Mochila compacta de viaje Rojo para viajes...'
 sku: 'B079LMFJSY-es'
 tags: [ 'mochila', ]

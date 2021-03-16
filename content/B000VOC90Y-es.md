@@ -5,7 +5,7 @@ date: 2020-09-25 09:00:53
 image: 'https://m.media-amazon.com/images/I/41zhc2Ey0vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VOC90Y-es WENGER 600638 Ibex - Mochila para portátil de 17" color azul'
 sku: 'B000VOC90Y-es'
 tags: [ 'mochila', ]

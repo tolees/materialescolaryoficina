@@ -5,7 +5,7 @@ date: 2020-04-13 00:03:26
 image: 'https://m.media-amazon.com/images/I/41zFWfzf7KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000TOBYTI-es Scotch Magic Tape - Cinta adhesiva transparente 14 rollos...'
 sku: 'B000TOBYTI-es'
 tags: [ 'adhesiva','cinta','magic','scotch', ]

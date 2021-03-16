@@ -5,7 +5,7 @@ date: 2020-04-25 19:47:00
 image: 'https://m.media-amazon.com/images/I/41EpxGlaKbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZUWDOVU-es Under Armour Ua Hustle Backpack Ldwr Mochila Hombre Gris...'
 sku: 'B00ZUWDOVU-es'
 tags: [ 'backpack','mochila', ]

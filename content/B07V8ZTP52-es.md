@@ -5,7 +5,7 @@ date: 2020-07-26 09:13:07
 image: 'https://m.media-amazon.com/images/I/41eGyQckUkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8ZTP52-es Tommy Hilfiger - Kids Core Backpack Mochilas Unisex Niños...'
 sku: 'B07V8ZTP52-es'
 tags: [ 'backpack', ]

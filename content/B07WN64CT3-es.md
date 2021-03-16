@@ -5,7 +5,7 @@ date: 2020-09-16 09:52:43
 image: 'https://m.media-amazon.com/images/I/51l7PmC+unL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WN64CT3-es Memoryee 3D Lienzo de Stranger Things Estudiantes Lápiz...'
 sku: 'B07WN64CT3-es'
 tags: [ 'lápiz', ]

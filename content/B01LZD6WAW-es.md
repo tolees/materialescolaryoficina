@@ -5,7 +5,7 @@ date: 2020-08-13 08:43:37
 image: 'https://m.media-amazon.com/images/I/21AUL91TLNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZD6WAW-es Nobo 1905186 - Pizarra Diamond Glass Magnética 1883 x 1053...'
 sku: 'B01LZD6WAW-es'
 tags: [ 'rotulador', ]

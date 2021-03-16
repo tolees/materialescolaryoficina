@@ -5,7 +5,7 @@ date: 2020-01-15 10:09:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zf72AuQhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9NXRM4-es Pepe Jeans Mochila 33 cm 10.3 Liters Negro'
 sku: 'B07V9NXRM4-es'
 tags: [ 'mochila', ]

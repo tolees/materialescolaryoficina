@@ -5,7 +5,7 @@ date: 2020-04-19 06:17:47
 image: 'https://m.media-amazon.com/images/I/31DfvnmamUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000SHQKO0-es Pilot Frixion - Bolígrafo de tinta trazo de 0 4 mm tinta...'
 sku: 'B000SHQKO0-es'
 tags: [ 'bolígrafo', ]

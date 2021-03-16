@@ -5,7 +5,7 @@ date: 2020-07-03 10:03:33
 image: 'https://m.media-amazon.com/images/I/21tpSdE8puL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XP3F5TT-es Cámara enchufable Grabadora de conferencias Grabadora de...'
 sku: 'B07XP3F5TT-es'
 tags: [ 'lápiz', ]

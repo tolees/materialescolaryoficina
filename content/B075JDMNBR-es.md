@@ -5,7 +5,7 @@ date: 2020-04-04 13:46:28
 image: 'https://m.media-amazon.com/images/I/41inzxp5xHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JDMNBR-es Staedtler 308 SB6P - Pigment Liner Rotuladores Paquete de 6'
 sku: 'B075JDMNBR-es'
 tags: [ 'rotuladores', ]

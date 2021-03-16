@@ -5,7 +5,7 @@ date: 2020-08-10 17:14:21
 image: 'https://m.media-amazon.com/images/I/41bK27LMNkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076GX6JSC-es Kipling CLAS SEOUL Mochila escolar 45 cm 25 litros Beige...'
 sku: 'B076GX6JSC-es'
 tags: [ 'escolar','mochila', ]

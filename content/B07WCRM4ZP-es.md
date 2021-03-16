@@ -5,7 +5,7 @@ date: 2020-09-07 09:35:17
 image: 'https://m.media-amazon.com/images/I/41oOZxAS3XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WCRM4ZP-es BAIGIO Mochila Portátil 17 Pulgadas Mochila de Negocios...'
 sku: 'B07WCRM4ZP-es'
 tags: [ 'mochila', ]

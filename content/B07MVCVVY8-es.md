@@ -5,7 +5,7 @@ date: 2020-10-05 13:31:28
 image: 'https://m.media-amazon.com/images/I/31XjyTOZ8rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVCVVY8-es Lápiz Capacitivo con Estación de Carga magnética Soporte...'
 sku: 'B07MVCVVY8-es'
 tags: [ 'lápiz', ]

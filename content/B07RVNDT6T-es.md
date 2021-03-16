@@ -5,7 +5,7 @@ date: 2020-06-10 10:27:35
 image: 'https://m.media-amazon.com/images/I/413PmSvl06L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RVNDT6T-es Kit de cuidado profesional para barba y bigote: aceite...'
 sku: 'B07RVNDT6T-es'
 tags: [ 'tijeras', ]

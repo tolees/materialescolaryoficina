@@ -5,7 +5,7 @@ date: 2020-02-04 10:12:23
 image: 'https://m.media-amazon.com/images/I/41O4kk69x0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N36WGZQ-es Ulikey Medidor de Suelo con 10 Piezas de Herramientas...'
 sku: 'B07N36WGZQ-es'
 tags: [ 'tijeras', ]

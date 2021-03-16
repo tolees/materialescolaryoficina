@@ -5,7 +5,7 @@ date: 2020-09-29 04:42:05
 image: 'https://m.media-amazon.com/images/I/412Dw6ZTdHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JL2CM13-es Under Armour UA Undeniable SP 2.0 Accesorio Mochila...'
 sku: 'B07JL2CM13-es'
 tags: [ 'mochila', ]

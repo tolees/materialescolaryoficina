@@ -5,7 +5,7 @@ date: 2020-06-11 16:38:34
 image: 'https://m.media-amazon.com/images/I/515yBimBbFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD47ZBF-es Catekro Caja de Almacenamiento de Oficina de Gran...'
 sku: 'B07YD47ZBF-es'
 tags: [ 'bolígrafo', ]

@@ -5,7 +5,7 @@ date: 2020-05-29 22:15:06
 image: 'https://m.media-amazon.com/images/I/41PMzCAbriL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYD5XQB-es Mochila para portátil Pepe Jeans Bromley Negra 15 6" doble...'
 sku: 'B07FYD5XQB-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-08-15 02:57:48
 image: 'https://m.media-amazon.com/images/I/41m1xL1UR6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSPQFNG-es YONKINY Mochila Portátil Escolares Juveniles Chica Chico...'
 sku: 'B07WSPQFNG-es'
 tags: [ 'mochila', ]

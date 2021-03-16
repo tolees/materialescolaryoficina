@@ -5,7 +5,7 @@ date: 2020-10-06 08:53:32
 image: 'https://m.media-amazon.com/images/I/41Liq5QcoxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TQXEYU4-es Fjallraven Kaipak 28 Backpack Unisex adulto Redwood OneSize'
 sku: 'B00TQXEYU4-es'
 tags: [ 'backpack', ]

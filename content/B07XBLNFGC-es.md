@@ -5,7 +5,7 @@ date: 2020-09-02 15:50:57
 image: 'https://m.media-amazon.com/images/I/41TiCUrwBHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBLNFGC-es Casio FX-82SPXII Iberia - Calculadora científica con...'
 sku: 'B07XBLNFGC-es'
 tags: [ 'calculadora', ]

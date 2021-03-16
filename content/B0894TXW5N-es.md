@@ -5,7 +5,7 @@ date: 2020-08-20 09:11:09
 image: 'https://m.media-amazon.com/images/I/61u6hY1JuFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894TXW5N-es Bolígrafos de Contorno de Doble Línea Baozun 21Colores...'
 sku: 'B0894TXW5N-es'
 tags: [ 'bolígrafos','rotuladores', ]

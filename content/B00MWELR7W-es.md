@@ -5,7 +5,7 @@ date: 2020-05-27 10:04:02
 image: 'https://m.media-amazon.com/images/I/41tNPBwyhlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MWELR7W-es NAKOSITE Ruta Perfecta es un Podómetro en 3D con Correa y...'
 sku: 'B00MWELR7W-es'
 tags: [ 'calculadora', ]

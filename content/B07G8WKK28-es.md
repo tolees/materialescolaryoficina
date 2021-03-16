@@ -5,7 +5,7 @@ date: 2020-09-08 13:01:15
 image: 'https://m.media-amazon.com/images/I/41-Cob7cAEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G8WKK28-es LIANCHENYI Runway - Mochila de viaje'
 sku: 'B07G8WKK28-es'
 tags: [ 'mochila', ]

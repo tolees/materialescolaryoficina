@@ -5,7 +5,7 @@ date: 2020-08-23 17:31:33
 image: 'https://m.media-amazon.com/images/I/417ut2QAGHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017LTBGE6-es Boma B47008400013 - Cinta adhesiva para reparación 50 mm x...'
 sku: 'B017LTBGE6-es'
 tags: [ 'adhesiva','cinta', ]

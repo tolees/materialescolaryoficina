@@ -5,7 +5,7 @@ date: 2020-02-18 15:49:34
 image: 'https://m.media-amazon.com/images/I/41afsingKyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQQBLX9-es Diesel F-DISCOVER CROSS Mochila para Hombre Negro Black...'
 sku: 'B07KQQBLX9-es'
 tags: [ 'mochila', ]

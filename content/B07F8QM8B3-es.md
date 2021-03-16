@@ -5,7 +5,7 @@ date: 2020-09-12 18:16:28
 image: 'https://m.media-amazon.com/images/I/41gfstG1Y1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8QM8B3-es Cabin Max Maleta con Ruedas Maletas de Viaje Cabina...'
 sku: 'B07F8QM8B3-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-08-17 13:45:31
 image: 'https://m.media-amazon.com/images/I/51rVU4X9TSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084FYLVTD-es K&F Concept Mochila Cámara y Portátil de 15" Profesional y...'
 sku: 'B084FYLVTD-es'
 tags: [ 'mochila', ]

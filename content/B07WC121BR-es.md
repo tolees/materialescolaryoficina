@@ -5,7 +5,7 @@ date: 2020-06-23 06:24:08
 image: 'https://m.media-amazon.com/images/I/41vY+a2+XQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC121BR-es Antirrobo Mochilas Portatil 15.6 Pulgadas Impermeable...'
 sku: 'B07WC121BR-es'
 tags: [ 'mochila', ]

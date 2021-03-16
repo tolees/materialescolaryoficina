@@ -5,7 +5,7 @@ date: 2020-09-05 19:41:24
 image: 'https://m.media-amazon.com/images/I/51HfInMQ0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVC2WQN-es Castle Art Supplies 72 lápices de colores en estuche con...'
 sku: 'B07PVC2WQN-es'
 tags: [ 'lápices', ]

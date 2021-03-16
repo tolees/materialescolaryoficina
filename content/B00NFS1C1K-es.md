@@ -5,7 +5,7 @@ date: 2020-03-02 13:04:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OHcLxJ%2B9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NFS1C1K-es Bestway Dura-Trek - Mochila 65 litros 70 x 32 x 22 cm'
 sku: 'B00NFS1C1K-es'
 tags: [ 'mochila', ]

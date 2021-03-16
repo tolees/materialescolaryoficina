@@ -5,7 +5,7 @@ date: 2020-08-25 09:08:50
 image: 'https://m.media-amazon.com/images/I/415A3zqxAvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YK894BQ-es Pawhut Transportin Carrito Perro 2 en 1 Mochila Carrito...'
 sku: 'B07YK894BQ-es'
 tags: [ 'mochila', ]

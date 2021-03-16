@@ -5,7 +5,7 @@ date: 2020-09-02 03:15:45
 image: 'https://m.media-amazon.com/images/I/41WE8785LFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0CU5CW-es Tech air TAECB001 maletines para portátil 39 6 cm 15.6"...'
 sku: 'B01M0CU5CW-es'
 tags: [ 'mochila', ]

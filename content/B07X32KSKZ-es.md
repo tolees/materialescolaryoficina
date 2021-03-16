@@ -5,7 +5,7 @@ date: 2020-09-23 16:26:12
 image: 'https://m.media-amazon.com/images/I/41zjcnRgGpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X32KSKZ-es EFERRI Mochila Cuvat Negro 23x12x29 cm'
 sku: 'B07X32KSKZ-es'
 tags: [ 'mochila', ]

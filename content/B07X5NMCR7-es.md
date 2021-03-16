@@ -5,7 +5,7 @@ date: 2020-07-10 08:45:40
 image: 'https://m.media-amazon.com/images/I/41Lg5MdSHsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5NMCR7-es Vbiger Mochilas Escolares Juveniles Ni?o Mochila...'
 sku: 'B07X5NMCR7-es'
 tags: [ 'mochila', ]

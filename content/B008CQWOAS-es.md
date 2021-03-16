@@ -5,7 +5,7 @@ date: 2020-05-16 20:30:27
 image: 'https://m.media-amazon.com/images/I/41ciBhDlmHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008CQWOAS-es Loctite Super Glue-3 Original pegamento universal con...'
 sku: 'B008CQWOAS-es'
 tags: [ 'loctite', ]

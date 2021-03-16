@@ -5,7 +5,7 @@ date: 2020-01-06 05:06:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tC3drPrzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDTQX5L-es The North Face Base Camp-M Mochila Duffel Unisex Adulto...'
 sku: 'B07MDTQX5L-es'
 tags: [ 'mochila', ]

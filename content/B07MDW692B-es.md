@@ -5,7 +5,7 @@ date: 2020-09-10 21:26:40
 image: 'https://m.media-amazon.com/images/I/41gw0hdqXTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDW692B-es BAIGIO Mochila Antirrobo Portátil 15.6 Pulgadas Hombre...'
 sku: 'B07MDW692B-es'
 tags: [ 'mochila', ]

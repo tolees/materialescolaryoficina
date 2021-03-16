@@ -5,7 +5,7 @@ date: 2020-08-09 06:09:28
 image: 'https://m.media-amazon.com/images/I/41DKChMgcTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHCR31P-es iMangoo Adaptador de Carga para lápiz de Apple 2 Unidades...'
 sku: 'B07BHCR31P-es'
 tags: [ 'lápiz', ]

@@ -5,7 +5,7 @@ date: 2020-10-02 23:30:54
 image: 'https://m.media-amazon.com/images/I/31CtIwOdaGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHV1K5J-es American Tourister Urban Groove - 15.6 Pulgadas Mochila...'
 sku: 'B07RHV1K5J-es'
 tags: [ 'mochila', ]

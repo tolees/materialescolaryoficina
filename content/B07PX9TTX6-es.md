@@ -5,7 +5,7 @@ date: 2020-09-06 06:16:45
 image: 'https://m.media-amazon.com/images/I/5183Ydo3A0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PX9TTX6-es HOTLIFE Funda Teclado para iPad Mini 5 2019/Mini 4 2015...'
 sku: 'B07PX9TTX6-es'
 tags: [ 'lápiz', ]

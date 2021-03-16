@@ -5,7 +5,7 @@ date: 2020-01-31 10:09:55
 image: 'https://m.media-amazon.com/images/I/41PeOi7cGyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5LYC9X-es Napapijri Mochila de a Diario Red Scarlet Rojo - N0YIXT'
 sku: 'B07M5LYC9X-es'
 tags: [ 'mochila', ]

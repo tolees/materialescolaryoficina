@@ -5,7 +5,7 @@ date: 2020-09-12 15:16:05
 image: 'https://m.media-amazon.com/images/I/41zFF-f2cuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CL1CFQ-es Samsonite 93061-1820 maletines para portátil 35 8 cm 14.1"...'
 sku: 'B076CL1CFQ-es'
 tags: [ 'mochila', ]

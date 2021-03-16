@@ -5,7 +5,7 @@ date: 2020-07-03 23:54:12
 image: 'https://m.media-amazon.com/images/I/51sbvbJhqUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FT6D8RS-es Mochila de pañales para cambiar pañales con diseño abierto...'
 sku: 'B07FT6D8RS-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 08:46:18
 image: 'https://m.media-amazon.com/images/I/51t-JKrv0wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P813MSL-es Leathario Portafolio A4 Piel Portadocumentos Cremalleras...'
 sku: 'B07P813MSL-es'
 tags: [ 'calculadora', ]

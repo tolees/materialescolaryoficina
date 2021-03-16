@@ -5,7 +5,7 @@ date: 2020-09-21 21:11:08
 image: 'https://m.media-amazon.com/images/I/51zwcC2JTkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077T6DYC9-es TOTTO AC52ECO010-1710Z-6M2 - Estuche escolar con dos...'
 sku: 'B077T6DYC9-es'
 tags: [ 'escolar', ]

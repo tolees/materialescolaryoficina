@@ -5,7 +5,7 @@ date: 2020-05-30 09:48:03
 image: 'https://m.media-amazon.com/images/I/217ThUP2S8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGZ7LKF-es Miquelrius 17284 - Cubilete Rosa Bella Garden'
 sku: 'B07YGZ7LKF-es'
 tags: [ 'miquelrius', ]

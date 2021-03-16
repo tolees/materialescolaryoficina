@@ -5,7 +5,7 @@ date: 2020-08-09 10:45:35
 image: 'https://m.media-amazon.com/images/I/415aHWsAVDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9LPKRC-es Mochila para portátil Movom Business con bandolera Negra'
 sku: 'B07J9LPKRC-es'
 tags: [ 'mochila', ]

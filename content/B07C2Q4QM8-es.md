@@ -5,7 +5,7 @@ date: 2020-01-03 09:46:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51k20n7Vb7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2Q4QM8-es Carretilla Plegable Wilbest Carritos Porta Equipajes con 4...'
 sku: 'B07C2Q4QM8-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-09-01 13:20:31
 image: 'https://m.media-amazon.com/images/I/51+EnEuVxqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8YQ6J1-es Cartera Escolar Enso Trust Me'
 sku: 'B07P8YQ6J1-es'
 tags: [ 'escolar', ]

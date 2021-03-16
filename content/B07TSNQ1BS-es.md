@@ -5,7 +5,7 @@ date: 2020-06-10 14:57:13
 image: 'https://m.media-amazon.com/images/I/41V49joo9aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSNQ1BS-es Valentino by Mario - Superman Bolsos mochila Mujer Azul...'
 sku: 'B07TSNQ1BS-es'
 tags: [ 'mochila', ]

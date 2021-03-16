@@ -5,7 +5,7 @@ date: 2020-03-11 07:34:55
 image: 'https://m.media-amazon.com/images/I/412lDdkozIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0011UP7BK-es STABILO CarbOthello - Lápiz de color tiza-pastel - Caja de...'
 sku: 'B0011UP7BK-es'
 tags: [ 'lápiz','stabilo', ]

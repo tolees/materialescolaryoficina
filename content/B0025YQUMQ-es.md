@@ -5,7 +5,7 @@ date: 2020-05-27 13:04:32
 image: 'https://m.media-amazon.com/images/I/41rqBx5S5oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0025YQUMQ-es Jovi-725265 Caja de 15 Barras de plastilina 216047'
 sku: 'B0025YQUMQ-es'
 tags: [ 'plastilina', ]

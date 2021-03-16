@@ -5,7 +5,7 @@ date: 2020-03-24 19:46:51
 image: 'https://m.media-amazon.com/images/I/51zV3m+JJFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074V7NX1J-es CUILEE Mochila para niños bebés Mochilas para niños con...'
 sku: 'B074V7NX1J-es'
 tags: [ 'mochila', ]

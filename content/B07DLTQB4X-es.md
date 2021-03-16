@@ -5,7 +5,7 @@ date: 2020-05-16 09:08:12
 image: 'https://m.media-amazon.com/images/I/41hJZrayIiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLTQB4X-es iSuperb Estuche Escolar Estudiantes Bolsa para Lapices...'
 sku: 'B07DLTQB4X-es'
 tags: [ 'escolar', ]

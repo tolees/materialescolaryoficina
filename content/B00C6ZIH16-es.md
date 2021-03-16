@@ -5,7 +5,7 @@ date: 2020-04-08 10:26:14
 image: 'https://m.media-amazon.com/images/I/41wvrr3O5gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C6ZIH16-es APLI Kids - Bolsa goma EVA azul claro 400x600x2mm 5 hojas'
 sku: 'B00C6ZIH16-es'
 tags: [ 'apli', ]

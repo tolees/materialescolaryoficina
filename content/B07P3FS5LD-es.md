@@ -5,7 +5,7 @@ date: 2020-02-02 04:03:32
 image: 'https://m.media-amazon.com/images/I/51sPDE1vGoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3FS5LD-es Mochila Carterón Enso Trust Me'
 sku: 'B07P3FS5LD-es'
 tags: [ 'mochila', ]

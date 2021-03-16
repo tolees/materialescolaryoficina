@@ -5,7 +5,7 @@ date: 2020-09-12 14:26:07
 image: 'https://m.media-amazon.com/images/I/3180S3cujnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00191RXUY-es Herlitz 10801710 - Tijeras escolar con punta redonda...'
 sku: 'B00191RXUY-es'
 tags: [ 'escolar','tijeras', ]

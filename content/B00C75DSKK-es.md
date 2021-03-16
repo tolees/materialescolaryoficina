@@ -5,7 +5,7 @@ date: 2020-07-07 09:40:03
 image: 'https://m.media-amazon.com/images/I/51ucg4eTxeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C75DSKK-es Maped Color Peps Jungle - Rotuladores de Colores 24 Unidades'
 sku: 'B00C75DSKK-es'
 tags: [ 'rotuladores', ]

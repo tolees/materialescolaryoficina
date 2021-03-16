@@ -5,7 +5,7 @@ date: 2020-06-24 18:47:33
 image: 'https://m.media-amazon.com/images/I/51iPa-Jy83L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHJL26Q-es Mochila de Portáti Hombre Mujer Mochila con funda...'
 sku: 'B07DHJL26Q-es'
 tags: [ 'escolar','mochila', ]

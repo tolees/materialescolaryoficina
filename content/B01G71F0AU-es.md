@@ -5,7 +5,7 @@ date: 2020-03-25 12:54:35
 image: 'https://m.media-amazon.com/images/I/31NMEEZ3OvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G71F0AU-es Bourjois Liner Feutre Lápiz de ojos Tono 16 Noir - 7 gr.'
 sku: 'B01G71F0AU-es'
 tags: [ 'lápiz', ]

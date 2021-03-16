@@ -5,7 +5,7 @@ date: 2020-06-27 12:02:56
 image: 'https://m.media-amazon.com/images/I/41pW8LPLMCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJM56PX-es Acmebon Mochila Escolar para Niñas Adolescentes con Bolsa...'
 sku: 'B07VJM56PX-es'
 tags: [ 'escolar','mochila', ]

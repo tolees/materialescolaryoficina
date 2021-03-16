@@ -5,7 +5,7 @@ date: 2020-03-11 10:42:14
 image: 'https://m.media-amazon.com/images/I/31Pw6dOGJfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084WQQFH4-es 1 unids/Lote Diseño de Cabeza Redonda Lápiz de Metal...'
 sku: 'B084WQQFH4-es'
 tags: [ 'lápiz', ]

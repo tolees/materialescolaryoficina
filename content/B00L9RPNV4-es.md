@@ -5,7 +5,7 @@ date: 2020-09-13 13:07:09
 image: 'https://m.media-amazon.com/images/I/41iGT5TkfNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L9RPNV4-es Eastpak Provider Mochila 44 cm 33 L Gris Black Denim'
 sku: 'B00L9RPNV4-es'
 tags: [ 'mochila', ]

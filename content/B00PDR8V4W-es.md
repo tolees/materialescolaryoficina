@@ -5,7 +5,7 @@ date: 2020-04-09 08:32:07
 image: 'https://m.media-amazon.com/images/I/51OaowdhfcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PDR8V4W-es Carioca Joy - Rotuladores superlavables de punta fina pack...'
 sku: 'B00PDR8V4W-es'
 tags: [ 'rotuladores', ]

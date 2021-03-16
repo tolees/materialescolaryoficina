@@ -5,7 +5,7 @@ date: 2020-03-12 14:03:04
 image: 'https://m.media-amazon.com/images/I/51NLlmslrXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BMMMR34-es Koooper Libro Aventuras up Álbum de Fotos DIY Album up...'
 sku: 'B07BMMMR34-es'
 tags: [ 'tijeras', ]

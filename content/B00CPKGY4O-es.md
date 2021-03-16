@@ -5,7 +5,7 @@ date: 2020-01-28 09:18:15
 image: 'https://m.media-amazon.com/images/I/41znidaP8lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CPKGY4O-es Burton Focus Mochila Unisex Adulto Negro Negro 58 x 33 x...'
 sku: 'B00CPKGY4O-es'
 tags: [ 'mochila', ]

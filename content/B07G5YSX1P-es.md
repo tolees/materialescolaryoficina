@@ -5,7 +5,7 @@ date: 2020-01-29 09:15:29
 image: 'https://m.media-amazon.com/images/I/41e26huN2xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5YSX1P-es Mochila para portátil Pepe Jeans Bromley Verde 13 3"'
 sku: 'B07G5YSX1P-es'
 tags: [ 'mochila', ]

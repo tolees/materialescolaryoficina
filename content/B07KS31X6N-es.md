@@ -5,7 +5,7 @@ date: 2020-07-21 00:15:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4189A7YM3rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KS31X6N-es UtoteBag Mochila Deporte Convertible Bolsa Gimnasio Viaje...'
 sku: 'B07KS31X6N-es'
 tags: [ 'mochila', ]

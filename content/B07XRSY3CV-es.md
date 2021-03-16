@@ -5,7 +5,7 @@ date: 2020-04-08 14:40:21
 image: 'https://m.media-amazon.com/images/I/51d4sKj6FeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRSY3CV-es Smyidel Tabla de Dibujo Portátil para Niños Tablero de...'
 sku: 'B07XRSY3CV-es'
 tags: [ 'bolígrafos', ]

@@ -5,7 +5,7 @@ date: 2020-05-26 08:46:04
 image: 'https://m.media-amazon.com/images/I/51it45FITsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IPQT1BY-es 52 pz Caja de papelería para niños con marcadores crayones...'
 sku: 'B01IPQT1BY-es'
 tags: [ 'borrar','de','goma', ]

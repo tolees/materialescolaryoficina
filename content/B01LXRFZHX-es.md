@@ -5,7 +5,7 @@ date: 2020-09-29 19:01:27
 image: 'https://m.media-amazon.com/images/I/41WU5tEj2DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXRFZHX-es Samsonite Qibyte Laptop Backpack 17.3" Mochila Tipo Casual...'
 sku: 'B01LXRFZHX-es'
 tags: [ 'backpack','mochila', ]

@@ -5,7 +5,7 @@ date: 2020-07-21 01:33:15
 image: 'https://m.media-amazon.com/images/I/412t+wNDS7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HCOKJ48-es TYR Alliance 45L Mochila Unisex Adulto Rojo/Negro Talla Única'
 sku: 'B01HCOKJ48-es'
 tags: [ 'mochila', ]

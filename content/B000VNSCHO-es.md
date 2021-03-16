@@ -5,7 +5,7 @@ date: 2020-04-20 13:20:48
 image: 'https://m.media-amazon.com/images/I/31TDT2ue3CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VNSCHO-es Faber-Castell Castell 9000 Graphite Pencil - HB - Lápiz...'
 sku: 'B000VNSCHO-es'
 tags: [ 'faber-castell','lápiz', ]

@@ -5,7 +5,7 @@ date: 2020-01-03 09:32:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51yJ9avT2gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQPLB5H-es Pepe Jeans Calvin Mochila Adaptable Multicolor 44 cm'
 sku: 'B07SQPLB5H-es'
 tags: [ 'mochila', ]

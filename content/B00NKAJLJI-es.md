@@ -5,7 +5,7 @@ date: 2020-05-10 12:16:08
 image: 'https://m.media-amazon.com/images/I/51Q9g-4J5kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NKAJLJI-es Faber Castell 554224 - Estuche de cartón con 24...'
 sku: 'B00NKAJLJI-es'
 tags: [ 'castell','faber','rotuladores', ]

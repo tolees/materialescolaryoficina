@@ -5,7 +5,7 @@ date: 2020-02-24 18:08:40
 image: 'https://m.media-amazon.com/images/I/51SEu9o5NuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPTQ4SS-es Rotuladores Metalizados Rymall Rotuladores de Colores...'
 sku: 'B07BPTQ4SS-es'
 tags: [ 'rotuladores', ]

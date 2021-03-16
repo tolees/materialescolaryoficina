@@ -5,7 +5,7 @@ date: 2020-03-31 11:22:22
 image: 'https://m.media-amazon.com/images/I/31lLTmDlFtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGHMY5N-es TRIXES Bolígrafo Stylus Negro de Punta Fina para Pantallas...'
 sku: 'B06XGHMY5N-es'
 tags: [ 'bolígrafo', ]

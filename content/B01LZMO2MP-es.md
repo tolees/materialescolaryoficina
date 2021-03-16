@@ -5,7 +5,7 @@ date: 2020-09-27 02:16:47
 image: 'https://m.media-amazon.com/images/I/51cWzGENJXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZMO2MP-es Marcador Pastel STABILO BOSS Original - Estuche con 4...'
 sku: 'B01LZMO2MP-es'
 tags: [ 'stabilo', ]

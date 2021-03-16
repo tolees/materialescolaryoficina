@@ -5,7 +5,7 @@ date: 2020-01-30 22:43:33
 image: 'https://m.media-amazon.com/images/I/31+vvdlxARL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZCHIB8-es Parker Urban 1931584 - Bolígrafo roller negro tenue de...'
 sku: 'B01LZCHIB8-es'
 tags: [ 'bolígrafo', ]

@@ -5,7 +5,7 @@ date: 2020-08-23 17:04:25
 image: 'https://m.media-amazon.com/images/I/41YBtc0FMnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKB36D3-es Element Cypress Bpk Backpack para Hombre napa red U'
 sku: 'B07DKB36D3-es'
 tags: [ 'backpack', ]

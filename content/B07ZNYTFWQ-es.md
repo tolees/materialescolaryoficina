@@ -5,7 +5,7 @@ date: 2020-07-24 11:24:44
 image: 'https://m.media-amazon.com/images/I/51IaPjukeRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNYTFWQ-es Vicloon Bolsas de Documentos A3+A4+A5 15 Piezas Carpetas...'
 sku: 'B07ZNYTFWQ-es'
 tags: [ 'escolar', ]

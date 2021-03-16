@@ -5,7 +5,7 @@ date: 2020-02-19 13:32:37
 image: 'https://m.media-amazon.com/images/I/41Fwbu-exHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007W1HI7I-es BIC Cristal Original Punta Fina - Estuche de 4 bolígrafos...'
 sku: 'B007W1HI7I-es'
 tags: [ 'bic','bolígrafos','cristal', ]

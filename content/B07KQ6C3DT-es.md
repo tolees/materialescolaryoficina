@@ -5,7 +5,7 @@ date: 2020-07-31 14:18:13
 image: 'https://m.media-amazon.com/images/I/41G9+IcQKoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ6C3DT-es Millet Ubic 40 - Mochila Unisex Adulto Negro Talla Única'
 sku: 'B07KQ6C3DT-es'
 tags: [ 'mochila', ]

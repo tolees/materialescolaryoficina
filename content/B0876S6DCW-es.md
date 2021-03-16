@@ -5,7 +5,7 @@ date: 2020-05-12 15:36:31
 image: 'https://m.media-amazon.com/images/I/41v-2VikXOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876S6DCW-es AYUN 20pcs palillo de bolígrafos Bone bolígrafo con Tinta...'
 sku: 'B0876S6DCW-es'
 tags: [ 'bolígrafo','bolígrafos', ]

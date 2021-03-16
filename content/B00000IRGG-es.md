@@ -5,7 +5,7 @@ date: 2020-05-06 18:32:14
 image: 'https://m.media-amazon.com/images/I/31YP02EfKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00000IRGG-es Cross Classic Century - Bolígrafo color oro de 10kts'
 sku: 'B00000IRGG-es'
 tags: [ 'bolígrafo', ]

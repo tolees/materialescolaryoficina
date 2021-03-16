@@ -5,7 +5,7 @@ date: 2020-08-20 13:02:00
 image: 'https://m.media-amazon.com/images/I/415yTTZvSjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGQMPJW-es Lowepro Whistler Rucksack 450 AW II Mochila Negro - Funda...'
 sku: 'B07JGQMPJW-es'
 tags: [ 'mochila', ]

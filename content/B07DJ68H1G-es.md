@@ -5,7 +5,7 @@ date: 2020-02-08 01:54:25
 image: 'https://m.media-amazon.com/images/I/51fxX3iGvPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ68H1G-es Ohuhu - 60 rotuladores de acuarela con doble punta punta...'
 sku: 'B07DJ68H1G-es'
 tags: [ 'colorear','rotulador','rotuladores', ]

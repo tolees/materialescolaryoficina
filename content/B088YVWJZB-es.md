@@ -5,7 +5,7 @@ date: 2020-10-01 10:59:23
 image: 'https://m.media-amazon.com/images/I/61yL6gdLH4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088YVWJZB-es Masthome Tabla de Cortar de Cocina de plástico de Doble...'
 sku: 'B088YVWJZB-es'
 tags: [ 'tijeras', ]

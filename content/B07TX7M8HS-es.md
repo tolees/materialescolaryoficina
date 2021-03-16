@@ -5,7 +5,7 @@ date: 2020-03-02 12:31:59
 image: 'https://m.media-amazon.com/images/I/616Y8zhMRhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TX7M8HS-es BeebeeRun 12pcs Mochilas Dinosaurio Bolsas de Cuerdas para...'
 sku: 'B07TX7M8HS-es'
 tags: [ 'mochila', ]

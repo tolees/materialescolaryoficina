@@ -5,7 +5,7 @@ date: 2020-08-15 06:55:20
 image: 'https://m.media-amazon.com/images/I/51Wds91T0-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZY1FPFH-es NORSENS Robo de Mochila portátil de 15 6/14 Pulgadas de...'
 sku: 'B06ZY1FPFH-es'
 tags: [ 'mochila', ]

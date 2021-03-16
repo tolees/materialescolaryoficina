@@ -5,7 +5,7 @@ date: 2020-04-20 07:06:03
 image: 'https://m.media-amazon.com/images/I/51Qg0iZw5gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFSL2HL-es Artesania Cerda Luces Lol Mochila Casual 41 cm Rosa'
 sku: 'B07RFSL2HL-es'
 tags: [ 'mochila', ]

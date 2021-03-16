@@ -5,7 +5,7 @@ date: 2020-01-15 10:48:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51jS0Kr2QkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHD96QK-es KUONIIY Tijeras Hoja Recubierta de Titanio Súper Afilada...'
 sku: 'B07DHD96QK-es'
 tags: [ 'tijeras', ]

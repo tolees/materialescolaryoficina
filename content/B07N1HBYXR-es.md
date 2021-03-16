@@ -5,7 +5,7 @@ date: 2020-01-18 22:32:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tnzAnVr7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HBYXR-es Kipling CLASS ROOM - Mochila escolar 28 liters Azul TRUE NAVY'
 sku: 'B07N1HBYXR-es'
 tags: [ 'escolar','mochila', ]

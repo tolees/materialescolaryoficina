@@ -5,7 +5,7 @@ date: 2020-10-03 08:26:32
 image: 'https://m.media-amazon.com/images/I/51wxyjFQjDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XZ7ZRI-es PLASTILINA Giotto PATPLUME 150 GR Surtido Caja DE 12'
 sku: 'B005XZ7ZRI-es'
 tags: [ 'plastilina', ]

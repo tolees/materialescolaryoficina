@@ -5,7 +5,7 @@ date: 2020-03-08 16:50:23
 image: 'https://m.media-amazon.com/images/I/41hKVl9UHFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5LVG13-es Juego de 10 pinceles de pintura profesional de AOOK para...'
 sku: 'B07L5LVG13-es'
 tags: [ 'acuarelas', ]

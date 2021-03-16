@@ -5,7 +5,7 @@ date: 2020-01-14 07:45:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hpeItkplL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004TOI92E-es Milan 176512925 - Bolígrafo de punta redonda 25 unidades'
 sku: 'B004TOI92E-es'
 tags: [ 'bolígrafo', ]

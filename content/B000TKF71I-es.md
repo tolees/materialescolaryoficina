@@ -5,7 +5,7 @@ date: 2020-02-21 16:07:33
 image: 'https://m.media-amazon.com/images/I/51L7UCXkJAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000TKF71I-es Staedtler Stick 430M3CP5. Bolígrafos de bola. Caja con 50...'
 sku: 'B000TKF71I-es'
 tags: [ 'bolígrafos', ]

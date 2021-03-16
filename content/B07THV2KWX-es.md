@@ -5,7 +5,7 @@ date: 2020-06-19 14:23:44
 image: 'https://m.media-amazon.com/images/I/41Cz7TLLoHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THV2KWX-es Armani Exchange - Liz Backpack Mochilas Mujer Negro Nero...'
 sku: 'B07THV2KWX-es'
 tags: [ 'backpack', ]

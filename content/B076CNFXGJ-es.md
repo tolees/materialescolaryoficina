@@ -5,7 +5,7 @@ date: 2020-08-28 15:26:40
 image: 'https://m.media-amazon.com/images/I/31hBhRJC-oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CNFXGJ-es Samsonite Spectrolite 2.0 Laptop Backpack 43 9 cm 17.3"...'
 sku: 'B076CNFXGJ-es'
 tags: [ 'backpack', ]

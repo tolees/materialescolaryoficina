@@ -5,7 +5,7 @@ date: 2020-02-18 07:01:42
 image: 'https://m.media-amazon.com/images/I/41P2Z7EYIxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBGX173-es American Tourister AT Work - Mochila Coated tipo casual...'
 sku: 'B07CBGX173-es'
 tags: [ 'mochila', ]

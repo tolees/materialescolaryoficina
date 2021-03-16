@@ -5,7 +5,7 @@ date: 2020-01-21 20:34:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5105i57jsIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079LG18LS-es AmazonBasics - Mochila compacta de viaje Morado para...'
 sku: 'B079LG18LS-es'
 tags: [ 'mochila', ]

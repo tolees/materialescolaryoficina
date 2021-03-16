@@ -5,7 +5,7 @@ date: 2020-04-02 14:42:34
 image: 'https://m.media-amazon.com/images/I/31DgBB9W4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004FY1M3G-es Max Factor Xpert Eyeliner waterproof Lápiz de Ojos Tono 01...'
 sku: 'B004FY1M3G-es'
 tags: [ 'lápiz', ]

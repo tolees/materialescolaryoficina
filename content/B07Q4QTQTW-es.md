@@ -5,7 +5,7 @@ date: 2020-04-07 13:16:16
 image: 'https://m.media-amazon.com/images/I/511pbIRt-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4QTQTW-es deAO Colegio de Muñecas Conjunto 2en 1 de Bus Escolar y...'
 sku: 'B07Q4QTQTW-es'
 tags: [ 'escolar', ]

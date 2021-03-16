@@ -5,7 +5,7 @@ date: 2020-03-14 14:31:50
 image: 'https://m.media-amazon.com/images/I/31Nw5fh9KRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005FQDDJ4-es Max Factor Khol Pencil Eyeliner Lápiz de Ojos Tono 50...'
 sku: 'B005FQDDJ4-es'
 tags: [ 'lápiz', ]

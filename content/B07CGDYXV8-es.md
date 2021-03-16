@@ -5,7 +5,7 @@ date: 2020-01-06 13:33:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51zCoN5QygL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGDYXV8-es Lifewit Mochila Antirrobo para Ordenador Portátil 15 6...'
 sku: 'B07CGDYXV8-es'
 tags: [ 'mochila', ]

@@ -5,7 +5,7 @@ date: 2020-07-16 22:44:24
 image: 'https://m.media-amazon.com/images/I/31mwJ3qSi9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NTJJCR-es Bourjois Khol & Contour Lápiz de ojos Tono 7 Prunissime -...'
 sku: 'B071NTJJCR-es'
 tags: [ 'lápiz', ]

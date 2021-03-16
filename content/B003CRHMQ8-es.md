@@ -5,7 +5,7 @@ date: 2020-06-03 16:55:32
 image: 'https://m.media-amazon.com/images/I/41VdqL3T+ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003CRHMQ8-es Wolfcraft 7089000 7089000-1 Set tacocraft 7" Grapadora con...'
 sku: 'B003CRHMQ8-es'
 tags: [ 'grapadora', ]
