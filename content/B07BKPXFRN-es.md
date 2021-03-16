@@ -28,8 +28,8 @@ Ahora mismo tienes [Harry Potter KM-38194 2018 Mochila Tipo Casual  40 cm  1 lit
 
 🔎:
 
-- Licencia 100% original
 - Producto oficial Harry Potter
+- Licencia 100% original
 - Tipología Mochilas sin carro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BKPXFRN/?tag=tolees-21)
