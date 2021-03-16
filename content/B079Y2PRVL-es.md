@@ -28,10 +28,10 @@ Ahora mismo tienes [Pepe Jeans Grains Mochila Adaptable para Portátil 15 6" Mul
 
 🔎:
 
-- Dos bolsillos frontales y dos bolsillos laterales para llevar los accesorios y gadgets
+- Compartimento principal acolchado para llevar el ordenador de hasta 15,6 pulgadas (35,5 cm alto x 26 cm ancho x 3 cm profundo)
 - Banda trasera para adaptar la mochila a la maleta cuando viajes y espalda reforzada con unos tirantes anchos, ergonómicos y acolchados; además también incluye una correa en el pecho para mayor comodidad, incluso cuando llevas muchas cosas
 - De Joumma Bags
 - Mochila para portátil de 28 cm x 45 cm x 16 cm fabricada en Poliéster
-- Compartimento principal acolchado para llevar el ordenador de hasta 15,6 pulgadas (35,5 cm alto x 26 cm ancho x 3 cm profundo)
+- Dos bolsillos frontales y dos bolsillos laterales para llevar los accesorios y gadgets
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079Y2PRVL/?tag=tolees-21)

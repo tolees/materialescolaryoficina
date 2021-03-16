@@ -29,8 +29,8 @@ Está [APLI Kids 11805 - Bolsa de pegatinas estrella oro  grandes y pequeñas 3 
 ℹ️:
 
 - Adecuados para actividades creativas
-- Etiquetas autoadhesivas permanentes en forma de estrella
 - Se suministra en tres hojas
+- Etiquetas autoadhesivas permanentes en forma de estrella
 - La bolsa incluye 120 unidades
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007ORGVT6/?tag=tolees-21)
