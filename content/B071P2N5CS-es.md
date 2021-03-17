@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071P2N5CS-es BIC 4 Color Bolígrafos - Bote Fluorescente de 6 Bolígrafos'
 sku: 'B071P2N5CS-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','bolígrafos', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafos', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

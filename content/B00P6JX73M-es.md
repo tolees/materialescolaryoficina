@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P6JX73M-es CARIOCA Estuche Colors | Estuche 3 Cremalleras con...'
 sku: 'B00P6JX73M-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','escolar','lápices','material','rotuladores', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','escolar','lápices','material','rotuladores', ]
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

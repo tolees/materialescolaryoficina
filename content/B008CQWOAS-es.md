@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008CQWOAS-es Loctite Super Glue-3 Original pegamento universal con...'
 sku: 'B008CQWOAS-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','loctite', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','loctite', ]
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

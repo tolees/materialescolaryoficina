@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HOFLZ5S-es APLI 13325 - Pack de 10 rollos de papel Electra 75 x 65 x...'
 sku: 'B00HOFLZ5S-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','apli', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','apli', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

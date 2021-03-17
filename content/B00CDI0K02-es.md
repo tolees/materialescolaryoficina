@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CDI0K02-es APLI 11915 - Clips mariposa galvanizados nº 20 60 mm 25 clips'
 sku: 'B00CDI0K02-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','apli', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','apli', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

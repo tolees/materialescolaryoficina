@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KO6GO8M-es BIC Cristal Soft bolígrafos punta media 1 2 mm - Azul...'
 sku: 'B00KO6GO8M-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','bic','bolígrafos','cristal', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bic','bolígrafos','cristal', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

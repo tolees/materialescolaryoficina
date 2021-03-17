@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5LVG13-es Juego de 10 pinceles de pintura profesional de AOOK para...'
 sku: 'B07L5LVG13-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','acuarelas', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','acuarelas', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

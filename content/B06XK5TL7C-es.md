@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XK5TL7C-es Rimmel London Brow This Way Fibre Pencil Lápiz de Cejas...'
 sku: 'B06XK5TL7C-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','lápiz', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápiz', ]
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

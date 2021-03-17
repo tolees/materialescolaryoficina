@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0081EAG8S-es Apli - Paquete De 200 Etiquetas Cd/Dvd Clásicas Cobertura...'
 sku: 'B0081EAG8S-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','apli', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','apli', ]
 actualPrice: 26.59 EUR
 currency: EUR
 price: 26.59

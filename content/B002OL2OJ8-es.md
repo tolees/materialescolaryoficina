@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002OL2OJ8-es Bolígrafos UB-157 Eye Fine varios colores tinta Uni Super...'
 sku: 'B002OL2OJ8-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','bolígrafos', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafos', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076B4WYY3-es Casio MS-20UC-BU - Calculadora 2.3 x 10.5 x 14.95 cm color...'
 sku: 'B076B4WYY3-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','calculadora', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','calculadora', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

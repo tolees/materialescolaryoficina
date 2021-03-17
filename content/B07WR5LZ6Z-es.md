@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WR5LZ6Z-es Escolar Estuche de Lápices Gran Capacidad Cartera Bolsa de...'
 sku: 'B07WR5LZ6Z-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','escolar','lápices', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','escolar','lápices', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

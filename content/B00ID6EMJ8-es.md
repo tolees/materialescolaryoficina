@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ID6EMJ8-es Pentel PHN-12 - Caja de 12 pasteles de aceite colores...'
 sku: 'B00ID6EMJ8-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','pentel', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','pentel', ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

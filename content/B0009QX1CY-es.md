@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009QX1CY-es Dymo D1 Standard Cintas para Impresoras de Etiquetas 19 mm...'
 sku: 'B0009QX1CY-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','dymo', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','dymo', ]
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

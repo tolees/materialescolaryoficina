@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BL4Y3TK-es ManLee Bolsa de lápiz Multifuncional Estuche de Lápices...'
 sku: 'B08BL4Y3TK-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','lápices','lápiz', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápices','lápiz', ]
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

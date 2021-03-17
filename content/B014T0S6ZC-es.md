@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014T0S6ZC-es Pritt Cola blanca universal de secado transparente y...'
 sku: 'B014T0S6ZC-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','blanca','cola','pritt', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','blanca','cola','pritt', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0
