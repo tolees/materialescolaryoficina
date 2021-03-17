@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FYNVQNI-es Faber Castell 167004 - Estuche con 4 rotuladores...'
 sku: 'B00FYNVQNI-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','castell','faber','rotuladores', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','castell','faber','rotuladores', ]
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

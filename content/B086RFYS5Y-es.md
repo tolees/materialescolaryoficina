@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RFYS5Y-es Miquel Rius Agenda Escolar Rígida de Espiral 155x213 Mm...'
 sku: 'B086RFYS5Y-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','escolar','miquel','rius', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','escolar','miquel','rius', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

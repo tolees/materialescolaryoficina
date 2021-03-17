@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D17JA2C-es Samsonite Paradiver Light - Mochila M 40 cm 16 L Blanco White'
 sku: 'B01D17JA2C-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9

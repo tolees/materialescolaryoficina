@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H1E5JUY-es Jovi 71 - Plastilina color rojo'
 sku: 'B00H1E5JUY-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','plastilina', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','plastilina', ]
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PDR8V4W-es Carioca Joy - Rotuladores superlavables de punta fina pack...'
 sku: 'B00PDR8V4W-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotuladores', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotuladores', ]
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

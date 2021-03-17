@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XDT62F-es NORSENS – Mochila Ordenador portátil 17/15.6 Pulgadas...'
 sku: 'B075XDT62F-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
 actualPrice: 15.51 EUR
 currency: EUR
 price: 15.51

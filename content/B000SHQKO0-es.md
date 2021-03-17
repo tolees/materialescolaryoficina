@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SHQKO0-es Pilot Frixion - Bolígrafo de tinta trazo de 0 4 mm tinta...'
 sku: 'B000SHQKO0-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafo', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafo', ]
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

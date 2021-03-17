@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JMD0PDI-es Gvarro Canson 200408061- Bloc A4 20 Hojas 130 g/m²'
 sku: 'B00JMD0PDI-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','gvarro', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','gvarro', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

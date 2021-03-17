@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3F88HB-es Jarra de Leche de Acero Inoxidable 350 ml Taza de Café de...'
 sku: 'B08B3F88HB-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápiz', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápiz', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

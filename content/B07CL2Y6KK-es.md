@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CL2Y6KK-es BIC 4 Colores Sun Retractable Bolígrafos retráctiles punta...'
 sku: 'B07CL2Y6KK-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafos', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafos', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7WO14Y-es Zenacolor - 120 Lápices de Colores con Caja de Metal - 120...'
 sku: 'B01N7WO14Y-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápices', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápices', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

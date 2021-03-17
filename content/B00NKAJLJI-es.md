@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NKAJLJI-es Faber Castell 554224 - Estuche de cartón con 24...'
 sku: 'B00NKAJLJI-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','castell','faber','rotuladores', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','castell','faber','rotuladores', ]
 actualPrice: 3.81 EUR
 currency: EUR
 price: 3.81

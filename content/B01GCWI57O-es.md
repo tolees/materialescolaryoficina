@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GCWI57O-es Paper Mate Dryline Cinta de corrección 5 mm x 8.5 m 4...'
 sku: 'B01GCWI57O-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mate','paper', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mate','paper', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

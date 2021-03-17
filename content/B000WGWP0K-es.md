@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WGWP0K-es STABILO power Rotuladores escolares - Estuche con 12 colores'
 sku: 'B000WGWP0K-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotuladores','stabilo', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotuladores','stabilo', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

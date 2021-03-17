@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5YD5M5-es Moleskine - Agenda Semanal de 18 Meses Agenda Semanal...'
 sku: 'B07Y5YD5M5-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','moleskine', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','moleskine', ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

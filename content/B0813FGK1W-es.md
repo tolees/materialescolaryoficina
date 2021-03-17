@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813FGK1W-es Portalápices 5 Piezas de Escritorio de Organizador de...'
 sku: 'B0813FGK1W-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápices', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápices', ]
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

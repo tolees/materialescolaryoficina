@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T27P2VQ-es Armani Exchange Liz - Mochila 28 x 8 x 26 cm color Beige...'
 sku: 'B07T27P2VQ-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
 actualPrice: 62.89 EUR
 currency: EUR
 price: 62.89

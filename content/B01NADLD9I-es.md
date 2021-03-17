@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NADLD9I-es Rotulador punta media STABILO pointMax - Estuche con 12...'
 sku: 'B01NADLD9I-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotulador','stabilo', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotulador','stabilo', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

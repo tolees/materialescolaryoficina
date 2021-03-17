@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PT4XR49-es Grip BE-TOOL - Juego de bolígrafos de punta redonda de...'
 sku: 'B07PT4XR49-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafos','escolar', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafos','escolar', ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

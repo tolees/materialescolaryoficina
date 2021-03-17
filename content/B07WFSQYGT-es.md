@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WFSQYGT-es BabbleRoo Mochilas de Pañales para Bebé Gran Capacidad...'
 sku: 'B07WFSQYGT-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
 actualPrice: 32.79 EUR
 currency: EUR
 price: 32.79

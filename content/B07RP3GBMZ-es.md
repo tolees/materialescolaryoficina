@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP3GBMZ-es Calvin Klein - Punched Round Backpack Shoppers y bolsos de...'
 sku: 'B07RP3GBMZ-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','backpack', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','backpack', ]
 actualPrice: 50.02 EUR
 currency: EUR
 price: 50.02

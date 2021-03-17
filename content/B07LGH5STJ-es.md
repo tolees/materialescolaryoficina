@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGH5STJ-es Play-Doh color surtido Pack 8 Botes Hasbro E5044EU4'
 sku: 'B07LGH5STJ-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','play-doh', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','play-doh', ]
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

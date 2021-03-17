@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5Y4X8N-es Pegatina pizarra tamaño 78 8” x 23 6” pizarra adhesiva...'
 sku: 'B08B5Y4X8N-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','tijeras', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','tijeras', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

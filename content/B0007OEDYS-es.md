@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007OEDYS-es STABILO BOSS Original Marcador fluorescente multicolor -...'
 sku: 'B0007OEDYS-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','stabilo', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','stabilo', ]
 actualPrice: 4.05 EUR
 currency: EUR
 price: 4.05

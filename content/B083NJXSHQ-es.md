@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083NJXSHQ-es zhi wei Mochila Portatil 15.6 Pulgadas Mochila Hombre...'
 sku: 'B083NJXSHQ-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','backpack','mochila', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','backpack','mochila', ]
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

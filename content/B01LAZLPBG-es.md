@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LAZLPBG-es V-SOL Vintage Floral Bolsa Bolsillo Escolar de Lápiz...'
 sku: 'B01LAZLPBG-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafo','escolar','lápiz', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafo','escolar','lápiz', ]
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

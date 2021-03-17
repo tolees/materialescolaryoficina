@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002C2S0YC-es Apli 1785 - Etiquetas 500 hojas'
 sku: 'B002C2S0YC-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','apli', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','apli', ]
 actualPrice: 57.33 EUR
 currency: EUR
 price: 57.33

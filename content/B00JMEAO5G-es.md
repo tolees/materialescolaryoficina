@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JMEAO5G-es Faber Castell 65021 - Pack escolar con escuadra cartabón...'
 sku: 'B00JMEAO5G-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','cartabón','castell','escolar','faber', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','cartabón','castell','escolar','faber', ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

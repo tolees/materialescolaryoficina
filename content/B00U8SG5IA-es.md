@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U8SG5IA-es Beter Tijeras de pedicura especial para las uñas gruesas...'
 sku: 'B00U8SG5IA-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','tijeras', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','tijeras', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

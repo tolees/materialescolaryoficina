@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7WDXQ7-es Miquelrius - Mochila Pequeña Poliéster Cierres Cremallera...'
 sku: 'B07K7WDXQ7-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','miquelrius','mochila', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','miquelrius','mochila', ]
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

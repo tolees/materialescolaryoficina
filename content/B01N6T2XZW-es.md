@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6T2XZW-es Rapesco ECO HD-140 - Grapadora de gruesos 140 hojas de...'
 sku: 'B01N6T2XZW-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','grapadora', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','grapadora', ]
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

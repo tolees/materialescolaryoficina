@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004TOI92E-es Milan 176512925 - Bolígrafo de punta redonda 25 unidades'
 sku: 'B004TOI92E-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafo', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafo', ]
 actualPrice: 2.38 EUR
 currency: EUR
 price: 2.38

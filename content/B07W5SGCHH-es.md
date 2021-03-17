@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5SGCHH-es Bonamana Estuche para lápices diseño de Anime doble capa...'
 sku: 'B07W5SGCHH-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápices', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápices', ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

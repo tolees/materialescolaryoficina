@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6XNWF5-es Afilador de lápices eléctrico portátil con batería para...'
 sku: 'B07V6XNWF5-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápices', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

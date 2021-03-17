@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BC3LQTT-es Pistola de pegamento Dweyka 50 W mini pistola de pegamento...'
 sku: 'B08BC3LQTT-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','barras','de','pegamento', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','barras','de','pegamento', ]
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

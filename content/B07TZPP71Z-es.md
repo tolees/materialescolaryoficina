@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZPP71Z-es LOBKIN Rotuladores de Pintura Acrílica Keten 12 Colores...'
 sku: 'B07TZPP71Z-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotuladores', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotuladores', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

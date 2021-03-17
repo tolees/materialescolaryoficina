@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXLT8TK-es Demeu 6000 Banda Goma Trenzado:5000 Bandas Trenzadas 14...'
 sku: 'B07XXLT8TK-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

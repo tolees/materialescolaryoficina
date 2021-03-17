@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CG6IFIO-es Ceras PLASTIDECOR Pastel Estuche DE 12'
 sku: 'B01CG6IFIO-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','plastidecor', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','plastidecor', ]
 actualPrice: 1.51 EUR
 currency: EUR
 price: 1.51

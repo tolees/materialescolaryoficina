@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3KHQ9G-es Moleskine - Agenda Diaria de 12 Meses 2020 Tamaño Grande...'
 sku: 'B07J3KHQ9G-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','moleskine', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','moleskine', ]
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

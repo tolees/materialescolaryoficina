@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LM1WPM2-es BIC Highlighter Grip Marcadores punta media 1 6 mm -...'
 sku: 'B00LM1WPM2-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bic','highlighter', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bic','highlighter', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

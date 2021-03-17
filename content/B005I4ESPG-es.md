@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005I4ESPG-es Pentel Ain Stein - Minas para portaminas 0.7 x 60 mm...'
 sku: 'B005I4ESPG-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','pentel','portaminas', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','pentel','portaminas', ]
 actualPrice: 2.73 EUR
 currency: EUR
 price: 2.73

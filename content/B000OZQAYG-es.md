@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OZQAYG-es Rotulador STABILO Pen 68 - Estuche premium Colorparade con...'
 sku: 'B000OZQAYG-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotulador','stabilo', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotulador','stabilo', ]
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

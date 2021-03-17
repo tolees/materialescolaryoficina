@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8XZ7MB-es Tommy Hilfiger - Kids Core Drawstring Backpack Mochilas...'
 sku: 'B07V8XZ7MB-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','backpack', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','backpack', ]
 actualPrice: 17.82 EUR
 currency: EUR
 price: 17.82

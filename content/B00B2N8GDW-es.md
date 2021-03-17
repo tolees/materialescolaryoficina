@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B2N8GDW-es 3 Claveles Tijeras Cocina Multiusos Acero Inoxidable...'
 sku: 'B00B2N8GDW-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','tijeras', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','tijeras', ]
 actualPrice: 27.05 EUR
 currency: EUR
 price: 27.05

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4QTQTW-es deAO Colegio de Muñecas Conjunto 2en 1 de Bus Escolar y...'
 sku: 'B07Q4QTQTW-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','escolar', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','escolar', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

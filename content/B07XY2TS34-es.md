@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XY2TS34-es int!rend Caja de regalo | incluye 10 rotuladores metálicos...'
 sku: 'B07XY2TS34-es'
-tags: [ 'Accesorios de escritorio y productos de almacenamiento','Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Estuches escolares','Hogar y cocina','Lápices','Marcadores','Material de oficina','Materiales de dibujo','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotuladores', ]
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotuladores', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9
