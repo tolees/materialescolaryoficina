@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'E-Vitta EVBP001008 - Mochila para Ordena al 49.98 % de rebaja'
-date: 2021-03-12 18:35:27
+date: 2021-03-17 07:49:17
 image: 'https://m.media-amazon.com/images/I/51XVMnWRFiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYFC64H-es E-Vitta EVBP001008 - Mochila para Ordenador portátil de...'
 sku: 'B01LYFC64H-es'
-tags: [ 'mochila', ]
+tags: [ 'e-vitta','mochila', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'E-Vitta'
 buyurl: 'https://www.amazon.es/dp/B01LYFC64H/?tag=tolees-21'
 descuento: '49.98'
-average: '14.9516'
+average: '14.9551851851851'
 ---
 
 Tienes [E-Vitta EVBP001008 - Mochila para Ordenador portátil de 16"  Multicolor](https://www.amazon.es/dp/B01LYFC64H/?tag=tolees-21) con precio final de  15.0 EUR (original: 29.99 EUR) (49.98 %  de rebaja) aqui!
