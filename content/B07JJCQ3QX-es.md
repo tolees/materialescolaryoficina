@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJCQ3QX-es ASUS ROG Ranger BP1500 maletines para portátil 39 6 cm...'
 sku: 'B07JJCQ3QX-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

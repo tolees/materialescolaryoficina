@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NFS1C1K-es Bestway Dura-Trek - Mochila 65 litros 70 x 32 x 22 cm'
 sku: 'B00NFS1C1K-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 30.72 EUR
 currency: EUR
 price: 30.72

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q7VF2LZ-es Bedee - Afilador de cuchillos 3 pasos diamante cerámica...'
 sku: 'B07Q7VF2LZ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','tijeras', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','tijeras', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

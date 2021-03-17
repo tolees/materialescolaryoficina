@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079WJJPHF-es Pentel SES15-4COL - Estuche rotulador punta pincel 4...'
 sku: 'B079WJJPHF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','pentel','rotulador', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','pentel','rotulador', ]
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

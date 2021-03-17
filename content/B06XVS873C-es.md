@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XVS873C-es HP 1FK05AA - Mochila para portátiles de hasta 15.6" color...'
 sku: 'B06XVS873C-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

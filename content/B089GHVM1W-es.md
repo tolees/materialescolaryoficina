@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089GHVM1W-es Mochila para Portátil Hombre 18 4 Pulgadas Impermeable...'
 sku: 'B089GHVM1W-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 39.83 EUR
 currency: EUR
 price: 39.83

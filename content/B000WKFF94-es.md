@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WKFF94-es Pelikan Premium Textmarker Rotuladores fluorescentes...'
 sku: 'B000WKFF94-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','escolar','rotuladores', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','escolar','rotuladores', ]
 actualPrice: 6.04 EUR
 currency: EUR
 price: 6.04

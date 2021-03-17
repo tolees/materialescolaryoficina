@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X28CTWJ-es HUION Inspiroy Ink H320M Rojo Tableta de Dibujo gráfico...'
 sku: 'B07X28CTWJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápiz', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','lápiz', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

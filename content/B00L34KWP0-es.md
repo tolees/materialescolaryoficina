@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L34KWP0-es BIC Kids Kid Couleur - Pack de 20 rotuladores de colorear...'
 sku: 'B00L34KWP0-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','colorear','rotuladores', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','colorear','rotuladores', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MAGPD18-es Pilot Negro frixion Punta Redonda borrable bolígrafos...'
 sku: 'B00MAGPD18-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafos', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','bolígrafos', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

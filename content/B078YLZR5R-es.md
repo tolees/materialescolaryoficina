@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YLZR5R-es Thule EnRoute - Mochila de 23L Color Azul'
 sku: 'B078YLZR5R-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 57.92 EUR
 currency: EUR
 price: 57.92

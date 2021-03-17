@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085VBLDL4-es Carioca Set Colegio Primaria | Material Escolar con...'
 sku: 'B085VBLDL4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafos','escolar','lápices','material','rotuladores', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','bolígrafos','escolar','lápices','material','rotuladores', ]
 actualPrice: 21.67 EUR
 currency: EUR
 price: 21.67

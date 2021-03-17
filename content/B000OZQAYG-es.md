@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OZQAYG-es Rotulador STABILO Pen 68 - Estuche premium Colorparade con...'
 sku: 'B000OZQAYG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','rotulador','stabilo', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','rotulador','stabilo', ]
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

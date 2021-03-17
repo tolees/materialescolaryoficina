@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S196TRJ-es chaqlin - Juego de 3 bolsas de escuela para niños mochila...'
 sku: 'B07S196TRJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápices','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','lápices','mochila', ]
 actualPrice: 22.65 EUR
 currency: EUR
 price: 22.65

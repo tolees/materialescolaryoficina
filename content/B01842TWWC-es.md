@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01842TWWC-es Faber Castell B-9067-2B - Blíster tubo de 12 minas 0.7 mm...'
 sku: 'B01842TWWC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','castell','faber', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','castell','faber', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

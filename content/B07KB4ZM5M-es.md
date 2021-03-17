@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KB4ZM5M-es Miquelrius - Mochila Grande Poliéster Con Carro Cierres...'
 sku: 'B07KB4ZM5M-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','miquelrius','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','miquelrius','mochila', ]
 actualPrice: 16.44 EUR
 currency: EUR
 price: 16.44

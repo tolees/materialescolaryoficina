@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076YNY3JG-es Apli kids-Caja domino casita la granja 28 unidades'
 sku: 'B076YNY3JG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','apli', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','apli', ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

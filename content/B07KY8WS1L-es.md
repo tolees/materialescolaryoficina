@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KY8WS1L-es Eastpak ORBIT Mochila tipo casual 33.5 x 23 x 15 cm 10...'
 sku: 'B07KY8WS1L-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

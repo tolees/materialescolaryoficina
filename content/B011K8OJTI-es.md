@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011K8OJTI-es Black Diamond Speed 22 Mochila Unisex Adulto Sulfur'
 sku: 'B011K8OJTI-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 64.13 EUR
 currency: EUR
 price: 64.13

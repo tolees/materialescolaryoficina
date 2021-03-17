@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0046ZRAB2-es L Oréal Paris Lápiz de Labios Infalible Lipliner 703...'
 sku: 'B0046ZRAB2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápiz', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','lápiz', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

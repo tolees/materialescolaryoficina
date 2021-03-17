@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YD47ZBF-es Catekro Caja de Almacenamiento de Oficina de Gran...'
 sku: 'B07YD47ZBF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','bolígrafo', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

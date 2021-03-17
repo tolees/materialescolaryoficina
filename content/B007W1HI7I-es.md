@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007W1HI7I-es BIC Cristal Original Punta Fina - Estuche de 4 bolígrafos...'
 sku: 'B007W1HI7I-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bic','bolígrafos','cristal', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','bic','bolígrafos','cristal', ]
 actualPrice: 1.58 EUR
 currency: EUR
 price: 1.58

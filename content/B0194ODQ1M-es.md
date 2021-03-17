@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0194ODQ1M-es P.KU.VDSL® Mochilas tipo casual / Mochila Vintage de Lona...'
 sku: 'B0194ODQ1M-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 43.08 EUR
 currency: EUR
 price: 43.08

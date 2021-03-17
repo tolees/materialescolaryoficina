@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C777NZS-es APLI Kids 14227 - Color Sticks 10 g 6 u.'
 sku: 'B01C777NZS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','apli', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','apli', ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

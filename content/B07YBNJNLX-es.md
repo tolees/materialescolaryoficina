@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBNJNLX-es Parfois - Mochila Estampada - Mujeres - Tallas L - Rosa'
 sku: 'B07YBNJNLX-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

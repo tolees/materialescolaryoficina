@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00331LILS-es Cinta adhesiva de señalización temporal tesa color...'
 sku: 'B00331LILS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','adhesiva','cinta', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','adhesiva','cinta', ]
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

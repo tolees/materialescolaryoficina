@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG11LZD-es CADeN Camera Hombro Bolsa de Mensajero Mochila de Lona...'
 sku: 'B06XG11LZD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

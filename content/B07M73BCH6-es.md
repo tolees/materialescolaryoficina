@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M73BCH6-es Rotulador de 80 Colores Marker Pen Marcadores Manga...'
 sku: 'B07M73BCH6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','rotulador','rotuladores', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','rotulador','rotuladores', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894HS6YW-es Dazspirit 36 Colores Caja Acuarelas Profesionales & Papel...'
 sku: 'B0894HS6YW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','acuarelas', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','acuarelas', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

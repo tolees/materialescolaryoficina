@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0713XMGC3-es aeioubaby.com Tabla RECOMPENSAS Magnética Grande | Pizarra...'
 sku: 'B0713XMGC3-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','rotuladores', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','rotuladores', ]
 actualPrice: 16.06 EUR
 currency: EUR
 price: 16.06

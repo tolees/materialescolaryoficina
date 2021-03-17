@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088WNLHMN-es NACTECH 20pcs Washi Tape Washi Cinta Adhesiva Cinta para...'
 sku: 'B088WNLHMN-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','adhesiva','cinta', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','adhesiva','cinta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

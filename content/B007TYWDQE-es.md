@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007TYWDQE-es Faber-Castell - Vaso para el agua Clic & Go plegable fácil...'
 sku: 'B007TYWDQE-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','faber-castell', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','faber-castell', ]
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

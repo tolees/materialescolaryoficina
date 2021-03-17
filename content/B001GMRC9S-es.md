@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GMRC9S-es Lyra 6521120 - Rotuladores 12 unidades'
 sku: 'B001GMRC9S-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','rotuladores', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','rotuladores', ]
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

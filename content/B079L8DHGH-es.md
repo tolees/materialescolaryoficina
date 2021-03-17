@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079L8DHGH-es AmazonBasics - Mochila compacta de viaje Negro para viajes...'
 sku: 'B079L8DHGH-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 42.25 EUR
 currency: EUR
 price: 42.25

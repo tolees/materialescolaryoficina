@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002GTGGG-es Crayola 3678 - Lápices Decorados Jumbo color/modelo surtido'
 sku: 'B0002GTGGG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápices', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','lápices', ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

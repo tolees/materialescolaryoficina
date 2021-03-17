@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JBG7FOC-es EXERZ E Organizador de Escritorio 360 Grados Giratorio con...'
 sku: 'B01JBG7FOC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','borrar','de','goma','grapadora','tijeras', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','borrar','de','goma','grapadora','tijeras', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

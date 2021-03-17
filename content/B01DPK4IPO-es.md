@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DPK4IPO-es The North Face Borealis Classic Mochila Unisex Adulto...'
 sku: 'B01DPK4IPO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 65.94 EUR
 currency: EUR
 price: 65.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T45LQR2-es Laluztop Pistola de Silicona Caliente 50W Pistola de...'
 sku: 'B07T45LQR2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','barras','de','pegamento', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','barras','de','pegamento', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

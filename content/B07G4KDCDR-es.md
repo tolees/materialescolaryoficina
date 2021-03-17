@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4KDCDR-es Real Madrid CF 611854662 Mochila Adaptable a Carro Niños...'
 sku: 'B07G4KDCDR-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

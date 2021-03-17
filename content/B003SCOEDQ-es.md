@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003SCOEDQ-es Calculadora bolsillo sencilla Canon AS-8 Negra'
 sku: 'B003SCOEDQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','calculadora', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','calculadora', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

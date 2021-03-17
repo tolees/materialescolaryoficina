@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071RN51KN-es UCEC® Set de 6 Tijeras Coloridas Decorativas Tijeras...'
 sku: 'B071RN51KN-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','tijeras', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','tijeras', ]
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

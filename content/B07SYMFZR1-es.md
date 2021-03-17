@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SYMFZR1-es Pepe Jeans Pam - Mochila Saco Multicolor 44 cm'
 sku: 'B07SYMFZR1-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

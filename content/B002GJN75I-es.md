@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002GJN75I-es Pilot G-2 - Bolígrafo de tinta gel con trazo fino azul 0 7...'
 sku: 'B002GJN75I-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','bolígrafo', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

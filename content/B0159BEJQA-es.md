@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0159BEJQA-es Alpino DP00005601 - Pastilla plastilina'
 sku: 'B0159BEJQA-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','alpino','plastilina', ]
+tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','alpino','plastilina', ]
 actualPrice: 0.42 EUR
 currency: EUR
 price: 0.42
