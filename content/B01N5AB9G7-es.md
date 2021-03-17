@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5AB9G7-es Play-Doh Pizzería Multicolor 23 x 22 cm Hasbro B1856EU6'
 sku: 'B01N5AB9G7-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','play-doh', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','play-doh', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

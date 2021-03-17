@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M23PFFA-es Parker IM - Bolígrafo Punta mediana color Negro Black...'
 sku: 'B01M23PFFA-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafo', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','bolígrafo', ]
 actualPrice: 17.03 EUR
 currency: EUR
 price: 17.03

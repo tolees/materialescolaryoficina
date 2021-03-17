@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YLZR5R-es Thule EnRoute - Mochila de 23L Color Azul'
 sku: 'B078YLZR5R-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 57.92 EUR
 currency: EUR
 price: 57.92

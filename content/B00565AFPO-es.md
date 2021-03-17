@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00565AFPO-es APLI 2414 - Etiquetas Blancas permanentes 63 5 x 38 1 mm...'
 sku: 'B00565AFPO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','apli', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','apli', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

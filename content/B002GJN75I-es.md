@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002GJN75I-es Pilot G-2 - Bolígrafo de tinta gel con trazo fino azul 0 7...'
 sku: 'B002GJN75I-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafo', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','bolígrafo', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

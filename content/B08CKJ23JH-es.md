@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'APLI 18414 - Estuche silicona Nordik Col con un 24.79 % de descuento'
-date: 2021-03-15 23:59:34
+date: 2021-03-17 10:20:13
 image: 'https://m.media-amazon.com/images/I/314sJXxlWCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKJ23JH-es APLI 18414 - Estuche silicona Nordik Collection - Turquesa'
 sku: 'B08CKJ23JH-es'
-tags: [ 'apli', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','apli', ]
 actualPrice: 4.46 EUR
 currency: EUR
 price: 4.46
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B08CKJ23JH/?tag=tolees-21'
 descuento: '24.79'
-average: '6.24588235294117'
+average: '6.21153846153845'
 ---
 
 En este momento está [APLI 18414 - Estuche silicona Nordik Collection - Turquesa](https://www.amazon.es/dp/B08CKJ23JH/?tag=tolees-21) a 4.46 EUR (original: 5.93 EUR) (24.79 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [APLI 18414 - Estuche silicona Nordik Collection - Turques
 
 🔎:
 
+- Estuche de silicona color turquesa de la gama Nordik Collection.
 - Resistente al agua y muy fácil de limpiar.
 - Silicona de alta calidad con acabado tacto suave.
-- Estuche de silicona color turquesa de la gama Nordik Collection.
 - Estuche con cremallera, flexible y moldeable.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CKJ23JH/?tag=tolees-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRJHG8G-es Portaminas BE-TOOL de 0 5 mm 4 portaminas de 0 5 mm de...'
 sku: 'B07ZRJHG8G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','lápiz','portaminas', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','lápiz','portaminas', ]
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

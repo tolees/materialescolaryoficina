@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JAHRUF2-es Androni - Mochila de mar del bebé Crazy Fish'
 sku: 'B00JAHRUF2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

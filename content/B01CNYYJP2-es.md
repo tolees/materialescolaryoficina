@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CNYYJP2-es Staedtler Lumocolor 350 WP8. Rotuladores permanentes con...'
 sku: 'B01CNYYJP2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','rotuladores', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','rotuladores', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

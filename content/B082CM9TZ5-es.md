@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082CM9TZ5-es Memoria Flash USB 64GB Memoria USB 3.0 Pendrive con Luz...'
 sku: 'B082CM9TZ5-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','lápiz', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','lápiz', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

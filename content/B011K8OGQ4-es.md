@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011K8OGQ4-es Black Diamond Speed 22 Mochila Unisex Adulto Graphite'
 sku: 'B011K8OGQ4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 63.6 EUR
 currency: EUR
 price: 63.6

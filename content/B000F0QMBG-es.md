@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000F0QMBG-es Cross Classic Century Bolígrafo - plata de ley'
 sku: 'B000F0QMBG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafo', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','bolígrafo', ]
 actualPrice: 111.97 EUR
 currency: EUR
 price: 111.97

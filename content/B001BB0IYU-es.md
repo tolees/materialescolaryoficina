@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BB0IYU-es Post-It 6820 - Notas adhesivas 76 x 76 mm color amarillo'
 sku: 'B001BB0IYU-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','post-it', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','post-it', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

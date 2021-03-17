@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC9H5YH-es Pepe Jeans Mochila 28 cm 6.72 Liters Azul'
 sku: 'B07VC9H5YH-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

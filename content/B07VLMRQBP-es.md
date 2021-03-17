@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLMRQBP-es Carioca Set Baby 2+ | 53222 - Kit Colores: Rotuladores...'
 sku: 'B07VLMRQBP-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','lápices','rotuladores', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','lápices','rotuladores', ]
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

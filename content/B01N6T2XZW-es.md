@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6T2XZW-es Rapesco ECO HD-140 - Grapadora de gruesos 140 hojas de...'
 sku: 'B01N6T2XZW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','grapadora', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','grapadora', ]
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

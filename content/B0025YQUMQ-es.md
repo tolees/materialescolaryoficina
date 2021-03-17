@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0025YQUMQ-es Jovi-725265 Caja de 15 Barras de plastilina 216047'
 sku: 'B0025YQUMQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','plastilina', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','plastilina', ]
 actualPrice: 4.78 EUR
 currency: EUR
 price: 4.78

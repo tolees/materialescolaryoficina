@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGMLMCY-es NIKE Nk Heritage Bkpk - 2.0 Sports Backpack Unisex adulto...'
 sku: 'B07RGMLMCY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','backpack', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','backpack', ]
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMVK4V8-es Converse Converse EDC 22 Backpack 10007031-A06 Bolso...'
 sku: 'B07FMVK4V8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','backpack', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','backpack', ]
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

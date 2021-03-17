@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHBQS8B-es Memoria USB 3.0 64 GB 3 en 1 Pen Drive Tipo C USB 3.0...'
 sku: 'B07RHBQS8B-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','lápiz', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','lápiz', ]
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

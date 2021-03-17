@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQ5HL2C-es Rrtizan Bolsa de Computadora de Viaje para Hombres y...'
 sku: 'B07HQ5HL2C-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Estuches escolares','Herramientas de mano para jardinería','Jardinería','Jardín','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
