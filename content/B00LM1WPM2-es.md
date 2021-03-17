@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LM1WPM2-es BIC Highlighter Grip Marcadores punta media 1 6 mm -...'
 sku: 'B00LM1WPM2-es'
-tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos','Utensilios de cocina','bic','highlighter', ]
+tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

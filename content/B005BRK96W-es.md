@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005BRK96W-es BIC Cristal Original bolígrafos punta media 1 0 mm –...'
 sku: 'B005BRK96W-es'
-tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos','Utensilios de cocina','bic','bolígrafos','cristal', ]
+tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

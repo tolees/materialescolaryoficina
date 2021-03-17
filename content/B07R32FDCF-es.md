@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R32FDCF-es Mochila Mujer Hombre-Mochila Antirrobo Portatil 15.6...'
 sku: 'B07R32FDCF-es'
-tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos','Utensilios de cocina','mochila', ]
+tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

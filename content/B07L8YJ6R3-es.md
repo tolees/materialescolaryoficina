@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8YJ6R3-es Brrnoo 16L Gabinete de Esterilización UV 2 en 1 Caja de...'
 sku: 'B07L8YJ6R3-es'
-tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos','Utensilios de cocina','tijeras', ]
+tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
 actualPrice: 68.59 EUR
 currency: EUR
 price: 68.59
