@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BYWDV6G-es American Tourister AT Work - Mochila Mesh tipo casual para...'
 sku: 'B07BYWDV6G-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','mochila', ]
 actualPrice: 36.27 EUR
 currency: EUR
 price: 36.27

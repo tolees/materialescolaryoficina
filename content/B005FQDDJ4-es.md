@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005FQDDJ4-es Max Factor Khol Pencil Eyeliner Lápiz de Ojos Tono 50...'
 sku: 'B005FQDDJ4-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','lápiz', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','lápiz', ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

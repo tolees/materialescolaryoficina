@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076B4WYY3-es Casio MS-20UC-BU - Calculadora 2.3 x 10.5 x 14.95 cm color...'
 sku: 'B076B4WYY3-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','calculadora', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','calculadora', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

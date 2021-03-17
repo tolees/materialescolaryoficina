@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011C8ETY6-es APLI Kids - Bolsa de gomets cara feliz 3 hojas adhesivo...'
 sku: 'B011C8ETY6-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','apli', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','apli', ]
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

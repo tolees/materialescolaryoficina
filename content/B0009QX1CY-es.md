@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009QX1CY-es Dymo D1 Standard Cintas para Impresoras de Etiquetas 19 mm...'
 sku: 'B0009QX1CY-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','dymo', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','dymo', ]
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J1Y8AMG-es edding 4200-6-S-000 - Estuche con 6 rotuladores para...'
 sku: 'B00J1Y8AMG-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','rotuladores', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','rotuladores', ]
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

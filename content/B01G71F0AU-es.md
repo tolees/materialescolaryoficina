@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G71F0AU-es Bourjois Liner Feutre Lápiz de ojos Tono 16 Noir - 7 gr.'
 sku: 'B01G71F0AU-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','lápiz', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','lápiz', ]
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

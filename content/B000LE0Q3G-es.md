@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LE0Q3G-es APLI 1787 - Etiquetas blancas permanentes 210 0 x 148 0 mm...'
 sku: 'B000LE0Q3G-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','apli', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','apli', ]
 actualPrice: 61.73 EUR
 currency: EUR
 price: 61.73

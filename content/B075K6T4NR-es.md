@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075K6T4NR-es Barras de pegamento caliente de Beeway®'
 sku: 'B075K6T4NR-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','barras','de','pegamento', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','barras','de','pegamento', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

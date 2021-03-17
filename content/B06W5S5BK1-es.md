@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5S5BK1-es Cronus y Rhea® | Carpeta Exclusiva de Cuero Exclusivo...'
 sku: 'B06W5S5BK1-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','bolígrafos','lápices', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','bolígrafos','lápices', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

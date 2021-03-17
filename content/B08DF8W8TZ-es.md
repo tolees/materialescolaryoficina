@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DF8W8TZ-es Mochila Infantil 3D Estuche Escolar y Bolsa Merienda de...'
 sku: 'B08DF8W8TZ-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','escolar','material','mochila', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','escolar','material','mochila', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

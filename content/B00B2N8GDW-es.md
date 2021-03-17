@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B2N8GDW-es 3 Claveles Tijeras Cocina Multiusos Acero Inoxidable...'
 sku: 'B00B2N8GDW-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','tijeras', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','tijeras', ]
 actualPrice: 27.05 EUR
 currency: EUR
 price: 27.05

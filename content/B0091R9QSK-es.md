@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0091R9QSK-es Pilot G-Tec C4 - Bolígrafo roller 0 4 mm color negro'
 sku: 'B0091R9QSK-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','bolígrafo', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','bolígrafo', ]
 actualPrice: 2.4 EUR
 currency: EUR
 price: 2.4

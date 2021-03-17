@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSJ4HQ7-es Kipling City Pack S Mochila para Mujer Verde Seagrass 27 x...'
 sku: 'B07PSJ4HQ7-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','mochila', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','mochila', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

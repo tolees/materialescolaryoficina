@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XUA5UXY-es Alpino DA000125 - Estuche 12 ceras'
 sku: 'B00XUA5UXY-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','alpino', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','alpino', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

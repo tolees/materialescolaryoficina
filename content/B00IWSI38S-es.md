@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IWSI38S-es BOLIGRAFO BIC Cristal Oro'
 sku: 'B00IWSI38S-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','bic','boligrafo','cristal', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','bic','boligrafo','cristal', ]
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

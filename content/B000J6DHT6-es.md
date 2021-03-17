@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000J6DHT6-es CASIO FC-100V Calculadora Financiera 13.7 x 80 x 161 mm...'
 sku: 'B000J6DHT6-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','calculadora', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','calculadora', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

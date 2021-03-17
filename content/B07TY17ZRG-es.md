@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TY17ZRG-es Parker Jotter Originals Rotulador Roller Acabado Amarillo...'
 sku: 'B07TY17ZRG-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','rotulador', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','rotulador', ]
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

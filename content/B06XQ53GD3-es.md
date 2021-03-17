@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XQ53GD3-es Staedtler 308 S1WP3 - Rotulador color negro'
 sku: 'B06XQ53GD3-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','rotulador', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','rotulador', ]
 actualPrice: 3.22 EUR
 currency: EUR
 price: 3.22
