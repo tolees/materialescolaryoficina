@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L9RPNV4-es Eastpak Provider Mochila 44 cm 33 L Gris Black Denim'
 sku: 'B00L9RPNV4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
 actualPrice: 59.63 EUR
 currency: EUR
 price: 59.63

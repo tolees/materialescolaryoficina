@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LDAZI4S-es Dis2 - Plumier de lápices doble bestial wolf negro'
 sku: 'B01LDAZI4S-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápices', ]
 actualPrice: 25.1 EUR
 currency: EUR
 price: 25.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000REHKUC-es Faber-Castell Ambition - Roller de bola madera de peral'
 sku: 'B000REHKUC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','faber-castell', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','faber-castell', ]
 actualPrice: 77.33 EUR
 currency: EUR
 price: 77.33

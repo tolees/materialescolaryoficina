@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHNK2RV-es Rotuladores Set de 40 Colores de Doble Punta y Organizador...'
 sku: 'B08BHNK2RV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','colorear','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','colorear','rotuladores', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

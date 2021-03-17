@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F469YVF-es 12 lápices de colores diferentes con sacapuntas lápices de...'
 sku: 'B08F469YVF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápices', ]
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

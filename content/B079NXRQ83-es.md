@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NXRQ83-es Mayka - Cinta Adhesiva Grande IMC TOYS 97148'
 sku: 'B079NXRQ83-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','adhesiva','cinta', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','adhesiva','cinta', ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

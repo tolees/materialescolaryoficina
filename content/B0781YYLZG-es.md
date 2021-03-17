@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781YYLZG-es Totto - Estuche escolar tres compartimentos 23 cm -...'
 sku: 'B0781YYLZG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','escolar', ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

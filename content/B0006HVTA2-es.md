@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0006HVTA2-es BIC Soft Feel - Caja de 12 unidades bolígrafos retráctiles...'
 sku: 'B0006HVTA2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafos', ]
 actualPrice: 6.12 EUR
 currency: EUR
 price: 6.12

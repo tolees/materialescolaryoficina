@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G71F0AU-es Bourjois Liner Feutre Lápiz de ojos Tono 16 Noir - 7 gr.'
 sku: 'B01G71F0AU-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápiz', ]
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

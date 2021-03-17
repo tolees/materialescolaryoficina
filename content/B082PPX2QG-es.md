@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PPX2QG-es BONNYCO Bolígrafo Tinta Invisible y Libreta Pack x 32...'
 sku: 'B082PPX2QG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

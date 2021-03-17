@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00565AFPO-es APLI 2414 - Etiquetas Blancas permanentes 63 5 x 38 1 mm...'
 sku: 'B00565AFPO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','apli', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

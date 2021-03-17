@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001OUS8J0-es Staedtler Mars Lumograph 100 G12 S. Pack de 12 lápices de...'
 sku: 'B001OUS8J0-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápices', ]
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

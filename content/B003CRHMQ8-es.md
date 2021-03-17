@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003CRHMQ8-es Wolfcraft 7089000 7089000-1 Set tacocraft 7" Grapadora con...'
 sku: 'B003CRHMQ8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','grapadora', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','grapadora', ]
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N36WGZQ-es Ulikey Medidor de Suelo con 10 Piezas de Herramientas...'
 sku: 'B07N36WGZQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','tijeras', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

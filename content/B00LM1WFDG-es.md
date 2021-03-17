@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LM1WFDG-es BIC Kids Learner Portaminas HB con Minas de Recambio 1 3...'
 sku: 'B00LM1WFDG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','portaminas', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','portaminas', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

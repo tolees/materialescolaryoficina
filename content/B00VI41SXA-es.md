@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VI41SXA-es Play-Doh - Maletin Herramientas Hasbro B1169EU4'
 sku: 'B00VI41SXA-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','play-doh', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','play-doh', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

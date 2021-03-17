@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RCJWSE8-es 3M Post-It 654-SS-VP24COL-EU - Pack de 24 x 90 notas...'
 sku: 'B00RCJWSE8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','post-it', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','post-it', ]
 actualPrice: 21.94 EUR
 currency: EUR
 price: 21.94

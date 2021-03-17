@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1TR3GF-es Tommy Hilfiger - Sport Mix Backpack Solid Carteras Hombre...'
 sku: 'B07K1TR3GF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','backpack', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','backpack', ]
 actualPrice: 49.81 EUR
 currency: EUR
 price: 49.81

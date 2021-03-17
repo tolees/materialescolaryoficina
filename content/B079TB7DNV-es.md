@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079TB7DNV-es Alpino AL010760 - Estuche 36 lápices'
 sku: 'B079TB7DNV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','alpino','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','alpino','lápices', ]
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

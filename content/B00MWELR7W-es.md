@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MWELR7W-es NAKOSITE Ruta Perfecta es un Podómetro en 3D con Correa y...'
 sku: 'B00MWELR7W-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','calculadora', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','calculadora', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AXT5RS2-es Petrus 624824 Grapadora Eléctrica Grapa 10 Hojas Funciona...'
 sku: 'B01AXT5RS2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','grapadora', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','grapadora', ]
 actualPrice: 23.78 EUR
 currency: EUR
 price: 23.78

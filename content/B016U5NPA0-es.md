@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016U5NPA0-es NAVIGATOR A4 80 g/m² papel universal 10x Reams 5 000...'
 sku: 'B016U5NPA0-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','papel','universal', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','papel','universal', ]
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

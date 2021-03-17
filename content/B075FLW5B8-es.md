@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FLW5B8-es Baby Playpen - Centro de actividades para niños juego de...'
 sku: 'B075FLW5B8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

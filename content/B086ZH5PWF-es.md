@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ZH5PWF-es Bolígrafo de 10 colores Bolígrafo de gel de dibujos...'
 sku: 'B086ZH5PWF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo','escolar', ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

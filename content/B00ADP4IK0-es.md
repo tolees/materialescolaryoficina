@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ADP4IK0-es Carioca - Caja con 24 rotuladores A52100024'
 sku: 'B00ADP4IK0-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','rotuladores', ]
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002LCWBM-es Fiskars 1003859 - Tijeras para niños color azul or verde'
 sku: 'B0002LCWBM-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','tijeras', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

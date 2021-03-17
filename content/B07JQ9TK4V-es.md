@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQ9TK4V-es Bestlife 2018 Mochila Tipo Casual 43 cm 22.0 litros Gris'
 sku: 'B07JQ9TK4V-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

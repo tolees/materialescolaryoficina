@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009GGTPMS-es Jovi 71 - Plastilina color verde claro'
 sku: 'B009GGTPMS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','plastilina', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','plastilina', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

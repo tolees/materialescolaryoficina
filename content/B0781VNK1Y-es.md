@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781VNK1Y-es BIC Kids Evolution ECOlutions Lápices para Colorear -...'
 sku: 'B0781VNK1Y-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','colorear','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','colorear','lápices', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

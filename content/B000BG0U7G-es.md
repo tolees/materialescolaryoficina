@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BG0U7G-es Cross Tech3+ - Bolígrafo multi-funcional color cromado...'
 sku: 'B000BG0U7G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo', ]
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

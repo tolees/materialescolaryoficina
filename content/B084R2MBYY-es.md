@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084R2MBYY-es Pelikan Jazz Classic 815017 Bolígrafo con Mina Azul color...'
 sku: 'B084R2MBYY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo', ]
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

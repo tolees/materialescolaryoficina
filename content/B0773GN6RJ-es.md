@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0773GN6RJ-es DCCN 3 Pcs Canvas Bolsas Escolares Mochila niños niñas...'
 sku: 'B0773GN6RJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','escolar','mochila', ]
 actualPrice: 21.38 EUR
 currency: EUR
 price: 21.38

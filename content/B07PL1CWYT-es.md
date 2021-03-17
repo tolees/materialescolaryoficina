@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PL1CWYT-es Parker Jotter Originals Colección de bolígrafos acabado...'
 sku: 'B07PL1CWYT-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafos', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

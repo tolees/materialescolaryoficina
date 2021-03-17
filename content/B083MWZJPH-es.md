@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083MWZJPH-es RJEU Mochila Mujer 15.6-17.3 Pulgadas Mochila Ordenador...'
 sku: 'B083MWZJPH-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

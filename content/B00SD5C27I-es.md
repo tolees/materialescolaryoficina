@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SD5C27I-es Faber-Castell 32722-8 - Compás de ajuste rápido con...'
 sku: 'B00SD5C27I-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','faber-castell', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','faber-castell', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

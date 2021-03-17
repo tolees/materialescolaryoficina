@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0073RSU6O-es S&R Tijeras para corte de Chapa Aviación serie 250 mm...'
 sku: 'B0073RSU6O-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','tijeras', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

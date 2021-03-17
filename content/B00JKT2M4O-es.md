@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JKT2M4O-es Rotulador Fudenosuke Doble Punta Gris Y Negro Tombow'
 sku: 'B00JKT2M4O-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','rotulador', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','rotulador', ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

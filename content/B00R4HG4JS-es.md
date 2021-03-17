@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R4HG4JS-es Marcador fluorescente STABILO swing cool - Estuche con 6...'
 sku: 'B00R4HG4JS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','stabilo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','stabilo', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

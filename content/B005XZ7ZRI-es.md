@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XZ7ZRI-es PLASTILINA Giotto PATPLUME 150 GR Surtido Caja DE 12'
 sku: 'B005XZ7ZRI-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','plastilina', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','plastilina', ]
 actualPrice: 13.03 EUR
 currency: EUR
 price: 13.03

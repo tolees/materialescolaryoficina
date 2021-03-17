@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0764BWVJ7-es Stabilo Boss Original - Marcador color pastel Set 2 1'
 sku: 'B0764BWVJ7-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','stabilo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','stabilo', ]
 actualPrice: 14.17 EUR
 currency: EUR
 price: 14.17

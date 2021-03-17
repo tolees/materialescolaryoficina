@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5S5BK1-es Cronus y Rhea® | Carpeta Exclusiva de Cuero Exclusivo...'
 sku: 'B06W5S5BK1-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafos','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafos','lápices', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

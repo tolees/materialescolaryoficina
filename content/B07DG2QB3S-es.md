@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DG2QB3S-es Plantilla Dibujo Supplies Pack Escolar con Escuadra...'
 sku: 'B07DG2QB3S-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','cartabón','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','cartabón','escolar', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

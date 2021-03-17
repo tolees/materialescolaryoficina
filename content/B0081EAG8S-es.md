@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0081EAG8S-es Apli - Paquete De 200 Etiquetas Cd/Dvd Clásicas Cobertura...'
 sku: 'B0081EAG8S-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','apli', ]
 actualPrice: 26.59 EUR
 currency: EUR
 price: 26.59

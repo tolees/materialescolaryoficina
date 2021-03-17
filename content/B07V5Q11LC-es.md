@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5Q11LC-es Kipling MIYO Mochila Escolar 25 cm 8 Liters Azul Marine Navy'
 sku: 'B07V5Q11LC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','escolar','mochila', ]
 actualPrice: 26.07 EUR
 currency: EUR
 price: 26.07

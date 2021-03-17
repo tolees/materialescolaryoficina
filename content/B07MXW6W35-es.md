@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXW6W35-es Desigual Backpack Liberté Patch Baza Mochila moderna. para...'
 sku: 'B07MXW6W35-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','backpack','mochila', ]
 actualPrice: 59.2 EUR
 currency: EUR
 price: 59.2

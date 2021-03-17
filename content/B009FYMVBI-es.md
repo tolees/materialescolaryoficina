@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009FYMVBI-es BIC Matic Fun 0 7 HB Portaminas Automático – Diseño en...'
 sku: 'B009FYMVBI-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','portaminas', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','portaminas', ]
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48
