@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DW877HH-es Pepe Jeans Jill Mochila con carro doble compartimento 44 cm'
 sku: 'B07DW877HH-es'
-tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','mochila', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos','Utensilios de cocina','mochila', ]
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

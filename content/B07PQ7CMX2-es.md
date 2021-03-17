@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQ7CMX2-es Xnuoyo 17.3" Mochila Portátil para 12-17 Pulgadas...'
 sku: 'B07PQ7CMX2-es'
-tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','mochila', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos','Utensilios de cocina','mochila', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002C2S0YC-es Apli 1785 - Etiquetas 500 hojas'
 sku: 'B002C2S0YC-es'
-tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Pegamentos instantáneos','Utensilios de cocina','apli', ]
+tags: [ 'Actividades creativas','Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Cuchillos de cocina','Equipaje','Ferretería','Hogar y cocina','Juegos de cuchillos de cocina','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos','Utensilios de cocina','apli', ]
 actualPrice: 57.33 EUR
 currency: EUR
 price: 57.33
