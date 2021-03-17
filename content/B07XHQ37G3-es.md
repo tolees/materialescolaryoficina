@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XHQ37G3-es 12 rollos de cinta adhesiva con purpurina y 1 rollo de 10...'
 sku: 'B07XHQ37G3-es'
-tags: [ 'adhesiva','cinta', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','adhesiva','cinta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

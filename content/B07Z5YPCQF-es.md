@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z5YPCQF-es Faber Castell 154640 Rotulador Fluorescente Color Metallic...'
 sku: 'B07Z5YPCQF-es'
-tags: [ 'castell','faber','rotulador', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','castell','faber','rotulador', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

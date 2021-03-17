@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBMFR2L-es Samsonite Disney Ultimate 2.0 Mochila 35 cm 12 L Azul...'
 sku: 'B07CBMFR2L-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 26.8 EUR
 currency: EUR
 price: 26.8

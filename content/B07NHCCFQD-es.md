@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NHCCFQD-es Paper Mate InkJoy 100ST - Bolígrafos punta mediana 1.0 mm...'
 sku: 'B07NHCCFQD-es'
-tags: [ 'bolígrafos','mate','paper', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafos','mate','paper', ]
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

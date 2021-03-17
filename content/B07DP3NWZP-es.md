@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DP3NWZP-es Eastpak EK62030W Mochila Poliéster Negro/Blanco - Mochila...'
 sku: 'B07DP3NWZP-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

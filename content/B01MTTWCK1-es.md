@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTTWCK1-es Wenger/SwissGear Alexa 16 40 6 cm 16" Mochila Negro -...'
 sku: 'B01MTTWCK1-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

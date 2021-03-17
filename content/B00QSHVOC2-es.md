@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QSHVOC2-es Nike AllegianceFC Barcelona Shld Cmpct Ba Mochila Hombre...'
 sku: 'B00QSHVOC2-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

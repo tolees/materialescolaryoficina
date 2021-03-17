@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 15.02 % en JEOutdoors ZEM JO0001 - Tijeras de podar'
-date: 2021-03-15 13:39:43
+date: 2021-03-17 08:57:57
 image: 'https://m.media-amazon.com/images/I/41719+ryfLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JCW85Q-es JEOutdoors ZEM JO0001 - Tijeras de podar Profesionales de...'
 sku: 'B072JCW85Q-es'
-tags: [ 'tijeras', ]
+tags: [ 'Herramientas de mano para jardinería','Jardinería','Jardín','Tijeras de podar para jardinería','jeoutdoors','tijeras', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64
@@ -29,9 +29,9 @@ Tienes [JEOutdoors ZEM JO0001 - Tijeras de podar Profesionales de aleación de A
 ℹ️:
 
 - Las tijeras de podar son aptas para cortar tallos y ramas ligeras de hasta 1,9 cm de diámetro.
-- Bloqueo de seguridad: cómodo sistema de seguridad con fácil apertura y cierre.
+- El paquete incluye: tijeras de podar y muelle de repuesto. -
 - Los mangos con muelle tienen un diseño único de policarbonato duro para dar una comodidad superior.
 - Cuchilla afilada de alta calidad hecha de aleación de acero al carbono con procesamiento antioxidante.
-- El paquete incluye: tijeras de podar y muelle de repuesto. -
+- Bloqueo de seguridad: cómodo sistema de seguridad con fácil apertura y cierre.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B072JCW85Q/?tag=tolees-21)

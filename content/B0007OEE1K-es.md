@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007OEE1K-es Rotulador STABILO Pen 68 - Estuche con 10 colores'
 sku: 'B0007OEE1K-es'
-tags: [ 'rotulador','stabilo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','rotulador','stabilo', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

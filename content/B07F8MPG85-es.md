@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8MPG85-es AmazonBasics - Barras de pegamento lavable multiusos...'
 sku: 'B07F8MPG85-es'
-tags: [ 'barras','de','pegamento', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','barras','de','pegamento', ]
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

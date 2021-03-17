@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ68H1G-es Ohuhu - 60 rotuladores de acuarela con doble punta punta...'
 sku: 'B07DJ68H1G-es'
-tags: [ 'colorear','rotulador','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','colorear','rotulador','rotuladores', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

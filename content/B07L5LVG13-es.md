@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5LVG13-es Juego de 10 pinceles de pintura profesional de AOOK para...'
 sku: 'B07L5LVG13-es'
-tags: [ 'acuarelas', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','acuarelas', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

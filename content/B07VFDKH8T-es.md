@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFDKH8T-es Pepe Jeans 7742065 Mochila Casual 28 cm 6.72 litros Marrón'
 sku: 'B07VFDKH8T-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPJ9MKM-es Real Madrid CF Bolsa de Deporte Mochila con zapatillero...'
 sku: 'B07FPJ9MKM-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

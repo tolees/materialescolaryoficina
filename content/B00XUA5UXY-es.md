@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XUA5UXY-es Alpino DA000125 - Estuche 12 ceras'
 sku: 'B00XUA5UXY-es'
-tags: [ 'alpino', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','alpino', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

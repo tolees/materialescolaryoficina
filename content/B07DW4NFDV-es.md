@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DW4NFDV-es Pepe Jeans Jessa Mochila Escolar 43 cm 28.9 litros Negro'
 sku: 'B07DW4NFDV-es'
-tags: [ 'escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','escolar','mochila', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HL1K1VK-es Head Tour Team Backpack Bolsa de Tenis Adultos Unisex...'
 sku: 'B07HL1K1VK-es'
-tags: [ 'backpack', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','backpack', ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

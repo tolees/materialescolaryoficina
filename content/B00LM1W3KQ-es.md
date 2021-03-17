@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LM1W3KQ-es Conté Colouring rotuladores - colores Surtidos Caja...'
 sku: 'B00LM1W3KQ-es'
-tags: [ 'rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','rotuladores', ]
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47

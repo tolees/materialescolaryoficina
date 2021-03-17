@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DCV549Q-es Fdit 48 Color Lápiz Assorted Professional Arte Lápices...'
 sku: 'B07DCV549Q-es'
-tags: [ 'lápices','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','lápices','lápiz', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

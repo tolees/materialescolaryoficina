@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8YJ6R3-es Brrnoo 16L Gabinete de Esterilización UV 2 en 1 Caja de...'
 sku: 'B07L8YJ6R3-es'
-tags: [ 'tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','tijeras', ]
 actualPrice: 68.59 EUR
 currency: EUR
 price: 68.59

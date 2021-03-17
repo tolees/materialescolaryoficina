@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3ZS4C6-es Xnuoyo Mochilas de Pañales Gran Capacidad Mochila de...'
 sku: 'B07X3ZS4C6-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CLRBQ48-es BIC Intensity Fine - Blíster de 20 unidades rotulador...'
 sku: 'B07CLRBQ48-es'
-tags: [ 'rotulador', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','rotulador', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

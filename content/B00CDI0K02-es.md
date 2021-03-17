@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CDI0K02-es APLI 11915 - Clips mariposa galvanizados nº 20 60 mm 25 clips'
 sku: 'B00CDI0K02-es'
-tags: [ 'apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','apli', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

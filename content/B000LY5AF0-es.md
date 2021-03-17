@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LY5AF0-es Faber-Castell 112160 - Estuche de metal con 60 ecolápices...'
 sku: 'B000LY5AF0-es'
-tags: [ 'faber-castell', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','faber-castell', ]
 actualPrice: 57.46 EUR
 currency: EUR
 price: 57.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009RNQEQ-es CRAYOLA - 24 Lápices De Colores 3624'
 sku: 'B0009RNQEQ-es'
-tags: [ 'lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','lápices', ]
 actualPrice: 4.54 EUR
 currency: EUR
 price: 4.54

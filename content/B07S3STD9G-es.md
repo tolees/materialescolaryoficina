@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3STD9G-es HellDoler Manualidades para Niños 100 Hojas Manualidades...'
 sku: 'B07S3STD9G-es'
-tags: [ 'lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','lápices', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

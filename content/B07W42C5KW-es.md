@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W42C5KW-es Fivejoy Agua Dibujo Pintura 150 x 100 cm Agua Doodle...'
 sku: 'B07W42C5KW-es'
-tags: [ 'bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafos', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

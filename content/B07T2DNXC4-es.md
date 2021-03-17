@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2DNXC4-es Estuche de Actividades para niños de +3 años Plantillas y...'
 sku: 'B07T2DNXC4-es'
-tags: [ 'colorear', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','colorear', ]
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

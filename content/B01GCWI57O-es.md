@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GCWI57O-es Paper Mate Dryline Cinta de corrección 5 mm x 8.5 m 4...'
 sku: 'B01GCWI57O-es'
-tags: [ 'mate','paper', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mate','paper', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

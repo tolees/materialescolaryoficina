@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003OJ8RAE-es Eastpak Padded Pak r Mochila 40 cm 24 L Gris Sunday Grey'
 sku: 'B003OJ8RAE-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

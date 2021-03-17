@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4N1DFE-es Faber-Castell 155534 - Caja metálica con 33 rotuladores...'
 sku: 'B01N4N1DFE-es'
-tags: [ 'colorear','faber-castell','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','colorear','faber-castell','rotuladores', ]
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

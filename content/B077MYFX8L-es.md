@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MYFX8L-es Staedtler Design Journey 3001 TB18. Rotuladores...'
 sku: 'B077MYFX8L-es'
-tags: [ 'rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','rotuladores', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

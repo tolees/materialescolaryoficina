@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0881GN3RC-es Tijeras Peluquería Profesional Dhaose Tijeras de Salón...'
 sku: 'B0881GN3RC-es'
-tags: [ 'tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','tijeras', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

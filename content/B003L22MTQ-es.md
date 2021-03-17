@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003L22MTQ-es Pilot Parallel - Bolígrafo punta de 6.0 mm'
 sku: 'B003L22MTQ-es'
-tags: [ 'bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafo', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

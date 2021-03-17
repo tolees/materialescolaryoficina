@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGCX7L8-es Cinta Adhesiva de Nano Tape Lavable Transparente Traceless...'
 sku: 'B07ZGCX7L8-es'
-tags: [ 'adhesiva','cinta', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','adhesiva','cinta', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

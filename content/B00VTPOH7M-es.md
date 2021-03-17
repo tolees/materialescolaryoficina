@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VTPOH7M-es HP Odyssey - Mochila para portátiles de hasta 15.6" de...'
 sku: 'B00VTPOH7M-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 41.31 EUR
 currency: EUR
 price: 41.31

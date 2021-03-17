@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IPQT1BY-es 52 pz Caja de papelería para niños con marcadores crayones...'
 sku: 'B01IPQT1BY-es'
-tags: [ 'borrar','de','goma', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','borrar','de','goma', ]
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8JTKRS-es Tommy Hilfiger POPPY BACKPACK CORPMujerBolsos...'
 sku: 'B07N8JTKRS-es'
-tags: [ 'backpack', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','backpack', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

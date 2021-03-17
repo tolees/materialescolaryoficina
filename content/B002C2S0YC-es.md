@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002C2S0YC-es Apli 1785 - Etiquetas 500 hojas'
 sku: 'B002C2S0YC-es'
-tags: [ 'apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','apli', ]
 actualPrice: 57.33 EUR
 currency: EUR
 price: 57.33

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C6RBXJ2-es Mi Pequeño Poni Gorra para niña Premium Color Celeste con...'
 sku: 'B07C6RBXJ2-es'
-tags: [ 'lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','lápiz', ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

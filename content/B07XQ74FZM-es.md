@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQ74FZM-es Bolígrafo Por Scriveiner London - Bolígrafo de Gama Alta...'
 sku: 'B07XQ74FZM-es'
-tags: [ 'bolígrafo','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafo','bolígrafos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000J69ZTM-es Pilot 495518 - Bolígrafo Azul Azul Transparente 12...'
 sku: 'B000J69ZTM-es'
-tags: [ 'bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafo', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

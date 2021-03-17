@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CWX4KLI-es Pilot Frixion - Pack de 12 rotuladores Multicolor'
 sku: 'B00CWX4KLI-es'
-tags: [ 'rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','rotuladores', ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

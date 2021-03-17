@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGZ6VBX-es Miquel Rius 17280 - Cubilete Azul Bella Garden'
 sku: 'B07YGZ6VBX-es'
-tags: [ 'miquel','rius', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','miquel','rius', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQGSFY9-es Play-Doh Fábrica De Palomitas Hasbro E5110EU4 color/modelo...'
 sku: 'B07KQGSFY9-es'
-tags: [ 'play-doh', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','play-doh', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

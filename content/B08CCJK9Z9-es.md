@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CCJK9Z9-es A5/RedBronze 新品 Diario de piel en relieve vintage con...'
 sku: 'B08CCJK9Z9-es'
-tags: [ 'bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafos', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

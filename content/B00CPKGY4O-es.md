@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CPKGY4O-es Burton Focus Mochila Unisex Adulto Negro Negro 58 x 33 x...'
 sku: 'B00CPKGY4O-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 136.89 EUR
 currency: EUR
 price: 136.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DG2QB3S-es Plantilla Dibujo Supplies Pack Escolar con Escuadra...'
 sku: 'B07DG2QB3S-es'
-tags: [ 'cartabón','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','cartabón','escolar', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000J6DHT6-es CASIO FC-100V Calculadora Financiera 13.7 x 80 x 161 mm...'
 sku: 'B000J6DHT6-es'
-tags: [ 'calculadora', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','calculadora', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

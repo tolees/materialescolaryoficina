@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7WDXQ7-es Miquelrius - Mochila Pequeña Poliéster Cierres Cremallera...'
 sku: 'B07K7WDXQ7-es'
-tags: [ 'miquelrius','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','miquelrius','mochila', ]
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

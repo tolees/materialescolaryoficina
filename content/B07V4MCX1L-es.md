@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4MCX1L-es Kipling Seoul Mochila Tipo Casual 44 cm 27 Liters Plateado...'
 sku: 'B07V4MCX1L-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 55.01 EUR
 currency: EUR
 price: 55.01

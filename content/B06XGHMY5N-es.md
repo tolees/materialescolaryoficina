@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGHMY5N-es TRIXES Bolígrafo Stylus Negro de Punta Fina para Pantallas...'
 sku: 'B06XGHMY5N-es'
-tags: [ 'bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafo', ]
 actualPrice: 3.87 EUR
 currency: EUR
 price: 3.87

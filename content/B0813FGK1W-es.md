@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813FGK1W-es Portalápices 5 Piezas de Escritorio de Organizador de...'
 sku: 'B0813FGK1W-es'
-tags: [ 'lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','lápices', ]
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

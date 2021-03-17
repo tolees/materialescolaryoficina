@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFBR1RJ-es Helly Hansen Loke Backpack Mochila Unisex adulto Royal...'
 sku: 'B07SFBR1RJ-es'
-tags: [ 'backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','backpack','mochila', ]
 actualPrice: 33.39 EUR
 currency: EUR
 price: 33.39

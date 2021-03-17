@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5S5BK1-es Cronus y Rhea® | Carpeta Exclusiva de Cuero Exclusivo...'
 sku: 'B06W5S5BK1-es'
-tags: [ 'bolígrafos','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafos','lápices', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

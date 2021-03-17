@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KT73LK-es Faber-Castell 117511 - Estuche de metal con 120 ecolápices...'
 sku: 'B000KT73LK-es'
-tags: [ 'faber-castell', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','faber-castell', ]
 actualPrice: 166.72 EUR
 currency: EUR
 price: 166.72

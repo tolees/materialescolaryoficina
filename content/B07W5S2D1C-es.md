@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5S2D1C-es Fresion - Mochila de Viaje para Hombre 34 L para Ordenador...'
 sku: 'B07W5S2D1C-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVF7FS1-es Moleskine - Agenda Semanal de 18 Meses Edición Limitada...'
 sku: 'B07JVF7FS1-es'
-tags: [ 'escolar','moleskine', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','escolar','moleskine', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

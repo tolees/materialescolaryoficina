@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZYH583X-es Omy Set de 16 rotuladores ultralavables 17 x 4 x 17 cm'
 sku: 'B06ZYH583X-es'
-tags: [ 'rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','rotuladores', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

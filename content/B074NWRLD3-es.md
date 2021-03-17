@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074NWRLD3-es Bolsa grande de viaje Bolsa de deporte Mochila Mochila...'
 sku: 'B074NWRLD3-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 30.52 EUR
 currency: EUR
 price: 30.52

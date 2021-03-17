@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T17JJKR-es Armani Exchange Liz - Mochila 28 x 8 x 26 cm color Azul...'
 sku: 'B07T17JJKR-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','mochila', ]
 actualPrice: 66.83 EUR
 currency: EUR
 price: 66.83

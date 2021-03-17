@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C75DSKK-es Maped Color Peps Jungle - Rotuladores de Colores 24 Unidades'
 sku: 'B00C75DSKK-es'
-tags: [ 'rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','rotuladores', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

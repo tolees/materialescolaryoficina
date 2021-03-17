@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017LTBGE6-es Boma B47008400013 - Cinta adhesiva para reparación 50 mm x...'
 sku: 'B017LTBGE6-es'
-tags: [ 'adhesiva','cinta', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','adhesiva','cinta', ]
 actualPrice: 8.77 EUR
 currency: EUR
 price: 8.77

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007OEDYI-es STAEDTLER 334 SB10 - Bolígrafo punta fina 10 unidades'
 sku: 'B0007OEDYI-es'
-tags: [ 'bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafo', ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

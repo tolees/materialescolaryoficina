@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVF73SD-es Moleskine - Agenda Semanal de 12 Meses 2020 Tapa Dura y...'
 sku: 'B07JVF73SD-es'
-tags: [ 'moleskine', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','moleskine', ]
 actualPrice: 5.37 EUR
 currency: EUR
 price: 5.37

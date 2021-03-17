@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WV1GQB-es Lápices de acuarela para colorear 20 pinceles para...'
 sku: 'B078WV1GQB-es'
-tags: [ 'colorear','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','colorear','lápices', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

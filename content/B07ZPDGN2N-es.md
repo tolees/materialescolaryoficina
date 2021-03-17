@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZPDGN2N-es Tommy Hilfiger Uptown Nylon Backpack Mochila Hombre...'
 sku: 'B07ZPDGN2N-es'
-tags: [ 'backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','backpack','mochila', ]
 actualPrice: 86.42 EUR
 currency: EUR
 price: 86.42

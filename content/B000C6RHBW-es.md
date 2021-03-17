@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C6RHBW-es Faber-Castell 110060 - Set de lápices de colores multicolor'
 sku: 'B000C6RHBW-es'
-tags: [ 'faber-castell','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','faber-castell','lápices', ]
 actualPrice: 74.43 EUR
 currency: EUR
 price: 74.43

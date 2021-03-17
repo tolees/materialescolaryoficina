@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015N3QTIK-es Parker Sonnet - Bolígrafo lacado en negro con adorno...'
 sku: 'B015N3QTIK-es'
-tags: [ 'bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafo', ]
 actualPrice: 49.87 EUR
 currency: EUR
 price: 49.87

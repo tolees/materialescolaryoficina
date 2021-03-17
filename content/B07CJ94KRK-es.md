@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJ94KRK-es Carpeta de Conferencias Wilbest A4 Carpeta de Cuero Las...'
 sku: 'B07CJ94KRK-es'
-tags: [ 'calculadora', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','calculadora', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

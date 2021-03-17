@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0159DRWPI-es Faber Castell B-136300 - Portaminas TK-Fine con goma de...'
 sku: 'B0159DRWPI-es'
-tags: [ 'borrar','castell','de','faber','goma','portaminas', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','borrar','castell','de','faber','goma','portaminas', ]
 actualPrice: 3.71 EUR
 currency: EUR
 price: 3.71

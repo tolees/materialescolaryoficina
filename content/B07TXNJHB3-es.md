@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXNJHB3-es NEWSTYLE Set Para El Cuidado Del Bebé 12 Unids Bebé Kit de...'
 sku: 'B07TXNJHB3-es'
-tags: [ 'tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','tijeras', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0GMFIO-es Marcador STABILO BOSS Original Pastel - Caja con 10...'
 sku: 'B01M0GMFIO-es'
-tags: [ 'stabilo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','stabilo', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69
