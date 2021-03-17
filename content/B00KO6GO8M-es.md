@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KO6GO8M-es BIC Cristal Soft bolígrafos punta media 1 2 mm - Azul...'
 sku: 'B00KO6GO8M-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bic','bolígrafos','cristal', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bic','bolígrafos','cristal', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

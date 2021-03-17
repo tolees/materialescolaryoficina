@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSJ4HQ7-es Kipling City Pack S Mochila para Mujer Verde Seagrass 27 x...'
 sku: 'B07PSJ4HQ7-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

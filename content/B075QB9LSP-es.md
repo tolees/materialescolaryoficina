@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QB9LSP-es Troika - Bolígrafo pequeño regla de centímetro/pulgadas...'
 sku: 'B075QB9LSP-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','bolígrafo','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','bolígrafo','lápiz', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

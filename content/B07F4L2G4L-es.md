@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F4L2G4L-es Mr.Wonderful 8435460731317 Mochila I Make U Look Cool'
 sku: 'B07F4L2G4L-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

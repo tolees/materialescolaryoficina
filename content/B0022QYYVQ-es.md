@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0022QYYVQ-es Post-It 70005040152 - Dispensador 3+1 índex 1/2""'
 sku: 'B0022QYYVQ-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','post-it', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','post-it', ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

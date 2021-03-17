@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KYPXYM-es baozun Rotuladores Metálicos 12 Color Rotuladores de...'
 sku: 'B082KYPXYM-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','rotuladores', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

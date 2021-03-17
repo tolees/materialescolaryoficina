@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075K6T4NR-es Barras de pegamento caliente de Beeway®'
 sku: 'B075K6T4NR-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','barras','de','pegamento', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','barras','de','pegamento', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

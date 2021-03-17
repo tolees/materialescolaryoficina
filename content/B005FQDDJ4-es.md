@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005FQDDJ4-es Max Factor Khol Pencil Eyeliner Lápiz de Ojos Tono 50...'
 sku: 'B005FQDDJ4-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápiz', ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

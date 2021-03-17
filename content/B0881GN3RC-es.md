@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0881GN3RC-es Tijeras Peluquería Profesional Dhaose Tijeras de Salón...'
 sku: 'B0881GN3RC-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','tijeras', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076YNY3JG-es Apli kids-Caja domino casita la granja 28 unidades'
 sku: 'B076YNY3JG-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','apli', ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

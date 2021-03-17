@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AHW56PK-es Staedtler Pigment liner Fineliner 0.1mm - Rotulador Negro'
 sku: 'B00AHW56PK-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','rotulador', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','rotulador', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

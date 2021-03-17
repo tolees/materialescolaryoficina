@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XVDK7TV-es HP 1MR94AA - Lápiz para Tableta'
 sku: 'B06XVDK7TV-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápiz', ]
 actualPrice: 41.36 EUR
 currency: EUR
 price: 41.36

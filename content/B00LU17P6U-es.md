@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LU17P6U-es Black Diamond Bullet 16 Mochila Unisex Adulto Negro Black...'
 sku: 'B00LU17P6U-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','mochila', ]
 actualPrice: 27.38 EUR
 currency: EUR
 price: 27.38

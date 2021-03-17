@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071F6ZS4X-es Lápiz óptico para Nintendo 2DS - COCOTOP Compatible con...'
 sku: 'B071F6ZS4X-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Bolígrafos, lápices y útiles de escritura','Fundas blandas para portátiles y netbooks','Informática','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','lápiz', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0
