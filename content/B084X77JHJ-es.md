@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084X77JHJ-es Eccomum Mochila Portabebé Ergonómico Multifuncional 6 en 1...'
 sku: 'B084X77JHJ-es'
-tags: [ 'mochila', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

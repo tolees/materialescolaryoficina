@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D34P7TZ-es Huion Inspiroy H640P Tableta Gráfica de Dibujo Lápiz...'
 sku: 'B07D34P7TZ-es'
-tags: [ 'lápiz', ]
 actualPrice: 35.68 EUR
 currency: EUR
 price: 35.68

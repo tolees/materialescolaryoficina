@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076CSB4HT-es Samsonite Spectrolite 2.0 - Mochila para portátil 17.3...'
 sku: 'B076CSB4HT-es'
-tags: [ 'mochila', ]
 actualPrice: 122.5 EUR
 currency: EUR
 price: 122.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005EE4UG2-es Pentel EnerGel-X -BL107-A Bolígrafos retráctiles 12...'
 sku: 'B005EE4UG2-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafos','pentel', ]
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

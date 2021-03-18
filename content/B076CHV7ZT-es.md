@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076CHV7ZT-es Lápiz Para Pantalla Táctil Zspeed Lápiz Recargable de 1.5...'
 sku: 'B076CHV7ZT-es'
-tags: [ 'lápiz', ]
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

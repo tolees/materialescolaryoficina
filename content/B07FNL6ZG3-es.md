@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNL6ZG3-es E·Durable Mini Pistolas de encolar con 30 Piezas Barras de...'
 sku: 'B07FNL6ZG3-es'
-tags: [ 'barras','de','pegamento', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

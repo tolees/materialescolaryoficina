@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RJYK9GP-es ARTESANIA CERDA Avengers Thor - Mochila Infantil 31 cm Gris'
 sku: 'B07RJYK9GP-es'
-tags: [ 'mochila', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

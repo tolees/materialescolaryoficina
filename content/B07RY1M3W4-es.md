@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RY1M3W4-es XP-PEN Deco Pro S Tableta Gráfica de Dibujo Profesional...'
 sku: 'B07RY1M3W4-es'
-tags: [ 'lápiz', ]
 actualPrice: 93.49 EUR
 currency: EUR
 price: 93.49

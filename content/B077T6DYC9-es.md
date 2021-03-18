@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077T6DYC9-es TOTTO AC52ECO010-1710Z-6M2 - Estuche escolar con dos...'
 sku: 'B077T6DYC9-es'
-tags: [ 'escolar', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z76B2RG-es Under Armour UA Roland Backpack Mochila unisex blanco...'
 sku: 'B07Z76B2RG-es'
-tags: [ 'backpack','mochila','mochila','unisex', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

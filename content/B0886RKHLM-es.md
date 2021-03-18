@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0886RKHLM-es Samsonite Sonora - 17 Pulgadas Mochila para Portátil con...'
 sku: 'B0886RKHLM-es'
-tags: [ 'mochila', ]
 actualPrice: 97.3 EUR
 currency: EUR
 price: 97.3

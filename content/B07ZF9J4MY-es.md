@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZF9J4MY-es Los bolígrafos de contorno más nuevos YITHINC 12 colores...'
 sku: 'B07ZF9J4MY-es'
-tags: [ 'Costura y manualidades','Dibujo','Hogar y cocina','Marcadores','Materiales de dibujo','bolígrafos','yithinc', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

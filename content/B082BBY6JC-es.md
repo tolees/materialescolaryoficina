@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082BBY6JC-es BESLIME Estuche Escolar Estuche para Material Escolar y...'
 sku: 'B082BBY6JC-es'
-tags: [ 'escolar','material','escolar', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

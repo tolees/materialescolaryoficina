@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0022QYYVQ-es Post-It 70005040152 - Dispensador 3+1 índex 1/2""'
 sku: 'B0022QYYVQ-es'
-tags: [ 'post-it', ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

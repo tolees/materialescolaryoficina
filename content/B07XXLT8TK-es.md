@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXLT8TK-es Demeu 6000 Banda Goma Trenzado:5000 Bandas Trenzadas 14...'
 sku: 'B07XXLT8TK-es'
-tags: [ 'mochila', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

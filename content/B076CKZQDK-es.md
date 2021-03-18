@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076CKZQDK-es Samsonite LAPTOP BACKPACK 15.6" EXP GREY/BLACK...'
 sku: 'B076CKZQDK-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 132.0 EUR
 currency: EUR
 price: 132.0

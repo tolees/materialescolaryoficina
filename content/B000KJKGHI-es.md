@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KJKGHI-es Apli 01285 1 caja de etiquetas autoadhesivas multiusos 44...'
 sku: 'B000KJKGHI-es'
-tags: [ 'Etiquetas adhesivas y pegatinas para oficina','Etiquetas para impresoras','Etiquetas, separadores y sellos','Material de oficina','Oficina y papelería','apli', ]
 actualPrice: 16.57 EUR
 currency: EUR
 price: 16.57

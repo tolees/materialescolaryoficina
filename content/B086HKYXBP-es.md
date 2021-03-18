@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086HKYXBP-es Samsonite Pro-DLX 5-17.3 Pulgadas Expandible Mochila para...'
 sku: 'B086HKYXBP-es'
-tags: [ 'mochila', ]
 actualPrice: 183.77 EUR
 currency: EUR
 price: 183.77

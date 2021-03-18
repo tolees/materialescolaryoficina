@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HT0FREW-es HUION H1060P Tableta gráfica con área de Trabajo de 10 x...'
 sku: 'B01HT0FREW-es'
-tags: [ 'lápiz', ]
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

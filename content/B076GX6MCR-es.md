@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076GX6MCR-es Kipling SUPERTABOO Mochila con Cordón 15 litros Rosa True...'
 sku: 'B076GX6MCR-es'
-tags: [ 'Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','kipling', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

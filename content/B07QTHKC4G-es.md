@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QTHKC4G-es HOMIEE 15.6 Pulgadas Mochila de Viaje para Portátil con...'
 sku: 'B07QTHKC4G-es'
-tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

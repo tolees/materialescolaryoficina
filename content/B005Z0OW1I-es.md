@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005Z0OW1I-es Pilot 151927 - Bolígrafo borrable color rojo'
 sku: 'B005Z0OW1I-es'
-tags: [ 'bolígrafo', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

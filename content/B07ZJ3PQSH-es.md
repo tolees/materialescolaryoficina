@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJ3PQSH-es XP-PEN Artist 12 Pro - Tableta gráfica con pantalla táctil...'
 sku: 'B07ZJ3PQSH-es'
-tags: [ 'lápiz', ]
 actualPrice: 229.49 EUR
 currency: EUR
 price: 229.49

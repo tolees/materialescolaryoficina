@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RL33JT3-es American Tourister Urban Groove Lifestyle - 17.3 Pulgadas...'
 sku: 'B07RL33JT3-es'
-tags: [ 'mochila', ]
 actualPrice: 29.43 EUR
 currency: EUR
 price: 29.43

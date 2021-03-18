@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFYSZGC-es Star Wars Mochila Doble con cantoneras Adaptable a Carro'
 sku: 'B07YFYSZGC-es'
-tags: [ 'mochila', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

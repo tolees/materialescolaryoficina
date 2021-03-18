@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083JV6BJH-es Lacoste NH2677 Mochila Sphere Noir Talla única para Hombre'
 sku: 'B083JV6BJH-es'
-tags: [ 'mochila', ]
 actualPrice: 39.43 EUR
 currency: EUR
 price: 39.43

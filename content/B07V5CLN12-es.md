@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V5CLN12-es WindTook Mochila Portatil para Mujer y Hombre Mochila...'
 sku: 'B07V5CLN12-es'
-tags: [ 'mochila','escolar', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

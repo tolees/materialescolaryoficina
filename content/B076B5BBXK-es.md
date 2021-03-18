@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076B5BBXK-es CASIO SL-310UC-BU - Calculadora 0.8 x 7 x 11.8 cm color azul'
 sku: 'B076B5BBXK-es'
-tags: [ 'calculadora', ]
 actualPrice: 4.34 EUR
 currency: EUR
 price: 4.34

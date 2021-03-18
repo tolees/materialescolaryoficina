@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B1XCQXN-es VGEBY Kit de Binoculares para niños - Binoculares para...'
 sku: 'B07B1XCQXN-es'
-tags: [ 'mochila', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

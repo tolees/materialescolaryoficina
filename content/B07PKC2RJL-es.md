@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PKC2RJL-es Samsonite 2WM - Mochila para portátil M de 15.6 pulgadas...'
 sku: 'B07PKC2RJL-es'
-tags: [ 'mochila', ]
 actualPrice: 106.98 EUR
 currency: EUR
 price: 106.98

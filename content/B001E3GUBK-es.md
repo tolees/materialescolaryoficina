@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001E3GUBK-es Pentel PG1015 - Portaminas 0.5mm'
 sku: 'B001E3GUBK-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Lápices','Marcadores','Materiales de dibujo','Oficina y papelería','Portaminas','Rotuladores y subrayadores','Subrayadores','pentel','portaminas', ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

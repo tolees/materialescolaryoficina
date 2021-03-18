@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5AB9G7-es Play-Doh Pizzería Multicolor 23 x 22 cm Hasbro B1856EU6'
 sku: 'B01N5AB9G7-es'
-tags: [ 'play-doh', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

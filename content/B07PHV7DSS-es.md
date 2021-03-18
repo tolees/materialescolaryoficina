@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHV7DSS-es APLI Kids 16807 - Rotuladores Stamps 10 u. Única'
 sku: 'B07PHV7DSS-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de escritura y dibujo para niños','Oficina y papelería','Rotuladores de colores para niños','apli','apli kids','rotuladores', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

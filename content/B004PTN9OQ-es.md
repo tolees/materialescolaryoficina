@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004PTN9OQ-es agipa Apli - Máquina etiquetadora 2 líneas 10 caracteres'
 sku: 'B004PTN9OQ-es'
-tags: [ 'apli', ]
 actualPrice: 27.26 EUR
 currency: EUR
 price: 27.26

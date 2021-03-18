@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XPDTR9C-es Hybrid Dual Metallic de Pentel - Caja de 8 Boligrafos...'
 sku: 'B06XPDTR9C-es'
-tags: [ 'boligrafos','colorear','pentel', ]
 actualPrice: 12.81 EUR
 currency: EUR
 price: 12.81

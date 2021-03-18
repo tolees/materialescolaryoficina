@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QWWY1MZ-es HOMIEE 15.6 Pulgadas Mochila Unisex Impermeable para...'
 sku: 'B07QWWY1MZ-es'
-tags: [ 'mochila','mochila','unisex', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

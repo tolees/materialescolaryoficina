@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6T2XZW-es Rapesco ECO HD-140 - Grapadora de gruesos 140 hojas de...'
 sku: 'B01N6T2XZW-es'
-tags: [ 'grapadora', ]
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073WRZGML-es HoneyGuaridan Bag Mochila de Entrenamiento para Perros...'
 sku: 'B073WRZGML-es'
-tags: [ 'mochila', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

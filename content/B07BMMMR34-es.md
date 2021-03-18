@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BMMMR34-es Koooper Libro Aventuras up Álbum de Fotos DIY Album up...'
 sku: 'B07BMMMR34-es'
-tags: [ 'tijeras', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

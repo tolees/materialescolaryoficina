@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W85VDN4-es Rotuladores Metálicos Emooqi Marker Pen Rotuladores de...'
 sku: 'B07W85VDN4-es'
-tags: [ 'rotuladores','rotuladores', ]
 actualPrice: 14.08 EUR
 currency: EUR
 price: 14.08

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QV7D6R3-es FANDARE Mochila Cielo Estrellado Bolsa de Escuela...'
 sku: 'B07QV7D6R3-es'
-tags: [ 'mochila', ]
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084LCJJ9S-es Pepe Jeans Vegan Mochila Adaptable para Portátil 14"...'
 sku: 'B084LCJJ9S-es'
-tags: [ 'mochila', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWF2WB6-es Bolsa de Almacenamiento de Target Pouch para Gun N-Strike...'
 sku: 'B07JWF2WB6-es'
-tags: [ 'mochila', ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

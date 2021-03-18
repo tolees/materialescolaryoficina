@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LM1WPM2-es BIC Highlighter Grip Marcadores punta media 1 6 mm -...'
 sku: 'B00LM1WPM2-es'
-tags: [ 'bic','highlighter', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

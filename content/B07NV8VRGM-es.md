@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NV8VRGM-es E·Durable Hot Mini Pistola de Pegamento con 38 Piezas...'
 sku: 'B07NV8VRGM-es'
-tags: [ 'tijeras','barras','de','pegamento', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

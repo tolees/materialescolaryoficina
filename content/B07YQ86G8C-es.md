@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQ86G8C-es Karactermania Frozen Element - Mochila Bouquet Multicolor...'
 sku: 'B07YQ86G8C-es'
-tags: [ 'mochila', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

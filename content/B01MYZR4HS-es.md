@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MYZR4HS-es Thule EnRoute - Mochila de 18L Color Negro'
 sku: 'B01MYZR4HS-es'
-tags: [ 'mochila', ]
 actualPrice: 50.17 EUR
 currency: EUR
 price: 50.17

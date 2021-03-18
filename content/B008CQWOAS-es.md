@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008CQWOAS-es Loctite Super Glue-3 Original pegamento universal con...'
 sku: 'B008CQWOAS-es'
-tags: [ 'loctite', ]
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MW67PP7-es Zer one - Precisión Cortador Alicates Impresora 3D...'
 sku: 'B07MW67PP7-es'
-tags: [ 'tijeras', ]
 actualPrice: 7.38 EUR
 currency: EUR
 price: 7.38

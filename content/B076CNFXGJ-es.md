@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CNFXGJ-es Samsonite Spectrolite 2.0 Laptop Backpack 43 9 cm 17.3"...'
 sku: 'B076CNFXGJ-es'
-tags: [ 'backpack', ]
 actualPrice: 122.5 EUR
 currency: EUR
 price: 122.5

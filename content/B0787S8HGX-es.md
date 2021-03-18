@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0787S8HGX-es KitchenBoss Bolsas de Vacío Profesional 4 Rolls 20x500 y...'
 sku: 'B0787S8HGX-es'
-tags: [ 'tijeras', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

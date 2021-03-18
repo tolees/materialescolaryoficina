@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZBTNS1-es 45L de Alta Capacidad Resistente al Agua de Viaje al Aire...'
 sku: 'B01MZBTNS1-es'
-tags: [ 'mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

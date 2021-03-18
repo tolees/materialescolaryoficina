@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S7BNNDB-es Mochila Térmica Besrey Mochila Nevera bolsa térmica comida...'
 sku: 'B07S7BNNDB-es'
-tags: [ 'mochila', ]
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

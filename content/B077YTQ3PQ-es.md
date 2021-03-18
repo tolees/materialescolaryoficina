@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YTQ3PQ-es Gibot Lápices de Colores para niños Agarre de Palma de la...'
 sku: 'B077YTQ3PQ-es'
-tags: [ 'lápices', ]
 actualPrice: 10.26 EUR
 currency: EUR
 price: 10.26

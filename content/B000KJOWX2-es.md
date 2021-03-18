@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KJOWX2-es Apli Paper 1281 Etiquetas Adhesivas Blancas 100 h Inkjet...'
 sku: 'B000KJOWX2-es'
-tags: [ 'apli', ]
 actualPrice: 12.63 EUR
 currency: EUR
 price: 12.63

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JL2V11V-es Under Armour UA Undeniable SP 2.0 Accesorio Mochila...'
 sku: 'B07JL2V11V-es'
-tags: [ 'mochila', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

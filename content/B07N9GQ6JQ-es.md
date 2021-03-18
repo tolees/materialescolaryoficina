@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N9GQ6JQ-es SAMSONITE Uplite - Three-Way Laptop Expandable Mochila...'
 sku: 'B07N9GQ6JQ-es'
-tags: [ 'mochila', ]
 actualPrice: 76.56 EUR
 currency: EUR
 price: 76.56

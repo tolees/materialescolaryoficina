@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00W40IF9M-es APLI Kids - Bolsa de gomets multicolor surtido 6 hojas...'
 sku: 'B00W40IF9M-es'
-tags: [ 'apli', ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

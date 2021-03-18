@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LMCV5S-es MKTOSASA - Mochila Antirrobo y Repelente al Agua en Nylon...'
 sku: 'B085LMCV5S-es'
-tags: [ 'mochila', ]
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

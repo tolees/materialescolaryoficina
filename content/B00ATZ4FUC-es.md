@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ATZ4FUC-es Alpino AL000656 - Lápices de colores'
 sku: 'B00ATZ4FUC-es'
-tags: [ 'alpino','lápices', ]
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

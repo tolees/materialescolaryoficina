@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M7NCB2F-es Miss Lulu Mochila Mujer Mochila Casual Mochilas Escolares...'
 sku: 'B07M7NCB2F-es'
-tags: [ 'mochila', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

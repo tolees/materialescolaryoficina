@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYH35L7-es American Tourister Urban Groove Lifestyle - 17.3 pulgadas...'
 sku: 'B07CYH35L7-es'
-tags: [ 'mochila', ]
 actualPrice: 42.78 EUR
 currency: EUR
 price: 42.78

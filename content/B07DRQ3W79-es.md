@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRQ3W79-es Mochila casual Pepe Jeans Olaia Rosa'
 sku: 'B07DRQ3W79-es'
-tags: [ 'mochila', ]
 actualPrice: 22.38 EUR
 currency: EUR
 price: 22.38

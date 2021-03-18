@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077KV2MZG-es Mimoo Pintura Facial Ninos 16 Colores Halloween Niño Kit...'
 sku: 'B077KV2MZG-es'
-tags: [ 'lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

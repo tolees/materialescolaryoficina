@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD3ZGS2-es Pritt Barra Adhesiva pegamento infantil seguro para niños...'
 sku: 'B07DD3ZGS2-es'
-tags: [ 'adhesiva','barra','escolar','pritt', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

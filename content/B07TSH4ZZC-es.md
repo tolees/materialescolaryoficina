@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TSH4ZZC-es NOBES Tableta de Escritura LCD 8.5 Inch Colorida LCD...'
 sku: 'B07TSH4ZZC-es'
-tags: [ 'lápiz', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

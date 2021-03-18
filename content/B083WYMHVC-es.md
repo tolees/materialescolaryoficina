@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083WYMHVC-es safta 612079020 Unicorns Mochila pequeña Ruedas Carro...'
 sku: 'B083WYMHVC-es'
-tags: [ 'mochila', ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

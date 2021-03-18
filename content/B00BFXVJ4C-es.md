@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BFXVJ4C-es Loctite Super Glue-3 Original Mini Trio pegamento...'
 sku: 'B00BFXVJ4C-es'
-tags: [ 'loctite', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

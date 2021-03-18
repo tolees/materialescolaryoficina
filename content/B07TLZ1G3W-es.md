@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TLZ1G3W-es Samsonite Rewind Mochila para Portátil M 44 cm 23 L Azul...'
 sku: 'B07TLZ1G3W-es'
-tags: [ 'mochila', ]
 actualPrice: 39.24 EUR
 currency: EUR
 price: 39.24

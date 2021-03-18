@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GHFCMQS-es Parblo Ninos M Tableta Gráfica para Digital Dibujar Pintar...'
 sku: 'B08GHFCMQS-es'
-tags: [ 'lápiz', ]
 actualPrice: 34.16 EUR
 currency: EUR
 price: 34.16

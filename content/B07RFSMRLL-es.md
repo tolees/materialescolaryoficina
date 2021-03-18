@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RFSMRLL-es ARTESANIA CERDA - Mochila Infantil 3D Cars'
 sku: 'B07RFSMRLL-es'
-tags: [ 'mochila', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

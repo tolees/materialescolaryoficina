@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XQ458LY-es maxtop 30L Mochila Ultraligera y Compacta Mochila Plegable...'
 sku: 'B07XQ458LY-es'
-tags: [ 'mochila', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

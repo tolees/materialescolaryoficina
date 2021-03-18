@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JBG7FOC-es EXERZ E Organizador de Escritorio 360 Grados Giratorio con...'
 sku: 'B01JBG7FOC-es'
-tags: [ 'borrar','de','goma','grapadora','tijeras', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

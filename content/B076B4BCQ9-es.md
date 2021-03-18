@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076B4BCQ9-es CASIO SL-310UC-GN - Calculadora 0.8 x 7 x 11.8 cm color Verde'
 sku: 'B076B4BCQ9-es'
-tags: [ 'calculadora', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

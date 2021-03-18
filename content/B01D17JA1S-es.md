@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D17JA1S-es Samsonite Paradiver Light - 15.6 Pulgadas Mochila para...'
 sku: 'B01D17JA1S-es'
-tags: [ 'mochila', ]
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

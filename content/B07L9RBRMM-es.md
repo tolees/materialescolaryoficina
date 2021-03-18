@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9RBRMM-es JOTHIN Hombre Mochila Táctica 40L Grandes Bolsa de...'
 sku: 'B07L9RBRMM-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

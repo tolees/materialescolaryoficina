@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R4H7YFR-es Mochila Ordenador Antirrobo Hombre Mochila Portatil 15.6...'
 sku: 'B07R4H7YFR-es'
-tags: [ 'mochila','escolar', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

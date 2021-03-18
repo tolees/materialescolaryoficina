@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086XDNR93-es Generies - Bolígrafos Stylus para pantallas táctiles punta...'
 sku: 'B086XDNR93-es'
-tags: [ 'bolígrafos','lápiz', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

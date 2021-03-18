@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087MRTTPJ-es DMM Supplies Mochila Happy Animals Ovejita Guardería...'
 sku: 'B087MRTTPJ-es'
-tags: [ 'mochila', ]
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

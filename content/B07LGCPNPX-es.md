@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGCPNPX-es Silver Tulip Mochila para portátil Universidad Hombros...'
 sku: 'B07LGCPNPX-es'
-tags: [ 'mochila', ]
 actualPrice: 21.63 EUR
 currency: EUR
 price: 21.63

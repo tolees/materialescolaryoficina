@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00C6ZJ4TK-es APLI 12848 - Cola 40 g color blanco'
 sku: 'B00C6ZJ4TK-es'
-tags: [ 'apli', ]
 actualPrice: 0.55 EUR
 currency: EUR
 price: 0.55

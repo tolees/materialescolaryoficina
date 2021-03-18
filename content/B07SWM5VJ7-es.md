@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SWM5VJ7-es American Tourister City Aim Mochila tipo casual 40 cm 20...'
 sku: 'B07SWM5VJ7-es'
-tags: [ 'mochila', ]
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

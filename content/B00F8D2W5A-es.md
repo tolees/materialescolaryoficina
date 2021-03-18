@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F8D2W5A-es Rotuladores Alpino Coloring para niños - Estuche de 12...'
 sku: 'B00F8D2W5A-es'
-tags: [ 'Bolígrafos, lápices y útiles de escritura','Costura y manualidades','Dibujo','Hogar y cocina','Marcadores','Materiales de dibujo','Oficina y papelería','Rotuladores y subrayadores','Subrayadores','alpino','escolar','material','rotuladores', ]
 actualPrice: 2.05 EUR
 currency: EUR
 price: 2.05

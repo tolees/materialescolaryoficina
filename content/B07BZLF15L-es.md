@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BZLF15L-es NIKE Y Nk Acdmy Team Bkpk Sports Backpack Unisex adulto...'
 sku: 'B07BZLF15L-es'
-tags: [ 'backpack', ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

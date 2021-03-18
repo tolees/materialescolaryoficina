@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N9K4KTF-es Samsonite Hexa-Packs - Mochila para portátil Azul Shadow Blue'
 sku: 'B07N9K4KTF-es'
-tags: [ 'mochila', ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

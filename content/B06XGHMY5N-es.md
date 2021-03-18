@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGHMY5N-es TRIXES Bolígrafo Stylus Negro de Punta Fina para Pantallas...'
 sku: 'B06XGHMY5N-es'
-tags: [ 'bolígrafo', ]
 actualPrice: 3.87 EUR
 currency: EUR
 price: 3.87

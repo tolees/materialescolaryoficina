@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6XNWF5-es Afilador de lápices eléctrico portátil con batería para...'
 sku: 'B07V6XNWF5-es'
-tags: [ 'lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

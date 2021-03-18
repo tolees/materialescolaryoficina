@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8XZ7MB-es Tommy Hilfiger - Kids Core Drawstring Backpack Mochilas...'
 sku: 'B07V8XZ7MB-es'
-tags: [ 'backpack', ]
 actualPrice: 17.82 EUR
 currency: EUR
 price: 17.82

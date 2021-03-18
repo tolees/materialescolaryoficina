@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZSCWKMS-es Mochila Bebe AngLink Mochila Carro Bebe Material...'
 sku: 'B07ZSCWKMS-es'
-tags: [ 'mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

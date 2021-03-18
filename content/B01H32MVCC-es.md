@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01H32MVCC-es Ewent Urban Mochila para Ordenador Portátil Maletín...'
 sku: 'B01H32MVCC-es'
-tags: [ 'mochila','escolar', ]
 actualPrice: 26.43 EUR
 currency: EUR
 price: 26.43

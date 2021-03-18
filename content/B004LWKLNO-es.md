@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004LWKLNO-es Pentel Maxiflo - Lote de 12 rotuladores para pizarra...'
 sku: 'B004LWKLNO-es'
-tags: [ 'pentel','rotuladores','rotuladores', ]
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

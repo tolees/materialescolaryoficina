@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FBHPDM8-es Mochila Infantil 3D Estuche Escolar y Bolsa Merienda de...'
 sku: 'B08FBHPDM8-es'
-tags: [ 'escolar','material','mochila', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

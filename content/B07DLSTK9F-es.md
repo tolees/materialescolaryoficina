@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DLSTK9F-es Samsonite Openroad - 13.3 Pulgadas Mochila para Portátil...'
 sku: 'B07DLSTK9F-es'
-tags: [ 'mochila', ]
 actualPrice: 69.87 EUR
 currency: EUR
 price: 69.87

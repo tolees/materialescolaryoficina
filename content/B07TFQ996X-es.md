@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TFQ996X-es Quiksilver Schoolie 30l - Mochila Grande para Hombre...'
 sku: 'B07TFQ996X-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

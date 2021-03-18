@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U8SG5IA-es Beter Tijeras de pedicura especial para las uñas gruesas...'
 sku: 'B00U8SG5IA-es'
-tags: [ 'tijeras', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

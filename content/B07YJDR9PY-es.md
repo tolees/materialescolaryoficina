@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YJDR9PY-es Besttravel - Mochila de Viaje Mochila para Senderismo de...'
 sku: 'B07YJDR9PY-es'
-tags: [ 'mochila', ]
 actualPrice: 20.32 EUR
 currency: EUR
 price: 20.32

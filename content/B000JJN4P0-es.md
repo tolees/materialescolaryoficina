@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000JJN4P0-es Targus TSB700EU Mochila con Ruedas Sport para portátiles...'
 sku: 'B000JJN4P0-es'
-tags: [ 'mochila', ]
 actualPrice: 68.4 EUR
 currency: EUR
 price: 68.4

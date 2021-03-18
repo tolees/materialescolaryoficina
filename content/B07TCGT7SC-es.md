@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TCGT7SC-es OG Online&Go Mochila Táctica Militar USB Impermeable 40L...'
 sku: 'B07TCGT7SC-es'
-tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

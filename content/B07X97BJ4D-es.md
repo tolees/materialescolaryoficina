@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X97BJ4D-es KingsLong Mochila Portatil Mujer &Hombre Mochila Pare...'
 sku: 'B07X97BJ4D-es'
-tags: [ 'mochila', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

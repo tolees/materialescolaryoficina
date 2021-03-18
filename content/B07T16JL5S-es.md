@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T16JL5S-es Mochila Adaptable Pepe Jeans Daniela'
 sku: 'B07T16JL5S-es'
-tags: [ 'mochila', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JBJCR54-es HOTLIFE - Teclado iPad Air 4 10.9 2020 Funda Teclado...'
 sku: 'B08JBJCR54-es'
-tags: [ 'lápiz', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

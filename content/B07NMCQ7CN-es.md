@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NMCQ7CN-es HUANUO Soporte Portátil Bandeja para Ordenador con Cojín...'
 sku: 'B07NMCQ7CN-es'
-tags: [ 'lápiz', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

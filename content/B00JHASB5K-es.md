@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JHASB5K-es FIMO 8030-7 - Pasta de Modelar Color Marrón 42g'
 sku: 'B00JHASB5K-es'
-tags: [ 'Compuestos de modelado para escultura','Costura y manualidades','Escultura','Hogar y cocina','fimo', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z6TFC12-es Samsonite Karissa Biz Mochila para portátil de 14 Pulgadas...'
 sku: 'B07Z6TFC12-es'
-tags: [ 'mochila', ]
 actualPrice: 115.5 EUR
 currency: EUR
 price: 115.5

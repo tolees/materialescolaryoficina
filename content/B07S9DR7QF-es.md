@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9DR7QF-es adidas AC Class BP Sports Backpack Unisex Adulto Maroon NS'
 sku: 'B07S9DR7QF-es'
-tags: [ 'backpack', ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TMKMMX-es LEADSTAR Agua Dibujo Pintura 110x70cm Doodle Agua Alfombra...'
 sku: 'B088TMKMMX-es'
-tags: [ 'bolígrafos', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

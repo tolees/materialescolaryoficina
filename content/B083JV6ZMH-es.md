@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083JV6ZMH-es Lacoste NH3298 Mochila para Hombre Caprier Talla única'
 sku: 'B083JV6ZMH-es'
-tags: [ 'mochila', ]
 actualPrice: 37.19 EUR
 currency: EUR
 price: 37.19

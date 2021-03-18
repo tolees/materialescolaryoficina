@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MYFX8L-es Staedtler Design Journey 3001 TB18. Rotuladores...'
 sku: 'B077MYFX8L-es'
-tags: [ 'rotuladores', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

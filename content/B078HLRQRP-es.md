@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HLRQRP-es Smile Smart - Mochila Ideal para Llevar Accesorios de...'
 sku: 'B078HLRQRP-es'
-tags: [ 'Bolsas y fundas para cámaras compactas','mochila','smile', ]
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

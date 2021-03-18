@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078TT6XH5-es THULE Lithos Mochila Tipo Casual 50 Centimeters Negro Black'
 sku: 'B078TT6XH5-es'
-tags: [ 'mochila', ]
 actualPrice: 52.95 EUR
 currency: EUR
 price: 52.95

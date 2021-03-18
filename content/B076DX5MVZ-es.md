@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076DX5MVZ-es KitchenBoss Bolsas de Vacio Profesional 3 Rolls 20x500cm...'
 sku: 'B076DX5MVZ-es'
-tags: [ 'tijeras', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

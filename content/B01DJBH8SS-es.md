@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DJBH8SS-es Parker Jotter Bond Street Black bolígrafo CT'
 sku: 'B01DJBH8SS-es'
-tags: [ 'bolígrafo', ]
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLRJZVM-es ShiyiUP Pistola de Agua con Depósito Mochila'
 sku: 'B07DLRJZVM-es'
-tags: [ 'mochila', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

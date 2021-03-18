@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QCC8TZV-es PRODG PRODG 39519 Surfboard-GTX Travel Trolley-Rucksack...'
 sku: 'B07QCC8TZV-es'
-tags: [ 'mochila', ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

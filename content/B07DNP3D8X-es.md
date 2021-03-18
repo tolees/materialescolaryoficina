@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNP3D8X-es Manicura Pedicura Set Tencoz 18 in 1 Cortaúñas de Acero...'
 sku: 'B07DNP3D8X-es'
-tags: [ 'tijeras', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

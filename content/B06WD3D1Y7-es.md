@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WD3D1Y7-es Targus TSB913EU CitySmart 12 5 13 13 3 14 15 15 6"...'
 sku: 'B06WD3D1Y7-es'
-tags: [ 'backpack', ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

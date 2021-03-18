@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079BQ1BKH-es XP-Pen G430S Tableta de Dibujo Gráfico 4 x 3 Pulgadas para...'
 sku: 'B079BQ1BKH-es'
-tags: [ 'lápiz', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

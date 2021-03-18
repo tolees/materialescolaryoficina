@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LY5AF0-es Faber-Castell 112160 - Estuche de metal con 60 ecolápices...'
 sku: 'B000LY5AF0-es'
-tags: [ 'faber-castell', ]
 actualPrice: 57.46 EUR
 currency: EUR
 price: 57.46

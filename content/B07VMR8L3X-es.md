@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VMR8L3X-es Memoryee Stranger Things 3D de impresión Unisex Niño Bolsa...'
 sku: 'B07VMR8L3X-es'
-tags: [ 'mochila', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

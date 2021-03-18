@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TXYZR6-es XQXA Mochila Antirrobo Impermeable Mochila Portatil 15.6...'
 sku: 'B082TXYZR6-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

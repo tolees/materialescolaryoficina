@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J1Y8AMG-es edding 4200-6-S-000 - Estuche con 6 rotuladores para...'
 sku: 'B00J1Y8AMG-es'
-tags: [ 'rotuladores', ]
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FDLS3NH-es WENIG Mochila Antirrobo Impermeable Mochila Portatil 15.6...'
 sku: 'B07FDLS3NH-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 22.59 EUR
 currency: EUR
 price: 22.59

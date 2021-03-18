@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PB95BXR-es CoolBELL Mochila antirrobo de 15.6 Pulgada/Mochila...'
 sku: 'B07PB95BXR-es'
-tags: [ 'mochila', ]
 actualPrice: 27.73 EUR
 currency: EUR
 price: 27.73

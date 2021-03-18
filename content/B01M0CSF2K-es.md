@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M0CSF2K-es Samsonite Openroad - 15.6 Pulgadas Mochila para Portátil...'
 sku: 'B01M0CSF2K-es'
-tags: [ 'mochila', ]
 actualPrice: 77.5 EUR
 currency: EUR
 price: 77.5

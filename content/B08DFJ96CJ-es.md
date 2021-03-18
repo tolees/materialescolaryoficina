@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFJ96CJ-es Mochila Infantil 3D Estuche Escolar y Bolsa Merienda de...'
 sku: 'B08DFJ96CJ-es'
-tags: [ 'escolar','material','mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

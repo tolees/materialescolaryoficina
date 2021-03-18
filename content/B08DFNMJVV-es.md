@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DFNMJVV-es Disney - Mochila Infantil 3D Estuche Escolar y Bolsa...'
 sku: 'B08DFNMJVV-es'
-tags: [ 'mochila','escolar','material','escolar', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

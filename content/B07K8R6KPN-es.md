@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8R6KPN-es Artina Set de Pinceles de Pintura Amsterdam. Juego de 17...'
 sku: 'B07K8R6KPN-es'
-tags: [ 'acuarelas', ]
 actualPrice: 14.29 EUR
 currency: EUR
 price: 14.29

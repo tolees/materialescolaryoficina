@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B86BC5J-es Mochila Niña 3 en 1 Sets de Bolsas Escolares Primaria...'
 sku: 'B08B86BC5J-es'
-tags: [ 'mochila', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

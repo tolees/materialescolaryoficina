@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQTR5HQ-es Playstation Japan Since 1994 Tokyo Seamless Functional...'
 sku: 'B07QQTR5HQ-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

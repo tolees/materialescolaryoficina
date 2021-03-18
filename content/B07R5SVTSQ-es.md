@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R5SVTSQ-es PUMA Originals Backpack Mochilla Adultos Unisex Gibraltar...'
 sku: 'B07R5SVTSQ-es'
-tags: [ 'backpack', ]
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

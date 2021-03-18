@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BRGU8R0-es Amazon Basics - Tijeras con mango suave y cuchilla de...'
 sku: 'B01BRGU8R0-es'
-tags: [ 'amazon basics','tijeras', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

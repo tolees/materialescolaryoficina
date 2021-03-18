@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVJJMBY-es Surface Pen 180 días de Trabajo 500hrs Standby Surface...'
 sku: 'B07GVJJMBY-es'
-tags: [ 'lápiz', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

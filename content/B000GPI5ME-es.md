@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000GPI5ME-es Staedtler Noris - Lapiceros Material Escolar Pack de 12 Gris'
 sku: 'B000GPI5ME-es'
-tags: [ 'escolar','material','escolar', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

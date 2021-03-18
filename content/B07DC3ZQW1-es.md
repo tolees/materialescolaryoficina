@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DC3ZQW1-es XP-PEN Deco 02 Tableta de Dibujo Gráfico con P06 Lápiz...'
 sku: 'B07DC3ZQW1-es'
-tags: [ 'lápiz', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

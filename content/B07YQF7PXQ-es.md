@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQF7PXQ-es Kipling Seoul Mochila Escolar Rosa Metallic Berry'
 sku: 'B07YQF7PXQ-es'
-tags: [ 'mochila','escolar', ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

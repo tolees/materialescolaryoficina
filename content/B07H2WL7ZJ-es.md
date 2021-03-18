@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H2WL7ZJ-es HOHUHU 100 Colores Con doble Rotuladores Punta Pincel...'
 sku: 'B07H2WL7ZJ-es'
-tags: [ 'colorear','rotuladores','rotuladores', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

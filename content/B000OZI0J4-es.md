@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000OZI0J4-es Staedtler Noris Club 965 14NBK - Tijeras para niños...'
 sku: 'B000OZI0J4-es'
-tags: [ 'tijeras', ]
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQDSM64-es Kipling Seoul Mochila Escolar Azul Robot Camo Pink'
 sku: 'B07YQDSM64-es'
-tags: [ 'mochila','escolar', ]
 actualPrice: 37.48 EUR
 currency: EUR
 price: 37.48

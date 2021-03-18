@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HCOKB1Y-es TYR Alliance 45L Mochila Unisex Adulto Negro Talla Única'
 sku: 'B01HCOKB1Y-es'
-tags: [ 'mochila', ]
 actualPrice: 46.9 EUR
 currency: EUR
 price: 46.9

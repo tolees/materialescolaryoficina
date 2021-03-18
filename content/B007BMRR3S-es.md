@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007BMRR3S-es Essence kajal lápiz de ojos 21 feel the eclipse.'
 sku: 'B007BMRR3S-es'
-tags: [ 'lápiz', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

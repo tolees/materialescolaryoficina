@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZMO2MP-es Marcador Pastel STABILO BOSS Original - Estuche con 4...'
 sku: 'B01LZMO2MP-es'
-tags: [ 'stabilo', ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079Y2PRVL-es Pepe Jeans Grains Mochila Adaptable para Portátil 15 6"...'
 sku: 'B079Y2PRVL-es'
-tags: [ 'mochila', ]
 actualPrice: 40.5 EUR
 currency: EUR
 price: 40.5

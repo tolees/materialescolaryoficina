@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078Y9QT8P-es XP-PEN G640 Tableta Gráfica 6 x 4 Pulgadas Nivel de...'
 sku: 'B078Y9QT8P-es'
-tags: [ 'lápiz', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

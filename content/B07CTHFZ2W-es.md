@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CTHFZ2W-es E·Durable Mini Pistola manualidades con 50 Piezas Barras...'
 sku: 'B07CTHFZ2W-es'
-tags: [ 'barras','de','pegamento', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

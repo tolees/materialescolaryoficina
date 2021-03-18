@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005BRKFFW-es BIC Kids Kid Couleur rotuladores punta media - Colores...'
 sku: 'B005BRKFFW-es'
-tags: [ 'rotuladores','rotuladores', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

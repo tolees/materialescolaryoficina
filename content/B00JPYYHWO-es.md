@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JPYYHWO-es Eastpak Back To Work Mochila 43 cm 27 L Gris Sunday Grey'
 sku: 'B00JPYYHWO-es'
-tags: [ 'mochila', ]
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0815QQRT8-es Felly Mochila Antirrobo Mochila para Portatil Hombre15 6...'
 sku: 'B0815QQRT8-es'
-tags: [ 'mochila', ]
 actualPrice: 17.15 EUR
 currency: EUR
 price: 17.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PT6ZCP3-es WindTook Mochila Hombre Trabajo con Puerto Carga USB...'
 sku: 'B07PT6ZCP3-es'
-tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

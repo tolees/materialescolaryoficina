@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P9PQVXM-es FANDARE Mochila Hombres/Mujeres Bolsa de Escuela...'
 sku: 'B07P9PQVXM-es'
-tags: [ 'mochila', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

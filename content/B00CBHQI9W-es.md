@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CBHQI9W-es L´Oréal Paris Make Up Artist Eyeliner Super Liner...'
 sku: 'B00CBHQI9W-es'
-tags: [ 'lápiz', ]
 actualPrice: 4.57 EUR
 currency: EUR
 price: 4.57

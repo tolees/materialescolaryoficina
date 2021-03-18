@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009ERTJF2-es Fiskars Razor Edge Tijeras multiuso Longitud: 24 cm Acero...'
 sku: 'B009ERTJF2-es'
-tags: [ 'tijeras', ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

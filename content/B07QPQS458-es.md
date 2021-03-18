@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QPQS458-es G LAXIA Pistola de Silicona Profesionales 100 W Pistola de...'
 sku: 'B07QPQS458-es'
-tags: [ 'barras','de','pegamento', ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

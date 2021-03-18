@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CGHGB1P-es NEWHEY Mochila Portatil 18.4 Pulgadas Hombre con Puerto de...'
 sku: 'B08CGHGB1P-es'
-tags: [ 'mochila', ]
 actualPrice: 41.53 EUR
 currency: EUR
 price: 41.53

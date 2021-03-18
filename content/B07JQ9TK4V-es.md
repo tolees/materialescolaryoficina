@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQ9TK4V-es Bestlife 2018 Mochila Tipo Casual 43 cm 22.0 litros Gris'
 sku: 'B07JQ9TK4V-es'
-tags: [ 'mochila', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

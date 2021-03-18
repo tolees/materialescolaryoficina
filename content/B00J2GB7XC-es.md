@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00J2GB7XC-es Pritt Stick - Barra de adhesivo 22 g Varios Colores y...'
 sku: 'B00J2GB7XC-es'
-tags: [ 'pritt', ]
 actualPrice: 2.21 EUR
 currency: EUR
 price: 2.21

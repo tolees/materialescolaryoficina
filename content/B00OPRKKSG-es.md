@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OPRKKSG-es Pentel Arts - Juego de recambio de 12 cartuchos de tinta...'
 sku: 'B00OPRKKSG-es'
-tags: [ 'pentel','rotulador', ]
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

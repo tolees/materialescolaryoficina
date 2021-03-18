@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HLRXR7M-es akozon 1pc 7scheren vendaje sanitario Key2Life – Tijeras...'
 sku: 'B07HLRXR7M-es'
-tags: [ 'tijeras', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

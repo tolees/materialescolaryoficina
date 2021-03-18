@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Y5GKRMY-es GUMEI Juego de Barra de Pegamento sólido Tipo bolígrafo...'
 sku: 'B08Y5GKRMY-es'
-tags: [ 'bolígrafo','escolar','material','escolar', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

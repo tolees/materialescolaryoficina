@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SWV1JXY-es N+A - Bolígrafos de tinta de gel borrables bolígrafos de...'
 sku: 'B08SWV1JXY-es'
-tags: [ 'bolígrafos', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

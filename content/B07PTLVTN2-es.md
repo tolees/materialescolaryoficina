@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PTLVTN2-es Kipling Fundamental Mochila para Mujer Azul Stone Blue...'
 sku: 'B07PTLVTN2-es'
-tags: [ 'mochila', ]
 actualPrice: 30.27 EUR
 currency: EUR
 price: 30.27

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TQ8CTY4-es Samsonite Rewind Mochila para Portátil L Expandible 45 cm...'
 sku: 'B07TQ8CTY4-es'
-tags: [ 'mochila', ]
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

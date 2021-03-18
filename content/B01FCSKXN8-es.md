@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FCSKXN8-es Thule Crossover Mochila tipo casual 47 centimeters Negro...'
 sku: 'B01FCSKXN8-es'
-tags: [ 'mochila', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

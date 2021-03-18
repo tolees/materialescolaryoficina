@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS9VM2J-es Moleskine - Classic Pro Device Bag - Bolsa de transporte...'
 sku: 'B07XS9VM2J-es'
-tags: [ 'moleskine', ]
 actualPrice: 77.63 EUR
 currency: EUR
 price: 77.63

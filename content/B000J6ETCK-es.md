@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000J6ETCK-es Tipp Ex - Tipp-Ex Mini Pocket Mouse Cinta Correctora muy...'
 sku: 'B000J6ETCK-es'
-tags: [ 'tipp-ex', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

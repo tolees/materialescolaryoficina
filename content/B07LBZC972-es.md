@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBZC972-es Samsonite Guardit 2.0 Mochila para portátil con Ruedas...'
 sku: 'B07LBZC972-es'
-tags: [ 'mochila', ]
 actualPrice: 107.47 EUR
 currency: EUR
 price: 107.47

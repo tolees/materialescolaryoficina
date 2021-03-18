@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSNQ1BS-es Valentino by Mario - Superman Bolsos mochila Mujer Azul...'
 sku: 'B07TSNQ1BS-es'
-tags: [ 'mochila', ]
 actualPrice: 83.47 EUR
 currency: EUR
 price: 83.47

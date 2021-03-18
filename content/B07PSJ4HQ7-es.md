@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSJ4HQ7-es Kipling City Pack S Mochila para Mujer Verde Seagrass 27 x...'
 sku: 'B07PSJ4HQ7-es'
-tags: [ 'mochila', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

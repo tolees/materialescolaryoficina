@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081D4YN1F-es Burton Distortion 2.0 Mochila Gray Heather'
 sku: 'B081D4YN1F-es'
-tags: [ 'mochila', ]
 actualPrice: 54.48 EUR
 currency: EUR
 price: 54.48

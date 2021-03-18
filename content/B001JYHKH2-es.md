@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001JYHKH2-es APLI - Etiquetas Adhesivas Blancas multifunción 70x37 100...'
 sku: 'B001JYHKH2-es'
-tags: [ 'apli', ]
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

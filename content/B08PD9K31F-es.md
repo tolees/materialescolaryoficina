@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PD9K31F-es Harry Bear Mochila para Niños Juego de Azar'
 sku: 'B08PD9K31F-es'
-tags: [ 'mochila', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RM3Y25Q-es American Tourister Urban Groove - 15.6 Pulgadas Mochila...'
 sku: 'B07RM3Y25Q-es'
-tags: [ 'mochila', ]
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

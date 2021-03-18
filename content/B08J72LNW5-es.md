@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08J72LNW5-es Dragon Touch Cámara Instantánea Cámara de Fotos para Niños...'
 sku: 'B08J72LNW5-es'
-tags: [ 'Accesorios','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','bolígrafos','dragon touch', ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

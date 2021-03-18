@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RGR4KC4-es CERDÁ LIFE S LITTLE MOMENTS Minnie Mochila para Niños Gris...'
 sku: 'B07RGR4KC4-es'
-tags: [ 'mochila', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

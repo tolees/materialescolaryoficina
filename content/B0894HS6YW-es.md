@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894HS6YW-es Dazspirit 36 Colores Caja Acuarelas Profesionales & Papel...'
 sku: 'B0894HS6YW-es'
-tags: [ 'acuarelas', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N2UGE1O-es Faber Castell 554212 - Estuche de cartón con 12...'
 sku: 'B00N2UGE1O-es'
-tags: [ 'castell','faber','rotuladores', ]
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

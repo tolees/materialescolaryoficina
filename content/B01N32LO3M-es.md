@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N32LO3M-es Thule TSLB317MIN - Mochila para Ordenador portátil Apple...'
 sku: 'B01N32LO3M-es'
-tags: [ 'mochila', ]
 actualPrice: 105.96 EUR
 currency: EUR
 price: 105.96

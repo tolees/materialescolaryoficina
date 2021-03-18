@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZA53D3-es American Tourister Urban Groove - 15.6 Pulgadas Mochila...'
 sku: 'B01LZA53D3-es'
-tags: [ 'mochila', ]
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F2R5NQ5-es Play-Doh Kitchen Creations Grill n Stamp Juego para niños...'
 sku: 'B08F2R5NQ5-es'
-tags: [ 'play-doh', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

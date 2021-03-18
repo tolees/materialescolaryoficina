@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HI7JZ0I-es Fjallraven - Fjällräven Re-Kånken Mini - Mochila Unisex...'
 sku: 'B01HI7JZ0I-es'
-tags: [ 'mochila', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D1J63IY-es Samsonite Xbr Mochila Tipo Casual 17.3" 29 litros Color Negro'
 sku: 'B01D1J63IY-es'
-tags: [ 'mochila', ]
 actualPrice: 101.5 EUR
 currency: EUR
 price: 101.5

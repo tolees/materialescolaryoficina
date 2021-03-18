@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082NHKFJZ-es HUION Nueva Tableta gráfica 2020 HS611 Tabletas de lápiz...'
 sku: 'B082NHKFJZ-es'
-tags: [ 'lápiz', ]
 actualPrice: 73.94 EUR
 currency: EUR
 price: 73.94

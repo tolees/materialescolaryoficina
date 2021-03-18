@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BKPXFRN-es Harry Potter KM-38194 2018 Mochila Tipo Casual 40 cm 1...'
 sku: 'B07BKPXFRN-es'
-tags: [ 'Cuchillos de cocina','Equipaje','Hogar y cocina','Juegos de cuchillos de cocina','Mochilas','Mochilas tipo casual','Utensilios de cocina','harry potter','mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

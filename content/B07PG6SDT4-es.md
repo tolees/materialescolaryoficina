@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PG6SDT4-es ECOTISH - Anti-robo Mujer Mochila de Cuero de pu mochila...'
 sku: 'B07PG6SDT4-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

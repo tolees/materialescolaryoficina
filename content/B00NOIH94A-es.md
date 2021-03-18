@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NOIH94A-es Moleskine 11299 - Libreta con tapa dura diseño Batman...'
 sku: 'B00NOIH94A-es'
-tags: [ 'moleskine', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

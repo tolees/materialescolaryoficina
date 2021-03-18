@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011K8OGQ4-es Black Diamond Speed 22 Mochila Unisex Adulto Graphite'
 sku: 'B011K8OGQ4-es'
-tags: [ 'mochila', ]
 actualPrice: 63.6 EUR
 currency: EUR
 price: 63.6

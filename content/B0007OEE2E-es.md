@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007OEE2E-es Rotulador punta fina STABILO point 88 - Estuche con 10...'
 sku: 'B0007OEE2E-es'
-tags: [ 'rotulador','stabilo', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

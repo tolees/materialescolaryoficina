@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C777NZS-es APLI Kids 14227 - Color Sticks 10 g 6 u.'
 sku: 'B01C777NZS-es'
-tags: [ 'apli', ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

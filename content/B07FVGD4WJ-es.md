@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVGD4WJ-es HUION H610PRO V2 Tableta gráfica - Tableta gráfica de...'
 sku: 'B07FVGD4WJ-es'
-tags: [ 'Accesorios','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','huion','lápiz', ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085VSDS3Z-es Cerdá Mochila con Botella de Agua Infantil de Spiderman-...'
 sku: 'B085VSDS3Z-es'
-tags: [ 'mochila', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

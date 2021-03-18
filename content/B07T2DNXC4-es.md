@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2DNXC4-es Estuche de Actividades para niños de +3 años Plantillas y...'
 sku: 'B07T2DNXC4-es'
-tags: [ 'colorear', ]
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

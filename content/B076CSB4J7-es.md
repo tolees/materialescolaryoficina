@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076CSB4J7-es Samsonite XBR - Laptop Backpack 15.6" Mochila tipo casual...'
 sku: 'B076CSB4J7-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 121.54 EUR
 currency: EUR
 price: 121.54

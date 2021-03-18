@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JDMNBR-es Staedtler 308 SB6P - Pigment Liner Rotuladores Paquete de 6'
 sku: 'B075JDMNBR-es'
-tags: [ 'rotuladores', ]
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

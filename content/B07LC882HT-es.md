@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LC882HT-es Samsonite Guardit 2.0 Mochila para portátil Unisex Adulto...'
 sku: 'B07LC882HT-es'
-tags: [ 'mochila', ]
 actualPrice: 51.75 EUR
 currency: EUR
 price: 51.75

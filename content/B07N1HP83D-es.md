@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N1HP83D-es Kipling SEOUL - Mochila escolar 27 liters Rosa BRIDAL ROSE'
 sku: 'B07N1HP83D-es'
-tags: [ 'mochila','escolar', ]
 actualPrice: 61.01 EUR
 currency: EUR
 price: 61.01

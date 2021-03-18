@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BN8MG63-es Mochila para Portátil REYLEO Mochila Negocio Impermeable...'
 sku: 'B07BN8MG63-es'
-tags: [ 'mochila', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

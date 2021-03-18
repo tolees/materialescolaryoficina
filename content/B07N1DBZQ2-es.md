@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1DBZQ2-es Kipling SOOBIN LIGHT - Bolsa escolar 29 liters Azul TRUE NAVY'
 sku: 'B07N1DBZQ2-es'
-tags: [ 'escolar', ]
 actualPrice: 130.0 EUR
 currency: EUR
 price: 130.0

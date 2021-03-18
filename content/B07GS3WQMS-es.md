@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GS3WQMS-es BIC My 4 Colours Box - Caja de 5 Bolígrafos 4 Colores...'
 sku: 'B07GS3WQMS-es'
-tags: [ 'bolígrafo','bolígrafos', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

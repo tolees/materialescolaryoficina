@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JFW2X4J-es Cerdá - MOCHILA INFANTIL 3D STAR WARS DARTH VADER'
 sku: 'B07JFW2X4J-es'
-tags: [ 'mochila', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

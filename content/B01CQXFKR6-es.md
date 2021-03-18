@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CQXFKR6-es Hugo Boss - Bolígrafo loop black negro mate'
 sku: 'B01CQXFKR6-es'
-tags: [ 'bolígrafo', ]
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

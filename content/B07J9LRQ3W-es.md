@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J9LRQ3W-es Under Armour Hustle 4.0 Accesorio Deportivo Mochila para...'
 sku: 'B07J9LRQ3W-es'
-tags: [ 'mochila', ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

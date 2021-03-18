@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N9J2LJN-es Samsonite Hexa-Packs - Mochila para portátil Amarillo Dark...'
 sku: 'B07N9J2LJN-es'
-tags: [ 'mochila', ]
 actualPrice: 64.05 EUR
 currency: EUR
 price: 64.05

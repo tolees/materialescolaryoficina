@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY1Q2YO-es Parker Urban 1931566 - Bolígrafo roller azul oscuro...'
 sku: 'B01LY1Q2YO-es'
-tags: [ 'bolígrafo', ]
 actualPrice: 37.92 EUR
 currency: EUR
 price: 37.92

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084LDBVKY-es Mochila para portátil 15 6" Pepe Jeans JASP Dos...'
 sku: 'B084LDBVKY-es'
-tags: [ 'mochila', ]
 actualPrice: 32.54 EUR
 currency: EUR
 price: 32.54

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079TB7DNV-es Alpino AL010760 - Estuche 36 lápices'
 sku: 'B079TB7DNV-es'
-tags: [ 'alpino','lápices', ]
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

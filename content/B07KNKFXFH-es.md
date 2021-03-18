@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KNKFXFH-es El Potro Pipe Mochila para Portátil 13 3" Negro 26x35x10...'
 sku: 'B07KNKFXFH-es'
-tags: [ 'mochila', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

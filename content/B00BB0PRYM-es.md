@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BB0PRYM-es Nenuco Pack Bebé Mochila de Paseo color azul contiene...'
 sku: 'B00BB0PRYM-es'
-tags: [ 'mochila', ]
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008RTZSY4-es BIC - Tipp-Ex Shake n Squeeze Corrector Líquido ideal para...'
 sku: 'B008RTZSY4-es'
-tags: [ 'tipp-ex', ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

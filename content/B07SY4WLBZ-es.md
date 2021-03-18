@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SY4WLBZ-es Targus TSB964GL Mochila para portátil de 15" con Cierre de...'
 sku: 'B07SY4WLBZ-es'
-tags: [ 'mochila', ]
 actualPrice: 81.42 EUR
 currency: EUR
 price: 81.42

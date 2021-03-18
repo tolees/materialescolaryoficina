@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBLNFGC-es Casio FX-82SPXII Iberia - Calculadora científica con...'
 sku: 'B07XBLNFGC-es'
-tags: [ 'calculadora', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

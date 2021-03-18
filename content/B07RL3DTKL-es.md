@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RL3DTKL-es ARTESANIA CERDA Spiderman - Mochila Casual de Viaje 47 cm...'
 sku: 'B07RL3DTKL-es'
-tags: [ 'mochila', ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

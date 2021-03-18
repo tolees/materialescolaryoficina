@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGCX7L8-es Cinta Adhesiva de Nano Tape Lavable Transparente Traceless...'
 sku: 'B07ZGCX7L8-es'
-tags: [ 'adhesiva','cinta', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

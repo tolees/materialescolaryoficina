@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPWXN8H-es Mochila 32 cm Pepe Jeans Jareth'
 sku: 'B07NPWXN8H-es'
-tags: [ 'mochila', ]
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

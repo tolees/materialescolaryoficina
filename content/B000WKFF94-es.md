@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WKFF94-es Pelikan Premium Textmarker Rotuladores fluorescentes...'
 sku: 'B000WKFF94-es'
-tags: [ 'escolar','rotuladores', ]
 actualPrice: 6.04 EUR
 currency: EUR
 price: 6.04

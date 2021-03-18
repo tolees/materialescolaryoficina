@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HOFLZ5S-es APLI 13325 - Pack de 10 rollos de papel Electra 75 x 65 x...'
 sku: 'B00HOFLZ5S-es'
-tags: [ 'apli', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

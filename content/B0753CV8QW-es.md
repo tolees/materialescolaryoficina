@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0753CV8QW-es Buluri 50 Rollos de Cinta Adhesiava Washi Cinta Adhesiva...'
 sku: 'B0753CV8QW-es'
-tags: [ 'cinta','adhesiva', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

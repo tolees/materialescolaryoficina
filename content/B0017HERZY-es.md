@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0017HERZY-es Scotch Magic - Portarrollos de sobremesa con 4 cintas...'
 sku: 'B0017HERZY-es'
-tags: [ 'magic','scotch', ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

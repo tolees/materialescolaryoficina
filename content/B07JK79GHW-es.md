@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JK79GHW-es Juego de Tronos - Game of Thrones Stark Mochila Grande...'
 sku: 'B07JK79GHW-es'
-tags: [ 'mochila', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

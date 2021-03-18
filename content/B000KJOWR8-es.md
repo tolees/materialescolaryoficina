@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KJOWR8-es APLI 1263 - Etiquetas blancas permanentes 64 6 x 33 8 mm...'
 sku: 'B000KJOWR8-es'
-tags: [ 'apli', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

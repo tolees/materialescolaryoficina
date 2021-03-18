@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N0ZLG5F-es Thule TSLB317DSH - Mochila para Ordenador portátil Apple...'
 sku: 'B01N0ZLG5F-es'
-tags: [ 'mochila', ]
 actualPrice: 83.35 EUR
 currency: EUR
 price: 83.35

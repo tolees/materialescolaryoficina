@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XG35JT8-es Zacro Rotulador Tela Permanente 24 Colores Marcadores...'
 sku: 'B07XG35JT8-es'
-tags: [ 'colorear','rotulador', ]
 actualPrice: 8.71 EUR
 currency: EUR
 price: 8.71

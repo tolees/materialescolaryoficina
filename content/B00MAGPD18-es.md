@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MAGPD18-es Pilot Negro frixion Punta Redonda borrable bolígrafos...'
 sku: 'B00MAGPD18-es'
-tags: [ 'bolígrafos', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

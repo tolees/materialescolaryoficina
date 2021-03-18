@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q7ZQQFC-es Xnuoyo Mochila de Bandolera Bolso de Pecho Hombro...'
 sku: 'B07Q7ZQQFC-es'
-tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

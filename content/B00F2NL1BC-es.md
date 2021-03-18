@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00F2NL1BC-es Bellota 3710-16 - Pulverizador con Mochila 16 litros'
 sku: 'B00F2NL1BC-es'
-tags: [ 'mochila', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

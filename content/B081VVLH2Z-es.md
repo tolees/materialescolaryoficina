@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081VVLH2Z-es Vans Ss20 Realm BackPACK OS Negro mochila Mochila real...'
 sku: 'B081VVLH2Z-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

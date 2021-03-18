@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TTTKB2N-es American Tourister Fun Limit - Mochila Color Azul Indigo Blue'
 sku: 'B07TTTKB2N-es'
-tags: [ 'mochila', ]
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

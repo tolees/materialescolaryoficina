@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0046ZWC2O-es L Oreal Paris Lápiz de Labios Infalible Lipliner 701 Stay...'
 sku: 'B0046ZWC2O-es'
-tags: [ 'lápiz', ]
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

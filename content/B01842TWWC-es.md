@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01842TWWC-es Faber Castell B-9067-2B - Blíster tubo de 12 minas 0.7 mm...'
 sku: 'B01842TWWC-es'
-tags: [ 'castell','faber', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

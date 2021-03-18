@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y5Y7D1J-es Moleskine - Snoopy Agenda Semanal de 18 Meses Agenda...'
 sku: 'B07Y5Y7D1J-es'
-tags: [ 'moleskine', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

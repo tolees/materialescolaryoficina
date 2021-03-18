@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MRXF63T-es Thule TSLB315MIN - Mochila para Ordenador portátil 15"...'
 sku: 'B01MRXF63T-es'
-tags: [ 'mochila', ]
 actualPrice: 83.66 EUR
 currency: EUR
 price: 83.66

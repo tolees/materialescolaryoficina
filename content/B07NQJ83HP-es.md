@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQJ83HP-es ZZKKO Animal Llama Mochilas Escolar Libro Bolsa de Viaje...'
 sku: 'B07NQJ83HP-es'
-tags: [ 'escolar', ]
 actualPrice: 30.55 EUR
 currency: EUR
 price: 30.55

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005DKVF7E-es Targus Terra - Mochila de 15-16" Color Negro'
 sku: 'B005DKVF7E-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila','targus', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

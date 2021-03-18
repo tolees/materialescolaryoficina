@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJYSMH8-es Lixada Mochila Hidratación 5L Mochila para Correr Ligera...'
 sku: 'B07SJYSMH8-es'
-tags: [ 'mochila', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

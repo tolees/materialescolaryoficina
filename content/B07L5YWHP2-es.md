@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5YWHP2-es Samsonte Cityvibe 2.0 - Mochila para portátil pequeño 41...'
 sku: 'B07L5YWHP2-es'
-tags: [ 'mochila', ]
 actualPrice: 82.08 EUR
 currency: EUR
 price: 82.08

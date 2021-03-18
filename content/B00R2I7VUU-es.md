@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R2I7VUU-es Thule Crossover - Mochila para MacBook Pro 15" Color Negro...'
 sku: 'B00R2I7VUU-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Equipaje','Informática','Mochilas','Mochilas para portátiles y netbooks','Mochilas tipo casual','mochila','thule', ]
 actualPrice: 80.54 EUR
 currency: EUR
 price: 80.54

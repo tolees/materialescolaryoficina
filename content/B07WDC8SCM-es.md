@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WDC8SCM-es Pepe Jeans Pepeb Irvin Mochila Adaptable para Portátil 15...'
 sku: 'B07WDC8SCM-es'
-tags: [ 'mochila', ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

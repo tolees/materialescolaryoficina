@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPJ9MKM-es Real Madrid CF Bolsa de Deporte Mochila con zapatillero...'
 sku: 'B07FPJ9MKM-es'
-tags: [ 'mochila', ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

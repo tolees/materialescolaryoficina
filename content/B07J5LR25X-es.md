@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5LR25X-es Mochila para portátil 13 3 pulgadas Movom Business Negra'
 sku: 'B07J5LR25X-es'
-tags: [ 'mochila', ]
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KTOZO84-es Loctite Super Glue-3 Perfect Pen adhesivo transparente con...'
 sku: 'B01KTOZO84-es'
-tags: [ 'bolígrafo','loctite', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

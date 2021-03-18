@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NWXP98Q-es Pepe Jeans Ason Mochila Negro 30x42x15 cms Poliéster 18.9L'
 sku: 'B07NWXP98Q-es'
-tags: [ 'mochila', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

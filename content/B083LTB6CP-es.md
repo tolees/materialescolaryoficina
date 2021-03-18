@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083LTB6CP-es Besttravel Mochila para Portátil Mochila Unisex...'
 sku: 'B083LTB6CP-es'
-tags: [ 'mochila','mochila','unisex', ]
 actualPrice: 22.85 EUR
 currency: EUR
 price: 22.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D4LGRLB-es Fjallraven Kånken No. 2 Laptop 15" Backpack Unisex Adulto...'
 sku: 'B07D4LGRLB-es'
-tags: [ 'backpack', ]
 actualPrice: 128.65 EUR
 currency: EUR
 price: 128.65

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GHTP1ND-es Targus Groove X2 mochila 27 L práctica mochila para...'
 sku: 'B07GHTP1ND-es'
-tags: [ 'mochila', ]
 actualPrice: 24.03 EUR
 currency: EUR
 price: 24.03

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0162EJBBG-es APLI Kids - Bolsa de gomets cara feliz-2 3 hojas adhesivo...'
 sku: 'B0162EJBBG-es'
-tags: [ 'apli', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

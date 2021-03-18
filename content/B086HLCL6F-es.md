@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086HLCL6F-es American Tourister Fast Route - 15.6 Pulgadas Mochila para...'
 sku: 'B086HLCL6F-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','american tourister','mochila', ]
 actualPrice: 76.45 EUR
 currency: EUR
 price: 76.45

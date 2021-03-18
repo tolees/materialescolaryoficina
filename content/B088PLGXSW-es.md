@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088PLGXSW-es Samsonite Neoknit - 15.6 Pulgadas Mochila para Portátil 45...'
 sku: 'B088PLGXSW-es'
-tags: [ 'mochila', ]
 actualPrice: 81.88 EUR
 currency: EUR
 price: 81.88

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00F18ZAP6-es Fjällräven Kånken no 2 Mochila de senderismo Unisex Adulto...'
 sku: 'B00F18ZAP6-es'
-tags: [ 'mochila', ]
 actualPrice: 94.58 EUR
 currency: EUR
 price: 94.58

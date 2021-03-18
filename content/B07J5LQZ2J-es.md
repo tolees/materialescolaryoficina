@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5LQZ2J-es Movom Business Mochila para Portátil 15 6" Negro 31x44x15...'
 sku: 'B07J5LQZ2J-es'
-tags: [ 'mochila','movom', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

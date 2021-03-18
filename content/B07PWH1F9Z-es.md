@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PWH1F9Z-es Wenger 606489 City Upgrade 16" 2 - Piece Laptop Backpack...'
 sku: 'B07PWH1F9Z-es'
-tags: [ 'backpack', ]
 actualPrice: 62.33 EUR
 currency: EUR
 price: 62.33

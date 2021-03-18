@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S1XGBSH-es APLI Kids 17795 - Cinta termoadhesiva 3 m'
 sku: 'B07S1XGBSH-es'
-tags: [ 'apli', ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

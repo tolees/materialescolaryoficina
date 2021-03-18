@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NAH2EI1-es Apli Paper Ref. 14534 Juego de Gomets design by Martina Hogan'
 sku: 'B01NAH2EI1-es'
-tags: [ 'apli', ]
 actualPrice: 12.26 EUR
 currency: EUR
 price: 12.26

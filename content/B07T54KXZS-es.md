@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T54KXZS-es Fintie - FINPAC Mochila para Portátil Mochila Escolar de...'
 sku: 'B07T54KXZS-es'
-tags: [ 'mochila','escolar', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

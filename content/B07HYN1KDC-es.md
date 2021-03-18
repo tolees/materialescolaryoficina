@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HYN1KDC-es Marcador STABILO BOSS Original Pastel - Estuche con 6 colores'
 sku: 'B07HYN1KDC-es'
-tags: [ 'stabilo','stabilo', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

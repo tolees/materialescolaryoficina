@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PDN2FQ3-es APLI Kids 17115 - Corcho A4 3 hojas Única'
 sku: 'B07PDN2FQ3-es'
-tags: [ 'apli', ]
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

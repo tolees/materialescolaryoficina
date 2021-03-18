@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006T8O2PG-es Milan BMM9215 - Pack de 4 gomas de borrar'
 sku: 'B006T8O2PG-es'
-tags: [ 'gomas','de','borrar', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

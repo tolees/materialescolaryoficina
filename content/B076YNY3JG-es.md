@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076YNY3JG-es Apli kids-Caja domino casita la granja 28 unidades'
 sku: 'B076YNY3JG-es'
-tags: [ 'apli', ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

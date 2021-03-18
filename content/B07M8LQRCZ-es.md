@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8LQRCZ-es Antirrobo Mochila Seguridad Impermeable con Bloqueo...'
 sku: 'B07M8LQRCZ-es'
-tags: [ 'mochila', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DW8HJ5P-es Pepe Jeans Jill Mochila 42 cm'
 sku: 'B07DW8HJ5P-es'
-tags: [ 'mochila', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

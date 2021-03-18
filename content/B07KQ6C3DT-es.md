@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQ6C3DT-es Millet Ubic 40 - Mochila Unisex Adulto Negro Talla Única'
 sku: 'B07KQ6C3DT-es'
-tags: [ 'mochila', ]
 actualPrice: 112.95 EUR
 currency: EUR
 price: 112.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0044R7EHM-es Cross Edge - Bolígrafo roller color azul'
 sku: 'B0044R7EHM-es'
-tags: [ 'bolígrafo', ]
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XFXYBFX-es Moleskine - Lápices de acuarela 12 colores'
 sku: 'B06XFXYBFX-es'
-tags: [ 'lápices','moleskine','lápices', ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZYC25X3-es Play-Doh Caja registradora de juguete para niños de 3 años...'
 sku: 'B07ZYC25X3-es'
-tags: [ 'play-doh', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

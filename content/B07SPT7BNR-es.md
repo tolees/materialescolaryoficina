@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPT7BNR-es VBIGER Bolsos mochila mujer Antirrobo Mochila de Cuero PU...'
 sku: 'B07SPT7BNR-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

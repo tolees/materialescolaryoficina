@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S196TRJ-es chaqlin - Juego de 3 bolsas de escuela para niños mochila...'
 sku: 'B07S196TRJ-es'
-tags: [ 'lápices','mochila', ]
 actualPrice: 22.65 EUR
 currency: EUR
 price: 22.65

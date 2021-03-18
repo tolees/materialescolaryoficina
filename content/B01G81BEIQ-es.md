@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01G81BEIQ-es Rains Backpack Mini Mochila Unisex Adultos Negro Black...'
 sku: 'B01G81BEIQ-es'
-tags: [ 'backpack','mochila','mochila','unisex', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

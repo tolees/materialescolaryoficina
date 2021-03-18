@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001J8JJ5Y-es Apli 1286 - Etiquetas 100 hojas'
 sku: 'B001J8JJ5Y-es'
-tags: [ 'apli', ]
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

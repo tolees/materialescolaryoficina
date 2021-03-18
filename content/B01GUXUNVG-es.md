@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GUXUNVG-es Targus TSB89702EU Mochila Urban Explorer para portátiles...'
 sku: 'B01GUXUNVG-es'
-tags: [ 'mochila', ]
 actualPrice: 56.24 EUR
 currency: EUR
 price: 56.24

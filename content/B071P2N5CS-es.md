@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071P2N5CS-es BIC 4 Color Bolígrafos - Bote Fluorescente de 6 Bolígrafos'
 sku: 'B071P2N5CS-es'
-tags: [ 'bolígrafos', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

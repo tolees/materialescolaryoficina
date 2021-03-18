@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01E3W6PY0-es Fjallraven - Fjällräven Kånken No 2 Laptop 15 Mochila...'
 sku: 'B01E3W6PY0-es'
-tags: [ 'mochila','mochila','unisex', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

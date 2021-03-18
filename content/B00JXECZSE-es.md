@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JXECZSE-es Thule TCDK-101 - Mochila para DSLR Color Gris Oscuro'
 sku: 'B00JXECZSE-es'
-tags: [ 'mochila', ]
 actualPrice: 134.18 EUR
 currency: EUR
 price: 134.18

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894BDYDC-es Mochila Hombre Mochila Escolares Juveniles Mochila...'
 sku: 'B0894BDYDC-es'
-tags: [ 'mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

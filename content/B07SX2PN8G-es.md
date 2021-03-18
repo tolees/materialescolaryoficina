@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SX2PN8G-es Pepe Jeans Ren - Mochila Adaptable 44 cm Negro'
 sku: 'B07SX2PN8G-es'
-tags: [ 'mochila', ]
 actualPrice: 32.47 EUR
 currency: EUR
 price: 32.47

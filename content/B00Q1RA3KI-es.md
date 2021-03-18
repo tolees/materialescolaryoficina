@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q1RA3KI-es Milan BMM9203 - Pack de 3 gomas de borrar'
 sku: 'B00Q1RA3KI-es'
-tags: [ 'borrar','de','gomas', ]
 actualPrice: 0.87 EUR
 currency: EUR
 price: 0.87

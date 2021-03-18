@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y1KM5Q9-es Moleskine - Bolsa para Dispositivos Electrónicos Ordenador...'
 sku: 'B06Y1KM5Q9-es'
-tags: [ 'moleskine', ]
 actualPrice: 62.01 EUR
 currency: EUR
 price: 62.01

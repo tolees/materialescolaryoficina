@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYFC64H-es E-Vitta EVBP001008 - Mochila para Ordenador portátil de...'
 sku: 'B01LYFC64H-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Cámaras analógicas','Cámaras instantáneas analógicas','Electrónica','Fotografía y videocámaras','Herramientas de mano para jardinería','Informática','Jardinería','Jardín','Mochilas para portátiles y netbooks','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tijeras de podar para jardinería','e-vitta','mochila', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

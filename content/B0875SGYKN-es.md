@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0875SGYKN-es Hommie - Lápiz Para Pantalla Táctil 1.0mm Lápiz para ipad...'
 sku: 'B0875SGYKN-es'
-tags: [ 'lápiz', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

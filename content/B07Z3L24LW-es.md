@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z3L24LW-es APLI Kids- Castillo Puzle Observation 104 Piezas...'
 sku: 'B07Z3L24LW-es'
-tags: [ 'apli', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

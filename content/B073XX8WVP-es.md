@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XX8WVP-es Acmebon Mochila Escolar de Ocio Ligera y Moderna - Cartera...'
 sku: 'B073XX8WVP-es'
-tags: [ 'escolar','mochila', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

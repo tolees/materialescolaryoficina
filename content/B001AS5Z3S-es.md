@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001AS5Z3S-es BIC Kids Visa rotuladores punta fina - colores Surtidos...'
 sku: 'B001AS5Z3S-es'
-tags: [ 'rotuladores','rotuladores', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

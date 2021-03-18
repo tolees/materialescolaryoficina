@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KJO5O8-es Apli 10198 - Etiquetas 25 hojas'
 sku: 'B000KJO5O8-es'
-tags: [ 'apli', ]
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NT5VZWT-es BESCHOI Mochila Portatil Mochila Antirrobo Impermeable...'
 sku: 'B08NT5VZWT-es'
-tags: [ 'mochila', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

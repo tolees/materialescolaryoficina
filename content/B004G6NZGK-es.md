@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004G6NZGK-es BIC 4 Colores Grip Pro Bolígrafos Retráctiles de Punta...'
 sku: 'B004G6NZGK-es'
-tags: [ 'bolígrafos', ]
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

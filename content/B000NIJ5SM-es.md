@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000NIJ5SM-es CRAYOLA- Disney Rotuladores Súper Punta Lavables 24 ud...'
 sku: 'B000NIJ5SM-es'
-tags: [ 'rotuladores','rotuladores', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

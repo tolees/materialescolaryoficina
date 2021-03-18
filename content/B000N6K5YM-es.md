@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000N6K5YM-es Fimo 8020 - Pasta de modelar color rojo cereza 56 gr'
 sku: 'B000N6K5YM-es'
-tags: [ 'fimo', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XB84RZD-es Targus TSB914EU Mobile VIP 12 12 5 13 13 3 14 15 15 6”...'
 sku: 'B06XB84RZD-es'
-tags: [ 'backpack', ]
 actualPrice: 68.22 EUR
 currency: EUR
 price: 68.22

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004DBHR2Q-es BIC Cristal Original - Bolígrafos punta media 1.0 mm...'
 sku: 'B004DBHR2Q-es'
-tags: [ 'Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Compuestos de modelado para escultura','Costura y manualidades','Escultura','Hogar y cocina','Oficina y papelería','bic', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

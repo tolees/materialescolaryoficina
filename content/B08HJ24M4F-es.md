@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HJ24M4F-es Pepe Jeans - Mochila Portaordenador Pathway 13 3"'
 sku: 'B08HJ24M4F-es'
-tags: [ 'mochila', ]
 actualPrice: 28.69 EUR
 currency: EUR
 price: 28.69

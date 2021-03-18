@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000GAU2RU-es Pentel GraphGear - Portaminas retráctil metálico calibrado...'
 sku: 'B000GAU2RU-es'
-tags: [ 'pentel','portaminas', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

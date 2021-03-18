@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XD9JKQN-es Play Doh PDH Core Estudio de creaciones animadas...'
 sku: 'B06XD9JKQN-es'
-tags: [ 'doh','play', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

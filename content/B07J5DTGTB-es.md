@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5DTGTB-es Flydo Lenceria Sexy Mujer Picardias Disfraces Escolar...'
 sku: 'B07J5DTGTB-es'
-tags: [ 'escolar', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N9NPHC8-es Samsonite - Samsonte Hexa-Packs - Mochila para portátil...'
 sku: 'B07N9NPHC8-es'
-tags: [ 'mochila', ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K4N8R7L-es Bestlife - Mochila Trolley para Portátil 15.6 Tablet y...'
 sku: 'B07K4N8R7L-es'
-tags: [ 'mochila', ]
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

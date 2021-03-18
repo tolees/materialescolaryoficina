@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7JC31N-es safta - Real Sporting de Gijón Mochila Juvenilpara...'
 sku: 'B07V7JC31N-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila','safta', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

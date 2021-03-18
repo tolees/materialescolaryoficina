@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R4HG4JS-es Marcador fluorescente STABILO swing cool - Estuche con 6...'
 sku: 'B00R4HG4JS-es'
-tags: [ 'stabilo', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

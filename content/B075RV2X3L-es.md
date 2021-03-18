@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075RV2X3L-es Overmont 35L Multifuncional portátil Vintage Mochila Bolsa...'
 sku: 'B075RV2X3L-es'
-tags: [ 'mochila', ]
 actualPrice: 26.65 EUR
 currency: EUR
 price: 26.65

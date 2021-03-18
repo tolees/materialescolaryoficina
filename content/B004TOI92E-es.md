@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004TOI92E-es Milan 176512925 - Bolígrafo de punta redonda 25 unidades'
 sku: 'B004TOI92E-es'
-tags: [ 'bolígrafo', ]
 actualPrice: 2.38 EUR
 currency: EUR
 price: 2.38

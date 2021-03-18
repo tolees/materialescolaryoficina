@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YLZ1NVY-es Smile - Mochila antirrobo The Rock para portátil de hasta...'
 sku: 'B07YLZ1NVY-es'
-tags: [ 'Mochilas para portátiles y netbooks','mochila','smile', ]
 actualPrice: 23.69 EUR
 currency: EUR
 price: 23.69

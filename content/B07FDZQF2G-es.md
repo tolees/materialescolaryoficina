@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FDZQF2G-es Vintage Mochila Mujer Bolsos Mochila Hombre Antirrobo...'
 sku: 'B07FDZQF2G-es'
-tags: [ 'mochila', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

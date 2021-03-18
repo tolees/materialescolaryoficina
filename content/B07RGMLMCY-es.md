@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGMLMCY-es NIKE Nk Heritage Bkpk - 2.0 Sports Backpack Unisex adulto...'
 sku: 'B07RGMLMCY-es'
-tags: [ 'backpack', ]
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MGRAICA-es HP Value Backpack 15.6 - Mochila para portátiles de hasta...'
 sku: 'B00MGRAICA-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KQ24YWY-es Colisal 40L Mochila Senderismo Mochilas Trekking Mujer...'
 sku: 'B07KQ24YWY-es'
-tags: [ 'mochila', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PVS79RK-es Migaven Tijeras de Podar Electricas Tijeras de Podar...'
 sku: 'B08PVS79RK-es'
-tags: [ 'tijeras', ]
 actualPrice: 105.97 EUR
 currency: EUR
 price: 105.97

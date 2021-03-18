@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NP3W8BR-es Mochila de senderismo plegable ultra liviana pequeña...'
 sku: 'B07NP3W8BR-es'
-tags: [ 'mochila', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HIG6OQ-es Staedler Noris - Lápiz HB 2 50 unidades'
 sku: 'B003HIG6OQ-es'
-tags: [ 'lápiz', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

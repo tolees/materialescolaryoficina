@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0773NPR4P-es Mr. Wonderful ME2019L - Recambios de tintas para bolígrafos'
 sku: 'B0773NPR4P-es'
-tags: [ 'Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafos','mr. wonderful', ]
 actualPrice: 6.81 EUR
 currency: EUR
 price: 6.81

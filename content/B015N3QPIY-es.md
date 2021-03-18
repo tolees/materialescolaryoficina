@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015N3QPIY-es Parker Sonnet - Bolígrafo lacado en azul con adorno...'
 sku: 'B015N3QPIY-es'
-tags: [ 'bolígrafo', ]
 actualPrice: 54.1 EUR
 currency: EUR
 price: 54.1

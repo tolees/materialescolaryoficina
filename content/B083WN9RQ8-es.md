@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083WN9RQ8-es Joymoze Mochila Escolar Impermeable para niño y niña...'
 sku: 'B083WN9RQ8-es'
-tags: [ 'escolar','mochila', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

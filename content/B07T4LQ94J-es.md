@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T4LQ94J-es Targus TSB97203GL Mochila SolLite para portátiles de 14" -...'
 sku: 'B07T4LQ94J-es'
-tags: [ 'mochila', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXW751S-es Diesel Discover-me Mirano Mochila para Hombre Multicolor...'
 sku: 'B07RXW751S-es'
-tags: [ 'mochila', ]
 actualPrice: 23.27 EUR
 currency: EUR
 price: 23.27

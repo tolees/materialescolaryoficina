@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRRTNXS-es Oh My Pop! Oh My Pop! Quak-GTS Travel Trolley-Rucksack...'
 sku: 'B07NRRTNXS-es'
-tags: [ 'mochila', ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

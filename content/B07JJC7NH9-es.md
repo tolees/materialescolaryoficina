@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JJC7NH9-es TOTTO Mochila P Tablet Y Pc Kripton Mochila Tipo Casual 40...'
 sku: 'B07JJC7NH9-es'
-tags: [ 'mochila', ]
 actualPrice: 31.47 EUR
 currency: EUR
 price: 31.47

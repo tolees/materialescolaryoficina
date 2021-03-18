@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0162EJ8PA-es APLI Kids - Craft kit Hada mágica'
 sku: 'B0162EJ8PA-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de escritura y dibujo para niños','Mosaicos para niños','Oficina y papelería','Rotuladores de colores para niños','apli','apli kids', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

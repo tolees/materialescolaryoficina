@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N68KKMV-es Airel Mochila portátil-Inteligente | Mochila Impermeable...'
 sku: 'B07N68KKMV-es'
-tags: [ 'mochila', ]
 actualPrice: 17.73 EUR
 currency: EUR
 price: 17.73

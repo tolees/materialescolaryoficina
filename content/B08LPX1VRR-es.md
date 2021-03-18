@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LPX1VRR-es KARACTERMANIA la Casa de Papel Heist - Mochila Freetime HS...'
 sku: 'B08LPX1VRR-es'
-tags: [ 'mochila', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

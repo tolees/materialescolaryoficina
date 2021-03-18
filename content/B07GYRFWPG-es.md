@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYRFWPG-es Ergobaby - Mochila Portabebé Original Downtown'
 sku: 'B07GYRFWPG-es'
-tags: [ 'mochila', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

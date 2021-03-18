@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000I5ZK2U-es BIC Cristal Original Bolígrafos Punta Media 1 0 mm - Negro...'
 sku: 'B000I5ZK2U-es'
-tags: [ 'bolígrafos','bic','cristal', ]
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

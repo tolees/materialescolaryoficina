@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0159BEJQA-es Alpino DP00005601 - Pastilla plastilina'
 sku: 'B0159BEJQA-es'
-tags: [ 'alpino','plastilina', ]
 actualPrice: 0.42 EUR
 currency: EUR
 price: 0.42

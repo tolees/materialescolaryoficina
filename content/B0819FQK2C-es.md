@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0819FQK2C-es PUTORSEN® Bandeja ergonómico de cajones de Almacenamiento...'
 sku: 'B0819FQK2C-es'
-tags: [ 'bolígrafos','lápices','lápices', ]
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085CC9HMD-es Cabin Max Metz 20L 40x20x25 cm Maleta de Cabina Pequeña...'
 sku: 'B085CC9HMD-es'
-tags: [ 'mochila', ]
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

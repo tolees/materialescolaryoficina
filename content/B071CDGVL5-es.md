@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CDGVL5-es Speedo T-KIT Teamster Mochila Unisex Adulto Azul 35 l'
 sku: 'B071CDGVL5-es'
-tags: [ 'mochila', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

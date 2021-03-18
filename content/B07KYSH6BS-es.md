@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KYSH6BS-es Samsonite Guardit 2.0 Mochila para portátil Unisex adulto...'
 sku: 'B07KYSH6BS-es'
-tags: [ 'mochila', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

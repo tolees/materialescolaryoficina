@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KJO5JS-es Apli 1264 - Etiquetas 100 hojas'
 sku: 'B000KJO5JS-es'
-tags: [ 'apli', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

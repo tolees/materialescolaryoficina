@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076MWFG1Z-es Posca 153544841 - Pack de 8 rotuladores de pintura al agua...'
 sku: 'B076MWFG1Z-es'
-tags: [ 'rotuladores', ]
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVDVXCK-es Lápiz Capacitivo con Estación de Carga magnética Soporte...'
 sku: 'B07MVDVXCK-es'
-tags: [ 'lápiz', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

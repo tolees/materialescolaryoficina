@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YTR64W3-es Samsonite Paradiver Light Mochila Infantil S+ 42 cm 10 L...'
 sku: 'B07YTR64W3-es'
-tags: [ 'mochila', ]
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

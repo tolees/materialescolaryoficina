@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JK6SFPG-es Under Armour Roland B Mochila con Dos Compartimentos...'
 sku: 'B07JK6SFPG-es'
-tags: [ 'mochila', ]
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

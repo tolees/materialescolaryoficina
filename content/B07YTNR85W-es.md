@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YTNR85W-es Samsonite Paradiver Light Mochila Infantil S+ 42 cm 10 L...'
 sku: 'B07YTNR85W-es'
-tags: [ 'mochila', ]
 actualPrice: 37.87 EUR
 currency: EUR
 price: 37.87

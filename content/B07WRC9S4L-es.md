@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WRC9S4L-es Huntvp Bolsa de Riñonera Mochila de Bandolera 2 Vías de...'
 sku: 'B07WRC9S4L-es'
-tags: [ 'mochila', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

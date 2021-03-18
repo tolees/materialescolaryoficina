@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RY13QDD-es Totto MA03EXT001-1820G-N01 Mochila con Ruedas para...'
 sku: 'B07RY13QDD-es'
-tags: [ 'mochila', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

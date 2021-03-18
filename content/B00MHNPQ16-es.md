@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MHNPQ16-es Thule Paramount 29L - Mochila para Ordenador portátil de 15"'
 sku: 'B00MHNPQ16-es'
-tags: [ 'mochila', ]
 actualPrice: 108.43 EUR
 currency: EUR
 price: 108.43

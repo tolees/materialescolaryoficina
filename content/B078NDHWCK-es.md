@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078NDHWCK-es PetCay Cortauñas para Mascotas medianos y grandes -...'
 sku: 'B078NDHWCK-es'
-tags: [ 'tijeras', ]
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

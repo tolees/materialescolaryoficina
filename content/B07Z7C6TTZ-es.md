@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z7C6TTZ-es Under Armour Hustle 4.0 accesorio deportivo mochila para...'
 sku: 'B07Z7C6TTZ-es'
-tags: [ 'mochila', ]
 actualPrice: 43.12 EUR
 currency: EUR
 price: 43.12

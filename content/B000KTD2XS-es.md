@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KTD2XS-es RAPID 20942903 - Grapadora eléctrica modelo 90EC color blanco'
 sku: 'B000KTD2XS-es'
-tags: [ 'grapadora', ]
 actualPrice: 274.57 EUR
 currency: EUR
 price: 274.57

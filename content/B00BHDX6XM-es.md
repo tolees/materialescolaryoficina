@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BHDX6XM-es Kensington K62591EU - Mochila Triple Trek Optimizada para...'
 sku: 'B00BHDX6XM-es'
-tags: [ 'mochila', ]
 actualPrice: 47.38 EUR
 currency: EUR
 price: 47.38

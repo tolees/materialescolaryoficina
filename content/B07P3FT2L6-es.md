@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P3FT2L6-es Pepe Jeans Cuore Mochila cartera portaordenador'
 sku: 'B07P3FT2L6-es'
-tags: [ 'mochila', ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

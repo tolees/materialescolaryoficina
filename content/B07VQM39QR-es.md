@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQM39QR-es CARIOCA Oops Azules | Set Bolígrafos Borrables Recargables...'
 sku: 'B07VQM39QR-es'
-tags: [ 'bolígrafos', ]
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

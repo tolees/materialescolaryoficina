@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014LKT6AE-es Lego Ninjago Mochila para niños Ninja'
 sku: 'B014LKT6AE-es'
-tags: [ 'mochila', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

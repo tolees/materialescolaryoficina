@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CK249RX-es APLI 18416 - Estuche silicona Nordik Collection - Violeta'
 sku: 'B08CK249RX-es'
-tags: [ 'apli', ]
 actualPrice: 4.46 EUR
 currency: EUR
 price: 4.46

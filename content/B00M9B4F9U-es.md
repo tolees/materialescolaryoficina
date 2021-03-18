@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M9B4F9U-es Pentel 0.9mm P209 Amarillo P200 Serie Mecánico Automático...'
 sku: 'B00M9B4F9U-es'
-tags: [ 'borrar','de','goma','lápiz','pentel', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

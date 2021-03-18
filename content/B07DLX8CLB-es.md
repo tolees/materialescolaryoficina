@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DLX8CLB-es Samsonite PRO-DLX 5 - Backpack Expandable for 15.6 Laptop...'
 sku: 'B07DLX8CLB-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 133.99 EUR
 currency: EUR
 price: 133.99

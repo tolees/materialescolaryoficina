@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYFM2LV-es Mochila para portátil Pepe Jeans Bromley Verde 15 6"'
 sku: 'B07FYFM2LV-es'
-tags: [ 'mochila', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

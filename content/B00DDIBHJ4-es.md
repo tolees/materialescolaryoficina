@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DDIBHJ4-es Port Designs 110265 - Mochila de Transporte para Ordenador...'
 sku: 'B00DDIBHJ4-es'
-tags: [ 'mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

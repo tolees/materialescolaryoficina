@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LC9BF33-es Samsonite Guardit 2.0 - 15.6 Pulgadas Mochila para...'
 sku: 'B07LC9BF33-es'
-tags: [ 'mochila', ]
 actualPrice: 94.86 EUR
 currency: EUR
 price: 94.86

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FD7XDF8-es Mochila para Portátil de Negocios Impermeable Mochila...'
 sku: 'B07FD7XDF8-es'
-tags: [ 'mochila', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

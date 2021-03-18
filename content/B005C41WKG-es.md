@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005C41WKG-es Pentel EnerGel-X - Bolígrafos retráctiles 12 unidades...'
 sku: 'B005C41WKG-es'
-tags: [ 'bolígrafos','pentel', ]
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

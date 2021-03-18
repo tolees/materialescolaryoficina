@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0BQIGO-es Parker Urban 1931622 - Bolígrafo roller violeta recambio...'
 sku: 'B01M0BQIGO-es'
-tags: [ 'bolígrafo', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

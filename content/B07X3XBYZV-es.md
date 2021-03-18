@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3XBYZV-es Eastpak Padded Pak r Mochila 40 cm 24 L Rojo Sailor Red'
 sku: 'B07X3XBYZV-es'
-tags: [ 'mochila', ]
 actualPrice: 27.63 EUR
 currency: EUR
 price: 27.63

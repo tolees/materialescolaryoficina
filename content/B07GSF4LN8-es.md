@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSF4LN8-es Grupo Erik Editores Rick Y Morty Mochila Infantil 40 cm...'
 sku: 'B07GSF4LN8-es'
-tags: [ 'mochila', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

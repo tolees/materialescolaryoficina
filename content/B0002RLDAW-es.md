@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0002RLDAW-es Targus CUCT02BEU - Mochila para portátil de 15.6 pulgadas...'
 sku: 'B0002RLDAW-es'
-tags: [ 'mochila', ]
 actualPrice: 48.59 EUR
 currency: EUR
 price: 48.59

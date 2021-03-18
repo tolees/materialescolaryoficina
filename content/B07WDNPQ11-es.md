@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDNPQ11-es BabbleRoo Mochilas de Pañales para Bebé Gran Capacidad...'
 sku: 'B07WDNPQ11-es'
-tags: [ 'mochila', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

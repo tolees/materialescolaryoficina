@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BCLZP55-es Carioca - Juego de colores Eco Family | Kit de colores...'
 sku: 'B08BCLZP55-es'
-tags: [ 'bolígrafos','lápices','rotuladores', ]
 actualPrice: 20.92 EUR
 currency: EUR
 price: 20.92

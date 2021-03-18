@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF68GPR-es BIC Cristal Multicolour - Pack de 15 unidades bolígrafos...'
 sku: 'B07LF68GPR-es'
-tags: [ 'Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','bic','bolígrafos','cristal', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

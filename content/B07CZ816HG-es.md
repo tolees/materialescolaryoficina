@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZ816HG-es Under Armour Roland B Mochila con Dos Compartimentos...'
 sku: 'B07CZ816HG-es'
-tags: [ 'mochila', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

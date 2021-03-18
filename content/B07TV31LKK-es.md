@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TV31LKK-es CityBAG - Mochila para Transporte de Mascotas Gato Perro o...'
 sku: 'B07TV31LKK-es'
-tags: [ 'mochila', ]
 actualPrice: 37.4 EUR
 currency: EUR
 price: 37.4

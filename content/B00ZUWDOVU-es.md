@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZUWDOVU-es Under Armour Ua Hustle Backpack Ldwr Mochila Hombre Gris...'
 sku: 'B00ZUWDOVU-es'
-tags: [ 'backpack','mochila', ]
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

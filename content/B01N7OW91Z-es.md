@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7OW91Z-es Case Logic Bryker - Mochila 15.6" Color Negro'
 sku: 'B01N7OW91Z-es'
-tags: [ 'mochila', ]
 actualPrice: 48.92 EUR
 currency: EUR
 price: 48.92

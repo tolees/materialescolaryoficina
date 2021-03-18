@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088HHMCQK-es Ritches Diario de Puntos A5 - Cuaderno de Tapa Dura de...'
 sku: 'B088HHMCQK-es'
-tags: [ 'bolígrafo', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

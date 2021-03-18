@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HB1T8WY-es ZOMAKE Mochila Plegable Ligera 20L Mochilas Pequeñas para...'
 sku: 'B07HB1T8WY-es'
-tags: [ 'mochila', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

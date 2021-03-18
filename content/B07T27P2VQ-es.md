@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T27P2VQ-es Armani Exchange Liz - Mochila 28 x 8 x 26 cm color Beige...'
 sku: 'B07T27P2VQ-es'
-tags: [ 'mochila', ]
 actualPrice: 62.89 EUR
 currency: EUR
 price: 62.89

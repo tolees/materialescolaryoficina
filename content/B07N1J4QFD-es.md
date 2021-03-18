@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1J4QFD-es Pepe Jeans Wildshire Mochila para Portátil 15 6"...'
 sku: 'B07N1J4QFD-es'
-tags: [ 'mochila','pepe jeans', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

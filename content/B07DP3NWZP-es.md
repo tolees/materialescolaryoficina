@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DP3NWZP-es Eastpak EK62030W Mochila Poliéster Negro/Blanco - Mochila...'
 sku: 'B07DP3NWZP-es'
-tags: [ 'mochila', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

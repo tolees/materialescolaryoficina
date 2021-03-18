@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKKTYFL-es Vans VN0A3I6RTTZ1 Unisex adulto mochila Verde One Size'
 sku: 'B07QKKTYFL-es'
-tags: [ 'mochila', ]
 actualPrice: 30.4 EUR
 currency: EUR
 price: 30.4

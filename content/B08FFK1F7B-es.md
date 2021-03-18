@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFK1F7B-es luosh Modelo de Arcilla Kit de cortadores de Arcilla para...'
 sku: 'B08FFK1F7B-es'
-tags: [ 'plastilina', ]
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

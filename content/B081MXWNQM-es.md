@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081MXWNQM-es SHIELDON Mochila para Portátil 17 Pulgadas Mochila...'
 sku: 'B081MXWNQM-es'
-tags: [ 'mochila', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

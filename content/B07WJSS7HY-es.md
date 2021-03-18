@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WJSS7HY-es Mochila Escolar USAMYNA Teens para Mujeres College Girls...'
 sku: 'B07WJSS7HY-es'
-tags: [ 'escolar','mochila', ]
 actualPrice: 17.92 EUR
 currency: EUR
 price: 17.92

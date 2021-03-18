@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TSQ2MSF-es Quiksilver 1969 SPECIAL Hombre 1969 ESPECIAL Mochila Negro...'
 sku: 'B07TSQ2MSF-es'
-tags: [ 'mochila', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

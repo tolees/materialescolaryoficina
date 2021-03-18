@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NFS1C1K-es Bestway Dura-Trek - Mochila 65 litros 70 x 32 x 22 cm'
 sku: 'B00NFS1C1K-es'
-tags: [ 'mochila', ]
 actualPrice: 30.72 EUR
 currency: EUR
 price: 30.72

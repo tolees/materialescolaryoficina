@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZYQ25Y6-es MCHENG Fundas para Tablets para iPad Pro 2018 | iPad Air...'
 sku: 'B07ZYQ25Y6-es'
-tags: [ 'lápiz', ]
 actualPrice: 16.63 EUR
 currency: EUR
 price: 16.63

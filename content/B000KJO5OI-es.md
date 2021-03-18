@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KJO5OI-es APLI 10199 - Etiquetas 25 hojas A4'
 sku: 'B000KJO5OI-es'
-tags: [ 'apli', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

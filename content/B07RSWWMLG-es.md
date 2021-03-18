@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RSWWMLG-es Desire Deluxe Rotuladores Pintura Acrílica para Madera...'
 sku: 'B07RSWWMLG-es'
-tags: [ 'rotuladores', ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

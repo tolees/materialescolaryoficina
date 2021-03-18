@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076J5H1DT-es Luz de Noche OMERIL 12LED con Sensor de Movimiento Luz...'
 sku: 'B076J5H1DT-es'
-tags: [ 'cinta','adhesiva', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

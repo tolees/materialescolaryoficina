@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007CCQXKA-es Theo Klein 9356 Caja registradora de juguete Con teclado...'
 sku: 'B007CCQXKA-es'
-tags: [ 'calculadora', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

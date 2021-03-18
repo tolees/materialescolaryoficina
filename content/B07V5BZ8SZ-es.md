@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V5BZ8SZ-es FCB - FC Barcelona Mochila Doble Escolar con cantoneras'
 sku: 'B07V5BZ8SZ-es'
-tags: [ 'mochila','escolar', ]
 actualPrice: 24.88 EUR
 currency: EUR
 price: 24.88

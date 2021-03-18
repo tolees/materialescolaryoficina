@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AO0D87I-es Alpino Maxi - Rotuladores 24 unidades'
 sku: 'B00AO0D87I-es'
-tags: [ 'alpino','rotuladores', ]
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

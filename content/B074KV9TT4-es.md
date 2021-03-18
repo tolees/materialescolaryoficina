@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074KV9TT4-es MATEIN Mochila Portatil Mochila Hombre Impermeable Mochila...'
 sku: 'B074KV9TT4-es'
-tags: [ 'mochila', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MTLJ2S9-es AMZCASE - Funda con Teclado iPad 9.7 2018 Funda iPad con...'
 sku: 'B08MTLJ2S9-es'
-tags: [ 'lápiz', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

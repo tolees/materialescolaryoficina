@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001IVX4OY-es Rotring S0194640 - Cartucho de tinta'
 sku: 'B001IVX4OY-es'
-tags: [ 'rotring', ]
 actualPrice: 12.26 EUR
 currency: EUR
 price: 12.26

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KJKGO6-es APLI Labels 105 x 148mm Blanco 105 mm 148 mm 310 x 220 x...'
 sku: 'B000KJKGO6-es'
-tags: [ 'apli', ]
 actualPrice: 16.57 EUR
 currency: EUR
 price: 16.57

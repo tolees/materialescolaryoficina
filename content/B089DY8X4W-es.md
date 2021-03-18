@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089DY8X4W-es safta Mochila Infantil de Superzings Serie 5 Azul...'
 sku: 'B089DY8X4W-es'
-tags: [ 'mochila', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

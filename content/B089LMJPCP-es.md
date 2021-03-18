@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LMJPCP-es TONZE Herramientas Juguete Juegos de Imitación Bolsa de...'
 sku: 'B089LMJPCP-es'
-tags: [ 'mochila', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

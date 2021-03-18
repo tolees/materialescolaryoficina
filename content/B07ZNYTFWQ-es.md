@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNYTFWQ-es Vicloon Bolsas de Documentos A3+A4+A5 15 Piezas Carpetas...'
 sku: 'B07ZNYTFWQ-es'
-tags: [ 'escolar', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

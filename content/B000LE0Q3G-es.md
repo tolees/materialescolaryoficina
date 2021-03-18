@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LE0Q3G-es APLI 1787 - Etiquetas blancas permanentes 210 0 x 148 0 mm...'
 sku: 'B000LE0Q3G-es'
-tags: [ 'apli', ]
 actualPrice: 61.73 EUR
 currency: EUR
 price: 61.73

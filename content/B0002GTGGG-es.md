@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002GTGGG-es Crayola 3678 - Lápices Decorados Jumbo color/modelo surtido'
 sku: 'B0002GTGGG-es'
-tags: [ 'lápices', ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

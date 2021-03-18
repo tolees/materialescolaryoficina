@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DM9CWQS-es APLI 16911 - Forro de libros con solapa ajustable PP 285...'
 sku: 'B07DM9CWQS-es'
-tags: [ 'apli', ]
 actualPrice: 2.84 EUR
 currency: EUR
 price: 2.84

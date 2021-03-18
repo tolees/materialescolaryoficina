@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYQ8N4V-es Samsonite Guardit 2.0 Mochila para portátill Unisex Adulto...'
 sku: 'B07KYQ8N4V-es'
-tags: [ 'mochila','samsonite', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

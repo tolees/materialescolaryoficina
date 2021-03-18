@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JM75GR2-es Boligrafo Slytherin Harry Potter'
 sku: 'B07JM75GR2-es'
-tags: [ 'boligrafo', ]
 actualPrice: 8.16 EUR
 currency: EUR
 price: 8.16

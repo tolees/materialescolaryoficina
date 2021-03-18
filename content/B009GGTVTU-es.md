@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009GGTVTU-es Jovi 72 - Plastilina color rosa'
 sku: 'B009GGTVTU-es'
-tags: [ 'plastilina', ]
 actualPrice: 1.67 EUR
 currency: EUR
 price: 1.67

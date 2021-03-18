@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T17JJKR-es Armani Exchange Liz - Mochila 28 x 8 x 26 cm color Azul...'
 sku: 'B07T17JJKR-es'
-tags: [ 'mochila', ]
 actualPrice: 66.83 EUR
 currency: EUR
 price: 66.83

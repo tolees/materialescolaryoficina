@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J3C7HHD-es Under Armour UA Scrimmage 2.0 Backpack mochila unisex...'
 sku: 'B07J3C7HHD-es'
-tags: [ 'backpack','mochila','mochila','unisex', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

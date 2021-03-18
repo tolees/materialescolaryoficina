@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GJKFRGH-es Comfy Mate - Kit Barba Cuidado Para Hombres Set...'
 sku: 'B07GJKFRGH-es'
-tags: [ 'tijeras', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

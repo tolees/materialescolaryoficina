@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XTM4YP-es Millet Ubic 30 W Mochila de Marcha Women s Urban...'
 sku: 'B082XTM4YP-es'
-tags: [ 'mochila', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

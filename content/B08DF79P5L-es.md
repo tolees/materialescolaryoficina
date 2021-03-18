@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DF79P5L-es Parblo A610 Plus V2 Tableta Gráfica para Pintar Dibujar...'
 sku: 'B08DF79P5L-es'
-tags: [ 'lápiz', ]
 actualPrice: 54.01 EUR
 currency: EUR
 price: 54.01

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5FHBPH-es Parker Jotter Originals - Colección de bolígrafos surtido...'
 sku: 'B07J5FHBPH-es'
-tags: [ 'bolígrafos', ]
 actualPrice: 21.53 EUR
 currency: EUR
 price: 21.53

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075V3X6GF-es HUION Inspiroy H640P Tableta Gráfica de 6.3 x 3.9 Pulgadas...'
 sku: 'B075V3X6GF-es'
-tags: [ 'lápiz', ]
 actualPrice: 38.23 EUR
 currency: EUR
 price: 38.23

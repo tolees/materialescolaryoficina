@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZHG778D-es S&R Piedra de Afilar Cuchillos 400/1000 en Corindón...'
 sku: 'B07ZHG778D-es'
-tags: [ 'tijeras', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

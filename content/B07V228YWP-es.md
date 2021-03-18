@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V228YWP-es Joymoze Mochila para Universidad Resistente al Agua y...'
 sku: 'B07V228YWP-es'
-tags: [ 'mochila', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

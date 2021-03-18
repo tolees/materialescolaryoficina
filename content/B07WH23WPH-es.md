@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WH23WPH-es Harry Bear Mochila para Niños Videojuegos'
 sku: 'B07WH23WPH-es'
-tags: [ 'mochila', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

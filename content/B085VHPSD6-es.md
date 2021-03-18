@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085VHPSD6-es CERDÁ LIFE S LITTLE MOMENTS Mochila Infantil Estamapada...'
 sku: 'B085VHPSD6-es'
-tags: [ 'mochila', ]
 actualPrice: 13.82 EUR
 currency: EUR
 price: 13.82

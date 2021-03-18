@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LF623WR-es BIC Gel-ocity Quick Dry Bolígrafos de Gel de punta media 0...'
 sku: 'B07LF623WR-es'
-tags: [ 'bolígrafo','bolígrafos', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

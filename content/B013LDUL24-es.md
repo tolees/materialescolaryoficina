@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013LDUL24-es Case Logic RBP414K - Mochila de 14" Color Negro'
 sku: 'B013LDUL24-es'
-tags: [ 'mochila', ]
 actualPrice: 38.65 EUR
 currency: EUR
 price: 38.65

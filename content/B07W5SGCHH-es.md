@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5SGCHH-es Bonamana Estuche para lápices diseño de Anime doble capa...'
 sku: 'B07W5SGCHH-es'
-tags: [ 'lápices', ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

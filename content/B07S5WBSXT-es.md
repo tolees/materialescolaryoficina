@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5WBSXT-es Karactermania Harry Potter Relic-Soft Rucksack Klein...'
 sku: 'B07S5WBSXT-es'
-tags: [ 'mochila', ]
 actualPrice: 24.4 EUR
 currency: EUR
 price: 24.4

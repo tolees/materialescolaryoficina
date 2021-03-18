@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RSZC77W-es LUNCIA Mochila Termica Nevera Flexible Portátil Resistente...'
 sku: 'B07RSZC77W-es'
-tags: [ 'mochila', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

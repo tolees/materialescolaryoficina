@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0886TWFH2-es Samsonite Sonora - 15.6 Pulgadas Expandible Mochila para...'
 sku: 'B0886TWFH2-es'
-tags: [ 'mochila', ]
 actualPrice: 62.3 EUR
 currency: EUR
 price: 62.3

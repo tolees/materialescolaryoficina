@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GWK1ZW3-es Milan Capsule Uno - Bolígrafo'
 sku: 'B07GWK1ZW3-es'
-tags: [ 'bolígrafo', ]
 actualPrice: 0.86 EUR
 currency: EUR
 price: 0.86

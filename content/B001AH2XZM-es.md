@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001AH2XZM-es AspenSport Mount Cook - Mochila 65 L'
 sku: 'B001AH2XZM-es'
-tags: [ 'mochila', ]
 actualPrice: 26.54 EUR
 currency: EUR
 price: 26.54

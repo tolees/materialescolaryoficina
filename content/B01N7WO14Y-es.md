@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7WO14Y-es Zenacolor - 120 Lápices de Colores con Caja de Metal - 120...'
 sku: 'B01N7WO14Y-es'
-tags: [ 'lápices', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

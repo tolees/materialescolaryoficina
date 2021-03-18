@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004Y4YNBK-es STANLEY 1-79-215 FATMAX - Mochila con Ruedas capacidad max...'
 sku: 'B004Y4YNBK-es'
-tags: [ 'mochila', ]
 actualPrice: 66.75 EUR
 currency: EUR
 price: 66.75

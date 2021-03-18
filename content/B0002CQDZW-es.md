@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0002CQDZW-es Targus CN600 - Mochila para Notebook Color Negro'
 sku: 'B0002CQDZW-es'
-tags: [ 'mochila', ]
 actualPrice: 35.3 EUR
 currency: EUR
 price: 35.3

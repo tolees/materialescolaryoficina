@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VDJ41YG-es BESCHOI Mochila Hombre Viaje Impermeable y Expandible para...'
 sku: 'B07VDJ41YG-es'
-tags: [ 'mochila', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

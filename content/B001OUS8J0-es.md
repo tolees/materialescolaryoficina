@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001OUS8J0-es Staedtler Mars Lumograph 100 G12 S. Pack de 12 lápices de...'
 sku: 'B001OUS8J0-es'
-tags: [ 'lápices', ]
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

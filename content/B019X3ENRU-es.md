@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019X3ENRU-es Campingaz Urban Picnic Bacpac 30L - Nevera Flexible...'
 sku: 'B019X3ENRU-es'
-tags: [ 'mochila', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

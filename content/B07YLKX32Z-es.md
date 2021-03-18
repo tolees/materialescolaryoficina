@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLKX32Z-es Parker Jotter Originals rotulador roller acabado blanco...'
 sku: 'B07YLKX32Z-es'
-tags: [ 'rotulador', ]
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96
