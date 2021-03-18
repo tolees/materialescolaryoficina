@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQFT6LJ-es Rotuladores metálicos Kaliwa Juego de 10 Colores Surtidos...'
 sku: 'B07TQFT6LJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

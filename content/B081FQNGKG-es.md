@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081FQNGKG-es STABILO Pen 68 brush Rotulador punta de pincel - Estuche...'
 sku: 'B081FQNGKG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotulador','stabilo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotulador','stabilo', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

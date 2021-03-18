@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081VVD5D2-es Vans Mochila diseño de vestido de esquí Azul a cuadros'
 sku: 'B081VVD5D2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

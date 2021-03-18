@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BJ2RK0A-es Mochila Infantil Star Wars'
 sku: 'B01BJ2RK0A-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BMMMR34-es Koooper Libro Aventuras up Álbum de Fotos DIY Album up...'
 sku: 'B07BMMMR34-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082CM9TZ5-es Memoria Flash USB 64GB Memoria USB 3.0 Pendrive con Luz...'
 sku: 'B082CM9TZ5-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

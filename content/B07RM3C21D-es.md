@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RM3C21D-es Mochila Mochila Escolar Mochila Deportiva Mochila para el...'
 sku: 'B07RM3C21D-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

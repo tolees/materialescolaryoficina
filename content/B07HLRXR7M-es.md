@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HLRXR7M-es akozon 1pc 7scheren vendaje sanitario Key2Life – Tijeras...'
 sku: 'B07HLRXR7M-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

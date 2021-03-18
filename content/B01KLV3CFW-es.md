@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KLV3CFW-es Under Armour Ua Hustle 3.0 Mochila Unisex Negro...'
 sku: 'B01KLV3CFW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila','unisex', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila','unisex', ]
 actualPrice: 47.54 EUR
 currency: EUR
 price: 47.54

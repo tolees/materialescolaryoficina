@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H6GRSWD-es FOSTAK Mochila Femenina maletín Bolsa de Viaje Bolso...'
 sku: 'B07H6GRSWD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 6.54 EUR
 currency: EUR
 price: 6.54

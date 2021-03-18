@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LD5SAEY-es Conté Colouring Lápices de colores - colores Surtidos Caja...'
 sku: 'B00LD5SAEY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápices', ]
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005FQDDJ4-es Max Factor Khol Pencil Eyeliner Lápiz de Ojos Tono 50...'
 sku: 'B005FQDDJ4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

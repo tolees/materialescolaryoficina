@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ENJFIHO-es Nueva OU falda plisada para niñas con cintura elástica de...'
 sku: 'B00ENJFIHO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar', ]
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

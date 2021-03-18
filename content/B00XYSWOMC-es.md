@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XYSWOMC-es Capital Sports Travel S Bolsa de deporte 45l Tejido...'
 sku: 'B00XYSWOMC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

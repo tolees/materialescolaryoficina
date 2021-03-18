@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009QX1CY-es Dymo D1 Standard Cintas para Impresoras de Etiquetas 19 mm...'
 sku: 'B0009QX1CY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','dymo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','dymo', ]
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005Z0OW1I-es Pilot 151927 - Bolígrafo borrable color rojo'
 sku: 'B005Z0OW1I-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

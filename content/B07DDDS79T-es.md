@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDDS79T-es VTech- DigiART Pizarra con Plantillas y Dibu-Ruedas para...'
 sku: 'B07DDDS79T-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','colorear', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','colorear', ]
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

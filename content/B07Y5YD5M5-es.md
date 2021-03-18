@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5YD5M5-es Moleskine - Agenda Semanal de 18 Meses Agenda Semanal...'
 sku: 'B07Y5YD5M5-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','moleskine', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','moleskine', ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2R7PKL-es Atlético de Madrid plumier Mochila 4 Estuches llenos 33...'
 sku: 'B07G2R7PKL-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

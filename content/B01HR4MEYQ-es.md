@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HR4MEYQ-es Baban Tijeras 5MM Triángulo Dentado paño Tijeras Tijeras...'
 sku: 'B01HR4MEYQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

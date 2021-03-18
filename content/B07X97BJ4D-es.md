@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X97BJ4D-es KingsLong Mochila Portatil Mujer &Hombre Mochila Pare...'
 sku: 'B07X97BJ4D-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

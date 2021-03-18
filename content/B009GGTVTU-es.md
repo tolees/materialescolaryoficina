@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009GGTVTU-es Jovi 72 - Plastilina color rosa'
 sku: 'B009GGTVTU-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','plastilina', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','plastilina', ]
 actualPrice: 1.67 EUR
 currency: EUR
 price: 1.67

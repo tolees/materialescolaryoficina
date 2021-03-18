@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0828KWMTG-es Lápices de Colores para niños Surtido de 24 Colores Apto...'
 sku: 'B0828KWMTG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápices', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

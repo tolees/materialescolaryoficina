@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMMDJSH-es Play-Doh - Pack 12 Botes Rojos Hasbro E4826F02'
 sku: 'B07KMMDJSH-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','play-doh', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','play-doh', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

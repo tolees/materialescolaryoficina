@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EJKCWMU-es Moleskine - Set de Escritura Inteligente Cuaderno Digital...'
 sku: 'B01EJKCWMU-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo','moleskine', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo','moleskine', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

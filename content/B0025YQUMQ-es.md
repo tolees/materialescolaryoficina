@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0025YQUMQ-es Jovi-725265 Caja de 15 Barras de plastilina 216047'
 sku: 'B0025YQUMQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','plastilina', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','plastilina', ]
 actualPrice: 4.78 EUR
 currency: EUR
 price: 4.78

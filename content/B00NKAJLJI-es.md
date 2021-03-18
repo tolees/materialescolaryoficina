@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NKAJLJI-es Faber Castell 554224 - Estuche de cartón con 24...'
 sku: 'B00NKAJLJI-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','castell','faber','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','castell','faber','rotuladores', ]
 actualPrice: 3.81 EUR
 currency: EUR
 price: 3.81

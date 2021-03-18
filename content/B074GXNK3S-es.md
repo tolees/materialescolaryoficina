@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074GXNK3S-es Faber-Castell 114624 - Estuche de metal con 24 ecolápices...'
 sku: 'B074GXNK3S-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','faber-castell', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','faber-castell', ]
 actualPrice: 19.93 EUR
 currency: EUR
 price: 19.93

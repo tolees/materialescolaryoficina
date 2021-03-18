@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007CX2HKE-es BIC 4 colores Original bolígrafos Retráctiles punta media...'
 sku: 'B007CX2HKE-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafos', ]
 actualPrice: 3.8 EUR
 currency: EUR
 price: 3.8

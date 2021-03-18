@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IWSI38S-es BOLIGRAFO BIC Cristal Oro'
 sku: 'B00IWSI38S-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bic','boligrafo','cristal', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bic','boligrafo','cristal', ]
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

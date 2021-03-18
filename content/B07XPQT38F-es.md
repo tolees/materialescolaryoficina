@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XPQT38F-es Desigual Back new Colorama Nanaimo - Mochila para mujer 11...'
 sku: 'B07XPQT38F-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

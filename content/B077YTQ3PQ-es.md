@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YTQ3PQ-es Gibot Lápices de Colores para niños Agarre de Palma de la...'
 sku: 'B077YTQ3PQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápices', ]
 actualPrice: 10.26 EUR
 currency: EUR
 price: 10.26

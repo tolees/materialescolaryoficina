@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075K6T4NR-es Barras de pegamento caliente de Beeway®'
 sku: 'B075K6T4NR-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','barras','de','pegamento', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','barras','de','pegamento', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

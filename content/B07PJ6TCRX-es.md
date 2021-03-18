@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJ6TCRX-es Burton Backpack Kilo 2.0 Poliéster Large 27 Litro 49 x 28...'
 sku: 'B07PJ6TCRX-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','backpack', ]
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

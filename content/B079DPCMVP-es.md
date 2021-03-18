@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079DPCMVP-es Cuaderno Inteligente Reutilizable - NEWYES Libreta de B5...'
 sku: 'B079DPCMVP-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08318LNVD-es Estuche para Lápices BETOY Grande Capacidad Estuche...'
 sku: 'B08318LNVD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','lápices','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar','lápices','lápiz', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

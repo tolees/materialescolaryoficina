@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GTV2IP4-es AUSONIA - 31110 Tijeras DE PODA Profesionales para HUERTOS...'
 sku: 'B00GTV2IP4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

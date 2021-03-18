@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084FXVKVW-es K&F Concept Mochila Fotografia para Cámara Reflex con...'
 sku: 'B084FXVKVW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

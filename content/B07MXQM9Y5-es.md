@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXQM9Y5-es Desigual 19WAKA35 - Bolso mochila de Sintético Mujer...'
 sku: 'B07MXQM9Y5-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3L4M9V-es Gomas de Borrar Animal 30PCS Al Azar Juguete Desmontable...'
 sku: 'B07S3L4M9V-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','borrar','de','gomas','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','borrar','de','gomas','lápiz', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084WQQFH4-es 1 unids/Lote Diseño de Cabeza Redonda Lápiz de Metal...'
 sku: 'B084WQQFH4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

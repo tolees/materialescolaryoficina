@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M23PFFA-es Parker IM - Bolígrafo Punta mediana color Negro Black...'
 sku: 'B01M23PFFA-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 17.03 EUR
 currency: EUR
 price: 17.03

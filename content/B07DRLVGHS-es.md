@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRLVGHS-es Kipling CLAS SEOUL Mochila escolar 45 cm 25 liters Morado...'
 sku: 'B07DRLVGHS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
 actualPrice: 52.25 EUR
 currency: EUR
 price: 52.25

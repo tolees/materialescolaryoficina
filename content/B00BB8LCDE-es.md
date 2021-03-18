@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BB8LCDE-es Rotulador punta fina STABILO point 88 - Estuche premium de...'
 sku: 'B00BB8LCDE-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotulador','stabilo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotulador','stabilo', ]
 actualPrice: 23.65 EUR
 currency: EUR
 price: 23.65

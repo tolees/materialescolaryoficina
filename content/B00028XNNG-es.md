@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00028XNNG-es DYMO LW 99014 Etiquetas de envío / distintivos blanco 54...'
 sku: 'B00028XNNG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','dymo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','dymo', ]
 actualPrice: 23.82 EUR
 currency: EUR
 price: 23.82

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081VWVVL3-es Vans Ss20 Realm Backpack OS Negro Mochila Mochila Real...'
 sku: 'B081VWVVL3-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','backpack','mochila', ]
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1

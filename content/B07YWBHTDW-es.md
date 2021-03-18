@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YWBHTDW-es PHYLES Tablero de Dibujo Mágico Pizarra 3D Mágico con...'
 sku: 'B07YWBHTDW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafos', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

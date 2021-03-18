@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0046ZWC2O-es L Oreal Paris Lápiz de Labios Infalible Lipliner 701 Stay...'
 sku: 'B0046ZWC2O-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6T2XZW-es Rapesco ECO HD-140 - Grapadora de gruesos 140 hojas de...'
 sku: 'B01N6T2XZW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','grapadora', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','grapadora', ]
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

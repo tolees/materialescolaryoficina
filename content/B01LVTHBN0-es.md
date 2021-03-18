@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LVTHBN0-es Borrador Mágnetico para Pizarra Blanca - Conjunto Premium...'
 sku: 'B01LVTHBN0-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','borrar','de','goma','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','borrar','de','goma','rotuladores', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

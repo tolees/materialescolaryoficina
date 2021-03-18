@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LU17P6U-es Black Diamond Bullet 16 Mochila Unisex Adulto Negro Black...'
 sku: 'B00LU17P6U-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 27.38 EUR
 currency: EUR
 price: 27.38

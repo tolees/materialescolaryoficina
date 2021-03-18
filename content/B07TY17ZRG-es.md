@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TY17ZRG-es Parker Jotter Originals Rotulador Roller Acabado Amarillo...'
 sku: 'B07TY17ZRG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotulador', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotulador', ]
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

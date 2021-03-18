@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSJ81NW-es Kipling City Pack S Mochila para Mujer Multicolor Navy...'
 sku: 'B07PSJ81NW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 33.93 EUR
 currency: EUR
 price: 33.93

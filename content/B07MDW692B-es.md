@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDW692B-es BAIGIO Mochila Antirrobo Portátil 15.6 Pulgadas Hombre...'
 sku: 'B07MDW692B-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

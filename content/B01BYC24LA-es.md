@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BYC24LA-es AtmosFlare- Disney Boligrafo 3D Miscelanea Giochi Preziosi...'
 sku: 'B01BYC24LA-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','boligrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','boligrafo', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

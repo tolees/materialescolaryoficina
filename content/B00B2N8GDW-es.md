@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B2N8GDW-es 3 Claveles Tijeras Cocina Multiusos Acero Inoxidable...'
 sku: 'B00B2N8GDW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 27.05 EUR
 currency: EUR
 price: 27.05

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ARAE7PC-es BIC 4 colores Shine Bolígrafo Retráctil punta media 1 0 mm...'
 sku: 'B00ARAE7PC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2B6JCT-es 5 Dry Erase Pockets | Fundas Reutilizables Fichas Papel A4...'
 sku: 'B07G2B6JCT-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','material','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar','material','rotuladores', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

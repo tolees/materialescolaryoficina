@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5AB9G7-es Play-Doh Pizzería Multicolor 23 x 22 cm Hasbro B1856EU6'
 sku: 'B01N5AB9G7-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','play-doh', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','play-doh', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0091R9QSK-es Pilot G-Tec C4 - Bolígrafo roller 0 4 mm color negro'
 sku: 'B0091R9QSK-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 2.4 EUR
 currency: EUR
 price: 2.4

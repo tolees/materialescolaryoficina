@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PT4XR49-es Grip BE-TOOL - Juego de bolígrafos de punta redonda de...'
 sku: 'B07PT4XR49-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafos','escolar', ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

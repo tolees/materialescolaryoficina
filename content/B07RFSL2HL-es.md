@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFSL2HL-es Artesania Cerda Luces Lol Mochila Casual 41 cm Rosa'
 sku: 'B07RFSL2HL-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

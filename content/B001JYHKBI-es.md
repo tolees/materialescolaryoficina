@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001JYHKBI-es Apli 1270 - Etiquetas 100 hojas'
 sku: 'B001JYHKBI-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','apli', ]
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

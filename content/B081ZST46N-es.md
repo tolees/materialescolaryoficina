@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081ZST46N-es CestMall Scratch Art Hojas Dibujo Scratch Láminas para...'
 sku: 'B081ZST46N-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápices', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

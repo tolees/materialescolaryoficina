@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BL4Y3TK-es ManLee Bolsa de lápiz Multifuncional Estuche de Lápices...'
 sku: 'B08BL4Y3TK-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápices','lápiz', ]
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

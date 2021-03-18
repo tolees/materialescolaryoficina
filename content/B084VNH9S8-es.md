@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VNH9S8-es Triamisu Nueva Marca y bolígrafo Pad Phone 4G Conveniente...'
 sku: 'B084VNH9S8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082QWF82B-es Sombra de Ojos Eyeshadow Eyeshadow Glitter Eyeshadow...'
 sku: 'B082QWF82B-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

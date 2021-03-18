@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T16NYF8-es Pepe Jeans Daniela Mochila Escolar Adaptable 42 cm 20.83...'
 sku: 'B07T16NYF8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

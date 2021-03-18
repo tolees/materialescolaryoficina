@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797VH3MJ-es Kit Cuidado Set Barba con Libre Champu Barba Peine Barba...'
 sku: 'B0797VH3MJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

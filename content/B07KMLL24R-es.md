@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMLL24R-es Play Doh - Disney Buzz Lightyear Hasbro E3369EU5'
 sku: 'B07KMLL24R-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','doh','play', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','doh','play', ]
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

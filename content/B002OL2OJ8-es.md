@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002OL2OJ8-es Bolígrafos UB-157 Eye Fine varios colores tinta Uni Super...'
 sku: 'B002OL2OJ8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafos', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

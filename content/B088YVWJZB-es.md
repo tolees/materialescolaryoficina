@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088YVWJZB-es Masthome Tabla de Cortar de Cocina de plástico de Doble...'
 sku: 'B088YVWJZB-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

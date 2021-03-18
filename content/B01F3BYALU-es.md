@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F3BYALU-es Paper Mate InkJoy 100RT bolígrafo retráctil punta media de...'
 sku: 'B01F3BYALU-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

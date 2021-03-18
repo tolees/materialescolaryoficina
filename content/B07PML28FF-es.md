@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PML28FF-es MTNG Mauri Bolso Mochila para Mujer Negro Antel/Liso Neg...'
 sku: 'B07PML28FF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 17.42 EUR
 currency: EUR
 price: 17.42

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894HS6YW-es Dazspirit 36 Colores Caja Acuarelas Profesionales & Papel...'
 sku: 'B0894HS6YW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','acuarelas', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','acuarelas', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

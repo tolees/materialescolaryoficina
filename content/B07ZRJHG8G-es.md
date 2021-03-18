@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRJHG8G-es Portaminas BE-TOOL de 0 5 mm 4 portaminas de 0 5 mm de...'
 sku: 'B07ZRJHG8G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz','portaminas', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz','portaminas', ]
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

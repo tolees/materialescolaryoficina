@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WR5LZ6Z-es Escolar Estuche de Lápices Gran Capacidad Cartera Bolsa de...'
 sku: 'B07WR5LZ6Z-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar','lápices', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

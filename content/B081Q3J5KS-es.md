@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081Q3J5KS-es UTOBEST Mochila Running Hidratacion 3L Chaleco Hidratación...'
 sku: 'B081Q3J5KS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 25.8 EUR
 currency: EUR
 price: 25.8

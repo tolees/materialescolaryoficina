@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HFFOBLQ-es Rotulador con Punta Fina de Pincel de Pelo para Caligrafia...'
 sku: 'B01HFFOBLQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotulador', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotulador', ]
 actualPrice: 8.28 EUR
 currency: EUR
 price: 8.28

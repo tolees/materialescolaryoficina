@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008CQWOAS-es Loctite Super Glue-3 Original pegamento universal con...'
 sku: 'B008CQWOAS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','loctite', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','loctite', ]
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0881GN3RC-es Tijeras Peluquería Profesional Dhaose Tijeras de Salón...'
 sku: 'B0881GN3RC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

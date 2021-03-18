@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XY2TS34-es int!rend Caja de regalo | incluye 10 rotuladores metálicos...'
 sku: 'B07XY2TS34-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

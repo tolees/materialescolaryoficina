@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LAZLPBG-es V-SOL Vintage Floral Bolsa Bolsillo Escolar de Lápiz...'
 sku: 'B01LAZLPBG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo','escolar','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo','escolar','lápiz', ]
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082H5C6MY-es Toplock Mochila antirrobo Azul Impermeable con Cierre...'
 sku: 'B082H5C6MY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','backpack','mochila', ]
 actualPrice: 18.84 EUR
 currency: EUR
 price: 18.84

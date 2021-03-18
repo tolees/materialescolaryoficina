@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HM7JS9B-es Play-Doh Camión De Grava Hasbro E4293EU4'
 sku: 'B07HM7JS9B-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','play-doh', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','play-doh', ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

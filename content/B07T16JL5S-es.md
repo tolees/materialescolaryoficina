@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T16JL5S-es Mochila Adaptable Pepe Jeans Daniela'
 sku: 'B07T16JL5S-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

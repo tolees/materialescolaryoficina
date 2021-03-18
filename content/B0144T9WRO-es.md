@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0144T9WRO-es APLI Kids - Bolsa de gomets 3 hojas La primavera'
 sku: 'B0144T9WRO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','apli', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

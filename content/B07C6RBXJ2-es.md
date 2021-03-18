@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C6RBXJ2-es Mi Pequeño Poni Gorra para niña Premium Color Celeste con...'
 sku: 'B07C6RBXJ2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

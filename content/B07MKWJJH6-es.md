@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MKWJJH6-es CoolBELL Mochila Convertible en Bolso de Hombro para...'
 sku: 'B07MKWJJH6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

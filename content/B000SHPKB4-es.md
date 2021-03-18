@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SHPKB4-es Pilot BXGPN-V5 - Bolígrafo Azul 12 unidades'
 sku: 'B000SHPKB4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QNMVJT-es Zecti Mochila profesional antigolpes para cámara DSLR...'
 sku: 'B073QNMVJT-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 50.56 EUR
 currency: EUR
 price: 50.56

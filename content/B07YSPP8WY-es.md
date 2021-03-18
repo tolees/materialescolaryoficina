@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YSPP8WY-es Bolígrafo Gel Pluma de Papelería Suministros Escuela...'
 sku: 'B07YSPP8WY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo','bolígrafos', ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

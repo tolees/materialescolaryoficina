@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077KV2MZG-es Mimoo Pintura Facial Ninos 16 Colores Halloween Niño Kit...'
 sku: 'B077KV2MZG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

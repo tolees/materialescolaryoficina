@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8MPG85-es AmazonBasics - Barras de pegamento lavable multiusos...'
 sku: 'B07F8MPG85-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','barras','de','pegamento', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','barras','de','pegamento', ]
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

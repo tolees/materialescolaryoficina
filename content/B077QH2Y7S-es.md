@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QH2Y7S-es Ergobaby Mochila Portabebés Ergonomicas Coleccion Original...'
 sku: 'B077QH2Y7S-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 80.67 EUR
 currency: EUR
 price: 80.67

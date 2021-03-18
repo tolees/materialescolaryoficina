@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PTLVTN2-es Kipling Fundamental Mochila para Mujer Azul Stone Blue...'
 sku: 'B07PTLVTN2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 30.27 EUR
 currency: EUR
 price: 30.27

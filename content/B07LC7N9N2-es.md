@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LC7N9N2-es Selighting Mochila Cámara Réflex Profesional y Impermeable...'
 sku: 'B07LC7N9N2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

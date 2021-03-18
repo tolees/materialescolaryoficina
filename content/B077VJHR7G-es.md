@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VJHR7G-es LeaderPro 60W Pistola de Encolar viene una Bolsa y 20 Psc...'
 sku: 'B077VJHR7G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','barras','de','pegamento', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','barras','de','pegamento', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

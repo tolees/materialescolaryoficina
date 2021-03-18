@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZVW7RK-es Mochila Stranger Things Faces'
 sku: 'B078ZVW7RK-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AO0DF1W-es Alpino DP000129 - Kit pasta blanda'
 sku: 'B00AO0DF1W-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','alpino', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','alpino', ]
 actualPrice: 14.33 EUR
 currency: EUR
 price: 14.33

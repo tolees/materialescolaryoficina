@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WGWT74-es Pentel GREEN-LABEL NM10 Fabric / Textile Pen 1 unidad'
 sku: 'B000WGWT74-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','pentel', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','pentel', ]
 actualPrice: 2.72 EUR
 currency: EUR
 price: 2.72

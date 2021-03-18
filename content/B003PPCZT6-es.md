@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003PPCZT6-es Eastpak Provider Mochila 44 cm 33 L Gris Sunday Grey'
 sku: 'B003PPCZT6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

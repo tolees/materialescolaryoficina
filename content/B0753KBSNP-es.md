@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0753KBSNP-es Parker Jotter Bolígrafo 1 Bronze Gothic'
 sku: 'B0753KBSNP-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 17.36 EUR
 currency: EUR
 price: 17.36

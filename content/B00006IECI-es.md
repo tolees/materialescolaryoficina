@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00006IECI-es Cross - Bolígrafo utrasuave brillante cromo - Ref 3502'
 sku: 'B00006IECI-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0022QYYVQ-es Post-It 70005040152 - Dispensador 3+1 índex 1/2""'
 sku: 'B0022QYYVQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','post-it', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','post-it', ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L93KV4Q-es Mujer Vestido Elegante de Oficina Falda Lápiz Mangas...'
 sku: 'B07L93KV4Q-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

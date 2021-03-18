@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CKGGTTQ-es APLI 18419 - Estuche silicona Fluor Collection - Rosa'
 sku: 'B08CKGGTTQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','apli', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

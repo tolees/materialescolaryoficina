@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SIM40MG-es Skip Hop Zoo Pack - Mochila diseño unicorn color turquesa'
 sku: 'B00SIM40MG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

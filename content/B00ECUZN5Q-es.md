@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ECUZN5Q-es Astor Perfect Stay 24h Eyeshadow Waterproof Lápiz Sombra...'
 sku: 'B00ECUZN5Q-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

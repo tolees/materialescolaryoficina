@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L9YYO7G-es BIC Plastidecor Peques Estuche Con 12 Ceras Tamaño Único...'
 sku: 'B00L9YYO7G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','plastidecor', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','plastidecor', ]
 actualPrice: 1.86 EUR
 currency: EUR
 price: 1.86

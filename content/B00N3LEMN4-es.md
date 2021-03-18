@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N3LEMN4-es Soarpop SA007 Mochila para ordenador portátil de hasta...'
 sku: 'B00N3LEMN4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

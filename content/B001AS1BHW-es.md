@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001AS1BHW-es Post-It 709981 - Bloc de notas 100 hojas 102 x 152 mm...'
 sku: 'B001AS1BHW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','post-it', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','post-it', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

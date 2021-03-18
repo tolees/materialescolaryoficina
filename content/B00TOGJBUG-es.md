@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TOGJBUG-es Anker - Set de Material Escolar GRU Mi Villano Favorito...'
 sku: 'B00TOGJBUG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','material', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar','material', ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

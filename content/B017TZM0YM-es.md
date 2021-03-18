@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017TZM0YM-es Winsor & Newton - Bloc de 50 hojas de papel para...'
 sku: 'B017TZM0YM-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

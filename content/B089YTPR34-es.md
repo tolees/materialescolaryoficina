@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089YTPR34-es Vans Old Skool Iii - Mochila para hombre color talla OS'
 sku: 'B089YTPR34-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

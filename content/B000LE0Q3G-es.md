@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LE0Q3G-es APLI 1787 - Etiquetas blancas permanentes 210 0 x 148 0 mm...'
 sku: 'B000LE0Q3G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','apli', ]
 actualPrice: 61.73 EUR
 currency: EUR
 price: 61.73

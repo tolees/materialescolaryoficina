@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S86HJP2-es adidas AC Class BP Sports Backpack Unisex Adulto Pink...'
 sku: 'B07S86HJP2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','backpack', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

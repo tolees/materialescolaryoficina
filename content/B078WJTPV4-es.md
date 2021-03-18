@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WJTPV4-es AmazonBasics - Rotuladores de punta de fieltro colores...'
 sku: 'B078WJTPV4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SHQKO0-es Pilot Frixion - Bolígrafo de tinta trazo de 0 4 mm tinta...'
 sku: 'B000SHQKO0-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NHCCFQD-es Paper Mate InkJoy 100ST - Bolígrafos punta mediana 1.0 mm...'
 sku: 'B07NHCCFQD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos','mate','paper', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafos','mate','paper', ]
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

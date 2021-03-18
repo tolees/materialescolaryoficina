@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0197ZPN7S-es VAUDE Brenta 30 Mochila Unisex Adulto Negro 30-39 l'
 sku: 'B0197ZPN7S-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 73.89 EUR
 currency: EUR
 price: 73.89

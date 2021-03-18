@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VNSCHO-es Faber-Castell Castell 9000 Graphite Pencil - HB - Lápiz...'
 sku: 'B000VNSCHO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','faber-castell','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','faber-castell','lápiz', ]
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WN64CT3-es Memoryee 3D Lienzo de Stranger Things Estudiantes Lápiz...'
 sku: 'B07WN64CT3-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

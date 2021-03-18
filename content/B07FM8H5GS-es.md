@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FM8H5GS-es Estudiantes estuche ElectriBrite Estuche lapices Estuche...'
 sku: 'B07FM8H5GS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

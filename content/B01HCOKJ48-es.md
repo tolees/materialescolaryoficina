@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HCOKJ48-es TYR Alliance 45L Mochila Unisex Adulto Rojo/Negro Talla Única'
 sku: 'B01HCOKJ48-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 48.45 EUR
 currency: EUR
 price: 48.45

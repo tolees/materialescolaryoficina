@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072LX63TC-es Casio FX-85SP X II - Calculadora Científica Recomendada...'
 sku: 'B072LX63TC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','calculadora', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','calculadora', ]
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

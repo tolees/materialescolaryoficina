@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BNU0J24-es Roncato Mochila Porta Computador Ironik - cm. 40 x 55 x 20...'
 sku: 'B01BNU0J24-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 76.13 EUR
 currency: EUR
 price: 76.13

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H1E5JUY-es Jovi 71 - Plastilina color rojo'
 sku: 'B00H1E5JUY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','plastilina', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','plastilina', ]
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FWWJCU-es Lápices Colore. Lápices con goma de borrar grafito HB...'
 sku: 'B019FWWJCU-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','borrar','de','goma','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','borrar','de','goma','lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

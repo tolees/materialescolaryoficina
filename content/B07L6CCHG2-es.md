@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6CCHG2-es RATEL Rotuladores Acuarelables incluye 24 plumas de pincel...'
 sku: 'B07L6CCHG2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

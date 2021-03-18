@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KZPN9SZ-es Nowakk Cabeza de Aceite de Peluquero eléctrica Cizalla de...'
 sku: 'B08KZPN9SZ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

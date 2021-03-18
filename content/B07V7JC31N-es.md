@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'safta - Real Sporting de Gijón Mochila J al 22.02 % de descuento'
-date: 2021-03-16 03:18:41
+date: 2021-03-18 03:15:45
 image: 'https://m.media-amazon.com/images/I/41-xvoOCmnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7JC31N-es safta - Real Sporting de Gijón Mochila Juvenilpara...'
 sku: 'B07V7JC31N-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila','safta', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0
@@ -28,10 +28,10 @@ Está [safta - Real Sporting de Gijón Mochila Juvenilpara Portátil  Naranja 14
 
 ℹ️:
 
-- Espalda y hombreras acolchadas, ergonómicas, cómodas y ajustables; rejilla acolchada anti-sudor
 - Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar
-- Bolsillo frontal con cremallera; tiradores en los cursores para fácil itar su apertura; doble tirador en cremallera principal; asa de mano reforzada en la parte superior; bolsillo exterior trasero con cremallera
 - Bolsillo interior par ipad; bolsillo interior para móvil; bolsillo interior para ordenador portátil de 10,6 y 14,1 pulgadas
+- Bolsillo frontal con cremallera; tiradores en los cursores para fácil itar su apertura; doble tirador en cremallera principal; asa de mano reforzada en la parte superior; bolsillo exterior trasero con cremallera
 - Safta real sporting de gijón oficial mochila con compartimento especial de ordenador portátil de hasta 14,1 pulgadas; ideal desde los 14 años. 2 años de garantía
+- Espalda y hombreras acolchadas, ergonómicas, cómodas y ajustables; rejilla acolchada anti-sudor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V7JC31N/?tag=tolees-21)

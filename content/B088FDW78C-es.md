@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088FDW78C-es Rotuladores de Pintura Acrílica 18 Colores，0.7mm...'
 sku: 'B088FDW78C-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C6ZIH16-es APLI Kids - Bolsa goma EVA azul claro 400x600x2mm 5 hojas'
 sku: 'B00C6ZIH16-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','apli', ]
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

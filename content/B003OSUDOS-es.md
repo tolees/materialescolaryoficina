@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003OSUDOS-es Eastpak Out of Office Mochila 44 cm 27 L Negro Black'
 sku: 'B003OSUDOS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

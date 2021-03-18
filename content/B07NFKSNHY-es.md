@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFKSNHY-es Kipling ECHO Bolsa escolar 50 cm 29 liters Multicolor...'
 sku: 'B07NFKSNHY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar', ]
 actualPrice: 148.16 EUR
 currency: EUR
 price: 148.16

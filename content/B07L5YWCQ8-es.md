@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5YWCQ8-es Casio FX-83GTX - Calculadora científica Color Azul'
 sku: 'B07L5YWCQ8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','calculadora', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','calculadora', ]
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

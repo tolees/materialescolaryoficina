@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005HJQFV2-es Staedtler 334 SB6CS1. Rotuladores de punta fina Triplus...'
 sku: 'B005HJQFV2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
 actualPrice: 5.64 EUR
 currency: EUR
 price: 5.64

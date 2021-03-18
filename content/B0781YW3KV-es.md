@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781YW3KV-es BIC Kids Evolution Stripes Lápices de colores - colores...'
 sku: 'B0781YW3KV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápices', ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

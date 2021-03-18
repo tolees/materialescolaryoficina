@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P813MSL-es Leathario Portafolio A4 Piel Portadocumentos Cremalleras...'
 sku: 'B07P813MSL-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','calculadora', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','calculadora', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

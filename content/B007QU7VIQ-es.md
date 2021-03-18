@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007QU7VIQ-es Sharpie - Rotuladores permanentes punta fina colores...'
 sku: 'B007QU7VIQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
 actualPrice: 19.38 EUR
 currency: EUR
 price: 19.38

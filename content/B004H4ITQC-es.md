@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004H4ITQC-es Pilot IC-50 Negras – Cartuchos para bolígrafos Pluma...'
 sku: 'B004H4ITQC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafos', ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

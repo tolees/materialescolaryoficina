@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XP1DGKM-es Cartucho de Fono Giratorio con lápiz de Repuesto Negro y...'
 sku: 'B07XP1DGKM-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

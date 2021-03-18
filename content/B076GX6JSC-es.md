@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076GX6JSC-es Kipling CLAS SEOUL Mochila escolar 45 cm 25 litros Beige...'
 sku: 'B076GX6JSC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
 actualPrice: 44.46 EUR
 currency: EUR
 price: 44.46

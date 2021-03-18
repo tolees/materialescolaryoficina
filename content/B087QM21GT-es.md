@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QM21GT-es Huawei Pen - Lápiz óptico para MatePad Pro'
 sku: 'B087QM21GT-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

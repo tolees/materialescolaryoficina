@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFK1F7B-es luosh Modelo de Arcilla Kit de cortadores de Arcilla para...'
 sku: 'B08FFK1F7B-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','plastilina', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','plastilina', ]
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

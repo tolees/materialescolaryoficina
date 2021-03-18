@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QVAV8JA-es Safta - Conjunto dibujo escolar 940001 colores surtidos'
 sku: 'B00QVAV8JA-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar', ]
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

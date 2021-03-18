@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010DGR3VO-es PLATERO P-U01B Mochila unisex para computador portátil 15...'
 sku: 'B010DGR3VO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila','unisex', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila','unisex', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

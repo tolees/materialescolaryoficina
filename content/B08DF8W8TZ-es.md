@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DF8W8TZ-es Mochila Infantil 3D Estuche Escolar y Bolsa Merienda de...'
 sku: 'B08DF8W8TZ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','material','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar','material','mochila', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

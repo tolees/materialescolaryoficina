@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YK894BQ-es Pawhut Transportin Carrito Perro 2 en 1 Mochila Carrito...'
 sku: 'B07YK894BQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 60.34 EUR
 currency: EUR
 price: 60.34

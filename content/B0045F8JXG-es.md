@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0045F8JXG-es Dymo S0915440 - Impresoras de etiquetas con teclado ABC'
 sku: 'B0045F8JXG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','dymo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','dymo', ]
 actualPrice: 123.8 EUR
 currency: EUR
 price: 123.8

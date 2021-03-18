@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001V9LBA2-es Rimmel London Exaggerate lápiz de ojos a prueba de agua -...'
 sku: 'B001V9LBA2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

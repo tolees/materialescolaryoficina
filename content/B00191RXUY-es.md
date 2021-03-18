@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00191RXUY-es Herlitz 10801710 - Tijeras escolar con punta redonda...'
 sku: 'B00191RXUY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar','tijeras', ]
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

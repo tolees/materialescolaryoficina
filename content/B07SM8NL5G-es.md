@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SM8NL5G-es Cabin Max Metz 20L 40x20x25 cm Maleta de Cabina Pequeña...'
 sku: 'B07SM8NL5G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

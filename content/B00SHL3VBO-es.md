@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SHL3VBO-es PlayColor 10121 - Caja de 12 temperas solidas 10 gramos...'
 sku: 'B00SHL3VBO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','playcolor', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','playcolor', ]
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28

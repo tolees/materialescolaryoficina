@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J37W7YV-es Under Armour Hustle 4.0 Mochila Unisex Adulto Gris OSFA'
 sku: 'B07J37W7YV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 39.58 EUR
 currency: EUR
 price: 39.58

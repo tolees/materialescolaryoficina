@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749KZDP6-es Pizarra blanca magnética de borrado en seco con calendario...'
 sku: 'B0749KZDP6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99
