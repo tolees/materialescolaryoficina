@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PR44HV8-es Unidad Memoria Flash USB 3.0 128GB Memoria Lápiz Drive OTG...'
 sku: 'B07PR44HV8-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

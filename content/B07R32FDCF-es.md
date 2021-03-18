@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R32FDCF-es Mochila Mujer Hombre-Mochila Antirrobo Portatil 15.6...'
 sku: 'B07R32FDCF-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

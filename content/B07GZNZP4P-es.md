@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZNZP4P-es FANDARE Mochila Hombres Business Outdoor Viaje Rucksack...'
 sku: 'B07GZNZP4P-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

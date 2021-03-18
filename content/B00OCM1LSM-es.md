@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OCM1LSM-es Ausonia - 81003 TIJERAS DE PODA PROFESIONALES PARA VID DE...'
 sku: 'B00OCM1LSM-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV27KBQ-es Kit Barba Cuidado para Hombre Crecimiento Aseo y Recorte -...'
 sku: 'B07MV27KBQ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

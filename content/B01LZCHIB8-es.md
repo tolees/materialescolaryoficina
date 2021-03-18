@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZCHIB8-es Parker Urban 1931584 - Bolígrafo roller negro tenue de...'
 sku: 'B01LZCHIB8-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
 actualPrice: 34.7 EUR
 currency: EUR
 price: 34.7

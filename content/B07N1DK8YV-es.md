@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1DK8YV-es Kipling SEOUL PACKABLE - Mochila escolar 22.5 liters...'
 sku: 'B07N1DK8YV-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','mochila', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

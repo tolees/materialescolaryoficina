@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWX078L-es APLI 13462 - Pack de 10 rollos de papel Electra 76.5 x 65...'
 sku: 'B01LWX078L-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

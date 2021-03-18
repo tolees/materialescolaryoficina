@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JL2CM13-es Under Armour UA Undeniable SP 2.0 Accesorio Mochila...'
 sku: 'B07JL2CM13-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

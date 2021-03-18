@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYRFWPG-es Ergobaby - Mochila Portabebé Original Downtown'
 sku: 'B07GYRFWPG-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

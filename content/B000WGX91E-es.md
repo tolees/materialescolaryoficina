@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WGX91E-es Staedler 326 WP10 - Estuche con 10 rotuladores Multicolor'
 sku: 'B000WGX91E-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBW2E9Q-es Vanguard Alta Sky 45D - Mochila de Transporte 26x19x45cm...'
 sku: 'B01NBW2E9Q-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 164.17 EUR
 currency: EUR
 price: 164.17

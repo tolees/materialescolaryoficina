@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0117PU0KQ-es 3 Claveles Tijeras Costura y Multiusos Profesional Mango...'
 sku: 'B0117PU0KQ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

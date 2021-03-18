@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BCLX28C-es CARIOCA Estuche Wild Cubs | Estuche 2 Cremalleras con...'
 sku: 'B08BCLX28C-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','escolar','lápices','material','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','lápices','material','rotuladores', ]
 actualPrice: 22.42 EUR
 currency: EUR
 price: 22.42

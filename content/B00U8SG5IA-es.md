@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U8SG5IA-es Beter Tijeras de pedicura especial para las uñas gruesas...'
 sku: 'B00U8SG5IA-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

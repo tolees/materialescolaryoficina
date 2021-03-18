@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CL1CFQ-es Samsonite 93061-1820 maletines para portátil 35 8 cm 14.1"...'
 sku: 'B076CL1CFQ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 43.92 EUR
 currency: EUR
 price: 43.92

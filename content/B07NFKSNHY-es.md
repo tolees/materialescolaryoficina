@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFKSNHY-es Kipling ECHO Bolsa escolar 50 cm 29 liters Multicolor...'
 sku: 'B07NFKSNHY-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar', ]
 actualPrice: 148.16 EUR
 currency: EUR
 price: 148.16

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXS5PX6-es Desigual Backpack Inlove Venice Mini Mochila moderna. para...'
 sku: 'B07MXS5PX6-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack','mochila', ]
 actualPrice: 40.64 EUR
 currency: EUR
 price: 40.64

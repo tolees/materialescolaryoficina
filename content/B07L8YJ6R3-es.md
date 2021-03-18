@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8YJ6R3-es Brrnoo 16L Gabinete de Esterilización UV 2 en 1 Caja de...'
 sku: 'B07L8YJ6R3-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
 actualPrice: 68.59 EUR
 currency: EUR
 price: 68.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQ5HL2C-es Rrtizan Bolsa de Computadora de Viaje para Hombres y...'
 sku: 'B07HQ5HL2C-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

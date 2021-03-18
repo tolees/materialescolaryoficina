@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B86BC5J-es Mochila Niña 3 en 1 Sets de Bolsas Escolares Primaria...'
 sku: 'B08B86BC5J-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNYTFWQ-es Vicloon Bolsas de Documentos A3+A4+A5 15 Piezas Carpetas...'
 sku: 'B07ZNYTFWQ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

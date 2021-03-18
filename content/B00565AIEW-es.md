@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00565AIEW-es Apli 2412 - Etiquetas 100 hojas'
 sku: 'B00565AIEW-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
 actualPrice: 16.29 EUR
 currency: EUR
 price: 16.29

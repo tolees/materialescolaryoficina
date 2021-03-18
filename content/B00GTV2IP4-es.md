@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GTV2IP4-es AUSONIA - 31110 Tijeras DE PODA Profesionales para HUERTOS...'
 sku: 'B00GTV2IP4-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

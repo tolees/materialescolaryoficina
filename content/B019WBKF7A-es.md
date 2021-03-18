@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019WBKF7A-es L Oreal Paris Infalible Liner 24Hrs Lápiz Automático Gris...'
 sku: 'B019WBKF7A-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

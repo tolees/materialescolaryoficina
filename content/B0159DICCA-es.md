@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0159DICCA-es Alpino DP00006501 - Pastilla plastilina'
 sku: 'B0159DICCA-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','alpino','plastilina', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','alpino','plastilina', ]
 actualPrice: 0.6 EUR
 currency: EUR
 price: 0.6

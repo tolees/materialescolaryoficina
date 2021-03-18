@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FYNVQNI-es Faber Castell 167004 - Estuche con 4 rotuladores...'
 sku: 'B00FYNVQNI-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','castell','faber','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','castell','faber','rotuladores', ]
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

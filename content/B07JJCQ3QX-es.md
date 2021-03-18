@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJCQ3QX-es ASUS ROG Ranger BP1500 maletines para portátil 39 6 cm...'
 sku: 'B07JJCQ3QX-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

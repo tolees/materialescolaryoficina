@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LM1WPM2-es BIC Highlighter Grip Marcadores punta media 1 6 mm -...'
 sku: 'B00LM1WPM2-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bic','highlighter', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bic','highlighter', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

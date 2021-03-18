@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B2EDDKM-es Herschel Retreat Backpack - Mochila casual unisex Negro...'
 sku: 'B00B2EDDKM-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack','mochila', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

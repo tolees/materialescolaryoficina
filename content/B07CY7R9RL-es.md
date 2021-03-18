@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY7R9RL-es American Tourister Urban Groove Lifestyle Laptop Backpack...'
 sku: 'B07CY7R9RL-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack','mochila', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

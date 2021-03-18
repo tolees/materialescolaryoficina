@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4WY9QY-es Staedtler Noris Eco 183-HBBK3. Lápices ecológicos de...'
 sku: 'B07H4WY9QY-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

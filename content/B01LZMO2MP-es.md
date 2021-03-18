@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZMO2MP-es Marcador Pastel STABILO BOSS Original - Estuche con 4...'
 sku: 'B01LZMO2MP-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','stabilo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','stabilo', ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

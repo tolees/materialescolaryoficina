@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CNFXGJ-es Samsonite Spectrolite 2.0 Laptop Backpack 43 9 cm 17.3"...'
 sku: 'B076CNFXGJ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','backpack', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack', ]
 actualPrice: 122.5 EUR
 currency: EUR
 price: 122.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R7QJAHY-es Wacom DTH-2700 Cintiq 27 QHD Touch - Pantalla Creativa...'
 sku: 'B00R7QJAHY-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
 actualPrice: 2160.76 EUR
 currency: EUR
 price: 2160.76

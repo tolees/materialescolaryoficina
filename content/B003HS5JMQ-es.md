@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HS5JMQ-es Skip Hop- Pajaro Zoo Mochila Color Azul S 2194'
 sku: 'B003HS5JMQ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

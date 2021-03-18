@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KJPE2A-es Faber-Castell 128524 - Estuche de cartón con 24 tizas...'
 sku: 'B000KJPE2A-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','faber-castell', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','faber-castell', ]
 actualPrice: 37.06 EUR
 currency: EUR
 price: 37.06

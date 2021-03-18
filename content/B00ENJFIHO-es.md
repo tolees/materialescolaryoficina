@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ENJFIHO-es Nueva OU falda plisada para niñas con cintura elástica de...'
 sku: 'B00ENJFIHO-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar', ]
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

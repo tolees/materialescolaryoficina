@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3KHQ9G-es Moleskine - Agenda Diaria de 12 Meses 2020 Tamaño Grande...'
 sku: 'B07J3KHQ9G-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','moleskine', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','moleskine', ]
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

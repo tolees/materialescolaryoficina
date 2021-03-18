@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZ323JS-es Mochila 40cm con carro Pepe Jeans Pam'
 sku: 'B07SZ323JS-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

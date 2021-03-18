@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNP3D8X-es Manicura Pedicura Set Tencoz 18 in 1 Cortaúñas de Acero...'
 sku: 'B07DNP3D8X-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

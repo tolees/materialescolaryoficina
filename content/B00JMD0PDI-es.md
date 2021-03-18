@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JMD0PDI-es Gvarro Canson 200408061- Bloc A4 20 Hojas 130 g/m²'
 sku: 'B00JMD0PDI-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','gvarro', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','gvarro', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

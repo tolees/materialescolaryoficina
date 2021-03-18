@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BSSEY4U-es Westcott - Tijeras infantiles para diestros'
 sku: 'B01BSSEY4U-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
 actualPrice: 1.57 EUR
 currency: EUR
 price: 1.57

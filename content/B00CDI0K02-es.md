@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CDI0K02-es APLI 11915 - Clips mariposa galvanizados nº 20 60 mm 25 clips'
 sku: 'B00CDI0K02-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

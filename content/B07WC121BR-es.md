@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC121BR-es Antirrobo Mochilas Portatil 15.6 Pulgadas Impermeable...'
 sku: 'B07WC121BR-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

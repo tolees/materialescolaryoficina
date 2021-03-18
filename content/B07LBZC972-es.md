@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBZC972-es Samsonite Guardit 2.0 Mochila para portátil con Ruedas...'
 sku: 'B07LBZC972-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 107.47 EUR
 currency: EUR
 price: 107.47

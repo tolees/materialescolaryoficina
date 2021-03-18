@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYWBM9M-es Ergobaby Original - Mochila portabebés ergonómicas unisex...'
 sku: 'B07FYWBM9M-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

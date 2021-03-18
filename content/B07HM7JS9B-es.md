@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HM7JS9B-es Play-Doh Camión De Grava Hasbro E4293EU4'
 sku: 'B07HM7JS9B-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','play-doh', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','play-doh', ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MPLGH4-es BIC 371664 - Bolígrafo retráctil color negro'
 sku: 'B000MPLGH4-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
 actualPrice: 6.42 EUR
 currency: EUR
 price: 6.42

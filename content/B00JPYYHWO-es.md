@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JPYYHWO-es Eastpak Back To Work Mochila 43 cm 27 L Gris Sunday Grey'
 sku: 'B00JPYYHWO-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

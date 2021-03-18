@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZVNJ5F-es Baoblaze 10pcs Tirador de Cremallera Zipper Pulls...'
 sku: 'B077ZVNJ5F-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

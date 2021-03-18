@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MHH7K2T-es iSuperb Bolsas de Cuerdas para Viajes Gimnasio Mochila con...'
 sku: 'B07MHH7K2T-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

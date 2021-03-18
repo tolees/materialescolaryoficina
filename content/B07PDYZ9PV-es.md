@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDYZ9PV-es Samsonite 2WM - Mochila para portátil M de 15.6 pulgadas -...'
 sku: 'B07PDYZ9PV-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 96.17 EUR
 currency: EUR
 price: 96.17

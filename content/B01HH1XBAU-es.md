@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HH1XBAU-es Superwings - Escritorio Completo con bolígrafo electrónico...'
 sku: 'B01HH1XBAU-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

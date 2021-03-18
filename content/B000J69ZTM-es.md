@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000J69ZTM-es Pilot 495518 - Bolígrafo Azul Azul Transparente 12...'
 sku: 'B000J69ZTM-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

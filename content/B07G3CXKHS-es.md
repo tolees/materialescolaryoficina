@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3CXKHS-es Ellesse Mochila Rolby Hombre Mochila SAAY0591 negro Talla...'
 sku: 'B07G3CXKHS-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

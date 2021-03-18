@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VL9GPZZ-es CARIOCA BOX |42736/10 - Caja de Lata Azul con 100...'
 sku: 'B07VL9GPZZ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','colorear','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','colorear','rotuladores', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

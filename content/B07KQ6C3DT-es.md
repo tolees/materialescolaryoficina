@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQ6C3DT-es Millet Ubic 40 - Mochila Unisex Adulto Negro Talla Única'
 sku: 'B07KQ6C3DT-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 112.95 EUR
 currency: EUR
 price: 112.95

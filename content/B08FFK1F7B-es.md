@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFK1F7B-es luosh Modelo de Arcilla Kit de cortadores de Arcilla para...'
 sku: 'B08FFK1F7B-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','plastilina', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','plastilina', ]
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

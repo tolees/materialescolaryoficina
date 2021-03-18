@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DY88R7B-es Pepe Jeans Cross Mochila doble compartimento 44 cm color Azul'
 sku: 'B07DY88R7B-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

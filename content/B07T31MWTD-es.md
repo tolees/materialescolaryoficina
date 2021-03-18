@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T31MWTD-es Letras y Números Magnéticos para Niños - Conjunto...'
 sku: 'B07T31MWTD-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

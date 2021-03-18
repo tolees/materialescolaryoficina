@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CPKGY4O-es Burton Focus Mochila Unisex Adulto Negro Negro 58 x 33 x...'
 sku: 'B00CPKGY4O-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 136.89 EUR
 currency: EUR
 price: 136.89

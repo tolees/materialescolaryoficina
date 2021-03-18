@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GMRC9S-es Lyra 6521120 - Rotuladores 12 unidades'
 sku: 'B001GMRC9S-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRBHX1L-es Xnuoyo 17.3" Mochila Portátil para 12-17 Pulgadas...'
 sku: 'B07PRBHX1L-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

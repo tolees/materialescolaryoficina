@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ADP4IK0-es Carioca - Caja con 24 rotuladores A52100024'
 sku: 'B00ADP4IK0-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9NXRM4-es Pepe Jeans Mochila 33 cm 10.3 Liters Negro'
 sku: 'B07V9NXRM4-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 56 EUR
 currency: EUR
 price: 56

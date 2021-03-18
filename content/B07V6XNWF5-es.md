@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6XNWF5-es Afilador de lápices eléctrico portátil con batería para...'
 sku: 'B07V6XNWF5-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

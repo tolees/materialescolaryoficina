@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ULGAFLC-es BIC Celebrate Cristal Shine bolígrafos punta media 1 0 mm...'
 sku: 'B00ULGAFLC-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

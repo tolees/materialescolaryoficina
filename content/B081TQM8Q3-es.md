@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TQM8Q3-es adidas Ryv Backpack Mochilla de Deporte Unisex Adulto...'
 sku: 'B081TQM8Q3-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','backpack', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack', ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

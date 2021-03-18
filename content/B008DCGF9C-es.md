@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008DCGF9C-es Alpino-490251 Pack de 12 lápices Colores Surtidos...'
 sku: 'B008DCGF9C-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

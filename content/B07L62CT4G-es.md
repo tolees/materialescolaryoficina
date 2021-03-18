@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L62CT4G-es HUION KAMVAS Pro 13 GT-133 120% sRGB Montura de Vidrio...'
 sku: 'B07L62CT4G-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
 actualPrice: 233.73 EUR
 currency: EUR
 price: 233.73

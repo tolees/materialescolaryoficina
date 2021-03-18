@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XPL49DS-es Desigual Back adaggio Denver - Mochila para mujer 15 50 x...'
 sku: 'B07XPL49DS-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 51.09 EUR
 currency: EUR
 price: 51.09

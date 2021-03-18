@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLRTKWN-es Uworth Mochila Escolar Infantil Guarderia Niña Mochila...'
 sku: 'B07DLRTKWN-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','mochila', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R4HG4JS-es Marcador fluorescente STABILO swing cool - Estuche con 6...'
 sku: 'B00R4HG4JS-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','stabilo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','stabilo', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

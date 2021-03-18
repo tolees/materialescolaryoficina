@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793D8QSZ-es BABYBJÖRN One Air - Mochila Porta Bebé 3D Tejido de red...'
 sku: 'B0793D8QSZ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

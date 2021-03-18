@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01842TWWC-es Faber Castell B-9067-2B - Blíster tubo de 12 minas 0.7 mm...'
 sku: 'B01842TWWC-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','castell','faber', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','castell','faber', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

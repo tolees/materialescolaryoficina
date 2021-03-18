@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781YYLZG-es Totto - Estuche escolar tres compartimentos 23 cm -...'
 sku: 'B0781YYLZG-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar', ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

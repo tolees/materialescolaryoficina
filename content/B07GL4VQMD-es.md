@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GL4VQMD-es Deuter Kid Comfort Mochila Tipo Casual 72 Centimeters 14...'
 sku: 'B07GL4VQMD-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 127.84 EUR
 currency: EUR
 price: 127.84

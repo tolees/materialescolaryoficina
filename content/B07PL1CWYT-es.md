@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PL1CWYT-es Parker Jotter Originals Colección de bolígrafos acabado...'
 sku: 'B07PL1CWYT-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

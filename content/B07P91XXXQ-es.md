@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P91XXXQ-es Milán - Expositor 20 bolígrafos Compact verde'
 sku: 'B07P91XXXQ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos', ]
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

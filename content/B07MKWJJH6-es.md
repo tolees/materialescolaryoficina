@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MKWJJH6-es CoolBELL Mochila Convertible en Bolso de Hombro para...'
 sku: 'B07MKWJJH6-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

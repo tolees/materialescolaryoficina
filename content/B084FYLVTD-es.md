@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084FYLVTD-es K&F Concept Mochila Cámara y Portátil de 15" Profesional y...'
 sku: 'B084FYLVTD-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

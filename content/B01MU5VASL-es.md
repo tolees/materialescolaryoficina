@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU5VASL-es GRÜNTEK Tijeras de Podar Profesionales Z-25 FORJADAS en...'
 sku: 'B01MU5VASL-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

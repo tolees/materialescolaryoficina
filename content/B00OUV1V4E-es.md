@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OUV1V4E-es Bourjois Sourcil Precision Lápiz de cejas Tono 7 Noisette...'
 sku: 'B00OUV1V4E-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

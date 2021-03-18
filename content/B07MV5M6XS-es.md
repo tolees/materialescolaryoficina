@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV5M6XS-es Unisex Riverdale Impreso Simple Estudiantes de Gran...'
 sku: 'B07MV5M6XS-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápices','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices','lápiz', ]
 actualPrice: 11.82 EUR
 currency: EUR
 price: 11.82

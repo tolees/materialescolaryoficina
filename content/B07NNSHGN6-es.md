@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNSHGN6-es Under Armour Hustle 4.0 Mochila para portátil de 26 l...'
 sku: 'B07NNSHGN6-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

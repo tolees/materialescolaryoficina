@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T17JJKR-es Armani Exchange Liz - Mochila 28 x 8 x 26 cm color Azul...'
 sku: 'B07T17JJKR-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 66.83 EUR
 currency: EUR
 price: 66.83

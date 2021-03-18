@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BB0IYU-es Post-It 6820 - Notas adhesivas 76 x 76 mm color amarillo'
 sku: 'B001BB0IYU-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','post-it', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','post-it', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

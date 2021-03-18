@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYZL585-es Rotuladores Acrílicos de 12 Colores Rotuladores Acrílicos...'
 sku: 'B07YYZL585-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J34NSJW-es Moleskine - Agenda Semanal de 18 Meses Alicia en el País...'
 sku: 'B07J34NSJW-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','moleskine', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','moleskine', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

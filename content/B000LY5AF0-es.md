@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LY5AF0-es Faber-Castell 112160 - Estuche de metal con 60 ecolápices...'
 sku: 'B000LY5AF0-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','faber-castell', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','faber-castell', ]
 actualPrice: 57.46 EUR
 currency: EUR
 price: 57.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBLNFGC-es Casio FX-82SPXII Iberia - Calculadora científica con...'
 sku: 'B07XBLNFGC-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','calculadora', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','calculadora', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

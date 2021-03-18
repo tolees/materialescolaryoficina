@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQJ2M9P-es Carioca Color Box | 100 Rotuladores Super Lavables con una...'
 sku: 'B07VQJ2M9P-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','colorear','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','colorear','rotuladores', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

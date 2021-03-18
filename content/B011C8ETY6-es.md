@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011C8ETY6-es APLI Kids - Bolsa de gomets cara feliz 3 hojas adhesivo...'
 sku: 'B011C8ETY6-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

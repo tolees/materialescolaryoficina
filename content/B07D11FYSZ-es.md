@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D11FYSZ-es Kipling CLASSIC NIMAN FOLD Mochila tipo casual 49 cm 21...'
 sku: 'B07D11FYSZ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 48.61 EUR
 currency: EUR
 price: 48.61

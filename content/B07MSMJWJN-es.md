@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSMJWJN-es Juego de 200 bolígrafos de gel 100 colores de gel y 100...'
 sku: 'B07MSMJWJN-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafos','colorear', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos','colorear', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBGX173-es American Tourister AT Work - Mochila Coated tipo casual...'
 sku: 'B07CBGX173-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

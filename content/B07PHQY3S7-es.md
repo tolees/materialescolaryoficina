@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHQY3S7-es Zenacolor 24 Lápices de Colores Acuarelables Numerados con...'
 sku: 'B07PHQY3S7-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

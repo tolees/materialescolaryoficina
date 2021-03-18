@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5ZT3X3-es Calculadoras Científicas - Calculadora Científica...'
 sku: 'B07W5ZT3X3-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','calculadora','escolar', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','calculadora','escolar', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

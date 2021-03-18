@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SHSYDU-es Staedtler 334-57 - Bolígrafo Gris Oliva'
 sku: 'B000SHSYDU-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafo', ]
 actualPrice: 0.96 EUR
 currency: EUR
 price: 0.96

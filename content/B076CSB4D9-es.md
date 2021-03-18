@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CSB4D9-es Samsonite Network 3 39 6 cm 15.6" Mochila Azul - Funda...'
 sku: 'B076CSB4D9-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

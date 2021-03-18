@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N36WGZQ-es Ulikey Medidor de Suelo con 10 Piezas de Herramientas...'
 sku: 'B07N36WGZQ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','tijeras', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','tijeras', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

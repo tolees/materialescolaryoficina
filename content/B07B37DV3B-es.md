@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B37DV3B-es Alpino DP00007301 - Pastilla plastilina'
 sku: 'B07B37DV3B-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','alpino','plastilina', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','alpino','plastilina', ]
 actualPrice: 0.94 EUR
 currency: EUR
 price: 0.94

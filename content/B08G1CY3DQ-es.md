@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G1CY3DQ-es Vangonee - Lápices de dibujo 95 unidades color gris'
 sku: 'B08G1CY3DQ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápices', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápices', ]
 actualPrice: 22.04 EUR
 currency: EUR
 price: 22.04

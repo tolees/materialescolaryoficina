@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2DNXC4-es Estuche de Actividades para niños de +3 años Plantillas y...'
 sku: 'B07T2DNXC4-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','colorear', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','colorear', ]
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

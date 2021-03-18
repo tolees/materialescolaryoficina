@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQJF4W6-es American Tourister Fun Limit - Mochila Color Negro Neon Palms'
 sku: 'B07SQJF4W6-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

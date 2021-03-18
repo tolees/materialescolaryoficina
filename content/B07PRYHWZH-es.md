@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRYHWZH-es MTNG Mauri Bolso mochila para Mujer Marrón Antel/Liso...'
 sku: 'B07PRYHWZH-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

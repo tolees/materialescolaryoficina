@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDC48CM-es BIC Kids Kid Couleur rotuladores punta media - colores...'
 sku: 'B06XDC48CM-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

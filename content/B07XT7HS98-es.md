@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XT7HS98-es Syolee Tool - Lápiz Capacitivo para Pantalla táctil...'
 sku: 'B07XT7HS98-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

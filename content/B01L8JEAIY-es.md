@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L8JEAIY-es CamelBak Lobo - Mochila de hidratación Rojo 3 litros Rojo...'
 sku: 'B01L8JEAIY-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

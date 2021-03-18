@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGQR3TD-es American Tourister Urban Groove Lifestyle - 17.3 pulgadas...'
 sku: 'B07RGQR3TD-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 30.87 EUR
 currency: EUR
 price: 30.87

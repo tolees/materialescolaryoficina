@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGZS523-es Tablero de dibujo Juego de pintura para proyector Juego de...'
 sku: 'B07LGZS523-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos', ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

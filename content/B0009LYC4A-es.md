@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009LYC4A-es DYMO D1 - Etiquetas Auténticas Impresión Negra sobre Fondo...'
 sku: 'B0009LYC4A-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','dymo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','dymo', ]
 actualPrice: 15.66 EUR
 currency: EUR
 price: 15.66

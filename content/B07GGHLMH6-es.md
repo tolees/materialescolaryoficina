@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GGHLMH6-es Juego de 27 rollos de cinta adhesiva de papel japonés...'
 sku: 'B07GGHLMH6-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','adhesiva','cinta', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','adhesiva','cinta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

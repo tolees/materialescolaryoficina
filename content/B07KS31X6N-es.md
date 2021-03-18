@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KS31X6N-es UtoteBag Mochila Deporte Convertible Bolsa Gimnasio Viaje...'
 sku: 'B07KS31X6N-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7WDXQ7-es Miquelrius - Mochila Pequeña Poliéster Cierres Cremallera...'
 sku: 'B07K7WDXQ7-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','miquelrius','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','miquelrius','mochila', ]
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

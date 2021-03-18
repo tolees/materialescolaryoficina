@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R8HH7JG-es Vans OLD SKOOL III BACKPACK Mochila tipo casual 42 cm 22 L...'
 sku: 'B07R8HH7JG-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack','mochila', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

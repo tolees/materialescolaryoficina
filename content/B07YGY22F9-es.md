@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGY22F9-es Miquelrius - Agenda 2020'
 sku: 'B07YGY22F9-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','miquelrius', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','miquelrius', ]
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

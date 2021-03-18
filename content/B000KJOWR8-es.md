@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KJOWR8-es APLI 1263 - Etiquetas blancas permanentes 64 6 x 33 8 mm...'
 sku: 'B000KJOWR8-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

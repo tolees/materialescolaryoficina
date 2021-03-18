@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVJJMBY-es Surface Pen 180 días de Trabajo 500hrs Standby Surface...'
 sku: 'B07GVJJMBY-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

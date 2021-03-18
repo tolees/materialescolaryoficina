@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDKXDHJ-es Vans VN0A3UI6 - Mochila de Sintético mujer Multicolor...'
 sku: 'B07WDKXDHJ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

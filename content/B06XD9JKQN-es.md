@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XD9JKQN-es Play Doh PDH Core Estudio de creaciones animadas...'
 sku: 'B06XD9JKQN-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','doh','play', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','doh','play', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

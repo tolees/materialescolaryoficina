@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JMD1O42-es Faber-Castell 566 - Escuadra de 25 cm color verde'
 sku: 'B00JMD1O42-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','faber-castell', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','faber-castell', ]
 actualPrice: 5.08 EUR
 currency: EUR
 price: 5.08

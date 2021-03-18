@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IPQT1BY-es 52 pz Caja de papelería para niños con marcadores crayones...'
 sku: 'B01IPQT1BY-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','borrar','de','goma', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','borrar','de','goma', ]
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

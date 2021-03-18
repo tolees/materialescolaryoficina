@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBFX5ZY-es Quiksilver Burst - Mochila Mediana Para Hombre Mochila...'
 sku: 'B07TBFX5ZY-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

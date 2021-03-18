@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ID6EMJ8-es Pentel PHN-12 - Caja de 12 pasteles de aceite colores...'
 sku: 'B00ID6EMJ8-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','pentel', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','pentel', ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

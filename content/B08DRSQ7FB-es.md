@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DRSQ7FB-es Guizu 9 Bolsas de Colores DIY + 12 bolígrafos de Colores...'
 sku: 'B08DRSQ7FB-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','bolígrafos', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

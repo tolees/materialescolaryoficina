@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J9LPKRC-es Mochila para portátil Movom Business con bandolera Negra'
 sku: 'B07J9LPKRC-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SC4QTNN-es Helly Hansen Loke Backpack Mochila Unisex adulto Oxblood 25L'
 sku: 'B07SC4QTNN-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack','mochila', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

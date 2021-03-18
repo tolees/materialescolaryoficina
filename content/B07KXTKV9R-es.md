@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXTKV9R-es Eastpak Orbit Mini Mochila 34 cm 10 L Azul Cloud Navy'
 sku: 'B07KXTKV9R-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

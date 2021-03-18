@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X32KSKZ-es EFERRI Mochila Cuvat Negro 23x12x29 cm'
 sku: 'B07X32KSKZ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 20.47 EUR
 currency: EUR
 price: 20.47

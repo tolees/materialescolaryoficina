@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009GGTQK4-es Jovi 71 - Plastilina color negro'
 sku: 'B009GGTQK4-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','plastilina', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','plastilina', ]
 actualPrice: 1.92 EUR
 currency: EUR
 price: 1.92

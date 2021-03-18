@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9KP4SX-es Mochila Doble Cremallera Pepe Jeans Uma azul marino'
 sku: 'B07T9KP4SX-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

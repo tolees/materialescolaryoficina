@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089GLMT6C-es Kloius Bolso de hombro de mochila de cuero de gran...'
 sku: 'B089GLMT6C-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

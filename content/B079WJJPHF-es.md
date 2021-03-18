@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079WJJPHF-es Pentel SES15-4COL - Estuche rotulador punta pincel 4...'
 sku: 'B079WJJPHF-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','pentel','rotulador', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','pentel','rotulador', ]
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

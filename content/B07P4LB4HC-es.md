@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4LB4HC-es Mujer Vestido Elegante sin Mangas lápiz para Cóctel Fiesta...'
 sku: 'B07P4LB4HC-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

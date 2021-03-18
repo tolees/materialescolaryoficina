@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L1V43UY-es Wacom CS-610CB Bamboo Stylus Fineline 3 Lápiz digital para...'
 sku: 'B01L1V43UY-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','lápiz', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','lápiz', ]
 actualPrice: 34.69 EUR
 currency: EUR
 price: 34.69

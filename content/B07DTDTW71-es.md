@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DTDTW71-es Mochila adaptable a carro Pepe Jeans Joss 42cm'
 sku: 'B07DTDTW71-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

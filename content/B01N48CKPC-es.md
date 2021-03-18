@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N48CKPC-es Rotulador punta media 0 8 STABILO pointMax - Estuche con 8...'
 sku: 'B01N48CKPC-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotulador','stabilo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotulador','stabilo', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

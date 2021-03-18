@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TGXVJPM-es BIC Velleda Pocket rotuladores Punta Ancha - colores...'
 sku: 'B00TGXVJPM-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
 actualPrice: 4.81 EUR
 currency: EUR
 price: 4.81

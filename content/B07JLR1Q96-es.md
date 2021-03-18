@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLR1Q96-es Lote de 20 Estuches Para Colorear Con 5 Pinturas De Cera...'
 sku: 'B07JLR1Q96-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','colorear', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','colorear', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

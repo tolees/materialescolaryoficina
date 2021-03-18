@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DM35CZ4-es PEKITAS- Pack Cinta 5 Metros +12 Esquinas + Cinta Adhesiva...'
 sku: 'B07DM35CZ4-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','adhesiva','cinta', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','adhesiva','cinta', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

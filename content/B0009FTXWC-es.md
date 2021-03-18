@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009FTXWC-es Casio FX-570ES PLUS - Calculadora científica 80 x 162 x...'
 sku: 'B0009FTXWC-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','calculadora', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','calculadora', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

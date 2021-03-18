@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WGWP0K-es STABILO power Rotuladores escolares - Estuche con 12 colores'
 sku: 'B000WGWP0K-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotuladores','stabilo', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores','stabilo', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

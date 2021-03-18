@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGZ6VBX-es Miquel Rius 17280 - Cubilete Azul Bella Garden'
 sku: 'B07YGZ6VBX-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','miquel','rius', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','miquel','rius', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

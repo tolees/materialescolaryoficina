@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZY1FPFH-es NORSENS Robo de Mochila portátil de 15 6/14 Pulgadas de...'
 sku: 'B06ZY1FPFH-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

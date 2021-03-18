@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HOFLZ5S-es APLI 13325 - Pack de 10 rollos de papel Electra 75 x 65 x...'
 sku: 'B00HOFLZ5S-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

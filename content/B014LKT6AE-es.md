@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014LKT6AE-es Lego Ninjago Mochila para niños Ninja'
 sku: 'B014LKT6AE-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

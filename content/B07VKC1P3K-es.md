@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKC1P3K-es Carioca Roller Birello | Estuche Enrollable Azul con...'
 sku: 'B07VKC1P3K-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotuladores', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','rotuladores', ]
 actualPrice: 13.13 EUR
 currency: EUR
 price: 13.13

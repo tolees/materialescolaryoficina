@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KJKGJ6-es Apli 1272 - Etiquetas 100 hojas'
 sku: 'B000KJKGJ6-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','apli', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','apli', ]
 actualPrice: 14.85 EUR
 currency: EUR
 price: 14.85

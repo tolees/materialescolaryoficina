@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RM4QWSQ-es Mochila Infantil Personaje Disney LA Dama Y EL VAGABUNDO'
 sku: 'B07RM4QWSQ-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

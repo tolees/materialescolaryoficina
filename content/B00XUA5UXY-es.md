@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XUA5UXY-es Alpino DA000125 - Estuche 12 ceras'
 sku: 'B00XUA5UXY-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','alpino', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','alpino', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

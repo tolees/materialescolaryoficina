@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5WBSXT-es Karactermania Harry Potter Relic-Soft Rucksack Klein...'
 sku: 'B07S5WBSXT-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 24.4 EUR
 currency: EUR
 price: 24.4

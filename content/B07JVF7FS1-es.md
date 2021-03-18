@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVF7FS1-es Moleskine - Agenda Semanal de 18 Meses Edición Limitada...'
 sku: 'B07JVF7FS1-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','escolar','moleskine', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','escolar','moleskine', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

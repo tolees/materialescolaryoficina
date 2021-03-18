@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011K8OGQ4-es Black Diamond Speed 22 Mochila Unisex Adulto Graphite'
 sku: 'B011K8OGQ4-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','mochila', ]
 actualPrice: 63.6 EUR
 currency: EUR
 price: 63.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FCPKQF-es Toplock Mochila antirrobo Negra Impermeable con Cierre...'
 sku: 'B082FCPKQF-es'
-tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Videojuegos','backpack','mochila', ]
 actualPrice: 18.59 EUR
 currency: EUR
 price: 18.59
