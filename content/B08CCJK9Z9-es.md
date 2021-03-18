@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CCJK9Z9-es A5/RedBronze 新品 Diario de piel en relieve vintage con...'
 sku: 'B08CCJK9Z9-es'
+tags: [ 'bolígrafos', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

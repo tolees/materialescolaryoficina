@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CLRBQ48-es BIC Intensity Fine - Blíster de 20 unidades rotulador...'
 sku: 'B07CLRBQ48-es'
+tags: [ 'rotulador', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

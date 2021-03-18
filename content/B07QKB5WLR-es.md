@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKB5WLR-es Pistola de Silicona G★LAXIA Pistola de Pegar 60W Con 10PCS...'
 sku: 'B07QKB5WLR-es'
+tags: [ 'barras','de','pegamento', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084YBZFLT-es Targus Drifter II mochila con 3 grandes compartimentos...'
 sku: 'B084YBZFLT-es'
+tags: [ 'mochila', ]
 actualPrice: 32.37 EUR
 currency: EUR
 price: 32.37

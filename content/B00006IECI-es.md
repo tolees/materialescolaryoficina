@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00006IECI-es Cross - Bolígrafo utrasuave brillante cromo - Ref 3502'
 sku: 'B00006IECI-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CL1CFQ-es Samsonite 93061-1820 maletines para portátil 35 8 cm 14.1"...'
 sku: 'B076CL1CFQ-es'
+tags: [ 'mochila', ]
 actualPrice: 43.92 EUR
 currency: EUR
 price: 43.92

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2R7PKL-es Atlético de Madrid plumier Mochila 4 Estuches llenos 33...'
 sku: 'B07G2R7PKL-es'
+tags: [ 'mochila', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLK6YTN-es Mochila Infantil 3D Lady Bug'
 sku: 'B07NLK6YTN-es'
+tags: [ 'mochila', ]
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

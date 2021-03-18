@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J9Z2YND-es Mochila para portátil 13 3 pulgadas Movom Business Azul'
 sku: 'B07J9Z2YND-es'
+tags: [ 'mochila', ]
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

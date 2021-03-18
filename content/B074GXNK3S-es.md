@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074GXNK3S-es Faber-Castell 114624 - Estuche de metal con 24 ecolápices...'
 sku: 'B074GXNK3S-es'
+tags: [ 'faber-castell', ]
 actualPrice: 19.93 EUR
 currency: EUR
 price: 19.93

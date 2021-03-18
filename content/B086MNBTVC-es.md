@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086MNBTVC-es RE Lápiz Táctil 2.ª generación para Apple iPad 2018 y 2019...'
 sku: 'B086MNBTVC-es'
+tags: [ 'lápiz', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

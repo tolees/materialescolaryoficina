@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7G46LZ-es Viedouce Mochila para Portátiles Escolares Mochilas...'
 sku: 'B07K7G46LZ-es'
+tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

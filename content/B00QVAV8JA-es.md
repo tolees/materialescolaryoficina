@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QVAV8JA-es Safta - Conjunto dibujo escolar 940001 colores surtidos'
 sku: 'B00QVAV8JA-es'
+tags: [ 'escolar', ]
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

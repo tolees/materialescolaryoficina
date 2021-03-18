@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8JVQG2-es TOUS New Essence Mochila Women s U'
 sku: 'B07W8JVQG2-es'
+tags: [ 'mochila', ]
 actualPrice: 83.4 EUR
 currency: EUR
 price: 83.4

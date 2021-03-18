@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083MNGLZF-es BIC 4 Colores Bolígrafos de Punta Media 1 0 mm - Cuerpo de...'
 sku: 'B083MNGLZF-es'
+tags: [ 'bolígrafos', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

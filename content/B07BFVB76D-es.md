@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFVB76D-es Ruwhere - Lápiz para cejas en 6 colores resistente al agua...'
 sku: 'B07BFVB76D-es'
+tags: [ 'lápiz', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

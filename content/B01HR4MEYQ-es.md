@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HR4MEYQ-es Baban Tijeras 5MM Triángulo Dentado paño Tijeras Tijeras...'
 sku: 'B01HR4MEYQ-es'
+tags: [ 'tijeras', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

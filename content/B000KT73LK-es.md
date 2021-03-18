@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KT73LK-es Faber-Castell 117511 - Estuche de metal con 120 ecolápices...'
 sku: 'B000KT73LK-es'
+tags: [ 'faber-castell', ]
 actualPrice: 166.72 EUR
 currency: EUR
 price: 166.72

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SM8NL5G-es Cabin Max Metz 20L 40x20x25 cm Maleta de Cabina Pequeña...'
 sku: 'B07SM8NL5G-es'
+tags: [ 'mochila', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

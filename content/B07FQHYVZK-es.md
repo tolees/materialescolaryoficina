@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQHYVZK-es Vans Realm Backpack Mochila Tipo Casual 42 cm 22 Liters...'
 sku: 'B07FQHYVZK-es'
+tags: [ 'backpack','mochila', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

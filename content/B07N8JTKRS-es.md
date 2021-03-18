@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8JTKRS-es Tommy Hilfiger POPPY BACKPACK CORPMujerBolsos...'
 sku: 'B07N8JTKRS-es'
+tags: [ 'backpack', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

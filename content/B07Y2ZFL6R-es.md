@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y2ZFL6R-es Inateck 40L-44L Mochila de Viaje Cabina Mochila de...'
 sku: 'B07Y2ZFL6R-es'
+tags: [ 'mochila', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

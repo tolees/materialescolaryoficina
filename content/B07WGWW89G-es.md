@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGWW89G-es Tablero de Escritura LCD TEKFUN Tablero de Graffiti...'
 sku: 'B07WGWW89G-es'
+tags: [ 'escolar', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

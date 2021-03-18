@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMBP7ZS-es APLI 16914 - Forro de libros con solapa ajustable PP 300...'
 sku: 'B07DMBP7ZS-es'
+tags: [ 'apli', ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

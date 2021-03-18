@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000F0QMBG-es Cross Classic Century Bolígrafo - plata de ley'
 sku: 'B000F0QMBG-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 111.97 EUR
 currency: EUR
 price: 111.97

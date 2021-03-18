@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XPL49DS-es Desigual Back adaggio Denver - Mochila para mujer 15 50 x...'
 sku: 'B07XPL49DS-es'
+tags: [ 'mochila', ]
 actualPrice: 51.09 EUR
 currency: EUR
 price: 51.09

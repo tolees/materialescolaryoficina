@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDKXDHJ-es Vans VN0A3UI6 - Mochila de Sintético mujer Multicolor...'
 sku: 'B07WDKXDHJ-es'
+tags: [ 'mochila', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

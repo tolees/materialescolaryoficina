@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YSPP8WY-es Bolígrafo Gel Pluma de Papelería Suministros Escuela...'
 sku: 'B07YSPP8WY-es'
+tags: [ 'bolígrafo','bolígrafos', ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

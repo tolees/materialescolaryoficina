@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089K3HG8Z-es Symiu Herramientas Electricas De Juguete 19 Piezas Juegos...'
 sku: 'B089K3HG8Z-es'
+tags: [ 'mochila', ]
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

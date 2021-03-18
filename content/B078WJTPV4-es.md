@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WJTPV4-es AmazonBasics - Rotuladores de punta de fieltro colores...'
 sku: 'B078WJTPV4-es'
+tags: [ 'rotuladores', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000J6DHT6-es CASIO FC-100V Calculadora Financiera 13.7 x 80 x 161 mm...'
 sku: 'B000J6DHT6-es'
+tags: [ 'calculadora', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

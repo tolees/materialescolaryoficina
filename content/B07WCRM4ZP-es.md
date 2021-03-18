@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WCRM4ZP-es BAIGIO Mochila Portátil 17 Pulgadas Mochila de Negocios...'
 sku: 'B07WCRM4ZP-es'
+tags: [ 'mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

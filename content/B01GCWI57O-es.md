@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GCWI57O-es Paper Mate Dryline Cinta de corrección 5 mm x 8.5 m 4...'
 sku: 'B01GCWI57O-es'
+tags: [ 'mate','paper', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

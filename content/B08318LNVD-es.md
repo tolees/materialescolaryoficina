@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08318LNVD-es Estuche para Lápices BETOY Grande Capacidad Estuche...'
 sku: 'B08318LNVD-es'
+tags: [ 'escolar','lápices','lápiz', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H3R8G1M-es Speedo T-KIT Teamster Mochila Unisex Adulto Red / Black 35 l'
 sku: 'B01H3R8G1M-es'
+tags: [ 'mochila', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

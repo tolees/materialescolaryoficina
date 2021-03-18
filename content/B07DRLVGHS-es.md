@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRLVGHS-es Kipling CLAS SEOUL Mochila escolar 45 cm 25 liters Morado...'
 sku: 'B07DRLVGHS-es'
+tags: [ 'escolar','mochila', ]
 actualPrice: 52.25 EUR
 currency: EUR
 price: 52.25

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLLQMC6-es Mochila grande de 43 L para hombre y mujer para hombres...'
 sku: 'B07VLLQMC6-es'
+tags: [ 'escolar','mochila', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

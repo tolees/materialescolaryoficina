@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC121BR-es Antirrobo Mochilas Portatil 15.6 Pulgadas Impermeable...'
 sku: 'B07WC121BR-es'
+tags: [ 'mochila', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

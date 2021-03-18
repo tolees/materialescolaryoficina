@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPVWM83-es Carioca Set Rotuladores Locos | Kit Rotuladores de Colores...'
 sku: 'B07VPVWM83-es'
+tags: [ 'rotuladores', ]
 actualPrice: 24.67 EUR
 currency: EUR
 price: 24.67

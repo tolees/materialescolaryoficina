@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NKAJLJI-es Faber Castell 554224 - Estuche de cartón con 24...'
 sku: 'B00NKAJLJI-es'
+tags: [ 'castell','faber','rotuladores', ]
 actualPrice: 3.81 EUR
 currency: EUR
 price: 3.81

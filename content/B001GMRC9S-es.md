@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GMRC9S-es Lyra 6521120 - Rotuladores 12 unidades'
 sku: 'B001GMRC9S-es'
+tags: [ 'rotuladores', ]
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

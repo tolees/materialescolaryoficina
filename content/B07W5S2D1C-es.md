@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5S2D1C-es Fresion - Mochila de Viaje para Hombre 34 L para Ordenador...'
 sku: 'B07W5S2D1C-es'
+tags: [ 'mochila', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

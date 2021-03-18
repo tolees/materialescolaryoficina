@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007OEE1K-es Rotulador STABILO Pen 68 - Estuche con 10 colores'
 sku: 'B0007OEE1K-es'
+tags: [ 'rotulador','stabilo', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

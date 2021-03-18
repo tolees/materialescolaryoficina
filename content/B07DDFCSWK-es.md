@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDFCSWK-es Puma 75581 Backpack Unisex Adulto Black OSFA'
 sku: 'B07DDFCSWK-es'
+tags: [ 'backpack', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

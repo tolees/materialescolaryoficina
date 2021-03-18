@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZHNFJ71-es Dakine Grom 13L - Mochila Minidsbrly'
 sku: 'B07ZHNFJ71-es'
+tags: [ 'mochila', ]
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP1WRDG-es Urban Armor Gear Plyo Funda para Apple Ipad Air 3 2019 /...'
 sku: 'B07RP1WRDG-es'
+tags: [ 'lápiz', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

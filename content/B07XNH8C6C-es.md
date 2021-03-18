@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XNH8C6C-es Verolino Mochila para Pañales de Bebé Rosa Gris + Ganchos...'
 sku: 'B07XNH8C6C-es'
+tags: [ 'mochila', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

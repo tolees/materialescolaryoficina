@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBMFR2L-es Samsonite Disney Ultimate 2.0 Mochila 35 cm 12 L Azul...'
 sku: 'B07CBMFR2L-es'
+tags: [ 'mochila', ]
 actualPrice: 26.8 EUR
 currency: EUR
 price: 26.8

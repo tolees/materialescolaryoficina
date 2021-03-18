@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019KHVA7K-es Arena Fastpack 2.1 Mochila Unisex Adulto Negro Black/Fluo...'
 sku: 'B019KHVA7K-es'
+tags: [ 'mochila', ]
 actualPrice: 55.61 EUR
 currency: EUR
 price: 55.61

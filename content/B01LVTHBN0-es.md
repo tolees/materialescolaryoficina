@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LVTHBN0-es Borrador Mágnetico para Pizarra Blanca - Conjunto Premium...'
 sku: 'B01LVTHBN0-es'
+tags: [ 'borrar','de','goma','rotuladores', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

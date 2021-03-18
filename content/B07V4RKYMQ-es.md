@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4RKYMQ-es Faburo 3 Piezas Cremallera Lienzo Estuche Bolsa de Lápiz y...'
 sku: 'B07V4RKYMQ-es'
+tags: [ 'bolígrafo','escolar','lápiz', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

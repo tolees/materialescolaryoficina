@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TGV5UB8-es L Oréal Paris Lápiz de Labios Lip Liner Couture by Color...'
 sku: 'B00TGV5UB8-es'
+tags: [ 'lápiz', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

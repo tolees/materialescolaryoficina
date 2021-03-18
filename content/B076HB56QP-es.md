@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HB56QP-es Kipling Supertaboo Mochila con Cordón 15 Litros Azul True...'
 sku: 'B076HB56QP-es'
+tags: [ 'mochila', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

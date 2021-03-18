@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZ323JS-es Mochila 40cm con carro Pepe Jeans Pam'
 sku: 'B07SZ323JS-es'
+tags: [ 'mochila', ]
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

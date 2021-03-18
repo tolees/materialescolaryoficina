@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003L22MTQ-es Pilot Parallel - Bolígrafo punta de 6.0 mm'
 sku: 'B003L22MTQ-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

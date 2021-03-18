@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011C8ETY6-es APLI Kids - Bolsa de gomets cara feliz 3 hojas adhesivo...'
 sku: 'B011C8ETY6-es'
+tags: [ 'apli', ]
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

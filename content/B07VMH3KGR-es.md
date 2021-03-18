@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMH3KGR-es CARIOCA Oops Retráctil Azul | Set Bolígrafos Borrables...'
 sku: 'B07VMH3KGR-es'
+tags: [ 'bolígrafos', ]
 actualPrice: 15.94 EUR
 currency: EUR
 price: 15.94

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OCM1LSM-es Ausonia - 81003 TIJERAS DE PODA PROFESIONALES PARA VID DE...'
 sku: 'B00OCM1LSM-es'
+tags: [ 'tijeras', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

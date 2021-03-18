@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000CRBEJ2-es Eastpak Padded Pak r Mochila 40 cm 24 L Negro Black'
 sku: 'B000CRBEJ2-es'
+tags: [ 'mochila', ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

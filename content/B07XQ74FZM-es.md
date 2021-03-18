@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQ74FZM-es Bolígrafo Por Scriveiner London - Bolígrafo de Gama Alta...'
 sku: 'B07XQ74FZM-es'
+tags: [ 'bolígrafo','bolígrafos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

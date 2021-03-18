@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083Q8DXB2-es Doble Cara Cinta Adhesiva de Espuma CHIFOOM 80pcs Pad...'
 sku: 'B083Q8DXB2-es'
+tags: [ 'adhesiva','cinta', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

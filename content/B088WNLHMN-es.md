@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088WNLHMN-es NACTECH 20pcs Washi Tape Washi Cinta Adhesiva Cinta para...'
 sku: 'B088WNLHMN-es'
+tags: [ 'adhesiva','cinta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

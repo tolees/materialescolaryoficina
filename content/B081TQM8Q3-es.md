@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TQM8Q3-es adidas Ryv Backpack Mochilla de Deporte Unisex Adulto...'
 sku: 'B081TQM8Q3-es'
+tags: [ 'backpack', ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

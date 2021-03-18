@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJKWKYY-es Under Armour Gametime BP Mochila Unisex Adulto Gris OSFA'
 sku: 'B07JJKWKYY-es'
+tags: [ 'mochila', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

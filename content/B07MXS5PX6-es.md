@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXS5PX6-es Desigual Backpack Inlove Venice Mini Mochila moderna. para...'
 sku: 'B07MXS5PX6-es'
+tags: [ 'backpack','mochila', ]
 actualPrice: 40.64 EUR
 currency: EUR
 price: 40.64

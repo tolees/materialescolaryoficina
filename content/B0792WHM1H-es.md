@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792WHM1H-es Cabin Max Metz Mochila de Viaje Equipaje de Mano Aprobada...'
 sku: 'B0792WHM1H-es'
+tags: [ 'mochila', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

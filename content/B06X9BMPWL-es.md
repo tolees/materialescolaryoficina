@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9BMPWL-es Transformers Play-Doh Autobot Sqweeks Multicolor 24 x 24 x...'
 sku: 'B06X9BMPWL-es'
+tags: [ 'play-doh', ]
 actualPrice: 30.44 EUR
 currency: EUR
 price: 30.44

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004H4ITQC-es Pilot IC-50 Negras – Cartuchos para bolígrafos Pluma...'
 sku: 'B004H4ITQC-es'
+tags: [ 'bolígrafos', ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

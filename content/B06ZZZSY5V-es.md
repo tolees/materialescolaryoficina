@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZZZSY5V-es Keep Out Gaming BK7GXL Mochila para portáil Gaming de 17"...'
 sku: 'B06ZZZSY5V-es'
+tags: [ 'mochila', ]
 actualPrice: 39.89 EUR
 currency: EUR
 price: 39.89

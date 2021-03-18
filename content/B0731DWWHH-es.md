@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0731DWWHH-es Burton Treble Yell Mochila Unisex Adulto Negro Negro Talla...'
 sku: 'B0731DWWHH-es'
+tags: [ 'Equipaje','Mochilas','Mochilas tipo casual','burton','mochila', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

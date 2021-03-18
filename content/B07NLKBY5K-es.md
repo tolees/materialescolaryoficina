@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLKBY5K-es Mochila Infantil 3D Spiderman'
 sku: 'B07NLKBY5K-es'
+tags: [ 'mochila', ]
 actualPrice: 12.54 EUR
 currency: EUR
 price: 12.54

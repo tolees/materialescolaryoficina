@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLH4MGJ-es Agenda 2021 Agenda Académica A5 Semanal para ver la agenda...'
 sku: 'B07XLH4MGJ-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

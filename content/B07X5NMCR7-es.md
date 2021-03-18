@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X5NMCR7-es Vbiger Mochilas Escolares Juveniles Ni?o Mochila...'
 sku: 'B07X5NMCR7-es'
+tags: [ 'mochila', ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

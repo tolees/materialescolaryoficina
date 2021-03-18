@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KTB4UG-es BIC Kids Evolution Triangle ECOlutions Lápices de colores...'
 sku: 'B000KTB4UG-es'
+tags: [ 'lápices', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MGON1SG-es Eastpak Padded Pak r Mochila 40 cm 24 L Gris Black Denim'
 sku: 'B00MGON1SG-es'
+tags: [ 'mochila', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

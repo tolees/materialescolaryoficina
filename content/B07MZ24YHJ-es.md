@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZ24YHJ-es Antirrobo Mochila para Portátil 15.6 Pulgadas Impermeable...'
 sku: 'B07MZ24YHJ-es'
+tags: [ 'escolar','mochila', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

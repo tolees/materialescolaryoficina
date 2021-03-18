@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XT7HS98-es Syolee Tool - Lápiz Capacitivo para Pantalla táctil...'
 sku: 'B07XT7HS98-es'
+tags: [ 'lápiz', ]
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BG0U7G-es Cross Tech3+ - Bolígrafo multi-funcional color cromado...'
 sku: 'B000BG0U7G-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVF7FS4-es Moleskine - Agenda Semanal de 12 meses para 2020 El...'
 sku: 'B07JVF7FS4-es'
+tags: [ 'moleskine', ]
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

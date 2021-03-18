@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYF24BZ-es Mochila para portátil Pepe Jeans Bromley Negra 15 6"'
 sku: 'B07FYF24BZ-es'
+tags: [ 'mochila', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

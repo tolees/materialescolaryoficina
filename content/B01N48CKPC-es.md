@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N48CKPC-es Rotulador punta media 0 8 STABILO pointMax - Estuche con 8...'
 sku: 'B01N48CKPC-es'
+tags: [ 'rotulador','stabilo', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

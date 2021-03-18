@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YLZR5R-es Thule EnRoute - Mochila de 23L Color Azul'
 sku: 'B078YLZR5R-es'
+tags: [ 'mochila', ]
 actualPrice: 57.92 EUR
 currency: EUR
 price: 57.92

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSB5TWG-es VOHONEY - Bolsa Escolar Verde School Backpack for Unicorn...'
 sku: 'B07NSB5TWG-es'
+tags: [ 'backpack','escolar', ]
 actualPrice: 17.64 EUR
 currency: EUR
 price: 17.64

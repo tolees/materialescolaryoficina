@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3F88HB-es Jarra de Leche de Acero Inoxidable 350 ml Taza de Café de...'
 sku: 'B08B3F88HB-es'
+tags: [ 'lápiz', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

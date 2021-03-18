@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DJBHJWS-es Parker Jotter Premium Tower Grey Diagonal bolígrafo CT'
 sku: 'B01DJBHJWS-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

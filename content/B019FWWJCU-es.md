@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FWWJCU-es Lápices Colore. Lápices con goma de borrar grafito HB...'
 sku: 'B019FWWJCU-es'
+tags: [ 'borrar','de','goma','lápices', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

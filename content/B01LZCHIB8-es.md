@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZCHIB8-es Parker Urban 1931584 - Bolígrafo roller negro tenue de...'
 sku: 'B01LZCHIB8-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 34.7 EUR
 currency: EUR
 price: 34.7

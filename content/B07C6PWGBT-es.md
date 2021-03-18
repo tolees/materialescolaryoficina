@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C6PWGBT-es RUVALINO Mochila para Ordenador Portátil Se Adapta a...'
 sku: 'B07C6PWGBT-es'
+tags: [ 'mochila', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

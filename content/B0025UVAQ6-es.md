@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0025UVAQ6-es Jovi-724987 Estuche Acuarelas Multicolor 800 12'
 sku: 'B0025UVAQ6-es'
+tags: [ 'acuarelas', ]
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

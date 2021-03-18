@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FCPKQF-es Toplock Mochila antirrobo Negra Impermeable con Cierre...'
 sku: 'B082FCPKQF-es'
+tags: [ 'backpack','mochila', ]
 actualPrice: 18.59 EUR
 currency: EUR
 price: 18.59

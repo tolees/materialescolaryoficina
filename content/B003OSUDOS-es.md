@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003OSUDOS-es Eastpak Out of Office Mochila 44 cm 27 L Negro Black'
 sku: 'B003OSUDOS-es'
+tags: [ 'mochila', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

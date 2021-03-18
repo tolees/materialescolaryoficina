@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLMRQBP-es Carioca Set Baby 2+ | 53222 - Kit Colores: Rotuladores...'
 sku: 'B07VLMRQBP-es'
+tags: [ 'lápices','rotuladores', ]
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

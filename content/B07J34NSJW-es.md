@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J34NSJW-es Moleskine - Agenda Semanal de 18 Meses Alicia en el País...'
 sku: 'B07J34NSJW-es'
+tags: [ 'moleskine', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGMJTCN-es adidas Mochila Barricade 1.9 2019 Naranja Adultos unisex...'
 sku: 'B07NGMJTCN-es'
+tags: [ 'mochila', ]
 actualPrice: 26.56 EUR
 currency: EUR
 price: 26.56

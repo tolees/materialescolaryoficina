@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBFX5ZY-es Quiksilver Burst - Mochila Mediana Para Hombre Mochila...'
 sku: 'B07TBFX5ZY-es'
+tags: [ 'mochila', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

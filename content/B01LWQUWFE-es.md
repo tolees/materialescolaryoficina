@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWQUWFE-es Parker Urban 1931618 - Bolígrafo roller verde recambio de...'
 sku: 'B01LWQUWFE-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

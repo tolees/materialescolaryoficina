@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DTDTW71-es Mochila adaptable a carro Pepe Jeans Joss 42cm'
 sku: 'B07DTDTW71-es'
+tags: [ 'mochila', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

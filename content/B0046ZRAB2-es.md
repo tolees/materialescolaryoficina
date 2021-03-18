@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0046ZRAB2-es L Oréal Paris Lápiz de Labios Infalible Lipliner 703...'
 sku: 'B0046ZRAB2-es'
+tags: [ 'lápiz', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

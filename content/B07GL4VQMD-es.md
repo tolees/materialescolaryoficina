@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GL4VQMD-es Deuter Kid Comfort Mochila Tipo Casual 72 Centimeters 14...'
 sku: 'B07GL4VQMD-es'
+tags: [ 'mochila', ]
 actualPrice: 127.84 EUR
 currency: EUR
 price: 127.84

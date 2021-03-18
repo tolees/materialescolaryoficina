@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XTFB7T-es Filamento PLA Bronce Ultra Seda 1.75mm Impresión 3D ERYONE...'
 sku: 'B082XTFB7T-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 22.29 EUR
 currency: EUR
 price: 22.29

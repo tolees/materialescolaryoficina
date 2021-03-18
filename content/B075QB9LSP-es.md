@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QB9LSP-es Troika - Bolígrafo pequeño regla de centímetro/pulgadas...'
 sku: 'B075QB9LSP-es'
+tags: [ 'bolígrafo','lápiz', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

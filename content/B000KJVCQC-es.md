@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KJVCQC-es Faber-Castell 120511 - Minas 12 unidades'
 sku: 'B000KJVCQC-es'
+tags: [ 'faber-castell', ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

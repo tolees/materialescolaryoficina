@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CPKGY4O-es Burton Focus Mochila Unisex Adulto Negro Negro 58 x 33 x...'
 sku: 'B00CPKGY4O-es'
+tags: [ 'mochila', ]
 actualPrice: 136.89 EUR
 currency: EUR
 price: 136.89

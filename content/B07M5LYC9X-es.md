@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5LYC9X-es Napapijri Mochila de a Diario Red Scarlet Rojo - N0YIXT'
 sku: 'B07M5LYC9X-es'
+tags: [ 'mochila', ]
 actualPrice: 36.51 EUR
 currency: EUR
 price: 36.51

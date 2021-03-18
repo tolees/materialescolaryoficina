@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQ5HL2C-es Rrtizan Bolsa de Computadora de Viaje para Hombres y...'
 sku: 'B07HQ5HL2C-es'
+tags: [ 'mochila', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

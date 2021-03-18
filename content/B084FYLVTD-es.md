@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084FYLVTD-es K&F Concept Mochila Cámara y Portátil de 15" Profesional y...'
 sku: 'B084FYLVTD-es'
+tags: [ 'mochila', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

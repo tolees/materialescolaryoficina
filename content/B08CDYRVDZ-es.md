@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDYRVDZ-es Juego de pintura de acuarela 48 colores profesionales 12...'
 sku: 'B08CDYRVDZ-es'
+tags: [ 'bolígrafo','lápiz', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

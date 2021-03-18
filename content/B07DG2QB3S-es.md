@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DG2QB3S-es Plantilla Dibujo Supplies Pack Escolar con Escuadra...'
 sku: 'B07DG2QB3S-es'
+tags: [ 'cartabón','escolar', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

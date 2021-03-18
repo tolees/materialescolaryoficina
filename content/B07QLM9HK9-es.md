@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLM9HK9-es Neusky - Bolsa Escolar Azul Blau1 Large'
 sku: 'B07QLM9HK9-es'
+tags: [ 'escolar', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

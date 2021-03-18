@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKC1P3K-es Carioca Roller Birello | Estuche Enrollable Azul con...'
 sku: 'B07VKC1P3K-es'
+tags: [ 'rotuladores', ]
 actualPrice: 13.13 EUR
 currency: EUR
 price: 13.13

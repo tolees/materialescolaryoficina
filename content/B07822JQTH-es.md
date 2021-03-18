@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07822JQTH-es BIC Gel-ocity Quick Dry bolígrafos Tinta en Gel punta...'
 sku: 'B07822JQTH-es'
+tags: [ 'bolígrafos', ]
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

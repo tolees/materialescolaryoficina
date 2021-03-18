@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHWB78N-es Lifewit Mochila Portatil 15.6 Pulgadas para Hombre...'
 sku: 'B07CHWB78N-es'
+tags: [ 'mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

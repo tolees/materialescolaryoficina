@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X51DXTM-es Eastpak London+ Mochila 45 cm 21 L Gris Black Denim'
 sku: 'B07X51DXTM-es'
+tags: [ 'mochila', ]
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

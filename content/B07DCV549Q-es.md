@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DCV549Q-es Fdit 48 Color Lápiz Assorted Professional Arte Lápices...'
 sku: 'B07DCV549Q-es'
+tags: [ 'lápices','lápiz', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

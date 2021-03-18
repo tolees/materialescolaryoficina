@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGH5STJ-es Play-Doh color surtido Pack 8 Botes Hasbro E5044EU4'
 sku: 'B07LGH5STJ-es'
+tags: [ 'play-doh', ]
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

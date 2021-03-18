@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ47BWF-es 41 Piezas Set Dibujo Artistico Con Lapices Acuarelables...'
 sku: 'B07CQ47BWF-es'
+tags: [ 'colorear', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

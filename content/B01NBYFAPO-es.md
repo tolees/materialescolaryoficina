@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBYFAPO-es Puma Pro Training II Backpack Mochilla Unisex Adulto Negro...'
 sku: 'B01NBYFAPO-es'
+tags: [ 'backpack', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

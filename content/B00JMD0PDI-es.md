@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JMD0PDI-es Gvarro Canson 200408061- Bloc A4 20 Hojas 130 g/m²'
 sku: 'B00JMD0PDI-es'
+tags: [ 'gvarro', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

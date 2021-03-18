@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THV2KWX-es Armani Exchange - Liz Backpack Mochilas Mujer Negro Nero...'
 sku: 'B07THV2KWX-es'
+tags: [ 'backpack', ]
 actualPrice: 55.34 EUR
 currency: EUR
 price: 55.34

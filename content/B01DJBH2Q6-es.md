@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DJBH2Q6-es Parker Jotter Stainless Steel bolígrafo CT'
 sku: 'B01DJBH2Q6-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 13.53 EUR
 currency: EUR
 price: 13.53

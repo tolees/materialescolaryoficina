@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3G1SZ4-es Moleskine - Agenda Diaria de 12 Meses 2020 Tapa Dura y...'
 sku: 'B07J3G1SZ4-es'
+tags: [ 'moleskine', ]
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

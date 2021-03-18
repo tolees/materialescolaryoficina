@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F469YVF-es 12 lápices de colores diferentes con sacapuntas lápices de...'
 sku: 'B08F469YVF-es'
+tags: [ 'lápices', ]
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

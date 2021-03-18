@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0YA9HX-es APLI Kids - Caja sellos Animales de la granja con tinta...'
 sku: 'B01N0YA9HX-es'
+tags: [ 'apli', ]
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

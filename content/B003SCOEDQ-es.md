@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003SCOEDQ-es Calculadora bolsillo sencilla Canon AS-8 Negra'
 sku: 'B003SCOEDQ-es'
+tags: [ 'calculadora', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

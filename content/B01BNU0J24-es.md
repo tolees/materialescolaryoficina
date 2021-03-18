@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BNU0J24-es Roncato Mochila Porta Computador Ironik - cm. 40 x 55 x 20...'
 sku: 'B01BNU0J24-es'
+tags: [ 'mochila', ]
 actualPrice: 76.13 EUR
 currency: EUR
 price: 76.13

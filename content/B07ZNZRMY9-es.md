@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNZRMY9-es Vicloon Bolsas de Documentos A5 10 Piezas Carpetas para...'
 sku: 'B07ZNZRMY9-es'
+tags: [ 'escolar', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

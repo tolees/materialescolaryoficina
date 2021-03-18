@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFBF5QH-es Bosquejo Lápices de Dibujo del Artístico Profesional Set...'
 sku: 'B07GFBF5QH-es'
+tags: [ 'colorear','lápices', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

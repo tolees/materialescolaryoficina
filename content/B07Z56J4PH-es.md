@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z56J4PH-es Cartucho de Fono Giratorio con lápiz de Repuesto Negro y...'
 sku: 'B07Z56J4PH-es'
+tags: [ 'lápiz', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

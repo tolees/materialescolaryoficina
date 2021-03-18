@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYXTH5R-es CoolBELL Maletín Ordenadores portátiles de 17 3 Pulgadas...'
 sku: 'B07VYXTH5R-es'
+tags: [ 'mochila', ]
 actualPrice: 12.06 EUR
 currency: EUR
 price: 12.06

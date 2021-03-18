@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLLGWXJ-es Mochila Infantil 3D Disney Aladdin'
 sku: 'B07NLLGWXJ-es'
+tags: [ 'mochila', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

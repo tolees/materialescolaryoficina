@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LAZLPBG-es V-SOL Vintage Floral Bolsa Bolsillo Escolar de Lápiz...'
 sku: 'B01LAZLPBG-es'
+tags: [ 'bolígrafo','escolar','lápiz', ]
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

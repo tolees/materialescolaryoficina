@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGY22F9-es Miquelrius - Agenda 2020'
 sku: 'B07YGY22F9-es'
+tags: [ 'miquelrius', ]
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

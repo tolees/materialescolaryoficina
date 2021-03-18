@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZN3VDT-es MagiDeal Accesorio para Tablero LCD de Notas Escritura...'
 sku: 'B077ZN3VDT-es'
+tags: [ 'lápiz', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

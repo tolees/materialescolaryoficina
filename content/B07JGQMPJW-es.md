@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGQMPJW-es Lowepro Whistler Rucksack 450 AW II Mochila Negro - Funda...'
 sku: 'B07JGQMPJW-es'
+tags: [ 'mochila', ]
 actualPrice: 252.1 EUR
 currency: EUR
 price: 252.1

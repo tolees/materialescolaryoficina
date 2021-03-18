@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F3BYALU-es Paper Mate InkJoy 100RT bolígrafo retráctil punta media de...'
 sku: 'B01F3BYALU-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

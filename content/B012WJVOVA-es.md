@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012WJVOVA-es WACOM LP190K - Lápiz para tablet CTL490 CTH490 y CTH690'
 sku: 'B012WJVOVA-es'
+tags: [ 'lápiz', ]
 actualPrice: 24.91 EUR
 currency: EUR
 price: 24.91

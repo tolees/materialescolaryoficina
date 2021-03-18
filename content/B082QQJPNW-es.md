@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082QQJPNW-es Filamento PLA Oro Ultra Seda 1.75mm ERYONE Impresión 3D...'
 sku: 'B082QQJPNW-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

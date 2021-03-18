@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8MPG85-es AmazonBasics - Barras de pegamento lavable multiusos...'
 sku: 'B07F8MPG85-es'
+tags: [ 'barras','de','pegamento', ]
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

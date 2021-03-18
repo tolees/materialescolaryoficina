@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ARAE7PC-es BIC 4 colores Shine Bolígrafo Retráctil punta media 1 0 mm...'
 sku: 'B00ARAE7PC-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

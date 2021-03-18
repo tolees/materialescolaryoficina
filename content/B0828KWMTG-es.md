@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0828KWMTG-es Lápices de Colores para niños Surtido de 24 Colores Apto...'
 sku: 'B0828KWMTG-es'
+tags: [ 'lápices', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

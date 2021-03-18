@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWVPPY6-es Marcador STABILO BOSS Original Pastel - Caja con 10...'
 sku: 'B01LWVPPY6-es'
+tags: [ 'stabilo', ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

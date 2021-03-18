@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBFZK8P-es Quiksilver Small Everyday Edition - Mochila Mediana Para...'
 sku: 'B07TBFZK8P-es'
+tags: [ 'mochila', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

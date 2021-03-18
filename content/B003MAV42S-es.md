@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003MAV42S-es Flamastry Stabilo Power 30 sztuk'
 sku: 'B003MAV42S-es'
+tags: [ 'stabilo', ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

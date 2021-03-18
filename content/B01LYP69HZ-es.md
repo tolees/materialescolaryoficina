@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYP69HZ-es Parker IM - Bolígrafo Roller Punto fino color Acero...'
 sku: 'B01LYP69HZ-es'
+tags: [ 'bolígrafo', ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

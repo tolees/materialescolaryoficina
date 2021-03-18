@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BCLX28C-es CARIOCA Estuche Wild Cubs | Estuche 2 Cremalleras con...'
 sku: 'B08BCLX28C-es'
+tags: [ 'escolar','lápices','material','rotuladores', ]
 actualPrice: 22.42 EUR
 currency: EUR
 price: 22.42
