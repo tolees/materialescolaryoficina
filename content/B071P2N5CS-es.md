@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071P2N5CS-es BIC 4 Color Bolígrafos - Bote Fluorescente de 6 Bolígrafos'
 sku: 'B071P2N5CS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafos', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafos', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SHL3VBO-es PlayColor 10121 - Caja de 12 temperas solidas 10 gramos...'
 sku: 'B00SHL3VBO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','playcolor', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','playcolor', ]
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28

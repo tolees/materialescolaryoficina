@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZ24YHJ-es Antirrobo Mochila para Portátil 15.6 Pulgadas Impermeable...'
 sku: 'B07MZ24YHJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','escolar','mochila', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

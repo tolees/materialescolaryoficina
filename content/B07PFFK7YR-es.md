@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFFK7YR-es Samsonite Ziproll Mochila para portátil de 13.3 pulgadas...'
 sku: 'B07PFFK7YR-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

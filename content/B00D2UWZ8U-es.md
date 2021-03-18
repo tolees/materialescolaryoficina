@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D2UWZ8U-es BIC Kids Plastidecor - Blíster de 18 unidades ceras para...'
 sku: 'B00D2UWZ8U-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','colorear','plastidecor', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','colorear','plastidecor', ]
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

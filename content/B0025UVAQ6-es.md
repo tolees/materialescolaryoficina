@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0025UVAQ6-es Jovi-724987 Estuche Acuarelas Multicolor 800 12'
 sku: 'B0025UVAQ6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','acuarelas', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','acuarelas', ]
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

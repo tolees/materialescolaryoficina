@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0011UP7BK-es STABILO CarbOthello - Lápiz de color tiza-pastel - Caja de...'
 sku: 'B0011UP7BK-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz','stabilo', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','lápiz','stabilo', ]
 actualPrice: 90.81 EUR
 currency: EUR
 price: 90.81

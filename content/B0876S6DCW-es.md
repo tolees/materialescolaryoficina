@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876S6DCW-es AYUN 20pcs palillo de bolígrafos Bone bolígrafo con Tinta...'
 sku: 'B0876S6DCW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo','bolígrafos', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafo','bolígrafos', ]
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9NXRBD-es Pepe Jeans Daphne Mochila Dos Compartimentos Con...'
 sku: 'B07V9NXRBD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
 actualPrice: 56 EUR
 currency: EUR
 price: 56

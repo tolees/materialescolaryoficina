@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R5SVTSQ-es PUMA Originals Backpack Mochilla Adultos Unisex Gibraltar...'
 sku: 'B07R5SVTSQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','backpack', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','backpack', ]
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

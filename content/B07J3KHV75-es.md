@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3KHV75-es Moleskine - Agenda Diaria de 12 Meses 2020 Tapa Dura y...'
 sku: 'B07J3KHV75-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','moleskine', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','moleskine', ]
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

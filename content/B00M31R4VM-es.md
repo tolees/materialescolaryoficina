@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M31R4VM-es BIC 4 colores Shine Bolígrafo Retráctil punta media 1 0 mm...'
 sku: 'B00M31R4VM-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafo', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

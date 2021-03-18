@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VOC90Y-es WENGER 600638 Ibex - Mochila para portátil de 17" color azul'
 sku: 'B000VOC90Y-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
 actualPrice: 65.96 EUR
 currency: EUR
 price: 65.96

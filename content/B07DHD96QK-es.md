@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHD96QK-es KUONIIY Tijeras Hoja Recubierta de Titanio Súper Afilada...'
 sku: 'B07DHD96QK-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','tijeras', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','tijeras', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

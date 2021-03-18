@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QDP8DF4-es Post-it Extreme Notes - Cuaderno de notas 2 unidades 114 x...'
 sku: 'B07QDP8DF4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','post-it', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','post-it', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

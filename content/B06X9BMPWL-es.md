@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9BMPWL-es Transformers Play-Doh Autobot Sqweeks Multicolor 24 x 24 x...'
 sku: 'B06X9BMPWL-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','play-doh', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','play-doh', ]
 actualPrice: 30.44 EUR
 currency: EUR
 price: 30.44

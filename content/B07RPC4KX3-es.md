@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPC4KX3-es Ceras Manley 10 Colores 6cm =000330='
 sku: 'B07RPC4KX3-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','manley', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','manley', ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

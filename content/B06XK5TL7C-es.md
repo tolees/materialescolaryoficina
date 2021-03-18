@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XK5TL7C-es Rimmel London Brow This Way Fibre Pencil Lápiz de Cejas...'
 sku: 'B06XK5TL7C-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','lápiz', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','lápiz', ]
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

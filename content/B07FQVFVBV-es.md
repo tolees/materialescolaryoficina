@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQVFVBV-es Targus Groove X2 Compact Carbón Vegetal Mochila - Mochila...'
 sku: 'B07FQVFVBV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97
