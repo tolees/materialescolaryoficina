@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DG2T7K-es HALOVIE Mochila Antirrobo para Mujer Impermeable Bolsos...'
 sku: 'B081DG2T7K-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

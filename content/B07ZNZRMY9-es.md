@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNZRMY9-es Vicloon Bolsas de Documentos A5 10 Piezas Carpetas para...'
 sku: 'B07ZNZRMY9-es'
-tags: [ 'escolar', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','escolar', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBW2E9Q-es Vanguard Alta Sky 45D - Mochila de Transporte 26x19x45cm...'
 sku: 'B01NBW2E9Q-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 164.17 EUR
 currency: EUR
 price: 164.17

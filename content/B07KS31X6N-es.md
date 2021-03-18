@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KS31X6N-es UtoteBag Mochila Deporte Convertible Bolsa Gimnasio Viaje...'
 sku: 'B07KS31X6N-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

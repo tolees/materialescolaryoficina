@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SD5C27I-es Faber-Castell 32722-8 - Compás de ajuste rápido con...'
 sku: 'B00SD5C27I-es'
-tags: [ 'faber-castell', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','faber-castell', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075SVRJBH-es Joymoze Bonita Mochila Escolar Impermeable para Niños y...'
 sku: 'B075SVRJBH-es'
-tags: [ 'escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

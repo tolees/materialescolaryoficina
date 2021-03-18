@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1HBYXR-es Kipling CLASS ROOM - Mochila escolar 28 liters Azul TRUE NAVY'
 sku: 'B07N1HBYXR-es'
-tags: [ 'escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
 actualPrice: 57.06 EUR
 currency: EUR
 price: 57.06

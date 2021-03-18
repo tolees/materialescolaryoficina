@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083WN9RQ8-es Joymoze Mochila Escolar Impermeable para niño y niña...'
 sku: 'B083WN9RQ8-es'
-tags: [ 'escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

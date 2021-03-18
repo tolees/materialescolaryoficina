@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JDMNBR-es Staedtler 308 SB6P - Pigment Liner Rotuladores Paquete de 6'
 sku: 'B075JDMNBR-es'
-tags: [ 'rotuladores', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

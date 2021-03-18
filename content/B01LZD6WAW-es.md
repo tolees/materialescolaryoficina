@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZD6WAW-es Nobo 1905186 - Pizarra Diamond Glass Magnética 1883 x 1053...'
 sku: 'B01LZD6WAW-es'
-tags: [ 'rotulador', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','rotulador', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

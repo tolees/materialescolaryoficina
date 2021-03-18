@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073ZK1BF8-es Carioca Maletín TITA | Lápices de Colores Caja Portátil de...'
 sku: 'B073ZK1BF8-es'
-tags: [ 'lápices', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápices', ]
 actualPrice: 17.17 EUR
 currency: EUR
 price: 17.17

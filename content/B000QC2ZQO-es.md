@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000QC2ZQO-es Trixie Tijeras Punta Redonda INOX Cara y Patas 9 cm'
 sku: 'B000QC2ZQO-es'
-tags: [ 'tijeras', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

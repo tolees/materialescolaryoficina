@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014T0S6ZC-es Pritt Cola blanca universal de secado transparente y...'
 sku: 'B014T0S6ZC-es'
-tags: [ 'blanca','cola','pritt', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','blanca','cola','pritt', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

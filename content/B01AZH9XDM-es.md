@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AZH9XDM-es APLI 13825 - Cinta de pintor 48 mm x 45 m pack de 6 rollos'
 sku: 'B01AZH9XDM-es'
-tags: [ 'apli', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','apli', ]
 actualPrice: 10.38 EUR
 currency: EUR
 price: 10.38

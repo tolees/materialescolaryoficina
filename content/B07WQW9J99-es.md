@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQW9J99-es Mochila para portátil Mochila para Estudiantes Mochila...'
 sku: 'B07WQW9J99-es'
-tags: [ 'escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008NF2YJE-es Case Logic - Mochila para portátiles de 16"/40 cm Color...'
 sku: 'B008NF2YJE-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 36.74 EUR
 currency: EUR
 price: 36.74

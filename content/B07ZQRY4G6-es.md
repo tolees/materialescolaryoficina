@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZQRY4G6-es Arteza Recambios de bolígrafo de gel azul | Paquete de 50...'
 sku: 'B07ZQRY4G6-es'
-tags: [ 'bolígrafo', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 9.51 EUR
 currency: EUR
 price: 9.51

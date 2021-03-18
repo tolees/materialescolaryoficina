@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNV1ZYW-es Meloive El Mejor Set de 72 lápices de Colores Mejores...'
 sku: 'B07CNV1ZYW-es'
-tags: [ 'colorear','lápices', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','colorear','lápices', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N36WGZQ-es Ulikey Medidor de Suelo con 10 Piezas de Herramientas...'
 sku: 'B07N36WGZQ-es'
-tags: [ 'tijeras', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

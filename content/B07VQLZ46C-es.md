@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQLZ46C-es Depesche 10709 Magic Scratch Book Miss Melody - Libro para...'
 sku: 'B07VQLZ46C-es'
-tags: [ 'colorear', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','colorear', ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

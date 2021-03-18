@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894TXW5N-es Bolígrafos de Contorno de Doble Línea Baozun 21Colores...'
 sku: 'B0894TXW5N-es'
-tags: [ 'bolígrafos','rotuladores', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafos','rotuladores', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLM9HK9-es Neusky - Bolsa Escolar Azul Blau1 Large'
 sku: 'B07QLM9HK9-es'
-tags: [ 'escolar', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','escolar', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

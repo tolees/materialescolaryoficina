@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFBF5QH-es Bosquejo Lápices de Dibujo del Artístico Profesional Set...'
 sku: 'B07GFBF5QH-es'
-tags: [ 'colorear','lápices', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','colorear','lápices', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JMEAO5G-es Faber Castell 65021 - Pack escolar con escuadra cartabón...'
 sku: 'B00JMEAO5G-es'
-tags: [ 'cartabón','castell','escolar','faber', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','cartabón','castell','escolar','faber', ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

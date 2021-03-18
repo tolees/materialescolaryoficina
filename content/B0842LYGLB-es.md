@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0842LYGLB-es Bodyguard Bolsa para cámara DSLR 2en1 y Mochila...'
 sku: 'B0842LYGLB-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

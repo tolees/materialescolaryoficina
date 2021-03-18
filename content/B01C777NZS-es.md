@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C777NZS-es APLI Kids 14227 - Color Sticks 10 g 6 u.'
 sku: 'B01C777NZS-es'
-tags: [ 'apli', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','apli', ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

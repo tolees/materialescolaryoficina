@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T27P2VQ-es Armani Exchange Liz - Mochila 28 x 8 x 26 cm color Beige...'
 sku: 'B07T27P2VQ-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 62.89 EUR
 currency: EUR
 price: 62.89

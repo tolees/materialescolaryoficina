@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KTD2XS-es RAPID 20942903 - Grapadora eléctrica modelo 90EC color blanco'
 sku: 'B000KTD2XS-es'
-tags: [ 'grapadora', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','grapadora', ]
 actualPrice: 274.57 EUR
 currency: EUR
 price: 274.57

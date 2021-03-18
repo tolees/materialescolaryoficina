@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1DK8YV-es Kipling SEOUL PACKABLE - Mochila escolar 22.5 liters...'
 sku: 'B07N1DK8YV-es'
-tags: [ 'escolar','mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

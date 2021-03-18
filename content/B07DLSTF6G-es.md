@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLSTF6G-es Samsonite PRO-DLX 5 - Backpack for 14.1" Laptop 1.2 KG...'
 sku: 'B07DLSTF6G-es'
-tags: [ 'backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','backpack','mochila', ]
 actualPrice: 146.53 EUR
 currency: EUR
 price: 146.53

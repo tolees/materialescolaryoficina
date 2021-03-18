@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXRFZHX-es Samsonite Qibyte Laptop Backpack 17.3" Mochila Tipo Casual...'
 sku: 'B01LXRFZHX-es'
-tags: [ 'backpack','mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','backpack','mochila', ]
 actualPrice: 47.57 EUR
 currency: EUR
 price: 47.57

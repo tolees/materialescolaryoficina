@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BND1IY-es Targus Essential - Mochila para Transportar portátiles de...'
 sku: 'B000BND1IY-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

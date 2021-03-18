@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NNMTCZG-es 3 Claveles 7 Tijeras de Costura Multiusos Acero de Carbono...'
 sku: 'B00NNMTCZG-es'
-tags: [ 'tijeras', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','tijeras', ]
 actualPrice: 11.87 EUR
 currency: EUR
 price: 11.87

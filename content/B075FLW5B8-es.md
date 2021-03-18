@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FLW5B8-es Baby Playpen - Centro de actividades para niños juego de...'
 sku: 'B075FLW5B8-es'
-tags: [ 'bolígrafo', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ATZ4FUC-es Alpino AL000656 - Lápices de colores'
 sku: 'B00ATZ4FUC-es'
-tags: [ 'alpino','lápices', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','alpino','lápices', ]
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

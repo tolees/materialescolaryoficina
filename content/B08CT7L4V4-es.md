@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CT7L4V4-es Ocobudbxw Útil Profesional Kit de Artista de Dibujo...'
 sku: 'B08CT7L4V4-es'
-tags: [ 'lápices', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápices', ]
 actualPrice: 25.77 EUR
 currency: EUR
 price: 25.77

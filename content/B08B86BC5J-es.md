@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B86BC5J-es Mochila Niña 3 en 1 Sets de Bolsas Escolares Primaria...'
 sku: 'B08B86BC5J-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

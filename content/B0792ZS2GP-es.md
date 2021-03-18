@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792ZS2GP-es BABYBJÖRN One- Mochila Porta Bebé 2018 Edition Algodón Mix...'
 sku: 'B0792ZS2GP-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
 actualPrice: 125.41 EUR
 currency: EUR
 price: 125.41

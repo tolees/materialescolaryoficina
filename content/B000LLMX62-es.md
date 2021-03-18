@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LLMX62-es STAEDTLER FIMO soft ofenhärtende Modelliermasse Kartonetui...'
 sku: 'B000LLMX62-es'
-tags: [ 'fimo', ]
+tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','fimo', ]
 actualPrice: 20.41 EUR
 currency: EUR
 price: 20.41
