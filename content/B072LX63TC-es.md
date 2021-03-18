@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072LX63TC-es Casio FX-85SP X II - Calculadora Científica Recomendada...'
 sku: 'B072LX63TC-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','calculadora', ]
+tags: [ 'calculadora', ]
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JMD1M1C-es Faber-Castell 813 - Regla técnica 30 cm'
 sku: 'B00JMD1M1C-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','faber-castell', ]
+tags: [ 'faber-castell', ]
 actualPrice: 5.38 EUR
 currency: EUR
 price: 5.38

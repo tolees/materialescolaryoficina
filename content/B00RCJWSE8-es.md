@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RCJWSE8-es 3M Post-It 654-SS-VP24COL-EU - Pack de 24 x 90 notas...'
 sku: 'B00RCJWSE8-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','post-it', ]
+tags: [ 'post-it', ]
 actualPrice: 21.94 EUR
 currency: EUR
 price: 21.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000TOBYTI-es Scotch Magic Tape - Cinta adhesiva transparente 14 rollos...'
 sku: 'B000TOBYTI-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','adhesiva','cinta','magic','scotch', ]
+tags: [ 'adhesiva','cinta','magic','scotch', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

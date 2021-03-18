@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXD9HQS-es Arteza Organizadores de escritorio en color gris oscuro |...'
 sku: 'B07XXD9HQS-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bandeja','correo','de', ]
+tags: [ 'bandeja','correo','de', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

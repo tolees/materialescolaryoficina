@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C75DSKK-es Maped Color Peps Jungle - Rotuladores de Colores 24 Unidades'
 sku: 'B00C75DSKK-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

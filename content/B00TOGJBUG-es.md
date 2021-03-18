@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TOGJBUG-es Anker - Set de Material Escolar GRU Mi Villano Favorito...'
 sku: 'B00TOGJBUG-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','escolar','material', ]
+tags: [ 'escolar','material', ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

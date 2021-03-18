@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B5HDZC4-es GABOL Mochila Trolley Cabina Saga. Bolsa de Viaje 50 cm 15...'
 sku: 'B07B5HDZC4-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 29.76 EUR
 currency: EUR
 price: 29.76

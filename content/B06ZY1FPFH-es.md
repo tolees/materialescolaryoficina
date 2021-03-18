@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZY1FPFH-es NORSENS Robo de Mochila portátil de 15 6/14 Pulgadas de...'
 sku: 'B06ZY1FPFH-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRIER6V-es BIC Intensity Fine rotuladores punta fina 0 8 mm – colores...'
 sku: 'B01MRIER6V-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VNH9S8-es Triamisu Nueva Marca y bolígrafo Pad Phone 4G Conveniente...'
 sku: 'B084VNH9S8-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

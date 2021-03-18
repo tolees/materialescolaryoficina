@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WFGXYDK-es Pepe Jeans Irvin Mochila para portátil 15.6 Pulgadas'
 sku: 'B07WFGXYDK-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 33.56 EUR
 currency: EUR
 price: 33.56

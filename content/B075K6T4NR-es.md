@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075K6T4NR-es Barras de pegamento caliente de Beeway®'
 sku: 'B075K6T4NR-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','barras','de','pegamento', ]
+tags: [ 'barras','de','pegamento', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

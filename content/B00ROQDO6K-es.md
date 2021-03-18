@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ROQDO6K-es BIC 4 colores Stylus bolígrafos punta media 1 0 mm - Grip...'
 sku: 'B00ROQDO6K-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 5.17 EUR
 currency: EUR
 price: 5.17

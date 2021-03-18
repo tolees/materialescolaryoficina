@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWGXD9B-es Set de Geometría Set de Matemáticas10 Piezas Que Incluye...'
 sku: 'B07QWGXD9B-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

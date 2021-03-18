@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007W1HI7I-es BIC Cristal Original Punta Fina - Estuche de 4 bolígrafos...'
 sku: 'B007W1HI7I-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bic','bolígrafos','cristal', ]
+tags: [ 'bic','bolígrafos','cristal', ]
 actualPrice: 1.58 EUR
 currency: EUR
 price: 1.58

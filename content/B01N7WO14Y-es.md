@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7WO14Y-es Zenacolor - 120 Lápices de Colores con Caja de Metal - 120...'
 sku: 'B01N7WO14Y-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

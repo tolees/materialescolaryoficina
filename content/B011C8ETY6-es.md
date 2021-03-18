@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011C8ETY6-es APLI Kids - Bolsa de gomets cara feliz 3 hojas adhesivo...'
 sku: 'B011C8ETY6-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','apli', ]
+tags: [ 'apli', ]
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

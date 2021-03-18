@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XTFB7T-es Filamento PLA Bronce Ultra Seda 1.75mm Impresión 3D ERYONE...'
 sku: 'B082XTFB7T-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 22.29 EUR
 currency: EUR
 price: 22.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CT7L4V4-es Ocobudbxw Útil Profesional Kit de Artista de Dibujo...'
 sku: 'B08CT7L4V4-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 25.77 EUR
 currency: EUR
 price: 25.77

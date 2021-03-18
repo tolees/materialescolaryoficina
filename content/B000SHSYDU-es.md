@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SHSYDU-es Staedtler 334-57 - Bolígrafo Gris Oliva'
 sku: 'B000SHSYDU-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 0.96 EUR
 currency: EUR
 price: 0.96

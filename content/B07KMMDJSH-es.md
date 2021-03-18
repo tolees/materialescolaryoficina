@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMMDJSH-es Play-Doh - Pack 12 Botes Rojos Hasbro E4826F02'
 sku: 'B07KMMDJSH-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','play-doh', ]
+tags: [ 'play-doh', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

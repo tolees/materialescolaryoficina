@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X51DXTM-es Eastpak London+ Mochila 45 cm 21 L Gris Black Denim'
 sku: 'B07X51DXTM-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RFYS5Y-es Miquel Rius Agenda Escolar Rígida de Espiral 155x213 Mm...'
 sku: 'B086RFYS5Y-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','escolar','miquel','rius', ]
+tags: [ 'escolar','miquel','rius', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

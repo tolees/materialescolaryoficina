@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0764BWVJ7-es Stabilo Boss Original - Marcador color pastel Set 2 1'
 sku: 'B0764BWVJ7-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','stabilo', ]
+tags: [ 'stabilo', ]
 actualPrice: 14.17 EUR
 currency: EUR
 price: 14.17

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HL1K1VK-es Head Tour Team Backpack Bolsa de Tenis Adultos Unisex...'
 sku: 'B07HL1K1VK-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','backpack', ]
+tags: [ 'backpack', ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

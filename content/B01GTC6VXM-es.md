@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GTC6VXM-es HP Odyssey - Mochila para portátiles de hasta 15.6" de...'
 sku: 'B01GTC6VXM-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 40.51 EUR
 currency: EUR
 price: 40.51

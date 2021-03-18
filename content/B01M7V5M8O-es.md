@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M7V5M8O-es Mochila Tous Kaos New Colores Rosa'
 sku: 'B01M7V5M8O-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 47.6 EUR
 currency: EUR
 price: 47.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WS6W31R-es CiSiRUN Lápiz Táctil Lápiz iPad Lápiz para Pantalla Táctil...'
 sku: 'B07WS6W31R-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

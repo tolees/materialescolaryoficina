@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014T0S6ZC-es Pritt Cola blanca universal de secado transparente y...'
 sku: 'B014T0S6ZC-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','blanca','cola','pritt', ]
+tags: [ 'blanca','cola','pritt', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

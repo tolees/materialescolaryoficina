@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4SHG9F-es Mochilas Escolares Fanspack Mochilas Escolares Juveniles...'
 sku: 'B07Q4SHG9F-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','backpack','mochila', ]
+tags: [ 'backpack','mochila', ]
 actualPrice: 30.21 EUR
 currency: EUR
 price: 30.21

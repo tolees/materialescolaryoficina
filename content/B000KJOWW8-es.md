@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KJOWW8-es Apli 1279 - Etiquetas 100 hojas'
 sku: 'B000KJOWW8-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','apli', ]
+tags: [ 'apli', ]
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081Q2MZQC-es UTOBEST Mochila Running Hidratacion 3L Chaleco Hidratación...'
 sku: 'B081Q2MZQC-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 25.8 EUR
 currency: EUR
 price: 25.8

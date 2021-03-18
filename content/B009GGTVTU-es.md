@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009GGTVTU-es Jovi 72 - Plastilina color rosa'
 sku: 'B009GGTVTU-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','plastilina', ]
+tags: [ 'plastilina', ]
 actualPrice: 1.67 EUR
 currency: EUR
 price: 1.67

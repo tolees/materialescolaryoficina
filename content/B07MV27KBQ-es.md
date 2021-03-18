@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV27KBQ-es Kit Barba Cuidado para Hombre Crecimiento Aseo y Recorte -...'
 sku: 'B07MV27KBQ-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

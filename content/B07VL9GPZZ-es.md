@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VL9GPZZ-es CARIOCA BOX |42736/10 - Caja de Lata Azul con 100...'
 sku: 'B07VL9GPZZ-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','colorear','rotuladores', ]
+tags: [ 'colorear','rotuladores', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

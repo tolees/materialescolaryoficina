@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QVAV8JA-es Safta - Conjunto dibujo escolar 940001 colores surtidos'
 sku: 'B00QVAV8JA-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','escolar', ]
+tags: [ 'escolar', ]
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

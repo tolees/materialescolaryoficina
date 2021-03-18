@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0GMFIO-es Marcador STABILO BOSS Original Pastel - Caja con 10...'
 sku: 'B01M0GMFIO-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','stabilo', ]
+tags: [ 'stabilo', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

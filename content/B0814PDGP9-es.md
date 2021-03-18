@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814PDGP9-es Candado de Combinación DazSpirit 3 dígitos Candado de...'
 sku: 'B0814PDGP9-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P6JX73M-es CARIOCA Estuche Colors | Estuche 3 Cremalleras con...'
 sku: 'B00P6JX73M-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','escolar','lápices','material','rotuladores', ]
+tags: [ 'escolar','lápices','material','rotuladores', ]
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

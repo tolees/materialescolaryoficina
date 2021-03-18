@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMPG3N5-es Acmebon Mochila Escolar Resistente al Agua para Niñas...'
 sku: 'B07VMPG3N5-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','escolar','mochila', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

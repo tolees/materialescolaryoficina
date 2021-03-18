@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007TYWDQE-es Faber-Castell - Vaso para el agua Clic & Go plegable fácil...'
 sku: 'B007TYWDQE-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','faber-castell', ]
+tags: [ 'faber-castell', ]
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L9YYO7G-es BIC Plastidecor Peques Estuche Con 12 Ceras Tamaño Único...'
 sku: 'B00L9YYO7G-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','plastidecor', ]
+tags: [ 'plastidecor', ]
 actualPrice: 1.86 EUR
 currency: EUR
 price: 1.86

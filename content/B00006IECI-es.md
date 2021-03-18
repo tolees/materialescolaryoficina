@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00006IECI-es Cross - Bolígrafo utrasuave brillante cromo - Ref 3502'
 sku: 'B00006IECI-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

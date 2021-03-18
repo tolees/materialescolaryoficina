@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BJ2RK0A-es Mochila Infantil Star Wars'
 sku: 'B01BJ2RK0A-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

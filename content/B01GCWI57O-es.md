@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GCWI57O-es Paper Mate Dryline Cinta de corrección 5 mm x 8.5 m 4...'
 sku: 'B01GCWI57O-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mate','paper', ]
+tags: [ 'mate','paper', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007OECJY-es Faber-Castell 110012 - Lápices 12 unidades;Faber-Castel...'
 sku: 'B0007OECJY-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','faber-castell','lápices', ]
+tags: [ 'faber-castell','lápices', ]
 actualPrice: 17.06 EUR
 currency: EUR
 price: 17.06

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084YBZFLT-es Targus Drifter II mochila con 3 grandes compartimentos...'
 sku: 'B084YBZFLT-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 32.37 EUR
 currency: EUR
 price: 32.37

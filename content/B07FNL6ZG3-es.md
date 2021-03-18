@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNL6ZG3-es E·Durable Mini Pistolas de encolar con 30 Piezas Barras de...'
 sku: 'B07FNL6ZG3-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','barras','de','pegamento', ]
+tags: [ 'barras','de','pegamento', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

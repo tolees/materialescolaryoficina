@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081VVLH2Z-es Vans Ss20 Realm BackPACK OS Negro mochila Mochila real...'
 sku: 'B081VVLH2Z-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','backpack','mochila', ]
+tags: [ 'backpack','mochila', ]
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

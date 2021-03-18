@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CGCJGP9-es WOMGF barbero Tijeras Cortar Pelo tijeras de peluquería...'
 sku: 'B08CGCJGP9-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

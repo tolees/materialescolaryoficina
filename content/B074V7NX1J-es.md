@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074V7NX1J-es CUILEE Mochila para niños bebés Mochilas para niños con...'
 sku: 'B074V7NX1J-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LE0Q3G-es APLI 1787 - Etiquetas blancas permanentes 210 0 x 148 0 mm...'
 sku: 'B000LE0Q3G-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','apli', ]
+tags: [ 'apli', ]
 actualPrice: 61.73 EUR
 currency: EUR
 price: 61.73

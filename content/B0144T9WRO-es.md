@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0144T9WRO-es APLI Kids - Bolsa de gomets 3 hojas La primavera'
 sku: 'B0144T9WRO-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','apli', ]
+tags: [ 'apli', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

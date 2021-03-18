@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YWBHTDW-es PHYLES Tablero de Dibujo Mágico Pizarra 3D Mágico con...'
 sku: 'B07YWBHTDW-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

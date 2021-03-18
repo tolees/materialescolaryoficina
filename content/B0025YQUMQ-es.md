@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0025YQUMQ-es Jovi-725265 Caja de 15 Barras de plastilina 216047'
 sku: 'B0025YQUMQ-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','plastilina', ]
+tags: [ 'plastilina', ]
 actualPrice: 4.78 EUR
 currency: EUR
 price: 4.78

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002OL2OJ8-es Bolígrafos UB-157 Eye Fine varios colores tinta Uni Super...'
 sku: 'B002OL2OJ8-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

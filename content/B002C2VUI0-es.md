@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002C2VUI0-es APLI 262 Rollo forro de libros adhesivo 1.5 x 0.5 m...'
 sku: 'B002C2VUI0-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','apli', ]
+tags: [ 'apli', ]
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYDCNV4-es Parker Urban 1931586 - Bolígrafo roller purpurina plateada...'
 sku: 'B01LYDCNV4-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q1RA3KI-es Milan BMM9203 - Pack de 3 gomas de borrar'
 sku: 'B00Q1RA3KI-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','borrar','de','gomas', ]
+tags: [ 'borrar','de','gomas', ]
 actualPrice: 0.87 EUR
 currency: EUR
 price: 0.87

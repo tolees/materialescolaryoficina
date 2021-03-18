@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KT73LK-es Faber-Castell 117511 - Estuche de metal con 120 ecolápices...'
 sku: 'B000KT73LK-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','faber-castell', ]
+tags: [ 'faber-castell', ]
 actualPrice: 166.72 EUR
 currency: EUR
 price: 166.72

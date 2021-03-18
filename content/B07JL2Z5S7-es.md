@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JL2Z5S7-es Under Armour Gametime BP Mochila Unisex Adulto Negro OSFA'
 sku: 'B07JL2Z5S7-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

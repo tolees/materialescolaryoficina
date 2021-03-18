@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003PPCZT6-es Eastpak Provider Mochila 44 cm 33 L Gris Sunday Grey'
 sku: 'B003PPCZT6-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

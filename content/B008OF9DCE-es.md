@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008OF9DCE-es Apli - Etiquetas Adhesivas multi3 para Inkjet Laser y...'
 sku: 'B008OF9DCE-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','apli', ]
+tags: [ 'apli', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

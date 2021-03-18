@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4QTQTW-es deAO Colegio de Muñecas Conjunto 2en 1 de Bus Escolar y...'
 sku: 'B07Q4QTQTW-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','escolar', ]
+tags: [ 'escolar', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

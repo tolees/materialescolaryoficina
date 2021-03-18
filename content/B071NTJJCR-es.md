@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071NTJJCR-es Bourjois Khol & Contour Lápiz de ojos Tono 7 Prunissime -...'
 sku: 'B071NTJJCR-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

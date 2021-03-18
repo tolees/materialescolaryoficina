@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001ANVQ4A-es Maped M244304 - Juego de regla escuadra cartabón y...'
 sku: 'B001ANVQ4A-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','cartabón', ]
+tags: [ 'cartabón', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

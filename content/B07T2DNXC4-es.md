@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2DNXC4-es Estuche de Actividades para niños de +3 años Plantillas y...'
 sku: 'B07T2DNXC4-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','colorear', ]
+tags: [ 'colorear', ]
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

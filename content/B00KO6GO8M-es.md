@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KO6GO8M-es BIC Cristal Soft bolígrafos punta media 1 2 mm - Azul...'
 sku: 'B00KO6GO8M-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bic','bolígrafos','cristal', ]
+tags: [ 'bic','bolígrafos','cristal', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

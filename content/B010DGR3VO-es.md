@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010DGR3VO-es PLATERO P-U01B Mochila unisex para computador portátil 15...'
 sku: 'B010DGR3VO-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila','unisex', ]
+tags: [ 'mochila','unisex', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

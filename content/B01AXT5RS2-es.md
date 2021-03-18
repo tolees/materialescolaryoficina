@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AXT5RS2-es Petrus 624824 Grapadora Eléctrica Grapa 10 Hojas Funciona...'
 sku: 'B01AXT5RS2-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','grapadora', ]
+tags: [ 'grapadora', ]
 actualPrice: 23.78 EUR
 currency: EUR
 price: 23.78

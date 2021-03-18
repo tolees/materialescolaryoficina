@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0073RSU6O-es S&R Tijeras para corte de Chapa Aviación serie 250 mm...'
 sku: 'B0073RSU6O-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

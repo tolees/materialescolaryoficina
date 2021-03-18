@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082QWF82B-es Sombra de Ojos Eyeshadow Eyeshadow Glitter Eyeshadow...'
 sku: 'B082QWF82B-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLSTF6G-es Samsonite PRO-DLX 5 - Backpack for 14.1" Laptop 1.2 KG...'
 sku: 'B07DLSTF6G-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','backpack','mochila', ]
+tags: [ 'backpack','mochila', ]
 actualPrice: 146.53 EUR
 currency: EUR
 price: 146.53

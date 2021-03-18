@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07864YPFY-es Play-Doh Helados Deliciosos Hasbro E0042EU4 color/modelo...'
 sku: 'B07864YPFY-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','play-doh', ]
+tags: [ 'play-doh', ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

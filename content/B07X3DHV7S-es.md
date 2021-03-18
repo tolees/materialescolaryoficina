@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3DHV7S-es Vbiger Mochilas Escolares Ni?a Mochila Juveniles...'
 sku: 'B07X3DHV7S-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 24.89 EUR
 currency: EUR
 price: 24.89

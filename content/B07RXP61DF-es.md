@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXP61DF-es Hethrone Rotuladores Punta Pincel 100 Color Rotuladores...'
 sku: 'B07RXP61DF-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

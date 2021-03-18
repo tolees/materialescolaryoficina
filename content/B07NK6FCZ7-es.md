@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NK6FCZ7-es EXERZ E Organizador de Escritorio 360 Grados Giratorio con...'
 sku: 'B07NK6FCZ7-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','borrar','de','goma','grapadora','tijeras', ]
+tags: [ 'borrar','de','goma','grapadora','tijeras', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

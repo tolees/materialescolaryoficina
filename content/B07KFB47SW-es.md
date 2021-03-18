@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFB47SW-es Scratch Art JBSON 30 Hojas Dibujo Scratch Láminas para...'
 sku: 'B07KFB47SW-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

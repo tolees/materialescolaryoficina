@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU1FNUT-es Rapesco Eco HD-100 - Grapadora de gruesos 100 hojas mas...'
 sku: 'B01MU1FNUT-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','grapadora', ]
+tags: [ 'grapadora', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

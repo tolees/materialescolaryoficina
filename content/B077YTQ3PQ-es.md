@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YTQ3PQ-es Gibot Lápices de Colores para niños Agarre de Palma de la...'
 sku: 'B077YTQ3PQ-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 10.26 EUR
 currency: EUR
 price: 10.26

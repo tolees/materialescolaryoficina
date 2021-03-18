@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6YT1QP-es Vuelta al cole pencil case regalos originales para Chicas...'
 sku: 'B07W6YT1QP-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','bolígrafos','escolar','mochila', ]
+tags: [ 'bolígrafos','escolar','mochila', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

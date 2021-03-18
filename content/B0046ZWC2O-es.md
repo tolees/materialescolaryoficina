@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0046ZWC2O-es L Oreal Paris Lápiz de Labios Infalible Lipliner 701 Stay...'
 sku: 'B0046ZWC2O-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YTR64W3-es Samsonite Paradiver Light Mochila Infantil S+ 42 cm 10 L...'
 sku: 'B07YTR64W3-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

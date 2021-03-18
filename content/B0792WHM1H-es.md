@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792WHM1H-es Cabin Max Metz Mochila de Viaje Equipaje de Mano Aprobada...'
 sku: 'B0792WHM1H-es'
-tags: [ 'Actividades creativas','Bolígrafos de tinta líquida','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Juguetes','Juguetes y juegos','Material de educación infantil','Material de escritura y dibujo para niños','Material escolar y educativo','Mosaicos para niños','Oficina y papelería','Pinturas','Rotuladores de colores para niños','Témperas y pinturas para murales','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95
