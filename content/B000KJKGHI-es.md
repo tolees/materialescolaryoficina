@@ -1,35 +1,35 @@
 ---
 layout: post
-title: 'Descuento del 25.41 % en Apli 01285  1 caja de etiquetas autoadhe'
-date: 2021-03-11 10:42:38
+title: 'Descuento del 44.95 % en Apli 01285  1 caja de etiquetas autoadhe'
+date: 2021-03-18 10:57:10
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJKGHI-es Apli 01285 1 caja de etiquetas autoadhesivas multiusos 44...'
 sku: 'B000KJKGHI-es'
-tags: [ 'apli', ]
-actualPrice: 12.36 EUR
+tags: [ 'Etiquetas adhesivas y pegatinas para oficina','Etiquetas para impresoras','Etiquetas, separadores y sellos','Material de oficina','Oficina y papelería','apli', ]
+actualPrice: 16.57 EUR
 currency: EUR
-price: 12.36
-comparePrice: 16.57 EUR
+price: 16.57
+comparePrice: 30.1 EUR
 prodname: 'Apli 01285  1 caja de etiquetas autoadhesivas multiusos  44 etiquetas por hoja A4  48 5 x 25 4 mm  blanco  100 hojas'
 country: 'es'
 flag: '🇪🇸'
 brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B000KJKGHI/?tag=tolees-21'
-descuento: '25.41'
-average: '16.1644855967074'
+descuento: '44.95'
+average: '16.1835686274504'
 ---
 
-Tienes [Apli 01285  1 caja de etiquetas autoadhesivas multiusos  44 etiquetas por hoja A4  48 5 x 25 4 mm  blanco  100 hojas](https://www.amazon.es/dp/B000KJKGHI/?tag=tolees-21) con un 25.41 % de descuento con precio de oferta de 12.36 EUR (original: 16.57 EUR) en el siguiente enlace!
+Tienes [Apli 01285  1 caja de etiquetas autoadhesivas multiusos  44 etiquetas por hoja A4  48 5 x 25 4 mm  blanco  100 hojas](https://www.amazon.es/dp/B000KJKGHI/?tag=tolees-21) con un 44.95 % de descuento con precio de oferta de 16.57 EUR (original: 30.1 EUR) en el siguiente enlace!
 
 [![Apli 01285  1 caja de etiquetas autoadhe](https://m.media-amazon.com/images/I/51KGiHflVmL._SL400_.jpg)](https://www.amazon.es/dp/B000KJKGHI/?tag=tolees-21)
 
 ℹ️:
 
-- 1 caja de etiquetas autoadhesivas multiusos, 44 etiquetas por hoja A4
 - Dimensiones (Ancho x Profundidad x Altura): 48.5 x 25.4
+- 1 caja de etiquetas autoadhesivas multiusos, 44 etiquetas por hoja A4
 - 100 hojas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KJKGHI/?tag=tolees-21)
