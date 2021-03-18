@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002C2S0YC-es Apli 1785 - Etiquetas 500 hojas'
 sku: 'B002C2S0YC-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','apli', ]
+tags: [ 'apli', ]
 actualPrice: 57.33 EUR
 currency: EUR
 price: 57.33

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000TKF71I-es Staedtler Stick 430M3CP5. Bolígrafos de bola. Caja con 50...'
 sku: 'B000TKF71I-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

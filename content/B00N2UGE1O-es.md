@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N2UGE1O-es Faber Castell 554212 - Estuche de cartón con 12...'
 sku: 'B00N2UGE1O-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','castell','faber','rotuladores', ]
+tags: [ 'castell','faber','rotuladores', ]
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

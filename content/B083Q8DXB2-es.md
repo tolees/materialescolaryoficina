@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083Q8DXB2-es Doble Cara Cinta Adhesiva de Espuma CHIFOOM 80pcs Pad...'
 sku: 'B083Q8DXB2-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','adhesiva','cinta', ]
+tags: [ 'adhesiva','cinta', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

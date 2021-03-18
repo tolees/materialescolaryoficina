@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BCLZP55-es Carioca - Juego de colores Eco Family | Kit de colores...'
 sku: 'B08BCLZP55-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafos','lápices','rotuladores', ]
+tags: [ 'bolígrafos','lápices','rotuladores', ]
 actualPrice: 20.92 EUR
 currency: EUR
 price: 20.92

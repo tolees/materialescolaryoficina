@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XUA5UXY-es Alpino DA000125 - Estuche 12 ceras'
 sku: 'B00XUA5UXY-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','alpino', ]
+tags: [ 'alpino', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

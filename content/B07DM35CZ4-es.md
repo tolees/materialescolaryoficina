@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DM35CZ4-es PEKITAS- Pack Cinta 5 Metros +12 Esquinas + Cinta Adhesiva...'
 sku: 'B07DM35CZ4-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','adhesiva','cinta', ]
+tags: [ 'adhesiva','cinta', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

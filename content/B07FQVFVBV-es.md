@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQVFVBV-es Targus Groove X2 Compact Carbón Vegetal Mochila - Mochila...'
 sku: 'B07FQVFVBV-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TOGJBUG-es Anker - Set de Material Escolar GRU Mi Villano Favorito...'
 sku: 'B00TOGJBUG-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','escolar','material', ]
+tags: [ 'escolar','material', ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

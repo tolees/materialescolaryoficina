@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079L8DHGH-es AmazonBasics - Mochila compacta de viaje Negro para viajes...'
 sku: 'B079L8DHGH-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 42.25 EUR
 currency: EUR
 price: 42.25

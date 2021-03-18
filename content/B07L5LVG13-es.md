@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5LVG13-es Juego de 10 pinceles de pintura profesional de AOOK para...'
 sku: 'B07L5LVG13-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','acuarelas', ]
+tags: [ 'acuarelas', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

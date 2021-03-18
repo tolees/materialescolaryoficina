@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XKRLN6J-es adidas BP Power IV Mochila Unisex Adultos Negro...'
 sku: 'B06XKRLN6J-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila','unisex', ]
+tags: [ 'mochila','unisex', ]
 actualPrice: 28.09 EUR
 currency: EUR
 price: 28.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKB5WLR-es Pistola de Silicona G★LAXIA Pistola de Pegar 60W Con 10PCS...'
 sku: 'B07QKB5WLR-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','barras','de','pegamento', ]
+tags: [ 'barras','de','pegamento', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

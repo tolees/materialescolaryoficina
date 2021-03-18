@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5Y4X8N-es Pegatina pizarra tamaño 78 8” x 23 6” pizarra adhesiva...'
 sku: 'B08B5Y4X8N-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

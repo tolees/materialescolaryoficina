@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QTTF2KO-es Bourjois Liner Pinceau Lápiz de ojos Tono 35 Ultra Black...'
 sku: 'B00QTTF2KO-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

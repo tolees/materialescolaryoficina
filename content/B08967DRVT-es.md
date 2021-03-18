@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08967DRVT-es UMUSTY 3D One punch man Funda de lápiz con cremallera...'
 sku: 'B08967DRVT-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafo','lápiz', ]
+tags: [ 'bolígrafo','lápiz', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

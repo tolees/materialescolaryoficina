@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q7VF2LZ-es Bedee - Afilador de cuchillos 3 pasos diamante cerámica...'
 sku: 'B07Q7VF2LZ-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

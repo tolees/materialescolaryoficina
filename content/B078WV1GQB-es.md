@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WV1GQB-es Lápices de acuarela para colorear 20 pinceles para...'
 sku: 'B078WV1GQB-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','colorear','lápices', ]
+tags: [ 'colorear','lápices', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0025UVAQ6-es Jovi-724987 Estuche Acuarelas Multicolor 800 12'
 sku: 'B0025UVAQ6-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','acuarelas', ]
+tags: [ 'acuarelas', ]
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9WYDH2-es Panamami Conjunto de moldes de Herramientas de Arcilla de...'
 sku: 'B07V9WYDH2-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','plastilina', ]
+tags: [ 'plastilina', ]
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

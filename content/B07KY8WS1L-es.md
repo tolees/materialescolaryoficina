@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KY8WS1L-es Eastpak ORBIT Mochila tipo casual 33.5 x 23 x 15 cm 10...'
 sku: 'B07KY8WS1L-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

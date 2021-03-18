@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000TOBYTI-es Scotch Magic Tape - Cinta adhesiva transparente 14 rollos...'
 sku: 'B000TOBYTI-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','adhesiva','cinta','magic','scotch', ]
+tags: [ 'adhesiva','cinta','magic','scotch', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

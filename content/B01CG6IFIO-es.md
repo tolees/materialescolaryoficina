@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CG6IFIO-es Ceras PLASTIDECOR Pastel Estuche DE 12'
 sku: 'B01CG6IFIO-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','plastidecor', ]
+tags: [ 'plastidecor', ]
 actualPrice: 1.51 EUR
 currency: EUR
 price: 1.51

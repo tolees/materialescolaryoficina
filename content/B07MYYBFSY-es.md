@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYYBFSY-es COO Funda Teclado iPad 9.7 Funda iPad 2018 con Ranura para...'
 sku: 'B07MYYBFSY-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CSB4D9-es Samsonite Network 3 39 6 cm 15.6" Mochila Azul - Funda...'
 sku: 'B076CSB4D9-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

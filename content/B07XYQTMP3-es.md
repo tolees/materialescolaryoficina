@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XYQTMP3-es TAZEMAT 24 Hojas Máscaras de Animales Papel para Rascar...'
 sku: 'B07XYQTMP3-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

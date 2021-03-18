@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008DCGF9C-es Alpino-490251 Pack de 12 lápices Colores Surtidos...'
 sku: 'B008DCGF9C-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

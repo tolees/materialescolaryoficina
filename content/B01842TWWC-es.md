@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01842TWWC-es Faber Castell B-9067-2B - Blíster tubo de 12 minas 0.7 mm...'
 sku: 'B01842TWWC-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','castell','faber', ]
+tags: [ 'castell','faber', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

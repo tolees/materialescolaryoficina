@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZFH7BB-es Trendy New Shoulder Messenger Bag Mochila Mujer Pu Leather...'
 sku: 'B08BZFH7BB-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

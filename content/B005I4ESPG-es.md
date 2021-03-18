@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005I4ESPG-es Pentel Ain Stein - Minas para portaminas 0.7 x 60 mm...'
 sku: 'B005I4ESPG-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','pentel','portaminas', ]
+tags: [ 'pentel','portaminas', ]
 actualPrice: 2.73 EUR
 currency: EUR
 price: 2.73

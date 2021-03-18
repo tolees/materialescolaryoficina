@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7YM4QM-es Bolígrafo Grabador de Voz Digital Portatil POVO 16GB...'
 sku: 'B07Z7YM4QM-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

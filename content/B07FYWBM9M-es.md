@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYWBM9M-es Ergobaby Original - Mochila portabebés ergonómicas unisex...'
 sku: 'B07FYWBM9M-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

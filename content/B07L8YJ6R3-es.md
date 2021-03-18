@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8YJ6R3-es Brrnoo 16L Gabinete de Esterilización UV 2 en 1 Caja de...'
 sku: 'B07L8YJ6R3-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 68.59 EUR
 currency: EUR
 price: 68.59

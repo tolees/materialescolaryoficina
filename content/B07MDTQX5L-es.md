@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDTQX5L-es The North Face Base Camp-M Mochila Duffel Unisex Adulto...'
 sku: 'B07MDTQX5L-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 78.62 EUR
 currency: EUR
 price: 78.62

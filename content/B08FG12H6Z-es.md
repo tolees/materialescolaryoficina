@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FG12H6Z-es Voova Mochila de Pañales para Mamá Papá con Cambiar de Mat...'
 sku: 'B08FG12H6Z-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

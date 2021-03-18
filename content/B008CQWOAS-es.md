@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008CQWOAS-es Loctite Super Glue-3 Original pegamento universal con...'
 sku: 'B008CQWOAS-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','loctite', ]
+tags: [ 'loctite', ]
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

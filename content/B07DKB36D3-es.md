@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKB36D3-es Element Cypress Bpk Backpack para Hombre napa red U'
 sku: 'B07DKB36D3-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','backpack', ]
+tags: [ 'backpack', ]
 actualPrice: 33.02 EUR
 currency: EUR
 price: 33.02

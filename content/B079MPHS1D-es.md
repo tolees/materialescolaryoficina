@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MPHS1D-es Play Doh - Rex The Chomper Hasbro E1952EU5'
 sku: 'B079MPHS1D-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','doh','play', ]
+tags: [ 'doh','play', ]
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

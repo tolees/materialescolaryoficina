@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CCJK9Z9-es A5/RedBronze 新品 Diario de piel en relieve vintage con...'
 sku: 'B08CCJK9Z9-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

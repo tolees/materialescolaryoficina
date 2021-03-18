@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZ24YHJ-es Antirrobo Mochila para Portátil 15.6 Pulgadas Impermeable...'
 sku: 'B07MZ24YHJ-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

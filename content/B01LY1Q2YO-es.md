@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY1Q2YO-es Parker Urban 1931566 - Bolígrafo roller azul oscuro...'
 sku: 'B01LY1Q2YO-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 37.92 EUR
 currency: EUR
 price: 37.92

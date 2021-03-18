@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFFK7YR-es Samsonite Ziproll Mochila para portátil de 13.3 pulgadas...'
 sku: 'B07PFFK7YR-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

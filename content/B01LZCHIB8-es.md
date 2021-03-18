@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZCHIB8-es Parker Urban 1931584 - Bolígrafo roller negro tenue de...'
 sku: 'B01LZCHIB8-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 34.7 EUR
 currency: EUR
 price: 34.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GS5GV9F-es Rotuladores de Pintura Acrílica Keten 12 Colores...'
 sku: 'B07GS5GV9F-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

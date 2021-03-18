@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0117PU0KQ-es 3 Claveles Tijeras Costura y Multiusos Profesional Mango...'
 sku: 'B0117PU0KQ-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5FHBPH-es Parker Jotter Originals - Colección de bolígrafos surtido...'
 sku: 'B07J5FHBPH-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 21.53 EUR
 currency: EUR
 price: 21.53

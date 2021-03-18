@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2DNXC4-es Estuche de Actividades para niños de +3 años Plantillas y...'
 sku: 'B07T2DNXC4-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','colorear', ]
+tags: [ 'colorear', ]
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

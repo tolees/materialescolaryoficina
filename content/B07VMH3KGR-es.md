@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMH3KGR-es CARIOCA Oops Retráctil Azul | Set Bolígrafos Borrables...'
 sku: 'B07VMH3KGR-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 15.94 EUR
 currency: EUR
 price: 15.94

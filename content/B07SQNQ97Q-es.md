@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQNQ97Q-es Parfois - Mochila Efecto Piel - Mujeres - Tallas M - Blanco'
 sku: 'B07SQNQ97Q-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 13 EUR
 currency: EUR
 price: 13

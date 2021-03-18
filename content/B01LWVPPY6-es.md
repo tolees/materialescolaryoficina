@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWVPPY6-es Marcador STABILO BOSS Original Pastel - Caja con 10...'
 sku: 'B01LWVPPY6-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','stabilo', ]
+tags: [ 'stabilo', ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

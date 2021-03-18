@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DF31QXT-es Niños Trolley Mochila Escolar Bolso - Niña Niño con Ruedas...'
 sku: 'B07DF31QXT-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','escolar','mochila', ]
+tags: [ 'escolar','mochila', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

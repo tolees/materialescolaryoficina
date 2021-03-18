@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TP5CYFR-es Samsonite Color Funtime Mochila con Ruedas 51 cm 26 L Azul...'
 sku: 'B07TP5CYFR-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 59.78 EUR
 currency: EUR
 price: 59.78

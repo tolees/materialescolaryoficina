@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4RKYMQ-es Faburo 3 Piezas Cremallera Lienzo Estuche Bolsa de Lápiz y...'
 sku: 'B07V4RKYMQ-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafo','escolar','lápiz', ]
+tags: [ 'bolígrafo','escolar','lápiz', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

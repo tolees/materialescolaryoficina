@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XT7HS98-es Syolee Tool - Lápiz Capacitivo para Pantalla táctil...'
 sku: 'B07XT7HS98-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

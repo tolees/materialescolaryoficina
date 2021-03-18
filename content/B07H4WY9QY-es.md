@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4WY9QY-es Staedtler Noris Eco 183-HBBK3. Lápices ecológicos de...'
 sku: 'B07H4WY9QY-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

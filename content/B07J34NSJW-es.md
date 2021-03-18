@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J34NSJW-es Moleskine - Agenda Semanal de 18 Meses Alicia en el País...'
 sku: 'B07J34NSJW-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','moleskine', ]
+tags: [ 'moleskine', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3F88HB-es Jarra de Leche de Acero Inoxidable 350 ml Taza de Café de...'
 sku: 'B08B3F88HB-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

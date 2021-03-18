@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z7RZ0VK-es Otterbox Symmetry Folio Protección Anti-caídas con Tapa...'
 sku: 'B00Z7RZ0VK-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MAGPD18-es Pilot Negro frixion Punta Redonda borrable bolígrafos...'
 sku: 'B00MAGPD18-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafos', ]
+tags: [ 'bolígrafos', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3STD9G-es HellDoler Manualidades para Niños 100 Hojas Manualidades...'
 sku: 'B07S3STD9G-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápices', ]
+tags: [ 'lápices', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

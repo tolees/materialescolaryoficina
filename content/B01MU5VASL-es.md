@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU5VASL-es GRÜNTEK Tijeras de Podar Profesionales Z-25 FORJADAS en...'
 sku: 'B01MU5VASL-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

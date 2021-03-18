@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076MWFG1Z-es Posca 153544841 - Pack de 8 rotuladores de pintura al agua...'
 sku: 'B076MWFG1Z-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

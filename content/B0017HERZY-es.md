@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0017HERZY-es Scotch Magic - Portarrollos de sobremesa con 4 cintas...'
 sku: 'B0017HERZY-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','magic','scotch', ]
+tags: [ 'magic','scotch', ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

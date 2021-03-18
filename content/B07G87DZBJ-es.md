@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G87DZBJ-es INT!REND Rotuladores punta de pincel 51 SET | Compuesto...'
 sku: 'B07G87DZBJ-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

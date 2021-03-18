@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012WJVOVA-es WACOM LP190K - Lápiz para tablet CTL490 CTH490 y CTH690'
 sku: 'B012WJVOVA-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 24.91 EUR
 currency: EUR
 price: 24.91

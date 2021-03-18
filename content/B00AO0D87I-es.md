@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AO0D87I-es Alpino Maxi - Rotuladores 24 unidades'
 sku: 'B00AO0D87I-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','alpino','rotuladores', ]
+tags: [ 'alpino','rotuladores', ]
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

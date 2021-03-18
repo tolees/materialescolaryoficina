@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CBHQI9W-es L´Oréal Paris Make Up Artist Eyeliner Super Liner...'
 sku: 'B00CBHQI9W-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','lápiz', ]
+tags: [ 'lápiz', ]
 actualPrice: 4.57 EUR
 currency: EUR
 price: 4.57

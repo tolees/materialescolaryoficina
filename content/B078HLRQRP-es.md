@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HLRQRP-es Smile Smart - Mochila Ideal para Llevar Accesorios de...'
 sku: 'B078HLRQRP-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila','smile', ]
+tags: [ 'Bolsas y fundas para cámaras compactas','mochila','smile', ]
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75
@@ -29,12 +29,12 @@ En este momento está [Smile Smart - Mochila Ideal para Llevar Accesorios de fot
 🔎:
 
 - Diseño único y exclusivo smile, material: polytex
-- Medidas: 9x19x23cm
-- Mochila camara reflex nikon
-- Mochila camara fotos
-- Mochila camara reflex canon
 - Mochila smile
-- Mochila smart bag
 - Asa acolchada para llevarla colgada
+- Mochila camara reflex nikon
+- Medidas: 9x19x23cm
+- Mochila camara reflex canon
+- Mochila camara fotos
+- Mochila smart bag
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078HLRQRP/?tag=tolees-21)

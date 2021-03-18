@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G8WKK28-es LIANCHENYI Runway - Mochila de viaje'
 sku: 'B07G8WKK28-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','mochila', ]
+tags: [ 'mochila', ]
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

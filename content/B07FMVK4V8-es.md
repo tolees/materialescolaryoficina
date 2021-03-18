@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMVK4V8-es Converse Converse EDC 22 Backpack 10007031-A06 Bolso...'
 sku: 'B07FMVK4V8-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','backpack', ]
+tags: [ 'backpack', ]
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

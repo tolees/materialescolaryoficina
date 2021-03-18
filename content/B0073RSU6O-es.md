@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0073RSU6O-es S&R Tijeras para corte de Chapa Aviación serie 250 mm...'
 sku: 'B0073RSU6O-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','tijeras', ]
+tags: [ 'tijeras', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J1Y8AMG-es edding 4200-6-S-000 - Estuche con 6 rotuladores para...'
 sku: 'B00J1Y8AMG-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','rotuladores', ]
+tags: [ 'rotuladores', ]
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

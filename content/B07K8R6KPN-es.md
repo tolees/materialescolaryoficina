@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8R6KPN-es Artina Set de Pinceles de Pintura Amsterdam. Juego de 17...'
 sku: 'B07K8R6KPN-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','acuarelas', ]
+tags: [ 'acuarelas', ]
 actualPrice: 14.29 EUR
 currency: EUR
 price: 14.29

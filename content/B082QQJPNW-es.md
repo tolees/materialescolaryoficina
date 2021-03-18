@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082QQJPNW-es Filamento PLA Oro Ultra Seda 1.75mm ERYONE Impresión 3D...'
 sku: 'B082QQJPNW-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bolígrafo', ]
+tags: [ 'bolígrafo', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQHYVZK-es Vans Realm Backpack Mochila Tipo Casual 42 cm 22 Liters...'
 sku: 'B07FQHYVZK-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','backpack','mochila', ]
+tags: [ 'backpack','mochila', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

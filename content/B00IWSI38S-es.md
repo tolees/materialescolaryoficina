@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IWSI38S-es BOLIGRAFO BIC Cristal Oro'
 sku: 'B00IWSI38S-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','bic','boligrafo','cristal', ]
+tags: [ 'bic','boligrafo','cristal', ]
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

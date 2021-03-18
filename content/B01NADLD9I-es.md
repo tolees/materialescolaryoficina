@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NADLD9I-es Rotulador punta media STABILO pointMax - Estuche con 12...'
 sku: 'B01NADLD9I-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','rotulador','stabilo', ]
+tags: [ 'rotulador','stabilo', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

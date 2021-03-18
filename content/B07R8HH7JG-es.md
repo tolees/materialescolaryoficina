@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R8HH7JG-es Vans OLD SKOOL III BACKPACK Mochila tipo casual 42 cm 22 L...'
 sku: 'B07R8HH7JG-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','backpack','mochila', ]
+tags: [ 'backpack','mochila', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

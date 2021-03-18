@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P6JX73M-es CARIOCA Estuche Colors | Estuche 3 Cremalleras con...'
 sku: 'B00P6JX73M-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','escolar','lápices','material','rotuladores', ]
+tags: [ 'escolar','lápices','material','rotuladores', ]
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

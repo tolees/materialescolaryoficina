@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003MAV42S-es Flamastry Stabilo Power 30 sztuk'
 sku: 'B003MAV42S-es'
-tags: [ 'Accesorios','Accesorios de fotografía y videocámaras','Accesorios para portátiles y netbooks','Bolsas y fundas para cámaras compactas','Bolsas y fundas para cámaras digitales','Bolsas y fundas para cámaras,  videocámaras y prismáticos','Bolsas y fundas para portátiles y netbooks','Electrónica','Fotografía y videocámaras','Informática','Mochilas para portátiles y netbooks','stabilo', ]
+tags: [ 'stabilo', ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7
