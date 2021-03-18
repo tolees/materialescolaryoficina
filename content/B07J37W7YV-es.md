@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J37W7YV-es Under Armour Hustle 4.0 Mochila Unisex Adulto Gris OSFA'
 sku: 'B07J37W7YV-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
 actualPrice: 39.58 EUR
 currency: EUR
 price: 39.58

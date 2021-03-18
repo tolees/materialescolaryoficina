@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H3R8G1M-es Speedo T-KIT Teamster Mochila Unisex Adulto Red / Black 35 l'
 sku: 'B01H3R8G1M-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

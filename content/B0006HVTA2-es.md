@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0006HVTA2-es BIC Soft Feel - Caja de 12 unidades bolígrafos retráctiles...'
 sku: 'B0006HVTA2-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafos', ]
 actualPrice: 6.12 EUR
 currency: EUR
 price: 6.12

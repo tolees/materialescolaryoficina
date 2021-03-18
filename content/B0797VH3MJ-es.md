@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797VH3MJ-es Kit Cuidado Set Barba con Libre Champu Barba Peine Barba...'
 sku: 'B0797VH3MJ-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','tijeras', ]
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

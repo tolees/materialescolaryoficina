@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ATZ4FUC-es Alpino AL000656 - Lápices de colores'
 sku: 'B00ATZ4FUC-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','alpino','lápices', ]
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

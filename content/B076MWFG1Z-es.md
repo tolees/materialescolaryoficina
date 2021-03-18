@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076MWFG1Z-es Posca 153544841 - Pack de 8 rotuladores de pintura al agua...'
 sku: 'B076MWFG1Z-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotuladores', ]
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078W5B5QZ-es 24 bolígrafos para colorear punta de fieltro de 0 4 mm...'
 sku: 'B078W5B5QZ-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafos','colorear','rotuladores', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

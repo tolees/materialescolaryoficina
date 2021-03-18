@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LLMX62-es STAEDTLER FIMO soft ofenhärtende Modelliermasse Kartonetui...'
 sku: 'B000LLMX62-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','fimo', ]
 actualPrice: 20.41 EUR
 currency: EUR
 price: 20.41

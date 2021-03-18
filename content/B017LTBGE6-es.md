@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017LTBGE6-es Boma B47008400013 - Cinta adhesiva para reparación 50 mm x...'
 sku: 'B017LTBGE6-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','adhesiva','cinta', ]
 actualPrice: 8.77 EUR
 currency: EUR
 price: 8.77

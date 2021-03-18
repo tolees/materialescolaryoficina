@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015FM2GWW-es LEGO - Pack de 3 bolígrafos de gel 51513'
 sku: 'B015FM2GWW-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','bolígrafos', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

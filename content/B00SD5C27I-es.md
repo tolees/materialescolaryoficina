@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SD5C27I-es Faber-Castell 32722-8 - Compás de ajuste rápido con...'
 sku: 'B00SD5C27I-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','faber-castell', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SK96GSL-es Vans Realm Mochila Tipo Casual 42 cm 22 Liters Azul...'
 sku: 'B07SK96GSL-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

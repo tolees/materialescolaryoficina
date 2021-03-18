@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083YFN8GH-es Kipling SUPERTABOO - Mochila Supertaboo KI563769O KI563769O'
 sku: 'B083YFN8GH-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','mochila', ]
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

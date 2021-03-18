@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XQ53GD3-es Staedtler 308 S1WP3 - Rotulador color negro'
 sku: 'B06XQ53GD3-es'
-tags: [ 'Adhesivos y selladores','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bricolaje y herramientas','Compuestos de modelado para escultura','Costura y manualidades','Equipaje','Escultura','Ferretería','Hogar y cocina','Mochilas, estuches y sets escolares','Oficina y papelería','Pegamentos instantáneos', ]
+tags: [ 'Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Recambios para bolígrafos y plumas','rotulador', ]
 actualPrice: 3.22 EUR
 currency: EUR
 price: 3.22
