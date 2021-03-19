@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'APLI Labels 105 x 148mm  Blanco  105 mm  al 44.95 % de descuento'
-date: 2021-02-24 22:13:58
+title: 'APLI Labels 105 x 148mm  Blanco  105 mm  al 45.18 % de descuento'
+date: 2021-03-19 04:28:21
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJKGO6-es APLI Labels 105 x 148mm Blanco 105 mm 148 mm 310 x 220 x...'
 sku: 'B000KJKGO6-es'
-actualPrice: 16.57 EUR
+tags: [ 'Etiquetas adhesivas y pegatinas para oficina','Etiquetas multiuso','Etiquetas, separadores y sellos','Material de oficina','Oficina y papelería','apli', ]
+actualPrice: 16.5 EUR
 currency: EUR
-price: 16.57
+price: 16.5
 comparePrice: 30.1 EUR
 prodname: 'APLI Labels 105 x 148mm  Blanco  105 mm  148 mm  310 x 220 x 20 mm'
 country: 'es'
 flag: '🇪🇸'
 brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B000KJKGO6/?tag=tolees-21'
-descuento: '44.95'
-average: '16.5023076923077'
+descuento: '45.18'
+average: '16.5025581395349'
 ---
 
-Está [APLI Labels 105 x 148mm  Blanco  105 mm  148 mm  310 x 220 x 20 mm](https://www.amazon.es/dp/B000KJKGO6/?tag=tolees-21) con 44.95 de descuento por 16.57 EUR (original: 30.1 EUR) en el siguiente enlace!
+Está [APLI Labels 105 x 148mm  Blanco  105 mm  148 mm  310 x 220 x 20 mm](https://www.amazon.es/dp/B000KJKGO6/?tag=tolees-21) con 45.18 de descuento por 16.5 EUR (original: 30.1 EUR) en el siguiente enlace!
 
 [![APLI Labels 105 x 148mm  Blanco  105 mm ](https://m.media-amazon.com/images/I/51KGiHflVmL._SL400_.jpg)](https://www.amazon.es/dp/B000KJKGO6/?tag=tolees-21)
 
 ℹ️:
 
 - Etiquetas por paquete: 400
-- 105 x 148 mm
-- Etiquetas Apli. A4
 - Formato de las etiquetas predefinido en la mayoría de softwares
+- 105 x 148 mm
 - Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
+- Etiquetas Apli. A4
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000KJKGO6/?tag=tolees-21)
