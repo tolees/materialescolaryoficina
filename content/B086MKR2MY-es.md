@@ -28,8 +28,8 @@ Ahora mismo tienes [Xiaomi Mochila City Backpack 2  Light Gray](https://www.amaz
 
 🔎:
 
+- 41.6 x 41 x 8.6 cm; 770 gramos
 - 17 Litros
 - LIGHT GRAY
-- 41.6 x 41 x 8.6 cm; 770 gramos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086MKR2MY/?tag=tolees-21)
