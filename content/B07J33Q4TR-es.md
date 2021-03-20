@@ -29,9 +29,9 @@ Tienes [Moleskine - Cuaderno de Acuarela Clásico  Papel Adecuado para Lápices 
 🔎:
 
 - Cuaderno de bocetos con tapa dura, esquinas redondeadas y cierre elástico clásico
-- Cuaderno de dibujo óptimo para colorear con lápices de acuarela y pinturas
-- Papel acuarela sin ácido de 200 g/m², pasta pigmentada con un 25% de fibra de algodón, idéntica por las dos caras
 - El papel de mezcla de algodón prensado en frío resiste el uso de goma de borrar, puede absorver grandes cantidades de agua en ambos lados de la hoja
+- Papel acuarela sin ácido de 200 g/m², pasta pigmentada con un 25% de fibra de algodón, idéntica por las dos caras
 - Cuaderno tamaño A4 con 60 páginas; dimensiones 21 x 29,7 cm
+- Cuaderno de dibujo óptimo para colorear con lápices de acuarela y pinturas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07J33Q4TR/?tag=tolees-21)
