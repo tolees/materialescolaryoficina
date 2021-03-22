@@ -29,7 +29,7 @@ Tienes [Apli 01285  1 caja de etiquetas autoadhesivas multiusos  44 etiquetas po
 ℹ️:
 
 - Dimensiones (Ancho x Profundidad x Altura): 48.5 x 25.4
-- 1 caja de etiquetas autoadhesivas multiusos, 44 etiquetas por hoja A4
 - 100 hojas
+- 1 caja de etiquetas autoadhesivas multiusos, 44 etiquetas por hoja A4
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KJKGHI/?tag=tolees-21)
