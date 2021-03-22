@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mochila City Backpack 2  Light Gr al 19.98 % de descuento'
-date: 2021-03-20 18:15:14
+date: 2021-03-22 18:54:17
 image: 'https://m.media-amazon.com/images/I/41EsM0VK-XL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B086MKR2MY/?tag=tolees-21'
 descuento: '19.98'
-average: '34.3'
+average: '33.9714285714286'
 ---
 
 Ahora mismo tienes [Xiaomi Mochila City Backpack 2  Light Gray](https://www.amazon.es/dp/B086MKR2MY/?tag=tolees-21) a 32.0 EUR (original: 39.99 EUR) (19.98 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Xiaomi Mochila City Backpack 2  Light Gray](https://www.amaz
 
 🔎:
 
-- 41.6 x 41 x 8.6 cm; 770 gramos
-- 17 Litros
 - LIGHT GRAY
+- 17 Litros
+- 41.6 x 41 x 8.6 cm; 770 gramos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086MKR2MY/?tag=tolees-21)
