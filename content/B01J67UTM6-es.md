@@ -30,8 +30,8 @@ Está [APLI Kids - Caras Juego Magnético  Color Multicolor  14561](https://www.
 
 - Diseño exclusivo APLI Kids con originales y coloridas ilustraciones
 - Apto para niños a partir de 3 años
-- Juego magnético de carácter educativo con personajes para crear diferentes rostros
 - Juego con un alto valor didáctico: fomenta la observación, aumenta la concentración y la atención y genera interés en objetos, animales y personajes que desconocen
 - Cada juego contiene: 1 escenario imantado de 28 x 18 cm para encajar en la base de la caja y 30 fichas para crear caras de personajes
+- Juego magnético de carácter educativo con personajes para crear diferentes rostros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01J67UTM6/?tag=tolees-21)
