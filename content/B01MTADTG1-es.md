@@ -28,11 +28,11 @@ Está [Vanguard Alta Sky 49 - Mochila de Transporte  29x20x48cm  Color Negro](ht
 
 ℹ️:
 
-- Dron action – Compartimento externo para llevar el dron. Seguridad – Doble Sistema de hebillas de seguridad.
-- Multi-acceso rápido – Apertura total por la parte trasera, lateral y superior
-- Ordenada – Con un color brillante en el interior que facilita la búsqueda de los elementos
-- más portátil y/o tablet
 - Versatilidad. 100% personalizable, Experiencia “sin cansancio” – Sistema ergonómico de aire en la espalda, arnés & cinturón
 - Gran capacidad de almacenaje: 1-2 Pro DSLR con objetivo (hasta 300mm f/4), 4-6 objetivos, un flash y accesorios, o un dron con sus respectivos accesorios
+- más portátil y/o tablet
+- Ordenada – Con un color brillante en el interior que facilita la búsqueda de los elementos
+- Multi-acceso rápido – Apertura total por la parte trasera, lateral y superior
+- Dron action – Compartimento externo para llevar el dron. Seguridad – Doble Sistema de hebillas de seguridad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MTADTG1/?tag=tolees-21)
