@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Targus TSB97203GL Mochila SolLite para p al 22.22 % de rebaja'
-date: 2021-03-14 15:24:07
+date: 2021-03-22 19:30:15
 image: 'https://m.media-amazon.com/images/I/41B6ZClCJ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4LQ94J-es Targus TSB97203GL Mochila SolLite para portátiles de 14" -...'
 sku: 'B07T4LQ94J-es'
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila','targus', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Targus'
 buyurl: 'https://www.amazon.es/dp/B07T4LQ94J/?tag=tolees-21'
 descuento: '22.22'
-average: '34.4706666666667'
+average: '34.6431147540984'
 ---
 
 Tienes [Targus TSB97203GL Mochila SolLite para portátiles de 14" - Morado](https://www.amazon.es/dp/B07T4LQ94J/?tag=tolees-21) con precio final de  44.99 EUR (original: 57.84 EUR) (22.22 %  de rebaja) aqui!
@@ -27,9 +28,9 @@ Tienes [Targus TSB97203GL Mochila SolLite para portátiles de 14" - Morado](http
 
 🔎:
 
-- El panel posterior de tejido de malla perforada facilita la ventilación
-- Las asas acolchadas superiores y laterales permiten transportar la mochila como un maletín
 - Correas para el esternón ajustables que ofrecen un mejor apoyo durante los viajes
+- Las asas acolchadas superiores y laterales permiten transportar la mochila como un maletín
+- El panel posterior de tejido de malla perforada facilita la ventilación
 - Correas para el hombro ergonómicas, ajustables y acolchadas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07T4LQ94J/?tag=tolees-21)

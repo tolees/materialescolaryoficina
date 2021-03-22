@@ -29,10 +29,10 @@ Está [Eastpak Padded Pak r Mochila  40 cm  24 L  Sparkly Grey  Gris ](https://w
 ℹ️:
 
 - El compartimento principal dispone de un bolsillo delantero con cremallera
-- Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
-- Confeccionada en 100 % poliéster
 - Correas ajustables para los hombros y panel de la espalda acolchados
 - En nuestra gama de colores Sparkly Grey
+- Confeccionada en 100 % poliéster
 - No se han utilizado materiales de origen animal para fabricar este producto 1 % vegano
+- Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BCS86DW/?tag=tolees-21)
