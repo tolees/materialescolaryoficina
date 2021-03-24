@@ -29,8 +29,8 @@ Ahora mismo tienes [Milan BMM9215 - Pack de 4 gomas de borrar](https://www.amazo
 🔎:
 
 - Brand: MILAN
-- Diseño y funcionalidad
-- Diseno funcional
 - Alta calidad
+- Diseno funcional
+- Diseño y funcionalidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B006T8O2PG/?tag=tolees-21)
