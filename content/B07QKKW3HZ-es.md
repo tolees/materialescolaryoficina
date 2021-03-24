@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Mochila OLD SKOOL III VN0A3I6RY281  con un 48.45 % de descuento'
-date: 2021-03-22 18:33:32
+date: 2021-03-24 06:47:11
 image: 'https://m.media-amazon.com/images/I/41H43YhsEaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B07QKKW3HZ/?tag=tolees-21'
 descuento: '48.45'
-average: '25.5973333333333'
+average: '25.4035483870967'
 ---
 
 En este momento está [Vans Mochila OLD SKOOL III VN0A3I6RY281 Negro](https://www.amazon.es/dp/B07QKKW3HZ/?tag=tolees-21) a 19.59 EUR (original: 38.0 EUR) (48.45 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Vans Mochila OLD SKOOL III VN0A3I6RY281 Negro](https://ww
 
 🔎:
 
+- 100% Polyester
 - Marca: Vans
 - The old school II backpack
-- 100% Polyester
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QKKW3HZ/?tag=tolees-21)
