@@ -28,10 +28,10 @@ Tienes [Vans SS20 Mochila Antigua SKOOL III OS Classic Camo](https://www.amazon.
 
 ℹ️:
 
+- Large zippered main compartment
+- Laptop sleeve that fits most 15" laptops
 - Front zip pocket with organiser for quick access
 - Adjustable padded shoulder straps
 - Capacity: 22l
-- Laptop sleeve that fits most 15" laptops
-- Large zippered main compartment
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QL1L5RV/?tag=tolees-21)
