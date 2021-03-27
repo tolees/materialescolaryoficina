@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.80 % en ECOTISH - Anti-robo Mujer Mochila de Cue'
-date: 2021-03-24 01:34:58
+date: 2021-03-27 14:34:12
 image: 'https://m.media-amazon.com/images/I/51OXMwb0bAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ECOTISH'
 buyurl: 'https://www.amazon.es/dp/B07NTTC9T5/?tag=tolees-21'
 descuento: '15.80'
-average: '18.8146783625731'
+average: '18.7501142857143'
 ---
 
 Tienes [ECOTISH - Anti-robo Mujer Mochila de Cuero de pu mochila de Bolsa de mano Mochilas Casual Bolsa de viaje Messenger Bag Backpack  café ](https://www.amazon.es/dp/B07NTTC9T5/?tag=tolees-21) con un 15.80 % de descuento con precio de oferta de 15.99 EUR (original: 18.99 EUR) en el siguiente enlace!
