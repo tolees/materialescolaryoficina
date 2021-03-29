@@ -30,8 +30,8 @@ Tienes [APLI 13134 - Pack de 100 bolsas de plástico con autocierre  60 x 80 mm]
 
 - Bolsas zip auto cierre transparentes
 - Perfectas para usar en viajes y poder llevar todos los productos que contengan líquidos bien separados
-- Aptas para uso alimenticio
 - Tamaño: 60 x 80 mm
 - Disponen de cierre seguro que, al mismo tiempo, permite la fácil manipulación a la hora de abrir y cerrar
+- Aptas para uso alimenticio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00G6G8UU4/?tag=tolees-21)
