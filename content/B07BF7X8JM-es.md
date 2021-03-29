@@ -28,10 +28,10 @@ En este momento está [XP-Pen Deco 03 Tableta de Dibujo Gráfica con Lápiz Pasi
 
 🔎:
 
-- Deco 03 apoya USB con cable e inalámbrico: simplemente conecte el receptor ISM 2.4G USB incluido en su computadora para dibujar de forma inalámbrica, o conecte Deco 03 a su computadora con el cable USB incluido para el uso con cable estándar.
-- Nuestra P05 lápiz usa una última tecnología y proporciona 8192 niveles de sensibilidad instantánea a la presión de la pluma, brindándole un control innovador y fluidez para expandir su producción creativa. No se necesita cargar!
-- Diseñado para usuarios diestros y zurdos, ahora puede configurarlo en modo de mano izquierda o mano derecha a través de un bóton.
 - ¡Diseñado con un dial rojo multifuncional! Puede girar su parte frontal y lateral. Fácil de controlar sin fricción.
+- Deco 03 apoya USB con cable e inalámbrico: simplemente conecte el receptor ISM 2.4G USB incluido en su computadora para dibujar de forma inalámbrica, o conecte Deco 03 a su computadora con el cable USB incluido para el uso con cable estándar.
+- Diseñado para usuarios diestros y zurdos, ahora puede configurarlo en modo de mano izquierda o mano derecha a través de un bóton.
 - La tableta Deco 03 es grande y brillante, está diseñada para romper el límite entre las teclas táctiles y el área de dibujo. Viene con una película de dibujo completamente adherida, por lo que Deco 03 es duradera y resistente a los arañazos.
+- Nuestra P05 lápiz usa una última tecnología y proporciona 8192 niveles de sensibilidad instantánea a la presión de la pluma, brindándole un control innovador y fluidez para expandir su producción creativa. No se necesita cargar!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BF7X8JM/?tag=tolees-21)
