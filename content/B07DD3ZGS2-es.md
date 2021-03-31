@@ -28,10 +28,10 @@ Ahora mismo tienes [Pritt Barra Adhesiva  pegamento infantil seguro para niños 
 
 🔎:
 
-- Inspira creatividad – Ayuda a los niños a desarrollar su creatividad con nuestro pegamento para manualidades seguro para niños. Apto para múltiples materiales.
-- Envío y detalles – Pritt Barra Adhesiva, pegamento para niños sin disolventes recomendado para papel, cartón, cartulina y fotos, 90% ingredientes naturales, incluida el agua, transparente, 3+1 x 11 g
 - Apto para niños – Con un 90% de ingredientes naturales*, el pegamento Pritt es ideal como material escolar y se puede lavar a baja temperatura si los niños se manchan.
+- Inspira creatividad – Ayuda a los niños a desarrollar su creatividad con nuestro pegamento para manualidades seguro para niños. Apto para múltiples materiales.
 - Alta eficiencia – Por su fórmula baja en agua, este pegamento para papel no deja arrugas. No solo sirve para el estuche infantil: también es práctico para la oficina.
 - Rendimiento único – Gracias a su bajo contenido en agua, este pegamento de barra es muy eficiente y duradero: ideal para manualidades o como pegamento escolar.
+- Envío y detalles – Pritt Barra Adhesiva, pegamento para niños sin disolventes recomendado para papel, cartón, cartulina y fotos, 90% ingredientes naturales, incluida el agua, transparente, 3+1 x 11 g
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DD3ZGS2/?tag=tolees-21)
