@@ -28,8 +28,8 @@ Tienes [APLI Kids - Bolsa de gomets multicolor surtido  6 hojas adhesivo removib
 
 🔎:
 
-- Bolsa de gomets en colores surtidos con diferentes formas geométricas: triángulo, cuadrado y círculo
-- Adhesivo removible
 - Gomets figuras surtidas
+- Adhesivo removible
+- Bolsa de gomets en colores surtidos con diferentes formas geométricas: triángulo, cuadrado y círculo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00W40IF9M/?tag=tolees-21)
