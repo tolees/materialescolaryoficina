@@ -28,8 +28,8 @@ Está [Scotch Cinta Adhesiva Transparente - 10 rollos - 15mm x 33m - Cinta Adhes
 
 ℹ️:
 
-- Incluye 10 unidades
 - Dimensión de una cinta de 15 x 33 mm
 - Asegura una buena adhesión con una ligera presión
+- Incluye 10 unidades
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000KJPAZ6/?tag=tolees-21)
