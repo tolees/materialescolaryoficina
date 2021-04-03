@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kensington K62591EU - Mochila Triple Tre al 23.21 % de descuento'
-date: 2021-03-29 20:45:52
+date: 2021-04-03 08:53:01
 image: 'https://m.media-amazon.com/images/I/41FT3aQu7AL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kensington'
 buyurl: 'https://www.amazon.es/dp/B00BHDX6XM/?tag=tolees-21'
 descuento: '23.21'
-average: '47.5272222222222'
+average: '47.5194736842105'
 ---
 
 Está [Kensington K62591EU - Mochila Triple Trek Optimizada para Ultrabook  Negro  43 cm](https://www.amazon.es/dp/B00BHDX6XM/?tag=tolees-21) con 23.21 de descuento por 47.38 EUR (original: 61.7 EUR) en el siguiente enlace!
