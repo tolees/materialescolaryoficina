@@ -28,10 +28,10 @@ Está [Snazaroo Set de 3 Rotuladores de Maquillaje "Halloween"  color negro  bla
 
 ℹ️:
 
-- Colores incluidos en el set: Negro, blanco, naranja
 - Un nuevo concepto inspirado en la industria cosmética
 - Cada kit contiene 3 rotuladores de colores diferentes
-- ¡Pinta una sonrisa con Snazaroo!
 - Un producto 2 en 1; aplicador y maquillaje, listo para aplicar y fácil de usar
+- Colores incluidos en el set: Negro, blanco, naranja
+- ¡Pinta una sonrisa con Snazaroo!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0795ZHPF1/?tag=tolees-21)

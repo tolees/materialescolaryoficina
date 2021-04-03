@@ -28,10 +28,10 @@ Tienes [APLI Kids 15261 - Magic Plastic Joyas](https://www.amazon.es/dp/B079JQ5T
 
 ℹ️:
 
-- Contiene 3 hojas de plástico mágico con diseños pre-impresos y troquelados, hilos, anillas para colgar los accesorios, 6 lápices de colores y un expositor de joyas en forma de árbol
 - Recomendado para niños a partir de 6 años; usar siempre bajo la supervisión de un adulto
-- Kit para crear pulseras y avalorios con magic plastic
-- El objetivo del juego es colorear y crear abalorios para colgar en pulseras, collares, etc; crea tus accesorios en 3 sencillos pasos: colorea, recorta y hornea 1-2 minutos
 - Es una actividad rápida y sencilla, con un resultado espectacular
+- Contiene 3 hojas de plástico mágico con diseños pre-impresos y troquelados, hilos, anillas para colgar los accesorios, 6 lápices de colores y un expositor de joyas en forma de árbol
+- El objetivo del juego es colorear y crear abalorios para colgar en pulseras, collares, etc; crea tus accesorios en 3 sencillos pasos: colorea, recorta y hornea 1-2 minutos
+- Kit para crear pulseras y avalorios con magic plastic
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079JQ5TDT/?tag=tolees-21)
