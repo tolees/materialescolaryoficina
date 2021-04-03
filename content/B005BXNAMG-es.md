@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 22.17 % en Pentel Arts PHN-50U - Pack de 50 pastele'
-date: 2021-04-02 09:25:54
+date: 2021-04-03 10:22:39
 image: 'https://m.media-amazon.com/images/I/51wN6-pSJWL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.es/dp/B005BXNAMG/?tag=tolees-21'
 descuento: '22.17'
-average: '8.625'
+average: '8.60666666666667'
 ---
 
 Tienes [Pentel Arts PHN-50U - Pack de 50 pasteles de aceite  multicolor](https://www.amazon.es/dp/B005BXNAMG/?tag=tolees-21) con un 22.17 % de descuento con precio de oferta de 8.46 EUR (original: 10.87 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [Pentel Arts PHN-50U - Pack de 50 pasteles de aceite  multicolor](https:/
 
 ℹ️:
 
-- No se decoloran con la luz
 - Blandos y cremosos
 - Caja de 50 colores varios
 - De secado lento
+- No se decoloran con la luz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005BXNAMG/?tag=tolees-21)
