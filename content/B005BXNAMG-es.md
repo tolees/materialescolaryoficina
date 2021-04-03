@@ -28,9 +28,9 @@ Tienes [Pentel Arts PHN-50U - Pack de 50 pasteles de aceite  multicolor](https:/
 
 ℹ️:
 
-- Blandos y cremosos
-- Caja de 50 colores varios
-- De secado lento
 - No se decoloran con la luz
+- Caja de 50 colores varios
+- Blandos y cremosos
+- De secado lento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005BXNAMG/?tag=tolees-21)
