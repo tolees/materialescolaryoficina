@@ -28,8 +28,8 @@ Tienes [Cerdá - MOCHILA INFANTIL 3D STAR WARS DARTH VADER](https://www.amazon.e
 
 🔎:
 
-- Producto de alta calidad
 - Tamaño de 26x31x10cm
 - Producto licencia oficial
+- Producto de alta calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JFW2X4J/?tag=tolees-21)
