@@ -28,8 +28,8 @@ Está [Parker IM - Bolígrafo Roller  Punto fino  color Negro  Black Lacquer Chr
 
 ℹ️:
 
-- Este bolígrafo roller, que constituye un regalo asequible pero sofisticado, se presenta en un estuche PARKER con un recambio de tinta negra
 - El acabado lacado en negro brillante se complementa con un llamativo adorno cromado y el emblemático clip PARKER con forma de flecha
+- Este bolígrafo roller, que constituye un regalo asequible pero sofisticado, se presenta en un estuche PARKER con un recambio de tinta negra
 - La punta del roller permite que la tinta fluya sobre el papel de forma suave, homogénea y sin esfuerzo.
 - Su forma cómoda y ergonómica se combina con el trabajo artesanal de PARKER para evocar la rica tradición de la marca
 - Los diseños elegantes, refinados y de eficacia probada se combinan con una silueta moderna y cónica
