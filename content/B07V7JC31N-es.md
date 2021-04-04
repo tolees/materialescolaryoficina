@@ -29,9 +29,9 @@ Está [safta - Real Sporting de Gijón Mochila Juvenilpara Portátil  Naranja 14
 ℹ️:
 
 - Bolsillo interior par ipad; bolsillo interior para móvil; bolsillo interior para ordenador portátil de 10,6 y 14,1 pulgadas
-- Safta real sporting de gijón oficial mochila con compartimento especial de ordenador portátil de hasta 14,1 pulgadas; ideal desde los 14 años. 2 años de garantía
-- Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar
 - Bolsillo frontal con cremallera; tiradores en los cursores para fácil itar su apertura; doble tirador en cremallera principal; asa de mano reforzada en la parte superior; bolsillo exterior trasero con cremallera
 - Espalda y hombreras acolchadas, ergonómicas, cómodas y ajustables; rejilla acolchada anti-sudor
+- Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar
+- Safta real sporting de gijón oficial mochila con compartimento especial de ordenador portátil de hasta 14,1 pulgadas; ideal desde los 14 años. 2 años de garantía
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V7JC31N/?tag=tolees-21)
