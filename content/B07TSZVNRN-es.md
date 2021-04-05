@@ -28,10 +28,10 @@ Ahora mismo tienes [K&F Concept Mochila Fotográfica  Mochila de Fotografía par
 
 🔎:
 
-- 【Diseño DIY】Máx. con 2 cámaras, 4 objetivos cortos y 1 largo, 1 flash, 2 ipad y 1 portátil 15" por los divisores personalizados acolchados internos para protectores se pueden desplazar y colocar de la manera más conveniente que se necesite en cada momento para adaptarse al equipo.
-- 【Diseño seguro】 El logo “K&F Concept” tiene las funciones de reflejan los rayos luminosos, lo que ayudar mejorar el seguro cuando está trabajando en noche. El fondo de la mochila es de cuero impermeable para proteger el equipo fotografico caro.
 - 【Diseño impermeable】La mochila fotografica está hecha con nylon resistente y impermeable.
-- 【Diseño versátil】La mochila fotografia se sirve como mochila viaje, mochila casual y mochila estudio. La medida largo/ancho/algo de 11" * 6" * 17"(28*15*43cm) y el peso 0.9kg, lo que permite llevar la mochila a avión.
 - 【Diseño de viaje】 Puede fijarla con la maleta de barra de tiro para anumentar la comodidad. Ademas, las correas de hombro estan acolchadas y la parte trasera, que toca la espalda, lo que mejora la circulación del aire y mejora la sensación confortable.
+- 【Diseño seguro】 El logo “K&F Concept” tiene las funciones de reflejan los rayos luminosos, lo que ayudar mejorar el seguro cuando está trabajando en noche. El fondo de la mochila es de cuero impermeable para proteger el equipo fotografico caro.
+- 【Diseño versátil】La mochila fotografia se sirve como mochila viaje, mochila casual y mochila estudio. La medida largo/ancho/algo de 11" * 6" * 17"(28*15*43cm) y el peso 0.9kg, lo que permite llevar la mochila a avión.
+- 【Diseño DIY】Máx. con 2 cámaras, 4 objetivos cortos y 1 largo, 1 flash, 2 ipad y 1 portátil 15" por los divisores personalizados acolchados internos para protectores se pueden desplazar y colocar de la manera más conveniente que se necesite en cada momento para adaptarse al equipo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TSZVNRN/?tag=tolees-21)

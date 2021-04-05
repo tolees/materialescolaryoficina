@@ -28,10 +28,10 @@ Está [Milan BWM10393 - Bolígrafo](https://www.amazon.es/dp/B07GVQYMB6/?tag=tol
 
 ℹ️:
 
-- Diseño original creado por el departamento de I+D de MILAN.
-- Longitud de escritura aproximada de 1.000 metros. Punta 1 mm.
 - Cuerpo del bolígrafo en color negro
 - Medidas bolígrafo: 13,4 x 1,6 cm. 1,4 cm .
+- Diseño original creado por el departamento de I+D de MILAN.
+- Longitud de escritura aproximada de 1.000 metros. Punta 1 mm.
 - Tinta fabricada en Alemania, color de tinta: azul. Pulsador con retorno.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GVQYMB6/?tag=tolees-21)

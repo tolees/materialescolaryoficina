@@ -28,10 +28,10 @@ En este momento está [Safta Neceser Escolar Infantil Mediano con Asa de Mickey 
 
 🔎:
 
-- Safta mickey clubhouse oficial neceser con asa y cremallera para uso diario.
-- Medidas: ancho 260mm. Largo 120mm. Alto 150mm. Capacidad 5l. Peso 0,13kg
 - Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar
+- Safta mickey clubhouse oficial neceser con asa y cremallera para uso diario.
 - Ideal para niños, adultos y adolescentes; perfecta para el uso escolar, trabajo o viajes
+- Medidas: ancho 260mm. Largo 120mm. Alto 150mm. Capacidad 5l. Peso 0,13kg
 - Tirador en el cursor para fácil itar su apertura; costuras reforzadas; asa de mano en el lateral; adaptable a carro porta mochilas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083V6TY3X/?tag=tolees-21)
