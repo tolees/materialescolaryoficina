@@ -28,8 +28,8 @@ Está [Burton Treble Yell Mochila  Unisex Adulto  Negro  Negro   Talla única](h
 
 ℹ️:
 
-- Bolsas y mochilas
 - Daypacks
+- Bolsas y mochilas
 - Asas de hombros ergonómicas y acolchadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0731DWWHH/?tag=tolees-21)
