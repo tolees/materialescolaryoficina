@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hurley U Fast Lane Backpack Mochila  Hom con un 20.71 % de descuento'
-date: 2021-04-04 16:55:43
+date: 2021-04-05 22:06:05
 image: 'https://m.media-amazon.com/images/I/31YTVOVuHdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hurley'
 buyurl: 'https://www.amazon.es/dp/B07ZSB3JSN/?tag=tolees-21'
 descuento: '20.71'
-average: '13.124'
+average: '12.9436363636364'
 ---
 
 En este momento está [Hurley U Fast Lane Backpack Mochila  Hombre  Black  1SIZE](https://www.amazon.es/dp/B07ZSB3JSN/?tag=tolees-21) a 11.14 EUR (original: 14.05 EUR) (20.71 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Hurley U Fast Lane Backpack Mochila  Hombre  Black  1SIZE
 
 🔎:
 
+- Capacidad: 26 L
 - Bolsillos laterales de malla para tus botellas de agua.
 - Cinta regulable y extraíble en el esternón para evitar el deslizamiento.
 - Dimensiones: 56 x 25 x 30 cm (alto x ancho x profundidad)
 - Compartimento para el portátil grande y funda independiente con forro de tejido Fleece.
-- Capacidad: 26 L
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZSB3JSN/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [Jovi 71 - Plastilina  15 unidades  colores surtidos  150 
 🔎:
 
 - Muy moldeable
-- No se endurece al aire y se pueden mezclar colores
 - Colores surtidos
 - Pasta de modelar, masa que no se endurece y es de carga vegetal
+- No se endurece al aire y se pueden mezclar colores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001AS5T8Y/?tag=tolees-21)
