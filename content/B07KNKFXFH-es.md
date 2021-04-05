@@ -29,9 +29,9 @@ Ahora mismo tienes [El Potro Pipe Mochila para Portátil 13 3" Negro 26x35x10 cm
 🔎:
 
 - Compartimento principal con espacio específico para un ordenador de hasta 13, 3 pulgadas
-- Espalda reforzada con tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda para ofrecer el mayor confort y posibilidad de adaptarla a la maleta cuando viajes con su banda trasera
+- De Joumma Bags
 - Bolsillo frontal con organizador interior para guardar el móvil, las tarjetas y algunos bolígrafos
 - Mochila para portátil de 26 cm x 35 cm x 10 cm fabricada en Poliéster con detalles en Piel Sintética
-- De Joumma Bags
+- Espalda reforzada con tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda para ofrecer el mayor confort y posibilidad de adaptarla a la maleta cuando viajes con su banda trasera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KNKFXFH/?tag=tolees-21)
