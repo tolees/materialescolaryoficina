@@ -30,7 +30,7 @@ Está [APLI Kids - Pack de 4 Rollo de gomets tamaño XL  colores azul  rojo  ama
 
 - Los gomets son triángulos, círculo, cuadrado y rectángulo de colores rojo, azul verde y amarillo
 - Gomets pensados para motivar a los más pequeños, fácil de cortar
-- Adecuados para crear figuras
 - Contiene 4 rollos de 5428 gomets
+- Adecuados para crear figuras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001ANZUEC/?tag=tolees-21)
