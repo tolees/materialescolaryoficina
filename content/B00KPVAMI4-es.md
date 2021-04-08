@@ -28,10 +28,10 @@ Tienes [Staedtler 42335MPB8 - Pack de 8 bolígrafos  ball  multicolor  medio](ht
 
 🔎:
 
-- Airplane safe - equilibrio automático de la presión de la tinta para evitar pérdidas durante el vuelo.
-- Ancho de línea de 0,5 mm. Perfectos para escribir, delinear y dibujar, con tinta de secado rápido.
-- Cuerpo transparente, con punta, capuchón y puntera del mismo color que la tinta, para una mejor identificación.
 - Diseño triangular ergonómico para una escritura suave y relajada. La punta de bola permite unos trazos fáciles y fluidos.
 - Tinta indeleble según ISO 12757-2, que garantiza una legibilidad duradera de los escritos (a excepción de la tinta de color rojo).
+- Airplane safe - equilibrio automático de la presión de la tinta para evitar pérdidas durante el vuelo.
+- Cuerpo transparente, con punta, capuchón y puntera del mismo color que la tinta, para una mejor identificación.
+- Ancho de línea de 0,5 mm. Perfectos para escribir, delinear y dibujar, con tinta de secado rápido.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00KPVAMI4/?tag=tolees-21)
