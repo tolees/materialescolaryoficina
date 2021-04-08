@@ -29,9 +29,9 @@ Ahora mismo tienes [U UZOPI - Rotuladores Lettering - Rotuladores Punta Fina 36 
 🔎:
 
 - 🎨【ALTA CALIDAD】Beneficio a que estas puntas están hechas de fibra de nailon de alta calidad, los trazos de pincel son más suaves que otros ordinarios, es la mejor opción para profesionales y aficionados a la pintura.
+- 🎨【100% SEGURO】Tinta a base de agua duradera, de secado rápido, ligera, mezclable, no tóxica, sin ácido e insípida, es 100% seguro para usted o sus hijos durante su uso.
+- 🎨【EMBALAJE PORTÁTIL】Un duradero embalaje de plástico con un broche plegable que se puede colocar fácilmente en una mochila, tambien sea fácil de transportar.
 - 🎨【MEJORES REGALOS PARA LOS AMANTES DE PINTURA】Sería un ideal regalo de cumpleaños, la Navidad o la festival para los niños, los estudiantes y al otro que le gustan los colores.
 - 🎨【DOBLE PUNTA】La punta de pincel de 1-6 mm para colorear en áreas grandes, La punta delgada de 0,4 mm puede delinear fácilmente el contorno. Estos bolígrafos de colores son esenciales para una pintura excelente.
-- 🎨【EMBALAJE PORTÁTIL】Un duradero embalaje de plástico con un broche plegable que se puede colocar fácilmente en una mochila, tambien sea fácil de transportar.
-- 🎨【100% SEGURO】Tinta a base de agua duradera, de secado rápido, ligera, mezclable, no tóxica, sin ácido e insípida, es 100% seguro para usted o sus hijos durante su uso.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083FQ4R2P/?tag=tolees-21)
