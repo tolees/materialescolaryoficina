@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Burton Treble Yell Mochila  Unisex Adult al 60.00 % de descuento'
-date: 2021-03-18 09:54:47
+date: 2021-04-09 06:45:55
 image: 'https://m.media-amazon.com/images/I/31eamM3fhvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Burton'
 buyurl: 'https://www.amazon.es/dp/B0731DWWHH/?tag=tolees-21'
 descuento: '60.00'
-average: '28.805'
+average: '26.5366666666667'
 ---
 
 Está [Burton Treble Yell Mochila  Unisex Adulto  Negro  Negro   Talla única](https://www.amazon.es/dp/B0731DWWHH/?tag=tolees-21) con 60.00 de descuento por 22.0 EUR (original: 55.0 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [Burton Treble Yell Mochila  Unisex Adulto  Negro  Negro   Talla única](h
 ℹ️:
 
 - Asas de hombros ergonómicas y acolchadas
-- Daypacks
 - Bolsas y mochilas
+- Daypacks
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0731DWWHH/?tag=tolees-21)

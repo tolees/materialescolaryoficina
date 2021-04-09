@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak Padded Pak R Mochila  40 Cm  24  al 26.02 % de descuento'
-date: 2021-04-07 10:08:42
+date: 2021-04-09 05:09:43
 image: 'https://m.media-amazon.com/images/I/31m61B7RjOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EASTPAK'
 buyurl: 'https://www.amazon.es/dp/B000CRBEJ2/?tag=tolees-21'
 descuento: '26.02'
-average: '30.8942857142857'
+average: '31.3006666666667'
 ---
 
 Ahora mismo tienes [Eastpak Padded Pak R Mochila  40 Cm  24 L  Negro  Black ](https://www.amazon.es/dp/B000CRBEJ2/?tag=tolees-21) a 36.99 EUR (original: 50.0 EUR) (26.02 %  de descuento) en el siguiente enlace!
