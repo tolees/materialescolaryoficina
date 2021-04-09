@@ -28,8 +28,8 @@ En este momento está [Polly Pocket Mochila Paruqe de Diversiones  mochila con m
 
 🔎:
 
+- ¡Tan pequeña y tan grande! Con Polly Pocket, las niñas vivirán divertidas aventuras mientras aprenden que lo pequeño puede ser muy grande. Los juguetes de Polly Pocket estimulan el juego de imaginar historias y son perfectos para llevárselos a todas partes.
 - Desde 4 años
 - Polly Pocket Mochila Paruqe de Diversiones, mochila con muñeca y accesoris (Mattel GYK91)
-- ¡Tan pequeña y tan grande! Con Polly Pocket, las niñas vivirán divertidas aventuras mientras aprenden que lo pequeño puede ser muy grande. Los juguetes de Polly Pocket estimulan el juego de imaginar historias y son perfectos para llevárselos a todas partes.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CY3QT8M/?tag=tolees-21)
