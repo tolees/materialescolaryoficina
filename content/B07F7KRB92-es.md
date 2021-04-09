@@ -28,8 +28,8 @@ Ahora mismo tienes [Ellesse Regent Backpack Mochila  Unisex Adulto  nvy/Nvymar  
 
 🔎:
 
+- Tejido de poliéster
 - Cierre de cremallera en ambos compartimientos
 - Asas ajustables
-- Tejido de poliéster
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F7KRB92/?tag=tolees-21)
