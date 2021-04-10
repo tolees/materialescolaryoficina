@@ -28,10 +28,10 @@ Está [BURNNOVE Máquina de pirograbado Kit de quema de madera 60W 220V con 0 °
 
 ℹ️:
 
+- Máquina de pirograbado: kit de quema de madera de 60 W, 220 V, respuesta rápida al calor, se puede usar en cuero, madera, bambú y otros materiales, también puede ser un regalo para las personas interesadas en el artista de la madera.
+- 30 cabezas de bolígrafo: nuestro kit de pirograbado para leña está equipado con 30 cabezas de bolígrafo diferentes, puede hacer líneas, formas y sombras precisas en varios materiales.
+- Múltiples accesorios: una caja de almacenamiento, un destornillador, esponjas de limpieza, un estante. Puede colocar todas las puntas de los cables en la caja en caso de que las pierda, y el destornillador ayuda a instalar las puntas de los cables.
 - Temperatura ajustable y pantalla digital: rango de temperatura de 0 ° C a 750 ° C, puede ajustar la temperatura con precisión a través del termostato y la pantalla digital.
 - Material duradero: nuestro kit de quema de madera está hecho de material duradero, el bolígrafo de pirograbado es liviano y fácil de agarrar, muy adecuado para principiantes.
-- 30 cabezas de bolígrafo: nuestro kit de pirograbado para leña está equipado con 30 cabezas de bolígrafo diferentes, puede hacer líneas, formas y sombras precisas en varios materiales.
-- Máquina de pirograbado: kit de quema de madera de 60 W, 220 V, respuesta rápida al calor, se puede usar en cuero, madera, bambú y otros materiales, también puede ser un regalo para las personas interesadas en el artista de la madera.
-- Múltiples accesorios: una caja de almacenamiento, un destornillador, esponjas de limpieza, un estante. Puede colocar todas las puntas de los cables en la caja en caso de que las pierda, y el destornillador ayuda a instalar las puntas de los cables.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R581GCR/?tag=tolees-21)
