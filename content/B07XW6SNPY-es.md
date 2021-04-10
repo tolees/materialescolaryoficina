@@ -28,9 +28,9 @@ Está [Moleskine - Cuaderno Edición Limitada Harry Potter  Cuaderno con Hojas d
 
 ℹ️:
 
-- El paquete incluye un cuaderno Moleskine Edición Limitada de Harry Potter - El Fénix, con hojas de rayas y tapa dura, disponible en tamaño grande 13 x 21 cm, 240 páginas, color azul
-- Cada cuaderno refleja elementos de la saga Harry Potter: el Sombrero seleccionador, el Ford Anglia volador, el Encantamiento Patronus, el Dragón, el Fénix, el Quidditch y las Reliquias de la Muerte
 - Cuaderno con hojas de rayas, esquinas redondeadas, papel marfil de 70 g/m² sin ácido y un diseños gráficos temáticos en el interior y al final del cuaderno
+- Cada cuaderno refleja elementos de la saga Harry Potter: el Sombrero seleccionador, el Ford Anglia volador, el Encantamiento Patronus, el Dragón, el Fénix, el Quidditch y las Reliquias de la Muerte
+- El paquete incluye un cuaderno Moleskine Edición Limitada de Harry Potter - El Fénix, con hojas de rayas y tapa dura, disponible en tamaño grande 13 x 21 cm, 240 páginas, color azul
 - Este cuaderno tiene una tapa dura con gráficos y detalles temáticos de Harry Potter, esquinas redondeadas, cierre elástico y cinta marcapáginas para no perder nunca las página
 - Entra en el mágico mundo de Harry Potter y colecciona los siete cuadernos temáticos de edición limitada y el cuaderno en caja de coleccionista (sólo 9.999 ejemplares disponibles)
 
