@@ -28,10 +28,10 @@ En este momento está [G LAXIA Pistola de Silicona Profesionales 100 W Pistola d
 
 🔎:
 
-- Especialmente diseñado: Tiene una luz LED para señalizar el encendido y un soporte metálico para apoyarla en posición vertical;Su diseño ergonómico y los elementos internos de PTC mejoran el aislamiento y la hacen muy cómoda;Es ligera, funcional y segura
-- Diseño Científico: Se calienta en menos de cinco minutos y mantiene la temperatura adecuada de forma constante; Lleva un fusible incorporado que evita el sobrecalentamiento y dispone de 100W de potencia; El gatillo es suave, por lo que no tendrás que hacer fuerza para sacar la silicona
-- Aspectos Aplicables: Se trata de una pistola ideal para proyectos de manualidades. También funciona perfectamente en trabajos ligeros de bricolaje en casa, como encolar cerámica, madera o cristal;Con su ajuste de temperatura podrás hacer lo que quieras
 - Pistola de Pegamento 100W: La pistola tiene 9 temperaturas y es especialmente adecuada para trabajos de precisión;También se puede ajustar su temperatura para tareas más complicadas y cuenta con una punta de precisión con control de goteo que ayudará a que no se derrame nada de cola
+- Diseño Científico: Se calienta en menos de cinco minutos y mantiene la temperatura adecuada de forma constante; Lleva un fusible incorporado que evita el sobrecalentamiento y dispone de 100W de potencia; El gatillo es suave, por lo que no tendrás que hacer fuerza para sacar la silicona
+- Especialmente diseñado: Tiene una luz LED para señalizar el encendido y un soporte metálico para apoyarla en posición vertical;Su diseño ergonómico y los elementos internos de PTC mejoran el aislamiento y la hacen muy cómoda;Es ligera, funcional y segura
+- Aspectos Aplicables: Se trata de una pistola ideal para proyectos de manualidades. También funciona perfectamente en trabajos ligeros de bricolaje en casa, como encolar cerámica, madera o cristal;Con su ajuste de temperatura podrás hacer lo que quieras
 - Calentamiento Potente y Rápido: La pistola de encolado G LAXIA con termistor PTC incorporado, se calienta en 1-3 minutos, se mantiene en 220 grados continuos, no tiene que esperar a otro precalentamiento mientras se realizan reparaciones complicadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QPQS458/?tag=tolees-21)
