@@ -28,8 +28,8 @@ Está [Rains Backpack Mini  Mochila Unisex Adultos  Negro  Black   28.9x39.0x9.0
 
 ℹ️:
 
+- Dimensiones 40 cm x 28 cm x 9 cm - volumen 10 litros
 - Más accesorios exclusivos en nuestra tienda Amazon
 - Resistente al agua - Compartimiento para portátiles de 13- Compartimento para móvil
-- Dimensiones 40 cm x 28 cm x 9 cm - volumen 10 litros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01G81BEIQ/?tag=tolees-21)
