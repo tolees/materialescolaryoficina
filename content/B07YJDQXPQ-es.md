@@ -28,10 +28,10 @@ Ahora mismo tienes [Filamento PETG Transparente Red 1.75 mm  Filamento ERYONE PE
 
 🔎:
 
-- 5.Sweet warm tips: Pls print a temp tower first to find out the best temp setting before print the bigger size printing.
-- 3.Very good winding: Make the model looks shiny, no risk that the filament is entangled;
-- 2.High quality: diameter 1.75mm +/- 0.03mm;
 - 4.Very widely using:Acid and alkali resistance,can use very widely
+- 3.Very good winding: Make the model looks shiny, no risk that the filament is entangled;
 - 1.Operating temperature range: 200-250° C
+- 2.High quality: diameter 1.75mm +/- 0.03mm;
+- 5.Sweet warm tips: Pls print a temp tower first to find out the best temp setting before print the bigger size printing.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YJDQXPQ/?tag=tolees-21)
