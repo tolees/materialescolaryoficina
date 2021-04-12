@@ -28,7 +28,7 @@ Ahora mismo tienes [Pritt Stick - Barra de adhesivo  22 g  Varios Colores y empa
 
 🔎:
 
-- Empaque puede variar
 - Tipo de producto: barra de adhesivo
+- Empaque puede variar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00J2GB7XC/?tag=tolees-21)
