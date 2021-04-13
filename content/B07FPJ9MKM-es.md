@@ -28,9 +28,9 @@ Tienes [Real Madrid CF Bolsa de Deporte  Mochila con zapatillero Equipaje para n
 
 🔎:
 
+- Medidas: 35 x 24 x 50 cm
+- 2 años de DELETE
 - Hombreras y espalda ergonómicas y acolchadas, bolsillo frontal con cremallera de gran formato, doble tirador en cremalleras principales para facilitar su apertura, asa de mano en la parte superior
 - Compartimento semirígido inferior con cremallera, bolsillo lateral portabotellas, bolsillo lateral con cremallera
-- 2 años de DELETE
-- Medidas: 35 x 24 x 50 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FPJ9MKM/?tag=tolees-21)
