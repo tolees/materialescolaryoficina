@@ -28,10 +28,10 @@ Tienes [Moleskine - Set de Escritura con Cuaderno y Bolígrafo Classic Plus  Cua
 
 🔎:
 
-- Con un diseño minimalista y una forma rectangular, este bolígrafo está fabricado en plástico ABS satinado y clip de acero pulido gris
-- Cuaderno Clásico de tapa dura - color azul zafiro, 240 páginas de rayas
 - Incluye el Classic Black Striped Notebook de Moleskine, con tapa dura y formato grande de 13 x 21 cm y el bolígrafo Roller Gel Plus con tinta negra recargable
-- Kit completo de escritura con bolígrafo Roller Gel Plus y cuaderno para notas de trabajo y estudio, para marcar notas importantes y cosas que hacer
 - El bolígrafo de tinta negra está equipado con un sistema de recarga
+- Cuaderno Clásico de tapa dura - color azul zafiro, 240 páginas de rayas
+- Kit completo de escritura con bolígrafo Roller Gel Plus y cuaderno para notas de trabajo y estudio, para marcar notas importantes y cosas que hacer
+- Con un diseño minimalista y una forma rectangular, este bolígrafo está fabricado en plástico ABS satinado y clip de acero pulido gris
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079ZSVNZJ/?tag=tolees-21)
