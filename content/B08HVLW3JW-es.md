@@ -28,10 +28,10 @@ En este momento está [BIC Cristal Original Bolígrafos Punta Media  1.0 mm  - 
 
 🔎:
 
-- Vigila el nivel de tinta a través del cuerpo transparente de este bolígrafo y dale a todos un artículo de escritura moderno y elegante
-- Y la caja especial de fácil acceso hace que estos bolígrafos se mantengan separados para seguir las medidas higiénicas de seguridad
-- Este bolígrafo negro tiene una punta media de 1.0 mm y se desliza sobre el papel con total fluidez para que tomar notas sea facilísimo
 - Ten siempre a mano un bolígrafo a la hora de hacer negocios con esta caja de 150 bolígrafos BIC Cristal Original
 - Este bolígrafo ligero y fácil de usar presenta duración puesto que su tinta puede escribir hasta 3 km
+- Vigila el nivel de tinta a través del cuerpo transparente de este bolígrafo y dale a todos un artículo de escritura moderno y elegante
+- Este bolígrafo negro tiene una punta media de 1.0 mm y se desliza sobre el papel con total fluidez para que tomar notas sea facilísimo
+- Y la caja especial de fácil acceso hace que estos bolígrafos se mantengan separados para seguir las medidas higiénicas de seguridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HVLW3JW/?tag=tolees-21)
