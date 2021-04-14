@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Case Logic Bryker - Mochila  15.6"  Colo al 28.00 % de descuento'
-date: 2021-04-09 19:45:25
-image: 'https://m.media-amazon.com/images/I/51fN1uCeawL._SL400_.jpg'
+date: 2021-04-14 22:30:41
+image: 'https://m.media-amazon.com/images/I/51fN1uCeawL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,17 +19,17 @@ flag: '🇪🇸'
 brand: 'Case Logic'
 buyurl: 'https://www.amazon.es/dp/B01N7OW91Z/?tag=tolees-21'
 descuento: '28.00'
-average: '53.9341379310346'
+average: '54.2960000000001'
 ---
 
 Está [Case Logic Bryker - Mochila  15.6"  Color Negro](https://www.amazon.es/dp/B01N7OW91Z/?tag=tolees-21) con 28.00 de descuento por 64.79 EUR (original: 89.99 EUR) en el siguiente enlace!
 
-[![Case Logic Bryker - Mochila  15.6"  Colo](https://m.media-amazon.com/images/I/51fN1uCeawL._SL400_.jpg)](https://www.amazon.es/dp/B01N7OW91Z/?tag=tolees-21)
+[![Case Logic Bryker - Mochila  15.6"  Colo](https://m.media-amazon.com/images/I/51fN1uCeawL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01N7OW91Z/?tag=tolees-21)
 
 ℹ️:
 
-- Cremalleras duraderas
-- Materiales de calidad
 - Espacio para portátil y tablet
+- Materiales de calidad
+- Cremalleras duraderas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N7OW91Z/?tag=tolees-21)
