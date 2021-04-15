@@ -28,10 +28,10 @@ En este momento está [XP-Pen Deco 01 Tableta Gráfica de Dibujo con Lápiz Digi
 
 🔎:
 
+- El botón de un solo clic le permite cambiar entre el lápiz y el goma de borrar al instante.
+- Hemos adoptado el IC de la última tecnología para hacer que las líneas fluyan de forma más suave y tengan un mejor rendimiento.
 - Tiene un diseño de entrada tipo-C, fácil de conectar.
 - 8 Teclas rápidas totalmente personalizables crean un diseño altamente ergonómico y un plataforma de trabajo muy conveniente.
 - Diseñado para los usuarios diestros y zurdos, ahora puede configurarlo en el modo de mano izquierda o mano derecha a través de un fácil acceso.
-- Hemos adoptado el IC de la última tecnología para hacer que las líneas fluyan de forma más suave y tengan un mejor rendimiento.
-- El botón de un solo clic le permite cambiar entre el lápiz y el goma de borrar al instante.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077W5SZD3/?tag=tolees-21)
