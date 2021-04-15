@@ -28,10 +28,10 @@ Tienes [XP-PEN Star03 V2 12” Tableta Gráfica Dibujo con 8192 Niveles de Presi
 
 🔎:
 
-- ✤8192 SENSIBILIDAD DE PRESIÓN✤ La sensibilidad a la presión del lápiz de 8192 niveles le permite crear variaciones en el ancho de línea de opacidad; adecuado tanto para uso con la mano derecha como con la izquierda; La función de alternar con un clic entre el lápiz / borrador mejora la eficiencia de su pintura.
-- ✤8 ACCESOS DIRECTOS PERSONALIZABLES✤ (Funciones: mejorar / debilitar el pincel, acercar / alejar, cancelar, herramienta de mano, herramienta de pincel, borrar) que también podrían usarse como teclas de acceso rápido, le permite mejorar la experiencia del dibujo.
 - ✤MUY ASEQUIBLE✤ Trajes para la mayoría de las personas; fácil de instalar y compatible con la mayoría de los sistemas informáticos y software como Windows 10/8/7, Mac OS 10.10.xo superior y Chrome OS; compatible con todas las principales aplicaciones gráficas como Photo-shop, Painter, Adobe, etc.
-- ✤LA EXPERIENCIA DE DIBUJO MÁS CÓMODA✤ No hace falta cargarse el lápiz; con la área de trabajo de 10x6 ", todo esto te hace sentir como si estuvieras dibujando con un bolígrafo real en un papel real.
 - ✤FUNCIÓN DE ESCRITURA A MANO Y GARANTÍA DEL PRODCUTO✤ Anotaciones de Microsoft Word, Pen Commander, Auto Pen Signer, etc., ahorrando su tiempo de una manera elegante. XP-PEN ofrece garantía de un año y soporte técnico de por vida para todas nuestras tabletas / pantallas de lápiz
+- ✤8 ACCESOS DIRECTOS PERSONALIZABLES✤ (Funciones: mejorar / debilitar el pincel, acercar / alejar, cancelar, herramienta de mano, herramienta de pincel, borrar) que también podrían usarse como teclas de acceso rápido, le permite mejorar la experiencia del dibujo.
+- ✤LA EXPERIENCIA DE DIBUJO MÁS CÓMODA✤ No hace falta cargarse el lápiz; con la área de trabajo de 10x6 ", todo esto te hace sentir como si estuvieras dibujando con un bolígrafo real en un papel real.
+- ✤8192 SENSIBILIDAD DE PRESIÓN✤ La sensibilidad a la presión del lápiz de 8192 niveles le permite crear variaciones en el ancho de línea de opacidad; adecuado tanto para uso con la mano derecha como con la izquierda; La función de alternar con un clic entre el lápiz / borrador mejora la eficiencia de su pintura.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01ET9EQXE/?tag=tolees-21)
