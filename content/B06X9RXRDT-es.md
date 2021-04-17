@@ -28,10 +28,10 @@ Tienes [Jovi- Caja 6 tizas súpergruesas Suelo  Multicolor  unica  1030    color
 
 🔎:
 
-- Adecuadas para escribir, dibujar y pintar en el suelo y en la pizarra
-- Tizas redondas tamaño maxi; 100 milímetros X 20 milímetros
 - Anti polvo
 - 6 unidades
+- Tizas redondas tamaño maxi; 100 milímetros X 20 milímetros
 - Tizas de color violeta, azul, verde, amarillo, naranja y rosa
+- Adecuadas para escribir, dibujar y pintar en el suelo y en la pizarra
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06X9RXRDT/?tag=tolees-21)
