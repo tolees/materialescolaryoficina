@@ -28,10 +28,10 @@ Tienes [Moleskine  Cuaderno Dragon Ball  Tema ChiChi  Edición Limitada  Hojas P
 
 🔎:
 
-- Este cuaderno de Dragon Ball tiene una tapa dura con gráficos y detalles temáticos, esquinas redondeadas, cierre elástico y marcador de cinta
 - Complemento especial: 1 hoja de pegatinas temáticas de Dragon Ball
+- Adéntrate en el mundo de Dragon Ball para buscar las 7 Bolas del Dragón y coleccionar los 4 cuadernos de edición limitada de Moleskine
 - Tamaño grande 13 x 21 cm, 240 páginas - Blanco - Tema Chichi
 - Cuaderno punteado - papel de color marfil sin ácido de 70 g/m2
-- Adéntrate en el mundo de Dragon Ball para buscar las 7 Bolas del Dragón y coleccionar los 4 cuadernos de edición limitada de Moleskine
+- Este cuaderno de Dragon Ball tiene una tapa dura con gráficos y detalles temáticos, esquinas redondeadas, cierre elástico y marcador de cinta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NTXF4WT/?tag=tolees-21)
