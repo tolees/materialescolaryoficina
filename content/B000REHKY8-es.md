@@ -28,10 +28,10 @@ En este momento está [Faber-Castell - Faber Castell 148201 - Pluma estilográfi
 
 🔎:
 
-- Puntera, capuchón y tapón en metal cromado pulido
-- Sistema de carga mediante cartucho o convertidor (convertidor incluido)
 - Cuerpo en madera de peral, color marrón coñac
-- Clip de metal con muelle
+- Sistema de carga mediante cartucho o convertidor (convertidor incluido)
 - Plumín de acero inoxidable trazo F
+- Clip de metal con muelle
+- Puntera, capuchón y tapón en metal cromado pulido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000REHKY8/?tag=tolees-21)
