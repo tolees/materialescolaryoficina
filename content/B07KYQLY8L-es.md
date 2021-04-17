@@ -28,9 +28,9 @@ En este momento está [Samsonite Guardit 2.0 - 15.6 Pulgadas Mochila para Portá
 
 🔎:
 
+- Bolsillo con revestimiento de tacto suave para gafas de sol, tickets y otros pequeños accesorios
 - Mochila para portátil con ruedas 156 pulgadas: 335 x 20 x 48 cm, 29 L, 220 Kg
 - Solapa práctica en todos los artículos
-- Bolsillo con revestimiento de tacto suave para gafas de sol, tickets y otros pequeños accesorios
 - Organización interna rediseñada para los dispositivos electrónicos
 - Adecuada combinación de 2 tipos de poliéster
 
