@@ -28,10 +28,10 @@ Está [Aliver - Juego de brillo líquido  5 piezas de brillo de labios en forma 
 
 ℹ️:
 
-- Diseño lindo: mini juego de lápiz labial helado, efecto encantador, 5 colores pigmentados diferentes disponibles para sus diversas necesidades y feliz elección.
 - Regalo perfecto para damas: un buen regalo para niñas o mujeres para reducir las líneas finas en los labios e hidratar los labios. 100% de satisfacción, cualquier pregunta sobre el artículo, no dude en contactarnos.
-- Brillo de labios saludable y natural, con vitamina E, textura suave, atractivo duradero, ayuda a obtener un labio más hermoso y encantador.
 - Duró bastante bien durante todo el día. Cuando tu labio se sienta seco, solo póntelos, te sentirás cómodo, también puedes agregarlo a un labial seco.
+- Brillo de labios saludable y natural, con vitamina E, textura suave, atractivo duradero, ayuda a obtener un labio más hermoso y encantador.
 - Colores maravillosos: altamente pigmentados, humectantes y suaves. Complementa todo tipo de piel, el color cambia según el grosor de tu cap
+- Diseño lindo: mini juego de lápiz labial helado, efecto encantador, 5 colores pigmentados diferentes disponibles para sus diversas necesidades y feliz elección.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LY4VRS6/?tag=tolees-21)
