@@ -29,8 +29,8 @@ Ahora mismo tienes [RENAISSER Lápiz Compatible con Surface  Sujeción Magnétic
 🔎:
 
 - Sensibilidad a la presión de inclinación y nivel 4096: con 4.096 sensibilidades a la presión y detección de inclinación, su lápiz óptico le permitirá dibujar y sombrear con extrema precisión.
-- Fijación magnética: los imanes incorporados coinciden y se alinean perfectamente con los imanes del Surface. Coloca fácilmente el bolígrafo en el lateral del Surface. Se sujeta firmemente para acceder de inmediato y evitar la pérdida del lápiz.
 - Carga ultrarrápida: evite las molestias y el desperdicio de las baterías desechables. Solo 20 minutos de carga proporcionan suficiente energía para 50 horas de uso. Una carga de 1 hora puede durar más de 100 horas.
+- Fijación magnética: los imanes incorporados coinciden y se alinean perfectamente con los imanes del Surface. Coloca fácilmente el bolígrafo en el lateral del Surface. Se sujeta firmemente para acceder de inmediato y evitar la pérdida del lápiz.
 - Compatible con Surface Pro 3, Surface Pro 4, Surface Pro 5, Surface Pro 6, Surface Pro 7, Surface Pro X, Surface Go / Go 2, Surface Book / Book 2 / Book 3, Surface Studio 1st Gen, Surface Studio 2, Surface Laptop 1st / 2/3. No es compatible con Surface Laptop Go.
 - Diseño ergonómico: la capacidad de rechazo de palma le permite descansar la mano cómodamente en la pantalla。 Con un diámetro de 9,2 mm, un diseño aerodinámico y un peso de solo 14 gramos, este lápiz es fácil de usar durante largos períodos de tiempo.
 
