@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'edding 4200-6-S-000 - Estuche con 6 rotu con un 19.49 % de descuento'
-date: 2020-03-05 11:34:38
-image: 'https://m.media-amazon.com/images/I/41VpT4g-QcL._AC_._SL400_.jpg'
+title: 'Edding 4200 rotulador con punta de pince con un 37.89 % de descuento'
+date: 2021-04-22 11:26:19
+image: 'https://m.media-amazon.com/images/I/41X0Svo3LLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00J1Y8AMG-es edding 4200-6-S-000 - Estuche con 6 rotuladores para...'
+slug: 'B00J1Y8AMG-es Edding 4200 rotulador con punta de pincel para porcelana -...'
 sku: 'B00J1Y8AMG-es'
-tags: [ 'rotuladores', ]
-actualPrice: 8.18 EUR
+tags: [ 'Costura y manualidades','Dibujo','Hogar y cocina','Marcadores','Materiales de dibujo','edding','rotulador','rotuladores', ]
+actualPrice: 6.31 EUR
 currency: EUR
-price: 8.18
+price: 6.31
 comparePrice: 10.16 EUR
-prodname: 'edding 4200-6-S-000 - Estuche con 6 rotuladores para porcelana  multicolor'
+prodname: 'Edding 4200 rotulador con punta de pincel para porcelana - multicolor - 6 rotuladores - punta de pincel de 1-4 mm - pintar y decorar cerámica - tinta resistente a la luz y lavavajillas  secado rápido'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Edding'
 buyurl: 'https://www.amazon.es/dp/B00J1Y8AMG/?tag=tolees-21'
-descuento: '19.49'
-average: '8.254999999999999'
+descuento: '37.89'
+average: '7.60666666666667'
 ---
 
-En este momento está [edding 4200-6-S-000 - Estuche con 6 rotuladores para porcelana  multicolor](https://www.amazon.es/dp/B00J1Y8AMG/?tag=tolees-21) a 8.18 EUR (original: 10.16 EUR) (19.49 %  de descuento) en el siguiente enlace!
+En este momento está [Edding 4200 rotulador con punta de pincel para porcelana - multicolor - 6 rotuladores - punta de pincel de 1-4 mm - pintar y decorar cerámica - tinta resistente a la luz y lavavajillas  secado rápido](https://www.amazon.es/dp/B00J1Y8AMG/?tag=tolees-21) a 6.31 EUR (original: 10.16 EUR) (37.89 %  de descuento) en el siguiente enlace!
 
-[![edding 4200-6-S-000 - Estuche con 6 rotu](https://m.media-amazon.com/images/I/41VpT4g-QcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00J1Y8AMG/?tag=tolees-21)
+[![Edding 4200 rotulador con punta de pince](https://m.media-amazon.com/images/I/41X0Svo3LLL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00J1Y8AMG/?tag=tolees-21)
 
 🔎:
 
+- El rotulador de porcelana edding 4200 está disponible en 15 colores
+- El juego contiene 6 rotuladores en negro, rojo, azul, verde, amarillo, marrón con punta de pincel para porcelana
+- Rotulador para porcelana a prueba de lavavajillas hasta 50° C; punta de pincel flexible para porcelana, tazas, cerámica barnizada, vidrio resistente al horno
+- La punta suave crea trazos de pincel flexibles y asegura una distribución uniforme del color; la práctica forma del marcador evita el goteo
+- La tinta a base de agua se seca óptimamente, es fácilmente borrable antes del secado al horno, después la pintura adhiere permanentemente y es impermeable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J1Y8AMG/?tag=tolees-21)
