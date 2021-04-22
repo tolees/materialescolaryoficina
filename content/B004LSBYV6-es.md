@@ -29,9 +29,9 @@ Está [Mil-Tec - Pack de asalto MOLLE táctico con mochila de patrulla 36L  Verd
 ℹ️:
 
 - Material: poliéster 600D, recubierto de PVC; Peso: 1400 g.
-- 2 compartimentos principales, 2 bolsillos delanteros.
-- Capacidad: 36 l; dimensiones: aprox. 51x29x28 cm (20,1"x11.4"x11.1").
-- Varios puntos de fijación MOLLE, bucles y anillos D en las correas de los hombros.
 - Bolsillo de velcro hidrófugo integrado.
+- Varios puntos de fijación MOLLE, bucles y anillos D en las correas de los hombros.
+- Capacidad: 36 l; dimensiones: aprox. 51x29x28 cm (20,1"x11.4"x11.1").
+- 2 compartimentos principales, 2 bolsillos delanteros.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004LSBYV6/?tag=tolees-21)
