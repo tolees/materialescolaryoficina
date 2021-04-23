@@ -28,9 +28,9 @@ En este momento está [MILAN - Milán P1 Touch - Bolígrafos  ampolla 5 unidades
 
 🔎:
 
-- Con punta de 1mm
-- Tacto Touch suave, con sensación de ligereza
-- Medidas bolígrafo 14.1 x 1.7cm
 - Tinta fabricada en Alemania
+- Tacto Touch suave, con sensación de ligereza
+- Con punta de 1mm
+- Medidas bolígrafo 14.1 x 1.7cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01BVGPZ3S/?tag=tolees-21)
