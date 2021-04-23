@@ -28,9 +28,9 @@ En este momento está [Samsonite PRO-DLX 5 - Backpack Expandable for 15.6   Lapt
 
 🔎:
 
+- Bolsillo de apertura superior con cremallera
+- Compartimento acolchado y resistente de nylon balístico para portátil/tablet
 - Diseño y construcción funcionales
 - Bolsillo con protección RFID
-- Compartimento acolchado y resistente de nylon balístico para portátil/tablet
-- Bolsillo de apertura superior con cremallera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DLX8CLB/?tag=tolees-21)
