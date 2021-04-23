@@ -28,10 +28,10 @@ Tienes [Jovi- Pasta para modelar  Color blanco  250 gramos  83 ](https://www.ama
 
 ℹ️:
 
+- Pasta para modelar muy fácil de trabajar; se puede decorar con todo tipo de témperas, pinturas acrílicas y barniz
+- Arcilla lista para usar; una vez abierta, guardar en un recipiente cerrado para que no se seque
 - Arcilla para modelar a base de ingredientes naturales para niños y niñas a partir de 3 años; no tóxica
 - Barro sin cocción adecuado para manualidades y actividades creativas en las escuela, en casa y en talleres de arte
-- Arcilla lista para usar; una vez abierta, guardar en un recipiente cerrado para que no se seque
 - Pasta de modelar de color blanco puro. Secado al aire; no es necesario el uso de horno ni de microondas
-- Pasta para modelar muy fácil de trabajar; se puede decorar con todo tipo de témperas, pinturas acrílicas y barniz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0025ZIGPO/?tag=tolees-21)
