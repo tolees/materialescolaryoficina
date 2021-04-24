@@ -28,13 +28,13 @@ Tienes [Cefa Toys- Mimochic Mini Mochila Sorpresa  640   color/modelo surtido](h
 
 ℹ️:
 
-- Hay 100 accesorios diferentes, mini block, mini carpetitas, mini sobres, mini gomas, mini reglas, mini fluorescentes, mini pinturas, mini stickers, mini ceras, mini cintas adhesivas decoradas
 - Mini mochilas coleccionables, hay 8 modelos diferentes, que incluye un mosqueton poder llevarlo colgado
 - Cada mochila incluye 6 accesorios sorpresa de papelería en versión mini
-- Mimochic
-- El bolsillo exterior también es funcional
-- Precio unitario. Una mochila y 6 accesorios sorpresa.
-- Son modelos surtidos, puede tocarte cualquier modelo
 - Lo puedes utilizar como monedero, para guardar las llaves, para llevar los carnets de la piscina, biblioteca
+- El bolsillo exterior también es funcional
+- Hay 100 accesorios diferentes, mini block, mini carpetitas, mini sobres, mini gomas, mini reglas, mini fluorescentes, mini pinturas, mini stickers, mini ceras, mini cintas adhesivas decoradas
+- Mimochic
+- Son modelos surtidos, puede tocarte cualquier modelo
+- Precio unitario. Una mochila y 6 accesorios sorpresa.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084XSC6N5/?tag=tolees-21)
