@@ -28,10 +28,10 @@ Tienes [Loctite Super Glue-3 Perfect Pen  adhesivo transparente con forma de bol
 
 🔎:
 
-- Sistema antigoteo – Este super pegamento líquido y transparente no gotea. Se aplica en superficies limpias y secas con una precisión y una fuerza de unión máximas.
 - Aplicación precisa – Este adhesivo universal con aplicación gota a gota y con forma de bolígrafo es muy fácil de usar y permite una aplicación precisa, limpia y cómoda.
+- Triple resistencia – Gracias a su nueva fórmula, el pegamento universal Loctite Super Glue-3 Perfect Pen es resistente al lavavajillas, a los impactos y al agua.
+- Sistema antigoteo – Este super pegamento líquido y transparente no gotea. Se aplica en superficies limpias y secas con una precisión y una fuerza de unión máximas.
 - Fuerza instantánea – Este pegamento fuerte se seca en 3 segundos. Al ser multimaterial, puede aplicarse en metal, porcelana, plástico, caucho, cuero y madera.
 - Envío y detalles – Loctite Super Glue-3 Perfect Pen, tubo de pegamento rápido en forma de bolígrafo con nueva fórmula de etilcianoacrilato, transparente, 1x4 g bolígrafo, n.º artículo: 2057746
-- Triple resistencia – Gracias a su nueva fórmula, el pegamento universal Loctite Super Glue-3 Perfect Pen es resistente al lavavajillas, a los impactos y al agua.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KTOZO84/?tag=tolees-21)
