@@ -28,8 +28,8 @@ Está [KARACTERMANIA Stranger Things Hunting - Mochila Flap  Multicolor](https:/
 
 ℹ️:
 
-- Asas acolchadas ajustables
 - Dimensiones: 46 x 30 x 20 cm
+- Asas acolchadas ajustables
 - Forro interior
 - Mochila urbana adaptable a carro
 - Compartimento principal y bolsillo delantero
