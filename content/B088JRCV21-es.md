@@ -28,10 +28,10 @@ Está [TVGO - 72 Lápices de Colores Acuarelables en estuche con cremallera para
 
 ℹ️:
 
-- 5. Lápices para colorear de calidad premium: para sus obras de arte y diseños. Lápices de buena calidad con pigmentos resistentes a la luz y puntas de colores suaves para un sombreado perfecto y un resultado satisfactorio.
 - 2. Lápices para colorear para niños y adultos: es adecuado para dibujar y garabatear coloridos para adultos, y es perfecto para libros de colorear para niños. Viene en una variedad de colores vibrantes, no tóxicos y seguros para el uso de los niños.
+- 1. Colores vibrantes: nuestro juego de 72 lápices de acuarela contiene 72 colores diferentes, únicos y solubles, y viene con un pincel para que pueda crear efectos sorprendentes y mezclas de colores.
+- 5. Lápices para colorear de calidad premium: para sus obras de arte y diseños. Lápices de buena calidad con pigmentos resistentes a la luz y puntas de colores suaves para un sombreado perfecto y un resultado satisfactorio.
 - 4. Estuche portátil con cremallera: ¡colorea en cualquier lugar! Ya sea que estés en casa, en la escuela o yendo a clases de arte. Este conjunto está listo y perfectamente embalado con una caja de lápices duradera con cremallera negra con ranuras individuales para cada lápiz para mantener todos sus lápices organizados y protegidos.
 - 3. Calidad del artista: estos lápices de calidad profesional están diseñados para precisión utilizando una madera duradera que está acabada con un elegante acabado mate. 72 tonos te dan libertad creativa ilimitada.
-- 1. Colores vibrantes: nuestro juego de 72 lápices de acuarela contiene 72 colores diferentes, únicos y solubles, y viene con un pincel para que pueda crear efectos sorprendentes y mezclas de colores.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088JRCV21/?tag=tolees-21)
