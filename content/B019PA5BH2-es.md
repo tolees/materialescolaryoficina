@@ -28,7 +28,7 @@ Ahora mismo tienes [Play Doh Bolsa De 15 Mini Botes  Hasbro 18367EU5    Color/Mo
 
 🔎:
 
-- La bolsa con 15 botes de colorida plastilina PLAY-DOH es óptima para regalar en fiestas y en el cole
 - La bolsa incluye 15 botes de plastilina PLAY-DOH de 28 gramos
+- La bolsa con 15 botes de colorida plastilina PLAY-DOH es óptima para regalar en fiestas y en el cole
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B019PA5BH2/?tag=tolees-21)
