@@ -28,9 +28,9 @@ Ahora mismo tienes [HP Odyssey - Mochila para portátiles de hasta 15.6" de Colo
 
 🔎:
 
-- Cierre con cremallera para todos los compartimientos
-- Fabricado de poliéster ligero pero resistente
 - Mochila para portátil de 15.6 pulgadas y para tableta
 - Correa pectoral regulable para mayor seguridad y comodidad
+- Fabricado de poliéster ligero pero resistente
+- Cierre con cremallera para todos los compartimientos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00VTPOH7M/?tag=tolees-21)
