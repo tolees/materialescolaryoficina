@@ -28,10 +28,10 @@ Tienes [Jovi- Air Dry Pastilla Endurecible para Modelar  Color gris  1 kilo  86G
 
 ℹ️:
 
-- Barro sin cocción adecuado para manualidades y actividades creativas en las escuela, en casa y en talleres de arte
 - Arcilla para modelar a base de ingredientes naturales para niños y niñas a partir de 3 años; no tóxica
-- Pasta de modelar de color gris original. Secado al aire; no es necesario el uso de horno ni de microondas
-- Pasta para modelar muy fácil de trabajar; se puede decorar con todo tipo de témperas, pinturas acrílicas y barniz
 - Arcilla lista para usar; una vez abierta, guardar en un recipiente cerrado para que no se seque
+- Barro sin cocción adecuado para manualidades y actividades creativas en las escuela, en casa y en talleres de arte
+- Pasta para modelar muy fácil de trabajar; se puede decorar con todo tipo de témperas, pinturas acrílicas y barniz
+- Pasta de modelar de color gris original. Secado al aire; no es necesario el uso de horno ni de microondas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M1GD5L0/?tag=tolees-21)
