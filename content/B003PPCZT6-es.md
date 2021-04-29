@@ -28,10 +28,10 @@ Está [Eastpak Provider Mochila  44 Cm  33 L  Gris  Sunday Grey ](https://www.am
 
 ℹ️:
 
-- Dos compartimentos principales con bolsillo delantero con separadores
-- Fabricada con 60% nylon y 40% poliéster
 - Funda acolchada para portátiles de hasta 15 pulgadas
-- Altura: 44cm, Ancho: 31cm, Fondo: 25cm
 - Más resistente gracias al asa de goma y al fondo y panel acolchados
+- Fabricada con 60% nylon y 40% poliéster
+- Altura: 44cm, Ancho: 31cm, Fondo: 25cm
+- Dos compartimentos principales con bolsillo delantero con separadores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003PPCZT6/?tag=tolees-21)
