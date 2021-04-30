@@ -28,12 +28,12 @@ Ahora mismo tienes [Amazon Basics - Pizarra blanca magnética con bandeja para r
 
 🔎:
 
-- Superficie suave y magnética – perfecto para escribir notas o recordatorios.
-- También incluye 6 imanes, 1 borrador y 2 rotuladores de borrado en seco.
-- Tablero magnético de borrado en seco para el hogar o la oficina.
-- Medidas: 60 cm de ancho por 45 cm de alto.
-- Incluye: 6 imanes, 1 borrador y 2 rotuladores de borrado en seco
 - ADVERTENCIA para los marcadores de pizarra blanca: INFLAMABLE; evite el contacto con los ojos y la piel; enjuague con agua corriente inmediatamente si este producto entra en contacto con los ojos o la piel
+- Tablero magnético de borrado en seco para el hogar o la oficina.
+- Incluye: 6 imanes, 1 borrador y 2 rotuladores de borrado en seco
+- También incluye 6 imanes, 1 borrador y 2 rotuladores de borrado en seco.
+- Superficie suave y magnética – perfecto para escribir notas o recordatorios.
 - Diseño de aluminio duradero. Incluye: bandeja para rotuladores y montaje para pared.
+- Medidas: 60 cm de ancho por 45 cm de alto.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077TGBB72/?tag=tolees-21)
