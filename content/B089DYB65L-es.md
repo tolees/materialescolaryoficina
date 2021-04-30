@@ -28,10 +28,10 @@ Tienes [safta Neceser Escolar Infantil Mediano con Asa de Munich Retro  260x120x
 
 ℹ️:
 
-- Safta Munich Oficial neceser con asa y cremallera para uso diario. 2 años de garantía
-- Medidas: 260 x 120 x 150 mm. Capacidad: 5 L. Peso: 0.13 Kg
-- Confeccionado con un material de poliéster muy resistente y cremalleras suaves. Fácil de lavar
-- Tirador en el cursor para facilitar su apertura. Costuras reforzadas. Asa de mano en el lateral. Adaptable a carro porta mochilas
 - Safta se caracteriza por la tecnología y la investigación para garantizar unos productos de gran calidad, aptos para el día a día de coles e institutos. Son productos diseñados en España, siguiendo todos los procesos de fabricación y calidad de Europa
+- Medidas: 260 x 120 x 150 mm. Capacidad: 5 L. Peso: 0.13 Kg
+- Safta Munich Oficial neceser con asa y cremallera para uso diario. 2 años de garantía
+- Tirador en el cursor para facilitar su apertura. Costuras reforzadas. Asa de mano en el lateral. Adaptable a carro porta mochilas
+- Confeccionado con un material de poliéster muy resistente y cremalleras suaves. Fácil de lavar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B089DYB65L/?tag=tolees-21)
