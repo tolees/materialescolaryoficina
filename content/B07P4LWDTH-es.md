@@ -31,7 +31,7 @@ Tienes [Decocasa Mochila Térmica Porta Alimentos  Bolsa Isotérmica Grande Para
 - Dispone de dos asas recubiertas y tiras regulables; se puede llevar cómodamente en la mano o sobre los hombros
 - Ideal para conservar los alimentos fríos o calientes gracias a su material térmico y su forro interior 100% peva resistentes a la humedad
 - Mochila isotérmica de 36x18x39 cm, Tamaño 25L
-- Este producto tiene un diseño y color sencillo y elegante, lo cual lo hace perfecto para cualquier ocasión: informal, oficina, escuela, picnic, playa, etc
 - Esta bolsa térmica dispone de un compartimento con cierre de cremallera y tres bolsillos laterales; por su forma y tamaño es ideal para transportar bebidas y alimentos para disfrutarlos frescos en la playa, en la montaña o cualquier excursión
+- Este producto tiene un diseño y color sencillo y elegante, lo cual lo hace perfecto para cualquier ocasión: informal, oficina, escuela, picnic, playa, etc
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P4LWDTH/?tag=tolees-21)
