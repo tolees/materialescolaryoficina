@@ -28,9 +28,9 @@ En este momento está [Post-It 2028-NB - Notas adhesivas en cubo  76 x 76 mm  Co
 
 🔎:
 
+- Para no olvidar lo importante
 - Hecho 100% de fibra de papel certificado PEFC
 - Un montón de notas para cuando los mensajes son muchos y un bloc parece no ser suficiente
-- Para no olvidar lo importante
 - Perfecto si no quieres quedarte sin notas en el momento más inoportuno
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000SHQ3FQ/?tag=tolees-21)
