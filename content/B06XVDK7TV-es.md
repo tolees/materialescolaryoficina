@@ -28,9 +28,9 @@ Ahora mismo tienes [HP 1MR94AA - Lápiz para Tableta](https://www.amazon.es/dp/B
 
 🔎:
 
-- ¡Nota! Antes de comprar, compruebe la compatibilidad en el sitio web del fabricante
 - Fácil de guardar: Libro o bolsillo, fijalo y llevalo a cualquier lugar
 - No requiere software
+- ¡Nota! Antes de comprar, compruebe la compatibilidad en el sitio web del fabricante
 - Botones personalizables: adaptación de botones para un uso sin problemas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XVDK7TV/?tag=tolees-21)
