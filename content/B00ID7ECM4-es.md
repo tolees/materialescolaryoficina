@@ -28,10 +28,10 @@ Tienes [KNIPEX Tijeras para electricistas  155 mm  95 05 155 SB  cartulina autos
 
 🔎:
 
-- Filo de corte con cortacables
-- cartulina autoservicio/blíster
-- Con portaherramientas de plástico
-- Mangos con fundas multicomponentes, reforzadas con fibras de vidrio
 - Filos de corte de precisión y afilados con dentado fino para un corte limpio y sin deslizamiento
+- cartulina autoservicio/blíster
+- Mangos con fundas multicomponentes, reforzadas con fibras de vidrio
+- Con portaherramientas de plástico
+- Filo de corte con cortacables
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ID7ECM4/?tag=tolees-21)
