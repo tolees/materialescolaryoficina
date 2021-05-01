@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mil-Tec - Pack de asalto MOLLE táctico c al 16.31 % de descuento'
-date: 2021-04-28 17:16:11
+date: 2021-05-01 16:00:59
 image: 'https://m.media-amazon.com/images/I/410oaGQwcVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Mil-Tec - Pack de asalto MOLLE táctico con mochila de patrulla 36L  Verd
 
 ℹ️:
 
-- 2 compartimentos principales, 2 bolsillos delanteros.
-- Capacidad: 36 l; dimensiones: aprox. 51x29x28 cm (20,1"x11.4"x11.1").
-- Bolsillo de velcro hidrófugo integrado.
-- Material: poliéster 600D, recubierto de PVC; Peso: 1400 g.
 - Varios puntos de fijación MOLLE, bucles y anillos D en las correas de los hombros.
+- Bolsillo de velcro hidrófugo integrado.
+- Capacidad: 36 l; dimensiones: aprox. 51x29x28 cm (20,1"x11.4"x11.1").
+- Material: poliéster 600D, recubierto de PVC; Peso: 1400 g.
+- 2 compartimentos principales, 2 bolsillos delanteros.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004LSBYV6/?tag=tolees-21)
