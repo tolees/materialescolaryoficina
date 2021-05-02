@@ -28,10 +28,10 @@ Ahora mismo tienes [Faber-Castell 111260 - Estuche-soporte de cartón con 60 lá
 
 🔎:
 
-- Estuche-soporte de cartón con 60 ecolápices de color
 - Mina protegida contra la rotura por el proceso de encolado SV, Sencillo afilado
 - Colores intensos y brillantes de aplicación extra suave
 - Forma hexagonal ergonómica
+- Estuche-soporte de cartón con 60 ecolápices de color
 - Fabricado en madera gestionada de forma sostenible
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01FDKQG2W/?tag=tolees-21)
