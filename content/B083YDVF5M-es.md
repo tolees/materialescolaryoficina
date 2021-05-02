@@ -28,8 +28,8 @@ Tienes [Kipling Mochila para mujer Delia](https://www.amazon.es/dp/B083YDVF5M/?t
 
 ℹ️:
 
-- mujer
-- Classics
 - Mochila
+- Classics
+- mujer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B083YDVF5M/?tag=tolees-21)
