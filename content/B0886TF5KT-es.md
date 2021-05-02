@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 21.58 % en Samsonite Sonora - 17 Pulgadas Mochila p'
-date: 2021-04-27 21:45:14
+title: 'Descuento del 21.63 % en Samsonite Sonora - 17 Pulgadas Mochila p'
+date: 2021-05-02 16:15:19
 image: 'https://m.media-amazon.com/images/I/31SZrIMYkjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0886TF5KT-es Samsonite Sonora - 17 Pulgadas Mochila para Portátil con...'
 sku: 'B0886TF5KT-es'
 tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','Mochilas para portátiles y netbooks','mochila','samsonite', ]
-actualPrice: 109.0 EUR
+actualPrice: 108.94 EUR
 currency: EUR
-price: 109.0
+price: 108.94
 comparePrice: 139.0 EUR
 prodname: 'Samsonite Sonora - 17 Pulgadas Mochila para Portátil con Ruedas  55 cm  30 L  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Samsonite'
 buyurl: 'https://www.amazon.es/dp/B0886TF5KT/?tag=tolees-21'
-descuento: '21.58'
-average: '109.0'
+descuento: '21.63'
+average: '108.97'
 ---
 
-Tienes [Samsonite Sonora - 17 Pulgadas Mochila para Portátil con Ruedas  55 cm  30 L  Negro  Black ](https://www.amazon.es/dp/B0886TF5KT/?tag=tolees-21) con un 21.58 % de descuento con precio de oferta de 109.0 EUR (original: 139.0 EUR) en el siguiente enlace!
+Tienes [Samsonite Sonora - 17 Pulgadas Mochila para Portátil con Ruedas  55 cm  30 L  Negro  Black ](https://www.amazon.es/dp/B0886TF5KT/?tag=tolees-21) con un 21.63 % de descuento con precio de oferta de 108.94 EUR (original: 139.0 EUR) en el siguiente enlace!
 
 [![Samsonite Sonora - 17 Pulgadas Mochila p](https://m.media-amazon.com/images/I/31SZrIMYkjL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0886TF5KT/?tag=tolees-21)
 
