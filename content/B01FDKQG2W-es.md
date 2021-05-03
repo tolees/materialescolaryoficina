@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Faber-Castell 111260 - Estuche-soporte d al 27.32 % de descuento'
-date: 2021-05-02 08:47:02
+date: 2021-05-03 21:44:13
 image: 'https://m.media-amazon.com/images/I/61gkO3Ou8fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Faber-Castell'
 buyurl: 'https://www.amazon.es/dp/B01FDKQG2W/?tag=tolees-21'
 descuento: '27.32'
-average: '18.2944444444444'
+average: '18.114'
 ---
 
 Ahora mismo tienes [Faber-Castell 111260 - Estuche-soporte de cartón con 60 lápices de colores  multicolor](https://www.amazon.es/dp/B01FDKQG2W/?tag=tolees-21) a 16.49 EUR (original: 22.69 EUR) (27.32 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Faber-Castell 111260 - Estuche-soporte de cartón con 60 lá
 
 🔎:
 
+- Forma hexagonal ergonómica
+- Fabricado en madera gestionada de forma sostenible
+- Colores intensos y brillantes de aplicación extra suave
 - Mina protegida contra la rotura por el proceso de encolado SV, Sencillo afilado
 - Estuche-soporte de cartón con 60 ecolápices de color
-- Colores intensos y brillantes de aplicación extra suave
-- Fabricado en madera gestionada de forma sostenible
-- Forma hexagonal ergonómica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01FDKQG2W/?tag=tolees-21)
