@@ -28,10 +28,10 @@ En este momento está [Play Doh- Dentista Bromista  Hasbro B5520EU4 ](https://ww
 
 🔎:
 
-- Diviértete con el torno eléctrico combatiendo las caries
 - Crea divertida pasta de dientes con el cepillo
 - Crea unos brackets con el rodillo
 - Conviértete en un auténtico dentista con el clásico set el dentista bromista de play-doh
 - Revísale la boca, empástale caries, ponle aparato y muchas cosas más
+- Diviértete con el torno eléctrico combatiendo las caries
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B019YJNT8C/?tag=tolees-21)
