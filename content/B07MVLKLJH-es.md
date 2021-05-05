@@ -28,10 +28,10 @@ Ahora mismo tienes [Blackfit8 "Flags" Oficial Mochila Doble Deportiva  Adaptable
 
 🔎:
 
-- Medidas: 42 cm x 32 cm x 16 cm.
 - Producto con licencia oficial.
+- Medidas: 42 cm x 32 cm x 16 cm.
+- Tiras ajustables y acolchadas para colgar con facilidad a la espalda. Espalda acolchada que aporta mayor comodidad y transpiración.
 - Mochila con doble compartimento. Es adaptable a carro. Tiene unas cintas que permiten sujetarla a una trolley (el carro se vende por separado), pudiendo usarse para la escuela o para viajar.
 - Cuenta con un bolsillo frontal y 1 bolsillo lateral con rejilla para la bebida.
-- Tiras ajustables y acolchadas para colgar con facilidad a la espalda. Espalda acolchada que aporta mayor comodidad y transpiración.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MVLKLJH/?tag=tolees-21)
