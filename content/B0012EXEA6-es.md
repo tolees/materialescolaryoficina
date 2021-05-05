@@ -29,8 +29,8 @@ Está [Lyra-Rembrandt Aquarell Lápices  72 unidades  color estuche metálico   
 ℹ️:
 
 - Lápiz profesional acuarelable, ideal para uso artístico, con pigmentos de altísima calidad muy resistentes a la luz
-- Mina de alta pigmentación, perfectamente acuarelable gracias a su fórmula emulsionante
-- Crayones de arte más alta calidad
 - Fáciles de usar y adaptables a todas las técnicas de diseño artístico
+- Crayones de arte más alta calidad
+- Mina de alta pigmentación, perfectamente acuarelable gracias a su fórmula emulsionante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0012EXEA6/?tag=tolees-21)
