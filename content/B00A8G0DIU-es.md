@@ -28,10 +28,10 @@ Tienes [3 Claveles - Tijeras de Costura Multiusos  Sastrería y labores  Acero C
 
 ℹ️:
 
+- Tijera de costura y otras labores, varios usos
 - Tamaño 15cm- 6" y acabado niquelado
 - Acero de carbono y forjadas en caliente
 - Corte preciso y filo duradero
-- Tijera de costura y otras labores, varios usos
 - Permite cortar telas con gran precisión
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00A8G0DIU/?tag=tolees-21)
