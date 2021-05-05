@@ -29,9 +29,9 @@ Ahora mismo tienes [Lápiz de color multitalento STABILO woody 3 en 1 ARTY - Est
 🔎:
 
 - Se puede pintar con agua
-- También puede pintar en muchas superficies lisas
-- Alta opacidad e intensidad de color, también en papeles oscuros y cartón
 - Lápiz de colores, acuarela y cera en un lápiz
 - Se puede quitar fácilmente del cristal con agua
+- Alta opacidad e intensidad de color, también en papeles oscuros y cartón
+- También puede pintar en muchas superficies lisas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081NS97BB/?tag=tolees-21)
