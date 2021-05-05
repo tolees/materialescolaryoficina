@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA teamFINAL 21 Backpack](https://www.amazon.es/dp/B07XPCB
 
 🔎:
 
-- Bolsillo adicional con cremallera en la parte delantera
 - Abertura del compartimento principal con cremallera bidireccional
-- Asa de transporte de cincha en la parte superior
 - Correas para el hombro ajustables y acolchadas
+- Asa de transporte de cincha en la parte superior
+- Bolsillo adicional con cremallera en la parte delantera
 - Bolsillo elástico para el agua en la parte derecha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XPCBSQD/?tag=tolees-21)
