@@ -28,9 +28,9 @@ Tienes [SM.LT AB-35TS - Cuaderno para pintar con acuarelas  A4  papel de 280 g  
 
 🔎:
 
-- Con una portada de papel duro reciclable
-- Las hojas tienen un gramaje de 280 g/m2
-- Con 35 páginas en formato A4
 - Cuaderno de anillos
+- Con una portada de papel duro reciclable
+- Con 35 páginas en formato A4
+- Las hojas tienen un gramaje de 280 g/m2
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00L99LUIC/?tag=tolees-21)
