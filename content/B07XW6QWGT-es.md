@@ -28,10 +28,10 @@ Está [Moleskine - Cuaderno Clásico con Hojas de Rayas  Tapa Blanda y Cierre co
 
 ℹ️:
 
-- En la contraportada del cuaderno aparecen diseños temáticos y la inconfundible historia de Moleskine en el interior de todos nuestros productos, un detalle icónico de la marca. Se puede abrir 180º
-- El cuaderno tiene 240 páginas con rayas y papel marfil de 70 g/m² sin ácido y el icónico aviso "En caso de pérdida" para escribir tu información de contacto en caso de que pierdas tu cuaderno
-- El paquete contiene un cuaderno Moleskine Clásico con hojas de rayas y tapa blanda, disponible en tamaño grande 13 x 21 cm, 240 páginas, color azul hortensia
-- Diseño clásico con cierre elástico y un cómodo marcapáginas para no perder nunca la página. En la parte posterior hay una solapa plegable para guardar notas y papeles importantes
 - El clásico y legendario cuaderno Moleskine se actualiza una vez más con nuevos colores y diseños, pero manteniendo la iconicidad y las características del clásico cuaderno más vendido de la marca
+- El paquete contiene un cuaderno Moleskine Clásico con hojas de rayas y tapa blanda, disponible en tamaño grande 13 x 21 cm, 240 páginas, color azul hortensia
+- El cuaderno tiene 240 páginas con rayas y papel marfil de 70 g/m² sin ácido y el icónico aviso "En caso de pérdida" para escribir tu información de contacto en caso de que pierdas tu cuaderno
+- En la contraportada del cuaderno aparecen diseños temáticos y la inconfundible historia de Moleskine en el interior de todos nuestros productos, un detalle icónico de la marca. Se puede abrir 180º
+- Diseño clásico con cierre elástico y un cómodo marcapáginas para no perder nunca la página. En la parte posterior hay una solapa plegable para guardar notas y papeles importantes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XW6QWGT/?tag=tolees-21)
