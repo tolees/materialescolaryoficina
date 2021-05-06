@@ -28,11 +28,11 @@ Tienes [Eastpak Padded Pak R Mochila  40 Cm  24 L  Thunderhead Pine  Verde ](htt
 
 🔎:
 
-- En nuestra gama de colores Thunderhead Pine
-- No se han utilizado productos de origen animal para fabricar este producto 1 % vegano
-- Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
-- Confeccionada en 100 % nailon
 - Correas ajustables para los hombros y panel de la espalda acolchados
 - El compartimento principal dispone de un bolsillo delantero con cremallera
+- Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
+- Confeccionada en 100 % nailon
+- No se han utilizado productos de origen animal para fabricar este producto 1 % vegano
+- En nuestra gama de colores Thunderhead Pine
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BCRDGS9/?tag=tolees-21)
