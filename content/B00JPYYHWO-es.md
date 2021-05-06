@@ -28,10 +28,10 @@ Tienes [Eastpak Back To Work Mochila  43 Cm  27 L  Gris  Sunday Grey ](https://w
 
 ℹ️:
 
+- Fabricada con 60 % nylon y 40 % poliéster
 - Lleva contigo tu tecnología con la funda acolchada para portátiles de 15 pulgadas
+- Ergonómica gracias a las correas y a la parte trasera acolchadas
 - Altura: 43 cm, Ancho: 29.5 cm, Fondo: 25 cm
 - Incorpora un compartimento principal con cierre de cremallera de fácil acceso
-- Ergonómica gracias a las correas y a la parte trasera acolchadas
-- Fabricada con 60 % nylon y 40 % poliéster
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JPYYHWO/?tag=tolees-21)

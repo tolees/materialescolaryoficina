@@ -28,9 +28,9 @@ Tienes [STABILO Lápices - Estuche con 12 colores](https://www.amazon.es/dp/B019
 
 ℹ️:
 
-- Diámetro de mina de 2.5 mm
-- Rica aplicación de color
 - Clásico lápices de color, ideales para el colegio
+- Rica aplicación de color
 - Pack de 12 lápices de colorear, adecuados tanto para niños como para estudiantes
+- Diámetro de mina de 2.5 mm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B019OQ80SE/?tag=tolees-21)
