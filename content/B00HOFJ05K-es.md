@@ -28,10 +28,10 @@ Tienes [Apli Térmico Pack de 8 Rollos de Papel  Blanco  80 x 60 x 12 mm](https:
 
 ℹ️:
 
-- Rollo de papel térmico blanco
-- Tamaño: 80 x 60 x 12 mm
 - Especialmente utilizado en los métodos de pago como datáfonos
+- Tamaño: 80 x 60 x 12 mm
 - Tanto el mandril como el dorso son neutros; papel de bajo residuo
+- Rollo de papel térmico blanco
 - Metros lineales por rollo (aprox.): 43,5 m
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HOFJ05K/?tag=tolees-21)
