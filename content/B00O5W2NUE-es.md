@@ -28,8 +28,8 @@ Ahora mismo tienes [Case Logic Ibira - Mochila de 15.6"  color negro](https://ww
 
 🔎:
 
-- Cremalleras duraderas
-- Espacio para portátil y tablet
 - Materiales de calidad
+- Espacio para portátil y tablet
+- Cremalleras duraderas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00O5W2NUE/?tag=tolees-21)
