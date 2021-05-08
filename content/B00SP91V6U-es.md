@@ -29,9 +29,9 @@ Está [Grapadora Cercas FSK20 con Cargador SALKI - Alicates para Vallas con Cort
 ℹ️:
 
 - CARACTERÍSTICAS TÉCNICAS: Cortador de alambre incorporado en los laterales de hasta 3mm. Compatible con grapas anilladas omega-20 y HR22. Templado en las uñas de 35 HRc. Con cargador
+- USO: Esta pistola de grapas anilladas para verjas es ideal para cerrar y atar cercas o para la construcción de jaulas, invernaderos o proyectos de bricolaje y jardinería con mallas en terrazas. También puede ser muy útil en ganadería y agricultura.
 - CALIDAD: Las uñas del alicate para cercas son de acero endurecido y de templado especial a 35 HRc de dureza, lo que le aporta una gran tenacidad y resistencia. Además están zincadas en negro.
 - VERSÁTIL: Compatibles con una amplia variedad de consumibles. Y además gracias a su peso ligero, esta grapadora para vallado puede ser utilizada para hobby o usos más profesionales.
-- USO: Esta pistola de grapas anilladas para verjas es ideal para cerrar y atar cercas o para la construcción de jaulas, invernaderos o proyectos de bricolaje y jardinería con mallas en terrazas. También puede ser muy útil en ganadería y agricultura.
 - DISEÑO: Esta grapadora de vallas manual cuenta con un mango multimaterial muy ergonómico que ofrece un buen agarre y un cargador que acelera el trabajo cuando se realizan aplicaciones repetitivas. El mango tiene un bloqueador de cierre que facilita el almacenamiento y transporte. Además cuenta con muelle en espiral que facilita el uso.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00SP91V6U/?tag=tolees-21)
