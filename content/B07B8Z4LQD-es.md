@@ -28,10 +28,10 @@ Tienes [MMBOX - Organizador de escritorio para lápices  cajitas de almacenamien
 
 🔎:
 
-- Diseño versátil: Puedes usarlo en horizontal o vertical.Minimiza el uso del espacio e incluso cabe en cajones extraíbles y bandejas de escritorio.
-- Tenlo todo organizado: Juego de 4 organizadores apilables para suministros de escritorio (total de 16 compartimentos).
-- Minimalista: Ayuda a mantener tus utensilios de papelería y enseñanza u oficina sin desorden mientras disfrutas de una sensación limpia y moderna.
-- Universal: Estantería de cajitas apilables para adultos, profesores, estudiantes, adolescentes y niños. Ideal para aulas, oficinas y talleres de arte.
 - Limpia tu espacio de trabajo:Caja organizadora con ranuras para guardar tus bolígrafo, lápices, pinceles, lápices de colores, clips y accesorios de papelería.
+- Universal: Estantería de cajitas apilables para adultos, profesores, estudiantes, adolescentes y niños. Ideal para aulas, oficinas y talleres de arte.
+- Tenlo todo organizado: Juego de 4 organizadores apilables para suministros de escritorio (total de 16 compartimentos).
+- Diseño versátil: Puedes usarlo en horizontal o vertical.Minimiza el uso del espacio e incluso cabe en cajones extraíbles y bandejas de escritorio.
+- Minimalista: Ayuda a mantener tus utensilios de papelería y enseñanza u oficina sin desorden mientras disfrutas de una sensación limpia y moderna.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B8Z4LQD/?tag=tolees-21)
