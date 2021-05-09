@@ -28,9 +28,9 @@ Está [Targus Newport bolso convertible de 12 L  mochila para portátiles de has
 
 ℹ️:
 
+- Tamaño máximo de pantalla: 38.1 cm
 - El bolso negro para portátil se convierte en una mochila para mayor comodidad
 - Exterior de nilón de sarga hidrófuga de alta densidad de fibras con detalles en piel sintética
 - Correas para el hombro ajustables y acolchadas que se pueden ocultar
-- Tamaño máximo de pantalla: 38.1 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DZLYMD1/?tag=tolees-21)
