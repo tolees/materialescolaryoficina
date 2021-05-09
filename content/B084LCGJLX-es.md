@@ -28,9 +28,9 @@ Tienes [Pepe Jeans Vegan Mochila para Portátil 15 6" Marrón 32x44x15 cms Piel 
 
 🔎:
 
-- De joumma bags
-- Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda y banda trasera para incorporarla al trolley cuando viajes
 - Mochila de 32 cm x 44 cm x 15 cm fabricada en piel sintética
+- Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda y banda trasera para incorporarla al trolley cuando viajes
+- De joumma bags
 - Compartimento principal con dos bolsillos, uno acolchado para un ordenador de hasta 15,6 pulgadas y otro para una tablet; con puerto usintegrado con cable para conectar a una batería externa
 - Bolsillo frontal y bolsillos laterales para acceder fácilmente a los accesorios y los gadgets
 
