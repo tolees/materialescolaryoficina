@@ -28,8 +28,8 @@ En este momento está [Vans Mochila OLD SKOOL III VN0A3I6RY281 Negro](https://ww
 
 🔎:
 
-- The old school II backpack
 - Marca: Vans
+- The old school II backpack
 - 100% Polyester
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QKKW3HZ/?tag=tolees-21)
