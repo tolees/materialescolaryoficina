@@ -28,9 +28,9 @@ En este momento está [Casio FX-991SPX II - Calculadora científica  Recomendada
 
 🔎:
 
-- Estadísticas basadas en listas, estadísticas con 1 variable, desviación típica, estadísticas con 2 variables (regresiones), cálculo de porcentajes, adición automática de paréntesis, tabla de funciones
 - Calculadora científica con menú y instrucciones en tu idioma: Castellano, catalán, euskera y portugués
 - Funciones trigonométricas y funciones trigonométricas inversas, funciones hiperbólicas e hiperbólicas inversas, cálculo de potencias y raíces, cálculo logarítmico, cálculo exponencial
+- Estadísticas basadas en listas, estadísticas con 1 variable, desviación típica, estadísticas con 2 variables (regresiones), cálculo de porcentajes, adición automática de paréntesis, tabla de funciones
 - Cálculo de raíces, combinatoria y permutación, factorización de números primos, generación de números enteros aleatorios, fracciones conversión de sexagesimal a decimal y viceversa, cálculos de grados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VGPHFXP/?tag=tolees-21)

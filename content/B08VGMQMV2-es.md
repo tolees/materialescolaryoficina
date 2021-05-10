@@ -28,9 +28,9 @@ Ahora mismo tienes [Casio FX-570SPXII  Calculadora Científica  Recomendada para
 
 🔎:
 
-- Estadísticas basadas en listas, estadísticas con 1 variable, desviación típica, estadísticas con 2 variables (regresiones), cálculo de porcentajes, adición automática de paréntesis, tabla de funciones
 - Cálculo de raíces, combinatoria y permutación, factorización de números primos, generación de números enteros aleatorios, fracciones conversión de sexagesimal a decimal y viceversa, cálculos de grados
 - Funciones trigonométricas y funciones trigonométricas inversas, funciones hiperbólicas e hiperbólicas inversas, cálculo de potencias y raíces, cálculo logarítmico, cálculo exponencial
+- Estadísticas basadas en listas, estadísticas con 1 variable, desviación típica, estadísticas con 2 variables (regresiones), cálculo de porcentajes, adición automática de paréntesis, tabla de funciones
 - Calculadora científica con menú y instrucciones en tu idioma: Castellano, catalán, euskera y portugués
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VGMQMV2/?tag=tolees-21)
