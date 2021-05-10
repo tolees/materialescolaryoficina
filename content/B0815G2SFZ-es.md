@@ -28,12 +28,12 @@ Ahora mismo tienes [EASTPAK Padded Pak r Mochila  40 cm  24 L  Negro  Blakout St
 
 🔎:
 
-- Elaborada 100% de poliéster
-- Compartimento principal con bolsillo delantero con cremallera
 - Las correas para los hombros pueden parecer un poco rígidas al principio, pero, con el tiempo, se vuelven flexibles
-- Altura: 40 cm, Ancho: 30 cm, Fondo: 18 cm
 - Panel trasero acolchado y correas ajustables para los hombros
 - Este producto es 100% vegano, no utiliza fuentes de origen animal
+- Compartimento principal con bolsillo delantero con cremallera
 - En nuestra tonalidad Blakout Stripe Red
+- Elaborada 100% de poliéster
+- Altura: 40 cm, Ancho: 30 cm, Fondo: 18 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0815G2SFZ/?tag=tolees-21)
