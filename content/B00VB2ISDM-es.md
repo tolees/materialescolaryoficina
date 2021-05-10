@@ -29,9 +29,9 @@ Ahora mismo tienes [CASIO FX-991 - Calculadora científica  Idioma Aleman ](http
 🔎:
 
 - Idioma del menú: alemán
-- resolución de la pantalla: 63 x 192 Pixeles
 - Pantalla LCD
-- Fuente de energía: Batería/Solar
 - 696 funciones
+- resolución de la pantalla: 63 x 192 Pixeles
+- Fuente de energía: Batería/Solar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00VB2ISDM/?tag=tolees-21)
