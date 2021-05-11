@@ -28,10 +28,10 @@ Ahora mismo tienes [Maped – Lápices de colores STRONG Color Peps – 24 lápi
 
 🔎:
 
-- Desde su creación en 1947, Maped (Manufactura de Artículos de Precisión y de Dessin) ha apoyado su desarrollo en sus conocimientos industriales, su cultura de innovación y su capacidad de respuesta para ofrecer a sus usuarios soluciones cada vez más eficaces y duraderas.
+- ERGONOMIA Y SEGURIDAD: Los lápices de colorear Maped tienen una forma específica triangular que facilita el agarre para trazos más seguros. Los lápices Maped cumplen con la normativa de juguetes para un uso seguro.
 - Colores muy vistos: colores vivos e intensos, en cualquier lugar, en cualquier momento gracias a los lápices de la gama Color Peps Strong. Para preparar el comienzo del colegio o para ir de vacaciones o simplemente para regalar, ColorPeps by Maped ofrece una gama de productos y colores que hacen que los ojos se llenen de la felicidad de los niños.
 - Lápices sin madera: los lápices de colores Strong están fabricados sin madera, son de resina. Los niños pueden manipularlos sin riesgo de derrames
-- ERGONOMIA Y SEGURIDAD: Los lápices de colorear Maped tienen una forma específica triangular que facilita el agarre para trazos más seguros. Los lápices Maped cumplen con la normativa de juguetes para un uso seguro.
 - RAYONES ULTRA-RESISTENTES: Con su mina de un diámetro de 3,2 mm, los lápices Strong de Maped resisten todo, incluso a los niños más rebeldes. Las minas no se rompen, los lápices son fáciles de afilar y duran en el tiempo.
+- Desde su creación en 1947, Maped (Manufactura de Artículos de Precisión y de Dessin) ha apoyado su desarrollo en sus conocimientos industriales, su cultura de innovación y su capacidad de respuesta para ofrecer a sus usuarios soluciones cada vez más eficaces y duraderas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082YCFVVQ/?tag=tolees-21)
