@@ -28,10 +28,10 @@ Tienes [Czoele Álbum de Fotos DIY  Scrapbook Cuero Álbum de Fotos Libro de Vis
 
 🔎:
 
-- 🍁Los álbumes de fotos decorados con un colgante de metal y puede ser un marcador
-- 🍃El tamaño del libro de recortes es de 18x22 cm y el tamaño de la página interior es de 15 x21 cm
-- 🍒 Perfecto para ser regalo de compromiso, aniversario de bodas, cumpleaños, día de San Valentín, día de la madre, día del niño, día del padre, baby shower, navidad, día de acción de gracias, etc.
 - 🍂 Tiene 30 hojas de cartón negro y 20 hojas de papel kraft), y viene con 1 páginas de coloridas pegatinas de esquina
+- 🍒 Perfecto para ser regalo de compromiso, aniversario de bodas, cumpleaños, día de San Valentín, día de la madre, día del niño, día del padre, baby shower, navidad, día de acción de gracias, etc.
+- 🍃El tamaño del libro de recortes es de 18x22 cm y el tamaño de la página interior es de 15 x21 cm
 - 🍀Our cubierta álbumes de fotos está hecho de cuero PU gruesa durable flexible (resistente al agua), con la hoja del patrón en la cubierta
+- 🍁Los álbumes de fotos decorados con un colgante de metal y puede ser un marcador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083J7BG9G/?tag=tolees-21)
