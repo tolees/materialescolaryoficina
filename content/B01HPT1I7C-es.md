@@ -28,8 +28,8 @@ Ahora mismo tienes [Carioca A52702524 - Pack de 24 lápices](https://www.amazon.
 
 🔎:
 
-- Carioca
 - Caja de 24 lápices
 - Lápices de colores
+- Carioca
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01HPT1I7C/?tag=tolees-21)
