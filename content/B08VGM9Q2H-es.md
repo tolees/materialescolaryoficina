@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio FX-82SPXII Iberia - Calculadora ci al 29.70 % de descuento'
-date: 2021-05-11 13:03:29
+date: 2021-05-12 19:41:18
 image: 'https://m.media-amazon.com/images/I/41UL3hAvXqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [Casio FX-82SPXII Iberia - Calculadora científica  Recomenda
 
 🔎:
 
-- Tecla de cálculo del resto de la división entera, función de tabla de valores para 1 o 2 funciones
 - LCD de alta resolución 63 x 192 píxeles, 10 + 2 dígitos
-- Tecla de simplificación de fracciones, memoria PreAns
 - Calculadora científica con menú y instrucciones en tu idioma: Castellano, catalán, euskera y portugués
+- Tecla de cálculo del resto de la división entera, función de tabla de valores para 1 o 2 funciones
+- Tecla de simplificación de fracciones, memoria PreAns
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VGM9Q2H/?tag=tolees-21)
