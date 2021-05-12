@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Targus Groove X2 mochila 27 L  práctica  al 38.47 % de rebaja'
-date: 2021-05-09 07:30:36
+date: 2021-05-12 22:45:38
 image: 'https://m.media-amazon.com/images/I/41EBed9rByL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Targus'
 buyurl: 'https://www.amazon.es/dp/B07GHB64DM/?tag=tolees-21'
 descuento: '38.47'
-average: '40.115'
+average: '38.244'
 ---
 
 Tienes [Targus Groove X2 mochila 27 L  práctica mochila para portátil hasta 15"  mochila impermeable ideal para la universidad o como mochila de trabajo – azul  TSB95201GL](https://www.amazon.es/dp/B07GHB64DM/?tag=tolees-21) con precio final de  30.76 EUR (original: 49.99 EUR) (38.47 %  de rebaja) aqui!
