@@ -28,9 +28,9 @@ Ahora mismo tienes [Casio FX-82SPXII Iberia - Calculadora científica  Recomenda
 
 🔎:
 
-- LCD de alta resolución 63 x 192 píxeles, 10 + 2 dígitos
 - Calculadora científica con menú y instrucciones en tu idioma: Castellano, catalán, euskera y portugués
-- Tecla de cálculo del resto de la división entera, función de tabla de valores para 1 o 2 funciones
 - Tecla de simplificación de fracciones, memoria PreAns
+- LCD de alta resolución 63 x 192 píxeles, 10 + 2 dígitos
+- Tecla de cálculo del resto de la división entera, función de tabla de valores para 1 o 2 funciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VGM9Q2H/?tag=tolees-21)
