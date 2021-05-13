@@ -28,9 +28,9 @@ Ahora mismo tienes [Staedtler 120-2BK6DAST  Lápices  Mina HB  6 unidades  Negro
 
 🔎:
 
+- Lápiz de alta calidad para escribir, dibujar y esbozar
 - Tiene resistencia a la rotura gracias a la especial formulación de la mina y a su doble encoladura
 - Adecuado para la escuela y la oficina
 - Pack de 5 lápices hecho de madera certificada PEFC
-- Lápiz de alta calidad para escribir, dibujar y esbozar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003JYY3A2/?tag=tolees-21)
