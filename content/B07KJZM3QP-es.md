@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio FX-82MS-2- Calculadora científica  con un 30.03 % de descuento'
-date: 2021-05-11 09:01:40
+date: 2021-05-13 06:38:40
 image: 'https://m.media-amazon.com/images/I/41RETk6IzZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B07KJZM3QP/?tag=tolees-21'
 descuento: '30.03'
-average: '11.09'
+average: '10.55'
 ---
 
 En este momento está [Casio FX-82MS-2- Calculadora científica  color gris oscuro](https://www.amazon.es/dp/B07KJZM3QP/?tag=tolees-21) a 8.39 EUR (original: 11.99 EUR) (30.03 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Casio FX-82MS-2- Calculadora científica  color gris oscu
 
 🔎:
 
-- 1 memoria de medias, 8 memorias de constantes, Función SCI/FIX/ENG, Cálculo de porcentajes, 24 niveles de paréntesis
 - Pantalla de clara disposición como, p; ej., símbolo de separación de millares, indicación exponencial como símbolo x10, mayor presentación de la línea superior, etc
-- Gran botón de cursor para navegar, recuperar y editar cálculos; cómodo sistema de menús para cálculos estadísticos
+- 1 memoria de medias, 8 memorias de constantes, Función SCI/FIX/ENG, Cálculo de porcentajes, 24 niveles de paréntesis
 - Cálculos en grado centesimal, grado sexagesimal y medida de arco, transformación de sexagesimal a decimal y viceversa, sistema automático de cálculo de fracciones
+- Gran botón de cursor para navegar, recuperar y editar cálculos; cómodo sistema de menús para cálculos estadísticos
 - Funciones de trigonometría, Conversión de coordenadas polares en coordenadas rectangulares y viceversa, Funciones hiperbólicas e hiperbólicas inversas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KJZM3QP/?tag=tolees-21)
