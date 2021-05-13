@@ -28,10 +28,10 @@ Está [Stabilo Boss - Subrayador de escritorio  10 unidades   color pastel](http
 
 ℹ️:
 
-- Tinta pastel intensa y resistente a la luz en cualquier papel.
+- El rotulador STABILO puede permanecer abierto durante 4 horas sin secarse.
 - El inconfundible subrayador STABILO BOSS está disponible en 10 colores pastel. Práctico, el juego de escritorio le permite mantener sus 10 subrayadores STABILO BOSS siempre a mano.
 - El rotulador Bosch original tiene una punta biselada que permite 2 anchos de trazo: 2 y 5 mm.
-- El rotulador STABILO puede permanecer abierto durante 4 horas sin secarse.
 - Hasta 350 metros de subrayado.
+- Tinta pastel intensa y resistente a la luz en cualquier papel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D9W6QHN/?tag=tolees-21)
