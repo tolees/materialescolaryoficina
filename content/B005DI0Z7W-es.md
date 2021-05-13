@@ -28,9 +28,9 @@ Ahora mismo tienes [APLI Kids - Rollo de gomets estrella  color plata](https://w
 
 🔎:
 
-- Rollo de pegatinas
 - Contiene 2360 piezas
-- Tienen diseño de estrella
+- Rollo de pegatinas
 - Adecuadas para presentes o para habitaciones de niños
+- Tienen diseño de estrella
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005DI0Z7W/?tag=tolees-21)
