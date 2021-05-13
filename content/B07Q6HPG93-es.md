@@ -28,10 +28,10 @@ En este momento está [Moleskine  Cuaderno Dragon Ball  Tema Goku  Edición Limi
 
 🔎:
 
-- Tamaño grande 13 x 21 cm, 240 páginas - Blanco - Tema Goku
-- Complemento especial: 1 hoja de pegatinas temáticas de Dragon Ball
-- Cuaderno de rayas - papel de color marfil sin ácido de 70 g/m2
 - Adéntrate en el mundo de Dragon Ball para buscar las 7 Bolas del Dragón y coleccionar los 4 cuadernos de edición limitada de Moleskine
 - Este cuaderno de Dragon Ball tiene una tapa dura con gráficos y detalles temáticos, esquinas redondeadas, cierre elástico y marcador de cinta
+- Tamaño grande 13 x 21 cm, 240 páginas - Blanco - Tema Goku
+- Cuaderno de rayas - papel de color marfil sin ácido de 70 g/m2
+- Complemento especial: 1 hoja de pegatinas temáticas de Dragon Ball
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q6HPG93/?tag=tolees-21)
