@@ -29,7 +29,7 @@ Está [NIKE Nk Acdmy Team Bkpk Sports Backpack  Unisex adulto  University Red/Bl
 ℹ️:
 
 - Padded and adjustable shoulder straps
-- Large main Compartiment
 - Durable fabric
+- Large main Compartiment
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BQZY6SS/?tag=tolees-21)
