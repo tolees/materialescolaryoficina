@@ -28,10 +28,10 @@ Está [Fisher-Price- Autobús Escolar Amarillo Grande de Little People  Mattel G
 
 ℹ️:
 
-- El icónico autobús escolar de Little People aumenta de tamaño con un tirador que se guarda debajo
-- Pulsa los botones para descubrir música, sonidos, luces y contenido de aprendizaje de tecnología inteligente
-- Para niños pequeños y de preescolar de entre 1 y 5 años
 - ¡Trae a tus amigos! El autobús incluye 4 figuras y dispone de espacio para un máximo de 12 (las figuras adicionales se venden por separado).
+- Para niños pequeños y de preescolar de entre 1 y 5 años
+- El icónico autobús escolar de Little People aumenta de tamaño con un tirador que se guarda debajo
 - Abre manualmente la puerta, despliega la señal de stop y abre la rampa de la silla de ruedas
+- Pulsa los botones para descubrir música, sonidos, luces y contenido de aprendizaje de tecnología inteligente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089FBJ8T6/?tag=tolees-21)
