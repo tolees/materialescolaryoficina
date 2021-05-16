@@ -28,10 +28,10 @@ Está [AWAVO Lápiz Táctil Compatible para Apple iPad 2018-2020 con rechazo de 
 
 ℹ️:
 
-- ☻ 【Admite Palm Rejection】- El lápiz recargable actualizado compatible con iPad, puede colocar la palma de la mano en la pantalla del iPad sin usar guantes y puede escribir, pintar y jugar juegos cómodamente.
-- ☻ 【El mejor servicio para usted】- Ofrecemos un servicio posventa de alta calidad y soporte de producto gratuito. 12 meses sin preocupaciones, 30 días de garantía de devolución de dinero. Por favor, póngase en contacto con nosotros si tiene alguna pregunta.
+- ☻ 【Duración de la batería de larga duración】- El lápiz admite 24 horas de uso continuo durante solo 1,5 horas por carga. Los palpadores recargables se activarán automáticamente en "Modo de suspensión" después de estar inactivos durante 5 minutos para ahorrar energía.
 - ☻ 【Diseño de punta de alta precisión y 2 en 1】- La punta de plástico POM de 1 mm de nuevo diseño hace que este lápiz óptico sea tan preciso como un lápiz real, que es más suave y sin retrasos, sin saltos ni arañazos, lo que le brinda la mejor experiencia . Puede utilizar la punta de malla cuando la batería del Pen está agotada.
 - ☻ 【Diseño para iPad 2018-2020】- El lápiz óptico capacitivo solo admite iPad 2018 o modelos posteriores: iPad Pro 11 ”(1.a / 2.a generación), iPad Pro 12.9” (3.a / 4.a generación), iPad (8.a / 7.a / 6.a generación), iPad Air (3.a / 4.a generación), iPad Mini (5.a generación). NOTA: Todos los modelos de iPad deben actualizarse con iOS 12.2 o superior. *** Compruebe el modelo de iPad correcto antes de realizar el pedido. ***
-- ☻ 【Duración de la batería de larga duración】- El lápiz admite 24 horas de uso continuo durante solo 1,5 horas por carga. Los palpadores recargables se activarán automáticamente en "Modo de suspensión" después de estar inactivos durante 5 minutos para ahorrar energía.
+- ☻ 【Admite Palm Rejection】- El lápiz recargable actualizado compatible con iPad, puede colocar la palma de la mano en la pantalla del iPad sin usar guantes y puede escribir, pintar y jugar juegos cómodamente.
+- ☻ 【El mejor servicio para usted】- Ofrecemos un servicio posventa de alta calidad y soporte de producto gratuito. 12 meses sin preocupaciones, 30 días de garantía de devolución de dinero. Por favor, póngase en contacto con nosotros si tiene alguna pregunta.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081MZNMQR/?tag=tolees-21)
