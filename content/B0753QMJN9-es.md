@@ -28,9 +28,9 @@ Tienes [Marcador STABILO BOSS MINI PASTELlove - Estuche con 6 colores pastel](ht
 
 🔎:
 
-- 2 anchos de lines; 2 y 5 mm
 - Calidad alemana
 - Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
 - Tamaño mini
+- 2 anchos de lines; 2 y 5 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0753QMJN9/?tag=tolees-21)
