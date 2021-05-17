@@ -28,10 +28,10 @@ Tienes [Herefun Pintura de Acuarela Sólida - Acuarelas Profesionales por 48 Col
 
 ℹ️:
 
-- Set de Acuarela: 48 Acuarelas, 8 papel de acuarela, 1 esponja absorbente de agua, 1 paleta, 1 lápiz, 1 pincel de agua, 1 pincel de acuarela, 1 borrador, 1 sacapuntas, 1 caja de almacenaje. En la entrega se incluyen casi todos los utensilios necesarios para la acuarela.
-- Regalo Perfecto: Kit de pintura de arte para colorear o dibujar para adultos y niños, adecuado para principiantes y artistas. Es un regalo ideal para cumpleaños, Acción de Gracias, y Navidad.
-- Pigmentos de Alta Calidad: Los pigmentos de acuarela se fabrican con finos pigmentos molidos en cantidad concentrada. Los colores de agua están formulados para mezclarse fácilmente, hermosos colores vivos con gran textura.
-- No Tóxico: Este juego de acuarelas no es tóxico y cumple con las normas de seguridad europeas. Es muy adecuado para personas de todas las edades a quienes les gusta pintar y pueden usarlo con confianza.
 - 48 Colores Vibrantes: Tiene excelente transparencia, alta coloración y resistencia a la luz. Produce colores brillantes, ricos en pigmentos y de larga duración que mantendrán viva su obra de arte durante toda la vida.
+- No Tóxico: Este juego de acuarelas no es tóxico y cumple con las normas de seguridad europeas. Es muy adecuado para personas de todas las edades a quienes les gusta pintar y pueden usarlo con confianza.
+- Set de Acuarela: 48 Acuarelas, 8 papel de acuarela, 1 esponja absorbente de agua, 1 paleta, 1 lápiz, 1 pincel de agua, 1 pincel de acuarela, 1 borrador, 1 sacapuntas, 1 caja de almacenaje. En la entrega se incluyen casi todos los utensilios necesarios para la acuarela.
+- Pigmentos de Alta Calidad: Los pigmentos de acuarela se fabrican con finos pigmentos molidos en cantidad concentrada. Los colores de agua están formulados para mezclarse fácilmente, hermosos colores vivos con gran textura.
+- Regalo Perfecto: Kit de pintura de arte para colorear o dibujar para adultos y niños, adecuado para principiantes y artistas. Es un regalo ideal para cumpleaños, Acción de Gracias, y Navidad.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08B5ZRRJS/?tag=tolees-21)
