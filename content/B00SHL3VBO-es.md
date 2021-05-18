@@ -28,9 +28,9 @@ En este momento está [Playcolor Metallic one - Tempera sólida - 12 colores sur
 
 🔎:
 
-- No arruga el papel, no necesita barniz
-- Adecuados para niños de 3 años y más
-- Estuche 12 colores surtidos metalizados
 - Para pintar sobre papel, cartulina, madera, cartón
+- No arruga el papel, no necesita barniz
+- Estuche 12 colores surtidos metalizados
+- Adecuados para niños de 3 años y más
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00SHL3VBO/?tag=tolees-21)
