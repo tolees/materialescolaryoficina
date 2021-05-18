@@ -28,12 +28,12 @@ Está [Bellota 3710-16 - Pulverizador con Mochila  16 litros](https://www.amazon
 
 ℹ️:
 
-- Longitud de lanza 60 centímetros; longitud de manguera 120 centímetros
+- Presión de funcionamiento de 1 a 3 bares
 - Depósito estanco: sin perforaciones y roscas mas largas para evitar posibles fugas
 - Las medidas del producto son: 610 x 420 x 150 mm; y el peso es de: 3, 4 kg
-- Presión de funcionamiento de 1 a 3 bares
 - Depósito de 16 litros con diseño especial de la cámara que permite trabajar con un mejor numero de bombeos
 - Incluye agitador unido a la bomba, para que la mezcla se mantenga homogénea durante el tratamiento
+- Longitud de lanza 60 centímetros; longitud de manguera 120 centímetros
 - Boquilla de alta calidad que garantizan un pulverizado uniforme; incluye dos boquillas una de cono regulable y otra de abanico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00F2NL1BC/?tag=tolees-21)
