@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'PlayColor 10121 - Caja de 12 temperas so con un 18.13 % de descuento'
-date: 2020-05-17 08:48:56
-image: 'https://m.media-amazon.com/images/I/41f5ngLy3kL._SL400_.jpg'
+title: 'Playcolor Metallic one - Tempera sólida  con un 19.90 % de descuento'
+date: 2021-05-18 03:58:42
+image: 'https://m.media-amazon.com/images/I/41ETNMOyBkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00SHL3VBO-es PlayColor 10121 - Caja de 12 temperas solidas 10 gramos...'
+slug: 'B00SHL3VBO-es Playcolor Metallic one - Tempera sólida - 12 colores...'
 sku: 'B00SHL3VBO-es'
-tags: [ 'playcolor', ]
+tags: [ 'Actividades creativas','Juguetes','Juguetes y juegos','Material de escritura y dibujo para niños','Pintura de dedos','Pinturas','playcolor', ]
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28
-comparePrice: 15.0 EUR
-prodname: 'PlayColor 10121 - Caja de 12 temperas solidas 10 gramos  colores surtidos'
+comparePrice: 15.33 EUR
+prodname: 'Playcolor Metallic one - Tempera sólida - 12 colores surtidos - 10121'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'PLAYCOLOR'
 buyurl: 'https://www.amazon.es/dp/B00SHL3VBO/?tag=tolees-21'
-descuento: '18.13'
+descuento: '19.90'
 average: '12.28'
 ---
 
-En este momento está [PlayColor 10121 - Caja de 12 temperas solidas 10 gramos  colores surtidos](https://www.amazon.es/dp/B00SHL3VBO/?tag=tolees-21) a 12.28 EUR (original: 15.0 EUR) (18.13 %  de descuento) en el siguiente enlace!
+En este momento está [Playcolor Metallic one - Tempera sólida - 12 colores surtidos - 10121](https://www.amazon.es/dp/B00SHL3VBO/?tag=tolees-21) a 12.28 EUR (original: 15.33 EUR) (19.90 %  de descuento) en el siguiente enlace!
 
-[![PlayColor 10121 - Caja de 12 temperas so](https://m.media-amazon.com/images/I/41f5ngLy3kL._SL400_.jpg)](https://www.amazon.es/dp/B00SHL3VBO/?tag=tolees-21)
+[![Playcolor Metallic one - Tempera sólida ](https://m.media-amazon.com/images/I/41ETNMOyBkL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00SHL3VBO/?tag=tolees-21)
 
 🔎:
 
+- No arruga el papel, no necesita barniz
+- Adecuados para niños de 3 años y más
+- Estuche 12 colores surtidos metalizados
+- Para pintar sobre papel, cartulina, madera, cartón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00SHL3VBO/?tag=tolees-21)
