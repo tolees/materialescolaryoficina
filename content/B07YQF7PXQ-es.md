@@ -28,11 +28,11 @@ Ahora mismo tienes [Kipling Seoul Mochila Escolar  Rosa  Metallic Berry ](https:
 
 🔎:
 
-- Asa superior
-- Monito de Kipling
+- Ligera, resistente y siempre práctica
 - Logo redondo de Kipling
+- Monito de Kipling
 - Correas de mochila ajustables
 - Impermeable
-- Ligera, resistente y siempre práctica
+- Asa superior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YQF7PXQ/?tag=tolees-21)
