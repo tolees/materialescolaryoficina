@@ -29,10 +29,10 @@ En este momento está [Amazon Basics - Mochila para cámaras DSLR y ordenadores 
 🔎:
 
 - Garantía de un año de Amazon Basics
-- Parte interior acolchada y personalizable Elementos de división móviles
-- Distribuido por Amazon
 - Se envía en un paquete abrefácil de Amazon
+- Parte interior acolchada y personalizable Elementos de división móviles
 - Apropiada para 2 cámaras SLR, 3 o 4 objetivos, un ordenador portátil de 17 pulgadas y accesorios pequeños
+- Distribuido por Amazon
 - Con correas en los laterales para trípodes y otro tipo de accesorios pesados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CF5OGP8/?tag=tolees-21)
