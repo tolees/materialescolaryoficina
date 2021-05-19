@@ -28,13 +28,13 @@ Tienes [Loctite Super Glue-3 Original  pegamento universal con triple resistenci
 
 🔎:
 
-- Triple resistencia – La nueva fórmula del adhesivo impermeable con triple resistencia es resistente al agua y al lavavajillas, a los impactos, y a temperaturas extremas.
 - Antiobstrucción – Este pegamento fuerte, transparente e instantáneo tiene un tapón antiobstrucción. Ideal para que tu adhesivo multiusos siempre esté preparado.
 - Producto siempre a punto a un precio especial
-- Máxima fuerza de unión
-- Con solo una gota – Este pegamento líquido, transparente e instantáneo se aplica con tan solo una gota en superficies limpias y secas. Se seca en solo 3 segundos.
-- Tapón anti obstrucción
 - Multimateriales – Loctite Super Glue-3 Original sirve como pegamento rápido para metal, porcelana, plástico*, caucho, cuero*, madera y mármol (excepto PE, PP, Teflón, vidrio).
+- Triple resistencia – La nueva fórmula del adhesivo impermeable con triple resistencia es resistente al agua y al lavavajillas, a los impactos, y a temperaturas extremas.
 - Envío y detalles – Loctite Super Glue-3 Original, tubos de adhesivo universal líquido, muy resistente gracias a su nueva fórmula, transparente, 2x3 g tubo, n.º artículo: 2056071
+- Con solo una gota – Este pegamento líquido, transparente e instantáneo se aplica con tan solo una gota en superficies limpias y secas. Se seca en solo 3 segundos.
+- Máxima fuerza de unión
+- Tapón anti obstrucción
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014FTFASS/?tag=tolees-21)
