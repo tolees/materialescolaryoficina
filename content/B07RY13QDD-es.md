@@ -28,7 +28,7 @@ En este momento está [Totto MA03EXT001-1820G-N01 Mochila con Ruedas para Portá
 
 🔎:
 
-- Marca: Totto
 - Mochila con ruedas para portátil 14" - Pavon
+- Marca: Totto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RY13QDD/?tag=tolees-21)
