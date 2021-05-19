@@ -28,8 +28,8 @@ Tienes [Susi Winter Design & Paper 18033 Shopping List - Bloc magnético con por
 
 🔎:
 
-- Bloc de notas con imán en la parte posterior.
 - Diseñado y producido en Alemania.
+- Bloc de notas con imán en la parte posterior.
 - Con rayas.
 - Lápiz negro con tapa magnética dorada
 
