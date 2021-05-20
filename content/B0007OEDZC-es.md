@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'STABILO BOSS Original Marcador fluoresce al 32.41 % de descuento'
-date: 2020-09-27 02:12:24
-image: 'https://m.media-amazon.com/images/I/419Hp4Z-+QL._SL400_.jpg'
+title: 'Marcador fluorescente STABILO BOSS ORIGI al 36.15 % de descuento'
+date: 2021-05-20 18:07:59
+image: 'https://m.media-amazon.com/images/I/41Bxbx3B4YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0007OEDZC-es STABILO BOSS Original Marcador fluorescente multicolor-...'
+slug: 'B0007OEDZC-es Marcador fluorescente STABILO BOSS ORIGINAL - Estuche con...'
 sku: 'B0007OEDZC-es'
-tags: [ 'stabilo', ]
-actualPrice: 7.59 EUR
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Rotuladores y subrayadores','Subrayadores','stabilo', ]
+actualPrice: 7.17 EUR
 currency: EUR
-price: 7.59
+price: 7.17
 comparePrice: 11.23 EUR
-prodname: 'STABILO BOSS Original Marcador fluorescente multicolor- Estuche con 8 colores'
+prodname: 'Marcador fluorescente STABILO BOSS ORIGINAL - Estuche con 8 colores'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'STABILO'
 buyurl: 'https://www.amazon.es/dp/B0007OEDZC/?tag=tolees-21'
-descuento: '32.41'
-average: '7.916666666666666'
+descuento: '36.15'
+average: '7.842'
 ---
 
-Ahora mismo tienes [STABILO BOSS Original Marcador fluorescente multicolor- Estuche con 8 colores](https://www.amazon.es/dp/B0007OEDZC/?tag=tolees-21) a 7.59 EUR (original: 11.23 EUR) (32.41 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Marcador fluorescente STABILO BOSS ORIGINAL - Estuche con 8 colores](https://www.amazon.es/dp/B0007OEDZC/?tag=tolees-21) a 7.17 EUR (original: 11.23 EUR) (36.15 %  de descuento) en el siguiente enlace!
 
-[![STABILO BOSS Original Marcador fluoresce](https://m.media-amazon.com/images/I/419Hp4Z-+QL._SL400_.jpg)](https://www.amazon.es/dp/B0007OEDZC/?tag=tolees-21)
+[![Marcador fluorescente STABILO BOSS ORIGI](https://m.media-amazon.com/images/I/41Bxbx3B4YL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0007OEDZC/?tag=tolees-21)
 
 🔎:
 
+- Trazo 2-5 mm
+- Colores diferentes
+- Tecnología antisecado, hasta 4 horas destapado para estar concentrado al máximo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0007OEDZC/?tag=tolees-21)
