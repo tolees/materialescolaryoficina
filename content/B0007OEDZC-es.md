@@ -28,8 +28,8 @@ Ahora mismo tienes [Marcador fluorescente STABILO BOSS ORIGINAL - Estuche con 8 
 
 🔎:
 
+- Tecnología antisecado, hasta 4 horas destapado para estar concentrado al máximo
 - Trazo 2-5 mm
 - Colores diferentes
-- Tecnología antisecado, hasta 4 horas destapado para estar concentrado al máximo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0007OEDZC/?tag=tolees-21)
