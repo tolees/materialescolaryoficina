@@ -29,7 +29,7 @@ Tienes [Cerdá - Star Wars CD-21-2091 2018 Mochila infantil  40 cm  Multicolor](
 🔎:
 
 - Tipología Mochilas sin carro
-- Licencia 100% original
 - Producto oficial Star Wars
+- Licencia 100% original
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D5S9PYJ/?tag=tolees-21)
