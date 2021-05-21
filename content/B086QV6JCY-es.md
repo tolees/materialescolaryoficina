@@ -29,9 +29,9 @@ Está [Fhodigogo - 64 GB Memoria USB  2 unidades 64 GB USB Flash Drive USB 2.0 M
 ℹ️:
 
 - Fácil de usar y transportar: Memory Stick para almacenar música, fotos, datos personales y documentos, películas, imágenes, libros, programas, presentaciones, dibujos y mucho más.
-- Consejos: después de recibir el producto, comprueba el producto si hay algún problema, por favor envíanos un correo electrónico a nosotros. Le responderemos en 24 horas.
-- Capacidad del producto: 64 GB
 - Tienen altas velocidades de transferencia, plug and play, no es necesario instalar ningún software.
 - La memoria stick es compatible con todos los sistemas operativos comunes como Windows 7/8/10/2000/XP/Vista/ME/NT, Linux y Mac OS.
+- Consejos: después de recibir el producto, comprueba el producto si hay algún problema, por favor envíanos un correo electrónico a nosotros. Le responderemos en 24 horas.
+- Capacidad del producto: 64 GB
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086QV6JCY/?tag=tolees-21)
