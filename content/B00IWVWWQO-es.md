@@ -28,8 +28,8 @@ Tienes [BIC 232508 - Bolígrafo  Color Azul](https://www.amazon.es/dp/B00IWVWWQO
 
 ℹ️:
 
-- Diámetro de bola: 1,2 mm
 - Ancho de trazo: 0,4 mm
 - Color de la tinta: azul
+- Diámetro de bola: 1,2 mm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IWVWWQO/?tag=tolees-21)

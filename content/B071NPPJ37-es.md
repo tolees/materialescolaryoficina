@@ -28,10 +28,10 @@ Ahora mismo tienes [Art-n-Fly - Bolígrafo Punta Fina Gel Blanco para Artistas c
 
 🔎:
 
-- TRAZO SUAVE Y FLUIDO: Este bolígrafo de alta calidad y su tinta gel permiten llevar a cabo una escritura o dibujo suave, fluido y sin esfuerzo. Set de Bolígrafos Gel Blancos ideal para dibujantes ilustraciones bocetos y para libros para colorear para adultos.
-- SIN ÁCIDO NI TÓXICOS. Agarre de goma para que su uso sea cómodo. Con más tinta que cualquier otro bolígrafo del mercado.
-- BOLÍGRAFOS TINTA GEL BLANCOS DE PUNTA FINA: Punta fina de 0.7mm para dibujos con detalles, bocetos, colorear e ilustraciones.
-- VERSÁTIL: Ideal para papeles oscuros, blancos o negros.
 - ARCHIVAL INK Y RESISTENTE AL AGUA: Tinta Archival ink blanca resistente al agua de secado rápido y que además no mancha.
+- VERSÁTIL: Ideal para papeles oscuros, blancos o negros.
+- SIN ÁCIDO NI TÓXICOS. Agarre de goma para que su uso sea cómodo. Con más tinta que cualquier otro bolígrafo del mercado.
+- TRAZO SUAVE Y FLUIDO: Este bolígrafo de alta calidad y su tinta gel permiten llevar a cabo una escritura o dibujo suave, fluido y sin esfuerzo. Set de Bolígrafos Gel Blancos ideal para dibujantes ilustraciones bocetos y para libros para colorear para adultos.
+- BOLÍGRAFOS TINTA GEL BLANCOS DE PUNTA FINA: Punta fina de 0.7mm para dibujos con detalles, bocetos, colorear e ilustraciones.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071NPPJ37/?tag=tolees-21)
