@@ -30,7 +30,7 @@ Ahora mismo tienes [NGS Monray Snipe- Mochila para Ordenadores portátiles de ha
 
 - Incluye compartimento acolchado para el portátil, así como otro espacio para los dispositivos tecnológicos
 - Fabricado en poliéster de gran calidad, dicho material es a su vez resistente a las salpicaduras
-- Diseño ergonómico junto con las correas para el hombro acolchadas y ajustables evitan sobrecargas en los hombros
 - Mochila para ordenadores portátiles de hasta 15.6"
+- Diseño ergonómico junto con las correas para el hombro acolchadas y ajustables evitan sobrecargas en los hombros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PNMQG2D/?tag=tolees-21)
