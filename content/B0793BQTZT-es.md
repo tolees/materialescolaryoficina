@@ -28,10 +28,10 @@ En este momento está [BabyBjörn One Air Mochila Porta Bebé  3D Mesh  Gris  Si
 
 🔎:
 
+- Nuevo modelo con más funciones y diseño actualizado.
+- Cómodo, suave y ergonómico
 - Para uso en posición frontal o posterior desde el nacimiento hasta los 3 años
 - Regulación continua del tamaño y anchura del asiento
 - El cinturón abdominal es fuerte
-- Nuevo modelo con más funciones y diseño actualizado.
-- Cómodo, suave y ergonómico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0793BQTZT/?tag=tolees-21)
