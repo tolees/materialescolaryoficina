@@ -28,9 +28,9 @@ Está [Marcador STABILO BOSS ORIGINAL pastel - Caja con 10 unidades - Color amar
 
 ℹ️:
 
-- Tinta base al agua
-- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
 - Gama de 15 colores
+- Tinta base al agua
 - Calidad Alemana
+- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LY6LEBS/?tag=tolees-21)
