@@ -30,7 +30,7 @@ Tienes [Kipling Seoul Mochila Escolar  Rosa  Statement ](https://www.amazon.es/d
 
 - Bolsas escolares.
 - Seúl.
-- KI485157N
 - Declaración
+- KI485157N
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YQD9DY4/?tag=tolees-21)
