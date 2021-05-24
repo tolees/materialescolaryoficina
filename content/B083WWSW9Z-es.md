@@ -28,10 +28,10 @@ Tienes [Mochila Safta Escolar de Atlético de Madrid  320x150x420mm](https://www
 
 🔎:
 
-- Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar; mochila ligera; cantoneras de goma anti rozaduras en ambos lados para aumentar la durabilidad (patentado safta)
-- Mochila adaptable a carro
-- Espalda y hombreras acolchadas, ergonómicas, cómodas y ajustables
-- Tiradores en los cursores de la cremallera para fácil itar su apertura; costuras reforzadas; asa de mano en la parte superior; doble bolsillo frontal con organizador interior; bolsillo lateral portabotellas
 - Safta atlético de madrid oficial mochila escolar; ideal desde los 14 años.
+- Espalda y hombreras acolchadas, ergonómicas, cómodas y ajustables
+- Mochila adaptable a carro
+- Tiradores en los cursores de la cremallera para fácil itar su apertura; costuras reforzadas; asa de mano en la parte superior; doble bolsillo frontal con organizador interior; bolsillo lateral portabotellas
+- Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar; mochila ligera; cantoneras de goma anti rozaduras en ambos lados para aumentar la durabilidad (patentado safta)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083WWSW9Z/?tag=tolees-21)
