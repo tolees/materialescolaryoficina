@@ -28,10 +28,10 @@ Está [OCYCLONE Funda para iPad Pro de 11 Pulgadas 2020 y iPad Pro de 11 Pulgada
 
 ℹ️:
 
-- [Funda para iPad Pro 11]: Compatible solo con iPad Pro 11 pulgadas 2.a generación 2020 versión (modelo: A2228 / A2068 / A2230 / A2231) y iPad Pro 11 pulgadas 1.a generación 2018 versión (modelo: A1980 / A2013 / A1934 / A1979).
+- [Plano posterior transparente]: diseño transparente híbrido que muestra el logotipo de Apple y la creación personalizada en la parte posterior del iPad. Admite la función de reposo y activación automática.
 - [Magnético fuerte]: el soporte magnético se puede ajustar a 6 ángulos seguros. Siempre tendrás el ángulo estable perfecto para cualquier situación, ya sea en un avión, en el sofá o incluso en la cama. La cubierta magnética también es lo suficientemente fuerte como para sostener su iPad en el refrigerador de metal.
 - [Portalápices de Apple]: Portalápices integrado, fácil de sacar y guardar el lápiz, admite carga inalámbrica Apple Pencil (el lápiz NO está incluido). (Si tiene alguna pregunta con esta funda para iPad de 11 pulgadas, no dude en ponerse en contacto con nosotros, ofrecemos servicio al cliente las 24 horas, los 7 días de la semana).
-- [Plano posterior transparente]: diseño transparente híbrido que muestra el logotipo de Apple y la creación personalizada en la parte posterior del iPad. Admite la función de reposo y activación automática.
 - [Protección de cuerpo completo]: Funda protectora resistente a prueba de golpes para iPad Pro de 11 pulgadas para trabajos pesados ​​para proteger su iPad de golpes y caídas. El cuero PU exterior de primera calidad junto con el cierre magnético asegura una protección total en la parte delantera, trasera y en todas las esquinas.
+- [Funda para iPad Pro 11]: Compatible solo con iPad Pro 11 pulgadas 2.a generación 2020 versión (modelo: A2228 / A2068 / A2230 / A2231) y iPad Pro 11 pulgadas 1.a generación 2018 versión (modelo: A1980 / A2013 / A1934 / A1979).
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TZX3M1N/?tag=tolees-21)
