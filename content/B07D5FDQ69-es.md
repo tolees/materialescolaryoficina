@@ -28,10 +28,10 @@ Tienes [BABYBJÖRN Mochila Porta Bebé Mini  Cotton](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Suave y flexible
-- Pequeña y fácil de poner y quitar
-- Mochila porta bebé ideal para el recién nacido
 - Hacia adentro o hacia adelante sobre el pecho
+- Suave y flexible
+- Mochila porta bebé ideal para el recién nacido
+- Pequeña y fácil de poner y quitar
 - Testado y seguro desde el nacimiento hasta los 12 meses
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D5FDQ69/?tag=tolees-21)
