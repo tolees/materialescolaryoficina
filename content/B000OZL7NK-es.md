@@ -28,10 +28,10 @@ Ahora mismo tienes [Edding 500 marcador permanente - negro - 1 rotulador - punta
 
 🔎:
 
-- Marcadores resistentes al agua de larga duración; de secado óptimo, resistentes a los borrones y a la decoloración con luz solar directa, también para zurdos
 - Marcador universal compacto con punta robusta y cuerpo de aluminio de calidad, adecuado para organizarse en la oficina, el área de trabajo, el almacén, el hogar
+- Los rotuladores edding 500 marcador permanente están disponibles en 10 colores intensos; recargables con edding T 25; puntas de recambio disponibles
 - El paquete contiene 1 rotulador permanente en negro
 - Marcador permanente versátil para escribir y dibujar en muchas superficies, incluyendo cartón, metal, plástico, neumáticos, vidrio, madera, piedra
-- Los rotuladores edding 500 marcador permanente están disponibles en 10 colores intensos; recargables con edding T 25; puntas de recambio disponibles
+- Marcadores resistentes al agua de larga duración; de secado óptimo, resistentes a los borrones y a la decoloración con luz solar directa, también para zurdos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000OZL7NK/?tag=tolees-21)
