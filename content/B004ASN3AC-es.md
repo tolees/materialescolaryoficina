@@ -28,9 +28,9 @@ En este momento está [Giotto - Lyra 236800 - Lápices  caja de 24 unidades](htt
 
 🔎:
 
-- Lápiz de color con cuerpo hexagonal barnizado en el color de la mina con esquinas doradas y diámetro 7.6 mm
-- Mina extra grande de diámetro 3.8 mm
 - Mina de calidad superior rica en pigmentos que garantizan un óptimo rendimiento y resistencia
+- Mina extra grande de diámetro 3.8 mm
 - Colores vivos y brillantes
+- Lápiz de color con cuerpo hexagonal barnizado en el color de la mina con esquinas doradas y diámetro 7.6 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004ASN3AC/?tag=tolees-21)
