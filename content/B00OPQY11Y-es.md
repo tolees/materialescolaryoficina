@@ -28,10 +28,10 @@ Está [Westcott N-90027 00-I - Lote de 9 tijeras con mango ergonómico  inoxidab
 
 ℹ️:
 
-- Mango ergonómico suave para un trabajo muy agradable y preciso
-- Longitud: 13 cm, 21 cm y 25 cm
 - Tijeras de agarre suave de fácil agarre
-- Contenido: 9 unidades
+- Longitud: 13 cm, 21 cm y 25 cm
 - Cuchillas de acero inoxidable, mangos de plástico de colores
+- Mango ergonómico suave para un trabajo muy agradable y preciso
+- Contenido: 9 unidades
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00OPQY11Y/?tag=tolees-21)
