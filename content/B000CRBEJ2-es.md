@@ -29,9 +29,9 @@ Ahora mismo tienes [Eastpak Padded Pak R Mochila  40 Cm  24 L  Negro  Black ](ht
 🔎:
 
 - Equipada con un panel acolchado en la parte trasera y correas para los hombros que se pueden ajustar para comodidad
-- Espacioso compartimento principal con nuestro emblemático bolsillo delantero
-- Fabricada con 60 % nylon y 40 % poliéster
 - Compartimento principal espacioso con bolsillo delantero con cremallera
 - Correas acolchadas ajustables para hombros y panel trasero
+- Espacioso compartimento principal con nuestro emblemático bolsillo delantero
+- Fabricada con 60 % nylon y 40 % poliéster
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000CRBEJ2/?tag=tolees-21)
