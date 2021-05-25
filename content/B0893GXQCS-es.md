@@ -28,10 +28,10 @@ En este momento está [JiaLe - Cuerda Saltar  Cuerda de Salto de 2 Piezas con Co
 
 🔎:
 
-- ③ Comodidad ------ el mango de plástico hueco está cubierto con una espuma suave para el agarre. Cuando tus manos están cansadas y sudorosas, no eclosionan.
-- ⑤ Nota------solo puede contar correctamente con la mano derecha sujetando el mango del contador
 - ① Longitud ajustable-----la cuerda para saltar tiene una longitud de 2.5 M y es ajustable, perfecta para adultos y niños.
-- ② contador automático------la cuerda para saltar tiene una función de conteo automático y un botón de eliminación para ayudarlo a completar su propio número de objetivos.
 - ④ Práctico ------ El ejercicio de salto es adecuado para perder peso, quemar grasa, lo que ayuda a promover la circulación sanguínea y lo mantiene saludable. Es el mejor regalo para amigos y familiare
+- ② contador automático------la cuerda para saltar tiene una función de conteo automático y un botón de eliminación para ayudarlo a completar su propio número de objetivos.
+- ⑤ Nota------solo puede contar correctamente con la mano derecha sujetando el mango del contador
+- ③ Comodidad ------ el mango de plástico hueco está cubierto con una espuma suave para el agarre. Cuando tus manos están cansadas y sudorosas, no eclosionan.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0893GXQCS/?tag=tolees-21)
