@@ -28,13 +28,13 @@ Está [Faber-Castell F112413 - Estuche de metal con 12 ecolápices triangulares 
 
 ℹ️:
 
-- Lavable en casi todos los tejidos
-- Barniz ecológico a base de agua
-- Colores acuarelables con trazo suave
-- Zona de agarre GRIP a base de puntos antideslizantes
 - Fabricado en madera 100% reforestada
-- Sencillo afilado y espacio para indicar el nombre
 - Mina protegida contra rotura por el proceso de encolado SV
+- Barniz ecológico a base de agua
+- Zona de agarre GRIP a base de puntos antideslizantes
+- Sencillo afilado y espacio para indicar el nombre
+- Lavable en casi todos los tejidos
 - 12 ecolápices de color con forma triangular
+- Colores acuarelables con trazo suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0007OECM6/?tag=tolees-21)
