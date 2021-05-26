@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Faber-Castell F112413 - Estuche de metal al 33.64 % de descuento'
-date: 2021-05-25 14:37:23
+date: 2021-05-26 17:30:42
 image: 'https://m.media-amazon.com/images/I/41hWbjQ2HJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Está [Faber-Castell F112413 - Estuche de metal con 12 ecolápices triangulares 
 
 ℹ️:
 
-- Barniz ecológico a base de agua
-- Fabricado en madera 100% reforestada
-- Zona de agarre GRIP a base de puntos antideslizantes
 - Lavable en casi todos los tejidos
+- Barniz ecológico a base de agua
 - Colores acuarelables con trazo suave
-- 12 ecolápices de color con forma triangular
-- Mina protegida contra rotura por el proceso de encolado SV
+- Zona de agarre GRIP a base de puntos antideslizantes
+- Fabricado en madera 100% reforestada
 - Sencillo afilado y espacio para indicar el nombre
+- Mina protegida contra rotura por el proceso de encolado SV
+- 12 ecolápices de color con forma triangular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0007OECM6/?tag=tolees-21)
