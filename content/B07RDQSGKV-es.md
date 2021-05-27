@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'yiqi - Lápices de HB Juego de hexágono d al 36.31 % de descuento'
-date: 2021-05-26 17:03:04
+date: 2021-05-27 19:53:37
 image: 'https://m.media-amazon.com/images/I/51B91G7UTBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [yiqi - Lápices de HB Juego de hexágono de grafito de mader
 
 🔎:
 
+- Material: Madera, grafito.
+- Uso ideal para escribir, dibujar, hacer bocetos, para la escuela, oficina, reuniones, restaurante, hotel, uso doméstico, profesor, niños que estudian, etc.
+- Medidas: aprox. 17,9 x 0,7 cm.
 - Diseño hexagonal, grafito gris tradicional, después de tratamiento suavizante, más fácil para cortar, no es fácil de romper.
 - Núcleo de lápiz más grueso, hecho de material de madera ecológica, seguro y duradero.
-- Medidas: aprox. 17,9 x 0,7 cm.
-- Uso ideal para escribir, dibujar, hacer bocetos, para la escuela, oficina, reuniones, restaurante, hotel, uso doméstico, profesor, niños que estudian, etc.
-- Material: Madera, grafito.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RDQSGKV/?tag=tolees-21)
