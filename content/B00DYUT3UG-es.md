@@ -28,9 +28,9 @@ En este momento está [Alpino DP000915  - Plastilina  24 unidades](https://www.
 
 🔎:
 
+- Colores surtidos. 50 g
 - Plastilina Alpino más blanda y moldeable
 - Con colores intensos y brillantes
-- Colores surtidos. 50 g
 - Diseñadas con base mineral, que no mancha y no contiene gluten
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DYUT3UG/?tag=tolees-21)
