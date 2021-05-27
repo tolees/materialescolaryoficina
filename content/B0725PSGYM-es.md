@@ -28,8 +28,8 @@ Tienes [Brick-Cen 52206359 Cola Blanca para Madera  250 g](https://www.amazon.es
 
 ℹ️:
 
-- Alta calidad. Resistencia a la tracción elevada. Secado rápido
-- Es un adhesivo de uso general. Adhesivo para la industria del mueble Carpintería Ebanistería Cartón
 - Cola blanca para madera. Secado rápido. Pegado de aglomerado, DM, etc. Resistente a la humedad (D-2)
+- Es un adhesivo de uso general. Adhesivo para la industria del mueble Carpintería Ebanistería Cartón
+- Alta calidad. Resistencia a la tracción elevada. Secado rápido
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0725PSGYM/?tag=tolees-21)
