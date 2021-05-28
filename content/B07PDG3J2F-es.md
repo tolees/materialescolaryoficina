@@ -28,9 +28,9 @@ Ahora mismo tienes [Alpino MAGIC DOUGH 8 x 14 GR](https://www.amazon.es/dp/B07PD
 
 🔎:
 
-- Pasta para modelar
-- Se seca al aire libre
-- Fácil de usar
 - Producto de alta calidad
+- Fácil de usar
+- Se seca al aire libre
+- Pasta para modelar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PDG3J2F/?tag=tolees-21)
