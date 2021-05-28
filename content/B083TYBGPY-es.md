@@ -28,10 +28,10 @@ En este momento está [K&F Concept Mochila Cámara Fotos Impermeable y Fashion c
 
 🔎:
 
-- 【Protección Especial】: Los compartimentos para el Laptop están hechados con materiales acolchados para amortiguar cualquier golpe, protegirá su portátil mejor. Viene con una cubierta de lluvia, nunca se preocupará por las lluvias, daños, polvo y arañazos en su equipo de fotografía.
-- 【Mochila Fotografía Viaje Fashion】: Dimensiones: 30*17*43 cm / 11.8 * 6.7 * 16.9"(L x W x H). Dos compartimentos separados arriba y abajo para 1 cámara + 2 lentes + ordenador portátil de 15 pulgadas o iPad Pro 12.9" + accesorios+ objetos cotidianos. Flexibilidad para convertir la mochila DSLR en mochila de viaje o estudio, simplemente con sacar los compartimentos desmontables.
 - 【Acceso Rápido y Para Trípode】: La mochila cámara tiene una abertura en la parte delantera que te permite sacar fácil y rápidamente la cámara fotográfica. Hay dos bolsillos y la correa lateral en ambos lados para sostener firmemente su trípode o paraguas. Libera tus manos, disfruta de tu viaje.
+- 【Mochila Fotografía Viaje Fashion】: Dimensiones: 30*17*43 cm / 11.8 * 6.7 * 16.9"(L x W x H). Dos compartimentos separados arriba y abajo para 1 cámara + 2 lentes + ordenador portátil de 15 pulgadas o iPad Pro 12.9" + accesorios+ objetos cotidianos. Flexibilidad para convertir la mochila DSLR en mochila de viaje o estudio, simplemente con sacar los compartimentos desmontables.
 - 【Sistema Transpirable】: El cómodo diseño de la parte posterior del flujo de aire con un relleno ventilado de paneles múltiples y ajustables correas de hombro en forma de S que proporciona un confort óptimo para su hombro, el viaje de larga distancia no estará cansado.
+- 【Protección Especial】: Los compartimentos para el Laptop están hechados con materiales acolchados para amortiguar cualquier golpe, protegirá su portátil mejor. Viene con una cubierta de lluvia, nunca se preocupará por las lluvias, daños, polvo y arañazos en su equipo de fotografía.
 - 【Diseño Impermeable】：Fabricado en material poliéster, impermeable, resistente a rasgaduras, ligero y duradero. La tecnología única de costura y retención asegura que las áreas de carga de peso no se desgasten ni rasguen. Tablero de PE + separador de espuma EPE, fuerte y sólido, alivio de choque y descompresión.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083TYBGPY/?tag=tolees-21)
