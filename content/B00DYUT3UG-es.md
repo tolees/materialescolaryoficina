@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpino DP000915  - Plastilina  24 unidad con un 36.36 % de descuento'
-date: 2021-05-27 11:27:36
+date: 2021-05-28 13:12:31
 image: 'https://m.media-amazon.com/images/I/51Ilbi3k1eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alpino'
 buyurl: 'https://www.amazon.es/dp/B00DYUT3UG/?tag=tolees-21'
 descuento: '36.36'
-average: '8.015'
+average: '7.88666666666667'
 ---
 
 En este momento está [Alpino DP000915  - Plastilina  24 unidades](https://www.amazon.es/dp/B00DYUT3UG/?tag=tolees-21) a 7.63 EUR (original: 11.99 EUR) (36.36 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Alpino DP000915  - Plastilina  24 unidades](https://www.
 
 🔎:
 
-- Colores surtidos. 50 g
-- Plastilina Alpino más blanda y moldeable
 - Con colores intensos y brillantes
 - Diseñadas con base mineral, que no mancha y no contiene gluten
+- Colores surtidos. 50 g
+- Plastilina Alpino más blanda y moldeable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DYUT3UG/?tag=tolees-21)
