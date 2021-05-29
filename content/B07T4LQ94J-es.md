@@ -29,8 +29,8 @@ Tienes [Targus Sol-Lite - Mochila para portátil](https://www.amazon.es/dp/B07T4
 🔎:
 
 - El panel posterior de tejido de malla perforada facilita la ventilación
+- Las asas acolchadas superiores y laterales permiten transportar la mochila como un maletín
 - Correas para el esternón ajustables que ofrecen un mejor apoyo durante los viajes
 - Correas para el hombro ergonómicas, ajustables y acolchadas
-- Las asas acolchadas superiores y laterales permiten transportar la mochila como un maletín
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07T4LQ94J/?tag=tolees-21)
