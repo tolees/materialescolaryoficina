@@ -28,9 +28,9 @@ Tienes [Canson Escolar - Paquete A3   50 Hojas  Guarro Cartulina IRIS 185g Azul 
 
 ℹ️:
 
-- Aplicación: Dibujo y manualidades.
-- Cartulina de color, libre de ácido, ligeramente satinada y coloreada en pasta con pigmentos sólidos a la luz.
 - Ofrece dureza y regularidad en su superficie.
+- Aplicación: Dibujo y manualidades.
 - Se pega fácilmente con los pegamentos de uso escolar.
+- Cartulina de color, libre de ácido, ligeramente satinada y coloreada en pasta con pigmentos sólidos a la luz.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JMCYJ40/?tag=tolees-21)
