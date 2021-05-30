@@ -28,8 +28,8 @@ Tienes [Thule Crossover 2 - Mochila de 30L  Color Negro](https://www.amazon.es/d
 
 🔎:
 
-- Materiales de calidad
 - Espacio para portátil y tablet
+- Materiales de calidad
 - Alta resistencia al paso del tiempo
 - Cremalleras duraderas
 
