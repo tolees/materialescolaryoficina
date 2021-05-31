@@ -28,9 +28,9 @@ Está [Pluma de Impresión 3D  GIANTARM Pluma 3D con Pantalla LCD filamento PLA 
 
 ℹ️:
 
-- ☀Juego completo de iniciación para principiantes: además del lápiz 3D, los accesorios también incluyen los correspondientes accesorios. 12 colores de 120 pies de filamento se puede utilizar inmediatamente. Se suministra con una plantilla imprimible: las plantillas 2D sobre papel o bajo cristal, lo que permite que los niños y los principiantes puedan empezar a trabajar rápidamente para que pueda disfrutar de gráficos pequeños y significativos.
-- ❀Fácil de limpiar y desmontar: boquilla de lápiz fácil de quitar y cambiar: gire la carcasa negra contra el sentido de las agujas del reloj y retire la carcasa.
 - ✿Regalo creativo para niños y adultos: juego de lápices 3D como regalo creativo para ti mismo, niños a partir de 8 años, adultos, artistas, aficionados, aficionados. Diviértete con este lápiz 3D: con el lápiz 3D puedes crear diseños creativos sin imaginación.
+- ❀Fácil de limpiar y desmontar: boquilla de lápiz fácil de quitar y cambiar: gire la carcasa negra contra el sentido de las agujas del reloj y retire la carcasa.
+- ☀Juego completo de iniciación para principiantes: además del lápiz 3D, los accesorios también incluyen los correspondientes accesorios. 12 colores de 120 pies de filamento se puede utilizar inmediatamente. Se suministra con una plantilla imprimible: las plantillas 2D sobre papel o bajo cristal, lo que permite que los niños y los principiantes puedan empezar a trabajar rápidamente para que pueda disfrutar de gráficos pequeños y significativos.
 - ❤Fácil de usar y seguro para niños: el lápiz de impresión 3D se adapta bien a la mano y es muy fácil de usar. Adecuado para principiantes y experimentados artistas/entusiastas de la impresión 3D. Diseño seguro para los niños: si no se utiliza durante 3 minutos, el lápiz cambia al modo de espera.
 - ✮ Pantalla LCD, control con un solo botón y temperatura ajustable/velocidad: 3 modos de temperatura/velocidad ajustables (modo PA: 180 °C – 200 °C; modo ABS: 200 °C – 220 °C).
 
