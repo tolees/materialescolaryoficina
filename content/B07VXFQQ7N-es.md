@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Mochila para portátil 15 6" Pepe Jeans S al 20.01 % de descuento'
-date: 2020-09-30 17:00:56
-image: 'https://m.media-amazon.com/images/I/41GF5P4J0OL._SL400_.jpg'
+title: 'Pepe Jeans Strike Mochila Adaptable para al 20.01 % de descuento'
+date: 2021-05-31 21:00:34
+image: 'https://m.media-amazon.com/images/I/41GF5P4J0OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07VXFQQ7N-es Mochila para portátil 15 6" Pepe Jeans Strike con bandolera'
+slug: 'B07VXFQQ7N-es Pepe Jeans Strike Mochila Adaptable para Portátil 15 6"...'
 sku: 'B07VXFQQ7N-es'
-tags: [ 'mochila', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bandoleras y bolsas mensajero para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Informática','mochila','pepe jeans', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99
 comparePrice: 75.0 EUR
-prodname: 'Mochila para portátil 15 6" Pepe Jeans Strike con bandolera'
+prodname: 'Pepe Jeans Strike Mochila Adaptable para Portátil 15 6" Negro 32x42x12 cms algodón 16.13L'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B07VXFQQ7N/?tag=tolees-21'
 descuento: '20.01'
-average: '59.99111111111112'
+average: '59.991'
 ---
 
-Ahora mismo tienes [Mochila para portátil 15 6" Pepe Jeans Strike con bandolera](https://www.amazon.es/dp/B07VXFQQ7N/?tag=tolees-21) a 59.99 EUR (original: 75.0 EUR) (20.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans Strike Mochila Adaptable para Portátil 15 6" Negro 32x42x12 cms algodón 16.13L](https://www.amazon.es/dp/B07VXFQQ7N/?tag=tolees-21) a 59.99 EUR (original: 75.0 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![Mochila para portátil 15 6" Pepe Jeans S](https://m.media-amazon.com/images/I/41GF5P4J0OL._SL400_.jpg)](https://www.amazon.es/dp/B07VXFQQ7N/?tag=tolees-21)
+[![Pepe Jeans Strike Mochila Adaptable para](https://m.media-amazon.com/images/I/41GF5P4J0OL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07VXFQQ7N/?tag=tolees-21)
 
 🔎:
 
+- De Joumma Bags
+- Posibilidad de llevarla como mochila o de guardar sus tirantes en el bolsillo trasero para ponértela como bandolera o llevarla como maletín
+- Mochila de 32 cm x 42 cm x 12 cm fabricada en Algodón y detalles de piel sintética
+- Doble compartimento con un espacio específico para un ordenador de hasta 15, 6 pulgadas y un bolsillo para la tablet
+- Bolsillo frontal de cremallera para objetos más pequeños
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VXFQQ7N/?tag=tolees-21)
