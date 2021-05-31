@@ -28,10 +28,10 @@ Ahora mismo tienes [Rimmel London Brow This Way Fibre Pencil Lápiz de Cejas Ton
 
 🔎:
 
-- Fácil de aplicar y cómodo de llevar
-- Su formato en lápiz facilita una máxima precisión
 - Pequeñas fibras para ensanchar tus cejas
-- Color suave y natural para rellenar las cejas
+- Fácil de aplicar y cómodo de llevar
 - Fórmula no pegajosa y duradera
+- Color suave y natural para rellenar las cejas
+- Su formato en lápiz facilita una máxima precisión
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XK5TL7C/?tag=tolees-21)
