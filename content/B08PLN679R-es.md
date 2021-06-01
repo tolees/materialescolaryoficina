@@ -28,13 +28,13 @@ Tienes [Staedtler Design Journey 3200 Tb72. Rotuladores para Lettering de Doble 
 
 🔎:
 
-- Product 2: Lápiz de color de diseño hexagonal
-- Product 1: Bolígrafo con dos puntas de pincel para las mejores creatividades y caligrafías sobre papel.
-- Product 2: Certificación PEFC: madera procedente de bosques gestionados de forma responsable
-- Product 1: Marcadores apropiados para escritura a mano y otros estilos de caligrafía, así como para ilustraciones, manga y coloraciones.
 - Product 2: Con A · B · S: la carcasa de protección blanco refuerza el liderazgo y aumenta la resistencia de los lápices a la rotura
 - Product 2: Lápices del colorante en forma hexagonal clásico
-- Product 1: Anchura de la línea: punta del pincel ancho de 3 mm y punta del pincel fino de 0,5 mm a 0,8 mm.
 - Product 1: El cuerpo y el capuchón están fabricados en polipropileno ventilado (ISO 11540) lo cual garantiza una larga vida útil.
+- Product 2: Certificación PEFC: madera procedente de bosques gestionados de forma responsable
+- Product 1: Marcadores apropiados para escritura a mano y otros estilos de caligrafía, así como para ilustraciones, manga y coloraciones.
+- Product 2: Lápiz de color de diseño hexagonal
+- Product 1: Anchura de la línea: punta del pincel ancho de 3 mm y punta del pincel fino de 0,5 mm a 0,8 mm.
+- Product 1: Bolígrafo con dos puntas de pincel para las mejores creatividades y caligrafías sobre papel.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PLN679R/?tag=tolees-21)

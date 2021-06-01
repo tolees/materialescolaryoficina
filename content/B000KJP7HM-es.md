@@ -29,7 +29,7 @@ Ahora mismo tienes [Staedtler 323 SB20 - Rotuladores  20 Unidades  Multicolor](h
 🔎:
 
 - Ancho línea de 1.0 mm
-- Puede permanecer destapado durante días sin secarse, tinta a base de agua, lavable, capuchón ventilado
 - Rotulador de diseño triangular ergonómico, tinta antisecado
+- Puede permanecer destapado durante días sin secarse, tinta a base de agua, lavable, capuchón ventilado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000KJP7HM/?tag=tolees-21)

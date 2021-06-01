@@ -28,10 +28,10 @@ Está [Staedtler Design Journey 3200 Tb72. Rotuladores para Lettering de Doble P
 
 ℹ️:
 
+- El cuerpo y el capuchón están fabricados en polipropileno ventilado (ISO 11540) lo cual garantiza una larga vida útil.
+- Marcadores apropiados para escritura a mano y otros estilos de caligrafía, así como para ilustraciones, manga y coloraciones.
 - Bolígrafo con dos puntas de pincel para las mejores creatividades y caligrafías sobre papel.
 - Anchura de la línea: punta del pincel ancho de 3 mm y punta del pincel fino de 0,5 mm a 0,8 mm.
 - Rotuladores dobles de tinta de colores variados con una punta de anchura fina y una punta de anchura ultrafina.
-- Marcadores apropiados para escritura a mano y otros estilos de caligrafía, así como para ilustraciones, manga y coloraciones.
-- El cuerpo y el capuchón están fabricados en polipropileno ventilado (ISO 11540) lo cual garantiza una larga vida útil.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F74GG1R/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [STAEDTLER 338 SB10 - Estuche con rotuladores  Assorted](https://www.amaz
 
 🔎:
 
-- Marca: Staedtler
 - Punta: fina
+- Marca: Staedtler
 - Diseño funcional
 - Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
 

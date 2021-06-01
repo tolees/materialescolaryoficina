@@ -29,7 +29,7 @@ Tienes [STAEDTLER 569-22 - Juego escolar de reglas  Unica](https://www.amazon.es
 ℹ️:
 
 - Staedtler
-- Juego de accesorios de dibujo
 - Bolsa de plástico
+- Juego de accesorios de dibujo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LVYGGQQ/?tag=tolees-21)

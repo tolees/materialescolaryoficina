@@ -28,10 +28,10 @@ Tienes [STAEDTLER Mars Micro 775 SC WP3. Pack de 3 portaminas de anchuras variab
 
 ℹ️:
 
-- Punta de mina cilíndrica, rígida, ideal para usar con reglas y plantillas.
 - Ligero y manejable, fácil de transportar, permite una escritura suave y fluida e incluye una goma de borrar en la parte del pulsador.
 - El cuerpo de este portaminas es de plástico azul, con punta, pulsador, clip de sujeción y zona de agarre metálicos y de goma.
 - Funciona con minas de grafito de anchurras variables: 0,3, 0,5 y 0,7 mm de anchura.
 - Portaminas recomendados para escribir, dibujar y esbozar, tanto en ámbitos académicos y universitarios como en entornos profesionales.
+- Punta de mina cilíndrica, rígida, ideal para usar con reglas y plantillas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000OZIIZK/?tag=tolees-21)

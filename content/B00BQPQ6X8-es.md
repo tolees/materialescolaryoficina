@@ -28,10 +28,10 @@ En este momento está [Staedtler 458 M-3. Recambio para bolígrafos con tinta de
 
 🔎:
 
-- Tecnología Airplane Safe, que permite viajar de modo seguro que avión gracias a un equilibrado automático de la presión de la tinta.
 - Recarga de metal jumbo para bolígrafos de tipo G2. Fácil de extraer e insertar.
-- Recambios idóneos para bolígrafos elance y otros tipos de bolígrafo retráctiles.
 - Recambios con tinta de color azul y diámetro de tamaño M, de 0,5 milímetros.
+- Tecnología Airplane Safe, que permite viajar de modo seguro que avión gracias a un equilibrado automático de la presión de la tinta.
+- Recambios idóneos para bolígrafos elance y otros tipos de bolígrafo retráctiles.
 - Recargas de tinta permanente de alta calidad conformes a la normativa ISO 12757-2.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BQPQ6X8/?tag=tolees-21)

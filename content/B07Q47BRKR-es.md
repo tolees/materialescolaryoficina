@@ -28,10 +28,10 @@ Ahora mismo tienes [Staedtler Design Journey 100G-M6. Estuche con 6 lápices de 
 
 🔎:
 
-- Lápiz de grafito completo de alta calidad, especialmente adecuado para escribir, dibujar, esbozar y esbozar
-- Lápices sin revestimiento de madera, para dibujar sin residuos de madera, con recubrimiento lacado para mantener las manos limpias
-- Receta especial para pinturas brillantes en diferentes tonos de grises, diámetro de la mina: 6,8 mm
-- Diseño ergonómico y cómodo que permite una experiencia única de dibujo, idóneo para artistas y creativos.
 - Estuche de metal con lápices de grafito en grados de dureza HB, 2B, 4B, 6B y 8B y un lápiz de grafito acuarelable con dureza 6B
+- Receta especial para pinturas brillantes en diferentes tonos de grises, diámetro de la mina: 6,8 mm
+- Lápices sin revestimiento de madera, para dibujar sin residuos de madera, con recubrimiento lacado para mantener las manos limpias
+- Diseño ergonómico y cómodo que permite una experiencia única de dibujo, idóneo para artistas y creativos.
+- Lápiz de grafito completo de alta calidad, especialmente adecuado para escribir, dibujar, esbozar y esbozar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Q47BRKR/?tag=tolees-21)

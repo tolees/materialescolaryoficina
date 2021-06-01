@@ -28,10 +28,10 @@ Tienes [Staedtler 30805SBK12. Rotuladores Fineliner Pigment Liner. Estuche con 1
 
 🔎:
 
-- Tinta pigmentada, indeleble (según la norma ISO 14145-2), resistente a la luminosidad y al agua. Deleble sobre papel vegetal.
 - Punta larga de metal para dibujar, escribir y esbozar. Perfecta para usar con plantillas y reglas. Anchos de 0,5 mm.
-- Tecnología airplane safe, que equilibra automáticamente la presión de la tinta para evitar pérdidas durante el vuelo.
 - Paquete de 12 marcadores de punta fina presentados en un estuche de plástico transparente Staedtler Box, ideal para un almacenamiento eficiente.
 - CAP OFF: puede permanecer durante 18 horas destapado sin secarse ( ISO 554). El cuerpo en PP garantiza una larga vida del producto.
+- Tinta pigmentada, indeleble (según la norma ISO 14145-2), resistente a la luminosidad y al agua. Deleble sobre papel vegetal.
+- Tecnología airplane safe, que equilibra automáticamente la presión de la tinta para evitar pérdidas durante el vuelo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Q8YB6K4/?tag=tolees-21)

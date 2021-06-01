@@ -28,10 +28,10 @@ Está [Staedtler Mars Plastic 526-S3BK2D. Blíster con una goma de borrar blanca
 
 ℹ️:
 
-- Goma Staedtler con envoltorio protector de celofán y práctica banda para una apertura fácil, con unas medidas de 65x23x13 mm.
-- Afilalápiz de acero para lápices normales de hasta 8,2 mm Ø. Forma de cuña. Un agujero.
-- Goma de borrar plástica de color blanco, de tamaño manejable, óptima para uso escolar y profesional.
-- Sin ftalatos ni látex. Goma de borrar de alta calidad y gran durabilidad. No tiñe ni desgasta el papel.
 - Recomendada para borrar trazos y escritos a lápiz de un modo eficaz y limpio gracias a sus escasos residuos.
+- Goma de borrar plástica de color blanco, de tamaño manejable, óptima para uso escolar y profesional.
+- Afilalápiz de acero para lápices normales de hasta 8,2 mm Ø. Forma de cuña. Un agujero.
+- Goma Staedtler con envoltorio protector de celofán y práctica banda para una apertura fácil, con unas medidas de 65x23x13 mm.
+- Sin ftalatos ni látex. Goma de borrar de alta calidad y gran durabilidad. No tiñe ni desgasta el papel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001RAHNL6/?tag=tolees-21)

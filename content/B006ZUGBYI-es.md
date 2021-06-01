@@ -28,10 +28,10 @@ Está [Staedtler Triplus Mobile Office 34 SB6B. Estuche con bolígrafos de punta
 
 ℹ️:
 
-- Estuche Staedtler box que incluye 6 rotuladores y bolígrafos con tinta azul y negra de 0,5 mm y un portaminas.
 - Tecnología Dry Safe que permite permanecer destapado durante días sin secarse (Test ISO 554), excepto el marcador fluorescente.
-- Contiene 2 triplus fineliner negro y azul, 1 bolígrafo triplus M negro, 1 rollerball triplus negro, 1 portaminas triplus de 0,5 mm y 1 marcador fluorescente triplus textsurfer amarillo.
 - Bolígrafos, rotuladores y portaminas con cuerpo triangular ergonómico para una escritura sin esfuerzo.
+- Estuche Staedtler box que incluye 6 rotuladores y bolígrafos con tinta azul y negra de 0,5 mm y un portaminas.
 - Estuche Staedtler Black Box de plástico negro, que permite un transporte cómodo y eficiente, con soporte trasero para un manejo más sencillo.
+- Contiene 2 triplus fineliner negro y azul, 1 bolígrafo triplus M negro, 1 rollerball triplus negro, 1 portaminas triplus de 0,5 mm y 1 marcador fluorescente triplus textsurfer amarillo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006ZUGBYI/?tag=tolees-21)

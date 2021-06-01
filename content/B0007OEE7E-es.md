@@ -28,9 +28,9 @@ Ahora mismo tienes [Staedtler-334 ST Estuche con 20 rotuladores  Multicolor   33
 
 🔎:
 
-- Contiene tinta a base de agua
-- Punta de metal superfina y resistente
-- Incluye 20 unidades
 - Ancho de línea 0.3 mm
+- Contiene tinta a base de agua
+- Incluye 20 unidades
+- Punta de metal superfina y resistente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0007OEE7E/?tag=tolees-21)

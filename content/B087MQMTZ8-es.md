@@ -28,10 +28,10 @@ En este momento está [STAEDTLER Design Journey 14610T C12 - Lápices de acuarel
 
 🔎:
 
+- Madera de bosques gestionados de forma sostenible con certificación PEFC.
 - Contenido: 1 x 14610T-G2, -G20, -G6, -G1, -G5, -G36, -G3, -G83, -G9, -G4, -G76, -G73.
+- Dos efectos completamente diferentes con un lápiz: cuando se utiliza seco tiene colores naturales suaves y sutiles con un carácter de grafito oscuro, añadiendo agua despiertan en una intensidad rica y viva mientras permanecen silenciados.
 - Lápiz de acuarela tintado con un toque de grafito.
 - Plomo suave e intenso.
-- Dos efectos completamente diferentes con un lápiz: cuando se utiliza seco tiene colores naturales suaves y sutiles con un carácter de grafito oscuro, añadiendo agua despiertan en una intensidad rica y viva mientras permanecen silenciados.
-- Madera de bosques gestionados de forma sostenible con certificación PEFC.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087MQMTZ8/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [STAEDTLER Lumocolor 487 05-9 - Cargador para bolígrafos correctores 305
 
 🔎:
 
-- Para el relleno del Lumocolor corrige 305
+- Adecuado para el relleno limpio de bolígrafos y marcadores Lumocolor
 - Con un contenido de 20 ml
 - Imposible sobrellenar ya que la pluma sólo puede sacar su propio contenido máximo de tinta fuera de la estación de recarga
-- Adecuado para el relleno limpio de bolígrafos y marcadores Lumocolor
+- Para el relleno del Lumocolor corrige 305
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B003JYY34I/?tag=tolees-21)

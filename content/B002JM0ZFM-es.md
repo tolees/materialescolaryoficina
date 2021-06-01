@@ -29,8 +29,8 @@ Tienes [STAEDTLER 145 SPM36 - Lápices  Multicolor  36 unidades](https://www.ama
 ℹ️:
 
 - (Anti-Break-System), sistema de la mina que incrementa un 30% su resistencia
-- Gama de lápices de color presentados en un atractivo estuche de metal, con mina ABS
 - Ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
+- Gama de lápices de color presentados en un atractivo estuche de metal, con mina ABS
 - Estuche de metal con 36 lápices, colores surtidos, motivos de deportes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B002JM0ZFM/?tag=tolees-21)

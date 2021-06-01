@@ -28,10 +28,10 @@ Está [STAEDTLER Rasoplast 52650BK4DA - Goma de Borrar Blanca  Blíster con 4 Un
 
 ℹ️:
 
-- Tamaño de 65 x 23 x 13 mm.; goma de alta durabilidad sin ftalatos ni látex
-- Blíster con 4 unidades de gomas de borrar blancas con faja de cartón; Fabricadas en Alemania
-- Goma de borrar plástica de color blanco, de tamaño manejable, óptima para uso escolar y profesional
-- Recomendada para borrar trazos y escritos a lápiz de un modo eficaz y limpio gracias a sus escasos residuos
 - No tiñe, mancha ni desgasta el papel; borrado de alta calidad con los mínimos residuos
+- Blíster con 4 unidades de gomas de borrar blancas con faja de cartón; Fabricadas en Alemania
+- Recomendada para borrar trazos y escritos a lápiz de un modo eficaz y limpio gracias a sus escasos residuos
+- Goma de borrar plástica de color blanco, de tamaño manejable, óptima para uso escolar y profesional
+- Tamaño de 65 x 23 x 13 mm.; goma de alta durabilidad sin ftalatos ni látex
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003JYY6SQ/?tag=tolees-21)

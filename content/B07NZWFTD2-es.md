@@ -29,9 +29,9 @@ Ahora mismo tienes [Staedtler - Rotulador para pizarra blanca Lumocolor 351 WP4-
 🔎:
 
 - Sistema Dry Safe: puede permanecer destapado durante días sin secarse (Test ISO 554) para una alta fiabilidad
-- El cuerpo y la tapa de polipropileno garantizan una larga vida útil, la tinta no se evapora, fácil de rellenar con Staedtler 488 51, fabricado en Alemania.
-- Puede borrarse en seco y sin dejar residuos de pizarras blancas y superficies como vidrio y porcelana, secado rápido, tinta sin xilol ni tolueno, Airplane Safe.
 - Contenido del envío: 4 rotuladores para pizarra blanca negra en la caja Staedtler estable y ajustable.
 - Punta redonda bloqueada, ancho de línea aprox. 2 mm – impide que la punta se introduzca en el eje.
+- El cuerpo y la tapa de polipropileno garantizan una larga vida útil, la tinta no se evapora, fácil de rellenar con Staedtler 488 51, fabricado en Alemania.
+- Puede borrarse en seco y sin dejar residuos de pizarras blancas y superficies como vidrio y porcelana, secado rápido, tinta sin xilol ni tolueno, Airplane Safe.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NZWFTD2/?tag=tolees-21)

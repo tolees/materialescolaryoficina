@@ -29,7 +29,7 @@ Está [STAEDTLER 323 M15 - Rotulador de diseño triangular  Multicolor  Tin of 1
 ℹ️:
 
 - Cuerpo triangular
-- Tinta antisecado
 - Punta de fibra
+- Tinta antisecado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XRDJDYW/?tag=tolees-21)

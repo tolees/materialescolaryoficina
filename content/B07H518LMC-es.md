@@ -30,8 +30,8 @@ En este momento está [Staedtler Noris Triplus Ball 437 M-3. Bolígrafo con punt
 
 - Bolígrafos de colores con cuerpo en efecto mate y relieve plateado; punta y tapón del color de la tinta.
 - Airplane Safe – equilibrio automático de la presión de la tinta para evitar pérdidas durante el vuelo, indeleble según ISO 12757 – 2, fabricado en Alemania.
+- Bolígrafos de colores de punta media, con un trazo de 0,4 mm de anchura y tinta indeleble según ISO 12757-2.
 - Diseño triangular ergonómico para una escritura fácil y relajada, también gracias a la tinta de baja viscosidad.
 - Bolígrafos idóneos para un uso diario, con tinta de secado rápido y lavable en la mayoría de las superficies.
-- Bolígrafos de colores de punta media, con un trazo de 0,4 mm de anchura y tinta indeleble según ISO 12757-2.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H518LMC/?tag=tolees-21)

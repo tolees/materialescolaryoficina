@@ -28,10 +28,10 @@ Tienes [STAEDTLER 364 CWP4-XST Rotuladores Fluorescentes Textsurfer  Estuche con
 
 🔎:
 
-- Gran depósito de tinta recargable que, junto al cuerpo y capuchón en polipropileno, otorgan una alta durabilidad; es seguro para viajar en avión
-- Ink Jet Safe. Tinta permanente de secado rápido, que no emborrona las impresiones a chorro de tinta ni los textos manuscritos
-- Punta biselada ultrasuave de aproximadamente 1 y 5 mm de ancho; perfecto para escribir en papel, fax y fotocopias
 - 4 marcadores de colores excellent presentados en una caja transparente, ideal para un almacenamiento eficiente
 - Marcadores fluorescentes de gran calidad con tinta pigmentada super intensa, recomendados para subrayar, resaltar y colorear
+- Punta biselada ultrasuave de aproximadamente 1 y 5 mm de ancho; perfecto para escribir en papel, fax y fotocopias
+- Gran depósito de tinta recargable que, junto al cuerpo y capuchón en polipropileno, otorgan una alta durabilidad; es seguro para viajar en avión
+- Ink Jet Safe. Tinta permanente de secado rápido, que no emborrona las impresiones a chorro de tinta ni los textos manuscritos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084DYJXQK/?tag=tolees-21)

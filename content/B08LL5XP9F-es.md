@@ -28,10 +28,10 @@ Tienes [STAEDTLER Lumocolor Permanente 318  resistente al agua  se seca en segun
 
 🔎:
 
-- Cuerpo y tapa de polipropileno que garantizan una larga vida útil, la tinta no se evapora.
 - Contenido del envío: 10 rotuladores impermeables en 4 colores (2 rojos, 3 azules, 1 verde y 4 negros) en una caja de cartón.
-- Tinta permanente y sin olor, Dry Safe: puede permanecer destapado durante días sin secarse (test ISO 554).
-- Sin xilol ni tolueno, Airplane Safe, rellenable con cargador 487 17, adecuado para proyecciones Overhead, fabricado en Alemania.
+- Cuerpo y tapa de polipropileno que garantizan una larga vida útil, la tinta no se evapora.
 - Excelente resistencia a las manchas y al agua en casi todas las superficies, resistente a la luz y a la intemperie (negro), se seca en cuestión de segundos.
+- Sin xilol ni tolueno, Airplane Safe, rellenable con cargador 487 17, adecuado para proyecciones Overhead, fabricado en Alemania.
+- Tinta permanente y sin olor, Dry Safe: puede permanecer destapado durante días sin secarse (test ISO 554).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LL5XP9F/?tag=tolees-21)
