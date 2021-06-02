@@ -30,8 +30,8 @@ Tienes [Staedtler Noris Club 965 14NBK - Tijeras para niños diestros de 14 cent
 
 - Diseño adaptado para usuarios diestros con colores azules, óptimos para el público infantil.
 - Tijeras infantiles de alta calidad, con agarres de material plástico y cuchillas de acero inoxidable.
-- Tijeras de uso escolar completamente seguras, con una zona ergonómica de agarre suave y cuchillas de punta roma.
-- Ligeras y manejables, aptas para cortar papel y cartulina con gran precisión gracias a sus hojas de 14 cm.
 - Recomendadas para el uso de niños a partir de los 3 años de edad, aunque también aptas para uso de adultos.
+- Ligeras y manejables, aptas para cortar papel y cartulina con gran precisión gracias a sus hojas de 14 cm.
+- Tijeras de uso escolar completamente seguras, con una zona ergonómica de agarre suave y cuchillas de punta roma.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000OZI0J4/?tag=tolees-21)
