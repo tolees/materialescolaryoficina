@@ -31,7 +31,7 @@ En este momento está [Disney - Plastilina infantil Cubo 4 botes plastilina Niñ
 - Los ingredientes de la plastilina son seguros y no tóxicos, se puede guardar en su bote correspondiente después de jugar para evitar que se endurezca
 - Moldea a tus personajes favoritos de Disney Hazte con el cubo de Minnie Mouse y dale forma a la plastilina, recomendado a partir de 3 años
 - Con este juego de moldear los peques desarrollan la imaginación, la creatividad, la habilidad manual y la estimulación sensorial
-- Incluye 1 cubo con asa y tapadera, 4 botes de plastilina (57 g), 6 moldes variados, 1 rodillo y 1 espátula doble
 - Set de plastilina suave y flexible con temática Minnie Mouse para crear un sinfín de figuras divertidas y transportarlo fácilmente
+- Incluye 1 cubo con asa y tapadera, 4 botes de plastilina (57 g), 6 moldes variados, 1 rodillo y 1 espátula doble
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z3YYHSX/?tag=tolees-21)
