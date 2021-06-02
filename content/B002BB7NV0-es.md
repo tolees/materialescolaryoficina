@@ -28,11 +28,11 @@ Tienes [Stabilo - Rotulador fluorescente  6 unidades   multicolor](https://www.a
 
 ℹ️:
 
+- Rotulador de bolsillo con un práctico clip
+- Tinta a base de agua para el papel, copia o fax
 - Paquete de 6 unidades
 - Tipo de punta: estrecha para poner de relieve la letra pequeña
-- Tinta a base de agua para el papel, copia o fax
 - Ideal para niños en edad escolar y estudiantes
-- Rotulador de bolsillo con un práctico clip
 - Multicolor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B002BB7NV0/?tag=tolees-21)

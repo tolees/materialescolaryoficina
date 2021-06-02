@@ -28,9 +28,9 @@ Ahora mismo tienes [Marcador fluorescente STABILO NEON - Cuerpo semiblando - Caj
 
 🔎:
 
-- Rotulador fluorescente
-- Revolucionaria forma de tubo
 - Muy útil para ti y tu hogar
+- Rotulador fluorescente
 - Color rosa
+- Revolucionaria forma de tubo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FPIOT72/?tag=tolees-21)

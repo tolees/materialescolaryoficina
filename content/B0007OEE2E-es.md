@@ -28,9 +28,9 @@ Ahora mismo tienes [Rotulador punta fina STABILO point 88 - Estuche con 10 color
 
 🔎:
 
-- Calidad alemana
 - Gama de 30 colores
-- Número 1 en Europa
 - Punta 0,4 mm de fibra con refuerzo de metal
+- Número 1 en Europa
+- Calidad alemana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0007OEE2E/?tag=tolees-21)

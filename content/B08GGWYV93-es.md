@@ -28,10 +28,10 @@ En este momento está [Marcador STABILO swing cool Pastel Edition - Pack con 4 c
 
 🔎:
 
-- Marcador plano de bolsillo con cómodo clip. Perfecto para viajes.
 - Marcador de texto color pastel
 - Superficie antideslizante con aspecto translúcido.
 - Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
 - 2 grosores de trazo: 1 + 4 mm.
+- Marcador plano de bolsillo con cómodo clip. Perfecto para viajes.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GGWYV93/?tag=tolees-21)

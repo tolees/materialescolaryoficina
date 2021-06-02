@@ -28,10 +28,10 @@ Ahora mismo tienes [Marcador fluorescente STABILO BOSS ORIGINAL - Estuche con 8 
 
 🔎:
 
-- Calidad Alemana
+- Ancho de escritura: 2 y 5 mm
+- Tecnología Anti secado STABILO: Hasta 4 horas destapado sin secarse
 - Punta de escritura inclinada para líneas gruesas y finas
 - Tinta pigmentada a base de agua
-- Tecnología Anti secado STABILO: Hasta 4 horas destapado sin secarse
-- Ancho de escritura: 2 y 5 mm
+- Calidad Alemana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HYLXZCB/?tag=tolees-21)

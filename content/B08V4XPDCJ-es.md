@@ -28,10 +28,10 @@ Tienes [Stabilo Boss Original Pastel - Rotuladores fluorescentes  4 unidades   c
 
 🔎:
 
+- Disponible en muchos colores brillantes y pastel
+- Colores delicados para ideas creativas como por ejemplo diario
 - Acabado de alta calidad, tinta y comodidad de escritura
 - Tecnología STABILO Anti-Dry-Out: 4 horas de protección contra la desecación
 - Rotulador fluorescente y diseño clásico desde 1971
-- Colores delicados para ideas creativas como por ejemplo diario
-- Disponible en muchos colores brillantes y pastel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08V4XPDCJ/?tag=tolees-21)

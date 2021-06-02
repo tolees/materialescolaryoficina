@@ -28,8 +28,8 @@ En este momento está [Lápiz de color tiza-pastel STABILO CarbOthello - Estuche
 
 🔎:
 
-- Stabilo Carbothello
 - Estuche metal 12 uds surtidas
+- Stabilo Carbothello
 - Estuche de metal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0014EHTR8/?tag=tolees-21)
