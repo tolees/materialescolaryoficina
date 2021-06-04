@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA teamFINAL 21 Backpack Mochilla  Unisex-Adult  Black  OS
 
 🔎:
 
-- Abertura del compartimento principal con cremallera bidireccional
-- Bolsillo adicional con cremallera en la parte delantera
-- Asa de transporte de cincha en la parte superior
 - Bolsillo elástico para el agua en la parte derecha
+- Bolsillo adicional con cremallera en la parte delantera
 - Correas para el hombro ajustables y acolchadas
+- Abertura del compartimento principal con cremallera bidireccional
+- Asa de transporte de cincha en la parte superior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XPCBSQD/?tag=tolees-21)
