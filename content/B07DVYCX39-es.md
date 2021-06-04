@@ -28,10 +28,10 @@ Tienes [Play Doh-La Barberia  Hasbro E2930EU6 ](https://www.amazon.es/dp/B07DVYC
 
 🔎:
 
-- Hazles peinados a tus 2 personajes y añade trenzas, lazos, bigotes y otros accesorios
+- El set de juego se basa en los clásicos sets de peluquería de moldes extrusores de Play-Doh
+- El cortapelos eléctrico emite zumbidos que se activan al tocar la plastilina Play-Doh: no hay que apretar ningún botón
 - Haz crecer y moldea divertido pelo y una barba Play-Doh, y luego aféitalo todo como en una verdadera peluquería
 - Haz creativos peinados coloridos una y otra vez con los 6 colores Play-Doh
-- El cortapelos eléctrico emite zumbidos que se activan al tocar la plastilina Play-Doh: no hay que apretar ningún botón
-- El set de juego se basa en los clásicos sets de peluquería de moldes extrusores de Play-Doh
+- Hazles peinados a tus 2 personajes y añade trenzas, lazos, bigotes y otros accesorios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DVYCX39/?tag=tolees-21)
