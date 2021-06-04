@@ -29,8 +29,8 @@ Ahora mismo tienes [Milan PNM4836 - Pack de 36 gomas de borrar](https://www.amaz
 🔎:
 
 - Medidas goma: 5 x 4,4 x 0,7 cm.
+- Para borrar trazos de lápices de grafito sobre toda clase de papeles.
 - Indicada para dibujo lineal y borrado preciso.
 - Colores: blanco, rosa, azul. 
-- Para borrar trazos de lápices de grafito sobre toda clase de papeles.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MDJCF2D/?tag=tolees-21)
