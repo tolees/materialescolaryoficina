@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling SEOUL - Mochila escolar  27 lite con un 27.73 % de descuento'
-date: 2021-06-04 14:11:39
+date: 2021-06-05 21:01:26
 image: 'https://m.media-amazon.com/images/I/41JQhvM9+mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kipling'
 buyurl: 'https://www.amazon.es/dp/B07N1HP83D/?tag=tolees-21'
 descuento: '27.73'
-average: '83.522'
+average: '83.0425806451613'
 ---
 
 En este momento está [Kipling SEOUL - Mochila escolar  27 liters  Rosa  BRIDAL ROSE ](https://www.amazon.es/dp/B07N1HP83D/?tag=tolees-21) a 68.66 EUR (original: 95.0 EUR) (27.73 %  de descuento) en el siguiente enlace!
