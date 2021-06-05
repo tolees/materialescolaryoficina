@@ -29,9 +29,9 @@ Tienes [NIKE Nk Stadium Inter Bkpk-Fa20 Sports Backpack  Unisex Adulto  Blue Spa
 🔎:
 
 - Durable fabric
+- Tipo de fábrica: 100% Polyester
 - Zipped compartimentos
 - Explora nuestra gama de productos
 - Training backpack
-- Tipo de fábrica: 100% Polyester
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08F24CX4W/?tag=tolees-21)

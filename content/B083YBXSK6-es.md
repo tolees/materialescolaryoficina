@@ -28,8 +28,8 @@ Está [Kipling Mochila City Pack S para mujer  19 x 27 x 33 5 cm  color  talla 1
 
 ℹ️:
 
-- Para mujer
 - Mochila
+- Para mujer
 - Classics
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083YBXSK6/?tag=tolees-21)
