@@ -28,10 +28,10 @@ En este momento está [Samsonite Karissa Biz - Mochila  40 cm    Rojo  Formula R
 
 🔎:
 
-- Mochila para portátil 14": 28 x 14 x 39 5 cm - 17 3 L - 0,70 kg Materiales: 90% nailon, 10% poliuretano
-- Distintivo logotipo de metal con esmaltado resistente
 - Compartimento para portátil 14" Compartimento para tablet 10.5"
-- Herrajes acabado níquel brillante sobre los colores Black y Formula Red Herrajes dorados en los colores Dark Navy y Gunmetal Green
+- Distintivo logotipo de metal con esmaltado resistente
+- Mochila para portátil 14": 28 x 14 x 39 5 cm - 17 3 L - 0,70 kg Materiales: 90% nailon, 10% poliuretano
 - Charm y distintivo
+- Herrajes acabado níquel brillante sobre los colores Black y Formula Red Herrajes dorados en los colores Dark Navy y Gunmetal Green
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M9CCT8R/?tag=tolees-21)
