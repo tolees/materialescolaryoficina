@@ -28,11 +28,11 @@ En este momento está [CASIO CAS-MS8S - Calculadora de escritorio de oficina](ht
 
 🔎:
 
-- Calculadora de escritorio con pantalla grande
-- Buffer independiente de memoria 3-clave, el poder dual: solar / batería
-- Separador de tres dígitos, botones plásticos
-- Conversión de moneda / EURO. +/- Botón
 - Cálculo del IVA, el cálculo del porcentaje
+- Buffer independiente de memoria 3-clave, el poder dual: solar / batería
 - Cuenta con “Casio Logic”, una característica única de los modelos Casio que le permite calcular +/- porcentajes y ver el valor / margen que está sumando / restando con una simple entrada de clave; consulte el manual del usuario para obtener más detalles
+- Separador de tres dígitos, botones plásticos
+- Calculadora de escritorio con pantalla grande
+- Conversión de moneda / EURO. +/- Botón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00OD9PQZ8/?tag=tolees-21)
