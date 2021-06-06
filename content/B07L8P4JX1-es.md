@@ -28,10 +28,10 @@ Está [Urban Armor Gear Metropolis para Apple iPad Pro 12.9  2018  Funda con est
 
 ℹ️:
 
-- Protege de forma fiable contra golpes, caídas, arañazos y suciedad - probado según la norma militar mil-- 516.6, en la que la bolsa con smartphone/tablet tiene que soportar varias caídas sin sufrir daños
-- Recortes para la cámara, conexiones y un cierre magnético para un transporte seguro; el soporte de lápiz incorporado mantiene tu lápiz de apple u otro lápiz a mano en todo momento
-- La estructura de nido de abeja proporciona una bolsa extra fuerte y fiable con pequeñas dimensiones y bajo peso
 - Excelente bolsa protectora hecha de un compuesto de policarbonato duro y un marco flexible de material repelente al polvo y antideslizante
 - Diseñado y fabricado para apple ipad pro 12,9 pulgadas (2018)
+- Recortes para la cámara, conexiones y un cierre magnético para un transporte seguro; el soporte de lápiz incorporado mantiene tu lápiz de apple u otro lápiz a mano en todo momento
+- Protege de forma fiable contra golpes, caídas, arañazos y suciedad - probado según la norma militar mil-- 516.6, en la que la bolsa con smartphone/tablet tiene que soportar varias caídas sin sufrir daños
+- La estructura de nido de abeja proporciona una bolsa extra fuerte y fiable con pequeñas dimensiones y bajo peso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L8P4JX1/?tag=tolees-21)
