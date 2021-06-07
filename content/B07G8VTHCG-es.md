@@ -28,10 +28,10 @@ En este momento está [HUION KAMVAS Pro 22 Tableta Grafica con Pantalla Libre de
 
 🔎:
 
-- 🏆Innovadora Libre de Batería Stylus PW500: te libera de la carga. Sumergete en la creación de un mundo sin ser interrumpido. Nuevo agarre de silicona en la lápiz PW500 proporciona comodidad adicional para su flujo de trabajo.
-- 🏆10 registro de llaves y un toque Bar en ambos lados: 10 teclas de toque de resonancia simétrica en ambos lados para lograr alta eficiencia de operación. Perfecto para la mano derecha o izquierda del usuario, sin necesidad de girar la tableta más alrededor.
+- 🏆21,5 pulgadas (476.64 x 268.11mm) IPS pantalla totalmente dura: un amplio espacio para liberar su imaginación. La parte más delgada de HUION GT-221 PRO V2 es solo 21mm. Antideslumbrante vidrio grabado puede reducir la tensión delojo y proporciona una superficie como papel. 72% NTSC amplia gama de color presenta uniforme y los colores saturados, y la transición más suave y natural.
 - 🏆Alta Configuración especialmente para su Creación: 8192 niveles la presión de lápiz, 5080 LPI de resolución (1920*1080), y la actualización del informe tasa 266 PPS, proporcionaremos rápido y precisamente la experiancia de dibujo.
 - 🏆Multi-ángulo de soporte ajustable: el robusto soporte ergonómico se puede configurar a tu posición preferida de 20 a 80°. Múltiples interfaces, VGA/DVI/HDMI, elige tu camino. Un agujero en la parte trasera del monitor que se puede colocar un lápiz.
-- 🏆21,5 pulgadas (476.64 x 268.11mm) IPS pantalla totalmente dura: un amplio espacio para liberar su imaginación. La parte más delgada de HUION GT-221 PRO V2 es solo 21mm. Antideslumbrante vidrio grabado puede reducir la tensión delojo y proporciona una superficie como papel. 72% NTSC amplia gama de color presenta uniforme y los colores saturados, y la transición más suave y natural.
+- 🏆10 registro de llaves y un toque Bar en ambos lados: 10 teclas de toque de resonancia simétrica en ambos lados para lograr alta eficiencia de operación. Perfecto para la mano derecha o izquierda del usuario, sin necesidad de girar la tableta más alrededor.
+- 🏆Innovadora Libre de Batería Stylus PW500: te libera de la carga. Sumergete en la creación de un mundo sin ser interrumpido. Nuevo agarre de silicona en la lápiz PW500 proporciona comodidad adicional para su flujo de trabajo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G8VTHCG/?tag=tolees-21)
