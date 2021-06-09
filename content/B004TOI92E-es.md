@@ -30,7 +30,7 @@ Ahora mismo tienes [MILAN 176512925 - Bolígrafo de punta redonda  25 unidades](
 
 - Punta 1.0 mm
 - Muy útil para ti y tu hogar
-- Color rojo
 - Cuerpo de goma
+- Color rojo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004TOI92E/?tag=tolees-21)

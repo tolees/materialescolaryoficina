@@ -28,9 +28,9 @@ Ahora mismo tienes [Play Doh- Frozen TV  Multicolor  Hasbro E4904EU4 ](https://w
 
 🔎:
 
-- Recomendación de edad: a partir de 3 años
-- El set incluye una figura de Elsa, la bola de nieve y cinco latas Play-Doh
 - Con una lata Play-Doh de 56 g y cuatro latas más pequeñas de 28 g
 - También incluye: herramientas de amasado que representan personajes de las películas Frozen
+- El set incluye una figura de Elsa, la bola de nieve y cinco latas Play-Doh
+- Recomendación de edad: a partir de 3 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KMM6C2D/?tag=tolees-21)

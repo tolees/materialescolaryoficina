@@ -28,8 +28,8 @@ Ahora mismo tienes [D Art 79461 - Caja de bolígrafos  1 mm  50 unidades  color 
 
 🔎:
 
+- Capucha ventilada
 - Bolígrafos de tinta a base de aceite de cuerpo transparente y capucha de color
 - Punta bola metálica de 1,0 mm y trazo de 0,4 mm
-- Capucha ventilada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0048WTOQ2/?tag=tolees-21)
