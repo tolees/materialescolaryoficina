@@ -28,7 +28,7 @@ Está [Tous Caine Kaos N  Bolso Mochila para Mujer  Gris  Piedra 295810276   33x
 
 ℹ️:
 
-- Certificado autenticidad tous
 - Caine kaos n piedra-piedra (bolso)
+- Certificado autenticidad tous
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M8KZ21B/?tag=tolees-21)
