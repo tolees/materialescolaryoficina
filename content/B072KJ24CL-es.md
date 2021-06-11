@@ -28,10 +28,10 @@ Tienes [Urban Armor Gear Metropolis para Apple iPad Air  2019  / iPad Pro 10.5  
 
 🔎:
 
-- Tiene una construcción ligera, con una membrana de las células huecas que proporciona rigidez y fuerza de la compresión mientras que minimiza tamaño y peso
-- Delgado, libre de fricción, paquete de resistencia pelusa que óptima se desliza dentro y fuera bolsas y paquetes
 - Excede los estándares militares para caída y choque, soportando 26 gotas, desde 4" de altura, con 0 daños
-- Dispone de botones táctiles de gran tamaño y acceso óptimo a botones y puertos
 - Tecnología de agarre táctil, con un material de agarre patentado que proporciona un manejo seguro incluso en condiciones húmedas o resbaladizas
+- Dispone de botones táctiles de gran tamaño y acceso óptimo a botones y puertos
+- Delgado, libre de fricción, paquete de resistencia pelusa que óptima se desliza dentro y fuera bolsas y paquetes
+- Tiene una construcción ligera, con una membrana de las células huecas que proporciona rigidez y fuerza de la compresión mientras que minimiza tamaño y peso
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072KJ24CL/?tag=tolees-21)
