@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas GQ4178 AC CLASSIC BP Sports backp al 41.83 % de descuento'
-date: 2021-06-11 10:56:18
+date: 2021-06-12 17:25:23
 image: 'https://m.media-amazon.com/images/I/417-mvQBuuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas GQ4178 AC CLASSIC BP Sports backpack unisex-adult cre
 
 🔎:
 
-- tela resistente
 - Correas de hombro acolchadas
+- tela resistente
 - Gran compartimento principal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R7PFSSV/?tag=tolees-21)
