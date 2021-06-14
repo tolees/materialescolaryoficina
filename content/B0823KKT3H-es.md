@@ -28,10 +28,10 @@ En este momento está [Asics Gel-Venture 8  Trail Running Shoe Mujer  Graphite G
 
 🔎:
 
-- Material de malla
-- Amortiguación de gel
 - Material transpirable
+- Material de malla
 - Tacos para la tracción
 - Tecnología Flytefoam
+- Amortiguación de gel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0823KKT3H/?tag=tolees-21)
