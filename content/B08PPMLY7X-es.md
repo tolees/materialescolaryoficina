@@ -28,10 +28,10 @@ Ahora mismo tienes [safta Mochila Infantil de SpiderMan Go Hero con Carro 705  2
 
 🔎:
 
-- Medidas abierta: 27 x 10 x 67 cm. 2 años de garantía.
 - Bolsillo lateral portabotellas y bolsillo frontal de gran formato. Hombreras ergonómicas y acolchadas con asa de mano en la parte superior.
-- Mochila extraíble, carro de polipropileno, acero pintado y PVC muy resistentes. Sistema de sujeción Safta.
+- Medidas abierta: 27 x 10 x 67 cm. 2 años de garantía.
 - Confeccionada con un material de poliéster muy resistente y cremalleras suaves. Fácil de lavar
 - Safta se caracteriza por la tecnología y la investigación para garantizar unos productos de gran calidad, aptos para el día a día de coles e institutos Son productos diseñados en España, siguiendo todos los procesos de fabricación y calidad de Europa.
+- Mochila extraíble, carro de polipropileno, acero pintado y PVC muy resistentes. Sistema de sujeción Safta.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PPMLY7X/?tag=tolees-21)
