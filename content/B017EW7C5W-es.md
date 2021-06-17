@@ -28,8 +28,8 @@ Tienes [Pilot Frixion – Sets de 3 bolígrafos roller de tinta en los colores a
 
 ℹ️:
 
+- Parte para escribir: punta de acero inoxidable, 0,4mm (0,7mm de diametro de bola)
 - Incluye goma de borrar
 - Tipo de tinta: inodora tinta liquida
-- Parte para escribir: punta de acero inoxidable, 0,4mm (0,7mm de diametro de bola)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B017EW7C5W/?tag=tolees-21)
