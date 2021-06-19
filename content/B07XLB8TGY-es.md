@@ -28,10 +28,10 @@ En este momento está [Filamento 1.75 mm PETG Blanco  Filamento ERYONE PETG para
 
 🔎:
 
-- 3.Very good winding: Make the model looks shiny, no risk that the filament is entangled;
 - 5.Sweet warm tips: Pls print a temp tower first to find out the best temp setting before print the bigger size printing.
-- 1.Operating temperature range: 200-250° C
-- 4.Very widely using:Acid and alkali resistance,can use very widely
+- 3.Very good winding: Make the model looks shiny, no risk that the filament is entangled;
 - 2.High quality: diameter 1.75mm +/- 0.03mm;
+- 4.Very widely using:Acid and alkali resistance,can use very widely
+- 1.Operating temperature range: 200-250° C
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XLB8TGY/?tag=tolees-21)
