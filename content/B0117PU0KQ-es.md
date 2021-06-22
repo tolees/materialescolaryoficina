@@ -28,10 +28,10 @@ Tienes [3 Claveles Tijeras Costura y Multiusos  Profesional  Mango TPR  Acero In
 
 ℹ️:
 
-- De acero inoxidable, ligeras y fáciles de manejar
+- Perfectas para cortar: telas gruesas, varias capas a la vez, fieltro, cuero
 - Con mango tpr de diseño ergonómico que se ajusta perfectamente a la mano
+- De acero inoxidable, ligeras y fáciles de manejar
 - Con hoja inferior plana para evitar que la tela se deslice al cortar
 - Tijera profesional de costura y multiusos de 30 cm – 12”
-- Perfectas para cortar: telas gruesas, varias capas a la vez, fieltro, cuero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0117PU0KQ/?tag=tolees-21)
