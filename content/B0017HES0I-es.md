@@ -28,9 +28,9 @@ Tienes [Tesa 57167-00000-05 - Cinta adhesiva transparente  50 mm x 66 m  6 unida
 
 ℹ️:
 
+- Con unas dimensiones de 50 mm x 66 m
+- Hecha de material de polipropileno adhesivo
 - Transparente
 - Viene en paquete de 6 unidades
-- Hecha de material de polipropileno adhesivo
-- Con unas dimensiones de 50 mm x 66 m
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0017HES0I/?tag=tolees-21)
