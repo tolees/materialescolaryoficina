@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas GQ4178 AC CLASSIC BP Sports backpack unisex-adult cre
 
 🔎:
 
-- Correas de hombro acolchadas
 - tela resistente
 - Gran compartimento principal
+- Correas de hombro acolchadas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R7PFSSV/?tag=tolees-21)
