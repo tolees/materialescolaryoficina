@@ -28,7 +28,7 @@ Tienes [Staedtler tradition 110 HB 1pieza s  - Lápiz  HB  Negro  Rojo  Hexagona
 
 🔎:
 
-- STAEDTLER Lápiz Tradition 110, graduación: HB, hexagonal, </li><li>Lacado en rojo y negro, especialmente resistente gracias a la mina. </li><li>Cuello resistente a la rotura. </li><li>(1102HB)
 - STAEDTLER - 110HB
+- STAEDTLER Lápiz Tradition 110, graduación: HB, hexagonal, </li><li>Lacado en rojo y negro, especialmente resistente gracias a la mina. </li><li>Cuello resistente a la rotura. </li><li>(1102HB)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001P5V4CM/?tag=tolees-21)
