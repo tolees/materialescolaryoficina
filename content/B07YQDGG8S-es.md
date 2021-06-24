@@ -28,9 +28,9 @@ En este momento está [Kipling SEOUL Mochila escolar  Rosa  Robot Camo Azule ](h
 
 🔎:
 
-- Bolsas escolares
-- KI485157E
-- Robot Camo Blue
 - Seoul
+- KI485157E
+- Bolsas escolares
+- Robot Camo Blue
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YQDGG8S/?tag=tolees-21)
