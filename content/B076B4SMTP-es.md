@@ -28,10 +28,10 @@ Tienes [Casio MS-20UC-PK - Calculadora  2.3 x 10.5 x 14.95 cm  color rosa](https
 
 🔎:
 
-- Cálculo porcentual profesional y margen de beneficio a través de la tecla " % "
 - Tecla de Retroceso, raíz cuadrada y clave de doble cero
-- Pantalla LC de 12 dígitos, solar funcionamiento con batería
 - Cálculo de tiempo y cálculo de impuestos
 - Memoria de 3 Llaves, marcadores de coma de 3 dígitos y clave para cambiar signo +/-
+- Cálculo porcentual profesional y margen de beneficio a través de la tecla " % "
+- Pantalla LC de 12 dígitos, solar funcionamiento con batería
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076B4SMTP/?tag=tolees-21)
