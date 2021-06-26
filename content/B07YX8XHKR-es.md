@@ -28,10 +28,10 @@ En este momento está [kk Kinderkraft Mochila Portabebé MILO  Canguro  Ergonóm
 
 🔎:
 
-- Dos posiciones de llevar el niño: en la barriga y en la espalda
 - Sistema de goma para que los extremos de cinturones no cuelguen
-- IHDI - El portabebés milo ha sido probado por el International Hip dysplasia Institute y ha recibido una calificación positiv
+- Dos posiciones de llevar el niño: en la barriga y en la espalda
 - Cinturones anchos, suaves y ajustables: cinturón de cadera y de hombro
 - Hecho de materiales blandos y naturales
+- IHDI - El portabebés milo ha sido probado por el International Hip dysplasia Institute y ha recibido una calificación positiv
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YX8XHKR/?tag=tolees-21)
