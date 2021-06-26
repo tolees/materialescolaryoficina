@@ -28,9 +28,9 @@ Ahora mismo tienes [Edding 8055 marcador permanente para exteriores - negro - 1 
 
 🔎:
 
-- Punta redonda (punta intercambiable)
-- Resistente al agua, resistente al calor hasta 400 °c
 - Resistente a la luz dado, lavados
+- Resistente al agua, resistente al calor hasta 400 °c
+- Punta redonda (punta intercambiable)
 - Hecho en España
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DZFWET2/?tag=tolees-21)
