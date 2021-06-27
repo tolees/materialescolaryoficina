@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Power V Mochila  Adultos Unisex   al 30.14 % de descuento'
-date: 2021-06-26 06:44:53
+date: 2021-06-27 06:55:47
 image: 'https://m.media-amazon.com/images/I/41IeRqBEcgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [adidas Power V Mochila  Adultos Unisex  VERHAL/Negro  Multicolor   Talla 
 
 ℹ️:
 
-- Capacidad: 25,75 litros.
+- Mochila resistente para usar a diario
 - Bolsillo frontal con cremallera
 - Tejido técnico 100% poliéster reciclado
-- Mochila resistente para usar a diario
+- Capacidad: 25,75 litros.
 - Bolsillos sin cierre y correas de compresión en los laterales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SWJTHW1/?tag=tolees-21)
