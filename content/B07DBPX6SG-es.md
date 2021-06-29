@@ -28,10 +28,10 @@ Está [XIAOYAO 40 Piezas Lápices Flexible Lapiz Mágicos para Niños](https://w
 
 ℹ️:
 
-- NOTA: este bolígrafo solo se puede usar como entretenimiento y no se puede usar para escribir y dibujar de manera formal.
-- Hay un borrador al final de cada lápiz. Ideal para regalos, fiestas, cumpleaños
 - 40 lápices plegables multicolores
 - Material de alta calidad, certificado CE, seguro y no tóxico. Sin dañar a su hijo, su hijo puede usarlo con confianza
 - Garantía: si tiene alguna pregunta, contáctenos a tiempo, le haremos un reemplazo o un reembolso por usted
+- NOTA: este bolígrafo solo se puede usar como entretenimiento y no se puede usar para escribir y dibujar de manera formal.
+- Hay un borrador al final de cada lápiz. Ideal para regalos, fiestas, cumpleaños
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DBPX6SG/?tag=tolees-21)
