@@ -28,8 +28,8 @@ En este momento está [adidas AC Classic BP Sports Backpack  Unisex Adulto  Blac
 
 🔎:
 
+- Adjustable Padded shoulder straps
 - Durable fabric
 - Large main Compartiment
-- Adjustable Padded shoulder straps
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089ZC3WZS/?tag=tolees-21)
