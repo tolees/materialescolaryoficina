@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.62 % en Pilot BL-G2-7 - Bolígrafo  color azul  0'
-date: 2021-06-27 16:43:45
+date: 2021-06-29 07:14:58
 image: 'https://m.media-amazon.com/images/I/21DocrRp-CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Pilot BL-G2-7 - Bolígrafo  color azul  0.7mm  12 unidades ](https://www
 
 ℹ️:
 
-- 0.7 mm de diámetro de bola, retráctil
 - Tinta de gel
 - Color azul
+- 0.7 mm de diámetro de bola, retráctil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000I5SEP0/?tag=tolees-21)
