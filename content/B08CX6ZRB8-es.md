@@ -29,7 +29,7 @@ En este momento está [Desigual PU BACKPACK MEDIUM  Gorilla Sports-Mochila de po
 🔎:
 
 - No lavar
-- Bordados a tono de flores y cenefas
 - 100% POLYURETHANE
+- Bordados a tono de flores y cenefas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CX6ZRB8/?tag=tolees-21)
