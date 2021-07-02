@@ -29,9 +29,9 @@ Tienes [Cerdá  Estuche Plumier Triple con Rotuladores Giotto de Spiderman-Licen
 ℹ️:
 
 - Funcional estuche cremallera triple - la mejor forma de llevar todo el material escolar en un único estuche ¡y que cuando busques algo sepas donde encontrarlo
-- Exclusivo plumier disney - licencia oficial marvel studios, recomendado para niños de 2 - 8 años
 - Estuche premium estuches escolares - frontal impreso con detalles de la licencia bordados
-- Detalles técnicos medidas - 12,5x19,5x6cm, material - 1% poliester, material frontal - 1% PVC
+- Exclusivo plumier disney - licencia oficial marvel studios, recomendado para niños de 2 - 8 años
 - Bolis y rotus ordenados plumier escolar - tres pisos para llevarlo todo ordendo siempre, rotuladores de giotto - 16 rotuladires de colores ¡y que nada frene tu creatividad
+- Detalles técnicos medidas - 12,5x19,5x6cm, material - 1% poliester, material frontal - 1% PVC
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085VKPMKD/?tag=tolees-21)
