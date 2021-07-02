@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CASIO CAS-MS8S - Calculadora de escritor con un 46.83 % de descuento'
-date: 2021-06-06 15:18:51
+date: 2021-07-02 08:36:56
 image: 'https://m.media-amazon.com/images/I/41XOn9dDZ7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,9 +30,9 @@ En este momento está [CASIO CAS-MS8S - Calculadora de escritorio de oficina](ht
 
 - Cálculo del IVA, el cálculo del porcentaje
 - Buffer independiente de memoria 3-clave, el poder dual: solar / batería
-- Cuenta con “Casio Logic”, una característica única de los modelos Casio que le permite calcular +/- porcentajes y ver el valor / margen que está sumando / restando con una simple entrada de clave; consulte el manual del usuario para obtener más detalles
-- Separador de tres dígitos, botones plásticos
-- Calculadora de escritorio con pantalla grande
 - Conversión de moneda / EURO. +/- Botón
+- Separador de tres dígitos, botones plásticos
+- Cuenta con “Casio Logic”, una característica única de los modelos Casio que le permite calcular +/- porcentajes y ver el valor / margen que está sumando / restando con una simple entrada de clave; consulte el manual del usuario para obtener más detalles
+- Calculadora de escritorio con pantalla grande
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00OD9PQZ8/?tag=tolees-21)
