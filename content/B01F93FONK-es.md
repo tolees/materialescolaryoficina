@@ -28,10 +28,10 @@ En este momento está [Paper Mate - Paper Mate InkJoy 100RT - Bolígrafo retrá
 
 🔎:
 
-- Fiabilidad y fluidez para garantizar líneas limpias de principio a fin.
-- Gracias al diseño retráctil, no tiene más que hacer clic para empezar a escribir.
-- Contiene cinco bolígrafos retráctiles negros, cinco azules, dos rojos, dos verdes, uno rosa, uno moca, uno azul cielo, uno morado, uno verde claro y uno naranja.
-- La punta media de 1 mm distribuye perfectamente la tinta.
 - La tinta ultrafluida le permite plasmar sin trabas sus ideas y disfrutar del placer de la escritura.
+- Contiene cinco bolígrafos retráctiles negros, cinco azules, dos rojos, dos verdes, uno rosa, uno moca, uno azul cielo, uno morado, uno verde claro y uno naranja.
+- Gracias al diseño retráctil, no tiene más que hacer clic para empezar a escribir.
+- La punta media de 1 mm distribuye perfectamente la tinta.
+- Fiabilidad y fluidez para garantizar líneas limpias de principio a fin.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01F93FONK/?tag=tolees-21)
