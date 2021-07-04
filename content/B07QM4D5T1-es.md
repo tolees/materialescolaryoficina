@@ -28,10 +28,10 @@ Está [TOPELEK - Pistola de Silicona Inalámbrico  Pistola de Encolar 15W para m
 
 ℹ️:
 
-- 🌺【Pistola de Pegamento Multiusos】 Este TOPELEK Mini Pistola de Pegamento se usa perfectamente en el hogar, la escuela y la oficina para manualidades de bricolaje, creación artística o reparación, y trabaja adecuadamente en diversos materiales como papel, vidrio, madera, tela, metal, plástico, cerámica, etc.
-- 🌺【Seguro y fácil de usar】El interruptor de encendido / apagado seguro y el indicador LED de trabajo de pistola pegamento caliente mejoran la seguridad durante el uso. El asa ergonómica y el soporte flexible ofrecen una operación fácil y cómoda, aliviando la fatiga de sus manos, incluso si trabaja durante mucho tiempo.
 - 🌺【diseño cargable】 La TOPELEK pistola de silicona con mini tamaño es apto para adultos y niños. No hace falta enchufar cuando lo usa porque la pistola se puede cargar. Si haga manualidad en un lugar sin enchufe, esta TOPELEK pistola silicona sería opción más ideal.
-- 🌺【Garantías】 Vienen con 10 barras de pegamento (140mm de largo y 7 mm de diámetro). TOPELEK pistola silicona manualidades le proporcionará una devolución de dinero de 45 días y 24 meses de garantía posventa; No dude contactar con nosotros cuando tenga preguntas, haremos todo lo posible para ayudarlo.
+- 🌺【Seguro y fácil de usar】El interruptor de encendido / apagado seguro y el indicador LED de trabajo de pistola pegamento caliente mejoran la seguridad durante el uso. El asa ergonómica y el soporte flexible ofrecen una operación fácil y cómoda, aliviando la fatiga de sus manos, incluso si trabaja durante mucho tiempo.
+- 🌺【Pistola de Pegamento Multiusos】 Este TOPELEK Mini Pistola de Pegamento se usa perfectamente en el hogar, la escuela y la oficina para manualidades de bricolaje, creación artística o reparación, y trabaja adecuadamente en diversos materiales como papel, vidrio, madera, tela, metal, plástico, cerámica, etc.
 - 🌺【Cable USB y largo tiempo de uso】La TOPELEK pistola de pegamento con puerto USB se puede cargar con cualquier dispositivo USB como computadora portátil, banco de energía, adaptador, etc. Solo necesita 3.5-4.5 horas para cargarlo 100% completamente y el tiempo de trabajo dura 100 minutos.
+- 🌺【Garantías】 Vienen con 10 barras de pegamento (140mm de largo y 7 mm de diámetro). TOPELEK pistola silicona manualidades le proporcionará una devolución de dinero de 45 días y 24 meses de garantía posventa; No dude contactar con nosotros cuando tenga preguntas, haremos todo lo posible para ayudarlo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QM4D5T1/?tag=tolees-21)
