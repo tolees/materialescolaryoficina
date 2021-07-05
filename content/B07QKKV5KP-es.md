@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.13 % en Vans Old SKOOL III Backpack Mochila Tipo'
-date: 2021-07-02 09:02:01
+date: 2021-07-05 21:16:44
 image: 'https://m.media-amazon.com/images/I/5199ZtRyUmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
