@@ -28,10 +28,10 @@ Está [Under Armour UA Scrimmage 2.0 Backpack  mochila unisex  mochila resistent
 
 ℹ️:
 
-- Versátil: La mochila de gimnasio tiene 2 correas ajustables, un asa superior de agarre, 2 bolsillos para botellas y otros 3 para guardar objetos
-- Resistente al agua: Este accesorio deportivo dispone de la tecnología UA Storm, que repele el agua sin sacrificar la transpirabilidad
-- Material y volumen: Mochila deportiva Under Armour Scrimmage 20 Backpack, material: 100% de poliéster, volumen: 25 l, medidas: 24 cm x 35 cm x 48 cm
 - Bolsillo para portátil: La mochila de deporte resistente al agua tiene un bolsillo acolchado para guardar portátiles de 15" de forma segura y seca
+- Resistente al agua: Este accesorio deportivo dispone de la tecnología UA Storm, que repele el agua sin sacrificar la transpirabilidad
+- Versátil: La mochila de gimnasio tiene 2 correas ajustables, un asa superior de agarre, 2 bolsillos para botellas y otros 3 para guardar objetos
+- Material y volumen: Mochila deportiva Under Armour Scrimmage 20 Backpack, material: 100% de poliéster, volumen: 25 l, medidas: 24 cm x 35 cm x 48 cm
 - Ligera mochila: Diseñada para ser cómoda y fácil de llevar, esta mochila de viaje es útil para la escuela, para el gimnasio o para uso diario
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07J31ZHWX/?tag=tolees-21)
