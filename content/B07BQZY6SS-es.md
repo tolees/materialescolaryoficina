@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Nk Acdmy Team Bkpk Sports Backpack  al 49.98 % de descuento'
-date: 2021-07-03 21:07:30
+date: 2021-07-05 13:56:48
 image: 'https://m.media-amazon.com/images/I/41Rionf8QEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07BQZY6SS/?tag=tolees-21'
 descuento: '49.98'
-average: '15.2211111111111'
+average: '15.199'
 ---
 
 Está [NIKE Nk Acdmy Team Bkpk Sports Backpack  Unisex adulto  University Red/Black/ White   MISC](https://www.amazon.es/dp/B07BQZY6SS/?tag=tolees-21) con 49.98 de descuento por 15.0 EUR (original: 29.99 EUR) en el siguiente enlace!
