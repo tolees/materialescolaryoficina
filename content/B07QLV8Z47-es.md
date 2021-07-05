@@ -28,8 +28,8 @@ Ahora mismo tienes [Vans SS20 Mochila Antigua SKOOL III OS Black-Charcoal](https
 
 🔎:
 
+- Talla Única
 - Color: Black/Charcoal
 - Marca: Vans
-- Talla Única
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QLV8Z47/?tag=tolees-21)
