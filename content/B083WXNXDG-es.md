@@ -28,10 +28,10 @@ En este momento está [Safta 612005609 Mochila pequeña Adaptable Carro Algo de 
 
 🔎:
 
-- Tiene unas cintas que permiten sujetarla a una trolley (el carro se vende por separado), pudiendo usarse para la escuela o para viajar
-- Para niños entre 3-6 años
-- Mochila infantil adaptable a carro; medidas: 28cm x 10cm x 34cm
 - Cuenta con un compartimento principal y un bolsillo exterior
+- Para niños entre 3-6 años
 - Bolsillo de red lateral para la bebida
+- Tiene unas cintas que permiten sujetarla a una trolley (el carro se vende por separado), pudiendo usarse para la escuela o para viajar
+- Mochila infantil adaptable a carro; medidas: 28cm x 10cm x 34cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083WXNXDG/?tag=tolees-21)
