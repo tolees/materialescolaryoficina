@@ -29,9 +29,9 @@ Está [Boyigog - Mini Pistola de Silicona 20W  Pistola Silicona Manualidades Ni�
 ℹ️:
 
 - ❤【Operación fácil y segura】Fusible incorporado para evitar el sobrecalentamiento. Simplemente apriete el gatillo suavemente y el pegamento derretido saldrá suavemente.
-- ❤ 【Pata de cabra flexible】 Con soporte desmontable y flexible para mantener la pistola estable y en posición vertical, y le permite usar esta pistola en cualquier ángulo. El tamaño hace que el manejo sea cómodo.
-- ❤ 【60 barras de pegamento incluidas】 60 piezas de barras de pistola de colores de pegamento brillante con brillo, 15 colores, pegamento adhesivo de fusión en caliente de tamaño mini para bricolaje Adhesivo de reparación de arte artesanal - Diámetro 7 mm , longitud 10 cm.
 - ❤【Calentamiento rápido】La pistola de pegamento caliente se calienta en 3-5 minutos y automáticamente mantiene la temperatura constante.
+- ❤ 【60 barras de pegamento incluidas】 60 piezas de barras de pistola de colores de pegamento brillante con brillo, 15 colores, pegamento adhesivo de fusión en caliente de tamaño mini para bricolaje Adhesivo de reparación de arte artesanal - Diámetro 7 mm , longitud 10 cm.
 - ❤ 【Garantía 】Nos dedicamos a proporcionar productos de la alta calidad y a satisfacer a nuestros clientes. Si había cualquier problema con su pegamento del arma, sienta libre de entrarnos en contacto con en caulquier momento.
+- ❤ 【Pata de cabra flexible】 Con soporte desmontable y flexible para mantener la pistola estable y en posición vertical, y le permite usar esta pistola en cualquier ángulo. El tamaño hace que el manejo sea cómodo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W1K5B6Z/?tag=tolees-21)
