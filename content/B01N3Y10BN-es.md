@@ -29,9 +29,9 @@ Tienes [Carioca Baby Crayons 3in1 | Super Lápices de Colores 3 en 1  Lápices d
 ℹ️:
 
 - Producto: Kit de 10 lápices de colores para niños con cuerpo maxi y mina gorda de Ø 10 mm. Fáciles de agarrar y de utilizar
-- Uso: Colores acuarelables con agua y pincel. Puedes difuminarlos, sobreponerlos y crear efectos únicos.
-- Lápices 3 in 1: lápiz, cera y acuarela en un único producto. Sacapuntas incluído en la caja.
-- Consejos: Apto para niños bebés a partir de 1 año. Sin gluten.
 - Lavable: Lápiz lavable, se quita fácilmente de la piel y de la mayoría de los tejidos
+- Consejos: Apto para niños bebés a partir de 1 año. Sin gluten.
+- Lápices 3 in 1: lápiz, cera y acuarela en un único producto. Sacapuntas incluído en la caja.
+- Uso: Colores acuarelables con agua y pincel. Puedes difuminarlos, sobreponerlos y crear efectos únicos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N3Y10BN/?tag=tolees-21)
