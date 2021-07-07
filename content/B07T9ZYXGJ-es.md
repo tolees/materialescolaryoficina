@@ -28,10 +28,10 @@ Tienes [PUMA Phase Backpack Mochilla  Unisex Adulto  Apricot Blush  OSFA](https:
 
 🔎:
 
-- Cierre superior con cordón de ajuste
 - Cordones que sirven como correas
-- Logotipo PUMA Archive No 1 impreso en el frente
 - Refuerzo completo de PU en el interior
 - Silueta de mochila clásica con cordón de ajuste
+- Cierre superior con cordón de ajuste
+- Logotipo PUMA Archive No 1 impreso en el frente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07T9ZYXGJ/?tag=tolees-21)
