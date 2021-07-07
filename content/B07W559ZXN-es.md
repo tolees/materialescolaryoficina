@@ -28,10 +28,10 @@ Tienes [boogift - Mini Pistola de Silicona 20W  60 Pcs Barras De Pegamento Alta 
 
 🔎:
 
-- ❤ 【60 barras de pegamento incluidas】 60 barras de pegamento de color Glitter Glue, 15 colores, mini pegamento termofusible para reparación de manualidades de bricolaje, diámetro 7 mm, longitud 10 cm.
 - ❤【Calentamiento rápido】La pistola de pegamento caliente se calienta en 3-5 minutos y automáticamente mantiene la temperatura constante.El tamaño de la pistola será más grande que la mini pistola de pegamento habitual, más adecuada para adultos.
-- ❤【Operación fácil y segura】Fusible incorporado para evitar el sobrecalentamiento. Simplemente apriete el gatillo suavemente y el pegamento derretido saldrá suavemente.
-- ❤ 【Garantía】Estamos comprometidos a proporcionar productos de alta calidad y satisfacer a nuestros clientes. Si tiene algún problema con el pegamento de su pistola rociadora, no dude en contactarnos.
 - ❤【Soporte flexible】 Con un soporte móvil y flexible, puede mantener la pistola rociadora estable y en posición vertical, y le permite la pistola rociadora en cualquier ángulo de uso.
+- ❤ 【Garantía】Estamos comprometidos a proporcionar productos de alta calidad y satisfacer a nuestros clientes. Si tiene algún problema con el pegamento de su pistola rociadora, no dude en contactarnos.
+- ❤ 【60 barras de pegamento incluidas】 60 barras de pegamento de color Glitter Glue, 15 colores, mini pegamento termofusible para reparación de manualidades de bricolaje, diámetro 7 mm, longitud 10 cm.
+- ❤【Operación fácil y segura】Fusible incorporado para evitar el sobrecalentamiento. Simplemente apriete el gatillo suavemente y el pegamento derretido saldrá suavemente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W559ZXN/?tag=tolees-21)
