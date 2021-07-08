@@ -28,9 +28,9 @@ Tienes [adidas TRICOL Fest Bag Sports Backpack  Unisex-Adult  Black  NS](https:/
 
 ℹ️:
 
-- 100% Poliéster Reciclado
+- Bolso pequeño de la marca Adidas con bandolera ajustable
 - Bolsillo con cremallera en la parte delantera
 - Tejido liso
-- Bolso pequeño de la marca Adidas con bandolera ajustable
+- 100% Poliéster Reciclado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08PL5PFYZ/?tag=tolees-21)
