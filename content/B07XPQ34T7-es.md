@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Deck Backpack Mochilla  Unisex-Adult  Black  OSFA](http
 
 🔎:
 
-- Cierre de cremallera en el compartimento y el bolsillo frontales
-- Abertura del compartimento principal con cremallera bidireccional
-- Correas para los hombros de malla, ajustables y acolchadas con una trabilla reflectante con el felino de PUMA y líneas pespunteadas
 - Compartimento para el portátil dentro del compartimento principal
+- Correas para los hombros de malla, ajustables y acolchadas con una trabilla reflectante con el felino de PUMA y líneas pespunteadas
 - Dos bolsillos laterales de malla y dos correas de cincha horizontales con cierre de velcro
+- Abertura del compartimento principal con cremallera bidireccional
+- Cierre de cremallera en el compartimento y el bolsillo frontales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XPQ34T7/?tag=tolees-21)
