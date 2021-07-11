@@ -28,8 +28,8 @@ Está [INHEMI Grapadora Manual 3 en 1 Grapadora Tapicero con 3000 Piezas de Uña
 
 ℹ️:
 
-- 【100% de garantía】si tiene algún problema al usar nuestro producto. Póngase en contacto con nuestro equipo profesional de servicio posventa por correo electrónico o por teléfono. Nos pondremos en contacto con usted dentro de las 24 horas.
 - 【Perilla de ajuste de profundidad】 Use la perilla de ajuste de profundidad en la parte superior de la grapadora para ajustar la fuerza ejercida sobre el sujetador para llevarlo más profundo o menos profundo a la pieza de trabajo.
+- 【100% de garantía】si tiene algún problema al usar nuestro producto. Póngase en contacto con nuestro equipo profesional de servicio posventa por correo electrónico o por teléfono. Nos pondremos en contacto con usted dentro de las 24 horas.
 - 【Atasco rápido y profesional】 El soporte ergonómico de la abrazadera facilita su extracción. Un mango de goma antideslizante, diseñado con el principio de palanca, le ahorra tiempo en la uña y elimina rápidamente las uñas atascadas en muy poco tiempo.
 - 【Pistola de grapas 3 en 1】 una grapadora de 3 vías, 3000 piezas para tipo 凹, tipo U, clips en T para satisfacer las necesidades diarias de las máquinas de coser en el hogar o en la oficina.
 - 【El paquete incluye】pistola grapadora de 1 pieza; Grapas de 3000 piezas (1000 x tipo 凹 8 mm;1000 x tipo U 12 mm; 1000 x tipo T 10 mm); 1 Removedor de la grapa para.
