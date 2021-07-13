@@ -29,7 +29,7 @@ En este momento está [Campingaz Urban Picnic Bacpac 30L - Nevera Flexible Forma
 🔎:
 
 - Aislamiento de espuma pe de 6mm de espesor; rendimiento: conserva los alimentos fríos durante 11hrs (en una temperatura ambiente de 32°c); certificado de compatibilidad de alimentos
-- Mochila isoterma de 30L; revestimiento exterior de poliéster 600 denieres
 - Bolsillo frontal y bolsillos laterales de malla sin aislamiento; fondo de PVC reforzado negro; correas acolchadas ajustables
+- Mochila isoterma de 30L; revestimiento exterior de poliéster 600 denieres
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B019X3ENRU/?tag=tolees-21)
