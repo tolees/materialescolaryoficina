@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas GN5462 FEST BAG TREF Sports backpack unisex-adult wil
 🔎:
 
 - Gran compartimento principal
-- tela resistente
 - Correas de hombro acolchadas
+- tela resistente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R7NLGQF/?tag=tolees-21)
