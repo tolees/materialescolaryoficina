@@ -28,11 +28,11 @@ En este momento está [Edding 1200-8+2S - Bolsa con 8 rotuladores + 2 de regalo]
 
 🔎:
 
-- Colores diferentes
-- Con punta redonda de fibra
-- Bolsa de 10 rotuladores
-- La tinta es a base de agua y altamente resistente
 - La tinta es a base de agua en brillantes colores y altamente resistente
+- Colores diferentes
+- Bolsa de 10 rotuladores
+- Con punta redonda de fibra
+- La tinta es a base de agua y altamente resistente
 - Bolsa que contiene 10 rotuladores de colores Edding 1200
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KPV9F8C/?tag=tolees-21)
