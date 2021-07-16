@@ -28,10 +28,10 @@ Ahora mismo tienes [Lychee Ratón inalámbrico para bolígrafo  2.4 GHZ USB inal
 
 🔎:
 
-- ✔【Diseño ergonómico】Se adapta cómodamente a tu mano, en forma de bolígrafo, perfecto para escribir a mano y diseño gráfico. Diseñado con una rueda para girar páginas durante la presentación PPT.
+- ✔【Ahorro de energía】Viene con receptor USB, hasta 33 pies de distancia efectiva. Alimentado por una pila AAA (no incluida), plug and play. La función de apagado automático, no te preocupes por el desperdicio de tu batería.
 - ✔【El mejor regalo】Compatible con: Windows ME/NT/2000/XP/Vista/7/8, Android, Mac, OC, etc. Un regalo perfecto para profesores, profesores, compañeros de clase, colegas, amigos y líderes.
 - ✔【Ultraportátil】Ratón óptico inalámbrico de 2,4 G, tamaño mini de 14 x 1,5 x 2,5 cm, como un bolígrafo. Cabe en tu bolsillo, llévalo a tu clase, reunión y donde quiera que vayas. Puedes utilizar un ratón inalámbrico en cualquier lugar que desees.
-- ✔【Ahorro de energía】Viene con receptor USB, hasta 33 pies de distancia efectiva. Alimentado por una pila AAA (no incluida), plug and play. La función de apagado automático, no te preocupes por el desperdicio de tu batería.
 - ✔【DPI ajustable】 800, 1200, 1600 DPI ajustes de niveles-500/1000, te ayuda a encontrar una "velocidad" adecuada. El agarre es muy natural y puedes colocar tu brazo cerca del cuerpo, o incluso en el cuerpo para mayor comodidad.
+- ✔【Diseño ergonómico】Se adapta cómodamente a tu mano, en forma de bolígrafo, perfecto para escribir a mano y diseño gráfico. Diseñado con una rueda para girar páginas durante la presentación PPT.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NV7GLRC/?tag=tolees-21)
