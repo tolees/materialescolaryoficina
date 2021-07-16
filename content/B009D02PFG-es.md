@@ -28,9 +28,9 @@ Ahora mismo tienes [APLI 11715 - Clips galvanizados nº3 40 mm 100 u.](https://w
 
 🔎:
 
-- Acabado galvanizado / plata, que le da una apariencia más brillante
-- Cada caja contiene 100 clips
 - Ideales para mantener todos tus documentos bien sujetos y tu escritorio bien organizado
 - Clips de alambre nº 3 (40 mm)
+- Cada caja contiene 100 clips
+- Acabado galvanizado / plata, que le da una apariencia más brillante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009D02PFG/?tag=tolees-21)

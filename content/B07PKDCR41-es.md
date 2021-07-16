@@ -28,9 +28,9 @@ Está [Texas Instruments TI-83 Premium CE Python - Calculadora científica color
 
 ℹ️:
 
-- Modo de examen integrado (obligatorio liceo general, profesional y BTS)
-- Pantalla a color de alta resolución y batería recargable
 - Actualizaciones gratuitas y periódicas para tener nuevas funciones
+- Pantalla a color de alta resolución y batería recargable
 - Programación en pithón integrada con coloración sintaxónica para una fácil introducción de los programas
+- Modo de examen integrado (obligatorio liceo general, profesional y BTS)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PKDCR41/?tag=tolees-21)
