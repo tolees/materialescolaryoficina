@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Milan - Caja 100 tizas antipolvo de colo al 63.71 % de descuento'
-date: 2021-07-10 08:12:53
+date: 2021-07-18 14:33:01
 image: 'https://m.media-amazon.com/images/I/41PIuNTsYhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MILAN'
 buyurl: 'https://www.amazon.es/dp/B082T2VGBY/?tag=tolees-21'
 descuento: '63.71'
-average: '6.544'
+average: '5.95166666666667'
 ---
 
 Ahora mismo tienes [Milan - Caja 100 tizas antipolvo de colores](https://www.amazon.es/dp/B082T2VGBY/?tag=tolees-21) a 2.99 EUR (original: 8.24 EUR) (63.71 %  de descuento) en el siguiente enlace!
