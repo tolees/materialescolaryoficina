@@ -28,10 +28,10 @@ Tienes [Eastpak Provider Mochila  44 Cm  33 L  Gris  Black Denim ](https://www.a
 
 🔎:
 
-- Más resistente gracias al asa de goma y al fondo y panel acolchados
 - Fabricada con 60 % nylon y 40 % poliéster
+- Más resistente gracias al asa de goma y al fondo y panel acolchados
+- Altura: 44 cm, Ancho: 31 cm, Fondo: 25 cm
 - Funda acolchada para portátiles de hasta 15 pulgadas
 - Dos compartimentos principales con bolsillo delantero con separadores
-- Altura: 44 cm, Ancho: 31 cm, Fondo: 25 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00L9RPNV4/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [tesa Powerbond Cinta Doble Cara ESPEJOS   Cinta Doble Cara para Espejos 
 
 ℹ️:
 
+- tesa Powerbond Cinta Doble Cara ESPEJOS: cinta de montaje autoadhesiva para una instalación sólida y resistente de espejos sin necesidad de utilizar tornillos ni herramientas
+- Flexible y adaptable: el práctico adhesivo para espejos se corta a la longitud deseada y, por lo tanto, es adecuado para la fijación de espejos grandes y pequeños (hasta 70 x 70 cm y 4 mm de grosor)
 - La cinta para espejos sujeta objetos planos de hasta 4 mm de grosor sobre los azulejos
 - Contenido: 1 x tesa Powerbond Cinta Doble Cara ESPEJOS , Dimensiones: 1.5 m x 19 mm , Adecuado para espejos con dimensiones hasta 70 cm x 70 cm
-- tesa Powerbond Cinta Doble Cara ESPEJOS: cinta de montaje autoadhesiva para una instalación sólida y resistente de espejos sin necesidad de utilizar tornillos ni herramientas
 - Se adhiere de forma segura y firme incluso en áreas húmedas: debido a su alta resistencia a la humedad, esta cinta adhesiva para instalación soporta un espejo particularmente bien en los baños
-- Flexible y adaptable: el práctico adhesivo para espejos se corta a la longitud deseada y, por lo tanto, es adecuado para la fijación de espejos grandes y pequeños (hasta 70 x 70 cm y 4 mm de grosor)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FFY8MV0/?tag=tolees-21)
