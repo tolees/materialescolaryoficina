@@ -28,8 +28,8 @@ Tienes [Desigual  Fabric Backpack Mini-Mochila para Mujer  rojo  Medium](https:/
 
 ℹ️:
 
-- 100% POLYESTER
 - Bolsillo cargo frontal con cremallera y tirador con mensaje "100% you"
 - No lavar
+- 100% POLYESTER
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CX75CK5/?tag=tolees-21)
