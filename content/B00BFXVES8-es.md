@@ -28,10 +28,10 @@ En este momento está [Loctite Super Glue-3 Power Gel  gel adhesivo flexible y r
 
 🔎:
 
-- Gel flexible – La fórmula del pegamento rápido Loctite Super Glue-3 Power Gel está enriquecida con caucho y garantiza un acabado flexible y resistente
-- Máxima fuerza de unión – Este pegamento universal con una fuerza de unión máxima es resistente a vibraciones; es multimaterial* e ideal para pegar materiales flexibles
+- Envío y detalles – Loctite Super Glue-3 Power Gel, tubo de gel pegamento flexible, adhesivo con una nueva fórmula de etilcianoacrilato, transparente, 1x3 g tubo, n.º artículo: 2067093
 - Precisión – Este pegamento fuerte antigoteo garantiza precisión; además, es transparente para obtener unas uniones limpias e invisibles y se seca en pocos segundos
 - Superficies verticales – Este pegamento flexible cuenta con una fórmula antigoteo que permite una aplicación limpia; es ideal para superficies verticales
-- Envío y detalles – Loctite Super Glue-3 Power Gel, tubo de gel pegamento flexible, adhesivo con una nueva fórmula de etilcianoacrilato, transparente, 1x3 g tubo, n.º artículo: 2067093
+- Máxima fuerza de unión – Este pegamento universal con una fuerza de unión máxima es resistente a vibraciones; es multimaterial* e ideal para pegar materiales flexibles
+- Gel flexible – La fórmula del pegamento rápido Loctite Super Glue-3 Power Gel está enriquecida con caucho y garantiza un acabado flexible y resistente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BFXVES8/?tag=tolees-21)
