@@ -28,10 +28,10 @@ Tienes [Create - Rotuladores de tela  20 unidades  con punta de tablero de densi
 
 ℹ️:
 
-- Antes del uso, la entrega del color hacia la punta está asegurada por un par de sacudidas agudas del rotulador en la dirección de la punta Pack con 20 colores surtidos
-- Contenido: 20 ud
 - Medidas del paquete (LxAxAlt): 20 x 16 x 1.4 cm
-- Rotuladores textiles de alta calidad, permanentes y de doble punta Agitar antes de usar Lavables a 40ºC tras fijarlos con la plancha
 - Calidad reconocida de Creativ Company
+- Rotuladores textiles de alta calidad, permanentes y de doble punta Agitar antes de usar Lavables a 40ºC tras fijarlos con la plancha
+- Contenido: 20 ud
+- Antes del uso, la entrega del color hacia la punta está asegurada por un par de sacudidas agudas del rotulador en la dirección de la punta Pack con 20 colores surtidos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FAWORFC/?tag=tolees-21)
