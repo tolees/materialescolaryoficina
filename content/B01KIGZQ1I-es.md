@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpino - Pack 12 ceras plásticas de colo al 21.50 % de descuento'
-date: 2021-07-26 11:35:44
+date: 2021-07-27 12:38:35
 image: 'https://m.media-amazon.com/images/I/51d7eP6NdzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [Alpino - Pack 12 ceras plásticas de colores Plastialpino + 12 rotuladore
 
 ℹ️:
 
-- Ceras duras
 - Rotuladores con tinta súper lavable
-- Diseñados para uso escolar
-- Colores surtidos súper brillantes
 - Colores surtidos
+- Diseñados para uso escolar
 - Estuche 12 ceras
+- Colores surtidos súper brillantes
+- Ceras duras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KIGZQ1I/?tag=tolees-21)
