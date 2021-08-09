@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual PU Backpack  Mini Mochila de Po al 50.04 % de descuento'
-date: 2021-08-07 17:33:38
+date: 2021-08-09 10:55:19
 image: 'https://m.media-amazon.com/images/I/41GGrTAXSwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
