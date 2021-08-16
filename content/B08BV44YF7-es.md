@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas 3S RSPNS BP  Sports backpack Unisex-Adult  black/whit
 🔎:
 
 - Mochila
-- mochila deportiva
 - compartimento principal con cierre de cremallera
+- mochila deportiva
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BV44YF7/?tag=tolees-21)

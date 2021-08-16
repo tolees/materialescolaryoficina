@@ -28,10 +28,10 @@ En este momento está [BIC Criterium Portaminas 2 00 mm - Cuerpo Blanco o Negro
 
 🔎:
 
+- La gran eficacia de este portaminas consiste también en su botón a presión, que sirve de sacapuntas y que, además, encierra una goma.
 - Portaminas recargable equipado con mina de grafito HB de 2 mm resistente (+estuche de 6 minas) que proporciona un trazo limpio y grueso
+- El buen instrumento saca maestro: este portaminas está concebido especialmente para el dibujo técnico
 - Un práctico portaminas con estrías antideslizantes y un resistente clip de metal para llevarlo colgado en el bolsillo
 - Su elegante cuerpo negro o blanco lacado (proporcionado en colores aleatorios) lo convierte en una herramienta de trabajo sofisticada
-- La gran eficacia de este portaminas consiste también en su botón a presión, que sirve de sacapuntas y que, además, encierra una goma.
-- El buen instrumento saca maestro: este portaminas está concebido especialmente para el dibujo técnico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0021UEH3I/?tag=tolees-21)
