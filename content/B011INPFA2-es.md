@@ -28,10 +28,10 @@ Ahora mismo tienes [HOMCOM Pizarra magnetica blanca de 60 x 90cm con 10 imanes +
 
 🔎:
 
-- ✅Pizarra Magnetica - Dimensiones: 90x60cm (Ancho x Alto) - Marco de aluminio anodizado con las esquinas de plastico durable -Superficie magnetica, blanco lacado, resistente a los arañazos
+- ✅Pizarra blanca con superficie magnetica, blanco lacado, resistente a los arañazos
 - ✅Gratis: 4 rotuladores marcadores, 1 borrador y 10 imanes
 - ✅La pizarra puede ser montada en en vertical y en horizontal - Panel trasero de metal galvanizado
 - ✅Sistema de montaje en pared incluido para colgar la pizarra magnetica
-- ✅Pizarra blanca con superficie magnetica, blanco lacado, resistente a los arañazos
+- ✅Pizarra Magnetica - Dimensiones: 90x60cm (Ancho x Alto) - Marco de aluminio anodizado con las esquinas de plastico durable -Superficie magnetica, blanco lacado, resistente a los arañazos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B011INPFA2/?tag=tolees-21)
