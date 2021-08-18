@@ -28,10 +28,10 @@ En este momento está [Eastpak Provider Mochila  44 Cm  33 L  Azul  Cloud Navy ]
 
 🔎:
 
-- Más resistente gracias al asa de goma y al fondo y panel acolchados
-- Funda acolchada para portátiles de hasta 15 pulgadas
-- Fabricada 100 % en nylon
 - Altura: 44 cm, Ancho: 31 cm, Fondo: 25 cm
 - Dos compartimentos principales con bolsillo delantero con separadores
+- Fabricada 100 % en nylon
+- Más resistente gracias al asa de goma y al fondo y panel acolchados
+- Funda acolchada para portátiles de hasta 15 pulgadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073X3W8WX/?tag=tolees-21)
