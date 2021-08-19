@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ARTESANIA CERDA 2100002798  Mochila para al 31.17 % de descuento'
-date: 2021-08-18 07:51:11
+date: 2021-08-19 09:43:43
 image: 'https://m.media-amazon.com/images/I/51k2n0I0N4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
