@@ -28,10 +28,10 @@ Ahora mismo tienes [Eastpak Wyoming Mochila  40 Cm  24 L  Gris  Sunday Grey ](ht
 
 🔎:
 
-- Fabricada con 60 % nylon y 40 % poliéster
 - Altura: 40 cm, Ancho: 30 cm, Fondo: 18 cm
-- Correas de hombro acolchadas con un cómodo panel trasero acolchado
 - Amplio bolsillo delantero para guardar los objetos más pequeños
+- Fabricada con 60 % nylon y 40 % poliéster
+- Correas de hombro acolchadas con un cómodo panel trasero acolchado
 - Compartimento principal amplio con resistente base de piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003PPD0M2/?tag=tolees-21)
