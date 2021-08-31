@@ -28,9 +28,9 @@ Ahora mismo tienes [Lápiz de grafito STABILO EO282/6-21-3-20 Othello ARTY - Caj
 
 🔎:
 
-- 10 grados de dureza finamente graduados, desde muy suave (4B) hasta muy duro (4H)
-- Mina irrompible
 - Lápiz hexagonal con diseño clásico de rayas
+- Mina irrompible
 - Superficie lacada, agradable al tacto
+- 10 grados de dureza finamente graduados, desde muy suave (4B) hasta muy duro (4H)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NXPX337/?tag=tolees-21)
