@@ -28,10 +28,10 @@ Ahora mismo tienes [Exacompta 19500H - Pack de 10 carpetas de proyecto con goma 
 
 🔎:
 
-- Dorso : 50 mm.
-- Se sirven sin montar - dimensiones para cada cartulina 26.5 x 32.5 x 0.5 cm para A4.
 - Colores surtidos : azul - amarillo - naranja - rojo - verde - violín.
+- Se sirven sin montar - dimensiones para cada cartulina 26.5 x 32.5 x 0.5 cm para A4.
 - Cartulina lustrada.
 - Cierre con gomas.
+- Dorso : 50 mm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004L12MGY/?tag=tolees-21)
