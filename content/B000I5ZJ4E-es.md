@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Post-It R-330-Nr - Notas Adhesivas  6 Un al 17.63 % de rebaja'
-date: 2021-08-23 13:14:00
+date: 2021-09-10 15:25:20
 image: 'https://m.media-amazon.com/images/I/41UPTYmsEjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Post-It R-330-Nr - Notas Adhesivas  6 Unidades  Multicolor  Arcoiris de 
 
 🔎:
 
-- Las Z-notas Post-it están fabricadas 100% con fibras de papel certificadas por PEFC
-- Gama de colores variada: amarillo, verde, morado, naranja, rosa
 - Cada bloc de notas tiene 100 hojas
+- Gama de colores variada: amarillo, verde, morado, naranja, rosa
+- Las Z-notas Post-it están fabricadas 100% con fibras de papel certificadas por PEFC
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000I5ZJ4E/?tag=tolees-21)
