@@ -28,10 +28,10 @@ Tienes [Pilot Spain Super Grip - Pack de 4 bolígrafos  punto medio  multicolor]
 
 ℹ️:
 
-- Tinta base de aceite
-- Retráctil
-- Recargable
 - Con grip
 - Bolígrafo punta de bola
+- Recargable
+- Retráctil
+- Tinta base de aceite
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M5CA0ZH/?tag=tolees-21)
