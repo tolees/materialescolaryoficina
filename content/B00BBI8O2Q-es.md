@@ -28,9 +28,9 @@ Ahora mismo tienes [Miquel Rius - Miquelrius 7440 - Bloc de Recambio](https://ww
 
 🔎:
 
-- Papel extra opaco de 70 g
-- Bloc Note book de 200 hojas (25 de cada color) tamaño DIN A4 con 4 taladros para su archivo
 - 8 colores surtidos
+- Papel extra opaco de 70 g
 - 8 bandas de color lateral y cuadrícula de 5 mm
+- Bloc Note book de 200 hojas (25 de cada color) tamaño DIN A4 con 4 taladros para su archivo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BBI8O2Q/?tag=tolees-21)
