@@ -28,10 +28,10 @@ Está [Exacompta 51560E - Archivador de 4 anillas de 2 5 cm  lomo de 4 cm  cubie
 
 ℹ️:
 
-- Equ ipad o con anillas en d en la tercera cobertura, las hojas o fundas son fáciles de insertar y consultar para el uso diario
-- Exterior pastel e interior de papel negro para una bonita elegancia que vestirá tu clase
-- Un viento ligero sopla en la clasificación con la gama pastel aquarel de exacompta
 - Diseñado en cartón duro, cubierto de papel de color recubierto con película y el archivador de anillas aquarel está diseñado para durar
+- Equ ipad o con anillas en d en la tercera cobertura, las hojas o fundas son fáciles de insertar y consultar para el uso diario
 - Tamaño a4, adecuado para archivar hojas, fundas perforadas y separadores a4; certificado fsc, fabricación alemana
+- Un viento ligero sopla en la clasificación con la gama pastel aquarel de exacompta
+- Exterior pastel e interior de papel negro para una bonita elegancia que vestirá tu clase
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084N1MFMR/?tag=tolees-21)
