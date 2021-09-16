@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Portalápices 5 Piezas de Escritorio de O al 29.39 % de descuento'
-date: 2020-09-21 21:52:40
-image: 'https://m.media-amazon.com/images/I/51hJD8MIbcL._SL400_.jpg'
+title: 'SIMUER - Portalápices 5 Piezas de Escrit al 83.62 % de descuento'
+date: 2021-09-16 12:18:26
+image: 'https://m.media-amazon.com/images/I/51hJD8MIbcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0813FGK1W-es Portalápices 5 Piezas de Escritorio de Organizador de...'
+slug: 'B0813FGK1W-es SIMUER - Portalápices 5 Piezas de Escritorio de...'
 sku: 'B0813FGK1W-es'
-tags: [ 'lápices', ]
-actualPrice: 6.32 EUR
+tags: [ 'Accesorios de escritorio y productos de almacenamiento','Material de oficina','Materiales, organizadores y dispensadores de escritorio','Oficina y papelería','Portalápices','lápices','simuer', ]
+actualPrice: 1.44 EUR
 currency: EUR
-price: 6.32
-comparePrice: 8.95 EUR
-prodname: 'Portalápices 5 Piezas de Escritorio de Organizador de Pluma de Lápices para Oficina y Escuela Casa'
+price: 1.44
+comparePrice: 8.79 EUR
+prodname: 'SIMUER - Portalápices 5 Piezas de Escritorio de Organizador de Pluma de Lápices para Oficina y Escuela Casa'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'SIMUER'
 buyurl: 'https://www.amazon.es/dp/B0813FGK1W/?tag=tolees-21'
-descuento: '29.39'
-average: '6.32'
+descuento: '83.62'
+average: '4.69333333333333'
 ---
 
-Está [Portalápices 5 Piezas de Escritorio de Organizador de Pluma de Lápices para Oficina y Escuela Casa](https://www.amazon.es/dp/B0813FGK1W/?tag=tolees-21) con 29.39 de descuento por 6.32 EUR (original: 8.95 EUR) en el siguiente enlace!
+Está [SIMUER - Portalápices 5 Piezas de Escritorio de Organizador de Pluma de Lápices para Oficina y Escuela Casa](https://www.amazon.es/dp/B0813FGK1W/?tag=tolees-21) con 83.62 de descuento por 1.44 EUR (original: 8.79 EUR) en el siguiente enlace!
 
-[![Portalápices 5 Piezas de Escritorio de O](https://m.media-amazon.com/images/I/51hJD8MIbcL._SL400_.jpg)](https://www.amazon.es/dp/B0813FGK1W/?tag=tolees-21)
+[![SIMUER - Portalápices 5 Piezas de Escrit](https://m.media-amazon.com/images/I/51hJD8MIbcL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0813FGK1W/?tag=tolees-21)
 
 ℹ️:
 
+- Material: Hecho de plástico, es resistente a la abrasión, duradero, sin ningún olor, hermoso y generoso, ideal para uso en el hogar y la oficina.
+- Bien construido: Y la esquina redondeada es fácil de limpiar o manejar, el diseño inferior permite que el cañón del bolígrafo permanezca estable, con una gran capacidad y una huella pequeña.
+- Tamaño: 10,5 x 7,5 cm. tamaño y altura adecuados para su conveniencia.
+- Regalo: Creative Pencil head Design, práctico y lindo, decora perfectamente tu escritorio. Un buen regalo para los niños
+- Uso amplio: Puede colocar artículos de papelería de oficina, como lápices, bolígrafos, reglas, borradores, tijeras y más, crear un entorno de oficina ordenado y ordenado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0813FGK1W/?tag=tolees-21)
