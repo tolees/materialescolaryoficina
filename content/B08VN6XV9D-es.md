@@ -28,13 +28,13 @@ Tienes [Eastpak x Marvel Padded Pak r Mochila  40 cm  24 L  Azul  Marvel Glitch 
 
 🔎:
 
-- Confeccionada en 100 % nailon
-- No se han utilizado materiales de origen animal para fabricar este producto 100 % vegano
-- Hemos reinterpretado nuestra clásica mochila en nuestra colaboración oficial con Marvel compartida
-- Diseños de Marvel y los logos de la marca compartida
-- En la gama de colores Marvel Glitch
-- Alto: 40 cm; Ancho: 30 cm; Fondo: 18 cm
-- El compartimento principal dispone de un bolsillo delantero con cremallera
 - Correas ajustables para los hombros y panel de la espalda acolchados
+- Hemos reinterpretado nuestra clásica mochila en nuestra colaboración oficial con Marvel compartida
+- En la gama de colores Marvel Glitch
+- No se han utilizado materiales de origen animal para fabricar este producto 100 % vegano
+- El compartimento principal dispone de un bolsillo delantero con cremallera
+- Confeccionada en 100 % nailon
+- Alto: 40 cm; Ancho: 30 cm; Fondo: 18 cm
+- Diseños de Marvel y los logos de la marca compartida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VN6XV9D/?tag=tolees-21)
