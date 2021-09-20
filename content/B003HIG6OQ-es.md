@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Staedler Noris - Lápiz  HB 2  50 unidade al 21.19 % de descuento'
-date: 2020-03-28 12:22:36
-image: 'https://m.media-amazon.com/images/I/41xoIC2DDmL._SL400_.jpg'
+title: 'STAEDTLER - Staedler Noris - Lápiz  HB 2 al 50.25 % de descuento'
+date: 2021-09-20 19:48:56
+image: 'https://m.media-amazon.com/images/I/41xoIC2DDmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B003HIG6OQ-es Staedler Noris - Lápiz HB 2 50 unidades'
+slug: 'B003HIG6OQ-es STAEDTLER - Staedler Noris - Lápiz HB 2 50 unidades'
 sku: 'B003HIG6OQ-es'
-tags: [ 'lápiz', ]
-actualPrice: 20.49 EUR
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Lápices','Lápices de madera','Oficina y papelería','lápiz','staedtler', ]
+actualPrice: 19.12 EUR
 currency: EUR
-price: 20.49
-comparePrice: 26.0 EUR
-prodname: 'Staedler Noris - Lápiz  HB 2  50 unidades '
+price: 19.12
+comparePrice: 38.43 EUR
+prodname: 'STAEDTLER - Staedler Noris - Lápiz  HB 2  50 unidades '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'STAEDTLER'
 buyurl: 'https://www.amazon.es/dp/B003HIG6OQ/?tag=tolees-21'
-descuento: '21.19'
-average: '23.45'
+descuento: '50.25'
+average: '22.0066666666667'
 ---
 
-Está [Staedler Noris - Lápiz  HB 2  50 unidades ](https://www.amazon.es/dp/B003HIG6OQ/?tag=tolees-21) con 21.19 de descuento por 20.49 EUR (original: 26.0 EUR) en el siguiente enlace!
+Está [STAEDTLER - Staedler Noris - Lápiz  HB 2  50 unidades ](https://www.amazon.es/dp/B003HIG6OQ/?tag=tolees-21) con 50.25 de descuento por 19.12 EUR (original: 38.43 EUR) en el siguiente enlace!
 
-[![Staedler Noris - Lápiz  HB 2  50 unidade](https://m.media-amazon.com/images/I/41xoIC2DDmL._SL400_.jpg)](https://www.amazon.es/dp/B003HIG6OQ/?tag=tolees-21)
+[![STAEDTLER - Staedler Noris - Lápiz  HB 2](https://m.media-amazon.com/images/I/41xoIC2DDmL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B003HIG6OQ/?tag=tolees-21)
 
 ℹ️:
 
+- Lápices de alta calidad para escribir y dibujar
+- Nivel de dureza 2 (HB2)
+- Adecuado para escuela y oficina
+- Resistentes gracias a la fórmula especial de plomo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003HIG6OQ/?tag=tolees-21)
