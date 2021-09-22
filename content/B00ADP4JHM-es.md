@@ -28,9 +28,9 @@ Tienes [Carioca Jumbo Bote con ASA | 42312 - Bote de Rotuladores Punta Maxi Supe
 
 🔎:
 
-- Extra: Productos dermatologicamente testados, realizados con tintas seguras y colorantes de uso alimentario. GLUTEN FREE
-- Producto: Bote de 50 rotuladores super lavables punta maxi. Colores brillantes surtidos
 - Diseño: Rotuladores punta maxi Ø 6mm con la punta bloqueada. Tinta super lavable, lavable de la piel y de la mayoría de los tejidos con agua sin necesidad de usar jabón. Los orificios especiales presentes en los capuchones dejan pasar el aire, evitando de esta manera la posibilidad de asfixia. La válvula interna preserva la calidad y la duración de la escritura.
+- Producto: Bote de 50 rotuladores super lavables punta maxi. Colores brillantes surtidos
+- Extra: Productos dermatologicamente testados, realizados con tintas seguras y colorantes de uso alimentario. GLUTEN FREE
 - Producción: Hecho en Italia
 - Uso: Ideal para colorear, hacer dibujos y dejar volar la imaginación. Regalo perfecto para adultos y niños
 
