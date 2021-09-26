@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lápiz de color ergonómico STABILO EASYco al 15.41 % de descuento'
-date: 2021-09-18 21:34:55
+date: 2021-09-26 07:34:04
 image: 'https://m.media-amazon.com/images/I/5119xm86fZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STABILO'
 buyurl: 'https://www.amazon.es/dp/B002SN9R1U/?tag=tolees-21'
 descuento: '15.41'
-average: '17.535'
+average: '17.0866666666667'
 ---
 
 Está [Lápiz de color ergonómico STABILO EASYcolors START - Modelo para DIESTROS - Estuche con 12 colores y 1 sacapuntas](https://www.amazon.es/dp/B002SN9R1U/?tag=tolees-21) con 15.41 de descuento por 16.19 EUR (original: 19.14 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Lápiz de color ergonómico STABILO EASYcolors START - Modelo para DIESTR
 
 ℹ️:
 
-- Diseñado por expertos
-- Madera certificada PEFC
 - Modelo específico paraq DIESTROS
+- Madera certificada PEFC
+- Diseñado por expertos
 - Calidad alemana
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002SN9R1U/?tag=tolees-21)
