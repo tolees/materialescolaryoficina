@@ -28,10 +28,10 @@ Ahora mismo tienes [Carioca Box | Caja de Lata con 100 Rotuladores Superlavables
 
 🔎:
 
-- Extra: Productos testados dermatológicamente, realizados con tintas seguras, no tóxicas a base de agua y colorantes de uso alimentario. Gluten Free
-- Producción: Made in Italy
+- Producto: Caja de Metal con rotuladores de punta fina y punta maxi con tintas superlavables, 100 rotuladores con colores surtidos, brillantes y vivaces. Tapa ventilada y punta bloqueada
 - Diseño: Mix de rotuladores CARIOCA con punta fina y maxi, resistente a los golpes y bloqueada. El capuchón ventilado permite el paso del aire para evitar la posibilidad de asfixia
 - Uso: caja de rotuladores para niños y adultos creativos. Tinta con fórmula super lavable, se lava fácilmente de la piel y de la mayoría de los tejidos con agua y sin jabón
-- Producto: Caja de Metal con rotuladores de punta fina y punta maxi con tintas superlavables, 100 rotuladores con colores surtidos, brillantes y vivaces. Tapa ventilada y punta bloqueada
+- Producción: Made in Italy
+- Extra: Productos testados dermatológicamente, realizados con tintas seguras, no tóxicas a base de agua y colorantes de uso alimentario. Gluten Free
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RQG92RS/?tag=tolees-21)
