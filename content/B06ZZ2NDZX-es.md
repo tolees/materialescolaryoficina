@@ -28,10 +28,10 @@ Ahora mismo tienes [Amazon Basics - Rotuladores permanentes  Negro  paquete de 2
 
 🔎:
 
-- Se puede utilizar en casi cualquier superficie: fotos, plástico, celofán, madera, piedra, metal y cristal.
 - La punta fina y duradera crea marcas intensas y líneas limpias, ideales para escribir, hacer garabatos y dibujar.
 - La tinta de color negro garantiza su visibilidad sobre un fondo blanco o de color claro.
 - Paquete de 24 rotuladores permanentes negros para uso doméstico o profesional; material no tóxico, cumple los requisitos de la norma ASTM D4236.
 - Tinta resistente al agua y de secado rápido; no emborrona ni se decolora.
+- Se puede utilizar en casi cualquier superficie: fotos, plástico, celofán, madera, piedra, metal y cristal.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06ZZ2NDZX/?tag=tolees-21)
