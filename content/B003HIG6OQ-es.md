@@ -29,8 +29,8 @@ Está [STAEDTLER - Staedler Noris - Lápiz  HB 2  50 unidades ](https://www.amaz
 ℹ️:
 
 - Nivel de dureza 2 (HB2)
+- Resistentes gracias a la fórmula especial de plomo
 - Adecuado para escuela y oficina
 - Lápices de alta calidad para escribir y dibujar
-- Resistentes gracias a la fórmula especial de plomo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003HIG6OQ/?tag=tolees-21)
