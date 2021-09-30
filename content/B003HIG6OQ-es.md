@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER - Staedler Noris - Lápiz  HB 2 al 49.10 % de descuento'
-date: 2021-09-28 06:43:19
+date: 2021-09-30 07:31:19
 image: 'https://m.media-amazon.com/images/I/41xoIC2DDmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STAEDTLER'
 buyurl: 'https://www.amazon.es/dp/B003HIG6OQ/?tag=tolees-21'
 descuento: '49.10'
-average: '20.71'
+average: '20.5457142857143'
 ---
 
 Está [STAEDTLER - Staedler Noris - Lápiz  HB 2  50 unidades ](https://www.amazon.es/dp/B003HIG6OQ/?tag=tolees-21) con 49.10 de descuento por 19.56 EUR (original: 38.43 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [STAEDTLER - Staedler Noris - Lápiz  HB 2  50 unidades ](https://www.amaz
 
 ℹ️:
 
-- Lápices de alta calidad para escribir y dibujar
-- Resistentes gracias a la fórmula especial de plomo
 - Nivel de dureza 2 (HB2)
 - Adecuado para escuela y oficina
+- Lápices de alta calidad para escribir y dibujar
+- Resistentes gracias a la fórmula especial de plomo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003HIG6OQ/?tag=tolees-21)
