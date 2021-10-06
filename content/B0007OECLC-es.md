@@ -28,10 +28,10 @@ Ahora mismo tienes [Faber-Castell 110912 - Lápices de colores Jumbo GRIP  caja 
 
 🔎:
 
-- Zona de agarre suave patentada
-- Adecuado para diestros y zurdos.
 - Colores radiantes
-- Plomo irrompible gracias a un encolado especial
 - 12 lápices de colores Jumbo Grip en caja de cartón
+- Adecuado para diestros y zurdos.
+- Plomo irrompible gracias a un encolado especial
+- Zona de agarre suave patentada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0007OECLC/?tag=tolees-21)
