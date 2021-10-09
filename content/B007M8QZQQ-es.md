@@ -28,10 +28,10 @@ En este momento está [STAEDTLER 148 50 Lápices Duros de Carpintero  Pack  12 U
 
 🔎:
 
-- Lápices ecológicos, con madera con certificación FSC (FSC C007132), procedente de bosques de gestión sostenible
-- Lapiceros de carpintero con minas de dureza alta 6H, que permiten una escritura fluida y resistente sobre superficies de trabajo y de madera.
 - Los lápices para carpinteros de STAEDTLER vienen con ambos extremos sin cortar para facilitar el afilado posterior. Paquete que incluye doce lápices de carpintero de 175 mm de longitud en una funda de cartón.
 - Lápices de madera de alta calidad, especialmente recomendados para su uso en trabajos de carpintería.
+- Lapiceros de carpintero con minas de dureza alta 6H, que permiten una escritura fluida y resistente sobre superficies de trabajo y de madera.
 - Lápices con forma hexagonal y esmalte exterior de color verde, óptimos para un uso cómo en ambientes de trabajo y obras.
+- Lápices ecológicos, con madera con certificación FSC (FSC C007132), procedente de bosques de gestión sostenible
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B007M8QZQQ/?tag=tolees-21)
