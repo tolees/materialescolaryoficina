@@ -29,9 +29,9 @@ En este momento está [Mochila Safta Escolar de Star Wars  320x150x420mm](https:
 🔎:
 
 - Mochila adaptable a carro
-- Espalda y hombreras acolchadas, ergonómicas, cómodas y ajustables
-- Tiradores en los cursores de la cremallera para fácil itar su apertura; costuras reforzadas; asa de mano en la parte superior; doble bolsillo frontal con organizador interior; bolsillo lateral portabotellas
-- Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar; mochila ligera; cantoneras de goma anti rozaduras en ambos lados para aumentar la durabilidad (patentado safta)
 - Safta star wars oficial mochila escolar; ideal desde los 14 años.
+- Espalda y hombreras acolchadas, ergonómicas, cómodas y ajustables
+- Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar; mochila ligera; cantoneras de goma anti rozaduras en ambos lados para aumentar la durabilidad (patentado safta)
+- Tiradores en los cursores de la cremallera para fácil itar su apertura; costuras reforzadas; asa de mano en la parte superior; doble bolsillo frontal con organizador interior; bolsillo lateral portabotellas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083WXPCSS/?tag=tolees-21)
