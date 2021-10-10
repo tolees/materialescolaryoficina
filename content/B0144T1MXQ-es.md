@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpino 654  Estuche  1  Multicolor al 55.68 % de descuento'
-date: 2021-10-07 11:15:57
+date: 2021-10-10 08:51:03
 image: 'https://m.media-amazon.com/images/I/41SCoNCa6yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alpino'
 buyurl: 'https://www.amazon.es/dp/B0144T1MXQ/?tag=tolees-21'
 descuento: '55.68'
-average: '2.18483146067416'
+average: '2.18054945054945'
 ---
 
 Está [Alpino 654  Estuche  1  Multicolor](https://www.amazon.es/dp/B0144T1MXQ/?tag=tolees-21) con 55.68 de descuento por 1.99 EUR (original: 4.49 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Alpino 654  Estuche  1  Multicolor](https://www.amazon.es/dp/B0144T1MXQ/?
 
 ℹ️:
 
+- Juego de 12 lápices
 - De colores vivos surtidos
 - Vienen en estuche deslizable
-- Juego de 12 lápices
 - Libres de madera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0144T1MXQ/?tag=tolees-21)
