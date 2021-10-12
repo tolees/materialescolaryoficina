@@ -29,9 +29,9 @@ En este momento está [STAEDTLER Design Journey 3005 TB12  Rotuladores para lett
 🔎:
 
 - Anchura de la línea: la punta más ancha proporciona un trazo de 3,5 mm y la más fina de 2 mm.
-- Marcadores apropiados para escritura a mano y otros estilos de caligrafía, así como para ilustraciones, manga y coloraciones.
-- Rotuladores dobles de tinta de colores variados con una punta de anchura fina y una punta de anchura media.
 - Bolígrafo con dos puntas de fibra para las mejores creatividades y caligrafías sobre papel.
+- Rotuladores dobles de tinta de colores variados con una punta de anchura fina y una punta de anchura media.
+- Marcadores apropiados para escritura a mano y otros estilos de caligrafía, así como para ilustraciones, manga y coloraciones.
 - El cuerpo y el capuchón están fabricados en polipropileno ventilado (ISO 11540) lo cual garantiza una larga vida útil.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077MQC3CR/?tag=tolees-21)
