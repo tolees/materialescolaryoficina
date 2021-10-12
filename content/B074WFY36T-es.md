@@ -28,9 +28,9 @@ Está [Parker Jotter London - Paquete Trio Discovery bolígrafo de color azul Ro
 
 ℹ️:
 
-- Portaminas de acero inoxidable precargado con una mina de 0,7 mm
 - Los dos bolígrafos cuentan con el emblemático diseño retráctil mediante pulsador, mientras que el portaminas cuenta con un mecanismo de "clic para avanzar" y una goma debajo del capuchón
-- Bolígrafo de gel de color rojo Kensington de punta mediana y tinta de color negro intenso
 - Bolígrafo de color azul Royal de punta mediana y tinta de color azul
+- Portaminas de acero inoxidable precargado con una mina de 0,7 mm
+- Bolígrafo de gel de color rojo Kensington de punta mediana y tinta de color negro intenso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074WFY36T/?tag=tolees-21)
