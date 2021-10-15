@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Targus CityLite mochila Grey - Mochila p al 61.69 % de descuento'
-date: 2021-10-13 06:36:20
+date: 2021-10-15 18:11:33
 image: 'https://m.media-amazon.com/images/I/51fUsyu6lqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
