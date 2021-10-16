@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Milan 430 - Caja de 30 gomas de borrar   al 20.03 % de rebaja'
-date: 2021-09-22 08:34:55
+date: 2021-10-16 13:34:26
 image: 'https://m.media-amazon.com/images/I/41euEQkjzkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MILAN'
 buyurl: 'https://www.amazon.es/dp/B0085Z9JQI/?tag=tolees-21'
 descuento: '20.03'
-average: '5.93949494949494'
+average: '5.88174311926604'
 ---
 
 Tienes [Milan 430 - Caja de 30 gomas de borrar  miga de pan](https://www.amazon.es/dp/B0085Z9JQI/?tag=tolees-21) con precio final de  4.79 EUR (original: 5.99 EUR) (20.03 %  de rebaja) aqui!
