@@ -28,9 +28,9 @@ En este momento está [Vans New Skool - Mochila para niños  20 litros  Negro  N
 
 🔎:
 
+- Mide 39,4 alto x 28 ancho x 12,7 fondo cm y tiene una capacidad de 20 litros
+- Mochila para niños Skool
 - Concha: 100% poliéster, Forro: 100% poliéster
 - Cierre: Cremallera
-- Mochila para niños Skool
-- Mide 39,4 alto x 28 ancho x 12,7 fondo cm y tiene una capacidad de 20 litros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XDRJI28/?tag=tolees-21)
