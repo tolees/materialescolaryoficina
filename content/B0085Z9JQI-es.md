@@ -29,7 +29,7 @@ Tienes [Milan 430 - Caja de 30 gomas de borrar  miga de pan](https://www.amazon.
 🔎:
 
 - Miga de pan
-- Para toda clase de papeles
 - Fabricada en caucho sintético
+- Para toda clase de papeles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0085Z9JQI/?tag=tolees-21)
