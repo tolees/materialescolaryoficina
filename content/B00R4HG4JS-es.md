@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Marcador fluorescente STABILO swing cool al 22.98 % de rebaja'
-date: 2020-05-18 16:24:49
-image: 'https://m.media-amazon.com/images/I/51anbiZOJvL._SL400_.jpg'
+title: 'Stabilo Swing Cool Resaltadores – Paquet al 55.38 % de rebaja'
+date: 2021-10-16 21:07:11
+image: 'https://m.media-amazon.com/images/I/513hXHacELL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00R4HG4JS-es Marcador fluorescente STABILO swing cool - Estuche con 6...'
+slug: 'B00R4HG4JS-es Stabilo Swing Cool Resaltadores – Paquete - multicolor 6er...'
 sku: 'B00R4HG4JS-es'
-tags: [ 'stabilo', ]
-actualPrice: 6.3 EUR
+tags: [ 'Bolígrafos, lápices y útiles de escritura','Oficina y papelería','Rotuladores permanentes','Rotuladores y subrayadores','stabilo', ]
+actualPrice: 3.65 EUR
 currency: EUR
-price: 6.3
+price: 3.65
 comparePrice: 8.18 EUR
-prodname: 'Marcador fluorescente STABILO swing cool - Estuche con 6 colores'
+prodname: 'Stabilo Swing Cool Resaltadores – Paquete - multicolor  6er Etui'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'STABILO'
 buyurl: 'https://www.amazon.es/dp/B00R4HG4JS/?tag=tolees-21'
-descuento: '22.98'
-average: '6.3'
+descuento: '55.38'
+average: '5.41666666666667'
 ---
 
-Tienes [Marcador fluorescente STABILO swing cool - Estuche con 6 colores](https://www.amazon.es/dp/B00R4HG4JS/?tag=tolees-21) con precio final de  6.3 EUR (original: 8.18 EUR) (22.98 %  de rebaja) aqui!
+Tienes [Stabilo Swing Cool Resaltadores – Paquete - multicolor  6er Etui](https://www.amazon.es/dp/B00R4HG4JS/?tag=tolees-21) con precio final de  3.65 EUR (original: 8.18 EUR) (55.38 %  de rebaja) aqui!
 
-[![Marcador fluorescente STABILO swing cool](https://m.media-amazon.com/images/I/51anbiZOJvL._SL400_.jpg)](https://www.amazon.es/dp/B00R4HG4JS/?tag=tolees-21)
+[![Stabilo Swing Cool Resaltadores – Paquet](https://m.media-amazon.com/images/I/513hXHacELL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00R4HG4JS/?tag=tolees-21)
 
 🔎:
 
+- Maquillaje Sure Este Se por Entrada Su Modelo Número
+- Anti-dry Sacr , 4 Hours Tapa Off Time
+- Antideslizante, Acabado Mate Empuñadura Zona
+- Brillo, Rayas Barril
+- Subrayador para Hacer Notas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00R4HG4JS/?tag=tolees-21)
