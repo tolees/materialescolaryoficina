@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI 13349 - Cola de silicona  100 ml al 62.83 % de descuento'
-date: 2021-10-16 08:54:41
+date: 2021-10-18 09:56:37
 image: 'https://m.media-amazon.com/images/I/41JyUr83VdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B00UVJSN72/?tag=tolees-21'
 descuento: '62.83'
-average: '3.53576923076923'
+average: '3.46703703703704'
 ---
 
 Ahora mismo tienes [APLI 13349 - Cola de silicona  100 ml](https://www.amazon.es/dp/B00UVJSN72/?tag=tolees-21) a 1.68 EUR (original: 4.52 EUR) (62.83 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [APLI 13349 - Cola de silicona  100 ml](https://www.amazon.es
 
 🔎:
 
-- Apta para uso escolar y manualidades para niños
-- Especialmente indicada para pegar de forma eficiente goma eva, plásticos o derivados, papel y cartón
 - Cola de silicona de 100 ml
 - Al no tratarse de un adhesivo instantáneo, permite hacer rectificaciones
+- Apta para uso escolar y manualidades para niños
 - No contiene metanol; fabricado conforme a la normativa une-en 71 parte 5 sobre seguridad en los juguetes
+- Especialmente indicada para pegar de forma eficiente goma eva, plásticos o derivados, papel y cartón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00UVJSN72/?tag=tolees-21)
