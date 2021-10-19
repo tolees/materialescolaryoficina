@@ -28,9 +28,9 @@ En este momento está [APLI Kids - APLI - Bolsa formas EVA formas letras  104 ud
 
 🔎:
 
+- Variedad de colores: verde, azul, amarillo, naranja, rojo y púrpura
+- Peso del producto de 30 gramos
 - Grosor de 1.8 mm
 - Blister 104 unidades de letras de goma Eva
-- Peso del producto de 30 gramos
-- Variedad de colores: verde, azul, amarillo, naranja, rojo y púrpura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KGE7WX8/?tag=tolees-21)
