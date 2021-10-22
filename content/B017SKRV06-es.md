@@ -28,10 +28,10 @@ Está [BIC - Tipp-Ex Mini Pocket Mouse Cintas correctoras - 6 m x 5 mm  Varios C
 
 ℹ️:
 
-- . Este pack contiene 3 (2 + 1 extra) Tipp-Ex Mini Pocket Mouse con dispensadores en colores aleatorios entre rojo, verde, azul o amarillo
-- Unos correctores con un diseño de ratón universal apto tanto para personas diestras como para zurdas
-- Estas cintas correctoras Tipp-Ex Mini Pocket Mouse son pequeñoas, pero pueden cubrir hasta 6 m de errores cada una
 - Corrige al instante: puedes escribir sobre la cinta blanca inmediatamente después de su aplicación
+- Estas cintas correctoras Tipp-Ex Mini Pocket Mouse son pequeñoas, pero pueden cubrir hasta 6 m de errores cada una
+- Unos correctores con un diseño de ratón universal apto tanto para personas diestras como para zurdas
 - Y no olvides que son correctores Mini Pocket Mouse, por lo que caben sin problemas en cualquier estuche
+- . Este pack contiene 3 (2 + 1 extra) Tipp-Ex Mini Pocket Mouse con dispensadores en colores aleatorios entre rojo, verde, azul o amarillo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B017SKRV06/?tag=tolees-21)
