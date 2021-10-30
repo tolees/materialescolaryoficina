@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Old Skool H2o Backpack  Mochila Uni con un 30.12 % de descuento'
-date: 2021-10-28 03:30:28
+date: 2021-10-29 21:36:19
 image: 'https://m.media-amazon.com/images/I/41TyPxlvzeS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [Vans Old Skool H2o Backpack  Mochila Unisex Adulto  Perdi
 🔎:
 
 - Capacidad: 22 litros
-- Tamaño: 42 x 32 x 12 cm
 - Funda para portátil que se adapta a la mayoría de portátiles de 15 pulgadas
 - Bolsillo frontal con organizador
 - Bolsillo lateral para botella de agua
+- Tamaño: 42 x 32 x 12 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0946SFPV8/?tag=tolees-21)
