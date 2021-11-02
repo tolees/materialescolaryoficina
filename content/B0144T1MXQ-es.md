@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpino 654  Estuche  1  Multicolor al 77.95 % de descuento'
-date: 2021-10-28 09:39:36
+date: 2021-11-02 15:11:49
 image: 'https://m.media-amazon.com/images/I/41SCoNCa6yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alpino'
 buyurl: 'https://www.amazon.es/dp/B0144T1MXQ/?tag=tolees-21'
 descuento: '77.95'
-average: '2.0834'
+average: '2.07257425742574'
 ---
 
 Está [Alpino 654  Estuche  1  Multicolor](https://www.amazon.es/dp/B0144T1MXQ/?tag=tolees-21) con 77.95 de descuento por 0.99 EUR (original: 4.49 EUR) en el siguiente enlace!
