@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 65.36 % en Stabilo 1924/77-11 Lápices - Estuche con'
-date: 2021-11-03 10:47:36
+date: 2021-11-05 21:32:05
 image: 'https://m.media-amazon.com/images/I/51aRZhsT20L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STABILO'
 buyurl: 'https://www.amazon.es/dp/B019OQ80QG/?tag=tolees-21'
 descuento: '65.36'
-average: '4.39368421052632'
+average: '4.289'
 ---
 
 Tienes [Stabilo 1924/77-11 Lápices - Estuche con 24 coloresy  Multicolor](https://www.amazon.es/dp/B019OQ80QG/?tag=tolees-21) con un 65.36 % de descuento con precio de oferta de 2.3 EUR (original: 6.64 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Stabilo 1924/77-11 Lápices - Estuche con 24 coloresy  Multicolor](https
 
 ℹ️:
 
-- punta de 2,5mm
-- Calidad alemana
-- Cuerpo de madera
 - Ideal para el colegio
 - Gama de 24 colores
+- Cuerpo de madera
+- punta de 2,5mm
+- Calidad alemana
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B019OQ80QG/?tag=tolees-21)
