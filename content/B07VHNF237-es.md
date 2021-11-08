@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paper Mate 045 - Bolígrafos con punta fi al 35.47 % de descuento'
-date: 2021-11-07 08:04:20
+date: 2021-11-08 09:43:15
 image: 'https://m.media-amazon.com/images/I/51s+5pTMygL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Paper Mate'
 buyurl: 'https://www.amazon.es/dp/B07VHNF237/?tag=tolees-21'
 descuento: '35.47'
-average: '7.99666666666667'
+average: '7.53'
 ---
 
 Ahora mismo tienes [Paper Mate 045 - Bolígrafos con punta fina  1 mm   Tinta azul  50 unidades](https://www.amazon.es/dp/B07VHNF237/?tag=tolees-21) a 6.13 EUR (original: 9.5 EUR) (35.47 %  de descuento) en el siguiente enlace!
