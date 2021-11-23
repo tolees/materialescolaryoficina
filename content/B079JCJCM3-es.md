@@ -29,9 +29,9 @@ En este momento está [Wacom Intuos Small Tableta Gráfica Bluetooth - tablet pa
 🔎:
 
 - Junto a la potencia del lápiz, las aplicaciones para Intuos S como Coral Painter Essential 7, Corel Aftershot Pro 3 (licencia por 90 días) y Clip Studio Paint Pro (licencia de dos años) a permiten alcanzar niveles artísticos altos
+- El Bluetooth permite conectar la tableta al pc fácilmente y los 4 Expresskeys configurables así como su área de dibujo de 152x95 mm, la hacen el dispositivo ideal para exprimir su creatividad
 - El lápiz digital incluido tiene una precisión de 0,25 mm de tolerancia digital, 7 mm de altura de lectura, dos botones configurables, puntas reemplazables y diseño ergonómico / Sin pilas
 - Wacom Intuos S es una tableta gráfica ideal para dibujar, pintar y editar las fotografías gracias a su área activa de 7" y al lápiz digital ultrapreciso y ligero con 4096 niveles de presión
-- El Bluetooth permite conectar la tableta al pc fácilmente y los 4 Expresskeys configurables así como su área de dibujo de 152x95 mm, la hacen el dispositivo ideal para exprimir su creatividad
 - Contenido del envío: Wacom Intuos S Tableta gráfica / Lápiz digital sin pilas con 3 puntas estándar adicionales / Cable USB / Herramienta de extracción de puntas / Guía rápida/ Color negro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079JCJCM3/?tag=tolees-21)
