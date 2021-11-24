@@ -29,9 +29,9 @@ Está [Pepe Jeans Cross Mochila con carro 44 cm  color Verde Kaki](https://www.a
 ℹ️:
 
 - Incorpora un carro con ruedas de silicona y sistema Magic Fix para conseguir una mayor sujeción de la mochila al carro; puede quitarse fácilmente si prefieres llevarla a la espalda
-- Compartimento principal con un bolsillo acolchado específico para llevar un portátil de 15.6 pulgadas; 35.5 cm alto x 26 cm ancho x 3 cm profundo, y dos bolsillos; además también incorpora un bolsillo frontal para los accesorios
 - De Joumma Bags
-- Óptimo para llevar libros, libretas, carpetas y carpesanos de tamaño DIN A4; además puedes poner tus datos personales en un espacio específico que incorpora en el bolsillo frontal
 - Mochila de 44 cm x 32 cm x 15 cm fabricada en Poliéster
+- Óptimo para llevar libros, libretas, carpetas y carpesanos de tamaño DIN A4; además puedes poner tus datos personales en un espacio específico que incorpora en el bolsillo frontal
+- Compartimento principal con un bolsillo acolchado específico para llevar un portátil de 15.6 pulgadas; 35.5 cm alto x 26 cm ancho x 3 cm profundo, y dos bolsillos; además también incorpora un bolsillo frontal para los accesorios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FGWYT11/?tag=tolees-21)
