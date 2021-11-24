@@ -29,8 +29,8 @@ Ahora mismo tienes [Lote material escolar Alpino: 24 lápices de colores + 24 ro
 🔎:
 
 - Producto que combina tradición e innovación
+- LOTE MATERIAL ESCOLAR: Kit de material escolar para el colegio, ideal para niños y niñas de primaria. Pack económico para la vuelta al cole.
 - Alta calidad
 - CONTENIDO: 24 lápices de colores Alpino + 24 rotuladores doble punta Double Double + 12 ceras de colores Plastialpino.
-- LOTE MATERIAL ESCOLAR: Kit de material escolar para el colegio, ideal para niños y niñas de primaria. Pack económico para la vuelta al cole.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B097DSGH87/?tag=tolees-21)
