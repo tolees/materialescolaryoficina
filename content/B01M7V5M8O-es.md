@@ -28,9 +28,9 @@ En este momento está [TOUS - Mochila Kaos New Colores de Nylon en color rosa](h
 
 🔎:
 
+- Must -have imprescindible. El estilo y la feminidad que derrocha esta mochila hará que no puedas pensar en ningún otro complemento. Será como tu alma gemela.
 - Certificado autenticidad TOUS
 - Medidas: 41x32x13 cm
-- Must -have imprescindible. El estilo y la feminidad que derrocha esta mochila hará que no puedas pensar en ningún otro complemento. Será como tu alma gemela.
 - Mochila TOUS Kaos New Colores de tejido hidrófugo, nylon y estampado Kaos New combinado con piel bovina. Color rosa. Cierre cremallera. Bolsillos exteriores: uno con cierre cremallera. Bolsillos interiores: uno con cierre cremallera, dos sin cierre
 - Cada artículo TOUS refleja ternura, diversión y juventud de espíritu, transmitiendo el alma de la compañía.
 
