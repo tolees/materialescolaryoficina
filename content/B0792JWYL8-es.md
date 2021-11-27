@@ -28,12 +28,12 @@ En este momento está [Geox Jr Plie  J  Zapatos de Uniforme Escolar Niñas  Negr
 
 🔎:
 
-- Plantilla antibacteriana
-- Calzado con suela antihuellas
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Fácil de llevar para un confort optimo
-- Optima flexibilidad
-- Plantilla de piel atóxica sin cromo
 - Calce fácil y rápido gracias al elástico en la empella
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Optima flexibilidad
+- Calzado con suela antihuellas
+- Plantilla antibacteriana
+- Fácil de llevar para un confort optimo
+- Plantilla de piel atóxica sin cromo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0792JWYL8/?tag=tolees-21)

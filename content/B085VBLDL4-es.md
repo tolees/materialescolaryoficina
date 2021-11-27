@@ -28,10 +28,10 @@ Tienes [Carioca Set Colegio Primaria | Material Escolar con Lápices de Colores 
 
 🔎:
 
-- Rotuladores JOY: 24 rotuladores super lavables con punta fina, resistente y bloqueada. La tinta es fácilmente lavable de la piel y de la mayoría de los tejidos con agua y sin jabón
-- Recambios OOPS: 6 recambios para los bolígrafos borrables OOPS con punta de Ø 0,7 mm. Tinta termosensible azul y roka. La tinta borrable esperfecta para el colegio y la oficina. Recambios refill compatibles con los bolígrafos borrables universales
-- Bolígrafos OOPS: 2 bolígrafos borrables con tinta termosensible y punta de Ø 0,7 mm. Agarre ergonómico triangular en goma para mejorar la posición de la escritura. Doble goma incorporada y clip
-- Contenido kit: 24 rotuladores JOY punta fina, 14 lápices de colores TITA, 3 lápices de grafito HB-2, 2 gomas de borrar, 1 sacapuntas, 2 bolígrafos borrables OOPS rojo y azul, 6 recambios para bolígrafos borrables (3 rojos y 3 azules)
 - Lápices TITA: set de 24 lápices con minas de Ø 3 mm, super resistentes a las caídas y fáciles de afilar. Su cuerpo hexagonal ayuda a que no ruede encima de la mesa
+- Bolígrafos OOPS: 2 bolígrafos borrables con tinta termosensible y punta de Ø 0,7 mm. Agarre ergonómico triangular en goma para mejorar la posición de la escritura. Doble goma incorporada y clip
+- Rotuladores JOY: 24 rotuladores super lavables con punta fina, resistente y bloqueada. La tinta es fácilmente lavable de la piel y de la mayoría de los tejidos con agua y sin jabón
+- Contenido kit: 24 rotuladores JOY punta fina, 14 lápices de colores TITA, 3 lápices de grafito HB-2, 2 gomas de borrar, 1 sacapuntas, 2 bolígrafos borrables OOPS rojo y azul, 6 recambios para bolígrafos borrables (3 rojos y 3 azules)
+- Recambios OOPS: 6 recambios para los bolígrafos borrables OOPS con punta de Ø 0,7 mm. Tinta termosensible azul y roka. La tinta borrable esperfecta para el colegio y la oficina. Recambios refill compatibles con los bolígrafos borrables universales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085VBLDL4/?tag=tolees-21)
