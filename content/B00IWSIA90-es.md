@@ -30,8 +30,8 @@ Tienes [BIC Cristal Shine Bolígrafos Punta Media  1 0 mm  - Tinta Negra y Cuerp
 
 - Un bolígrafo distinto, célebre por su gran resistencia y durabilidad
 - Notas mente hermosos e ilustraciones con un bolígrafo de punta media de 1,0 mm que traza líneas de 0,32 mm
-- Su diseño hexagonal es un icono de la marca: un auténtico BIC de principio a fin
 - Presentamos 2 versiones Shine del legendario bolígrafo BIC Cristal en una caja de 20 unidades adornadas en plata con la tinta negra
+- Su diseño hexagonal es un icono de la marca: un auténtico BIC de principio a fin
 - El boli BIC Cristal Shine cuenta con una punta cuidadosamente calibrada que ofrece un flujo de tinta y un trazo uniformes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IWSIA90/?tag=tolees-21)
