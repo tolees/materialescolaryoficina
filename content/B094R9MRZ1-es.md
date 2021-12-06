@@ -28,10 +28,10 @@ Está [Barbie Doctora con Clínica médica  muñeca con accesorios de medicina d
 
 ℹ️:
 
-- Explora un mundo lleno de diversión y cuidados con el conjunto Fast Cast Clinic de Barbie
-- Con un adorable vestido a cuadros, una bata blanca de doctora, un estetoscopio y un portapapeles, Barbie Doctora; 30,40-cm está lista para cuidar de sus pacientes
+- Barbie Doctora también puede usar la masa en la estación de vendaje para vendar las lesiones de sus pacientes
 - Cuando determina que un paciente tiene una pierna o un brazo rotos, le pondrá una escayola rosa, morada o blanca con la masilla y los accesorios; también hay pegatinas para decorar la escayola del paciente
 - La muñeca​Barbie doctora puede prepararse en su estación médica, hacer radiografías y examinar a los pacientes en la camilla
-- Barbie Doctora también puede usar la masa en la estación de vendaje para vendar las lesiones de sus pacientes
+- Con un adorable vestido a cuadros, una bata blanca de doctora, un estetoscopio y un portapapeles, Barbie Doctora; 30,40-cm está lista para cuidar de sus pacientes
+- Explora un mundo lleno de diversión y cuidados con el conjunto Fast Cast Clinic de Barbie
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B094R9MRZ1/?tag=tolees-21)
