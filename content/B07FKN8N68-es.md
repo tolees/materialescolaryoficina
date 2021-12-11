@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shiseido  Lápiz de ojos - 1 Unidad con un 46.65 % de descuento'
+title: 'Shiseido  Lápiz de ojos - 1 Unidad'
 date: 2020-01-05 23:28:53
 image: 'None._SL400_'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.65'
 average: '18.8'
 ---
 
-En este momento está [Shiseido  Lápiz de ojos - 1 Unidad](https://www.amazon.es/dp/B07FKN8N68/?tag=tolees-21) a 18.8 EUR (original: 35.24 EUR) (46.65 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Shiseido  Lápiz de ojos - 1 Unidad](None._SL400_)](https://www.amazon.es/dp/B07FKN8N68/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07FKN8N68/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

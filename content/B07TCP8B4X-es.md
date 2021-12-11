@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Finocam - Recambio Anual 2020 semana vis al 30.36 % de rebaja'
+title: 'Finocam - Recambio Anual 2020 semana vista vertical Open R1099 español  1000-155x215 mm'
 date: 2020-01-08 10:09:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GTFJmdGAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.36'
 average: '5.85'
 ---
 
-Tienes [Finocam - Recambio Anual 2020 semana vista vertical Open R1099 español  1000-155x215 mm](https://www.amazon.es/dp/B07TCP8B4X/?tag=tolees-21) con precio final de  5.85 EUR (original: 8.4 EUR) (30.36 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Finocam - Recambio Anual 2020 semana vis](https://images-eu.ssl-images-amazon.com/images/I/41GTFJmdGAL._SL400_.jpg)](https://www.amazon.es/dp/B07TCP8B4X/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07TCP8B4X/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

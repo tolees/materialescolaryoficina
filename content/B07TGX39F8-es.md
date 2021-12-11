@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Finocam - Agenda 2020 1 día página Espir con un 30.06 % de descuento'
+title: 'Finocam - Agenda 2020 1 día página Espiral Futura Gris Oscuro español'
 date: 2020-01-07 20:33:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/512JxfaBxGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.06'
 average: '11.75'
 ---
 
-En este momento está [Finocam - Agenda 2020 1 día página Espiral Futura Gris Oscuro español](https://www.amazon.es/dp/B07TGX39F8/?tag=tolees-21) a 11.75 EUR (original: 16.8 EUR) (30.06 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Finocam - Agenda 2020 1 día página Espir](https://images-eu.ssl-images-amazon.com/images/I/512JxfaBxGL._SL400_.jpg)](https://www.amazon.es/dp/B07TGX39F8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07TGX39F8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

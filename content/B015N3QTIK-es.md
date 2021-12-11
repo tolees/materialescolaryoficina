@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Parker Sonnet - Bolígrafo  lacado en neg con un 47.94 % de descuento'
+title: 'Parker Sonnet - Bolígrafo  lacado en negro  con adorno dorado y punta media  en estuche '
 date: 2020-01-04 20:17:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31cMTZQNDVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.94'
 average: '49.87'
 ---
 
-En este momento está [Parker Sonnet - Bolígrafo  lacado en negro  con adorno dorado y punta media  en estuche ](https://www.amazon.es/dp/B015N3QTIK/?tag=tolees-21) a 49.87 EUR (original: 95.8 EUR) (47.94 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Parker Sonnet - Bolígrafo  lacado en neg](https://images-eu.ssl-images-amazon.com/images/I/31cMTZQNDVL._SL400_.jpg)](https://www.amazon.es/dp/B015N3QTIK/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B015N3QTIK/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Parfois - Mochila Efecto Piel - Mujeres  al 49.98 % de descuento'
+title: 'Parfois - Mochila Efecto Piel - Mujeres - Tallas M - Blanco'
 date: 2020-01-07 08:09:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31AtD2knkiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.98'
 average: '13'
 ---
 
-Ahora mismo tienes [Parfois - Mochila Efecto Piel - Mujeres - Tallas M - Blanco](https://www.amazon.es/dp/B07SQNQ97Q/?tag=tolees-21) a 13 EUR (original: 25.99 EUR) (49.98 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Parfois - Mochila Efecto Piel - Mujeres ](https://images-eu.ssl-images-amazon.com/images/I/31AtD2knkiL._SL400_.jpg)](https://www.amazon.es/dp/B07SQNQ97Q/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07SQNQ97Q/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})
