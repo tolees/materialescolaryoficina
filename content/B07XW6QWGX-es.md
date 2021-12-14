@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moleskine - Cuaderno Edición Limitada El Mago de Oz  Cuaderno Temático El Campo de Amapolas Mortíferas  Hojas de Rayas  Tapa Dura de Tela  Tamaño Grande 13 x 21 cm  Color Rojo  240 Páginas'
-date: 2021-12-13 11:12:32
+date: 2021-12-14 19:27:53
 image: 'https://m.media-amazon.com/images/I/41Mv-udjUiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
