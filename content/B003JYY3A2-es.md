@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Staedtler 120-2BK6DAST  Lápices  Mina HB  6 unidades  Negro'
-date: 2021-12-15 20:45:43
+date: 2021-12-16 21:29:28
 image: 'https://m.media-amazon.com/images/I/41uhce+0hYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STAEDTLER'
 buyurl: 'https://www.amazon.es/dp/B003JYY3A2/?tag=tolees-21'
 descuento: '23.42'
-average: '3.695'
+average: '3.91333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Adecuado para la escuela y la oficina
-- Pack de 5 lápices hecho de madera certificada PEFC
 - Lápiz de alta calidad para escribir, dibujar y esbozar
+- Pack de 5 lápices hecho de madera certificada PEFC
 - Tiene resistencia a la rotura gracias a la especial formulación de la mina y a su doble encoladura
 
 [🛒 Visítala!!!]({{< param buyurl >}})

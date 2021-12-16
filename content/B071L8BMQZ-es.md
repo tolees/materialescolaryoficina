@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pilot Super G - Pack de 12 bolígrafos  color azul'
-date: 2021-12-15 17:48:09
+date: 2021-12-16 20:12:56
 image: 'https://m.media-amazon.com/images/I/31wNSVtOIDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto - Bolígrafo Super G, azul
-- Referencia: BPGG-8R-M-L
 - Marca - Pilot
+- Referencia: BPGG-8R-M-L
+- Producto - Bolígrafo Super G, azul
 
 [🛒 Aquí!!!]({{< param buyurl >}})
