@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mochila  Unisex Adulto  Gris Oscuro'
-date: 2021-12-19 14:22:28
+date: 2021-12-20 15:51:53
 image: 'https://m.media-amazon.com/images/I/31skN47Nl9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gris
-- Cremallera
 - Unisex
+- Cremallera
 - 48.8 x 28.4 x 11 cm; 300 gramos
+- Gris
 - Nailon
 
 [🛒 Aquí!!!]({{< param buyurl >}})
