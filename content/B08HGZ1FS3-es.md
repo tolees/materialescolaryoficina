@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - ❤ Estructura interna: bolsillo con cremallera, bolsa principal de gran capacidad.
 - ❤ Estilo: mochila práctica, se puede usar como un bolso, un solo bolso, un bolso doble, una opción elegante y múltiple para usted. Es perfecto para citas, viajes cortos, yoga, compras, deportes de gimnasia, escuelas u otras actividades al aire libre en interiores.
-- ❤ Material: Oxford, repelente al agua; Dimensiones: 32 x 32 x13 cm (12.6 "x 12.6" x 5.1 "); Peso: 500 g. El material superior de Oxford, que combina con el hadrware de metal de calidad, brinda una apariencia elegante de alta calidad y un uso duradero.
 - ❤ Capacidad: puedes poner iPad, libros de texto portátiles, ropa, billetera, teléfono celular en la bolsa.
+- ❤ Material: Oxford, repelente al agua; Dimensiones: 32 x 32 x13 cm (12.6 "x 12.6" x 5.1 "); Peso: 500 g. El material superior de Oxford, que combina con el hadrware de metal de calidad, brinda una apariencia elegante de alta calidad y un uso duradero.
 - ❤ Estructura externa: 2 bolsillos frontales con cremallera, 2 bolsillos laterales. Cierre de cremallera trasera, diseño antirrobo efectivo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
