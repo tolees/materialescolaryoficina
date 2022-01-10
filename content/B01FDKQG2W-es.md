@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Faber-Castell 111260 - Estuche-soporte de cartón con 60 lápices de colores  multicolor'
-date: 2022-01-09 08:45:20
+date: 2022-01-10 21:07:17
 image: 'https://m.media-amazon.com/images/I/51eaezB5goL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Faber-Castell'
 buyurl: 'https://www.amazon.es/dp/B01FDKQG2W/?tag=tolees-21'
 descuento: '26.66'
-average: '16.9672222222221'
+average: '16.9499999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Forma hexagonal ergonómica
 - Estuche-soporte de cartón con 60 ecolápices de color
-- Fabricado en madera gestionada de forma sostenible
 - Mina protegida contra la rotura por el proceso de encolado SV, Sencillo afilado
+- Fabricado en madera gestionada de forma sostenible
 - Colores intensos y brillantes de aplicación extra suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
