@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KARACTERMANIA Stranger Things Hunting - Mochila Flap  Multicolor'
-date: 2022-01-08 16:42:11
+date: 2022-01-19 12:33:58
 image: 'https://m.media-amazon.com/images/I/41j8UHoUoKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'KARACTERMANIA'
 buyurl: 'https://www.amazon.es/dp/B08LPV71ZZ/?tag=tolees-21'
 descuento: '25.42'
-average: '31.6183333333333'
+average: '31.5228571428571'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dimensiones: 46 x 30 x 20 cm
 - Mochila urbana adaptable a carro
+- Compartimento principal y bolsillo delantero
 - Asas acolchadas ajustables
 - Forro interior
-- Compartimento principal y bolsillo delantero
-- Dimensiones: 46 x 30 x 20 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
