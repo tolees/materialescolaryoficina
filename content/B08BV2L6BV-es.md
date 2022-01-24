@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Tiro BP A.R. Mochila  Adultos Unisex  Negro/REFSIL/Blanco  Multicolor   Talla Única'
-date: 2022-01-22 22:17:37
+date: 2022-01-24 00:31:20
 image: 'https://m.media-amazon.com/images/I/31SFk77ADnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido técnico 100% poliéster
 - Capacidad: 15,7 litros.
+- Tejido técnico 100% poliéster
+- Tejido transpirable
 - Bolsillo lateral de malla y bolsillo interior de malla con cremallera
 - Bolsillo frontal y bolsillos laterales con cremallera
-- Tejido transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
