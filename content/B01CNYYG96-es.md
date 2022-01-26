@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER - Lápices Noris Eco  blíster 5 lápices HB + 2 lápices GRATIS  1 lápiz 2B y 1 lápiz 2H  negro  18030SBK7PST '
-date: 2022-01-25 19:55:30
+date: 2022-01-26 20:11:47
 image: 'https://m.media-amazon.com/images/I/410+O3awUEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STAEDTLER'
 buyurl: 'https://www.amazon.es/dp/B01CNYYG96/?tag=tolees-21'
 descuento: '31.11'
-average: '2.48'
+average: '2.356'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Superficie aterciopelada y mina de deslizamiento suave
-- Lápiz de calidad Premium para escribir, dibujar y esbozar
 - Tiene una gran resistencia a la rotura
 - Pack de 7 lápices hecho de madera certificada PEFC
+- Lápiz de calidad Premium para escribir, dibujar y esbozar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
