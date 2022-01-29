@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Adicolor BACKPK Sports Backpack  Unisex-Adult  Rose Tone/Victory Crimson/White  NS'
-date: 2022-01-27 09:13:40
+date: 2022-01-29 10:47:03
 image: 'https://m.media-amazon.com/images/I/41a5aRPBjDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mochila duradera
-- Bolsillos laterales para la botella.
 - Correas de hombro acolchadas ajustables
+- Bolsillos laterales para la botella.
+- Mochila duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
