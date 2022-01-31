@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wacom Intuos Medium Tableta Gráfica - Tablet para Dibujar  Pintar  editar Fotos con lápiz Sensible a la presión Negro - óptima para la educación en línea y el teletrabajo'
-date: 2022-01-18 14:36:34
+date: 2022-01-31 12:08:47
 image: 'https://m.media-amazon.com/images/I/21UnYXak9WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
