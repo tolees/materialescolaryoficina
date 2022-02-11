@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling SUPERTABOO Mochila escolar  45 cm  15 litros  Azul  Marine Navy '
-date: 2022-02-08 16:52:45
+date: 2022-02-10 23:33:50
 image: 'https://m.media-amazon.com/images/I/410pKZKk2uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kipling'
 buyurl: 'https://www.amazon.es/dp/B07V4MCGRG/?tag=tolees-21'
 descuento: '20.00'
-average: '19.38'
+average: '20.908'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% Poliéster
 - Mochila mediana con cordón
-- 45 altura x 39.5 ancho x 0 profundidad cm
 - Hidrófugo
+- 100% Poliéster
+- 45 altura x 39.5 ancho x 0 profundidad cm
 - 0.24kg peso x 15L volumen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
