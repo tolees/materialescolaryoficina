@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lote material escolar Alpino: 12 lápices de colores + 12 rotuladores Double Double + 12 lápices de grafito + 15 ceras Manley  AL000966'
-date: 2022-02-18 11:57:58
+date: 2022-02-20 18:18:12
 image: 'https://m.media-amazon.com/images/I/51-EEUjkeTS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Bolígrafos, lápices y útiles de escritura','Lápices','Lápices de m
 actualPrice: 5.57 EUR
 currency: EUR
 price: 5.57
-comparePrice: 7.0 EUR
+comparePrice: 6.93 EUR
 prodname: 'Lote material escolar Alpino: 12 lápices de colores + 12 rotuladores Double Double + 12 lápices de grafito + 15 ceras Manley  AL000966'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Alpino'
 buyurl: 'https://www.amazon.es/dp/B097DT6Z3S/?tag=tolees-21'
-descuento: '20.43'
-average: '7.49999999999999'
+descuento: '19.62'
+average: '7.28555555555555'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONTENIDO: 12 lápices de colores Alpino + 12 rotuladores Alpino Double Double + 12 lápices de grafito Alpino Junior + 15 ceras Manley
 - Alta calidad
-- Producto que combina tradición e innovación
 - LOTE MATERIAL ESCOLAR: Kit de material escolar para el colegio, ideal para niños y niñas de primaria. Pack económico para la vuelta al cole.
+- Producto que combina tradición e innovación
+- CONTENIDO: 12 lápices de colores Alpino + 12 rotuladores Alpino Double Double + 12 lápices de grafito Alpino Junior + 15 ceras Manley
 
 [🛒 Aquí!!!]({{< param buyurl >}})
