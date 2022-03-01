@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Mochila POWER V FI7968 Negro'
-date: 2022-02-27 16:42:17
+date: 2022-02-28 22:16:15
 image: 'https://m.media-amazon.com/images/I/41aE9NJNZqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07VDSNJ2Y/?tag=tolees-21'
 descuento: '35.65'
-average: '26.48'
+average: '25.682'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adjustable Padded shoulder straps
 - Large main Compartiment
 - Durable fabric
+- Adjustable Padded shoulder straps
 
 [🛒 Visítala!!!]({{< param buyurl >}})
