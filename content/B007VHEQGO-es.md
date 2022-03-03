@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paper Mate - Paper Mate InkJoy 300RT  bolígrafo retráctil  punta media de 1 mm y azul  caja de 12'
-date: 2022-03-02 00:47:57
+date: 2022-03-03 08:47:14
 image: 'https://m.media-amazon.com/images/I/51pOzei7YSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- modelo: S0959920
-- Bolígrafo Paper Mate
-- Caja de 12 unidades
 - Color azul
+- modelo: S0959920
+- Caja de 12 unidades
+- Bolígrafo Paper Mate
 
 [🛒 Visítala!!!]({{< param buyurl >}})
