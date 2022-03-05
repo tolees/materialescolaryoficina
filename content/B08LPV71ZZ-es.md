@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Forro interior
-- Dimensiones: 46 x 30 x 20 cm
 - Mochila urbana adaptable a carro
-- Compartimento principal y bolsillo delantero
 - Asas acolchadas ajustables
+- Dimensiones: 46 x 30 x 20 cm
+- Compartimento principal y bolsillo delantero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
