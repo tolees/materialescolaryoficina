@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mochila para mujer
 - Tirantes ajustables
+- Mochila para mujer
 - Equipamiento: bolsillo móvil, compartimento con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
