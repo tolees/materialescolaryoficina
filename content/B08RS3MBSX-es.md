@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El bus (29 cm) tiene ruedas giratorias y un panel para encajar piezas en la parte de atrás.
 - Las piezas son de tamaño grande perfectas para los niños de edad preescolar a partir de 1 año de edad (+12 meses).
-- Incluye el autobús escolar, una figura del conductor y 4 bloques de diferentes formas para encajar.
 - La figura del conductor (10 cm) tiene 2 piezas intercambiables con otras figuras de My First Pinypon. Su cara tiene 3 expresiones diferentes, que se cambian al girar la cara del muñeco.
 - Tu pequeño se divertirá jugando, aprenderá los vehículos, mejorará su motricidad fina y desarrollará su imaginación.
-- El bus (29 cm) tiene ruedas giratorias y un panel para encajar piezas en la parte de atrás.
+- Incluye el autobús escolar, una figura del conductor y 4 bloques de diferentes formas para encajar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
