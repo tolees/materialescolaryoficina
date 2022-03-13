@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido técnico 51% poliéster reciclado / 49% poliéster
 - Bolsillo frontal con cremallera; bolsillos laterales sin cierre; compartimento interno para el portátil
 - Correas ajustables para los hombros con diseño ergonómico
+- Tejido técnico 51% poliéster reciclado / 49% poliéster
 - Base con revestimiento de tpe muy resistente al desgaste
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
