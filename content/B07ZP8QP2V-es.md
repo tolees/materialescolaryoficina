@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DISEÑADOS PARA FACILITARTE LA VIDA. Incomparable gama de 120 lápices organizados por familias de colores, identificados, numerados y codificados por colores para acertar siempre en tu elección: solo tienes que levantar las hileras de lápices del estuche portátil de tela y cremallera.
-- ENTRENA TUS HABILIDADES. Nuestro exclusivo tutorial desplegable te permite mejorar tus habilidades de dibujo con lápices de colores mediante la recreación de la impresionante ilustración del galeón de la funda.
 - PROBADOS, FIABLES Y GARANTIZADOS. Probados por los expertos de nuestro estudio para superar a la competencia. Los críticos más expertos confían en ellos: contamos con 1,5 millones de clientes en todo el mundo y, si no te convencen, te devolvemos el dinero.
 - UN PLACER USARLOS. Cuentan con un intenso pigmento y colores vivos y cremosos para una cobertura perfecta. Te permitirán crear capas, mezclar colores y pulir para añadir texturas y conseguir la sombra perfecta, ya sea en papel, papel satinado, lienzo o madera, entre otros.
 - BLANDOS PERO DURADEROS. La fórmula más innovadora y avanzada a cargo de técnicos y artistas locales ha conseguido unas minas blandas que se deslizan a la perfección, pero que también son capaces de resistir la presión y conservar la punta.
+- DISEÑADOS PARA FACILITARTE LA VIDA. Incomparable gama de 120 lápices organizados por familias de colores, identificados, numerados y codificados por colores para acertar siempre en tu elección: solo tienes que levantar las hileras de lápices del estuche portátil de tela y cremallera.
+- ENTRENA TUS HABILIDADES. Nuestro exclusivo tutorial desplegable te permite mejorar tus habilidades de dibujo con lápices de colores mediante la recreación de la impresionante ilustración del galeón de la funda.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
