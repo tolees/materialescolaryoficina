@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Port Designs 110265 - Mochila de Transporte para Ordenador portátil'
-date: 2022-03-10 15:46:27
+date: 2022-03-16 12:48:30
 image: 'https://m.media-amazon.com/images/I/51wNvxl17RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Port Designs'
 buyurl: 'https://www.amazon.es/dp/B00DDIBHJ4/?tag=tolees-21'
 descuento: '46.92'
-average: '28.166'
+average: '27.9882608695652'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compartimento acolchado para portátil
 - Bolsillo específico para tabletas de hasta 10,1
 - Bolsillo delantero para accesorios con organizador
+- Compartimento acolchado para portátil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
