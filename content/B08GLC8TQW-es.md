@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Son diseñados para usarlos solos, juntos o a capas
-- Aplica una capa de Matte Lip Crayon para un color mate ligero
-- Aplica Gel Eyeliner Pencil en la línea de las pestañas
 - Un set de regalo con tres versátiles productos para ojos y labios
+- Aplica una capa de Matte Lip Crayon para un color mate ligero
+- Son diseñados para usarlos solos, juntos o a capas
+- Aplica Gel Eyeliner Pencil en la línea de las pestañas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
