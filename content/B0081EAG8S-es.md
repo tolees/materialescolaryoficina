@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Etiquetas redondas para CD / DVD
 - No transparentan las imagines o textos del CD
 - Adecuadas para impresoras laser, inkjet, fotocopiadora
-- Etiquetas redondas para CD / DVD
 - Diámetro interior de 18 mm, diámetro exterior de 118 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
