@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Artdeco Soft Eye Liner lápiz kajala prueba de agua 22  Dark Grey Green  1.2 g'
-date: 2022-03-18 10:27:40
+date: 2022-03-19 10:48:22
 image: 'https://m.media-amazon.com/images/I/31qcb8+pgxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
