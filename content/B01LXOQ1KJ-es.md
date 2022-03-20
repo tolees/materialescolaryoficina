@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STABILO - Marcador Patel  Estuche con 6 colores'
-date: 2022-03-18 20:10:42
+date: 2022-03-19 22:35:06
 image: 'https://m.media-amazon.com/images/I/41uPqtx7JDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STABILO'
 buyurl: 'https://www.amazon.es/dp/B01LXOQ1KJ/?tag=tolees-21'
 descuento: '48.22'
-average: '6.24229885057472'
+average: '6.22250000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calidad Alemana
-- Tinta base al agua
-- Estuche de 6 unidades
 - Gama de 15 colores
+- Calidad Alemana
+- Estuche de 6 unidades
 - Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
+- Tinta base al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
