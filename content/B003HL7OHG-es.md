@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Artdeco Soft Eye Liner Waterproof 21-Shiny Light Green Lápiz de Ojos - 1 gr'
-date: 2022-03-19 10:46:56
+date: 2022-03-21 20:11:25
 image: 'https://m.media-amazon.com/images/I/31W2CvasVmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Artdeco
-- Género: Mujer
-- Tipo de producto: Lapiz de ojos
+- Products by Artdeco
+- Beauty products
+- Eyes - Eyeliner
 
 [🛒 Visítala!!!]({{< param buyurl >}})
