@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plastilina Alpino más blanda y moldeable
 - Con colores intensos y brillantes
-- Diseñadas con base mineral, que no mancha y no contiene gluten
+- Plastilina Alpino más blanda y moldeable
 - Colores surtidos. 50 g
+- Diseñadas con base mineral, que no mancha y no contiene gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})
