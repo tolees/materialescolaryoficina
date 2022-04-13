@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 2.44kg peso x 25L volumen
-- 38 altura x 41 ancho x 24 profundidad cm
-- Hidrófugo
-- Mochila grande con ruedas y compartimento para el portátil
 - 100% Poliéster
+- 38 altura x 41 ancho x 24 profundidad cm
+- Mochila grande con ruedas y compartimento para el portátil
+- Hidrófugo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 0.65kg peso x 27L volumen
 - 44 altura x 35 ancho x 20.5 profundidad cm
-- 100% Poliamida
-- Hidrófugo
 - Mochila grande con compartimento acolchado para el portátil
+- 100% Poliamida
+- 0.65kg peso x 27L volumen
+- Hidrófugo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
