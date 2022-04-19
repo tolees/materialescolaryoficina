@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bic Cristal Original - Bolígrafo de punta redonda  color negro  pack de 4 unidades'
-date: 2022-04-18 10:27:00
+date: 2022-04-19 10:34:34
 image: 'https://m.media-amazon.com/images/I/41BlfZAUgTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: Bolígrafo de bola
-- Color de la tinta: negro
 - Tipo de punta: medio
 - Tamaño: Pack de 4
+- Color de la tinta: negro
+- Tipo de producto: Bolígrafo de bola
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
