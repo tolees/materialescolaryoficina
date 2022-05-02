@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marcador STABILO BOSS ORIGINAL pastel - Set de mesa con 15 colores pastel'
-date: 2022-05-01 17:03:07
+date: 2022-05-02 18:23:17
 image: 'https://m.media-amazon.com/images/I/41hhwHQduPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STABILO'
 buyurl: 'https://www.amazon.es/dp/B08S76ZLVJ/?tag=tolees-21'
 descuento: '23.02'
-average: '14.3814285714286'
+average: '14.105'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rotulador fluorescente y diseño clásico desde 1971
+- Tecnología Anti-secado STABILO: Hasta 4 horas destapado sin secarse
 - Disponible en muchos colores brillantes y pastel
 - Calidad Alemana
 - Acabado de alta calidad, tinta y comodidad de escritura
-- Tecnología Anti-secado STABILO: Hasta 4 horas destapado sin secarse
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
