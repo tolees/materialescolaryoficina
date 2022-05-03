@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pilot - Hi-Tecpoint V7 - Bolígrafo tinta líquida punto medio - Azul -  Caja 12 unidades '
-date: 2022-05-02 05:36:48
+date: 2022-05-03 06:02:29
 image: 'https://m.media-amazon.com/images/I/41FldEwo6ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PILOT'
 buyurl: 'https://www.amazon.es/dp/B000J6CYZY/?tag=tolees-21'
 descuento: '44.38'
-average: '17.825'
+average: '17.9833333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tinta líquida
-- Punta de aguja
 - Color azul
+- Punta de aguja
+- Tinta líquida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
