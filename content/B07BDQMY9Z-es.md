@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo para pequeños objetos como un USB
 - Capacidad para unas 30 piezas
+- Bolsillo para pequeños objetos como un USB
 - Con cierre cremallera y etiqueta colgante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
