@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio FX-991SPX II Iberia- Calculadora científica  Recomendada para el currículum español y portugués  576 funciones  Solar y color gris /blanco'
-date: 2022-05-09 15:20:26
+date: 2022-05-13 03:32:55
 image: 'https://m.media-amazon.com/images/I/41bVYKqDiTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B08VGPHFXP/?tag=tolees-21'
 descuento: '30.08'
-average: '25.815'
+average: '25.81'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estadísticas basadas en listas, estadísticas con 1 variable, desviación típica, estadísticas con 2 variables (regresiones), cálculo de porcentajes, adición automática de paréntesis, tabla de funciones
 - Funciones trigonométricas y funciones trigonométricas inversas, funciones hiperbólicas e hiperbólicas inversas, cálculo de potencias y raíces, cálculo logarítmico, cálculo exponencial
-- Cálculo de raíces, combinatoria y permutación, factorización de números primos, generación de números enteros aleatorios, fracciones conversión de sexagesimal a decimal y viceversa, cálculos de grados
 - Calculadora científica con menú y instrucciones en tu idioma: Castellano, catalán, euskera y portugués
+- Estadísticas basadas en listas, estadísticas con 1 variable, desviación típica, estadísticas con 2 variables (regresiones), cálculo de porcentajes, adición automática de paréntesis, tabla de funciones
+- Cálculo de raíces, combinatoria y permutación, factorización de números primos, generación de números enteros aleatorios, fracciones conversión de sexagesimal a decimal y viceversa, cálculos de grados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
