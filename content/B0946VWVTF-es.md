@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Old Skool Drop V Backpack  Mochila Unisex Adulto  Port Royale  Talla única'
-date: 2022-06-07 05:47:19
+date: 2022-06-10 00:52:14
 image: 'https://m.media-amazon.com/images/I/41NQNQSun1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0946VWVTF-es Vans Old Skool Drop V Backpack Mochila Unisex Adulto Port...'
 sku: 'B0946VWVTF-es'
 tags: [ 'Equipaje','Mochilas','Mochilas tipo casual','backpack','mochila','unisex','vans','🇪🇸', ]
-actualPrice: 19.0 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 19.0
+price: 29.99
 comparePrice: 40.0 EUR
 prodname: 'Vans Old Skool Drop V Backpack  Mochila Unisex Adulto  Port Royale  Talla única'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B0946VWVTF/?tag=tolees-21'
-descuento: '52.50'
-average: '23.2233333333333'
+descuento: '25.03'
+average: '23.9'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
