@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bic Cristal Original 8308621 Bolígrafo - surtidos  paquete de 4 '
-date: 2022-06-06 16:11:05
+date: 2022-06-10 03:11:54
 image: 'https://m.media-amazon.com/images/I/514OnRvbkVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OND383915.
 - Exterior hexagonal ligero para una escritura cómoda y controlada. Bola de carburo de tungsteno duradero para una escritura consistente, sin interrupciones ni manchas. Punta media, barril transparente. Ancho: 0,4 mm. Color negro. 50 unidades.
+- OND383915.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
