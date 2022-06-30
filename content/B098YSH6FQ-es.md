@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Back colorama Mombasa Min  Mochila Mini para Mujer  Blanco  Talla única'
-date: 2022-06-26 11:42:31
+date: 2022-06-29 23:30:00
 image: 'https://m.media-amazon.com/images/I/3158Esd1BWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- target gender: female
+- Forro en tela turquesa
+- 23.8(l) x 12(an.) x 30.5(alt.)
 - Logo full print en relieve
 - Liso en color blanco
-- 23.8(l) x 12(an.) x 30.5(alt.)
-- target gender: female
 - Mochila pequeña logos
-- Forro en tela turquesa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
