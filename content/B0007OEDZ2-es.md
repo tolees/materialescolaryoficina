@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marcador fluorescente STABILO BOSS ORIGINAL - Estuche con 6 colores'
-date: 2022-06-30 16:21:51
+date: 2022-07-02 15:50:30
 image: 'https://m.media-amazon.com/images/I/41n-WSn1CEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STABILO'
 buyurl: 'https://www.amazon.es/dp/B0007OEDZ2/?tag=tolees-21'
 descuento: '54.18'
-average: '5.535'
+average: '5.218'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
