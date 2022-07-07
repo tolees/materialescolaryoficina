@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Staedtler Noris 120-2BK10D. Lápices de madera certificada. Caja de 10 unidades.'
-date: 2022-07-06 08:28:42
+date: 2022-07-07 17:23:42
 image: 'https://m.media-amazon.com/images/I/41XD88bwVXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STAEDTLER'
 buyurl: 'https://www.amazon.es/dp/B003JYX2VS/?tag=tolees-21'
 descuento: '33.38'
-average: '5.11085987261148'
+average: '5.1104761904762'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lápices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
 - Tiene resistencia a la rotura gracias a la especial formulación de la mina y a su doble encoladura de 2 mm.
+- Lápiz de alta calidad, de diseño hexagonal, óptimo para escribir, dibujar y esbozar.
+- Lápices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
 - Lápices clásicos de dureza media, HB 2, con los que se obtiene una escritura suave y equilibrada.
 - Diseño ergonómico y cómodo que permite una experiencia única de escritura, apta para uso profesional y uso escolar.
-- Lápiz de alta calidad, de diseño hexagonal, óptimo para escribir, dibujar y esbozar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
