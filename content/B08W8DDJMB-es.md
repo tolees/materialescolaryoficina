@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsa de gomets Emociones con adhesivo removible y dos medidas de gomets en la misma hoja Ø 23 mm y Ø 20 mm.
-- Adhesivo removible: ideal para que los niños puedan despegar el gomet y corregir si se equivocan
-- Cada bolsa contiene 3 hojas de gomets con 16 diseños diferentes. Contiene 48 gomets por hoja, un total de 144 gomets por bolsa. Diseñados para ayudar a que los más pequeños expresen sus emociones.
-- Los gomets APLI cumplen con todas las normas de calidad y seguridad: Fabricados según las normas EN-71 y la cadena de custodia FSC, adhesivo base agua, sin disolventes, papeles ECF, 100% reciclables.
 - Los gomets Emociones están diseñados para ayudar a que los más pequeños expresen su emociones.
+- Cada bolsa contiene 3 hojas de gomets con 16 diseños diferentes. Contiene 48 gomets por hoja, un total de 144 gomets por bolsa. Diseñados para ayudar a que los más pequeños expresen sus emociones.
+- Bolsa de gomets Emociones con adhesivo removible y dos medidas de gomets en la misma hoja Ø 23 mm y Ø 20 mm.
+- Los gomets APLI cumplen con todas las normas de calidad y seguridad: Fabricados según las normas EN-71 y la cadena de custodia FSC, adhesivo base agua, sin disolventes, papeles ECF, 100% reciclables.
+- Adhesivo removible: ideal para que los niños puedan despegar el gomet y corregir si se equivocan
 
 [🛒 Aquí!!!]({{< param buyurl >}})
