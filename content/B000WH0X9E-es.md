@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Staedtler Noris Club 550  Set de Dibujo Estuche  Compás Escolar  Adaptador y Tubo de Minas  Azul/Metálico'
-date: 2022-07-07 18:40:12
+date: 2022-07-08 22:26:27
 image: 'https://m.media-amazon.com/images/I/41erOYdfOTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STAEDTLER'
 buyurl: 'https://www.amazon.es/dp/B000WH0X9E/?tag=tolees-21'
 descuento: '27.06'
-average: '4.59630434782609'
+average: '4.59829787234043'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compás de precisión para la iniciación al dibujo
-- Dibujo técnico
-- Longitud de 124 mm
 - Con obtusángulo y aguja roma antilesiones
 - Escolar
-- Compás
 - Diámetro máximo del círculo de 300 mm aproximadamente
+- Dibujo técnico
+- Compás
+- Compás de precisión para la iniciación al dibujo
+- Longitud de 124 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

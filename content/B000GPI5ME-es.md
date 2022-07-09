@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Staedtler Noris - Lapiceros  Material Escolar  Pack de 12  Gris'
-date: 2022-07-06 08:28:01
+date: 2022-07-08 22:22:34
 image: 'https://m.media-amazon.com/images/I/41QgH+Gt9ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STAEDTLER'
 buyurl: 'https://www.amazon.es/dp/B000GPI5ME/?tag=tolees-21'
 descuento: '20.54'
-average: '5.02263157894738'
+average: '5.02214814814816'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Punto fino de 2 mm
-- Graduación HB
 - Caja con 12 lápices de la misma graduación
 - Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
+- Graduación HB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
