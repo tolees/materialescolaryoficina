@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpino - Pack 12 lápices de colores + 12 rotuladores de colores'
-date: 2022-07-06 08:29:50
+date: 2022-07-12 09:49:07
 image: 'https://m.media-amazon.com/images/I/511-WeOIbHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alpino'
 buyurl: 'https://www.amazon.es/dp/B01KI33GW2/?tag=tolees-21'
 descuento: '46.79'
-average: '3.29428571428571'
+average: '3.38'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colores surtidos súper brillantes
-- Ancho: 8,5 x Alto: 1 x Largo: 21 cm
-- Rotuladores con tinta súper lavable
 - Material escolar y de oficina
+- Colores surtidos súper brillantes
+- Rotuladores con tinta súper lavable
+- Ancho: 8,5 x Alto: 1 x Largo: 21 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
