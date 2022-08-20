@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Old Skool Drop V Backpack  Mochila Unisex Adulto  Port Royale  Talla única'
-date: 2022-08-19 10:30:09
+date: 2022-08-20 20:05:58
 image: 'https://m.media-amazon.com/images/I/41NQNQSun1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B0946VWVTF/?tag=tolees-21'
 descuento: '17.55'
-average: '26.4942857142857'
+average: '26.9266666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño: 42 x 32 x 12 cm
+- Bolsillo frontal con organizador
 - Capacidad: 22 litros
 - Bolsillo lateral para botella de agua
-- Bolsillo frontal con organizador
+- Tamaño: 42 x 32 x 12 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
