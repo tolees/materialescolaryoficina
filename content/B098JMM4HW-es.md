@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CERDÁ LIFE S LITTLE MOMENTS Mochila infantil luces 3d de Batman'
-date: 2022-08-16 15:46:57
+date: 2022-08-22 16:59:51
 image: 'https://m.media-amazon.com/images/I/51vZmBsbbmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
