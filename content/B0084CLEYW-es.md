@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maped Cars - Plumier con 34 piezas  dos pisos  color rojo y negro'
-date: 2022-08-28 06:29:51
+date: 2022-08-29 08:03:14
 image: 'https://m.media-amazon.com/images/I/51lqO6Za9CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

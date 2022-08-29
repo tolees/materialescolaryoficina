@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grupo Erik - Etiquetas adhesivas Marvel Los vengadores - Pegatinas libro nombres / Pack etiquetas escolares - Papeleria Marvel - Vuelta al cole material escolar - Producto con licencia oficial'
-date: 2022-08-28 07:20:53
+date: 2022-08-29 09:05:01
 image: 'https://m.media-amazon.com/images/I/51ZRHORv99L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Grupo Erik'
 buyurl: 'https://www.amazon.es/dp/B07RLWDB1M/?tag=tolees-21'
 descuento: '60.00'
-average: '1.5'
+average: '1.375'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestras etiquetas adhesivas para libros son perfecta para ponerle el nombre a tu material escolar. Contiene 16 pegatinas adhesivas blancas para que puedas escribir sobre ellas
 - Una etiqueta escolar siempre ha sido un elemento principal en la vuelta al cole por lo que todos los estudiantes tienen que contar con ellas en su material escolar
 - Erik - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
+- Nuestras etiquetas adhesivas para libros son perfecta para ponerle el nombre a tu material escolar. Contiene 16 pegatinas adhesivas blancas para que puedas escribir sobre ellas
 - Estas pegatinas Marvel las puedes usar como etiquetas libros o incluso como etiquetas para frascos para poder identificar lo que hay en su interior fácilmente
 - Cada pegatina tiene un tamaño de 8x4 cm. El pack pegatinas blancas incluye 2 hojas rectangulares con 8 etiquetas cada una (16 etiquetas diferentes en total), almacenadas en una bolsa de polipropileno. El papel es de 80 gr autoadhesivo brillo.
 
