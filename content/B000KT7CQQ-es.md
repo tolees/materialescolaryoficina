@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Faber-Castell 154815 - Caja con 10 marcadores fluorescentes Textliner 48  color naranja'
-date: 2022-08-24 13:37:34
+date: 2022-09-01 19:35:19
 image: 'https://m.media-amazon.com/images/I/414lfjKFsVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para papel normal y especial
 - Marcador fluorescente Textliner 48
-- Punta biselada en 3 grosores de trazo: 5 mm, 2 mm y 1 mm
 - Tinta a base de agua que se recarga facilmente con el tintero 1549 Refill
+- Para papel normal y especial
+- Punta biselada en 3 grosores de trazo: 5 mm, 2 mm y 1 mm
 - Colores superfluorescentes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
