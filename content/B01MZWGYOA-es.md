@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maped 810010 - Tempera lista para usar colores primarios  Couleurs Primaires'
-date: 2022-08-30 05:17:57
+date: 2022-09-01 13:31:31
 image: 'https://m.media-amazon.com/images/I/51o7WzmEqWS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acuarelas de superhéroe para pintura
 - Con capacidad de lavado en algodón
 - Tiene un tapón con válvula que es fácil de abrir
+- Acuarelas de superhéroe para pintura
 - Cuentan con una poder de cobertura optima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
