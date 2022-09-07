@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley FatMax 1-79-215 - Mochila con ruedas  Divisores extraíbles  Base rígida  Nylon de alta resistencia  Multibolsillos  Cierre de doble cremallera  Asa telescópica  Color Negro  36 × 23 × 54 cm'
-date: 2022-09-02 10:31:36
+date: 2022-09-07 19:34:16
 image: 'https://m.media-amazon.com/images/I/51xkXx36qCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Bolsas portaherramientas','Bricolaje y herramientas','Herramientas manu
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99
-comparePrice: 61.38 EUR
+comparePrice: 77.95 EUR
 prodname: 'Stanley FatMax 1-79-215 - Mochila con ruedas  Divisores extraíbles  Base rígida  Nylon de alta resistencia  Multibolsillos  Cierre de doble cremallera  Asa telescópica  Color Negro  36 × 23 × 54 cm'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B004Y4YNBK/?tag=tolees-21'
-descuento: '25.07'
-average: '62.6593069306929'
+descuento: '41.00'
+average: '62.5771921182264'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Las asas ergonómicas fueron diseñadas para soportar el peso de las herramientas
-- Los divisores interiores extraíbles tienen una asa propia para facilitar el transporte
 - Los cierres laterales permiten conseguir la seguridad de su interior
+- Los divisores interiores extraíbles tienen una asa propia para facilitar el transporte
 - La base rígida de plástico está a prueba de agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
