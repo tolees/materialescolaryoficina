@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lápiz de color STABILO color - Estuche con 12 colores'
-date: 2022-09-07 14:54:44
+date: 2022-09-08 18:56:24
 image: 'https://m.media-amazon.com/images/I/41A+PaUqM8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STABILO'
 buyurl: 'https://www.amazon.es/dp/B019OQ80SE/?tag=tolees-21'
 descuento: '39.76'
-average: '1.83333333333333'
+average: '1.875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rica aplicación de color
+- Diámetro de mina de 2.5 mm
 - Pack de 12 lápices de colorear, adecuados tanto para niños como para estudiantes
 - Clásico lápices de color, ideales para el colegio
-- Diámetro de mina de 2.5 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
