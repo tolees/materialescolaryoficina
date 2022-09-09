@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BiC Cristal medium - Bolígrafo de punta redonda  color azul  pack de 4 unidades'
-date: 2022-09-08 04:31:58
+date: 2022-09-09 10:36:21
 image: 'https://m.media-amazon.com/images/I/41y7UXOMBKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BIC'
 buyurl: 'https://www.amazon.es/dp/B004FTILGC/?tag=tolees-21'
 descuento: '58.98'
-average: '2.135'
+average: '2.14666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color de la tinta: azul
 - Tipo de punta: medio
 - Tipo de producto: Bolígrafo de bola
 - Tamaño: Pack de 4
+- Color de la tinta: azul
 
 [🛒 Comprar!!!]({{< param buyurl >}})

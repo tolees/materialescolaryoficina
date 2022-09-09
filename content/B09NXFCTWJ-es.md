@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marcador STABILO BOSS ORIGINAL ARTY - Ser de mesa con 9 colores fluorescentes y 14 colores pastel'
-date: 2022-09-04 12:38:56
+date: 2022-09-09 11:12:51
 image: 'https://m.media-amazon.com/images/I/41Tf2iYrTXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STABILO'
 buyurl: 'https://www.amazon.es/dp/B09NXFCTWJ/?tag=tolees-21'
 descuento: '19.88'
-average: '23.9575'
+average: '23.164'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disponible en muchos colores brillantes y pastel
+- Acabado de alta calidad, tinta y comodidad de escritura
 - Tecnología STABILO Anti-Secado: Hasta 4 horas destapado sin secarse
+- Disponible en muchos colores brillantes y pastel
 - Recargable con el recambio STABILO BOSS
 - Marcador fluorescente o pastel, con diseño clásico desde 1971
-- Acabado de alta calidad, tinta y comodidad de escritura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
