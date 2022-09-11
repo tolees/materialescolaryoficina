@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER 14610C C48 Design Journey. Caja con 48 lápices acuarelables de colores surtidos.'
-date: 2022-09-10 09:05:41
+date: 2022-09-11 12:31:44
 image: 'https://m.media-amazon.com/images/I/51DJZgcgdrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lápices de dibujo con minas acuarelables, que pueden usarse en seco o con pincel mezcladas con agua
 - Lápices con colores brillantes y una amplia gama de tonalidades, excelentes para trabajos creativos y artísticos.
-- Lapices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
 - Lápiz acuarelable de alta calidad, de diseño hexagonal. Óptimos para dibujar, pintar y esbozar.
 - Mina de 2 mm de diámetro resistente a la rotura, que ofrece trazos especialmente suaves e intensos.
-- Lápices de dibujo con minas acuarelables, que pueden usarse en seco o con pincel mezcladas con agua
+- Lapices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
