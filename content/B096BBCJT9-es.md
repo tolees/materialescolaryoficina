@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP CONSUMER PAVILLION 8541856  Mochila Unisex Adulto  Talla única'
-date: 2022-09-02 07:35:11
+date: 2022-09-13 08:46:39
 image: 'https://m.media-amazon.com/images/I/41kg-jjkCDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
