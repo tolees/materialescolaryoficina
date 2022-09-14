@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Loctite 1718240 - Producto de Sellado Silicona 5660  40 ml'
-date: 2022-09-11 07:01:46
+date: 2022-09-14 19:55:25
 image: 'https://m.media-amazon.com/images/I/51XIcWEzgZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número un para la salud y la seguridad
 - Producto de sellado para Planes de juntas flexibles
 - Excelente resistencia al glycol
+- Número un para la salud y la seguridad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
