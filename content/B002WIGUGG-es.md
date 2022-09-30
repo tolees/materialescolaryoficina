@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Cristal Original Bolígrafos Punta Media  1 0mm  Colores Surtidos  Material Oficina y Escolar  Tubo de 20 unidades  16+4 gratis '
-date: 2022-09-27 16:26:34
+date: 2022-09-30 19:31:51
 image: 'https://m.media-amazon.com/images/I/41bWsLJ5lrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BIC'
 buyurl: 'https://www.amazon.es/dp/B002WIGUGG/?tag=tolees-21'
 descuento: '45.00'
-average: '7.06907894736842'
+average: '7.06436681222707'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
