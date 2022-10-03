@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lápiz de grafito STABILO Opéra - Caja con 12 unidades - Dureza 2B'
-date: 2022-10-01 10:45:36
+date: 2022-10-03 18:24:59
 image: 'https://m.media-amazon.com/images/I/51+5ZkK0sVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Madera de calidad superior
 - Mina anti-roturas
 - Grafito de alta calidad
 - Dureza 2B
+- Madera de calidad superior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
