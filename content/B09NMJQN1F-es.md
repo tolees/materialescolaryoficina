@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KARACTERMANIA - Mickey Mouse Pluto-Caja Regalo con Cuaderno y Lápiz Fashion  Azul'
-date: 2022-10-13 07:13:20
+date: 2022-10-14 09:55:39
 image: 'https://m.media-amazon.com/images/I/51cm1stCHcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'KARACTERMANIA'
 buyurl: 'https://www.amazon.es/dp/B09NMJQN1F/?tag=tolees-21'
 descuento: '71.30'
-average: '5.25'
+average: '5.26'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dimensiones (caja): 23,2 x 22,4 x 2,2
-- Pack con lápiz y cuaderno de tapa rígida en caja regalo
 - Lápiz decorativo con silueta superior
+- Pack con lápiz y cuaderno de tapa rígida en caja regalo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
