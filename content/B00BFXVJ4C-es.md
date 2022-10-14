@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Loctite Super Glue-3 Original Mini Trio  pegamento universal con triple resistencia  adhesivo transparente  pegamento instantáneo y fuerza instantánea  3x1 g'
-date: 2022-09-30 14:10:12
+date: 2022-10-14 16:01:25
 image: 'https://m.media-amazon.com/images/I/51w-cQ2EaaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Loctite'
 buyurl: 'https://www.amazon.es/dp/B00BFXVJ4C/?tag=tolees-21'
 descuento: '26.31'
-average: '4.46355140186916'
+average: '4.47245454545456'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
