@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Miquelrius 14920 - Carpeta 4 Anillas con Recambio Mesages A4  color Menta con Separadores y Sobre'
-date: 2022-10-24 00:05:24
+date: 2022-10-25 06:52:38
 image: 'https://m.media-amazon.com/images/I/312NSQiObbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye 1 bloc de hojas a4 cuadriculadas de 100 hojas de 90 g/m², con 5 colores surtidos
+- Cubiertas: cartón forrado de papel impreso y plastificado mate
 - Cuadrícula 5 mm con bandas de color para clasificar y cabecera para títulos
 - Mensaje impreso "magic is something you make"
-- Cubiertas: cartón forrado de papel impreso y plastificado mate
+- Incluye 1 bloc de hojas a4 cuadriculadas de 100 hojas de 90 g/m², con 5 colores surtidos
 - Carpeta con 4 anillas y cierre con goma, color menta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
