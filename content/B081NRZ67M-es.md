@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lápices de color acuarelables STABILOaquacolor ARTY - Estuche con 36 colores'
-date: 2022-11-05 13:00:49
+date: 2022-11-06 15:10:27
 image: 'https://m.media-amazon.com/images/I/51ulGPh2wUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STABILO'
 buyurl: 'https://www.amazon.es/dp/B081NRZ67M/?tag=tolees-21'
 descuento: '43.89'
-average: '11.44'
+average: '11.1033333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diámetro de la mina 2, 8 mm
 - Efectos de color increíbles
-- Colores intensos
+- Diámetro de la mina 2, 8 mm
 - Lápices de colores de alta calidad acuarelables
 - Disponible en 36 colores
+- Colores intensos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
