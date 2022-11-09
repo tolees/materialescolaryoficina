@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hurley Groundswell Backpack'
-date: 2022-11-08 15:15:24
+date: 2022-11-09 15:55:07
 image: 'https://m.media-amazon.com/images/I/31uuPOfTgYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compartimento para portatil
 - Poliéster 900D
 - Tiradores de cremallera con logo envuelto en PU
-- Bolsillo para botella
 - Parche de poliuretano con logo Icon estampado
+- Compartimento para portatil
+- Bolsillo para botella
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
