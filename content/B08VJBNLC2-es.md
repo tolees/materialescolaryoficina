@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Yoga Duet 7 - Portátil 2 en 1 WQHD de 13 & amp; quot;  Intel Core i5-10210U  8GB RAM  256GB SSD  Intel UHD Graphics  Windows 10   Lenovo Bolígrafo digital  gris - Teclado QWERTY español'
-date: 2022-12-20 19:01:27
+date: 2022-12-28 07:31:44
 image: 'https://m.media-amazon.com/images/I/41wH2lNYAfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
