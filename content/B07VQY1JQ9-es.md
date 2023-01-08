@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse Speed 2  Backpack Unisex Adulto  Negro  19L'
-date: 2023-01-04 22:14:47
+date: 2023-01-07 23:35:45
 image: 'https://m.media-amazon.com/images/I/313ceutloXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B07VQY1JQ9/?tag=tolees-21'
 descuento: '44.72'
-average: '18.375'
+average: '17.4'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
