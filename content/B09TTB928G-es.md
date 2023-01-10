@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KARACTERMANIA El Rey León Simba Rest  Mochila 3D Pequeña  Azul  Azul Oscuro/Blue '
-date: 2023-01-06 20:21:25
+date: 2023-01-09 22:54:23
 image: 'https://m.media-amazon.com/images/I/515dlM6zKRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'KARACTERMANIA'
 buyurl: 'https://www.amazon.es/dp/B09TTB928G/?tag=tolees-21'
 descuento: '51.45'
-average: '9.55333333333333'
+average: '9.072'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Compartimento principal con cremallera
-- Dimensiones: 31 x 26 x 11 cm
 - Mochila preescolar con relieve frontal
 - Forro interior
+- Dimensiones: 31 x 26 x 11 cm
 - 2 bolsillos laterales de malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
