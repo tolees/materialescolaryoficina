@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak Padded Pak r Mochila  40 cm  24 L  Brize Core  Gris '
-date: 2023-01-03 14:59:24
+date: 2023-01-13 20:49:39
 image: 'https://m.media-amazon.com/images/I/51+nR9VzAJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EASTPAK'
 buyurl: 'https://www.amazon.es/dp/B09XVJCZZ7/?tag=tolees-21'
 descuento: '50.00'
-average: '27.04'
+average: '26.8666666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Confección en 100 % poliéster
 - No se han utilizado materiales de origen animal para fabricar este producto 100 % vegano
 - Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
 - El compartimento principal dispone de un bolsillo delantero con cremallera
+- Confección en 100 % poliéster
 - Correas ajustables para los hombros y panel de la espalda acolchados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
