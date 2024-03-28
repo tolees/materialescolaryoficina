@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Xiaomi 13T Pro - Smartphone de 16+1TB  Cámara Leica  Pantalla 6.67" AMOLED CrystalRes 1 5K+144Hz  Mediatek Dimensity 9200+  Carga Turbo 120W  5000mAh  Azul alpino  Versión ES '
+date: 2024-02-18 17:40:55
+image: 'https://m.media-amazon.com/images/I/41E3b36HSXL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0C9TYC866-es Xiaomi 13T Pro - Smartphone de 16+1TB Cámara Leica...'
+sku: 'B0C9TYC866-es'
+tags: [ '749d7d8e-47fd-431e-8b51-348b70f767e2_0','749d7d8e-47fd-431e-8b51-348b70f767e2_8001','Arborist Merchandising Root','Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Self Service','Special Features Stores','Teléfono Móvil Gaming','alpino','xiaomi','🇪🇸', ]
+actualPrice: 799.9 EUR
+currency: EUR
+price: 799.9
+comparePrice: 1009.99 EUR
+prodname: 'Xiaomi 13T Pro - Smartphone de 16+1TB  Cámara Leica  Pantalla 6.67" AMOLED CrystalRes 1 5K+144Hz  Mediatek Dimensity 9200+  Carga Turbo 120W  5000mAh  Azul alpino  Versión ES '
+country: 'es'
+flag: '🇪🇸'
+brand: 'Xiaomi'
+buyurl: 'https://www.amazon.es/dp/B0C9TYC866/?tag=tolees-21'
+descuento: '20.80'
+average: '799.9'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Experimenta un rendimiento inigualable con Xiaomi 13T Pro, gracias a su potente procesador Mediatek Dimensity 9200+.
+- Xiaomi 13T Pro y su increíble velocidad de carga de 120W, te permitirán pasar del 0% al 100% en tan solo 19 minutos.
+- Batería de gran capacidad de 5000mAh, podrás disfrutar de muchas más horas de uso sin tener que preocuparte.
+- Cámara con lentes Leica Summicron, zoom óptico y 50 mm de distancia focal que permite un alto nivel de detalle. Cámara principal 50 MP, teleobjetivo 50 MP y ultra gran angular 12 MP.
+- Pantalla AMOLED CrystalRes 1,5K con tasa de refresco de 144 Hz que te garantiza imágenes vividas y una experiencia de visualización excepcional.
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0C9TYC866{{</world>}}
