@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aguja y minas intercambiables. Aguja roma para prevenir lesiones. Las patas articuladas facilitan el dibujo de radios grandes.
-- Longitud de 156 mm. Su diámetro máximo es de 260 mm. y, con alargadera, 395 mm aproximadamente.
 - Su adaptador universal permite crear círculos precisos con todos los instrumentos de escritura y dibujo.
+- Longitud de 156 mm. Su diámetro máximo es de 260 mm. y, con alargadera, 395 mm aproximadamente.
 - De color azul y plateado, viene en un estuche de plástico transparente con tapa abatible.
+- Aguja y minas intercambiables. Aguja roma para prevenir lesiones. Las patas articuladas facilitan el dibujo de radios grandes.
 - Se ajusta fácilmente gracias a su rueda central y mecanismo de ajuste rápido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
