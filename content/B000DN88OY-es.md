@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tipo de producto: Goma de borrar
-- Tamaño: 24
 - Color de la tinta: blanco
+- Tamaño: 24
 - Tipo de punta: grueso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
