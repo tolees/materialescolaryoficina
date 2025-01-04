@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juego de 12 unidades
+- Con cuerpo de plástico
 - Zona de agarre ergonómica
 - Trazo medio
-- Con cuerpo de plástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001JYOX6S{{</world>}}
