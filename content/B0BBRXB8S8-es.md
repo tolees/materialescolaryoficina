@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tanto la lancha motora de los bomberos como la zodiac flotan en el agua, por lo que este set es el juguete de baño ideal, los peques podrán llevar la acción al agua de verdad con los divertidos barcos
 - El set incluye elementos LEGO de agua que pueden ser lanzados desde el extintor de la lancha motora de juguete o desde la mochila propulsora para apagar las llamas de la zodiac
 - Los niños se sentirán como auténticos héroes con este juguete de construcción de LEGO City que incluye una lancha motora de bomberos, una zodiac, una mochila propulsora y 3 mini figuras
 - Incluye una guía de construcción digital interactiva disponible en la app gratuita LEGO Builder para smartphones y tablets, donde los niños pueden hacer zoom, rotar y visualizar los modelos desde todos los ángulos mientras los construyen
-- Tanto la lancha motora de los bomberos como la zodiac flotan en el agua, por lo que este set es el juguete de baño ideal, los peques podrán llevar la acción al agua de verdad con los divertidos barcos
 - Con este set de vehículos para niños de 5 años en adelante, los peques podrán unirse a las 2 mini figuras LEGO de bomberos y vivir increíbles rescates y misiones acuáticas, el piloto de la zodiac esta en apuros, hay que salvarlo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Óptimo para regalar
 - Un mensaje en inglés en la parte inferior y un personaje Mr; wonderful colgando de una pequeña cadena en su extremo
 - Color de la tinta: azul
 - Bolígrafo con la parte superior de plástico transparente, con purpurina en su interior
+- Óptimo para regalar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1NR26V{{</world>}}

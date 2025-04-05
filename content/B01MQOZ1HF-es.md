@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lote de 30 Subcarpetas SUPER 60
 - Papel 60 gr/m2
 - Tamaño 22x31 cm para A4
 - Color: Colores surtidos (Azul Claro, Crema, Amarillo, Rosa, Verde Claro)
+- Lote de 30 Subcarpetas SUPER 60
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MQOZ1HF{{</world>}}

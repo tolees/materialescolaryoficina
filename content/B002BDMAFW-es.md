@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marcador de pintura a base de agua no tóxico
 - Línea del marcador de punta redonda fina, de 0.7 mm
 - Adecuado para fabricación de la tarjeta
 - Escribe en la mayoría de superficies
+- Marcador de pintura a base de agua no tóxico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002BDMAFW{{</world>}}

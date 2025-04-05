@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Protección antibacteriana incorporada Germ-Savvy que mata el 99% de las bacterias
 - Carcasa exterior hecha con plástico reciclado y piezas de trabajo totalmente metálicas para mayor durabilidad, así como diseño ergonómico para un grapado suave y cómodo con un 60% de esfuerzo en menos
 - Se suministra con dos cajas de 1000 grapas 24/6 mm; Tiene una ventana de visualización de grapas para saber siempre cuándo recargar
 - Grapadora compacta, de media tira y carga superior con función de grapado plano que pliega las patas de la grapa completamente planas contra el papel obteniendo pilas de papel más ordenadas y que requieren menos espacio de archivo
 - Compatible con grapas Rapesco 24/6mm, capacidad de 35 hojas (80 g/m²)
-- Protección antibacteriana incorporada Germ-Savvy que mata el 99% de las bacterias
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KS92ZT4{{</world>}}

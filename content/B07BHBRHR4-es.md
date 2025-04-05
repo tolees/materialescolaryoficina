@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Garantía de satisfacción del 100% - Si el producto no cumple con tus expectativas, solo tienes que pedir un reembolso o un reemplazo
+- Pack de ahorro: Este pack de Arteza te ofrece 3 cuadernos de acuarela de 30 hojas cada uno (90 hojas en total) para que puedas ensayar libremente con diferentes técnicas y efectos
 - La textura perfecta: Ni demasiado áspera ni demasiado suave. El papel para acuarelas de Arteza prensado en frío es ideal para los trazos grandes y uniformes y para los detalles más finos.
 - Papel de calidad a un precio asequible: ¿Por qué gastar una fortuna? El papel de acuarela Arteza es grueso y pesado (300gsm), y puede soportar múltiples aplicaciones sin deformarse y sin gotear
 - No más pinturas descoloridas: ¿Te preocupa que tu obra de arte se deteriore con el tiempo? El papel Arteza está 100% libre de ácido, y por eso los colores se mantendrán tan vivos como al principio.
-- Garantía de satisfacción del 100% - Si el producto no cumple con tus expectativas, solo tienes que pedir un reembolso o un reemplazo
-- Pack de ahorro: Este pack de Arteza te ofrece 3 cuadernos de acuarela de 30 hojas cada uno (90 hojas en total) para que puedas ensayar libremente con diferentes técnicas y efectos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BHBRHR4{{</world>}}

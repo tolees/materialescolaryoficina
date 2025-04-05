@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tinta antilubricante patentada para marcar copias, impresiones de inyección de tinta, fax o manuscrita
-- 2 grosores de trazo: 2 + 5 mm
 - Forma clásica Boss con zona de agarre ergonómica suave
+- 2 grosores de trazo: 2 + 5 mm
 - Disponible en 4 colores
 - STABILO Tecnología antiseco: 4 horas de protección contra la desecación
+- Tinta antilubricante patentada para marcar copias, impresiones de inyección de tinta, fax o manuscrita
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SY8THVW{{</world>}}

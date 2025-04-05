@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Disponible en 9 colores brillantes y 14 colores pastel.
 - Diseño clásico y calidad alemana desde 1971.
-- Acabado de alta calidad, tinta y comodidad de escritura.
 - Recargable con el recambio STABILO BOSS.
+- Acabado de alta calidad, tinta y comodidad de escritura.
 - Tecnología STABILO Anti-Secadot: 4 horas destapado sin secarse
 
 [🛒 Comprar!!!]({{< param buyurl >}})

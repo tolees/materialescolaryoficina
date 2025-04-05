@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mina gruesa de 3,15mm
-- Incluye sacapuntas
 - Diseñado conjuntamente con expertos en ergonomía y movimientos motrices
+- Incluye sacapuntas
+- Mina gruesa de 3,15mm
 - Ideal para aprender a escribir
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - "Que la Fuerza esté contigo". Lanza el juego en el televisor utilizando un dispositivo de transmisión compatible en casa. Pictionary Air Star Wars es la manera perfecta de lanzar la noche de juegos familiares al hiperespacio
 - Los jugadores se turnan dibujando pistas en el aire e interactuando con las imágenes, como charadas, mientras sus compañeros de equipo adivinan!
 - Dos niveles de tarjetas de pista cuentan con contenido de todas las películas de Star Wars, The Clone Wars y The Mandalorian, perfectas para superfans y fanáticos casuales por igual
-- Descarga la aplicación gratuita Pictionary Air en una tableta o smartphone (pueden aplicarse tarifas de datos) y selecciona Star Wars para más funciones intergalácticas!
 - Elige un compañero droide para cada equipo, luego muestra esas habilidades de dibujo Jedi con Pictionary Air Star Wars, un giro galáctico en el clásico juego de dibujo
+- Descarga la aplicación gratuita Pictionary Air en una tableta o smartphone (pueden aplicarse tarifas de datos) y selecciona Star Wars para más funciones intergalácticas!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QML4KLH{{</world>}}

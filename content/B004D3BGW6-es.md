@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tinta de base de agua, recargable
 - 2 anchos de trazo 2 + 5 mm
-- Tecnología Stabilo Anti-Secado
 - 4 horas de protección anti-secado para concentrarse plenamente en el trabajo
+- Tecnología Stabilo Anti-Secado
+- Tinta de base de agua, recargable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004D3BGW6{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para uso escolar y también para restaurar y limpiar paredes
-- Miga de pan, goma de caucho sintético
-- Forma hexagonal redondeada con acabado suave satinado para un agarre seguro y cómodo.
-- 150 lápices n.º 2 HB de madera de alta calidad, afilados.
-- Adecuado para borrar lápices de grafito sobre toda clase de papeles
 - Resistente mina media-suave que genera un trazo de fácil lectura y larga duración.
+- Forma hexagonal redondeada con acabado suave satinado para un agarre seguro y cómodo.
+- Apto para uso escolar y también para restaurar y limpiar paredes
+- 150 lápices n.º 2 HB de madera de alta calidad, afilados.
+- Miga de pan, goma de caucho sintético
 - Medidas de 28.5 x 28 x 13.5 mm
+- Adecuado para borrar lápices de grafito sobre toda clase de papeles
 - Suave goma de borrar sin látex que no deja rastros fijada al extremo para borrar los errores fácilmente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

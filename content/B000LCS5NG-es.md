@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- INCLUYE: Estas notas adhesivas miden 51mm x 38mm y vienen en un paquete de 12 blocs, 100 hojas por bloc
 - El embalaje puede variar
 - IDÓNEAS: Para el trabajo, el colegio y el día a día en casa. Estas notas son la manera más simple y eficaz de tomar notas, dejar mensajes o recordatorios y asegurarse de que llegan a su destinatario
-- INCLUYE: Estas notas adhesivas miden 51mm x 38mm y vienen en un paquete de 12 blocs, 100 hojas por bloc
-- NOTAS ADHESIVAS: La clásica nota adhesiva que conoces y te encanta para dejar recordatorios o avisar de algo importante
 - SOSTENIBLES Y RECICLADAS: Están fabricadas con fibras de papel y tienen el certificado PEFC. Están hechas con un material adhesivo 60% renovable procedente de una planta que crece cada año
+- NOTAS ADHESIVAS: La clásica nota adhesiva que conoces y te encanta para dejar recordatorios o avisar de algo importante
 - ELIGE LA TUYA: Las notas Post-it están disponibles en una amplia variedad de colores, tamaños y estilos para darle vida a tus mensajes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

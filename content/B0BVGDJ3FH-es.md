@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 🌊 3 CUADERNOS NOTAS - Descubre este pack blocs de notas con un diseño diferente en cada una de sus portadas. Cada uno de ellos presentan un formato distinto: rayado, en blanco y punteado, además todos ellos presentán una encuadernación tradicional para una cómoda escritura
 - 🌊 DISEÑO EXCLUSIVO - Los diseñadores de Kokonote echan su mente a volar para crear una gama de papelería y accesorios inspirados en la tendencia actual ¡Conócelos!
+- 🌊 CALIDAD - Sus tapas son blandas y cada uno de ellos contiene 32 hojas con un grosor de 80gsm para evitar que la tinta sobrepase la página ¡Una libreta A5 original donde hemos cuidado cada detalle!
 - 🌊 ¿Aún no conoces nuestra colección Hokusai de accesorios de papelería? Este pack libretas A5 cactus es ideal para completar tu material de papelería e ir a la última ¡Libretas bonitas A5 que te encantarán! nada
 - 🌊 FUNCIONAL - Estos cuadernos notas poseen un diseño en tendencia que se adapta a multiples usos. Gracias a su tamaño A5 podrás llevarlo cómodamente contigo en tu mochila o bolso y anotar en ellos todas las ideas que se te ocurran. Si eres una persona que le encanta la cocina será ideal para usarlo como cuaderno recetas
-- 🌊 CALIDAD - Sus tapas son blandas y cada uno de ellos contiene 32 hojas con un grosor de 80gsm para evitar que la tinta sobrepase la página ¡Una libreta A5 original donde hemos cuidado cada detalle!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BVGDJ3FH{{</world>}}

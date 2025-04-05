@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - AÚN MÁS DIVERTIDO: ¡las tintas están perfumadas! Magenta: jugo tropical, Amarillo: limón, Azul: frambuesa
-- LABORATORIO DE ROTULADORES OLOROSOS NEÓN: crea tus propios rotuladores OLOROSOS e inventa colores de NEÓN como un verdadero científico del color
-- INFORMACIÓN ÚTIL: Unidad de laboratorio de rotuladores, 3 frascos de tinta perfumada, 14 juegos para crear rotuladores, 2 tubos para medir la tinta, 2 hojas de etiquetas, 1 pinza, 1 guía
 - DESATA TU CREATIVIDAD: crea hasta 14 rotuladores personalizados mezclando tintas de colores; muy fácil de usar, solo siga la guía para crear nuevos colores cada vez
 - ACTIVIDAD CREATIVA Y REGALO: Hace un gran regalo de cumpleaños u otra ocasión especial, puede agregar el Laboratorio de Rotuladores Recarga para aún más horas de diversión colorida sin fin
+- INFORMACIÓN ÚTIL: Unidad de laboratorio de rotuladores, 3 frascos de tinta perfumada, 14 juegos para crear rotuladores, 2 tubos para medir la tinta, 2 hojas de etiquetas, 1 pinza, 1 guía
+- LABORATORIO DE ROTULADORES OLOROSOS NEÓN: crea tus propios rotuladores OLOROSOS e inventa colores de NEÓN como un verdadero científico del color
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQJSVPZR{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Este bolígrafo BIC se presenta en el color clásico: el negro. Y los cilindros hacen juego con el color de la tinta
 - Estos 36 bolígrafos negros BIC Soft Feel tienen una punta retráctil y son perfectos para tus necesidades de trabajo ya sea en la oficina o en casa
 - La punta mediana de 1,0 mm está meticulosamente diseñada para garantizar una escritura suave y sin esfuerzo
-- Este bolígrafo BIC se presenta en el color clásico: el negro. Y los cilindros hacen juego con el color de la tinta
 - Cuenta con una empuñadura acolchada de goma con tacto suave para un máximo confort
 - Un cómodo bolígrafo hecho para profesionales y estudiantes que escriben abundantes notas
 

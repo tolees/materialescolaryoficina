@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología antisecado, hasta 4 horas destapado para estar concentrado al máximo
 - Trazo 2-5 mm
+- Tecnología antisecado, hasta 4 horas destapado para estar concentrado al máximo
 - Colores diferentes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

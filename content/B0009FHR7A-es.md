@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Garantía del fabricante: 1 año
-- Descripción del producto : Olympia - CA0612E
-- Dimensiones del producto: 19 x 27,3 x 45 cm
-- Garantía: 2
 - Color: negro
+- Garantía: 2
 - Tipo de producto: calculadora
+- Dimensiones del producto: 19 x 27,3 x 45 cm
+- Descripción del producto : Olympia - CA0612E
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0009FHR7A{{</world>}}

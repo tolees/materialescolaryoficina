@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disponible en 8 colores
-- Con práctico clip
 - Ideal para estuches
 - 2 anchos de linea - 2 y 5 mm
+- Con práctico clip
+- Disponible en 8 colores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00R4HFV74{{</world>}}

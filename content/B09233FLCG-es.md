@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Alto 42 cm, Ancho 32 cm, Fondo 25.5 cm
+- En nuestra gama de colores Ultra Marine
 - Correas ajustables para los hombros y panel de la espalda acolchados
 - Dos compartimentos principales con bolsillo delantero con cremallera
-- En nuestra gama de colores Ultra Marine
 - Incluye llavero
 - Confección en 100 % nailon
 

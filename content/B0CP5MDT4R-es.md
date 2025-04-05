@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Herramientas Profesionales Incluidas】Este kit incluye herramientas esenciales para el dibujo de cejas, asegurando una aplicación fácil y un acabado profesional. Los accesorios están especialmente diseñados para esculpir, definir y perfeccionar la forma de las cejas.
-- 【Fórmula de Larga Duración】Los lápices de cejas de nuestro conjunto garantizan una durabilidad extendida, resistiendo al sudor y al agua. Disfruta de un look impecable durante todo el día sin necesidad de retoques frecuentes.
-- 【Resultados Naturales y Armoniosos】Nuestros lápices para cejas están diseñados para crear cejas de aspecto natural y armonioso. Su fórmula única permite construir la intensidad deseada, desde lo más sutil hasta lo más dramático.
 - 【Aplicación Fácil y Precisa】Con su textura suave y punta fina, estos lápices permiten una aplicación precisa y uniforme. Ideal tanto para principiantes como para maquilladores profesionales, este kit hace que dibujar las cejas sea accesible para todos.
+- 【Herramientas Profesionales Incluidas】Este kit incluye herramientas esenciales para el dibujo de cejas, asegurando una aplicación fácil y un acabado profesional. Los accesorios están especialmente diseñados para esculpir, definir y perfeccionar la forma de las cejas.
+- 【Resultados Naturales y Armoniosos】Nuestros lápices para cejas están diseñados para crear cejas de aspecto natural y armonioso. Su fórmula única permite construir la intensidad deseada, desde lo más sutil hasta lo más dramático.
+- 【Fórmula de Larga Duración】Los lápices de cejas de nuestro conjunto garantizan una durabilidad extendida, resistiendo al sudor y al agua. Disfruta de un look impecable durante todo el día sin necesidad de retoques frecuentes.
 - 【Variedad de Colores Versátiles】Explora nuestra selección de 5 lápices para cejas en tonos variados, diseñados para complementar diferentes colores de pelo y piel. Cada lápiz ofrece una pigmentación intensa para un resultado natural y definido.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

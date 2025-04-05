@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proporciona 80-150 lúmenes
 - Scangrip Lighting
-- Calidad y precisión al alcance de su mano
 - Las dimensiones y el brillo permiten un uso óptimo y fácil para iluminar diversas situaciones: trabajo, automóvil, garaje, salida
+- Proporciona 80-150 lúmenes
+- Calidad y precisión al alcance de su mano
 - Permite una ubicación flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

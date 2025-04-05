@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un bolígrafo: dos puntas para trazos estrechos y anchos
 - Anchos de línea: 3,5 mm y 2,0 mm
-- Disponible en 24 colores
-- Perfecto para escrituras expresivas y diseños decorativos
 - Ideal para llevar un diario y escribir cartas a mano
+- Disponible en 24 colores
+- Un bolígrafo: dos puntas para trazos estrechos y anchos
+- Perfecto para escrituras expresivas y diseños decorativos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B077MQC3CR{{</world>}}

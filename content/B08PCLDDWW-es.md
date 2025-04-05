@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La fórmula de color morado que desaparece ayuda a los niños a ver dónde está el pegamento
-- Se queda transparente al secarse y se aplica sin problemas para lograr un resultado perfecto
-- La fórmula lavable y apta para niños es ideal para su uso en clase y en casa
 - Ideal para estudiantes más pequeños, proyectos en el aula, artes, manualidades y mucho más
+- La fórmula lavable y apta para niños es ideal para su uso en clase y en casa
+- Se queda transparente al secarse y se aplica sin problemas para lograr un resultado perfecto
+- La fórmula de color morado que desaparece ayuda a los niños a ver dónde está el pegamento
 - Incluye: 5 barras de pegamento de color morado que desaparece Elmers (40 g cada una)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

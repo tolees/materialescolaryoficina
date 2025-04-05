@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✔ Dimensiones: 23x10x10cm
-- ✔ Tira en la parte trasera para colgar el portado, incluye identificador personalizable. Perfecto para llevar al cole.
-- ✔ Estuche escolar 3 cremalleras con solapa frontal.
-- ✔ Estuche Escolar Liso. Color: Azul Soft
 - ✔ Súper resistentes: con nervio de refuerzo en la parte frontal y trasera.
+- ✔ Dimensiones: 23x10x10cm
+- ✔ Estuche Escolar Liso. Color: Azul Soft
+- ✔ Estuche escolar 3 cremalleras con solapa frontal.
+- ✔ Tira en la parte trasera para colgar el portado, incluye identificador personalizable. Perfecto para llevar al cole.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZPCPFG4{{</world>}}

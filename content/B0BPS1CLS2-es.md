@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Inicia el año con tu agenda semanal de 12 meses que cubre todo el año, de enero a diciembre 2024
-- Cada semana de enero a diciembre se presenta en 2 páginas donde podrás anotar planes de proyectos, notas y compromisos sin problemas de espacio
 - El paquete incluye una agenda Semanal Vertical Pro con Tapa Dura disponibile en el formato Large 13x21, Color Negro
 - Páginas estructuradas para planificar proyectos, notas y actividades. Incluye adhesivos para personalizar los planes y adhesivos anuales en el lomo
+- Inicia el año con tu agenda semanal de 12 meses que cubre todo el año, de enero a diciembre 2024
+- Cada semana de enero a diciembre se presenta en 2 páginas donde podrás anotar planes de proyectos, notas y compromisos sin problemas de espacio
 - La agenda incluye las icónicas esquinas redondeadas, cierre elástico, marcapáginas de cinta y aviso de "en caso de pérdida" en la portada. Papel marfil sin ácido de 70 g/m²
 
 [🛒 Visítala!!!]({{< param buyurl >}})

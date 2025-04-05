@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sacapuntas con depósito
 - Mensaje “Let’s do it better!” impreso en él
+- Sacapuntas con depósito
 - Goma de borrar
 - Optimo para la vuelta al col
 

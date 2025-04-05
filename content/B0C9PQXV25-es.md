@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【All-Surface Use】 These acrylic pens can be used on a variety of surfaces including paper, wood, fabric, glass and more, making them perfect for all types of projects.
 - 【Multiple Tip Sizes】Our paint pens feature reversible tips that offer both a fine 1mm tip and a broader 3mm chisel tip for versatile use on all surfaces.
-- 【Vibrant Colors】Our 18 pack of acrylic paint pens offer a wide range of bright and vibrant colors to bring your artwork to life.
-- 【Infinite creativity】Whether youre a beginner or a professional, our craft supplies for adults are perfect for unleashing your creativity. Use our paint markers for glass painting, canvas art, or any DIY project you have in mind
 - 【Easy to Use】These paint markers are designed for ease of use, with a comfortable grip and smooth flow for effortless application
+- 【Infinite creativity】Whether youre a beginner or a professional, our craft supplies for adults are perfect for unleashing your creativity. Use our paint markers for glass painting, canvas art, or any DIY project you have in mind
+- 【All-Surface Use】 These acrylic pens can be used on a variety of surfaces including paper, wood, fabric, glass and more, making them perfect for all types of projects.
+- 【Vibrant Colors】Our 18 pack of acrylic paint pens offer a wide range of bright and vibrant colors to bring your artwork to life.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9PQXV25{{</world>}}

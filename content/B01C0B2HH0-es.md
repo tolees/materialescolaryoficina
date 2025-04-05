@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sistema de apoyo trasero
 - Correa del hombro ajustable
 - Cinturón acolchado
-- Sistema de apoyo trasero
 - Dos bolsillos laterales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

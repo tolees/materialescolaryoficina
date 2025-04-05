@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - CAPACIDAD: compartimento principal con cierre de cordón, 2 bolsillos pequeños abiertos y 1 bolsillo oculto con cremallera, un bolsillo en la parte delantera con cremallera
 - ALTA CALIDAD: hecho de tela de algodón y cuero de alta calidad, cremallera dorada con interior suave, lo suficientemente práctico para empacar sus accesorios
-- DISEÑO: estilo bohemio, hermosa apariencia.
 - TAMAÑO: 25 * 14 * 26 cm, longitud de la correa de hombro 85 cm
+- DISEÑO: estilo bohemio, hermosa apariencia.
 - APLICACIÓN: diseño de estilo étnico adecuado para la mayoría de las ocasiones como el trabajo, la escuela o el día a día. Multiusos, se puede utilizar como mochila escolar, mochila, cartera, bolso de viaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})

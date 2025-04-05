@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para papel convencional
 - Punta biselada y Colores intensos
 - 4 anchos distintos de 1, 2 y 5 mm
+- Ideal para papel convencional
 - Tinta con base al agua
 - Punta en cuña duradera
 

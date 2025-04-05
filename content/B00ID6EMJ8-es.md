@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De secado lento
-- Caja de 12 colores surtidos
 - No se decoloran con la luz
 - Blandos y cremosos
+- De secado lento
+- Caja de 12 colores surtidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00ID6EMJ8{{</world>}}

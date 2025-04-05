@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido ligero
-- Ofrece comodidad y libertad de movimiento
 - Material de calidad
+- Ofrece comodidad y libertad de movimiento
+- Tejido ligero
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - producto 1: Una extensa paleta de 24.colores vivos, perfectos para dar rienda suelta a la imaginación
-- producto 2: Estos lápices de colores son óptimos para que los niños a partir de los cinco años aprendan a colorear áreas grandes y medianas
 - producto 2: Fabricados sin madera, estos lápices de colores no se astillan en caso de rotura
-- producto 1: Su tinta con base de agua no se reseca, incluso si permanecen destapados durante un mes (a excepción del negro)
 - producto 2: Tienen un cuerpo de diseño hexagonal y una mina de 2.9 mm fabricada con pigmentos de gran calidad
+- producto 1: Su tinta con base de agua no se reseca, incluso si permanecen destapados durante un mes (a excepción del negro)
 - producto 1: Ideales para subrayar con gran precisión, escribir o crear un código cromático que llame la atención
+- producto 2: Estos lápices de colores son óptimos para que los niños a partir de los cinco años aprendan a colorear áreas grandes y medianas
 - producto 1: Estos rotuladores de colores se presentan en un elegante estuche negro y están especialmente diseñados para adolescentes y jóvenes
 - producto 2: Estos lápices se fabrican en los centros de producción de BIC en Europa
 

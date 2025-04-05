@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gran diversidad de estuches
 - Gama de 46 colores
 - Calidad Alemana
 - Ideal para colorear mandalas y arte terapia
+- Gran diversidad de estuches
 - Hasta 24 horas destapado sin secarse
 
 [🛒 Comprar!!!]({{< param buyurl >}})

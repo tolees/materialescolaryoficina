@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gráficos estadísticos y Picture Plot (análisis matemático de fotografías y secuencias de imágenes de videos)
-- Cálculo de integrales definidas, Sistemas lineales hasta 6 incógnitas, Ecuaciones polinómicas de hasta 6º grado, Cálculo con números complejos, Cálculo vectorial y matricial y Hoja de cálculo
 - NOVEDADES: Pantalla en color de alta resolución, menú 3D: geometría en el espacio, E-CON4: registro de datos en experimentos, Función Catálogo: lista con todos los comandos disponibles en la calculadora, programación Python y color de alta resolución
 - Gráficos 3D y dinámicos, Funciones inversas en coordenadas rectangulares y polares, compuestas, paramétricas e inecuaciones
+- Gráficos estadísticos y Picture Plot (análisis matemático de fotografías y secuencias de imágenes de videos)
+- Cálculo de integrales definidas, Sistemas lineales hasta 6 incógnitas, Ecuaciones polinómicas de hasta 6º grado, Cálculo con números complejos, Cálculo vectorial y matricial y Hoja de cálculo
 - Calculadora gráfica sin CAS con MODO EXAMEN que permite: 12 horas sin acceso a: programas, memoria y anotaciones (eActivity) y no transmite ni guarda información
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

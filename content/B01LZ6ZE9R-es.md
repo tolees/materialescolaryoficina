@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido del paquete: 1.000 grapas
 - Capacidad aproximada de grapado (para papel de 80 g/m²): 20 hojas
+- Contenido del paquete: 1.000 grapas
 - Extremos afilados, para un grapado preciso, resistente y duradero
 - Grapas galvanizadas 22/6 - 24/6 con acabado plata brillante
 

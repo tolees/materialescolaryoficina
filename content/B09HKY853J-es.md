@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ESCRIBE EN TODAS LAS SUPERFICIES: decora y escribe en todas las superficies de papel, plástico, vidrio, porcelana, metal y madera
-- LISTO PARA USAR: No es necesario agitar los marcadores ni presionar antes de usarlos. No contienen xileno
-- BORRABLE EN LAS SUPERFICIES NO POROSAS: Artline Decorite se puede borrar fácilmente en las superficies no porosas utilizando un trapo húmedo
 - Blíster de 4 rotuladores de punta pincel de 1 mm para dibujar con líneas gruesas y finas, contornos y detalles, sombras y colores
 - TINTA ULTRA DENSA: cubre completamente la superficie y destaca en papeles oscuros
+- LISTO PARA USAR: No es necesario agitar los marcadores ni presionar antes de usarlos. No contienen xileno
+- ESCRIBE EN TODAS LAS SUPERFICIES: decora y escribe en todas las superficies de papel, plástico, vidrio, porcelana, metal y madera
+- BORRABLE EN LAS SUPERFICIES NO POROSAS: Artline Decorite se puede borrar fácilmente en las superficies no porosas utilizando un trapo húmedo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HKY853J{{</world>}}

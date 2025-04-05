@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plataforma con ventilación que proporciona un refrescante flujo de aire
-- Ajustable a dos alturas (95 mm y 135 mm)
-- Ángulo ajustable para un confort óptimo
 - Certificado por FIRA International Ltd para cumplir con los requisitos ergonómicos establecidos en la legislación europea de salud y seguridad: EN ISO 9241-5
-- Dos paneles de gran dimensión que proporcionan un agradable efecto masaje
 - Eleva tus piernas favoreciendo la correcta alineación de la columna, aliviando la presión sobre la zona lumbar y mejorando la circulación sanguínea
+- Dos paneles de gran dimensión que proporcionan un agradable efecto masaje
+- Ajustable a dos alturas (95 mm y 135 mm)
+- Plataforma con ventilación que proporciona un refrescante flujo de aire
+- Ángulo ajustable para un confort óptimo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M6AJ6QG{{</world>}}

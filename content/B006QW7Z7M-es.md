@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- No se astilla y resiste mordeduras
+- Lápices de colores intensos. Material: resina
 - Fácil de sacar punta
 - Colores surtidos
-- Lápices de colores intensos. Material: resina
 - Cuerpo hexagonal
-- No se astilla y resiste mordeduras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B006QW7Z7M{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ✔ Dimensiones: 23x10x10cm
 - ✔ Súper resistentes: con nervio de refuerzo en la parte frontal y trasera.
-- ✔ Estuche escolar 3 cremalleras con solapa frontal.
-- ✔ Estuche Escolar Liso. Color: Mint Soft
 - ✔ Tira en la parte trasera para colgar el portado, incluye identificador personalizable. Perfecto para llevar al cole.
+- ✔ Estuche Escolar Liso. Color: Mint Soft
+- ✔ Estuche escolar 3 cremalleras con solapa frontal.
+- ✔ Dimensiones: 23x10x10cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZPDR83C{{</world>}}

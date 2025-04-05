@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El bolígrafo Jazz es de tinta azul certificada para su uso en documentos oficiales
-- El cuerpo tiene un acabado metálico satinado, con clip, anillo y punta para el bolígrafo, y plumín para la estilográfica en color gold a juego para un look original y sofisticado
 - El bolígrafo Jazz, de diseño elegante y atemporal, está equipado con un clip elástico que no estropea la ropa
 - Pelikan, más de 180 años de experiencia en el desarrollo de papelería escolar, artística y de oficina. Productos diseñados para aprender y crecer
+- El bolígrafo Jazz es de tinta azul certificada para su uso en documentos oficiales
+- El cuerpo tiene un acabado metálico satinado, con clip, anillo y punta para el bolígrafo, y plumín para la estilográfica en color gold a juego para un look original y sofisticado
 - Los bolígrafos y las plumas estilográficas son recargables. Se presentan en un elegante estuche, lo que convierte el set en una idea de regalo sofisticada y elegante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

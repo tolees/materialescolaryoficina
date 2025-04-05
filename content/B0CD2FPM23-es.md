@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye: Festivos de España y Portugal. Iconos: cambio horario, inicio estaciones, año nuevo chino. Hojas para notas, hojas para direcciones y hoja datos personales.
 - Agenda anual 2024 Día Página (Enero 2024 - Diciembre 2024). Tamaño de bolsillo: Passport 90 x 140 mm. Idioma agenda: español, inglés y portugués.
 - Papel extra opaco de 70 g/m² FSC Mix Credit que garantiza que el papel procede de bosques medioambientalmente sostenibles.
-- Cubierta cosida de símil piel (papel vinílico) con año en stamping cobre. Bolsillo interior y goma portabolígrafos. Encuadernación cosida con cinta marcador.
+- Incluye: Festivos de España y Portugal. Iconos: cambio horario, inicio estaciones, año nuevo chino. Hojas para notas, hojas para direcciones y hoja datos personales.
 - Contiene: anualidad día por página (sábado y domingo en una misma página), calendarios 2 años, calendario bimensual en cada doble página, recomendaciones, fechas a recordar, planning mensual.
+- Cubierta cosida de símil piel (papel vinílico) con año en stamping cobre. Bolsillo interior y goma portabolígrafos. Encuadernación cosida con cinta marcador.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CD2FPM23{{</world>}}
