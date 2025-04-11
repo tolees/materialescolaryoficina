@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponible en 4 colores
 - Colores elegantes que combinan con todos los entornos de trabajo
-- Alfombrilla para ratón fabricada con base de goma anti-deslizante
 - Alfombrilla apta para ratón óptico
 - Superficie de poliéster resistente que permite una mayor tracción del ratón
+- Disponible en 4 colores
+- Alfombrilla para ratón fabricada con base de goma anti-deslizante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0002AF6BQ{{</world>}}

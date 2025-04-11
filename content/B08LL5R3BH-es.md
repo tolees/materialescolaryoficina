@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tinta lavable de la mayoría de los tejidos.
-- Ideal para colorear y pintar.
 - En estuche de cartón de 12 unidades.
+- Ideal para colorear y pintar.
 - Colores intensos y brillantes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

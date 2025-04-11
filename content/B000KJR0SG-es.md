@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mecanismo de presión, zona de agarre de goma, clip de metal.
 - Plug & Play: ajuste universal para diferentes formatos de mina.
-- De metal, con punta de acero resistente al desgaste, indeleble.
 - Color de texto:/Grosor de trazo: M.
+- De metal, con punta de acero resistente al desgaste, indeleble.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KJR0SG{{</world>}}

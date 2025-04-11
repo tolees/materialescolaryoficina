@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🥕 BONITOS MARCADORES CLAVABLES PARA PLANTAS ideales para identificar las semillas una vez plantadas. Simplemente coloque el cartelito en el bancal, la maceta, el arriate o el macetero
-- 🌻 UTILIZAMOS MADERA 100 % NATURAL NO TRATADA y renunciamos a cualquier recubrimiento de plástico tan nocivo para el medio ambiente. Por eso, el texto puede correrse un poco en la superficie natural
+- 🌾 SET DE GRAN CALIDAD compuesto por 60 marcadores y un rotulador negro de dos puntas. Tamaño de las etiquetas: 15x1,7x0,2cm. Incluye cartelitos y rotulador. Ligeras pizarritas de madera no recubierta
 - 🌿 VERSÁTILES: Se puede escribir por ambas caras de los pequeños letreros y su punta permite clavarlos suavemente en la tierra. Son idóneos como carteles identificadores de flores y plantas
 - 🍂 DISEÑO ATEMPORAL en madera clara que coordinará maravillosamente con sus pequeñas plantas. Pequeñas pizarras ideales para poner el nombre de las hierbas o las flores en el jardín
-- 🌾 SET DE GRAN CALIDAD compuesto por 60 marcadores y un rotulador negro de dos puntas. Tamaño de las etiquetas: 15x1,7x0,2cm. Incluye cartelitos y rotulador. Ligeras pizarritas de madera no recubierta
+- 🥕 BONITOS MARCADORES CLAVABLES PARA PLANTAS ideales para identificar las semillas una vez plantadas. Simplemente coloque el cartelito en el bancal, la maceta, el arriate o el macetero
+- 🌻 UTILIZAMOS MADERA 100 % NATURAL NO TRATADA y renunciamos a cualquier recubrimiento de plástico tan nocivo para el medio ambiente. Por eso, el texto puede correrse un poco en la superficie natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08S7T7KJD{{</world>}}

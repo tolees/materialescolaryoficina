@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Batería de gran capacidad de 5000mAh, podrás disfrutar de muchas más horas de uso sin tener que preocuparte.
 - Xiaomi 13T Pro y su increíble velocidad de carga de 120W, te permitirán pasar del 0% al 100% en tan solo 19 minutos.
+- Experimenta un rendimiento inigualable con Xiaomi 13T Pro, gracias a su potente procesador Mediatek Dimensity 9200+.
 - Pantalla AMOLED CrystalRes 1,5K con tasa de refresco de 144 Hz que te garantiza imágenes vividas y una experiencia de visualización excepcional.
 - Cámara con lentes Leica Summicron, zoom óptico y 50 mm de distancia focal que permite un alto nivel de detalle. Cámara principal 50 MP, teleobjetivo 50 MP y ultra gran angular 12 MP.
-- Experimenta un rendimiento inigualable con Xiaomi 13T Pro, gracias a su potente procesador Mediatek Dimensity 9200+.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9TYC866{{</world>}}

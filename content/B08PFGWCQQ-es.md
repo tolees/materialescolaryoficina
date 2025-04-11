@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Bolígrafo de gel con colores de tinta intensos sin manchas y sin tecnología de sangrado que permiten escribir con una suavidad excelente y una nitidez constante
 - Su estilizado cuerpo con un moderno acabado en mate le da un aspecto elegante y profesional
 - Diseño retráctil para un uso sencillo y práctico con un resistente clip que protege los bolsillos, maletas, mochilas y mucho más
-- Agarre de caucho con contorno para disfrutar de comodidad al escribir
 - Incluye 12 bolígrafos de gel de tinta negra y punta mediana (0,7 mm)
+- Agarre de caucho con contorno para disfrutar de comodidad al escribir
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PFGWCQQ{{</world>}}

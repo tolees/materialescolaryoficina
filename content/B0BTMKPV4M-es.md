@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mochila de 31 cm x 44 cm x 17,5 cm fabricada en Poliéster
-- Compartimento principal de óptima capacidad para llevar libros, ropa y enseres variados; además dispone de espacio acolchado óptimo para portátil o libros
 - Banda trasera para enganchar la mochila al trolley cuando viajes
+- Compartimento principal de óptima capacidad para llevar libros, ropa y enseres variados; además dispone de espacio acolchado óptimo para portátil o libros
+- Mochila de 31 cm x 44 cm x 17,5 cm fabricada en Poliéster
 - Con salida de audio para escuchar música cómodamente
 - Dispone de un compartimento trasero independiente al que se accede desde la parte de atrás, con acceso directo a un bolsillo acolchado específico para llevar el portátil y la Tablet
 

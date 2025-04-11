@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja de ceras en barritas de colores
 - Colores surtidos
+- Caja de ceras en barritas de colores
 - Para dibujo escolar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

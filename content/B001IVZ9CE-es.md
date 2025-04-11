@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 anchos de linea - 2 y 5 mm
-- Disponible en 6 colores
 - Tecnología Antisecado STABILO: Hasta 4 horas destapado sin secarse
+- 2 anchos de linea - 2 y 5 mm
 - Duración XXL
 - Mismo flujo de tinta hasta la útima gora
+- Disponible en 6 colores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001IVZ9CE{{</world>}}

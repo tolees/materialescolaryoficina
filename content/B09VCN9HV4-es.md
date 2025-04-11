@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correas al hombro acolchadas y ajustables
-- Dimensiones: 41 x 30 x 18 cm
 - Bolsillo frontal transparente
+- Correas al hombro acolchadas y ajustables
 - Mochila urbana ligera con un compartimento
+- Dimensiones: 41 x 30 x 18 cm
 - Cinta trasera adaptable a trolley
 
 [🛒 Comprar!!!]({{< param buyurl >}})

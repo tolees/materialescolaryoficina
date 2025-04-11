@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se acabaron las manchas: esta tinta de gel de alta calidad se seca enseguida sin dejar mancha, algo especialmente bueno si eres zurdo
-- Movimiento fluido: siempre es un placer escribir con estos bolis de gel gracias a su suave deslizamiento y su trazo de tinta uniforme
 - Para coleccionistas: My Box of Colours es una caja metálica reutilizable con 10 bolis de gel retráctiles BIC Gel-ocity Quick Dry
 - Variedad de colores: tus notas y proyectos cobrarán vida con estos bolígrafos de gel y sus 10 colores luminosos
+- Movimiento fluido: siempre es un placer escribir con estos bolis de gel gracias a su suave deslizamiento y su trazo de tinta uniforme
+- Se acabaron las manchas: esta tinta de gel de alta calidad se seca enseguida sin dejar mancha, algo especialmente bueno si eres zurdo
 - Tacto agradable: su cuerpo está envuelto por un grip integral de goma que optimiza su manejo y confort mientras tomas notas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

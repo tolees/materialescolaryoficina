@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Producto importado
 - Tiradores de cremallera reflectantes
 - Con divisor interno
-- Producto importado
 - Bolsillo delantero para accesorios
 
 [🛒 Comprar!!!]({{< param buyurl >}})

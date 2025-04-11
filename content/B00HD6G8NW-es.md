@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - COMPATIBILIDAD - Eficiente cargador de carga inferior y abertura rápida,que permite disparar 150 grapas tipo 80 de 4 a 16 mm sin recargar; recomendamos encarecidamente el uso de grapas Tacwise para un rendimiento constante
-- REQUIERE UN COMPRESOR DE AIRE - Opera entre 60 -100 PSI para un grapado rápido y preciso (compresor no incluido)
 - DISEÑO ERGONÓMICO DE 0,9 KG - Diseño robusto y super liviano con un gatillo de doble seguridad y una empuñadura de goma suave para mayor comodidad, mientras que la punta delgada permite obtener resultados de grapado precisos
 - VARIEDAD DE APLICACIONES - Grapadora para tapicería neumática para aplicaciones generales de grapado y tapicería en tareas como el tapizado de sillas, sofás, asientos, la fabricación de cenefas, persianas, toldos, colocación de aislamientos y fieltro para techos y muchas tareas más
 - GRAPADORA PROFESIONAL - Grapadora para tapicería neumática proyectada para brindar precisión y rendimiento en grapado continuo para tapicería o para uso general; se suministra con maletín
 - RENDIMIENTO MAXIMIZADO - Ofrece un modo de disparo secuencial (disparo único) y viene equipada con una cuchilla impulsora de alta durabilidad y un sistema de escape superior che limita el nivel de vibraciones a 1,7 m/s², ofreciendo un rendimiento optimizado
+- REQUIERE UN COMPRESOR DE AIRE - Opera entre 60 -100 PSI para un grapado rápido y preciso (compresor no incluido)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00HD6G8NW{{</world>}}

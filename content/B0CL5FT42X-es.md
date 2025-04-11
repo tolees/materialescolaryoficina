@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tinta a base de agua
-- Ideal para presentación en el escritorio
-- Marcas de punta especiales en 3 anchos de línea diferentes de 1, 2 y 5 mm, punta de cincel duradera
-- Ideal para todos los tipos populares de papel (sin cubierta)
 - Set de escritorio de 16 textliner incluyendo colores neón, pastel y metálico
+- Tinta a base de agua
+- Marcas de punta especiales en 3 anchos de línea diferentes de 1, 2 y 5 mm, punta de cincel duradera
+- Ideal para presentación en el escritorio
+- Ideal para todos los tipos populares de papel (sin cubierta)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL5FT42X{{</world>}}

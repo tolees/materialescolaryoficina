@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Batería de litio de 12V recargable e intercambiable: puede ser usada en todas las herramientas Tacwise de 12V
 - Cuenta con un indicador LED de encendido/apagado, un indicador de nivel de recarga y un gancho de cinturón para el transporte
 - Grapadora y clavadora en una única herramienta: utiliza grapas de 140/6-12 mm y clavos de 180/10 mm y permite disparos únicos y disparos de contacto o golpe
-- Clavadora y engrapadora potente y ergonómica
 - Incluye una bolsa de almacenamiento en neopreno,un cargador con enchufe ingles, un adaptador de enchufe ingles a enchufe europeo, 200 grapas 140/8 mm y 200 clavos 180/10mm
+- Clavadora y engrapadora potente y ergonómica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08G1PZ8Q6{{</world>}}

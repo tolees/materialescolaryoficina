@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cantidad: bolsa de 10 unidades.
 - Tipo de producto: portaminas.
+- Cantidad: bolsa de 10 unidades.
 - Descripción del producto: BIC 896409.
 - Tipo de mina: HB 0,7
 

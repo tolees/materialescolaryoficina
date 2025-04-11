@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Velocidad de lectura de hasta 400 MB/s; velocidad de escritura de hasta 100 MB/s; la velocidad de transferencia dependerá del entorno operativo, del equipo y de otros factores
+- Funciona con conectores USB-A; compatible con Windows Vista, 7, 8, 10, etc; y Mac OS 10.x y versiones posteriores
 - Fabricado en Taiwán; resistente al polvo, a los golpes y a los cambios de temperatura; tamaño: 56,7 × 18 × 9 mm
 - Perfecto para almacenar documentos, fotos y vídeos
 - Lápiz de memoria de 128GB, USB 3.1 de alta velocidad con conector Gen 1 tipo A (compatible con versiones anteriores de USB 3.0, 2.0 y 1.1)
-- Funciona con conectores USB-A; compatible con Windows Vista, 7, 8, 10, etc; y Mac OS 10.x y versiones posteriores
+- Velocidad de lectura de hasta 400 MB/s; velocidad de escritura de hasta 100 MB/s; la velocidad de transferencia dependerá del entorno operativo, del equipo y de otros factores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07RWPF43G{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lote de 100 Subcarpetas FOREVER 180
-- Color: Gris
 - Cartulina 170 gr/m²
 - Tamaño 24x32 cm para A4
+- Color: Gris
+- Lote de 100 Subcarpetas FOREVER 180
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DQMNP6A{{</world>}}

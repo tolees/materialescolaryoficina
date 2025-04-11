@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuentan con más de 1, 13 kilómetros de escritura de media
-- Tamaño de la punta: 1 mm
 - Cantidad: 25 bolígrafos
+- Tamaño de la punta: 1 mm
+- Cuentan con más de 1, 13 kilómetros de escritura de media
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BT552SKV{{</world>}}

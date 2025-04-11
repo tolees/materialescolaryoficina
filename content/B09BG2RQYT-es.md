@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 17 pulgadas de alto x 12 pulgadas de ancho x 6 pulgadas de profundidad
-- Asa de transporte
 - Limpieza localizada
 - Importado
+- Asa de transporte
+- 17 pulgadas de alto x 12 pulgadas de ancho x 6 pulgadas de profundidad
 - 100 % poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

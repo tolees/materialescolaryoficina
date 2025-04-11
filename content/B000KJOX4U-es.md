@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño de la hoja: Din A4
+- Etiquetas para impresoras láser y fotocopiadoras
 - Adhesivo: Permanente
 - Cantidad de etiquetas: 20
-- Etiquetas para impresoras láser y fotocopiadoras
+- Tamaño de la hoja: Din A4
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000KJOX4U{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tinta fabricada en Alemania
 - Diseño original creado por el departamento de I+D de MILAN
+- Longitud de escritura aproximada de 1.200 metros. Punta 1 mm
+- Tinta fabricada en Alemania
 - Bolígrafo Milan P1 touch
 - Con el cuerpo del mismo color que la tinta.
-- Longitud de escritura aproximada de 1.200 metros. Punta 1 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N6ZUXV1{{</world>}}

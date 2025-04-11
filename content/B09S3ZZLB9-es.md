@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- producto 2: Tipo de punta: medio
 - producto 2: Tipo de producto: Bolígrafo de bola
-- producto 1: Tipo de producto: Bolígrafo de bola
+- producto 2: Tamaño: Pack de 4
+- producto 1: Tipo de punta: medio
 - producto 1: Tamaño: Pack de 4
 - producto 1: Color de la tinta: azul
 - producto 2: Color de la tinta: negro
-- producto 2: Tamaño: Pack de 4
-- producto 1: Tipo de punta: medio
-- producto 2: Tipo de punta: medio
+- producto 1: Tipo de producto: Bolígrafo de bola
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09S3ZZLB9{{</world>}}

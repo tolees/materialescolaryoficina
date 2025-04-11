@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color de la tinta: azul
-- Tamaño: Pack de 4
-- Tipo de producto: Bolígrafo de bola
 - Tipo de punta: medio
+- Tamaño: Pack de 4
+- Color de la tinta: azul
+- Tipo de producto: Bolígrafo de bola
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004FTILGC{{</world>}}

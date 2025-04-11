@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tinta con base al agua
-- Punta con refuerzo de metal para una larga vida
-- Con un diseño hexagonal de finas líneas inconfundible
 - Tapón ventilado
 - Apta para usar con reglas y plantillas
-- Paquete de 20 unidades
+- Con un diseño hexagonal de finas líneas inconfundible
 - Tipo de punta: fina con una anchura del trazo de 0.4 mm
+- Paquete de 20 unidades
 - Multicolor
+- Punta con refuerzo de metal para una larga vida
+- Tinta con base al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002GJL9US{{</world>}}

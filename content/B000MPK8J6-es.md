@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tinta con base al agua
+- Punta en cuña duradera
 - Ideal para papel convencional
 - 4 anchos distintos de 1, 2 y 5 mm
-- Punta en cuña duradera
-- Tinta con base al agua
 - Punta biselada y Colores intensos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

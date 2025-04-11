@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Blandos y cremosos
-- De secado lento
 - No se decoloran con la luz
+- De secado lento
+- Blandos y cremosos
 - Caja de 12 colores surtidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ART&FUN BOARD es una pizarra transparente y artística para usar por ambos lados, con pegatinas para decorarla; incorpora especiales sujeciones para colocar las plantillas incluidas o las que se quieran y dibujarlas; también se puede usar la pizarra libremente sin plantillas. Incluye 2 rotuladores y bandeja para jugar dentro y fuera de la casa; ayuda al desarrollo de las habilidades cognitivas y motoras finas a la vez que fomentara el juego de rol; recomendado para niños mayores de 3 años. Peso del producto: 8kg (aprox)
-- Tiene incorporadas unas sujeciones especiales para colocar alguna de las plantillas incluidas u otras para dibujar y calcar; también se puede usar la pizarra libremente sin plantillas
 - ART & FUN BOARD de Feber es una pizarra transparente y artística para usar por ambos lados, de colores muy bonitos
 - Óptimo para jugar dentro y fuera de la casa, ya que, como todos los productos feber es resistente a luz y los cambios de temperatura
+- ART&FUN BOARD es una pizarra transparente y artística para usar por ambos lados, con pegatinas para decorarla; incorpora especiales sujeciones para colocar las plantillas incluidas o las que se quieran y dibujarlas; también se puede usar la pizarra libremente sin plantillas. Incluye 2 rotuladores y bandeja para jugar dentro y fuera de la casa; ayuda al desarrollo de las habilidades cognitivas y motoras finas a la vez que fomentara el juego de rol; recomendado para niños mayores de 3 años. Peso del producto: 8kg (aprox)
+- Tiene incorporadas unas sujeciones especiales para colocar alguna de las plantillas incluidas u otras para dibujar y calcar; también se puede usar la pizarra libremente sin plantillas
 - Incluye 2 rotuladores de colores y una bandeja incorporada en la parte inferior para colocarlos, y varias pegatinas para decorar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

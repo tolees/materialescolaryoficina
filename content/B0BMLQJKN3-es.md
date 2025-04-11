@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- producto 1: Recargable
-- producto 2: Con grip
-- producto 1: Nivel de tinta visible
 - producto 2: Retráctil
-- producto 1: Punta de bola
-- producto 2: Bolígrafo punta de bola
 - producto 1: Bolígrafo retráctil
 - producto 2: Tinta gel
+- producto 2: Bolígrafo punta de bola
+- producto 1: Recargable
+- producto 1: Nivel de tinta visible
+- producto 1: Punta de bola
+- producto 2: Con grip
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BMLQJKN3{{</world>}}

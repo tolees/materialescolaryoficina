@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Espacio extra en la parte superior gracias al cierre Roll-top.
-- Bolsillo trasero seguro para documentos de viaje y cartera.
 - Funda de lluvia incluída cobertura total + material resistente al agua en la base inferior
+- Bolsillo trasero seguro para documentos de viaje y cartera.
 - Acceso con cremallera frontal completo y apertura superior.
 - Capacidad para una cámara sin espejo/CSC/híbrida con objetivo incorporado, 2-3 objetivos adicionales, un flash y otros accesorios.
 

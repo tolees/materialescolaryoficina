@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apta para usar con reglas y plantillas
-- Con un diseño hexagonal de finas líneas
 - Tiene una punta con refuerzo de metal
+- Apta para usar con reglas y plantillas
 - Tinta con base al agua y tapón ventilado
+- Con un diseño hexagonal de finas líneas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000SIVVQG{{</world>}}

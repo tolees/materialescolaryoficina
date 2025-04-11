@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Barníz al agua ecológico. Eco Pencil. Producción climáticamente neutra
-- Mina resistente al agua y permanente
-- Resistente a la acción de la luz
-- Alta resistencia a la rotura
 - Mina de 3.3 mm de alta pigmentación
+- Barníz al agua ecológico. Eco Pencil. Producción climáticamente neutra
+- Alta resistencia a la rotura
+- Resistente a la acción de la luz
+- Mina resistente al agua y permanente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B074GWYF17{{</world>}}

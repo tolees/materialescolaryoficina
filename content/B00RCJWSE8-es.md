@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ELIGE LA TUYA: Las notas Post-it Super Sticky están disponibles en una amplia variedad de colores, tamaños y estilos para darle vida a tus mensajes
+- INCLUYE: Estas notas adhesivas miden 76x76 mm y vienen en un paquete de 24 blocs, con 90 hojas por bloc
+- DOBLE DE PODER ADHESIVO: Su adherencia es el doble que la de las notas originales; las notas Post-it Super Sticky Extra Adhesivas aguantan y duran más; aptas para superficies verticales o difíciles, como pantallas, puertas o paredes
 - SOSTENIBLES Y RECICLADAS: Están fabricadas con fibras de papel y tienen el certificado PEFC; están hechas con un material adhesivo 60% renovable procedente de una planta que crece cada año
 - IDÓNEAS: Para el trabajo, el colegio y el día a día en casa; estas notas son la manera más simple y eficaz de tomar notas, dejar mensajes o recordatorios y asegurarse de que llegan a su destinatario
-- DOBLE DE PODER ADHESIVO: Su adherencia es el doble que la de las notas originales; las notas Post-it Super Sticky Extra Adhesivas aguantan y duran más; aptas para superficies verticales o difíciles, como pantallas, puertas o paredes
-- INCLUYE: Estas notas adhesivas miden 76x76 mm y vienen en un paquete de 24 blocs, con 90 hojas por bloc
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00RCJWSE8{{</world>}}

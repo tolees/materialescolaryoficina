@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Interior: Semana Vista Horizontal. Visión de la semana completa en horizontal que permite la escritura natural. Agenda multilingüe: inglés, francés, italiano, alemán, español, neerlandés, portugués y catalán. Con información en la anualidad de los festivos de los siguientes países: Argentina, Australia, Bélgica, Brasil, Suiza, Chile, Alemania, España, Francia, Reino Unido, Irlanda, Italia, Luxemburgo, Mónaco, México, Países Bajos, Polonia, Portugal, Rumanía, Rusia, Suecia, Ucrania y Estados Unidos.
-- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella. Comprando Finocam, adquieres productos de calidad, sostenibles y respetuosos con el medio ambiente.
 - Duración: Julio 2023 - Diciembre 2024 (18 meses)
+- Interior: Semana Vista Horizontal. Visión de la semana completa en horizontal que permite la escritura natural. Agenda multilingüe: inglés, francés, italiano, alemán, español, neerlandés, portugués y catalán. Con información en la anualidad de los festivos de los siguientes países: Argentina, Australia, Bélgica, Brasil, Suiza, Chile, Alemania, España, Francia, Reino Unido, Irlanda, Italia, Luxemburgo, Mónaco, México, Países Bajos, Polonia, Portugal, Rumanía, Rusia, Suecia, Ucrania y Estados Unidos.
 - Contenido: La anualidad de la agenda incluye la información relativa a festivos. La agenda dispone también de otros contenidos extra: datos personales, calendarios, fechas a destacar, códigos de países, mapa de los husos horarios, festivos internacionales, tallas de ropa, horario, cosas que hacer, planificación mensual cuadriculada de 18 meses, hojas para anotaciones y hojas para contactos.
+- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella. Comprando Finocam, adquieres productos de calidad, sostenibles y respetuosos con el medio ambiente.
 - Material: Tapas de polipropileno, espiral simple metálica y papel sostenible con certificación FSC. 80gr/m2.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal for use in schools, offices and home
-- Double-sided board
-- Lightweight and long-lasting
 - 30 x 44cm
+- Double-sided board
 - Maintains its original white colour when used with BiC Velleda dry wipe markers
+- Ideal for use in schools, offices and home
+- Lightweight and long-lasting
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000NJY0ZO{{</world>}}

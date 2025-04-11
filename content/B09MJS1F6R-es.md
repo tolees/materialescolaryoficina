@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Size: 256GB
-- Tipo de producto: CELLULAR_PHONE
-- Marca: Apple
 - Apple iPhone 13 Pro, 256GB, Azul alpino - (Reacondicionado)
+- Size: 256GB
+- Marca: Apple
+- Tipo de producto: CELLULAR_PHONE
 - Color: Azul alpino
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

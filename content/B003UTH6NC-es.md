@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño extra-grueso, con un diámetro de 6.25 mm
 - Mina de pigmentación elevada y fácil de afilar
+- Tamaño extra-grueso, con un diámetro de 6.25 mm
 - Vienen en estuche
 - Cuerpo hexagonal de madera
 

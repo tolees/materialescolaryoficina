@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Color negro
-- Caja de 20 100 RT
 - Nuevo revolucionario sistema de tinta que proporciona la máxima suavidad sin borrones y colores vivíos
+- Caja de 20 100 RT
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007VHEPIS{{</world>}}

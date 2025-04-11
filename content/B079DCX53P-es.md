@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene 240 funciones integradas.
-- Perfecto para primaria, instituto y bachillerato.
-- Sistema de menús para cálculos estadísticos.
-- Pantalla de 2 líneas con tamaño de calculadora de sobremesa.
 - Disposición estructurada de las teclas con teclas grandes y tecla de cursor extra-grande.
+- Pantalla de 2 líneas con tamaño de calculadora de sobremesa.
+- Sistema de menús para cálculos estadísticos.
+- Perfecto para primaria, instituto y bachillerato.
+- Tiene 240 funciones integradas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079DCX53P{{</world>}}

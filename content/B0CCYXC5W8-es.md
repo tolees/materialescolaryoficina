@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El cuaderno incluye dos juegos de adhesivos para personalizar tus notas, incluida una selección con citas e ilustraciones del libro que invitan a la reflexión
-- Le Petit Prince caja de regalo con un cuaderno de edición limitada con ilustraciones y citas de la historia, contenidos en un estuche de regalo especial
 - Este festivo cuaderno viene en una caja de regalo negra reutilizable con los mismos gráficos que la tapa del cuaderno
-- Cuaderno con páginas rayadas enriquecidas con ilustraciones originales, tiene una cubierta negra con gráficos dorados y una cita del texto original en francés
 - Cuaderno con esquinas redondeadas, cierre elástico y marcapáginas, papel marfil sin ácido de 100mg/m², pegatinas y bolsillo interior
+- El cuaderno incluye dos juegos de adhesivos para personalizar tus notas, incluida una selección con citas e ilustraciones del libro que invitan a la reflexión
+- Cuaderno con páginas rayadas enriquecidas con ilustraciones originales, tiene una cubierta negra con gráficos dorados y una cita del texto original en francés
+- Le Petit Prince caja de regalo con un cuaderno de edición limitada con ilustraciones y citas de la historia, contenidos en un estuche de regalo especial
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCYXC5W8{{</world>}}
