@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ideal para mandalas y arte terapia
+- Número 1 en Europa
 - Gama de 30 colores
 - Calidad alemana
 - Punta 0,4 mm de fibra con refuerzo de metal
-- Número 1 en Europa
-- Ideal para mandalas y arte terapia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0015IVS7U{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funda de lluvia incluída cobertura total + material resistente al agua en la base inferior
-- Espacio extra en la parte superior gracias al cierre Roll-top.
 - Capacidad para una cámara sin espejo/CSC/híbrida con objetivo incorporado, 2-3 objetivos adicionales, un flash y otros accesorios.
 - Bolsillo trasero seguro para documentos de viaje y cartera.
+- Funda de lluvia incluída cobertura total + material resistente al agua en la base inferior
+- Espacio extra en la parte superior gracias al cierre Roll-top.
 - Acceso con cremallera frontal completo y apertura superior.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

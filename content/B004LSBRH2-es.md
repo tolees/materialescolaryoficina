@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Flash 80
+- Tamaño: 22 x 31 cm
 - Gramaje: 80 g/m2
 - Color: Surtido
-- Tamaño: 22 x 31 cm
+- Flash 80
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B004LSBRH2{{</world>}}

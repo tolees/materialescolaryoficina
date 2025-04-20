@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gramaje: 225 g/m2
-- Tamaño: 24 x 32 cm
 - Cartulina Lustrada
 - Color: Surtido
+- Tamaño: 24 x 32 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KTCZYK{{</world>}}

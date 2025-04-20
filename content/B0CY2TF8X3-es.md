@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horarios y calendarios (del último trimestre de 2023 y de 2024 y 2025 completos). Playlist exclusiva. Página para anotar contactos. Tablas de ahorro. Cierre con goma elástica.
-- Blocs de notas adhesivas con formas. Planificador mensual al inicio de cada mes. Frases mensuales superdivertidas.
 - Esta agenda contiene: 160 páginas. Papel de 100 gr con la certificación FSC. Frases diarias motivacionales. Separadores con pestaña para cada mes. Bolsillo interior de cartón. Regla de plástico interior. 8 hojas de pegatinas.
 - Medidas: 22,1 x 22 x 2,1 centímetros.
 - Agenda escolar realizada en colaboración con Hello Kitty para su 50º aniversario, con organización semanal, va de septiembre de 2024 a finales de agosto de 2025.
+- Horarios y calendarios (del último trimestre de 2023 y de 2024 y 2025 completos). Playlist exclusiva. Página para anotar contactos. Tablas de ahorro. Cierre con goma elástica.
+- Blocs de notas adhesivas con formas. Planificador mensual al inicio de cada mes. Frases mensuales superdivertidas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CY2TF8X3{{</world>}}

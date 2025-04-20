@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - UN PLACER USARLOS. Cuentan con un intenso pigmento y colores vivos y cremosos para una cobertura perfecta. Te permitirán crear capas, mezclar colores y pulir para añadir texturas y conseguir la sombra perfecta, ya sea en papel, papel satinado, lienzo o madera, entre otros.
 - DISEÑADOS PARA FACILITARTE LA VIDA. Gama definitiva de 120 lápices organizados por familias de colores, identificados, numerados y codificados por colores para acertar siempre en tu elección: levanta el lápiz que te guste de las 3 hileras con las que cuenta el bonito estuche de presentación metálico.
-- ENTRENA TUS HABILIDADES. Nuestro exclusivo tutorial desplegable te permite mejorar tus habilidades de dibujo con lápices de colores mediante la recreación de la impresionante ilustración del castillo de Camelot de la funda.
-- BLANDOS PERO DURADEROS. La fórmula más innovadora y avanzada a cargo de técnicos y artistas locales ha conseguido unas minas blandas que se deslizan a la perfección, pero que también son capaces de resistir la presión y conservar la punta.
 - PROBADOS, FIABLES Y GARANTIZADOS. Probados por los expertos de nuestro estudio para superar a la competencia. Los críticos más expertos confían en ellos: contamos con 2,5 millones de clientes en todo el mundo y, si no te convencen, te devolvemos el dinero.
+- BLANDOS PERO DURADEROS. La fórmula más innovadora y avanzada a cargo de técnicos y artistas locales ha conseguido unas minas blandas que se deslizan a la perfección, pero que también son capaces de resistir la presión y conservar la punta.
+- ENTRENA TUS HABILIDADES. Nuestro exclusivo tutorial desplegable te permite mejorar tus habilidades de dibujo con lápices de colores mediante la recreación de la impresionante ilustración del castillo de Camelot de la funda.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07D2BC91B{{</world>}}

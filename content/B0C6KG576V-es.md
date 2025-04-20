@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 【VERDE Y PRODUCCIÓN DEL AMBIENTE】El papel que utilizamos procede de bosques sostenibles y neutros en carbono y cumple las normas medioambientales. Asumimos activamente la responsabilidad de proteger el medio ambiente y nos comprometemos a promover el desarrollo sostenible y reducir el daño a los recursos naturales.
 - 【PÁGINAS ADICIONALES】La agenda semanal también incluye una página de "Plan 2024-2025", días festivos internacionales, página de gastos, página de cumpleaños, página de contacto y página de trazado de puntos.
 - 【AGENDA 2024】 está diseñada para ayudarle a planificar mejor su tiempo. Nuestro planificador semanal contiene dos páginas cada semana dedicadas a su plan semanal. Cada página tiene espacio suficiente para que des rienda suelta a su creatividad e inspiración, registrando cada momento e idea importante.
 - 【PIEL Y PAPEL GRUESO】La cubierta es de suave piel de PU, un tamaño pequeño para llevar a todas partes. El papel marfil sin ácido de 100 GSM es de alta calidad, resistente a las manchas y suave para escribir. La encuadernación con doble alambre hace que la agenda sea más fuerte y duradera.
-- 【VERDE Y PRODUCCIÓN DEL AMBIENTE】El papel que utilizamos procede de bosques sostenibles y neutros en carbono y cumple las normas medioambientales. Asumimos activamente la responsabilidad de proteger el medio ambiente y nos comprometemos a promover el desarrollo sostenible y reducir el daño a los recursos naturales.
 - 【VARIOS DISEÑOS DE POSICIONAMIENTO】Las esquinas de arranque fácil le permiten visualizar su progreso a lo largo del año y localizar rápidamente la página actual. El marcador de cinta le permite localizar las páginas importantes en cualquier momento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

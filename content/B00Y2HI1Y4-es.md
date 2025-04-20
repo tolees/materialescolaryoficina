@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 4.DIMENSIONES DE LA TRITURADORA DE DOCUMENTOS: las dimensiones de la P-25S son 16 x 30,2 x 30 cm, lo que la convierte en la opción perfecta para uso doméstico y se puede colocar fácilmente debajo de los escritorios. 5. GARANTÍA - La trituradora P-25S viene con 1 año de garantía en la máquina y 1 año en el bloque de corte.
 - 2. CICLO DE TRABAJO: la trituradora de documentos P-25S tritura continuamente hasta 3 minutos antes de requerir un período de enfriamiento de 25 minutos, perfecta para uso personal y doméstico ocasional.
-- 3. VACIADO FÁCIL DE LA CAJA - La destructora de documentos P-25S tiene una capacidad de 11 L con una ventana de visualización del nivel de llenado - Para vaciar la papelera de la destructora de documentos, simplemente levante la cabeza destructiva de la destructora.
 - 1. NIVEL DE SEGURIDAD DE CORTE MEDIO: la trituradora P-25s puede triturar hasta 5 hojas de papel por pasada en 30 tiras de 7 mm por hoja A4 (DIN P-1) y puede funcionar hasta 3 minutos antes de cortar. requieren un período de enfriamiento de 25 minutos.
+- 4.DIMENSIONES DE LA TRITURADORA DE DOCUMENTOS: las dimensiones de la P-25S son 16 x 30,2 x 30 cm, lo que la convierte en la opción perfecta para uso doméstico y se puede colocar fácilmente debajo de los escritorios. 5. GARANTÍA - La trituradora P-25S viene con 1 año de garantía en la máquina y 1 año en el bloque de corte.
+- 3. VACIADO FÁCIL DE LA CAJA - La destructora de documentos P-25S tiene una capacidad de 11 L con una ventana de visualización del nivel de llenado - Para vaciar la papelera de la destructora de documentos, simplemente levante la cabeza destructiva de la destructora.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00Y2HI1Y4{{</world>}}

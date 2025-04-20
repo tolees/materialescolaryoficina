@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manual loading paper shredder for A4 paper, staples, paper clips, CDs and credit cards, Security level (DIN P-4) particle sizes 4x35 mm
 - Note Unplug the machine to allow it to cool and possibly remove the head, make sure nothing is blocking the sensors and put the head back in place
 - Contents 1 Fellowes 53C Individual Shredder, Bin Volume 23 L, Dimensions (HxWxD) 40.00 x 33.50 x 19.60, Weight 6.8 kg, Voltage 220-240 V, Black, 4653101
 - Design device ideal for home and teleworking, Practical use thanks to the viewing window, 2-year warranty (5 years on cutting cylinders)
-- Capacity to pass 10 A4 sheets (70 g/m²) at a time, Operating cycle 3 min continuously, Cooling period 30 min, 23 L trash can, removable lid/motor easy to empty
 - No paper jams thanks to the reverse function. Not suitable for transparencies, Low noise operation
+- Capacity to pass 10 A4 sheets (70 g/m²) at a time, Operating cycle 3 min continuously, Cooling period 30 min, 23 L trash can, removable lid/motor easy to empty
+- Manual loading paper shredder for A4 paper, staples, paper clips, CDs and credit cards, Security level (DIN P-4) particle sizes 4x35 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AF2WYV6{{</world>}}

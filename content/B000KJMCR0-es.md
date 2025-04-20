@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Medidas: 63.5 x 29.6
 - Din A4
 - Estas etiquetas Plata resistentes a la intemperie te permitirán señalizar de forma clara y duradera los materiales más variados
 - Etiquetas Plata resistentes a la intemperie (Poliéster)
-- Medidas: 63.5 x 29.6
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KJMCR0{{</world>}}

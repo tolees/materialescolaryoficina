@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo nivel de polvo para obtener líneas nítidas y limpias y resultados sin borrones
-- Proporciona el mismo nivel de dureza y resistencia a la rotura que los lápices de madera estándar
-- Resistentes a las roturas y fáciles de afilar
-- Ideales para bocetos y sombreados
 - El paquete incluye: 12 lápices HB de grafito
+- Ideales para bocetos y sombreados
+- Resistentes a las roturas y fáciles de afilar
+- Proporciona el mismo nivel de dureza y resistencia a la rotura que los lápices de madera estándar
+- Bajo nivel de polvo para obtener líneas nítidas y limpias y resultados sin borrones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RB6YJLL{{</world>}}

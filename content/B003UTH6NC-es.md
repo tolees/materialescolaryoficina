@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuerpo hexagonal de madera
-- Vienen en estuche
 - Tamaño extra-grueso, con un diámetro de 6.25 mm
 - Mina de pigmentación elevada y fácil de afilar
+- Vienen en estuche
+- Cuerpo hexagonal de madera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003UTH6NC{{</world>}}

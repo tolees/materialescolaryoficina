@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cálculos en grado centesimal, grado sexagesimal y medida de arco, transformación de sexagesimal a decimal y viceversa, sistema automático de cálculo de fracciones
-- 1 memoria de medias, 8 memorias de constantes, Función SCI/FIX/ENG, Cálculo de porcentajes, 24 niveles de paréntesis
 - Gran botón de cursor para navegar, recuperar y editar cálculos; cómodo sistema de menús para cálculos estadísticos
-- Pantalla de clara disposición como, p; ej., símbolo de separación de millares, indicación exponencial como símbolo x10, mayor presentación de la línea superior, etc
 - Funciones de trigonometría, Conversión de coordenadas polares en coordenadas rectangulares y viceversa, Funciones hiperbólicas e hiperbólicas inversas
+- Pantalla de clara disposición como, p; ej., símbolo de separación de millares, indicación exponencial como símbolo x10, mayor presentación de la línea superior, etc
+- 1 memoria de medias, 8 memorias de constantes, Función SCI/FIX/ENG, Cálculo de porcentajes, 24 niveles de paréntesis
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KJZM3QP{{</world>}}

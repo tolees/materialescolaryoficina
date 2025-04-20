@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tinta termosensible
 - Recargable
 - Punta de bola
-- Tinta termosensible
 - Bolígrafo borrable por fricción
 - Con capuchón
 

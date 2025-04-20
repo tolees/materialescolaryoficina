@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Batería de 20 V y 2000 mAh, intercambiable entre todas las herramientas de la serie CecoRaptor Perfect de 20V. Con la batería de 2000 mAh consigues una autonomía de hasta 30 minutos garantizando la completa ejecución de todos tus proyectos de bricolaje, manualidades, restauración de muebles, tapizados, trabajos escolares y un sin fin de tareas divertidas.
-- Capacidad del cargador para 100 grapas del tipo 55 (de longitud entre 15 y 25 mm) o 50 clavos del tipo 47 de longitudes 15/20/25/32 mm. Con indicador del nivel de llenado del cargador, para el control de la reserva de grapas y clavos.
 - Luz de trabajo led, que permite su uso en zonas con poca iluminación.
-- Indicador LED luminoso. Con su indicador LED incorporado en la batería, puedes saber cuándo está lista para usar o en qué estado de carga se encuentra la batería del dispositivo, sin necesidad de conectarla a la herramienta.
 - Con una velocidad de trabajo de 30 disparos por minuto, podrás realizar de forma rápida y efectiva todos tus trabajos de bricolaje.
+- Capacidad del cargador para 100 grapas del tipo 55 (de longitud entre 15 y 25 mm) o 50 clavos del tipo 47 de longitudes 15/20/25/32 mm. Con indicador del nivel de llenado del cargador, para el control de la reserva de grapas y clavos.
+- Indicador LED luminoso. Con su indicador LED incorporado en la batería, puedes saber cuándo está lista para usar o en qué estado de carga se encuentra la batería del dispositivo, sin necesidad de conectarla a la herramienta.
+- Batería de 20 V y 2000 mAh, intercambiable entre todas las herramientas de la serie CecoRaptor Perfect de 20V. Con la batería de 2000 mAh consigues una autonomía de hasta 30 minutos garantizando la completa ejecución de todos tus proyectos de bricolaje, manualidades, restauración de muebles, tapizados, trabajos escolares y un sin fin de tareas divertidas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TBCTM53{{</world>}}

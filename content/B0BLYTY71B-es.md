@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Inclinación para dibujar y alta precisión】El bolígrafo lapiz ipad admite la función de inclinación en las aplicaciones (SketchBook, Procreate, Paper, Noteshelf). Puede ajustar el grosor de línea de acuerdo con el ángulo de inclinación de la punta del lápiz. Diseñado con punta de lápiz de 1,5 mm para una precisión de punta de lápiz de píxeles y una excelente respuesta en el iPad. Dibuja suavemente y delicadamente sin demora y sin demora.
+- 【Consejos cálidos】Paperfeel ofrece 1 año de servicio al cliente y soporte técnico. Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros. Le responderemos dentro de las 24 horas. Desmarque "Dibujar solo con lápiz de Apple" en tabletas antes de usarlo.
 - 【Compatibilidad】2a generación lápiz para apple ipad pencil 2018-2022: iPad 10,2 pulgadas (6a /7a /8a /9a Generación), iPad 10,9 pulgadas (10a Generación), iPad Air (3a, 4a, 5a, Gen), iPad Mini (5a /6a Gen), iPad Pro 11 pulgadas todos los modelos y iPad Pro 12,9 pulgadas (3a /4a /5a /6a Gen).
 - 【Palm Rejection & Adsorción magnética】 Actualiza el pencil for apple ipad con la rejección de palma. No es necesario usar un guante incómodo y puede colocar su palma, mano o dedo en la tableta mientras dibuja, dibuja y escribe. Solo ciertos modelos admiten la función de fijación magnética.
-- 【Consejos cálidos】Paperfeel ofrece 1 año de servicio al cliente y soporte técnico. Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros. Le responderemos dentro de las 24 horas. Desmarque "Dibujar solo con lápiz de Apple" en tabletas antes de usarlo.
+- 【Inclinación para dibujar y alta precisión】El bolígrafo lapiz ipad admite la función de inclinación en las aplicaciones (SketchBook, Procreate, Paper, Noteshelf). Puede ajustar el grosor de línea de acuerdo con el ángulo de inclinación de la punta del lápiz. Diseñado con punta de lápiz de 1,5 mm para una precisión de punta de lápiz de píxeles y una excelente respuesta en el iPad. Dibuja suavemente y delicadamente sin demora y sin demora.
 - 【Batería de larga duración】 El caneta lápiz para ipad solo necesita aproximadamente 1,5 horas para cargar y se puede utilizar durante aproximadamente 10 horas. Con la función inteligente de ahorro de energía, el lápiz digital apaga automáticamente la energía cada 5 minutos para ahorrar la duración de la batería. No requiere Bluetooth ni aplicaciones.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

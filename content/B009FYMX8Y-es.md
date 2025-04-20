@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de mina: HB 0,7
 - Descripción del producto: BIC 896409.
-- Tipo de producto: portaminas.
 - Cantidad: bolsa de 10 unidades.
+- Tipo de mina: HB 0,7
+- Tipo de producto: portaminas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B009FYMX8Y{{</world>}}

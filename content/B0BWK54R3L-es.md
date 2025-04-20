@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintas acolchadas
 - Mochila de deporte para niños
+- Cintas acolchadas
 - Color negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Disponible en 4 colores
 - STABILO Tecnología antiseco: 4 horas de protección contra la desecación
 - 2 grosores de trazo: 2 + 5 mm
-- Tinta antilubricante patentada para marcar copias, impresiones de inyección de tinta, fax o manuscrita
 - Forma clásica Boss con zona de agarre ergonómica suave
+- Tinta antilubricante patentada para marcar copias, impresiones de inyección de tinta, fax o manuscrita
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SY8THVW{{</world>}}

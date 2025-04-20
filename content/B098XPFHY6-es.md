@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de gran calidad. Fabricado en España y recomendado por los educadores escolares.
 - Es un perfecto regalo para los niños, es educativo y divertido. ¡Diversión asegurada con la plastilina de toda la vida! Inspira su imaginación y creatividad. Podrán hacer sus propios diseños y explorar diferentes técnicas jugando y haciendo manualidades. Ideal para niños y niñas a partir de 2 años. Ideal para fomentar la igualdad y la diversidad cultural en el aula.
+- Kit pastilina Jovi - 6 barritas de 15 gramos. MULTICULTURAL Colors: Nueva gama de colores de Plastilina, 6 nuevos colores para recrear las diferentes tonalidades del mundo. Modelable con una gran plasticidad, perfecto para crear figuras con utensilios en 3D o en plano.
 - Pasta de modelar base vegetal, libre de los principales alergenos, no tóxica y que no contiene gluten.
 - Plastilina que no se seca, es reutilizable y muy fácil de limpiar.
-- Kit pastilina Jovi - 6 barritas de 15 gramos. MULTICULTURAL Colors: Nueva gama de colores de Plastilina, 6 nuevos colores para recrear las diferentes tonalidades del mundo. Modelable con una gran plasticidad, perfecto para crear figuras con utensilios en 3D o en plano.
+- Producto de gran calidad. Fabricado en España y recomendado por los educadores escolares.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098XPFHY6{{</world>}}

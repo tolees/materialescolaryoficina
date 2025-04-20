@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tacker para uso ocasional en el hobby y ocio
 - Puede usar grapas de 6mm, 8mm y 10mm
+- Tacker para uso ocasional en el hobby y ocio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0043C1YTW{{</world>}}

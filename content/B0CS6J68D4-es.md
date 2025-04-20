@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ideal para llevar libros, libretas, carpetas y carpesanos de tamaño DIN A4.
-- Mochila de 33 cm x 48 cm x 17 cm fabricada en Poliéster.
-- Principal compartimento de mayor tamaño y capacidad y segundo compartimento idoneo para artículos más pequeños.
 - Bolsillos laterales perfectos para llevar botellas de agua o artículos pequeños.
+- Principal compartimento de mayor tamaño y capacidad y segundo compartimento idoneo para artículos más pequeños.
+- Mochila de 33 cm x 48 cm x 17 cm fabricada en Poliéster.
 - Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

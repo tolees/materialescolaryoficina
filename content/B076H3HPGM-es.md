@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 28 altura x 21 ancho x 19 profundidad cm
-- Mochila infantil
-- 100% Poliamida
-- 0.26kg peso x 7L volumen
 - Hidrófugo
+- Mochila infantil
+- 0.26kg peso x 7L volumen
+- 28 altura x 21 ancho x 19 profundidad cm
+- 100% Poliamida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B076H3HPGM{{</world>}}

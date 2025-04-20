@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de usar
-- Gama de 40 colores
 - Calidad alemana
+- Gama de 40 colores
+- Fácil de usar
 - Punta 0.4 mm de fibra con refuerzo de metal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

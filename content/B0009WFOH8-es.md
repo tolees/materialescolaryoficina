@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca : stabilo
 - Tipo : fluorescente
-- Trazo : 2/5 mm
 - Color : verde
+- Trazo : 2/5 mm
+- Marca : stabilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0009WFOH8{{</world>}}

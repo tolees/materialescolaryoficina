@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para dibujo escolar
 - Colores surtidos
 - Caja de ceras en barritas de colores
+- Para dibujo escolar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0054IRWNG{{</world>}}

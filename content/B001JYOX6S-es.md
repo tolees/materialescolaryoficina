@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Trazo medio
 - Con cuerpo de plástico
-- Zona de agarre ergonómica
 - Juego de 12 unidades
+- Trazo medio
+- Zona de agarre ergonómica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001JYOX6S{{</world>}}

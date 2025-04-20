@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mecanismo de ajuste: Silla regulable en altura, con el mecanismo de inclinación ajustable de acuerdo al peso corporal y se puede bloquear en la posición recta
-- Alta calidad: Cubierta hecha de PU, robusto y fácil de limpiar; asiento tapizado con relleno de esponja extragruesa, con buena elásticidad y Cómodo, resistente a la deformación; ruedas de poliuretano, apenas hacen ruido
-- Altura total: 112-122 cm, Respaldo: altura de aprox. 75 cm, Diámetro de la base: aprox. 66 cm, Asiento: aprox. 53 cm x 51 cm, Altura del reposabrazos: 70-80 cm, Altura regulable del asiento: aprox. 51-61 cm
 - Diseño ergonómico: Silla giratoria a 360º; respaldo curvo en forma ergonómica permite mantener una buena postura y aliviar la columna vertebral; reposacabezas acolchado para proteger el cuello; apoyabrazos acolchado con recubrimiento PU para relajar los brazos. Ideal para las personas quienes suelen pasar largo tiempo ante un escritorio
 - Estable y Confiable: Los accesorios principales, como apoyabrazos, bandeja de metal, ruedas y muelle de gas, son mejorados de alta seguridad, han pasado la prueba BIFMA. La base estrella (5 pies) tiene el diámetro de 66 cm, cuya estabilidad es verificada por SGS. La silla puede soportar hasta 150 kg
+- Altura total: 112-122 cm, Respaldo: altura de aprox. 75 cm, Diámetro de la base: aprox. 66 cm, Asiento: aprox. 53 cm x 51 cm, Altura del reposabrazos: 70-80 cm, Altura regulable del asiento: aprox. 51-61 cm
+- Mecanismo de ajuste: Silla regulable en altura, con el mecanismo de inclinación ajustable de acuerdo al peso corporal y se puede bloquear en la posición recta
+- Alta calidad: Cubierta hecha de PU, robusto y fácil de limpiar; asiento tapizado con relleno de esponja extragruesa, con buena elásticidad y Cómodo, resistente a la deformación; ruedas de poliuretano, apenas hacen ruido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B017TS96RS{{</world>}}

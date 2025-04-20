@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Lectura de marca de 3 rayas
 - Fácil apertura con cordón duradero
 - Bolsillo con cremallera para guardar tu teléfono y cosas pequeñas
-- Lectura de marca de 3 rayas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XN6Y7VH{{</world>}}

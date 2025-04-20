@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Colores surtidos: naranja, rojo, verde, azul, lila y negro; incluye 2 rotuladores mágicos blancos que hacen cambiar los colores
 - Recomendados para niños a partir de 3 años
-- Los rotuladores APLI Kids disponen de capuchón anti asfixia, no son tóxicos ni contienen gluten y su tinta es de la rga duración
 - Pack de 8 rotuladores magic tamaño 14,4 x 137 mm
+- Los rotuladores APLI Kids disponen de capuchón anti asfixia, no son tóxicos ni contienen gluten y su tinta es de la rga duración
 - Rotuladores de cuerpo cilíndrico y punta redonda bloqueada de 7,5 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

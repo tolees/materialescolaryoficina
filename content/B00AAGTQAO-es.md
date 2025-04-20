@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Retráctil
-- Ancho de trazo 0,5mm
 - Carga de tinta de gran capacidad
+- Retráctil
 - Fabricado en un 79% con plásticos reciclados
 - Recargable con recargas de boli STABILO
+- Ancho de trazo 0,5mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AAGTQAO{{</world>}}

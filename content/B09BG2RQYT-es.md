@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 17 pulgadas de alto x 12 pulgadas de ancho x 6 pulgadas de profundidad
 - Limpieza localizada
-- Importado
-- 100 % poliéster
+- 17 pulgadas de alto x 12 pulgadas de ancho x 6 pulgadas de profundidad
 - Asa de transporte
+- 100 % poliéster
+- Importado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09BG2RQYT{{</world>}}

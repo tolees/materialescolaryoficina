@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incluye porta chupete que se engancha a la mochila, perfecto para llevar pequeños accesorios. Con espacio en la parte trasera para escribir el nombre.
-- Asa superior para colgarla de la percha cuando llegue a clase.
 - Mochila de 23 cm x 25 cm x 10 cm fabricada en Poliéster.
+- Asa superior para colgarla de la percha cuando llegue a clase.
 - Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda. Con espacio para escribir el nombre en la parte trasera.
 - Dos bolsillos laterales para llevar la botella de agua, los pañuelos o cualquier otro accesorio pequeño.
 

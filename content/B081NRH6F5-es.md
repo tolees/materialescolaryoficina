@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lápices de color de madera 100% estrictamente controlada con certificación FSC
-- Forma de borde clásica con acabado mate
 - Disponible en 24 colores
-- Colores intensos
+- Forma de borde clásica con acabado mate
+- Lápices de color de madera 100% estrictamente controlada con certificación FSC
 - Diámetro de la mina: 3 mm
+- Colores intensos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B081NRH6F5{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 1.16kg peso x 15L volumen
 - 33 altura x 41 ancho x 17.5 profundidad cm
-- Mochila escolar mediana con funda impermeable flúor
 - Hidrófugo
+- Mochila escolar mediana con funda impermeable flúor
+- 1.16kg peso x 15L volumen
 - 100% Poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

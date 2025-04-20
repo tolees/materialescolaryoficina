@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La trituradora de papel M-7C incorpora una espaciosa papelera de 14 litros y con cabezal extraíble
-- La destructora de documentos M-7C destruye de manera continua durante 5 minutos, tras lo cual necesita un periodo de enfriamiento de 30 minutos
 - La destructora de papel Fellowes M-7C, de corte en partículas, destruye hasta 7 hojas de papel A4 en partículas de 4 x 35 mm (DIN P-4), para una destrucción segura
 - La trituradora de papel M-7C, de uso personal, no solo destruye documentos en partículas ilegibles, sino que también tritura tarjetas de crédito y grapas
+- La destructora de documentos M-7C destruye de manera continua durante 5 minutos, tras lo cual necesita un periodo de enfriamiento de 30 minutos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00ADX9KBY{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 9 Subrayadores Colores Pastel
 - 8 Subrayadores Colores Metalicos
-- Ideal para todos los tipos populares de papel (sin cubierta)
 - Ideal para presentación en el escritorio
 - 7 Subrayadores Colores Neon
 - Tinta a base de agua
-- 9 Subrayadores Colores Pastel
+- Ideal para todos los tipos populares de papel (sin cubierta)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL5HSZKB{{</world>}}

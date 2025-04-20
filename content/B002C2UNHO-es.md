@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- edding 660 marcador para pizarras blancas disponible en 4 colores; edding 663 marcodor para pizarras blancas en otro ancho de línea
+- El empaque contiene 10 rotuladores para pizarras blancas en negro
 - Los marcadores para pizarras blancas con punta redonda son ideales para dibujar símbolos, imágenes y gráficos en reuniones o para el uso diario en la oficina
 - Rotulador de trazo medio para pizarras blancas y papel; la tinta se limpia en seco con facilidad sin dejar rastro en superficies de cristal, esmalte o melamina
-- El empaque contiene 10 rotuladores para pizarras blancas en negro
-- edding 660 marcador para pizarras blancas disponible en 4 colores; edding 663 marcodor para pizarras blancas en otro ancho de línea
 - Tinta resistente a la luz, de secado rápido; puede dejarse destapado varios días sin secarse; puntas de recambio disponibles
 
 [🛒 Visítala!!!]({{< param buyurl >}})

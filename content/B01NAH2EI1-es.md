@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cada figura indica las formas y colores de gomets necesarios para acabar el dibujo
 - Juego compuesto de 16 hojas a cumplimentar y 12 hojas de gomets removibles
 - El niño debe cumplimentar los dibujos con gomets
-- Estimula la psicomotricidad fina
 - Desarrolla la coordinación óculo-manual y la visión espacial
-- Cada figura indica las formas y colores de gomets necesarios para acabar el dibujo
+- Estimula la psicomotricidad fina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NAH2EI1{{</world>}}
