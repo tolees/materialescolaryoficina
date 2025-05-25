@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Din A4
-- Medidas: 210 x 297
-- Etiquetas Plata resistentes a la intemperie (poliéster)
 - Permitirán señalizar de forma clara y duradera los materiales más variados
+- Medidas: 210 x 297
+- Din A4
+- Etiquetas Plata resistentes a la intemperie (poliéster)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000KJO5X4{{</world>}}
