@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Una Exclusiva Producto por Pentel
+- Ref.152452
 - Rotuladores para Pizarra Blanca Maxiflo Violeta - Pentel
 - Maquillaje Sure Este Se por Entrada Su Modelo Número
-- Ref.152452
-- Una Exclusiva Producto por Pentel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000WL4RXS{{</world>}}
