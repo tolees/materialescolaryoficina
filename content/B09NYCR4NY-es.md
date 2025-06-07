@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa ajustable
-- Cremallera
 - Correa acolchada
+- Cremallera
+- Correa ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NYCR4NY{{</world>}}

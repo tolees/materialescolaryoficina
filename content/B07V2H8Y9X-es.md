@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2.31kg peso x 27L volumen
 - 100% Poliéster
 - Mochila grande con ruedas para niños con compartimento para el portátil
+- 2.31kg peso x 27L volumen
 - Hidrófugo
 - 48 altura x 32.5 ancho x 25 profundidad cm
 
