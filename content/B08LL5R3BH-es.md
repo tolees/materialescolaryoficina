@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Faber-Castell 554201 - Estuche cartón con 12 rotuladores escolares'
+date: 2025-06-04 06:06:47
+image: 'https://m.media-amazon.com/images/I/5146JGjI4SL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08LL5R3BH-es Faber-Castell 554201 - Estuche cartón con 12 rotuladores...'
+sku: 'B08LL5R3BH-es'
+tags: [ 'Actividades creativas','Juguetes','Juguetes y juegos','Material de escritura y dibujo para niños','Rotuladores de colores para niños','faber-castell','rotuladores','🇪🇸', ]
+actualPrice: 1.22 EUR
+currency: EUR
+price: 1.22
+comparePrice: 2.32 EUR
+prodname: 'Faber-Castell 554201 - Estuche cartón con 12 rotuladores escolares'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Faber-Castell'
+buyurl: 'https://www.amazon.es/dp/B08LL5R3BH/?tag=tolees-21'
+descuento: '47.41'
+average: '1.778'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Colores intensos y brillantes.
+- Ideal para colorear y pintar.
+- En estuche de cartón de 12 unidades.
+- Tinta lavable de la mayoría de los tejidos.
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B08LL5R3BH{{</world>}}
