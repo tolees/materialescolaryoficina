@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa acolchada
 - ZIP
+- Correa acolchada
 - Correa ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

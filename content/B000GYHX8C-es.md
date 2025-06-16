@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología de la impresora: inyección de tinta
-- Papel de 180 g/m²
-- Contiene 100 hojas
 - Acabado brillante de papel
+- Contiene 100 hojas
+- Papel de 180 g/m²
+- Tecnología de la impresora: inyección de tinta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000GYHX8C{{</world>}}
