@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Permiten el etiquetado rápido y efectivo
 - Tamaño de la etiqueta: 25 x 40 mm
-- Etiquetas de color blanco para escritura manual
 - Tipo de adhesivo: permanente
+- Etiquetas de color blanco para escritura manual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007ORHMSU{{</world>}}

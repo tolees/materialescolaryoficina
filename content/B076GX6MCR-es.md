@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 0,24 kg de peso y 15 L de volumen
-- Repele el agua
 - Mochila mediana (con cordón)
-- 100% poliamida
+- Repele el agua
 - 45 cm de alto x 39,5 cm de ancho x 0 cm de profundidad
+- 0,24 kg de peso y 15 L de volumen
+- 100% poliamida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076GX6MCR{{</world>}}

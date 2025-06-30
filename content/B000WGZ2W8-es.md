@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Longitud de 156 mm. Su diámetro máximo es de 260 mm. y, con alargadera, 395 mm aproximadamente.
-- Su adaptador universal permite crear círculos precisos con todos los instrumentos de escritura y dibujo.
 - Se ajusta fácilmente gracias a su rueda central y mecanismo de ajuste rápido.
 - De color azul y plateado, viene en un estuche de plástico transparente con tapa abatible.
+- Longitud de 156 mm. Su diámetro máximo es de 260 mm. y, con alargadera, 395 mm aproximadamente.
+- Su adaptador universal permite crear círculos precisos con todos los instrumentos de escritura y dibujo.
 - Aguja y minas intercambiables. Aguja roma para prevenir lesiones. Las patas articuladas facilitan el dibujo de radios grandes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

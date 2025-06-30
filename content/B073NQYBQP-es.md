@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Responde al toque de un artista: expresa sin esfuerzo las mejores líneas y bocetos
 - Compatible con Microsoft Surface Pro 4, Surface Pro, Surface Pro 6, Surface Go, Surface Laptop, Surface Laptop 2 y Surface Book 2
+- Responde al toque de un artista: expresa sin esfuerzo las mejores líneas y bocetos
 - La tinta fluye en tiempo real sin retraso
 - Inclina la punta para sombrear tus dibujos como lo harías con un lápiz de grafito
 - Un borrador intuitivo de goma y una batería reemplazable te permitirán trabajar ininterrumpidamente

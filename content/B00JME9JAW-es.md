@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colores intensos y brillantes de aplicación extra suave
-- Fáciles de afilar, incluyen afilalápices
 - Mina protegida contra la rotura gracias al proceso especial de encolado SV
-- Fabricados a partir de madera 100% reforestada gestionada de forma sostenible a nivel medioambiental, económico y social
+- Fáciles de afilar, incluyen afilalápices
 - Ecolápiz de color con forma hexagonal. Fáciles de afilar, incluyen afilalápices de regalo. Estuche de cartón
+- Colores intensos y brillantes de aplicación extra suave
+- Fabricados a partir de madera 100% reforestada gestionada de forma sostenible a nivel medioambiental, económico y social
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00JME9JAW{{</world>}}
