@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gama de 15 colores
-- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
 - Tinta base al agua
+- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
+- Gama de 15 colores
 - Calidad Alemana
 
 [🛒 Comprar!!!]({{< param buyurl >}})

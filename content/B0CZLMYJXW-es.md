@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillo frontal con cremallera
 - Correas acolchadas y ajustables para los hombros
 - Dimensiones: 15 cm x 31 cm x 44 cm
-- Bolsillo frontal con cremallera
 - Bolsillos laterales sin cierre
 - 100% poliéster (reciclado)
 

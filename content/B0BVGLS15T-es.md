@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GRAN CAPACIDAD DE DEPÓSITO: Esta grapadora manual puede albergar 100 grapas 24/6 o 140 de 26/6. Además, puede abrirse hasta 180° para facilitar la tarea de reabastecimiento de grapas.
 - GRAPA HASTA 25 FOLIOS: Nuestra grapadora Universal es compatible con grapas del tipo 24/6 y 26/6. Con las primeras puedes grapar a la vez hasta 20 folios, mientras que con las segundas puedes hacerlo con 25.
-- SOBRE NOSOTROS: Brindarle a cada niño el poder de cambiar el mundo con sus manos, es la razón de ser de Maped. Con nuestros valores de espíritu pionero, responsabilidad y compromiso ciudadano trasladamos nuestro carácter creativo y comprometido.
 - LÍNEA MAPED: Aunque somos la gama clásica, apostamos por renovarnos y adaptarnos a los nuevos tiempos. Entre las diferentes colecciones contamos con: mini cute, nightfall, pastel, color, escolar, escritura, oficina enmarcado y trade marketing.
+- GRAN CAPACIDAD DE DEPÓSITO: Esta grapadora manual puede albergar 100 grapas 24/6 o 140 de 26/6. Además, puede abrirse hasta 180° para facilitar la tarea de reabastecimiento de grapas.
+- SOBRE NOSOTROS: Brindarle a cada niño el poder de cambiar el mundo con sus manos, es la razón de ser de Maped. Con nuestros valores de espíritu pionero, responsabilidad y compromiso ciudadano trasladamos nuestro carácter creativo y comprometido.
 - DOS FUNCIONES EN UNA: Esta grapadora realiza la función tradicional de grapar junto con la de puntear. De esta manera, podrás tener todos tus documentos perfectamente organizados y siempre agrupados.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

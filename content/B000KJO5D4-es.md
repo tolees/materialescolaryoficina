@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack con 100 hojas (6.500 etiquetas)
 - Etiquetas blancas cantos rectos tamaño 38,0 x 21,2 mm con adhesivo permanente para múltiples usos
+- Pack con 100 hojas (6.500 etiquetas)
 - Excelente calidad de impresión en impresoras inkjet, láser o fotocopiadoras
 - Perfectas para identificar envíos de correspondencia, objetos, paquetería o para clasificar
 

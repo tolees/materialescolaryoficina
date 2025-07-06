@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incluye 15 fichas con información detallada en 12 idiomas distintos.
-- Cada juego contiene: 1 escenario imantado de 28 x 18 cm para encajar en la base de la caja y 63 fichas magnéticas con las diferentes partes del cuerpo humano, el esqueleto, los órganos y los músculos.
 - Juego magnético modelo "El cuerpo humano" para ayudar a los niños a familiarizarse con las distintas partes del cuerpo humano.
+- Cada juego contiene: 1 escenario imantado de 28 x 18 cm para encajar en la base de la caja y 63 fichas magnéticas con las diferentes partes del cuerpo humano, el esqueleto, los órganos y los músculos.
 - Recomendado para niños a partir de 5 años.
 - Juego con un alto valor didáctico: fomenta la observación y la imaginación; aumenta la concentración y la atención; y genera interés en objetos y hábitos que desconocen.
 
