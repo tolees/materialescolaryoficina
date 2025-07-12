@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Joma
 - De color negro
+- Marca: Joma
 - Apropiada para guardar equipamiento deportivo
 - Puede llevarse por el asa o a la espalda
 

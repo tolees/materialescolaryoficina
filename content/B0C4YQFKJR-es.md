@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% poliéster reciclado ripstop
+- Correas de hombro ajustables con correa para el pecho
 - Capacidad: 23,25 litros
 - Compartimentos laterales para botellas de agua
+- 100% poliéster reciclado ripstop
 - Dimensiones: 16 x 30 x 46 cm
-- Correas de hombro ajustables con correa para el pecho
 - Panel trasero de malla espaciadora
 
 [🛒 Comprar!!!]({{< param buyurl >}})

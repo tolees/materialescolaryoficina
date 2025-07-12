@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ✔ Estuche Escolar Liso. Color: Azul Soft
-- ✔ Súper resistentes: con nervio de refuerzo en la parte frontal y trasera.
 - ✔ Tira en la parte trasera para colgar el portado, incluye identificador personalizable. Perfecto para llevar al cole.
+- ✔ Súper resistentes: con nervio de refuerzo en la parte frontal y trasera.
 - ✔ Estuche escolar 3 cremalleras con solapa frontal.
 - ✔ Dimensiones: 23x10x10cm
 

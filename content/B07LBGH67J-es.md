@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Regalo adicional con la compra recibe 6 meses de substance by adobe, la suite perfecta para textura de objetos y creación de materiales. O dé rienda suelta a su artista interior con wacom cintiq y hasta 6 meses de suscripcion gratis a clip studio paint ex, el mejor software de pintura todo en uno
 - Compatibilidad windows 7 o posterior, mac os x (10. 11 o posterior)
 - Precisión total captura cada trazo con wacom pro pen 2; la pantalla de cintiq tiene 8192 niveles de presión; gracias al paralaje reducido, el cursor refleja exactamente la posición del lápiz
-- Contenido de la caja cintiq de 15, 6" para todos / wacom pro pen 2 sin pilas / puntas de repuesto / conexión 3 en 1 (hdmi 1. 4, usb2. 0 y fuente de alimentación de ca) / fuente de alimentación de ca
 - Gran definición pantalla de 1920 x 1080 full hd, 16, 7 millones de colores y gama de color del 72 % de ntsc; para proyectos exigentes, con pantalla mate de paralaje reducido; resistente a arañazos
+- Contenido de la caja cintiq de 15, 6" para todos / wacom pro pen 2 sin pilas / puntas de repuesto / conexión 3 en 1 (hdmi 1. 4, usb2. 0 y fuente de alimentación de ca) / fuente de alimentación de ca
+- Regalo adicional con la compra recibe 6 meses de substance by adobe, la suite perfecta para textura de objetos y creación de materiales. O dé rienda suelta a su artista interior con wacom cintiq y hasta 6 meses de suscripcion gratis a clip studio paint ex, el mejor software de pintura todo en uno
 - Dale vida a tus ideas con el monitor interactivo creativo wacom cintiq; sensación de lápiz sobre papel natural, colores intensos y nítida resolución hd; diseño ergonómico para un trabajo más cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

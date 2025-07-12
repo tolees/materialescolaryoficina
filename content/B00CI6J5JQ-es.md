@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye 1 maletín con +140 pinturas (64 ceras, 20 lápices y 40 rotuladores lavables) y 15 láminas de dibujo. Peligro de asfixia: contiene piezas pequeñas. No apto para niños menores de 3 años.
 - Además, incluye 15 láminas de dibujo para colorear en las que podrás probar tus nuevas pinturas e inspirarte a la hora de realizar tus próximos dibujos
+- El kit contiene 64 ceras, 20 lápices de madera y 40 rotuladores lavables de una gran variedad de colores para ofrecerte posibilidades infinitas a la hora de realizar tus obras maestras
+- Incluye 1 maletín con +140 pinturas (64 ceras, 20 lápices y 40 rotuladores lavables) y 15 láminas de dibujo. Peligro de asfixia: contiene piezas pequeñas. No apto para niños menores de 3 años.
 - Los peques de la casa desarrollarán su lado más creativo con este completo kit de pintura para niños en un maletín de +140 ceras, lápices y rotuladores variados
 - Con el maletín podrás transportar fácilmente todas tus pinturas y almacenarlas de forma eficiente y ordenada gracias a sus diferentes compartimentos
-- El kit contiene 64 ceras, 20 lápices de madera y 40 rotuladores lavables de una gran variedad de colores para ofrecerte posibilidades infinitas a la hora de realizar tus obras maestras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CI6J5JQ{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Nuevo revolucionario sistema de tinta que proporciona la máxima suavidad sin borrones y colores vivíos
-- Caja de 20 100 RT, color azul
 - Color azul
+- Caja de 20 100 RT, color azul
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007VHEPPG{{</world>}}

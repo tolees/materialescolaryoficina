@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin ácido y con un pH neutro
 - Están fabricadas en cartulina
 - Son adecuadas para notas, diseños y planificación
 - El paquete contiene 100 tarjetas
-- Sin ácido y con un pH neutro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001AS1GNQ{{</world>}}

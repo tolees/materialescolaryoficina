@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material del producto: cárton y plástico
 - Productos para la oficina y para uso personal
+- Material del producto: cárton y plástico
 - El contenido del paquete tiene 100 piezas
 - Dimensiones del producto: 24 x 31 cm
 - Adecuado para mantener documentos organizados y protegidos

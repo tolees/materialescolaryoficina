@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Bolígrafo borrable por fricción
 - Con capuchón
-- Recargable
-- Punta de bola
 - Tinta termosensible
+- Punta de bola
+- Recargable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FXH2LNS{{</world>}}
