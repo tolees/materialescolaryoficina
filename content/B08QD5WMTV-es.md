@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Uso: caja de rotuladores para niños y adultos creativos. Tinta con fórmula super lavable, se lava fácilmente de la piel y de la mayoría de los tejidos con agua y sin jabón
 - Producción: Made in Italy
-- Diseño: Mix de rotuladores CARIOCA con punta fina , resistente a los golpes y bloqueada. El capuchón ventilado permite el paso del aire para evitar la posibilidad de asfixia
 - Extra: Productos testados dermatológicamente, realizados con tintas seguras, no tóxicas a base de agua y colorantes de uso alimentario. Gluten Free
+- Diseño: Mix de rotuladores CARIOCA con punta fina , resistente a los golpes y bloqueada. El capuchón ventilado permite el paso del aire para evitar la posibilidad de asfixia
 - Producto: Caja de Metal con rotuladores de punta fina con tintas superlavables, 100 rotuladores con colores surtidos, brillantes y vivaces. Tapa ventilada y punta bloqueada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre postal
 - Bolsillos laterales
 - Mochila resistente
-- Cierre postal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3XSQ9QX{{</world>}}

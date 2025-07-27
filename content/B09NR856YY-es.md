@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Correa ajustable
-- Correa acolchada
 - ZIP
+- Correa acolchada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NR856YY{{</world>}}

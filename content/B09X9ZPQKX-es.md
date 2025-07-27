@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Témperas sólidas color pastel, sin disolventes, perfectas para el colegio
-- Se aplica sobre folios, cartulinas, madera, cartón
 - Colores brillantes y lavables con una gran cobertura, fáciles de mezclar y sin disolventes
 - Secado rápido, no arruga el papel
+- Se aplica sobre folios, cartulinas, madera, cartón
 - Acabado satinado, no necesita esmalte protector
+- Témperas sólidas color pastel, sin disolventes, perfectas para el colegio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09X9ZPQKX{{</world>}}

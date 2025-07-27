@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recuadro de color a juego con la tapa
-- Tapa extradura, máxima resistencia y protección de las hojas, y con un tacto suave
-- Formato A4+
-- Espiral simple a juego con la tapa
 - 80 hojas con cuadrícula 5mm x 5mm, sin margen
+- Espiral simple a juego con la tapa
+- Recuadro de color a juego con la tapa
+- Formato A4+
+- Tapa extradura, máxima resistencia y protección de las hojas, y con un tacto suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FTQLM1T{{</world>}}

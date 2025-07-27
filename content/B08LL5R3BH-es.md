@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En estuche de cartón de 12 unidades.
 - Colores intensos y brillantes.
 - Tinta lavable de la mayoría de los tejidos.
+- En estuche de cartón de 12 unidades.
 - Ideal para colorear y pintar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

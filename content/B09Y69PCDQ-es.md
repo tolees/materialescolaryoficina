@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 10 puntas de repuesto y una herramienta de sustitución de puntas que permite cambiar cómodamente una punta vieja por otra nueva.
 - Diseñadas exclusivamente para los lápices del Kindle Scribe básico y prémium.
+- Incluye 10 puntas de repuesto y una herramienta de sustitución de puntas que permite cambiar cómodamente una punta vieja por otra nueva.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09Y69PCDQ{{</world>}}

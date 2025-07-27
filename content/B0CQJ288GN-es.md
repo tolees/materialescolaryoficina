@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Materias primas de primera calidad: Las materias primas son de 1,75 mm PLA (ácido poliláctico). Sin burbujas, sin obstrucciones, impresión suave y moldeo rápido.(3d Pen no incluido).
+- Temperatura de impresión recomendada: 356 °F a 410 °F (180℃~210℃). Diámetro de los recambios de bolígrafo 3d: 1,75mm, y la tolerancia del diámetro es de +/-0,02mm, que es más preciso que otros filamentos PLA con tolerancia de 0,03mm~0,05mm.
 - 15 Colores: El paquete de filamento 1,75mm PLA contiene 15 colores al azar. Ofreciendo más opciones en la creación artística.
 - Compatible con todos los bolígrafos 3D de 1,75 mm, como MYNT3D, SCRIB3D, Saywe, yummici, bolígrafos Acdolf, mientras que no es adecuado para bolígrafos 3Doodler de 2,5 mm.
-- Temperatura de impresión recomendada: 356 °F a 410 °F (180℃~210℃). Diámetro de los recambios de bolígrafo 3d: 1,75mm, y la tolerancia del diámetro es de +/-0,02mm, que es más preciso que otros filamentos PLA con tolerancia de 0,03mm~0,05mm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQJ288GN{{</world>}}

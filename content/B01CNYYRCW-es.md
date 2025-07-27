@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con clip, pulsador y zona de agarre hecho de metal
-- Adecuados para dibujo, el dibujo y la escritura
+- Espesor de la mina de 2 mm
 - Con sacapuntas integrado en el mango
 - Dureza: media pensión (HB)
-- Espesor de la mina de 2 mm
+- Adecuados para dibujo, el dibujo y la escritura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CNYYRCW{{</world>}}

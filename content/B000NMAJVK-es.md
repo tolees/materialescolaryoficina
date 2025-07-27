@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pasta de modelar base vegetal, libre de los principales alergenos, no tóxica y que no contiene gluten.
-- Producto de gran calidad. Fabricado en España y recomendado por los educadores escolares.
-- Es un perfecto regalo para los niños, es educativo y divertido. ¡Diversión asegurada con la plastilina de toda la vida! Inspira su imaginación y creatividad. Podrán hacer sus propios diseños y explorar diferentes técnicas jugando y haciendo manualidades. Ideal para niños y niñas a partir de 2 años.
 - Kit pastilina Jovi - 10 pastillas de 50 gramos. Gran variedad de colores: Blanco, amarillo, naranja, rosa, rojo, marrón, verde claro, azúl claro y azúl marino. Modelable con una gran plasticidad, perfecto para crear figuras con utensilios en 3D o en plano.
+- Es un perfecto regalo para los niños, es educativo y divertido. ¡Diversión asegurada con la plastilina de toda la vida! Inspira su imaginación y creatividad. Podrán hacer sus propios diseños y explorar diferentes técnicas jugando y haciendo manualidades. Ideal para niños y niñas a partir de 2 años.
 - Plastilina que no se seca, es reutilizable y muy fácil de limpiar.
+- Producto de gran calidad. Fabricado en España y recomendado por los educadores escolares.
+- Pasta de modelar base vegetal, libre de los principales alergenos, no tóxica y que no contiene gluten.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000NMAJVK{{</world>}}

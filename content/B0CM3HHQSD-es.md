@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - VARIOS COLORES: Esta alfombrilla para ratón Fellowes, apta para ratón óptico, está disponible en 4 colores diferentes que combinan con todos los entornos de trabajo
+- La siguiente información se aplica a cada unidad del paquete
 - RESISTENTE: Su superficie de poliéster resistente permite una mayor tracción del ratón
 - ANTIDESLIZANTE: Esta alfombrilla para ratón Fellowes tiene base de goma antideslizante que evita cualquier movimiento no deseado
 - RECICLADO: Las alfombrillas para ratón Fellowes están fabricadas con un 50 % de material reciclado.

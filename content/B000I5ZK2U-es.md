@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño eficaz, sencillo y fiable; los bolis tienen un cuerpo transparente que permite comprobar en todo momento el nivel de tinta
 - Una caja que contiene 50 unidades con tinta negra
 - La punta media de 1.0 mm del boli se desliza por el papel con suavidad para ofrecer una escritura sin manchas
-- Diseño eficaz, sencillo y fiable; los bolis tienen un cuerpo transparente que permite comprobar en todo momento el nivel de tinta
 - Fabricados con los materiales mínimos necesarios y certificados con la etiqueta ecológica NF Environnement
 - El resistente bolígrafo BIC Cristal Original cuenta con suficiente tinta negra como para escribir el equivalente a unos 3 km de trazo
 

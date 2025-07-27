@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lápices con mina suave y resistente de 3mm
 - 24 lápices colores borrables con goma
 - Rotuladores con tinta súper lavable
 - Colores surtidos
-- Lápices con mina suave y resistente de 3mm
 - 12 ceras Plastialpino
 - Pack de material escolar económico
 

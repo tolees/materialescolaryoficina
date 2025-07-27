@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los lápices BIC Kids Evolution Ecolutions utilizan materiales reciclados (50 %) y tienen el certificado ecológico NF Environnement
-- El diseño hexagonal de su cuerpo ofrece un agarre firme y evita que rueden por la mesa: adecuados para niños a partir de 5 años
-- Cuerpos de resina sintética sin madera, resistentes a los mordiscos y sin astillas
 - Un blíster de 24 alegres lápices de colores responsables con el medio ambiente de la gama de productos BIC: prepárate para dibujar
+- El diseño hexagonal de su cuerpo ofrece un agarre firme y evita que rueden por la mesa: adecuados para niños a partir de 5 años
+- Los lápices BIC Kids Evolution Ecolutions utilizan materiales reciclados (50 %) y tienen el certificado ecológico NF Environnement
+- Cuerpos de resina sintética sin madera, resistentes a los mordiscos y sin astillas
 - Minas ultraduraderas a las que es muy fácil sacar punta, con una gran concentración de pigmentos y una óptima cobertura
 
 [🛒 Comprar!!!]({{< param buyurl >}})

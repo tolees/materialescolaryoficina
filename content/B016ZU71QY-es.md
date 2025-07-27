@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Las plantillas son reutilizables y las tapas se pueden lavar
 - Set de dibujo Blopens temática cuento de hadas
-- A partir de 5 años
 - Contiene: 8 Blopens, 6 plantillas, 6 hojas de dibujo
+- A partir de 5 años
 - Creación de dibujos con efecto aerográfico soplando los rotuladores Blopens
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

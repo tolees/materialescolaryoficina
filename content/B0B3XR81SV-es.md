@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre postal
 - Bolsillos laterales
+- Cierre postal
 - Mochila resistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

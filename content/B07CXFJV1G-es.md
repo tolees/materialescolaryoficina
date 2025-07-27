@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colores lavables de manos y tejidos y dermatológicamente testados
+- Lápices de colores de mina gigante de Ø 7mm
 - Mina suave, permite extender con facilidad y rapidez el color
 - Realizados con madera de cedro de California
-- Lápices de colores de mina gigante de Ø 7mm
-- Colores lavables de manos y tejidos y dermatológicamente testados
 - Capuchón de seguridad de plástico con sistema anti-mordedura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

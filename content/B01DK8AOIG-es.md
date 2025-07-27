@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disponible en 32 colores brillantes que harán destacar todos sus trabajos
+- Es resistente a los borrones y no pierde color, para que las páginas siempre estén limpias y bonitas
 - El paquete incluye 16 rotuladores: guayaba, fruta de la pasión, papaya, surfs up, buceo, orquídeas lei, lima, lila, amarillo, verde, negro, caléndula, rosa, azul, rojo y púrpura
 - La tinta a base de agua no traspasa el papel para que su escritura se mantenga inalterable
-- Es resistente a los borrones y no pierde color, para que las páginas siempre estén limpias y bonitas
+- Disponible en 32 colores brillantes que harán destacar todos sus trabajos
 - La punta mediana traza líneas atrevidas y expresivas que le permitirán comunicarse con un estilo propio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

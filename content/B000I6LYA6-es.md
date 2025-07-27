@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Muy útil para ti y tu hogar
 - 2 anchos de trazo
+- Muy útil para ti y tu hogar
 - Tinta con base al agua
 - Color verde
 

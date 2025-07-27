@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MATERIAL DE CALIDAD: Todos los artículos que ponemos a tu disposición están fabricados para que te acompañen todo el tiempo posible. La durabilidad y la seguridad son dos requisitos clave que cumplen el material escolar y de oficina.
+- SOBRE NOSOTROS: Brindarle a cada niño el poder de cambiar el mundo con sus manos es la razón de ser de Maped. Con nuestros valores de espíritu pionero, responsabilidad y compromiso ciudadano trasladamos nuestro carácter creativo y comprometido.
 - COLECCIÓN HARRY POTTER: Ir al cole o hacer deberes no tiene porqué ser algo aburrido, por eso nuestra colección de Hogwarts acercará a los más pequeños la magia y la ilusión. Les gustarán tanto sus materiales que no querrán dejar de utilizarlos.
 - LISTOS PARA EL COLE: En Maped encontrarás todo el material escolar necesario para equipar a los más pequeños de la casa. Podrás elegir entre una gama de últimos diseños y variedades de material de papelería, accesorios para pintar o complementos.
-- SOBRE NOSOTROS: Brindarle a cada niño el poder de cambiar el mundo con sus manos es la razón de ser de Maped. Con nuestros valores de espíritu pionero, responsabilidad y compromiso ciudadano trasladamos nuestro carácter creativo y comprometido.
+- MATERIAL DE CALIDAD: Todos los artículos que ponemos a tu disposición están fabricados para que te acompañen todo el tiempo posible. La durabilidad y la seguridad son dos requisitos clave que cumplen el material escolar y de oficina.
 - EL MUNDO EN SUS MANOS: Sin duda alguna es en la infancia cuando todos empezamos a desarrollar la creatividad y necesitamos reforzar la confianza. Con nuestros productos buscamos animar a los más pequeños a confiar en ellos mismos mientras disfrutan.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
