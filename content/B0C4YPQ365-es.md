@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad: 27,4 litros
-- Dimensiones: 15 x 36 x 44 cm
 - Tejido liso 100% poliéster reciclado
+- Dimensiones: 15 x 36 x 44 cm
 - Bolsillos delanteros con cremallera y bolsillos laterales deslizantes
+- Capacidad: 27,4 litros
 - Correas acolchadas ajustables para los hombros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

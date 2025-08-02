@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Paquete de 50 unidades
-- Punto tipográfico medio
 - Se diluye con aguarrás de alcoholes minerales
 - Colores opacos intensivos para papel y cartón, así como madera, lino o arcilla
+- Punto tipográfico medio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000WKKN5A{{</world>}}

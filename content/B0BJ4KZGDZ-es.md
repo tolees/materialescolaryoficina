@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La funda multimedia tiene capacidad para un Apple iPad Pro o tableta de tamaño similar
+- Correas ajustables con detalle de marca jacquard
 - Dimensiones cuando está llena: 10.2 pulgadas de ancho x 3.3 pulgadas de alto x 13 pulgadas de largo
 - Bolsillo interior para botella de agua y bolsillos de organización
-- Asa superior
-- Correas ajustables con detalle de marca jacquard
+- La funda multimedia tiene capacidad para un Apple iPad Pro o tableta de tamaño similar
 - Capacidad: 10 L
+- Asa superior
 - Bolsillo grande con cremallera para objetos de valor en la parte delantera
 - La tecnología UA Storm resistente al agua mantiene tus cosas secas
 

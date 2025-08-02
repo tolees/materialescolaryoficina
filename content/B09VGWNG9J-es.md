@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo frontal y cinta trasera adaptable a trolley
 - Correas al hombro acolchadas y ajustables
 - Dimensiones: 41 x 30 x 18 cm
+- Bolsillo frontal y cinta trasera adaptable a trolley
 - Mochila urbana ligera con un compartimento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

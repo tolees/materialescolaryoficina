@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene 60 lápices de colores pasteles
 - Lápices pastel artistas PITT, con sus pistas libres de aceite son utilizados por artistas como el complemento perfecto para lápices de colores pasteles para la elaboración de los detalles, sino también por su propia cuenta
 - Tienen una pista compacta que contiene los pigmentos de calidad más altos, son ideales para dibujar líneas y sombreado así como mezcla
+- Contiene 60 lápices de colores pasteles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000LY5AF0{{</world>}}

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Lápices de colores de mina gigante de Ø 7mm
 - Capuchón de seguridad de plástico con sistema anti-mordedura
-- Realizados con madera de cedro de California
-- Mina suave, permite extender con facilidad y rapidez el color
 - Colores lavables de manos y tejidos y dermatológicamente testados
+- Mina suave, permite extender con facilidad y rapidez el color
+- Realizados con madera de cedro de California
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CXFJV1G{{</world>}}

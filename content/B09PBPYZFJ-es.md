@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto oficial y original Rainbow High
-- favoritos. Contiene 6 lápices con goma con detalle de sus protagonistas Ruby y Sunny Madison
 - ¿Te gusta Rainbow High? Si eres seguidor de la serie de Netflix y te gustan sus aventuras, no te puede faltar este set de lápices con tus personajes
 - Nuestros lápices destacan por su calidad y durabilidad
+- favoritos. Contiene 6 lápices con goma con detalle de sus protagonistas Ruby y Sunny Madison
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PBPYZFJ{{</world>}}

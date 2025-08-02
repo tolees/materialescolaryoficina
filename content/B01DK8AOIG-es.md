@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La tinta a base de agua no traspasa el papel para que su escritura se mantenga inalterable
+- La punta mediana traza líneas atrevidas y expresivas que le permitirán comunicarse con un estilo propio
 - El paquete incluye 16 rotuladores: guayaba, fruta de la pasión, papaya, surfs up, buceo, orquídeas lei, lima, lila, amarillo, verde, negro, caléndula, rosa, azul, rojo y púrpura
 - Disponible en 32 colores brillantes que harán destacar todos sus trabajos
-- La punta mediana traza líneas atrevidas y expresivas que le permitirán comunicarse con un estilo propio
 - Es resistente a los borrones y no pierde color, para que las páginas siempre estén limpias y bonitas
+- La tinta a base de agua no traspasa el papel para que su escritura se mantenga inalterable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01DK8AOIG{{</world>}}

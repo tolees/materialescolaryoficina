@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 5 ESTILOS DE MINI FIGURAS: Unicornio, Unicornio Arco iris, Dinosaurio, Gato y Panda, ¡colecciónalos todos!
 - MINIFIGURA PARA DECORAR: ¡Se incluyen más de 35 pegatinas, brillantes y un rotulador para personalizar tu minifigura!
 - LUZ LED: Enciende tu miniatura para que emita una suave luz multicolor; óptima para decorar un dormitorio durante el día y tranquilizar la noche con su suave luz.
-- 5 ESTILOS DE MINI FIGURAS: Unicornio, Unicornio Arco iris, Dinosaurio, Gato y Panda, ¡colecciónalos todos!
 - APTO PARA NIÑOS: Nuestras figuras luminosas están fabricadas con materiales de calidad que cumplen todas las normas de seguridad europeas; aptas para niños a partir de 6 años.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Secado al aire en aproximadamente 10 minutos o, más rápido, en el microondas
-- Masa de modelar presentada en un embalaje de aluminio que previene que la pasta de modelar se seque prematuramente
-- Plastilina extremadamente ligera, estable dimensionalmente, con olor natural, sensación agradable al tacto, ya que no se pega y lista para usar
 - Ideal para artistas, manualidades y hobbys, así como actividades educacionales en escuelas y guarderías
+- Plastilina extremadamente ligera, estable dimensionalmente, con olor natural, sensación agradable al tacto, ya que no se pega y lista para usar
+- Masa de modelar presentada en un embalaje de aluminio que previene que la pasta de modelar se seque prematuramente
+- Secado al aire en aproximadamente 10 minutos o, más rápido, en el microondas
 - Fórmula patentada y exclusiva, única en el mundo, probada por toxicólogos independientes para garantizar la seguridad de su uso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

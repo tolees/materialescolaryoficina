@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: negro puma
 - Número de modelo: 079943
 - PUMA Mochila Phase
+- Color: negro puma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWK4ZC81{{</world>}}

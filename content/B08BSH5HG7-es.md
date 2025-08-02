@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - DISEÑO DE FORNITE: Nuestra mochila cuenta con un estampado muy característico y reconocible para todos los amantes de los videojuegos. Se trata de un diseño con el dibujo de la skin Max Drift y el logo de Fortnite en la parte delantera.
 - VARIEDAD DE COMPARTIMENTOS: Todos nuestros modelos de mochilas escolares tienen sus propios espacios de almacenamiento. Encontrarás diferentes gamas de productos para elegir los que más se adapten a las necesidades del pequeño de la casa.
-- ETAPA ESCOLAR: Nuestras mochilas son ideales para que tu pequeño vaya completamente equipado al colegio. Sabemos la importancia que tiene para ellos sentirse cómodos y respaldados, por eso diseñamos todos nuestros modelos pensando en sus necesidades.
-- COLECCIÓN FORTNITE: Seleccionamos las mochilas y estuches con los diseños más divertidos y electrizantes de tus personajes favoritos de Fortnite. Diferentes tamaños y características, pero en todos algo en común, los skins más épicos del videojuego.
 - DIFERENTES TAMAÑOS: En ToyBags sabemos lo importante que es contar con el espacio suficiente para que tu hijo lleve en su mochila todos sus apuntes y cuadernos. Por eso, nuestra mochila tiene unas dimensiones de 41 x 20 x 32 cm, un tamaño ideal.
+- COLECCIÓN FORTNITE: Seleccionamos las mochilas y estuches con los diseños más divertidos y electrizantes de tus personajes favoritos de Fortnite. Diferentes tamaños y características, pero en todos algo en común, los skins más épicos del videojuego.
+- ETAPA ESCOLAR: Nuestras mochilas son ideales para que tu pequeño vaya completamente equipado al colegio. Sabemos la importancia que tiene para ellos sentirse cómodos y respaldados, por eso diseñamos todos nuestros modelos pensando en sus necesidades.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BSH5HG7{{</world>}}

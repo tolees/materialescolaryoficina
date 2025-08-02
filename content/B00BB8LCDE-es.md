@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calidad alemana
-- Gama de 30 colores
-- Punta 0,4 mm de fibra con refuerzo de metal
 - Número 1 en Europa
+- Gama de 30 colores
+- Calidad alemana
+- Punta 0,4 mm de fibra con refuerzo de metal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00BB8LCDE{{</world>}}

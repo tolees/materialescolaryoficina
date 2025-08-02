@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Para todas las superficies (madera, plástico, metal, cartón, vidrio, etc.). y todos los usos
-- Resistencia extrema (calor, frío, clima, luz...)
 - Tinta negra permanente, punta de cincel (3,9 x 5,5 mm)
 - Pentel Pen N60 - Marcadores permanentes (paquete de 12)
+- Resistencia extrema (calor, frío, clima, luz...)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000I6R3LK{{</world>}}
