@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lápiz de alta calidad para escribir, dibujar y esbozar, de alta calidad fabricado en Alemania.
+- Goma de borrar Noris mini: en un instante podrás borrar marcas falsas de lápiz. El pequeño formato práctico cabe en cualquier lugar del estuche.
 - Dureza HB, increíblemente resistente a la rotura gracias a la fórmula especial de la mina y a las minas encoladas, madera procedente de bosques de gestión sostenible.
 - Sacapuntas Noris para lápices en formato estándar de hasta 8,2 mm de diámetro con ángulo de punta de 23° para líneas claras y precisas.
-- Goma de borrar Noris mini: en un instante podrás borrar marcas falsas de lápiz. El pequeño formato práctico cabe en cualquier lugar del estuche.
 - Contenido: Tubo hexagonal transparente con 12 lápices HB, 1 goma de borrar y 1 sacapuntas. Noris - Set de aniversario para cumpleaños, Noris! Celebramos 120 años de creatividad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

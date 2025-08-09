@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Función Smart Sleeve
 - Recyclex y material de recubrimiento PU resistente al agua
+- Función Smart Sleeve
 - Ademas incorpora una funda para la lluvia
 - Mochila para portátil 15.6 pulgadas: 30 x 21 x 45 cm - 23 L - 0.70 kg
 

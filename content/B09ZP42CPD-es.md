@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Anilla de sujeción interno para las llaves
-- Compartimiento Interno para documentos
 - Acceso externo de hidratación
 - Acceso al panel con cierre
+- Anilla de sujeción interno para las llaves
+- Compartimiento Interno para documentos
 - Bolsillos laterales de malla elástica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

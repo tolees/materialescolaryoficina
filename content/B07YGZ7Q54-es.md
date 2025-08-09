@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EL INTERIOR ES CUADRÍCULA de 5x5 mm, con cabecera para títulos. La impresión offset de alta calidad del rayado consigue una mayor sutileza y limpieza, destacando la escritura, facilitando la lectura y el estudio.
 - CUBIERTAS DE CARTÓN reciclado impreso (recuperado post-consumo) de color grafito. Cubierta compacta con serigrafía y grabada. ESPIRAL NEGRO con recubrimiento ecológico y sistema COIL-LOCK que permite abrir en plano del cuaderno, además de dar la vuelta completa y evitar enganches.
+- EL INTERIOR ES CUADRÍCULA de 5x5 mm, con cabecera para títulos. La impresión offset de alta calidad del rayado consigue una mayor sutileza y limpieza, destacando la escritura, facilitando la lectura y el estudio.
 - HOJAS FABRICADAS CON PAPEL SOSTENIBLE. Cuenta con las certificaciones FSC MIX CREDIT, BLUE ANGEL y EU ECOLABEL, garantizando que el papel procede de bosques medioambientalmente sostenibles. Fabricado en España.
 - CUADERNO A5 RECICLADO (148 x 210 mm). Notebook A5 con PAPEL Extra Opaco de 80 g/m² con textura de fibra virgen y un aspecto natural auténtico, 100% recuperado post-consumo.
 - CUADERNO A5 CON 4 FRANJAS DE COLOR para una mejor organización por asignaturas o temas. 120 HOJAS (30 por color) MICROPERFORADAS para un arranque limpio y con 2 taladros para archivar.

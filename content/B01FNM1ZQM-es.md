@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Padded back makes for more comfortable journeys
-- Extra strong design for protection and durability
-- Main compartment with rope and buckle closure
 - Simple, clean design
+- Padded back makes for more comfortable journeys
+- Main compartment with rope and buckle closure
+- Extra strong design for protection and durability
 - Laptop compartment padded, secure laptop sleeve for 15 inch laptop
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recargable
 - Con capuchón
-- Bolígrafo borrable por fricción
-- Tinta termosensible
 - Punta de bola
+- Recargable
+- Tinta termosensible
+- Bolígrafo borrable por fricción
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FXH2LNS{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho de trazo 0,5mm
-- Retráctil
-- Carga de tinta de gran capacidad
-- Recargable con recargas de boli STABILO
 - Fabricado en un 79% con plásticos reciclados
+- Carga de tinta de gran capacidad
+- Ancho de trazo 0,5mm
+- Recargable con recargas de boli STABILO
+- Retráctil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AAGTQAO{{</world>}}

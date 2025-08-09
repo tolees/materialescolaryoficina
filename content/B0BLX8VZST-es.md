@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con correas ajustables
 - Ligera y funcional
 - Bolsillo delantero
+- Con correas ajustables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BLX8VZST{{</world>}}
