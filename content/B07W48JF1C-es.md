@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La perilla para ajustar la fuerza de grapado te da la flexibilidad para clavar grapas en materiales suaves y duros con la mejor profundidad
 - Con un mecanismo para liberar atascos y una ventana transparente para saber cuándo tienes que rellenar con más grapas
 - Cuerpo de acero denso y asa acolchada con goma y contorneada para una operación fiable y cómoda. Acabado antioxidante y perlado para una sensación de primera clase
+- La perilla para ajustar la fuerza de grapado te da la flexibilidad para clavar grapas en materiales suaves y duros con la mejor profundidad
 - Viene con 3 tipos de grapas: Tipo D (200 piezas), tipo U (200 piezas) y tipo T (200 piezas). Rango de tamaños de las grapas aplicables: Tipo D (T50): 4-14 mm. Tipo U (T18): 10-12 mm. Tipo T (clavo plano de calibre 18): 10-14 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

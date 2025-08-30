@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% poliéster reciclado ripstop
+- Panel trasero de malla espaciadora
 - Compartimentos laterales para botellas de agua
+- 100% poliéster reciclado ripstop
 - Capacidad: 23,25 litros
 - Dimensiones: 16 x 30 x 46 cm
-- Panel trasero de malla espaciadora
 - Correas de hombro ajustables con correa para el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

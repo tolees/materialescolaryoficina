@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Perfecto para papel, cartón, vidrio, etc., así como para superficies oscuras
 - Lápiz de color extra grueso, ideal para guarderías y ciclo infantil
-- Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 - Mina extremadamente resistente a la rotura
+- Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 - Lápiz 3 en 1: lápiz de color, cera y lápiz acuarelable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

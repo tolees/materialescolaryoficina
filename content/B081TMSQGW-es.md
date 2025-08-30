@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tapa en el extremo
 - Rotulador de colores intensos
 - Set de 24 rotuladores
-- Tapa en el extremo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081TMSQGW{{</world>}}

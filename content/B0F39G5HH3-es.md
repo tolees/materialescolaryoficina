@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ✔️ FORMATO DÍA PÁGINA: Gracias a su vista diaria, el espacio nunca será un problema. Escribe todo los que necesites cada día sin preocuparte por quedarte sin espacio. Un organizador ideal para tener controladas todas tus tareas y recordatorios de cada día.
 - ✔️ TAMAÑO A6: Compacta y ligera con sus dimensiones A6 (12x17 cm). Es perfecta para llevarla en la mochila o tenerla encima del escritorio sin ocupar espacio.
-- ✔️ TAPA DURA Y ESPIRAL 360º: Una agenda que garantiza resistencia y durabilidad por mucho tiempo gracias a su tapa dura de cartón reforzado. Además, incluye anillas 360º para que puedas abrirla y cerrarla cómodamente.
 - ✔️ AGENDA ESCOLAR 2025-2026: Organiza el nuevo curso con eficiencia gracias a esta agenda escolar súper completa de septiembre a junio. Incluye distintas secciones como horario, planning, exámenes y trabajos, datos de contacto, comunicaciones, calendarios y páginas para notas.
+- ✔️ FORMATO DÍA PÁGINA: Gracias a su vista diaria, el espacio nunca será un problema. Escribe todo los que necesites cada día sin preocuparte por quedarte sin espacio. Un organizador ideal para tener controladas todas tus tareas y recordatorios de cada día.
+- ✔️ TAPA DURA Y ESPIRAL 360º: Una agenda que garantiza resistencia y durabilidad por mucho tiempo gracias a su tapa dura de cartón reforzado. Además, incluye anillas 360º para que puedas abrirla y cerrarla cómodamente.
 - ✔️ AGENDA BILINGÜE: Todo el contenido está en castellano y en inglés, por lo que facilita el aprendizaje y la planificación en ambos idiomas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

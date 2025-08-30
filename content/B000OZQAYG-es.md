@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Anchura de trazo mediano y punta robusta de 1 mm
-- Hasta 24 horas destapado sin secarse
 - Tinta a base de agua, inodoro
+- Hasta 24 horas destapado sin secarse
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000OZQAYG{{</world>}}

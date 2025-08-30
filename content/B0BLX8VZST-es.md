@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo delantero
 - Con correas ajustables
+- Bolsillo delantero
 - Ligera y funcional
 
 [🛒 Aquí!!!]({{< param buyurl >}})
