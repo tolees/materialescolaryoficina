@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'BIC Kids Evolution - Lápices para colorear  blíster de 36 unidades  para actividades creativas en casa y el colegio  colores surtidos  Multicolor'
+date: 2025-08-27 14:08:02
+image: 'https://m.media-amazon.com/images/I/51KXzClzFmL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0781VNK1Y-es BIC Kids Evolution - Lápices para colorear blíster de 36...'
+sku: 'B0781VNK1Y-es'
+tags: [ 'Actividades creativas','Arborist Merchandising Root','Juguetes','Juguetes y juegos','Lápices de colores para niños','Material de escritura y dibujo para niños','Oficina y papelería','Outlet Oficina y papelería','Self Service','Special Features Stores','bic','colorear','ea2646c3-be00-45fe-8702-34c4f95305c9_0','ea2646c3-be00-45fe-8702-34c4f95305c9_701','ea2646c3-be00-45fe-8702-34c4f95305c9_9501','lápices','🇪🇸', ]
+actualPrice: 7.4 EUR
+currency: EUR
+price: 7.4
+comparePrice: 10.83 EUR
+prodname: 'BIC Kids Evolution - Lápices para colorear  blíster de 36 unidades  para actividades creativas en casa y el colegio  colores surtidos  Multicolor'
+country: 'es'
+flag: '🇪🇸'
+brand: 'BIC'
+buyurl: 'https://www.amazon.es/dp/B0781VNK1Y/?tag=tolees-21'
+descuento: '31.67'
+average: '7.26043478260871'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Minas duraderas a las que es muy fácil sacar punta, con una gran concentración de pigmentos y una excelente cobertura- Sus minas de 3,05 mm son rresistentes para dibujar con libertad
+- Los lápices BIC Kids Evolution están fabricados con una mina pigmentada de 3,05 mm de grosor para una gran cobertura- Estos lápices de colores BIC se fabrican en los centros de producción de BIC, caracterizados por su experiencia
+- Cuerpos de resina sintética sin madera, resistentes a los mordiscos y sin astillas
+- El diseño hexagonal de su cuerpo garantiza un agarre firme y evita que rueden por la mesa, optimos para niños a partir de 5 años
+- Un pack de 36 alegres lápices de colores de la gama de productos BIC Kids: Prepárate para dibujar
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0781VNK1Y{{</world>}}
