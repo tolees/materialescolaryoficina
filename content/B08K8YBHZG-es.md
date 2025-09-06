@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido: 1 x Nobo Essence Pizarra no magnética de melamina, Incluye 1 x Bandeja para rotuladores, Dimensiones: (Al x An): 2400 x 1200 mm, 13,2 kg, Blanco, 1915223
 - La pizarra incluye un marco de aluminio anodizado y se fija a la pared mediante un tradicional montaje en esquinas
 - Superficie de la pizarra no magnética de melamina que ofrece un buen nivel de borrado, Diseñada para uso esporádico en la oficina, la escuela o el hogar
+- Contenido: 1 x Nobo Essence Pizarra no magnética de melamina, Incluye 1 x Bandeja para rotuladores, Dimensiones: (Al x An): 2400 x 1200 mm, 13,2 kg, Blanco, 1915223
 - Pizarra no magnética con un marco de aluminio simple para un espacio de escritura amplio que incluye una bandeja para rotuladores para almacenar los marcadores y borradores
 - Mezcla y combina con accesorios para pizarras de la gama Nobo
 

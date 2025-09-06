@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tamaño de la hoja: Din A4
-- Adhesivo: Permanente
-- Cantos: Rectos
-- Etiquetas para impresoras inkjet, láser y fotocopiadora
 - Cantidad de etiquetas: 100
+- Adhesivo: Permanente
+- Etiquetas para impresoras inkjet, láser y fotocopiadora
+- Cantos: Rectos
+- Tamaño de la hoja: Din A4
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000KJOWX2{{</world>}}

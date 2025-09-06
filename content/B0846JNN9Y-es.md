@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño con estampado de Spider-Man
-- Correas de mochila ergonómicas
 - Cuenta con 1 bolsillo delantero
+- Correas de mochila ergonómicas
+- Diseño con estampado de Spider-Man
 - Mochilas para niños
 
 [🛒 Comprar!!!]({{< param buyurl >}})

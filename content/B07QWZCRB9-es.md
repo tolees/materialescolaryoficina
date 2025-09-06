@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajustable en tres alturas diferentes. Extension de espalda patentada y cremallera Zip-In ya integrada. Innovadores arcos de tren mantener la tensión óptima y apoyar la postura natural de su bebe
-- manduca XT: la mochila que se adapta. Este fular portabebés crece con su bebé desde recién nacido hasta niño pequeño. La base se puede ajustar gradualmente (16- 50cm) sencillo sin botones, nudos, velcro ni sistema de cintas
 - Diga adiós al dolor lumbar. Tirantes acolchados blandos (triple ajustable) y un cinturon ergonomico (65-140cm circunferencia) distribuyen el peso del bebé entre los hombros y las caderas de los padres
-- Tejidos de 100% algodón orgánico extra suave. Panel trasero de una sola capa, multi-capa y zona de piernas acolchada. Hebilla de tres puntos segura y fácil de abrir. Cumple con la Directiva CEN/TR 16512:2015 para baby carrier, sling y Mei Tai
 - 3 posiciones de transporte (delante, a la espalda, en la cadera). Gran comodidad de uso. Con capucha. Soporta la posicion M
+- manduca XT: la mochila que se adapta. Este fular portabebés crece con su bebé desde recién nacido hasta niño pequeño. La base se puede ajustar gradualmente (16- 50cm) sencillo sin botones, nudos, velcro ni sistema de cintas
+- Tejidos de 100% algodón orgánico extra suave. Panel trasero de una sola capa, multi-capa y zona de piernas acolchada. Hebilla de tres puntos segura y fácil de abrir. Cumple con la Directiva CEN/TR 16512:2015 para baby carrier, sling y Mei Tai
+- Ajustable en tres alturas diferentes. Extension de espalda patentada y cremallera Zip-In ya integrada. Innovadores arcos de tren mantener la tensión óptima y apoyar la postura natural de su bebe
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07QWZCRB9{{</world>}}

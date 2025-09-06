@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COLOREA: con los rotuladores no tóxicos y lavables incluidos, podrás colorear y personalizar al cachorro con tu imaginación
-- LÁVALO Y VUELVE A COLOREAR: el cachorro, hecho con tejido lavable, se puede lavar en la lavadora y, una vez lavado, estará listo para empezar de nuevo
 - IDEA PARA REGALAR: los niños podrán aprender a cuidar a su cachorro y, usando su imaginación, podrán inventar historias siempre nuevas
+- LÁVALO Y VUELVE A COLOREAR: el cachorro, hecho con tejido lavable, se puede lavar en la lavadora y, una vez lavado, estará listo para empezar de nuevo
+- COLOREA: con los rotuladores no tóxicos y lavables incluidos, podrás colorear y personalizar al cachorro con tu imaginación
 - DESCUBRE EL PELUCHE COLOUR ME PLUSH: un adorable perrito para cuidar y colorear de muchas maneras dejando volar tu imaginación durante horas de diversión creativa
 - INFORMACIÓN ÚTIL: El kit incluye 1 perrito lavable y 3 rotuladores lavables
 

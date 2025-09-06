@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tapón ventilado
-- Tinta con base al agua
-- Multicolor
-- Paquete de 20 unidades
 - Tipo de punta: fina con una anchura del trazo de 0.4 mm
 - Apta para usar con reglas y plantillas
+- Tinta con base al agua
+- Multicolor
+- Tapón ventilado
 - Punta con refuerzo de metal para una larga vida
+- Paquete de 20 unidades
 - Con un diseño hexagonal de finas líneas inconfundible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

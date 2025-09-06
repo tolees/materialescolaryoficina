@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mochila grande con funda para el portátil
-- Hidrófugo
 - 43 altura x 29 ancho x 24 profundidad cm
-- 0.89kg peso x 28L volumen
 - 100% Poliéster
+- Hidrófugo
+- Mochila grande con funda para el portátil
+- 0.89kg peso x 28L volumen
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07V8V2VHP{{</world>}}

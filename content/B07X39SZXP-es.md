@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - EXCELENTE – La AGR («Aktion Gesunder Rücken e.V.», Campaña para las Espaldas Saludables) confirma la ergonomía. Mantenimiento sencillo: lavable a máquina a un máximo de 30 °C. Material: 79 % poliéster, 17 % viscosa, 4 % licra.
-- NUEVO – La Mochila portabebé Embrace de 2 posiciones de Ergobaby ha sido especialmente desarrollada para recién nacidos y bebés. Un sistema de transporte de bebés de rápido y fácil manejo.
 - ULTRALIGERO Y EXTRA SUAVE – El poco material en contacto con el niño y los lados abiertos permiten una buena circulación del aire. Hecho de tela jersey extra suave. Mochila portabebé ligera (aprox. 480 g).
+- NUEVO – La Mochila portabebé Embrace de 2 posiciones de Ergobaby ha sido especialmente desarrollada para recién nacidos y bebés. Un sistema de transporte de bebés de rápido y fácil manejo.
 - MÁXIMO CONFORT DE PORTEO – El cómodo cinturón de sujeción y los tirantes anchos y suaves distribuyen el peso del bebé de manera uniforme. Se ajusta exactamente como un fular elástico.
 - MOCHILA PORTABEBÉ ERGONÓMICA DESDE EL NACIMIENTO – Lleve a su bebé inmediatamente desde el nacimiento (3,2 – 11,3 kg) muy cerca y acurrucado en el cuerpo. El portabebé facilita la ergonómica posición de rana (posición en «M») del bebé.
 

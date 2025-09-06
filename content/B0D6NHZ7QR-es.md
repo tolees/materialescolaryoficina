@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 📒 [AGENDA ESCOLAR DÍA POR PÁGINA]: Esta agenda escolar para el curso 2024-2025 te da el poder de organizar tus días de clase de manera eficiente. Con formato Día por Página para que puedas escribir todas tus notas, eventos, citas o tareas con todo el espacio que necesitas. Incluye meses de septiembre a junio.
-- 📒 [COMODIDAD Y SEGURIDAD]: Protección para todas las hojas con su tapa de plástico duro anti-arañazos. Con su cierre de anillas podrás abrir la agenda cómodamente en 360º.
 - ✅ [COLECCIÓN MEMORY]: La agenda perfecta para los que necesitan planificar sus días, semanas y meses con claridad y no perderse nada
-- 📒 [TAMAÑO A6]: Su tamaño A6 (12x17 cm) la hace compacta y perfecta para transportarla y guardarla en cualquier espacio. Tan ligera que podrás tenerla siempre a mano en el aula o en casa para anotar en ella todo lo que necesites.
+- 📒 [COMODIDAD Y SEGURIDAD]: Protección para todas las hojas con su tapa de plástico duro anti-arañazos. Con su cierre de anillas podrás abrir la agenda cómodamente en 360º.
+- 📒 [AGENDA ESCOLAR DÍA POR PÁGINA]: Esta agenda escolar para el curso 2024-2025 te da el poder de organizar tus días de clase de manera eficiente. Con formato Día por Página para que puedas escribir todas tus notas, eventos, citas o tareas con todo el espacio que necesitas. Incluye meses de septiembre a junio.
 - 📒 [SECCIONES IMPRESCINDIBLES]: Agenda con 288 páginas con distintas secciones súper útiles como horario, calendarios, planning o amplios espacios para notas. Incluye cabecera bilingüe en español e inglés.
+- 📒 [TAMAÑO A6]: Su tamaño A6 (12x17 cm) la hace compacta y perfecta para transportarla y guardarla en cualquier espacio. Tan ligera que podrás tenerla siempre a mano en el aula o en casa para anotar en ella todo lo que necesites.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NHZ7QR{{</world>}}

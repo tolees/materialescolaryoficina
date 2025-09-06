@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Empuñadura ergonómica que permite trabajar sin fatiga . Manejo seguro y cómodo gracias a la empuñadura Softgriff.
-- Libertad inalámbrica para usar con termoadhesivos gracias a la batería de iones de litio de 3,6 V.
 - Se puede utilizar de forma flexible para cualquier tipo de trabajo gracias a su tamaño compacto.
+- Libertad inalámbrica para usar con termoadhesivos gracias a la batería de iones de litio de 3,6 V.
 - Práctico indicador LED de calentamiento y carga. Se suministra en un maletín metálico con cargador y 4 cartuchos de adhesivo de termofusión incluidos.
 - Lista para con solo 30 segundos de calentamiento. Procesa hasta 6 cartuchos de adhesivo de termofusión con una batería totalmente cargada.
 

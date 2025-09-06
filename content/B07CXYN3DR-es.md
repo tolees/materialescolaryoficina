@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Lápices de colores brillantes y variados, de diseño tradicional hexagonal, óptimos para colorear y dibujar
-- Fabricados en WOPEX, innovador material formado por grafito, WPC y una cobertura especial para la superficie del lápiz
 - Lapiceros ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 - Diseño ergonómico que ofrece una experiencia única de escritura, más cómodos de usar por su alta densidad y mayor peso
+- Fabricados en WOPEX, innovador material formado por grafito, WPC y una cobertura especial para la superficie del lápiz
 - La mina homogénea es especialmente resistente a la rotura y no se astilla cuando se rompe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
