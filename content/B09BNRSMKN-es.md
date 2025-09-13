@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Triple resistencia – La nueva fórmula del adhesivo impermeable es resistente al agua y al lavavajillas, a los impactos y a temperaturas extremas (de -50 ºC a 120 ºC).
 - Transparente, rápido y multimaterial – Este pegamento rápido se seca en 3 segundos. Sirve para metal, porcelana, plástico*, madera, caucho, mármol y cuero*.
 - Aplicación con pincel – Loctite Super Glue-3 Pincel es un pegamento líquido de fácil uso, antigoteo, limpio y seguro. Las superficies a pegar deben estar limpias y secas.
+- Triple resistencia – La nueva fórmula del adhesivo impermeable es resistente al agua y al lavavajillas, a los impactos y a temperaturas extremas (de -50 ºC a 120 ºC).
 - Diseño funcional – Este adhesivo multiusos es fácil de usar gracias a su tapón antiobstrucción de fácil apertura. Debe guardarse en vertical y en un lugar fresco y seco.
 - Envío y detalles – Loctite Super Glue-3 Pincel, tubo de pegamento universal líquido, con etilcianoacrilato, transparente, pack de 3 tubos x 5 g, sobre 92% reciclado, n.º artículo: 2343743
 

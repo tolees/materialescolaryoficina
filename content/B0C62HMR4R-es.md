@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 24 lápices de colores de doble punta
-- Optimo para la vuelta al col
 - Se presentan en una caja de lata con el mensaje
+- Optimo para la vuelta al col
 - “Life is full of colours” impreso en ella
 
 [🛒 Comprar!!!]({{< param buyurl >}})

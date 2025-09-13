@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con tapón ventilado anti-atragantamiento; el point 88 está disponible en una amplía gama de colores
-- El rotulador punta fina por excelencia; inconfundible cuerpo hexagonal con diseño de rayas blancas longitudinales
 - Punta de metal reforzado que ofrece resistencia y estabilidad; te permite crear líneas adecuadas
 - Larga resistencia sin tapón, trazo de 0,4 mm y tinta a base de agua lo hacen popular entre artistas y niños
+- Con tapón ventilado anti-atragantamiento; el point 88 está disponible en una amplía gama de colores
+- El rotulador punta fina por excelencia; inconfundible cuerpo hexagonal con diseño de rayas blancas longitudinales
 - Óptimo para escribir, colorear, dibujar, esbozar y trabajar con reglas, escuadras y plantillas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

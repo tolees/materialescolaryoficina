@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tinta con base al agua
-- 2 anchos de trazo
 - Color lavanda
+- Tinta con base al agua
 - Producto de la marca STABILO
+- 2 anchos de trazo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000TKB5D2{{</world>}}

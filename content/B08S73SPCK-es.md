@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apto para reglas y plantillas
-- Alta protección contra el secado sin tapa
 - Grosor de trazo: 0,4 mm
 - Punta metálica para una larga vida útil
+- Apto para reglas y plantillas
+- Alta protección contra el secado sin tapa
 - Disponible en muchos colores brillantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compuesto al 54% de materiales reciclados (sin consumibles). Recargable con los recambios Energel LR7
 - No gotea, no mancha
-- Equipado con un agarre de goma cómodo y un clip de metal
-- Bolígrafo de gel retráctil, punta media, 0,7 mm
 - Secado muy rápido de la tinta, tinta fluida y luminosa, gran comodidad y suavidad de escritura
+- Bolígrafo de gel retráctil, punta media, 0,7 mm
+- Compuesto al 54% de materiales reciclados (sin consumibles). Recargable con los recambios Energel LR7
+- Equipado con un agarre de goma cómodo y un clip de metal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08TRQ1CNN{{</world>}}

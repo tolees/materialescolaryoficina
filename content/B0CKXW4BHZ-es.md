@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa deportiva cómoda de llevar
-- Material de calidad
 - Producto de la marca Puma
+- Material de calidad
+- Ropa deportiva cómoda de llevar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKXW4BHZ{{</world>}}

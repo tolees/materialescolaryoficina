@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 36 colores brillantes de alta pigmentación
 - Textura suave y sedosa. Fácil difuminar con dedos, difumino, tela, papel o pincel
-- Se mezcla y se borra fácilmente
+- 36 colores brillantes de alta pigmentación
 - Tizas pastel blandas enteras
+- Se mezcla y se borra fácilmente
 - Buena adherencia, pero se recomienda usar fijación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

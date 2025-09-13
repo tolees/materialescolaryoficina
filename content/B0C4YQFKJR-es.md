@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 100% poliéster reciclado ripstop
 - Panel trasero de malla espaciadora
-- Dimensiones: 16 x 30 x 46 cm
+- Compartimentos laterales para botellas de agua
 - Correas de hombro ajustables con correa para el pecho
 - Capacidad: 23,25 litros
-- Compartimentos laterales para botellas de agua
+- Dimensiones: 16 x 30 x 46 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4YQFKJR{{</world>}}

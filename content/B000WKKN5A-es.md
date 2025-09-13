@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Colores opacos intensivos para papel y cartón, así como madera, lino o arcilla
-- Paquete de 50 unidades
 - Se diluye con aguarrás de alcoholes minerales
 - Punto tipográfico medio
+- Paquete de 50 unidades
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000WKKN5A{{</world>}}

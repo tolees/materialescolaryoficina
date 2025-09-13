@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiquetas para impresoras inkjet
-- Cantidad de etiquetas: 10
 - Poliéster transparente
+- Cantidad de etiquetas: 10
 - Adhesivo: Permanente
+- Etiquetas para impresoras inkjet
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KJMCPC{{</world>}}

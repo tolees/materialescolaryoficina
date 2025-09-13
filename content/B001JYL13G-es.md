@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adhesivo: Permanente
-- Etiquetas para impresoras láser y fotocopiadoras
 - Resistentes a la intemperie
+- Etiquetas para impresoras láser y fotocopiadoras
+- Adhesivo: Permanente
 - Cantidad de etiquetas: 20
 
 [🛒 Aquí!!!]({{< param buyurl >}})

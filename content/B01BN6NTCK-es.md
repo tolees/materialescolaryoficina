@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Utiliza grapas extra fuertes Rapesco de 26/6 mm y 24/6 mm
 - Profundidad de garganta 39 mm
-- Estructura duradera con partes internas totalmente metálicas
 - Grapado suave, se necesita un 60 % en menos de esfuerzo para grapar
-- 15 años de garantía
+- Estructura duradera con partes internas totalmente metálicas
 - Grapadora compacta de carga superior para perforar hasta 20 hojas
+- 15 años de garantía
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BN6NTCK{{</world>}}

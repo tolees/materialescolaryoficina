@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las instrucciones se encuentran al interior del pack; así como en el dorso.
-- Medidas hojas: 210x297.
-- Pack, carpeta con 4 hojas
 - Color: translúcido
+- Pack, carpeta con 4 hojas
+- Medidas hojas: 210x297.
+- Las instrucciones se encuentran al interior del pack; así como en el dorso.
 - Para impresoras inkjet.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
