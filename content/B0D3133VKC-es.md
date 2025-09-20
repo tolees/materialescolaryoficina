@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Vida al aire libre
-- Tiene detalles distintivos de la marca "Puma"
 - Mochila de uso diario
+- Tiene detalles distintivos de la marca "Puma"
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D3133VKC{{</world>}}

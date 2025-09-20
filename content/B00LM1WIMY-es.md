@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punta media de 1.0 mm
-- Juego de 3 bolígrafos retráctiles de varios colores
-- Adecuados para zurdos y diestros
 - Útiles a la escuela o oficina
+- Adecuados para zurdos y diestros
+- Juego de 3 bolígrafos retráctiles de varios colores
+- Punta media de 1.0 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LM1WIMY{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mina suave, permite extender con facilidad y rapidez el color
 - Lápices de colores de mina gigante de Ø 7mm
 - Capuchón de seguridad de plástico con sistema anti-mordedura
+- Mina suave, permite extender con facilidad y rapidez el color
 - Colores lavables de manos y tejidos y dermatológicamente testados
 - Realizados con madera de cedro de California
 

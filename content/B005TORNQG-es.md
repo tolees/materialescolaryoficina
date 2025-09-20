@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Adecuado como material escolar subrayador
 - El único rotulador en 9 colores fluorescentes atractivos
 - Tinta a base de agua
-- Adecuado como material escolar subrayador
 - Con la tecnología anti-Dry-Out: 4 horas de uso sin secarse
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

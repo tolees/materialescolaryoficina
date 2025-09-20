@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre postal
-- Bolsillos laterales
 - Mochila resistente
+- Bolsillos laterales
+- Cierre postal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3XR81SV{{</world>}}

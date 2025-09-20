@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El Kit de Metallic Lettering incluye: 12 Rotuladores metálicos doble punta: punta fina y punta pincel, 1 bloc de papel negro especial Lettering y 1 guía con 20 patrones.
 - Gama Alpino Color Experience: La gama de productos premium de Alpino ideada para sentir los colores, evadirse y disfrutar coloreando. Una gama llena de color, caligrafía, arte, mandalas... En ella encontrarás lápices de colores, rotuladores para hand lettering, packs de caligrafía, bullet journal, etc.
 - Metallic Lettering: ideal para regalo para los apasionados del lettering que buscan dibujas letras a mano de una manera divertida y creativa.
+- El Kit de Metallic Lettering incluye: 12 Rotuladores metálicos doble punta: punta fina y punta pincel, 1 bloc de papel negro especial Lettering y 1 guía con 20 patrones.
 - Rotuladores Metalizados para Lettering: rotuladores doble punta, punta fina y punta pincel. Su tinta metalizada permite realizar lettering sobre papel negro, ideal para desarrollar la creatividad dibujando letras a mano de la manera más divertida.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

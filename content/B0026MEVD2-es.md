@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El contenido del paquete tiene 100 piezas
+- Adecuado para mantener documentos organizados y protegidos
 - Material del producto: cárton y plástico
 - Dimensiones del producto: 24 x 31 cm
-- Adecuado para mantener documentos organizados y protegidos
-- El contenido del paquete tiene 100 piezas
 - Productos para la oficina y para uso personal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

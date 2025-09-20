@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - correas de hombro ajustables
-- Tamaño del paquete: 6,4 cm de largo x 46,29 cm de alto x 34,9 cm de ancho
 - Hombreras y espalda ajustables
+- Tamaño del paquete: 6,4 cm de largo x 46,29 cm de alto x 34,9 cm de ancho
 - Tipo de tela: 100 por ciento poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

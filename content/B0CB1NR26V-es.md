@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un mensaje en inglés en la parte inferior y un personaje Mr; wonderful colgando de una pequeña cadena en su extremo
-- Bolígrafo con la parte superior de plástico transparente, con purpurina en su interior
 - Óptimo para regalar
+- Bolígrafo con la parte superior de plástico transparente, con purpurina en su interior
 - Color de la tinta: azul
+- Un mensaje en inglés en la parte inferior y un personaje Mr; wonderful colgando de una pequeña cadena en su extremo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1NR26V{{</world>}}
