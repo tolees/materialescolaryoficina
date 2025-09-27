@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto: Maletín de 120 lápices de resina CARIOCA TITA con 50 colores diferentes, perfectos para colorear y dibujar. Colores brillantes y escritura suave. No se rompe la mina si se cae y no se astilla el lápiz si se parte.
 - Extra: Lápices de colores no tóxicos e inodoros, con fórmula sin gluten, mina resistente a las caidas y no se astilla
-- Diseño: Set de lápices de colores con mina de Ø 3 mm, super resistentes a las caídas y fáciles de sacar punta. Su cuerpo hexagonal impide que ruede sobre la mesa
 - Color: Surtido
+- Diseño: Set de lápices de colores con mina de Ø 3 mm, super resistentes a las caídas y fáciles de sacar punta. Su cuerpo hexagonal impide que ruede sobre la mesa
+- Producto: Maletín de 120 lápices de resina CARIOCA TITA con 50 colores diferentes, perfectos para colorear y dibujar. Colores brillantes y escritura suave. No se rompe la mina si se cae y no se astilla el lápiz si se parte.
 - Uso: Apto para dibujar y colorear tanto para adultos como para niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})

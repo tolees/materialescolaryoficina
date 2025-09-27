@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- la nueva tarjeta colgante de cartón se compone de al menos un 80% de material reciclado
+- Madera certificada PEFC, procedente de bosques de gestión sostenible
 - Cuatro lápices en coloridas rayas Noris en tarjeta colgante de cartón en los colores: verde francés con cian, amarillo con verde francés, naranja claro con rojo burdeos, rojo burdeos con morado rojizo
 - Lápiz triangular ergonómico de muy buena calidad para una escritura fácil y relajada
 - Alta resistencia a la rotura, fácil de borrar y afilar, dureza 2 (HB)
-- Madera certificada PEFC, procedente de bosques de gestión sostenible
-- la nueva tarjeta colgante de cartón se compone de al menos un 80% de material reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09T3MMD4H{{</world>}}

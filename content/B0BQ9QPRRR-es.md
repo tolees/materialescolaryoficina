@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 4.Diseño autoadhesivo: adecuado para fotos de cualquier tamaño, la página se puede usar repetidamente, acceso gratuito a sus preciosas fotos
 - 2.Cubierta de lino: la página está envuelta en lino, destacando el estilo retro y exquisito, resistente al desgaste, fuerte, retrasa la vida del álbum, protege tus preciosas fotos durante mucho tiempo
+- 1.Tamaño y embalaje: longitud 33 x ancho 32 cm, longitud de página autoadhesiva interna 32x ancho 28 cm, 60 hojas / 120 páginas, puede contener 600 fotos. El paquete incluye 1x álbum de fotos, 1x bolígrafo de metal
 - 3.Página libre de ácido: mientras protege las fotos de la oxidación del aire, el material del álbum en sí no dañará las fotos, y sus preciosos recuerdos se conservarán por completo durante mucho tiempo
 - 5. Álbum de memoria: nuestro álbum es muy adecuado para recopilar hermosos recuerdos. Puede convertirlo en un álbum de bodas, álbum de graduación, álbum de viaje, álbum de crecimiento del bebé. También puede convertirlo en un regalo creativo para su persona favorita en cumpleaños, San Valentín, Día de la Madre, Navidad
-- 1.Tamaño y embalaje: longitud 33 x ancho 32 cm, longitud de página autoadhesiva interna 32x ancho 28 cm, 60 hojas / 120 páginas, puede contener 600 fotos. El paquete incluye 1x álbum de fotos, 1x bolígrafo de metal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQ9QPRRR{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de calidad
 - Ropa deportiva cómoda de llevar
+- Material de calidad
 - Producto de la marca Puma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

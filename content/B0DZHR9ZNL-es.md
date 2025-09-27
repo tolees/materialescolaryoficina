@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Tipo : permanente
-- Color : azul
 - La siguiente información se aplica a cada unidad del paquete
-- Trazo : 2/3 mm
 - Marca : q-connect
+- Tipo : permanente
+- Trazo : 2/3 mm
+- Color : azul
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DZHR9ZNL{{</world>}}

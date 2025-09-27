@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido: 6 láminas con 12 temas nuevos en formato libro y más de 90 preguntas y respuestas.
-- Juego educativo recomendado a partir de 4 años.
 - Juego educativo de preguntas y respuestas con el que los niños con los temas más interesantes para aprender a leer el alfabeto, sílabas, el sonido de las letras, pictogramas y las primeras letras con las que aprendemos a leer M,S,P,T, etc…
-- Llévatelo a donde quieras; nuevo CONECTOR Aprendo a Leer en formato libro con lápiz de luz y sonido.
+- Contenido: 6 láminas con 12 temas nuevos en formato libro y más de 90 preguntas y respuestas.
 - CONECTOR; conecta cada pregunta con su respuesta.
+- Juego educativo recomendado a partir de 4 años.
+- Llévatelo a donde quieras; nuevo CONECTOR Aprendo a Leer en formato libro con lápiz de luz y sonido.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D67B9JRT{{</world>}}

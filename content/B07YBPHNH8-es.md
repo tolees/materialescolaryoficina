@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Etiquetas amarillo flúor cantos romos tamaño 64,0 x 33,9 mm con adhesivo permanente
-- Estas etiquetas adhesivas de colores con acabado flúor son imprescindibles si quieres destacar un objeto, resaltar una información relevante o marcar un envío
-- Pack con 100 hojas (2.400 etiquetas).
 - Descarga el software gratuito para diseñar e imprimir todo tipo de etiquetas en la web de Apli
+- Pack con 100 hojas (2.400 etiquetas).
+- Estas etiquetas adhesivas de colores con acabado flúor son imprescindibles si quieres destacar un objeto, resaltar una información relevante o marcar un envío
+- Etiquetas amarillo flúor cantos romos tamaño 64,0 x 33,9 mm con adhesivo permanente
 - Excelente calidad de impresión en impresoras láser o fotocopiadoras.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% reciclable
 - Perfecto para la elaboración, la decoración y la pintura
 - Fácil de pegar, pintar y usar
+- Paquete de 50 palitos de madera natural
+- 100% reciclable
 - Palos son 110 mm longitud y 10 mm ancho
 - Se suministra en paquete colgante
-- Paquete de 50 palitos de madera natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LFGF9P4{{</world>}}

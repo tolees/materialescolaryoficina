@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Madera procedente de bosques gestionados de manera sostenible
 - Mina protegida contra la rotura por el proceso de encolado SV
-- Forma : hexagonal
 - Colores intensos y brillantes de aplicación extra suave
+- Forma : hexagonal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01L94LZAO{{</world>}}
