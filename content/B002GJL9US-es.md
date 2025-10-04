@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de punta: fina con una anchura del trazo de 0.4 mm
 - Punta con refuerzo de metal para una larga vida
-- Multicolor
-- Tinta con base al agua
-- Apta para usar con reglas y plantillas
-- Paquete de 20 unidades
 - Con un diseño hexagonal de finas líneas inconfundible
+- Multicolor
+- Tipo de punta: fina con una anchura del trazo de 0.4 mm
+- Apta para usar con reglas y plantillas
 - Tapón ventilado
+- Tinta con base al agua
+- Paquete de 20 unidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002GJL9US{{</world>}}

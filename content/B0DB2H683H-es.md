@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de calidad
 - Ofrece un resultado óptimo y adecuado
+- Material de calidad
 - Producto para tu oficina, despacho o estudio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

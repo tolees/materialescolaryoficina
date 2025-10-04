@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Correas ajustables
 - Bolsillo de seguridad en la espalda y solapa protectora delantera
-- Mochila con dos compartimentos principales y amplio bolsillo frontal
 - Dimensiones: 36,5 x 26 x 10cm
+- Mochila con dos compartimentos principales y amplio bolsillo frontal
 - Compartimento acolchado para dispositivos electrónicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alto: 40 cm; Ancho: 30 cm; Fondo: 18 cm
-- No se han utilizado materiales de origen animal para fabricar este producto 100 % vegano
 - Logotipos de la colaboración de las marcas
-- Confección en 100 % poliéster
 - Correas ajustables para los hombros y panel de la espalda acolchados
+- No se han utilizado materiales de origen animal para fabricar este producto 100 % vegano
+- Alto: 40 cm; Ancho: 30 cm; Fondo: 18 cm
+- Confección en 100 % poliéster
 - El compartimento principal dispone de un bolsillo delantero con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

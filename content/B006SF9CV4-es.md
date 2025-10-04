@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Zona de sujeción triangular ergonómica
+- Tapón ventilado
+- Tinta lavable
 - Punta de 0,7mm
 - Calidad Alemana
-- Tinta lavable
-- Tapón ventilado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B006SF9CV4{{</world>}}

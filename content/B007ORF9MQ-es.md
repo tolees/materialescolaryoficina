@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los gomets APLI cumplen con las más estrictas normas de calidad y seguridad
+- Jugar y crear con gomets es una actividad básica que permite desarrollar la psicomotricidad fina
 - Los gomets ayudan a trabajar varias capacidades y habilidades como el conocimiento de los colores, las formas geométricas y los tamaños; el desarrollo de la lógica y la creatividad
+- Los gomets APLI cumplen con las más estrictas normas de calidad y seguridad
 - Rollo de gomets triangulares de tamaño 20 x 20 x 20 mm en color azul
 - El formato perfecto para usar en escuelas, guarderías, talleres infantiles o cualquier otro colectivo que trate con niños
-- Jugar y crear con gomets es una actividad básica que permite desarrollar la psicomotricidad fina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B007ORF9MQ{{</world>}}

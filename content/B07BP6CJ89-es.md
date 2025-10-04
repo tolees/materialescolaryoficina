@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lápiz 3 en 1: lápiz de color, cera y lápiz acuarelable
 - Lápiz de color extra grueso, ideal para guarderías y ciclo infantil
+- Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 - Mina extremadamente resistente a la rotura
 - Perfecto para papel, cartón, vidrio, etc., así como para superficies oscuras
-- Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
-- Lápiz 3 en 1: lápiz de color, cera y lápiz acuarelable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BP6CJ89{{</world>}}

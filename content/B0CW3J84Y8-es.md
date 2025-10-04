@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Playlist exclusiva. Páginas para anotar contactos. Tablas de ahorro. Cierre con goma elástica. Planificador mensual al inicio de cada mes. Blocs de notas adhesivas con formas. Frases mensuales supermotivadoras.
-- Con organización semanal, va de septiembre de 2024 a agosto de 2025 y tiene un tamaño mayor que el resto de las agendas de la colección, por lo que resulta ideal como agenda de escritorio.
 - 160 páginas de papel de 100 gr con la certificación FSC. Frases diarias motivacionales. Separadores con pestaña por cada mes. Bolsillo interior de cartón. Regla de plástico interior. 8 hojas de pegatinas. Horarios y calendarios (del último trimestre de 2024 y de 2025 y 2026 completos).
 - Medidas: 21 x 24,6 x 2,6 centímetros.
+- Con organización semanal, va de septiembre de 2024 a agosto de 2025 y tiene un tamaño mayor que el resto de las agendas de la colección, por lo que resulta ideal como agenda de escritorio.
+- Playlist exclusiva. Páginas para anotar contactos. Tablas de ahorro. Cierre con goma elástica. Planificador mensual al inicio de cada mes. Blocs de notas adhesivas con formas. Frases mensuales supermotivadoras.
 - Agenda escolar estilo Office de Mr. Wonderful, un tipo de diseño que presentamos hace algunas ediciones y que es algo más sobrio y contenido que nuestro estilo más clásico, por lo que encantará a un público algo más mayor.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Presentados en una caja de plástico translúcido
 - Set de 3 rotuladores de punta doble
 - Producto de calidad óptima
+- Presentados en una caja de plástico translúcido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DR28C37T{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interfaz revolucionaria Ruleta Roja con 8 teclas de acceso directo. Diseño revolucionario contra tabletas gráficas tradicional con ruleta roja, mucho más cómodo de usar que una barra táctil. Equipado también con 8 teclas de acceso rápido personalizable, le permiten mejorar su flujo de trabajo.
-- Contabilidad versátil: compatible con Windows 10/8/7 (32/64bit), Mac OS X 10.10 y superior. Compatible con software de arte digital popular como Adobe Photoshop, Illustrator, SAI, CDR, GIMP, Krita, Medibang, Fire Alpaca, Blender 3D etc. (También ofrecemos el software de dibujo OpenCanvas 7 para nuestros clientes de forma gratuita, no dude en ponerse en contacto con nosotros con su número de pedido para obtenerlo.)
 - Pantalla totalmente laminada con gama de color elevada: la pantalla y el vidrio se combina con la tecnología más avanzada "Totalmente laminado", casi sin paralaje para dibujar. Con una excelente precisión de color del 88% NTSC (Adobe RGB≧91%,sRGB≧123%), ofrece colores intensos, imágenes vibrantes y detalles deslumbrantes.
-- Tableta gráfica Super Portable - XP-PEN Artist 13 Pro tiene una pantalla de visualización de 13,3 pulgadas, dimensiones 390,4 mm x 249,98 mm x 12,9 mm, grosor: 14 mm, resolución: 1920x1080 Pixeles, Ángulo de visión: 178°. Pantalla gráfica para acompañarlo a cualquier lugar en su viaje creativo.
 - Lápiz sensible de 8192 niveles con función de inclinación de 60° - Lápiz pasivo sin batería de 8192 niveles de sensibilidad a la presión, fluido como dibujar en un papel con un lápiz real. Con la función de inclinación de 60°, simplemente incline el lápiz para añadir sombra a su creación y disfrute de transiciones más suaves y naturales entre líneas y trazos.
+- Contabilidad versátil: compatible con Windows 10/8/7 (32/64bit), Mac OS X 10.10 y superior. Compatible con software de arte digital popular como Adobe Photoshop, Illustrator, SAI, CDR, GIMP, Krita, Medibang, Fire Alpaca, Blender 3D etc. (También ofrecemos el software de dibujo OpenCanvas 7 para nuestros clientes de forma gratuita, no dude en ponerse en contacto con nosotros con su número de pedido para obtenerlo.)
+- Interfaz revolucionaria Ruleta Roja con 8 teclas de acceso directo. Diseño revolucionario contra tabletas gráficas tradicional con ruleta roja, mucho más cómodo de usar que una barra táctil. Equipado también con 8 teclas de acceso rápido personalizable, le permiten mejorar su flujo de trabajo.
+- Tableta gráfica Super Portable - XP-PEN Artist 13 Pro tiene una pantalla de visualización de 13,3 pulgadas, dimensiones 390,4 mm x 249,98 mm x 12,9 mm, grosor: 14 mm, resolución: 1920x1080 Pixeles, Ángulo de visión: 178°. Pantalla gráfica para acompañarlo a cualquier lugar en su viaje creativo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VPHR6GD{{</world>}}
