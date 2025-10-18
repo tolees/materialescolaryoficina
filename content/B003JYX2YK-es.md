@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ergonómico y cómodo que permite una experiencia única de escritura, apta para uso profesional y uso escolar.
-- Lápiz de alta calidad, de diseño hexagonal, óptimo para escribir, dibujar y esbozar.
 - Lápices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
-- Son resistentes a la rotura gracias a la especial formulación de la mina y a su doble encoladura de 2 mm.
 - Lápices clásicos de dureza media, HB, con los que se obtiene una escritura suave y equilibrada.
+- Lápiz de alta calidad, de diseño hexagonal, óptimo para escribir, dibujar y esbozar.
+- Diseño ergonómico y cómodo que permite una experiencia única de escritura, apta para uso profesional y uso escolar.
+- Son resistentes a la rotura gracias a la especial formulación de la mina y a su doble encoladura de 2 mm.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003JYX2YK{{</world>}}

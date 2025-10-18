@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Alimentación: 2 pilas AAA
 - Incluye instrucciones
-- Pantalla de 2 líneas de lectura, de 10+2 dígitos.
 - 240 funciones integradas, incluyendo 124 científicas.
 - Calculadora científica M240 serie Silver color turquesa con resistente carcasa protectora con acabado plateado Silver.
+- Pantalla de 2 líneas de lectura, de 10+2 dígitos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P7H35YY{{</world>}}

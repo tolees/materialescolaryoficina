@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% poliamida
 - 0,24 kg de peso y 15 L de volumen
-- Mochila mediana (con cordón)
 - Repele el agua
+- Mochila mediana (con cordón)
+- 100% poliamida
 - 45 cm de alto x 39,5 cm de ancho x 0 cm de profundidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 228 funciones integradas, funciones logarítmicas y trigonométricas, porcentajes y fracciones. Serie Acid.
 - Calculadora con pantalla de 2 líneas de lectura de 10+2 dígitos.
 - Calculadora amarilla con carcasa protectora de color amarillo translúcido.
+- 228 funciones integradas, funciones logarítmicas y trigonométricas, porcentajes y fracciones. Serie Acid.
 - Alimentación: 2 pilas de 1,5 V (incluidas). Medidas: 14,3 x 7,4 x 1,4 cm. Incluye instrucciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

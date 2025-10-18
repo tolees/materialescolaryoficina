@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Rotulador premium de alta calidad
 - Fabricado en Alemania
-- Hasta 24 horas de protección antisecado
 - Disponible en muchos colores brillantes
 - Alto brillo de color y luminosidad
+- Hasta 24 horas de protección antisecado
 - Punta resistente (grosor del trazo: 1 mm)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

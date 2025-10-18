@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 12 bolígrafos de punta retráctil con tinta de gel de color negro, ideales para el uso diario.
 - Diseño retráctil para un fácil uso de un solo clic que además previene que te manches cuando no lo estás usando.
+- Pack de 12 bolígrafos de punta retráctil con tinta de gel de color negro, ideales para el uso diario.
 - Punta fina de 0,7 mm de grosor.
 - La tinta de secado rápido y alta calidad ofrece resultados suaves sin manchas.
 - Incluye una empuñadura de goma para mayor control y comodidad, y un clip para poder fijarlo en cuadernos o en un bolsillo.

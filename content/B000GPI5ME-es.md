@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Punto fino de 2 mm
 - Graduación HB
 - Caja con 12 lápices de la misma graduación
-- Punto fino de 2 mm
 - Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 2: Son resistentes a la rotura gracias a la especial formulación de la mina y a su doble encoladura de 2 mm.
-- producto 2: Diseño ergonómico y cómodo que permite una experiencia única de escritura, apta para uso profesional y uso escolar.
-- producto 1: Aguja y minas intercambiables. Aguja roma para prevenir lesiones. Las patas articuladas facilitan el dibujo de radios grandes.
-- producto 2: Lápices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
 - producto 1: Longitud de 156 mm. Su diámetro máximo es de 260 mm. y, con alargadera, 395 mm aproximadamente.
-- producto 1: Su adaptador universal permite crear círculos precisos con todos los instrumentos de escritura y dibujo.
 - producto 2: Lápiz de alta calidad, de diseño hexagonal, óptimo para escribir, dibujar y esbozar.
+- producto 2: Son resistentes a la rotura gracias a la especial formulación de la mina y a su doble encoladura de 2 mm.
+- producto 1: Aguja y minas intercambiables. Aguja roma para prevenir lesiones. Las patas articuladas facilitan el dibujo de radios grandes.
+- producto 2: Diseño ergonómico y cómodo que permite una experiencia única de escritura, apta para uso profesional y uso escolar.
+- producto 1: Su adaptador universal permite crear círculos precisos con todos los instrumentos de escritura y dibujo.
+- producto 2: Lápices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
 - producto 1: Se ajusta fácilmente gracias a su rueda central y mecanismo de ajuste rápido.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

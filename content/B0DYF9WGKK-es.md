@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para niños de 3 a 5 años para actividades creativas y de aprendizaje.
-- Kit completo. 18 páginas para colorear y 4 marcadores para colorear sin manchas.
-- Tamaño compacto: 23 x 29,2 cm x 1,7 cm.
 - Materiales de calidad: papel y plástico duraderos.
+- Adecuado para niños de 3 a 5 años para actividades creativas y de aprendizaje.
+- Tamaño compacto: 23 x 29,2 cm x 1,7 cm.
+- Kit completo. 18 páginas para colorear y 4 marcadores para colorear sin manchas.
 - Personajes de la Patrulla Canina para la diversión de los más pequeños.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

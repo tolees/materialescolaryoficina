@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ecolápiz de color con forma hexagonal. Fáciles de afilar, incluyen afilalápices de regalo. Estuche de cartón
-- Colores intensos y brillantes de aplicación extra suave
 - Fabricados a partir de madera 100% reforestada gestionada de forma sostenible a nivel medioambiental, económico y social
 - Fáciles de afilar, incluyen afilalápices
+- Colores intensos y brillantes de aplicación extra suave
 - Mina protegida contra la rotura gracias al proceso especial de encolado SV
 
 [🛒 Comprar!!!]({{< param buyurl >}})
