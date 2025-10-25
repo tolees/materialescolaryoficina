@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- ♻ AGENDA 2024 2025 ♻ con cubierta de cartón reciclado forrado con papel reciclado con una encuadernación en espiral metálico negro que permite abrir en plano la agenda y dar la vuelta completa evitando enganches.
+- ♻ AGENDA ESCOLAR 2024-2025 ♻ contiene datos personales, calendario curso, horario trimestral, planning mensual, seguimiento exámenes y trabajos, recomendaciones (música, libros, películas y series), mapamundi, ausencias y retrasos, comunicación familia / escuela, inglés formas verbales y verbos irregulares, notas, teléfonos y direcciones.
 - ♻ AGENDA ESCOLAR 24-25 IDEAL PARA LLEVAR ♻ en la mochila gracias a su tamaño (117 x 174 mm). Papel 100% reciclado (recuperado post-consumo) de 80 g/m² con certificaciones FSC Mix Credit RECYCLED, Blue Angel y Eu Label.
 - ♻ AGENDA ESCOLAR 10 MESES ♻ de Septiembre 2024 a Junio 2025. Anualidad semana a la vista horizontal y los meses de Julio y Agosto, 2 semanas a la vista. Esta agenda reciclada es perfecta para estudiantes que comienzan una etapa donde se incrementan las exigencias del profesorado, ya que facilitan la organización y planificación del curso.
-- ♻ AGENDA ESCOLAR 2024-2025 ♻ contiene datos personales, calendario curso, horario trimestral, planning mensual, seguimiento exámenes y trabajos, recomendaciones (música, libros, películas y series), mapamundi, ausencias y retrasos, comunicación familia / escuela, inglés formas verbales y verbos irregulares, notas, teléfonos y direcciones.
-- ♻ AGENDA 2024 2025 ♻ con cubierta de cartón reciclado forrado con papel reciclado con una encuadernación en espiral metálico negro que permite abrir en plano la agenda y dar la vuelta completa evitando enganches.
 - ♻ AGENDA CURSO 2024-2025 ♻ con un enfoque biligüe integral, ofreciendo contenido en dos idiomas: catalán e inglés.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

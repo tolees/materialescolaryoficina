@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se presentan en una caja de lata con el mensaje
 - “Life is full of colours” impreso en ella
 - 24 lápices de colores de doble punta
 - Optimo para la vuelta al col
+- Se presentan en una caja de lata con el mensaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C62HMR4R{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producción: Made in Italy
-- Consejos: aptos para niños y adultos, para diseñar y colorear en el colegio y durante el tiempo libre.
+- Lavables: Tinta super lavable, no tóxicos, se quita fácilmente de la piel y de la mayoría de los tejidos con agua y sin jabón
 - Producto: Caja de rotuladores punta gorda con tinta superlavable. 24 Colores con colores surtidos, brillantes y vivos
 - Rotuladores JUMBO: Caja de rotuladores superlavables con punta gorda de Ø 6 mm, resistente y bloqueada. Cuerpo hexagonal
-- Lavables: Tinta super lavable, no tóxicos, se quita fácilmente de la piel y de la mayoría de los tejidos con agua y sin jabón
+- Consejos: aptos para niños y adultos, para diseñar y colorear en el colegio y durante el tiempo libre.
+- Producción: Made in Italy
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ADP4IK0{{</world>}}

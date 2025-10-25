@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Largo: 0,8 cm
 - Ancho: 15,3 x Alto: 0,8 cm
+- Largo: 0,8 cm
 - Bolígrafo de bola
 
 [🛒 Aquí!!!]({{< param buyurl >}})

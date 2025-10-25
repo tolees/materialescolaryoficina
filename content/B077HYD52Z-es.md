@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología de grapado plano para un resultado más compacto, ideal para servicios postales y oficinas
-- Contenido: 1 petrus grapadora de grapado plano para gruesos, plata, modelo 1500, 623383
-- Grapa hasta 120 hojas de papel (80 g/m²), para grapas 23/15xl
 - Profundidad de inserción del papel 56 mm
+- Grapa hasta 120 hojas de papel (80 g/m²), para grapas 23/15xl
+- Contenido: 1 petrus grapadora de grapado plano para gruesos, plata, modelo 1500, 623383
+- Tecnología de grapado plano para un resultado más compacto, ideal para servicios postales y oficinas
 - Indicador integrado con codificación por colores para saber cuándo es preciso recargar, fácil recarga por la parte frontal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

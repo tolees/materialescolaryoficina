@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mochila de deporte para niños
-- Cintas acolchadas
 - Color negro
+- Cintas acolchadas
+- Mochila de deporte para niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BWK54R3L{{</world>}}

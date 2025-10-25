@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del envío: 10 bolígrafos triangulares de colores surtidos en estuche de cartón
 - Escritura especialmente fácil
-- Diámetro bola 1,0 mm aprox para un ancho de línea medio
 - 10 colores de tinta surtidos: amarillo, naranja, rojo, magenta, violeta, azul, azul claro, verde, verde claro y negro
+- Contenido del envío: 10 bolígrafos triangulares de colores surtidos en estuche de cartón
+- Diámetro bola 1,0 mm aprox para un ancho de línea medio
 - Cuerpo triangular ergonómico para una escritura relajada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Certificado a partir de los 24 meses
 - Tizas de color sin polvo
 - Colores brillantes, lavables y fáciles de borrar
-- Certificado a partir de los 24 meses
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKGG6L93{{</world>}}

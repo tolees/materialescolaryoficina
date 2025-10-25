@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 39.5 altura x 36 ancho x 13.5 profundidad cm
-- 0.53kg peso x 19L volumen
 - Mochila y bandolera grande 2 en 1
 - Hidrófugo
 - 100% Poliéster
+- 0.53kg peso x 19L volumen
+- 39.5 altura x 36 ancho x 13.5 profundidad cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083YDY36Y{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Formato de las etiquetas predefinido en la mayoría de softwares
-- Etiquetas blancas cantos rectos tamaño 64,6 x 33,8 mm con adhesivo removible para múltiples usos
 - Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
+- Etiquetas blancas cantos rectos tamaño 64,6 x 33,8 mm con adhesivo removible para múltiples usos
 - 64,6 x 33,8 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

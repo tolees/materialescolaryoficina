@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lápiz de color extra grueso, ideal para guarderías y ciclo infantil
-- Perfecto para papel, cartón, vidrio, etc., así como para superficies oscuras
 - Mina extremadamente resistente a la rotura
+- Perfecto para papel, cartón, vidrio, etc., así como para superficies oscuras
+- Lápiz de color extra grueso, ideal para guarderías y ciclo infantil
 - Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 - Lápiz 3 en 1: lápiz de color, cera y lápiz acuarelable
 

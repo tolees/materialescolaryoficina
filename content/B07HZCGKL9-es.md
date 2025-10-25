@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paquete de 13 piezas: un paquete ideal para el marcado con letras o el método bullet journal, con colores pasteles para subrayar, dibujar, colorear o decorar.
-- 6 subrayadores STABILO Swing Cool
 - 3 rotuladores STABILO Point 88 de punta fina + 3 rotuladores STABILO PointMax de punta media
+- 6 subrayadores STABILO Swing Cool
+- Paquete de 13 piezas: un paquete ideal para el marcado con letras o el método bullet journal, con colores pasteles para subrayar, dibujar, colorear o decorar.
 - una regla con plantilla para dejar volar tu imaginación
 
 [🛒 Comprar!!!]({{< param buyurl >}})

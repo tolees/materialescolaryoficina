@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adhesivo: Permanente
-- Tamaño de la hoja: Din A4
 - Cantidad de etiquetas: 100
+- Tamaño de la hoja: Din A4
 - Cantos: Romos
+- Adhesivo: Permanente
 - Etiquetas para impresoras inkjet, láser y fotocopiadora
 
 [🛒 Comprar!!!]({{< param buyurl >}})
