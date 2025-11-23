@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formulación especial con mayor proporción de carbón para unas líneas negras mates e intensas
-- Graduaciones: 2H, HB, B, 2B, 4B, 6B
 - Lápiz artístico de calidad Premium, perfecto para dibujar, sombrear y esbozar
-- Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
+- Graduaciones: 2H, HB, B, 2B, 4B, 6B
+- Formulación especial con mayor proporción de carbón para unas líneas negras mates e intensas
 - GRATIS 1 Goma de borrar Mars Plastic 526 50 y 1 Afilalápices metálico 510 10
+- Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0050IRIW0{{</world>}}

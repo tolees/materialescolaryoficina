@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mensaje “Let’s do it better!” impreso en él
 - Optimo para la vuelta al col
+- Mensaje “Let’s do it better!” impreso en él
 - Sacapuntas con depósito
 - Goma de borrar
 

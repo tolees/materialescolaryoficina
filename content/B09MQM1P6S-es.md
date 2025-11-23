@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Etiqueta con el nombre en el interior
 - Cómoda ventilación gracias al sistema de espalda Airstripes
-- Clip de la llave
 - Elementos reflectantes
+- Clip de la llave
 - Compartimento con tapa con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

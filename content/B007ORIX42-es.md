@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fabricado en España
-- Marca: Apli
 - Fácil de usar
+- Marca: Apli
 - Producto de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: 17 x 22.6 x 3.5 cm.
 - 368 páginas de papel de 90 gr con la certificación FSC,Frases diarias motivacionales,Separadores con pestaña para cada mes,Bolsillo interior de cartón,Regla de plástico interior,8 hojas de pegatinas,Juegos y extras entretenidísimos,
 - Horarios y calendarios (del último trimestre de 2025 y de 2026 y 2027 completos),Playlist exclusiva,Páginas para anotar contactos,Tablas de ahorro,Cierre con goma elástica,Planificador mensual al inicio de cada mes,Blocs de notas adhesivas con formas,Frases mensuales superdivertidas
+- Dimensiones: 17 x 22.6 x 3.5 cm.
 - Agenda estilo Wonder de Mr. Wonderful, con organización diaria, va de septiembre de 2025 a finales de agosto de 2026.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

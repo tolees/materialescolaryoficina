@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Decora tu ropa: Los rotuladores textiles permanentes de Color experience son ideales para decorar ropa y tejidos. Rotuladores con tinta a base de agua, no tóxicos. Colores surtidos. Punta de 2,9 mm.
 - Funcionamiento: Dibujar con el rotulador textil direcamente sobre la tela. Para fijar el dibujo en un tejido dejar secar 30 minutos y posteriormente planchar con el tejido al revés poniendo un cartón o papel para que el dibujo no traspase. Resistentes a lavados hasta 60º.
 - Diseñados para dibujar y colorear cualquier tipo de prenda textil como zapatillas de tela, camisetas, gorras, mochilas de tela, etc. ¡Crea fantásticos diseños y lleva tus creaciones allá donde vayas!
+- Decora tu ropa: Los rotuladores textiles permanentes de Color experience son ideales para decorar ropa y tejidos. Rotuladores con tinta a base de agua, no tóxicos. Colores surtidos. Punta de 2,9 mm.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKFHFMQY{{</world>}}

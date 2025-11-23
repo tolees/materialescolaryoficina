@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ABS - el recubrimiento protector blanco refuerza la mina e incrementa su resistencia a la rotura
 - Lápiz de color de diseño hexagonal con mina acuarelable
+- ABS - el recubrimiento protector blanco refuerza la mina e incrementa su resistencia a la rotura
 - Madera certificada PEFC, procedente de bosques de gestión sostenible
 - Mina especialmente suave y de colores intensos
 - Ofrece una amplia gama de posibilidades de coloreado - también con agua y pincel

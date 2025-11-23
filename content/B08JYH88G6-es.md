@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Incluye 2 minas finas y goma de borrar.
 - Un clic, escritura sin parar.
-- Diseño elegante y futurista.
 - Cuenta con un sistema antirotura de minas.
+- Diseño elegante y futurista.
 - Acabado de alta gama, carcasa de metal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

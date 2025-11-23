@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cada pack contiene 5 unidades, para forrar 5 libros rápidamente: Introduce las tapas del libro en las solapas, cierra el libro para ajustar el forro y fíjalo retirando la cinta protectora.
+- Para saber qué medida escoger, mide tu libro a lo alto. Todas las fundas 1, 2, 3 FORRA de APLI se adaptan a libros de un ancho de 53 cm (mide el libro abierto de extremo a extremo para comprobarlo).
+- Producto en cumplimiento del reglamento REACH sobre la fabricación, comercialización y uso de sustancias y mezclas químicas en productos. Sin ftalatos, producto NO tóxico.
 - Fundas transparentes de PP (polipropileno) de 75 micras tamaño 290 x 530 mm (alto x ancho) con solapa autoajustable. Ideal para forrar y proteger libros. El mejor material relación calidad/precio.
 - La forma más fácil de forrar libros, cuadernos y carpetas, ya que se adaptan a cada ancho sin necesidad de cortar ni utilizar cinta adhesiva. Muy recomendable para uso escolar.
-- Producto en cumplimiento del reglamento REACH sobre la fabricación, comercialización y uso de sustancias y mezclas químicas en productos. Sin ftalatos, producto NO tóxico.
-- Para saber qué medida escoger, mide tu libro a lo alto. Todas las fundas 1, 2, 3 FORRA de APLI se adaptan a libros de un ancho de 53 cm (mide el libro abierto de extremo a extremo para comprobarlo).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DM2K1TH{{</world>}}
