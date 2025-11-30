@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Productos de belleza y el cuidado personal
-- Tipo de producto: Lapiz de ojos
 - Marca: Clinique
+- Tipo de producto: Lapiz de ojos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B5QVWCS{{</world>}}

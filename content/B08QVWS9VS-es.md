@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hombreras y espalda ajustables
 - Tipo de tela: 100 por ciento poliéster
+- Hombreras y espalda ajustables
 - Tamaño del paquete: 6,4 cm de largo x 46,29 cm de alto x 34,9 cm de ancho
 - correas de hombro ajustables
 

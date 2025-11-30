@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuenta con un sistema antirotura de minas.
-- Un clic, escritura sin parar.
 - Acabado de alta gama, carcasa de metal.
+- Cuenta con un sistema antirotura de minas.
 - Incluye 2 minas finas y goma de borrar.
+- Un clic, escritura sin parar.
 - Diseño elegante y futurista.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descarga el software gratuito para diseñar e imprimir todo tipo de etiquetas en la web de APLI
 - Excelente calidad de impresión en impresoras inkjet, láser o fotocopiadoras
+- Descarga el software gratuito para diseñar e imprimir todo tipo de etiquetas en la web de APLI
 - Pack con 100 hojas (2.100 etiquetas). Fabricado en España
 - Perfectas para identificar envíos de correspondencia, objetos, paquetería o para clasificar
 - Etiquetas blancas cantos romos tamaño 63,5 x 38,1 mm con adhesivo permanente para múltiples usos

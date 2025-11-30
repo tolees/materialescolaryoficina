@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene detalles distintivos de la marca "Puma"
 - Vida al aire libre
+- Tiene detalles distintivos de la marca "Puma"
 - Mochila de uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Además del material de papeleria que hay en su interior podrás usarlo como portalapices llevando todo lo necesario para este nuevo curso de la manera más cómoda La papeleria Pusheen es perfecta
-- Este bonito pack material escolar cuenta con un lápiz con topper, Su topper es Pusheen Además cuenta con un bonito boligrafo verde con la parte superior y un sacapuntas ideal
 - Cuenta con un bonito cuaderno de notas con un diseño ideal para que lo puedas llevar a cualquier lugar gracias a su tamaño A5
+- Este bonito pack material escolar cuenta con un lápiz con topper, Su topper es Pusheen Además cuenta con un bonito boligrafo verde con la parte superior y un sacapuntas ideal
 - Pusheen ha llegado a esta vuelta al cole con más ganas que nunca de formar parte de tu material escolar con su nuevo super set de papeleria que super completo Todo tan dulce como ella
 - Nuestro super pack papeleria colores pasteles cuenta con un rotulador doble punta rosa y clips para que mantengas tus documentos ordenados
 

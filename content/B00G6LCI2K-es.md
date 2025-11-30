@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No deja residuos
 - Lavable
+- No deja residuos
 - Sin disolventes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
 - 2 grosores de trazo: 1 + 4 mm
-- Marcador de texto color pastel
 - Superficie antideslizante con aspecto translúcido
+- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
+- Marcador de texto color pastel
 - Marcador plano de bolsillo con cómodo clip. Perfecto para viajes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

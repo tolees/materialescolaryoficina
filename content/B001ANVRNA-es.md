@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto 50% reciclable
+- Cuerpo hexagonal con mina resistente a morder o caer
 - Incluye 60 lápices ajustable con el afilador estándar
 - Lápices sin madera hecha de resina sintética
-- Cuerpo hexagonal con mina resistente a morder o caer
+- Producto 50% reciclable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001ANVRNA{{</world>}}

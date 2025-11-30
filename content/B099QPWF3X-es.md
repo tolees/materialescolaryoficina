@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tirantes ajustables
 - Tiene detalles distintivos de la marca
+- Tirantes ajustables
 - Departamentos con cierre de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

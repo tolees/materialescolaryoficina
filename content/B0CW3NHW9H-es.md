@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 226 páginas de papel de 100 gr con la certificación FSC. Frases diarias motivacionales. Separadores con pestaña para cada mes. Bolsillo interior de cartón. Regla de plástico interior. 8 hojas de pegatinas. Horarios y calendarios (del último semestre de 2024 y de 2025 y 2026 completos).
-- Agenda escolar estilo Office de Mr. Wonderful, un diseño que presentamos hace algunas ediciones y que es algo más sobrio y contenido que nuestro estilo más clásico, por lo que encantará a un público más mayor.
-- Esta agenda cuenta con 18 meses de organización: va de julio de 2024 a diciembre de 2025, con organización semanal.
-- Playlist exclusiva. Páginas para anotar contactos. Tablas de ahorro. Cierre con goma elástica. Blocs de notas adhesivas con formas. Planificador mensual al inicio de cada mes. Frases mensuales supermotivadoras.
 - Medidas: 15,6 x 22,1 x 2,1 centímetros.
+- Agenda escolar estilo Office de Mr. Wonderful, un diseño que presentamos hace algunas ediciones y que es algo más sobrio y contenido que nuestro estilo más clásico, por lo que encantará a un público más mayor.
+- 226 páginas de papel de 100 gr con la certificación FSC. Frases diarias motivacionales. Separadores con pestaña para cada mes. Bolsillo interior de cartón. Regla de plástico interior. 8 hojas de pegatinas. Horarios y calendarios (del último semestre de 2024 y de 2025 y 2026 completos).
+- Playlist exclusiva. Páginas para anotar contactos. Tablas de ahorro. Cierre con goma elástica. Blocs de notas adhesivas con formas. Planificador mensual al inicio de cada mes. Frases mensuales supermotivadoras.
+- Esta agenda cuenta con 18 meses de organización: va de julio de 2024 a diciembre de 2025, con organización semanal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CW3NHW9H{{</world>}}

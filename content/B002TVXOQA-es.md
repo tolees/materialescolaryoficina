@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Clip metálico y cuerpo lacado
 - Proporciona una experiencia de escritura agradable
+- Clip metálico y cuerpo lacado
 - Bolígrafo con punta de bola
 - Incluye 50 unidades
 

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Candy Collection - Una nueva colección vibrante y moderna para niñas amantes de la creatividad y los colores de moda. Los colores suaves y los estampados de ensueño evocan el mundo de los dulces y las hadas
 - Sin disolventes
-- Lavable de la piel y los tejidos
 - La tapa con clip ayuda a no perderlo
+- Lavable de la piel y los tejidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1CC3ZB3{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto con certificación FSC, que acredita que la madera con la que está hecho proviene de bosques gestionados según los criterios del Consejo de Administración Forestal (en inglés: Forest Stewardship Council (FSC)), que incluye medidas de gestión sostenible del bosque en los aspectos ecológicos, sociales y económicos, entre otras.
-- Ideal para dibujo escolar
-- Papel de superfície rugosa, lo que permite una gran versatilidad. Ideal tanto para lápiz, como pastel, rotuladores o tinta.
 - Permite líneas gruesas y finas y efectos de sombras
+- Papel de superfície rugosa, lo que permite una gran versatilidad. Ideal tanto para lápiz, como pastel, rotuladores o tinta.
+- Ideal para dibujo escolar
 - Papel artístico de alta calidad de 130 gr.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

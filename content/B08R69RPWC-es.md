@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Rotuladores permanentes Lumocolor
 - Excelentes cualidades a prueba de manchas e impermeables
 - La tinta Dry Safe significa que los rotuladores se pueden dejar sin tapar durante días sin secarse
-- Estuche exclusivo STAEDTLER box reutilizable de 6 rotuladores de punta fina en varios colores: azul, naranja, morado, negro, rosa, verde claro
 - Excelente brillo de los colores
+- Estuche exclusivo STAEDTLER box reutilizable de 6 rotuladores de punta fina en varios colores: azul, naranja, morado, negro, rosa, verde claro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08R69RPWC{{</world>}}

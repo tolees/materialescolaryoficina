@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las etiquetas de plástico Dymo LetraTag tienen certificación FSC y los cartuchos exteriores están hechos de materiales 100% reciclados
 - Los cartuchos se pueden cambiar rápidamente, lo cual resulta práctico cuando está trabajando para terminar un proyecto
 - La impresión térmica elimina la necesidad de usar tinta o tóner
+- Las etiquetas de plástico Dymo LetraTag tienen certificación FSC y los cartuchos exteriores están hechos de materiales 100% reciclados
 - La cinta de poliéster se puede limpiar, es resistente a las roturas, duradera y fácil de usar
 - Etiquetas coloridas y antirroturas para su uso creativo en casa
 

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ideal para colorear y pintar.
+- Colores intensos y brillantes.
 - En estuche de cartón de 12 unidades.
 - Tinta lavable de la mayoría de los tejidos.
-- Colores intensos y brillantes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LL5R3BH{{</world>}}

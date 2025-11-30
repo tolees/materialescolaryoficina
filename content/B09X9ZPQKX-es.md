@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colores brillantes y lavables con una gran cobertura, fáciles de mezclar y sin disolventes
-- Secado rápido, no arruga el papel
-- Témperas sólidas color pastel, sin disolventes, perfectas para el colegio
-- Acabado satinado, no necesita esmalte protector
 - Se aplica sobre folios, cartulinas, madera, cartón
+- Colores brillantes y lavables con una gran cobertura, fáciles de mezclar y sin disolventes
+- Acabado satinado, no necesita esmalte protector
+- Témperas sólidas color pastel, sin disolventes, perfectas para el colegio
+- Secado rápido, no arruga el papel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09X9ZPQKX{{</world>}}

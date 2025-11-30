@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correas en forma de S
-- Espaldar ergonómico
 - Dimensión 27.00X19.00X12.00 cm
+- Espaldar ergonómico
 - Organizador con llavero extraíble
+- Correas en forma de S
 - Dragonary se convierte en tu mochila talismán para combinar con tus looks más desenfadados y tus planes más prácticos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

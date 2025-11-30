@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con 24 formatos de libros, gráficos, cómics y manga
 - Pantalla a color grande y segura para los ojos de 10.3 pulgadas E Ink Kaleido 3
-- Comparte tus notas sin esfuerzo con una función de envío por correo electrónico
-- Texto a voz convierte archivos de texto en audio de sonido natural
+- Compatible con 24 formatos de libros, gráficos, cómics y manga
 - Lápiz capacitivo y una variedad de herramientas para tomar notas en color ideal
+- Comparte tus notas sin esfuerzo con una función de envío por correo electrónico
 - ComfortGaze & SMARTlight ofrecen una comodidad inigualable y seguridad ocular
+- Texto a voz convierte archivos de texto en audio de sonido natural
 - Altavoz integrado, Bluetooth y soporte para 6 formatos de audiolibro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

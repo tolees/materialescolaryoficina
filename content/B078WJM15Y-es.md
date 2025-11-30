@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Genial para proyectos de arte, correcciones o notas
-- Tinta de base acuosa de alta pigmentación y resistente a las manchas
 - Cumple la norma ASTM D4236
-- Exterior de plástico duradero con capuchón y clip de metal a juego
+- Genial para proyectos de arte, correcciones o notas
 - Juego de 12 rotuladores de punta de fieltro en una variedad de colores
 - Con una punta de fieltro de grosor medio que no se deshilacha, ideal para detalles y relleno
+- Tinta de base acuosa de alta pigmentación y resistente a las manchas
+- Exterior de plástico duradero con capuchón y clip de metal a juego
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B078WJM15Y{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No se astilla y resiste mordeduras
+- Cuerpo hexagonal
 - Colores surtidos
 - Fácil de sacar punta
-- Cuerpo hexagonal
+- No se astilla y resiste mordeduras
 - Lápices de colores intensos. Material: resina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
