@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Color naranja
 - Tinta con base al agua
 - Ideal para regalar
-- Color naranja
 - 2 anchos de trazo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

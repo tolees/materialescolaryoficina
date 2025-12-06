@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Dimensión 43.00X31.00X14.00 cm
+- Espaldar ergonómico
 - Organizador con llavero extraíble
 - Correas en forma de S
-- Espaldar ergonómico
-- Dimensión 43.00X31.00X14.00 cm
 - Mochila para portátil con múltiples organizadores para gadgets y total ergonomía.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

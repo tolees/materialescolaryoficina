@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Punta gruesa para colorear zonas grandes y punta fina para perfilar
+- Rotulador escolar doble punta
+- Puntas muy resistentes
 - Tinta superlavable
 - Colores surtidos
-- Puntas muy resistentes
-- Rotulador escolar doble punta
+- Punta gruesa para colorear zonas grandes y punta fina para perfilar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008DCGELQ{{</world>}}

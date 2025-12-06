@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 🇪🇸 Calidad premium fabricada en España: Elaboradas con los mejores materiales, estas fichas garantizan durabilidad y un acabado impecable. Combinan diseño y funcionalidad, perfectas para estudiantes, profesionales y creativos.
 - 🖊️ Cartulina resistente para una escritura impecable: Fabricadas con papel cartulina de 200 g/m², estas fichas evitan que la tinta traspase, manteniendo tus anotaciones limpias. Perfectas para usar con bolígrafos, lápices o marcadores.
-- 📚 Tamaño A6 (148 x 105 mm), amplias y espaciosas: Diseñadas para notas detalladas, presentaciones, mapas mentales y diagramas. Son perfectas para actividades que requieren mayor espacio para creatividad o análisis.
 - 🌈 200 fichas rayadas en colores pastel suaves: Diseñadas en 4 tonos pastel (rosa, azul, amarillo y verde), estas tarjetas añaden un toque de estilo y organización visual a tus apuntes. ¡Perfectas para diferenciar temas o categorías!
 - ✍️ Rayadas con cabecera para mayor orden: Las líneas cuidadosamente alineadas y una cabecera destacada te ayudan a organizar títulos, fechas o temas de forma clara y profesional. Ideales para estudiar, tomar notas o planificar proyectos.
-- 🇪🇸 Calidad premium fabricada en España: Elaboradas con los mejores materiales, estas fichas garantizan durabilidad y un acabado impecable. Combinan diseño y funcionalidad, perfectas para estudiantes, profesionales y creativos.
+- 📚 Tamaño A6 (148 x 105 mm), amplias y espaciosas: Diseñadas para notas detalladas, presentaciones, mapas mentales y diagramas. Son perfectas para actividades que requieren mayor espacio para creatividad o análisis.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M25IWWT{{</world>}}

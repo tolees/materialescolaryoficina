@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Volumen: 22 l
 - El bolsillo de malla en el lateral ofrece espacio de almacenamiento para una botella de agua
+- Volumen: 22 l
 - Con acolchado en las correas e inserto en la espalda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

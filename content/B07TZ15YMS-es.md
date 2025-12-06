@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Repelente al agua
-- 100 % poliamida
 - 0,47 kg de peso, volumen de 13 l
-- Mochila pequeña
+- Repelente al agua
 - 33,5 cm de alto x 27 cm de ancho x 19 cm de profundidad
+- 100 % poliamida
+- Mochila pequeña
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TZ15YMS{{</world>}}
