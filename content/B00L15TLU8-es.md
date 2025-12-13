@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Incluye goma de borrar
-- Con tinta borrable
-- Bolígrafos recargables
 - Trazo medio de 0.7 mm
+- Bolígrafos recargables
+- Con tinta borrable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00L15TLU8{{</world>}}

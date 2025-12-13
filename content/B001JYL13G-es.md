@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistentes a la intemperie
 - Adhesivo: Permanente
-- Etiquetas para impresoras láser y fotocopiadoras
 - Cantidad de etiquetas: 20
+- Resistentes a la intemperie
+- Etiquetas para impresoras láser y fotocopiadoras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B001JYL13G{{</world>}}

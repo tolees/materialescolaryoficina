@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deja volar tu imaginación con este set de pinceles con depósito de agua acuarelables recargables.
 - Depósito de 10ml de capacidad para rellenarlo de líquidos como agua, tinta, pintura… Cuando termines de usarlos, para su limpieza, bastará con sumergirlos en agua y listo para empezar de nuevo!
 - Escritura fluida y sin goteo para un trazo limpio y con precisión.
 - Dibuja trazos desde el más fino al más grueso utilizando los diferentes pinceles.
 - Cerdas de Nylon de gran calidad que no se deforman con el uso.
+- Deja volar tu imaginación con este set de pinceles con depósito de agua acuarelables recargables.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MUC6EFS{{</world>}}

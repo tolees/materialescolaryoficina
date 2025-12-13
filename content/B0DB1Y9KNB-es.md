@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Recomendado para niños a partir de 5-6 años, aunque la edad es muy relativa en cuanto a puzzles.
+- Los puzles ayudan a mejorar y desarrollar multitud de capacidades y habilidades: mejoran su concentración, la observación, la memoria y la resolución de problemas; y desarrollan la percepción espacial, la psicomotricidad fina y la coordinación mano-ojo.
 - Incluye 200 piezas de tamaño 6 x 3 cm y 2 fichas con información sobre las especies amenazadas y las razones de su situación en 16 idiomas distintos. Tamaño del puzzle montado: 100 x 30 cm.
 - Puzzle Infantil de Animales amenazados, modelo Océano, para identificar las especies en riesgo de extinción y para crear conciencia en los más pequeños acerca de la importancia de cuidar el ecosistema. Una vez construido el puzle, los niños aprenderán acerca el mundo marino.
-- Los puzles ayudan a mejorar y desarrollar multitud de capacidades y habilidades: mejoran su concentración, la observación, la memoria y la resolución de problemas; y desarrollan la percepción espacial, la psicomotricidad fina y la coordinación mano-ojo.
-- Recomendado para niños a partir de 5-6 años, aunque la edad es muy relativa en cuanto a puzzles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DB1Y9KNB{{</world>}}

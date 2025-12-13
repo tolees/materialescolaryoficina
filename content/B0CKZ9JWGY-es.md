@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estadística; menú MathBox
-- Integrales definidas y derivadas en un punto; cálculos con números complejos
 - Más de 560 funciones; constantes científicas; cálculo vectorial y de matrices; conversión de unidades
+- Integrales definidas y derivadas en un punto; cálculos con números complejos
 - Alimentación solar; hoja de cálculo; código QR; distribuciones de probabilidad; 12 dígitos
+- Estadística; menú MathBox
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKZ9JWGY{{</world>}}
