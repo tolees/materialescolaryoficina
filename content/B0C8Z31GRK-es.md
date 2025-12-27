@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula libre de solventes y no tóxica, apto para uso escolar
-- Pegamento escolar líquido con un tapón dosificador de punta no desmontable que permite una aplicación fácil y precisa
 - El adhesivo ideal para utilizar en papel, cartulina y cartón pero también en madera, por lo que es apto para proyectos de manualidades
 - El formato ideal para proyectos grandes en los que se requiera mayor cantidad de adhesivo en cada aplicación
+- Fórmula libre de solventes y no tóxica, apto para uso escolar
 - PACK AHORRO COLA BLANCA universal. 2 Botellas de 250 g
+- Pegamento escolar líquido con un tapón dosificador de punta no desmontable que permite una aplicación fácil y precisa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8Z31GRK{{</world>}}

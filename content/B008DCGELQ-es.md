@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rotulador escolar doble punta
-- Tinta superlavable
 - Colores surtidos
+- Rotulador escolar doble punta
 - Punta gruesa para colorear zonas grandes y punta fina para perfilar
+- Tinta superlavable
 - Puntas muy resistentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

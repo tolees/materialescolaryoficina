@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Se incluyen también 10 fichas con un total de 20 ejemplos
 - Recomendado para niños a partir de 5 años
 - Este producto ayuda a desarrollar la psicomotricidad fina, la memoria y la imaginación, fomenta la concentración y promueve el trabajo lógico-matemático
-- Se incluyen también 10 fichas con un total de 20 ejemplos
 - La pizarra incluye un lápiz amarillo con punta metálica para usar con la pizarra
 - Pizarra magnética tamaño 215 x 12 x 170 mm en color rojo
 

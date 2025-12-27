@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Rotulador Pigment Pen con tinta innovadora Multi Ink en negro intenso para el diseño de la escritura y para acentuar el motivo; lápiz Mars Lumograph para esbozar las líneas básicas
 - Lápiz de madera certificada garantiza una silvicultura sostenible; la carcasa de los rotuladores está hecha de 97% plástico reciclado
-- Contenido del envío: Set de 4 rotuladores punta pincel en colores surtidos, 1 rotulador punta pincel suave, 1 rotulador punta redonda, 1 lápiz, 1 goma de borrar y 1 afilalápices de metal en estuche de cartón
 - Set con instrumentos de escritura y dibujo para realizar creaciones artísticas
 - Rotuladores con pincel de firmeza media y pincel suave con tinta innovadora Multi Ink para colorear, diseñar elementos decorativos y sombrear suavemente las letras
+- Contenido del envío: Set de 4 rotuladores punta pincel en colores surtidos, 1 rotulador punta pincel suave, 1 rotulador punta redonda, 1 lápiz, 1 goma de borrar y 1 afilalápices de metal en estuche de cartón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BXPY2QBM{{</world>}}

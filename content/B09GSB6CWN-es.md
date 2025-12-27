@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Brazos regulables 1D
+- Giratoria 360º
+- Respaldo alto reclinable con cabecero regulable en 3 posiciones
+- Función balanceo
+- Silla de oficina de diseño ergonómico (La entrega se hace a pie de calle, no se introduce el producto en el edificio. No dispone de servicio de montaje)
 - Peso máximo 135 kg
 - Ruedas de perfil bajo, fabricadas en goma y nylon negro
-- Base piramidal de aluminio pulido a con 60 cm. de diámetro y 5 radios
-- Respaldo alto reclinable con cabecero regulable en 3 posiciones
-- Brazos regulables 1D
-- Función balanceo
-- Giratoria 360º
 - Asiento ajustable en altura 45.5-52.5 cm
+- Base piramidal de aluminio pulido a con 60 cm. de diámetro y 5 radios
 - Tapizada en malla negra de alta resistencia y espuma de densidad 28kg/m3
-- Silla de oficina de diseño ergonómico (La entrega se hace a pie de calle, no se introduce el producto en el edificio. No dispone de servicio de montaje)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09GSB6CWN{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuerpo triangular ergonómico para una escritura relajada
-- 10 colores de tinta surtidos: amarillo, naranja, rojo, magenta, violeta, azul, azul claro, verde, verde claro y negro
-- Contenido del envío: 10 bolígrafos triangulares de colores surtidos en estuche de cartón
-- Diámetro bola 1,0 mm aprox para un ancho de línea medio
 - Escritura especialmente fácil
+- Contenido del envío: 10 bolígrafos triangulares de colores surtidos en estuche de cartón
+- Cuerpo triangular ergonómico para una escritura relajada
+- Diámetro bola 1,0 mm aprox para un ancho de línea medio
+- 10 colores de tinta surtidos: amarillo, naranja, rojo, magenta, violeta, azul, azul claro, verde, verde claro y negro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVRPTT1K{{</world>}}

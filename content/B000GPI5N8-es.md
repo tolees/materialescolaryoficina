@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lápiz de alta calidad con goma de borrar incorporada
-- Adecuado para la escuela y la oficina
 - Hecho de madera, con mina HB y goma de borrar sin PVC ni látex
+- Adecuado para la escuela y la oficina
+- Lápiz de alta calidad con goma de borrar incorporada
 - Tiene resistencia a la rotura gracias a la especial formulación de la mina y a su doble encoladura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

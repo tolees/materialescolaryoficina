@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye 50 unidades
-- Proporciona una experiencia de escritura agradable
 - Clip metálico y cuerpo lacado
+- Proporciona una experiencia de escritura agradable
 - Bolígrafo con punta de bola
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
 - Correas de hombro acolchadas y ajustables
+- Detalles distintivos de la marca
 - Tejido duradero
 - Gran compartimento principal
 
