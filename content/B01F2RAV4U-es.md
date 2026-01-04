@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se puede abrir para grapar en un tablón de anuncios; dale la vuelta a la base para fijar documentos
 - La grapadora tiene una capacidad de hasta 200 grapas y puede grapar 10 hojas a la vez
-- Base totalmente de goma que mantiene la grapadora en su sitio cuando la usas, sin deslizarse o arrastrarse
+- Se puede abrir para grapar en un tablón de anuncios; dale la vuelta a la base para fijar documentos
 - Una buena elección en espacios de trabajo compartidos
 - Contornos lisos y un acabado negro mate
+- Base totalmente de goma que mantiene la grapadora en su sitio cuando la usas, sin deslizarse o arrastrarse
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01F2RAV4U{{</world>}}

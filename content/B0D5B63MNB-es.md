@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medida del estuche: 185 x 55 x 75 mm
-- Estuche funcional, minimalista, flexible y moldeable, con cremallera esmaltada.
 - Estuche de silicona rectangular color negro de la gama UpNorth Collection.
 - Silicona de alta calidad con acabado tacto suave.
+- Medida del estuche: 185 x 55 x 75 mm
 - Resistente al agua y muy fácil de limpiar.
+- Estuche funcional, minimalista, flexible y moldeable, con cremallera esmaltada.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D5B63MNB{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Editar, dibujar, escribir y dibujar: con este bolígrafo podrás hacerlo con la mayor precisión y naturalidad, como en el papel, gracias a su punta de precisión.
-- Escriba de forma natural mientras su PC convierte instantáneamente su escritura a mano en texto
-- Cargue el lápiz utilizando el adaptador de corriente de la computadora o un cable o adaptador de carga USB tipo C (se vende por separado).
 - Dibuja, toma notas o firma con un lápiz compatible con Microsoft que funciona perfectamente con tu computadora portátil HP
+- Cargue el lápiz utilizando el adaptador de corriente de la computadora o un cable o adaptador de carga USB tipo C (se vende por separado).
+- Editar, dibujar, escribir y dibujar: con este bolígrafo podrás hacerlo con la mayor precisión y naturalidad, como en el papel, gracias a su punta de precisión.
 - Personalice los botones para adaptarlos a sus necesidades para que pueda cambiar sin problemas entre funciones
+- Escriba de forma natural mientras su PC convierte instantáneamente su escritura a mano en texto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09FTKJGZP{{</world>}}

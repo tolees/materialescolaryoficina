@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ofrece una amplia gama de posibilidades de coloreado - también con agua y pincel
+- Lápiz de color de diseño hexagonal con mina acuarelable
 - Mina especialmente suave y de colores intensos
 - Madera certificada PEFC, procedente de bosques de gestión sostenible
-- Lápiz de color de diseño hexagonal con mina acuarelable
 - ABS - el recubrimiento protector blanco refuerza la mina e incrementa su resistencia a la rotura
 
 [🛒 Visítala!!!]({{< param buyurl >}})

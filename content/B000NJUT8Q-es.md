@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta caja contiene 12 unidades con tinta negra
+- Fabricado con un 51 % de materiales reciclados (sistema de tinta excluido) y con la etiqueta ecológica NF Environnement: ¡bravo, BIC!
 - Su punta cónica fija traza líneas gruesas, limpias y nítidas sin verse afectada por la presión contra la pizarra blanca
 - Su tinta de secado rápido es prácticamente inodora y se borra de una pasada, incluso después de días; adecuado para las tareas más largas
-- Fabricado con un 51 % de materiales reciclados (sistema de tinta excluido) y con la etiqueta ecológica NF Environnement: ¡bravo, BIC!
+- Esta caja contiene 12 unidades con tinta negra
 - El rotulador de pizarra BIC Velleda 1701 es adecuado para los profesionales a los que les gustan las presentaciones claras y con estilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

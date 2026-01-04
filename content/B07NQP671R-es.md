@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gama Alpino Color Experience: La gama de productos premium de Alpino ideada para sentir los colores, evadirse y disfrutar coloreando. Una gama llena de color, caligrafía, arte, mandalas... En ella encontrarás lápices de colores, rotuladores para hand lettering, packs de caligrafía, bullet journal, etc.
+- El Kit de Hand Lettering incluye: 24 rotuladores de colores pincel, 1 Rotulador Super pincel, 1 Rotulador punta fina 0,7mm, 1 Rotulador de doble punta con una punta ancha y punta fina, 1 Rotulador punta fina para detalles, 1 lápiz de grafito y 1 goma de borrar.
 - Rotuladores Lettering: Perfectos para los apasionados del lettering que buscan dibujas letras a mano de una manera divertida y creativa.
 - Hand Lettering: con los rotuladores específicos para hand lettering tendrás la posibilidad de desarrollar tu creatividad dibujando letras a mano de la manera más divertida.
-- El Kit de Hand Lettering incluye: 24 rotuladores de colores pincel, 1 Rotulador Super pincel, 1 Rotulador punta fina 0,7mm, 1 Rotulador de doble punta con una punta ancha y punta fina, 1 Rotulador punta fina para detalles, 1 lápiz de grafito y 1 goma de borrar.
-- Gama Alpino Color Experience: La gama de productos premium de Alpino ideada para sentir los colores, evadirse y disfrutar coloreando. Una gama llena de color, caligrafía, arte, mandalas... En ella encontrarás lápices de colores, rotuladores para hand lettering, packs de caligrafía, bullet journal, etc.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NQP671R{{</world>}}

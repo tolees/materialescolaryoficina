@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mayor resistencia a la rotura. Diseño a rayas negras y del mismo color que la mina
 - Primer lápiz de color fabricado con el innovador material WOPEX
-- Fabricado con material WOPEX ecológico, con certificado PEFC, con madera procedente de bosques de gestión sostenible
+- Mayor resistencia a la rotura. Diseño a rayas negras y del mismo color que la mina
 - Lápiz de color de diseño hexagonal
+- Fabricado con material WOPEX ecológico, con certificado PEFC, con madera procedente de bosques de gestión sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00SF4NTF6{{</world>}}

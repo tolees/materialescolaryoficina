@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Además de ser magnético, lo que permite colgarlo en la superficie de la nevera, por ejemplo, también es posible colgarlo en una pared, si se desea.
-- Indicaciones: borrar utilizando un paño limpio y seco.
-- Incluye xxx imanes de colores para señalar tareas o días importantes.
 - Planificador semanal magnético, con superficie de pizarra blanca. Incluye un rotulador borrable con tinta de color xxx, lo que permite usarlo por tiempo indefinido.
+- Indicaciones: borrar utilizando un paño limpio y seco.
+- Además de ser magnético, lo que permite colgarlo en la superficie de la nevera, por ejemplo, también es posible colgarlo en una pared, si se desea.
+- Incluye xxx imanes de colores para señalar tareas o días importantes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1RB9RF8{{</world>}}

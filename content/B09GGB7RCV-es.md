@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pack iniciación al lettering: set de 12 rotuladores Dual Artist de Alpino Color Experience + Libro guía de Iniciación al Lettering.
+- Incluye: libro con guía paso a paso para iniciarte al Lettering con una explicación directa y fácil. Aprende a dibujar paso a paso las letras y a hacer composiciones. Incluye técnicas, ejemplos y páginas para practicar Lettering. El libro tiene 100 páginas.
 - Gama Alpino Color Experience: La gama de productos premium de Alpino ideada para sentir los colores, evadirse y disfrutar coloreando. Una gama llena de color, caligrafía, arte, mandalas... En ella encontrarás lápices de colores, rotuladores para hand lettering, packs de caligrafía, bullet journal, etc.
 - El pack incluye rotuladores Dual Artist de Alpino Color Experience de colores vivos y brillantes. Tienen forma triangular ergonómica y doble punta (Punta fina 0,7 mm y punta pincel de 2,9 mm).
-- Incluye: libro con guía paso a paso para iniciarte al Lettering con una explicación directa y fácil. Aprende a dibujar paso a paso las letras y a hacer composiciones. Incluye técnicas, ejemplos y páginas para practicar Lettering. El libro tiene 100 páginas.
-- Pack iniciación al lettering: set de 12 rotuladores Dual Artist de Alpino Color Experience + Libro guía de Iniciación al Lettering.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09GGB7RCV{{</world>}}

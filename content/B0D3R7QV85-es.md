@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuidados: lavar en agua fría. No usar lejía. No meter en la secadora. No planchar. No lavar en seco.
 - Con asas de longitud ajustable y un bolsillo exterior en uno de sus laterales, cuyo tirador tiene forma de unicornio Mr. Wonderful (quien es también protagonista del diseño central), lo que le aporta originalidad.
 - Mochila tipo saco, realizada en neopreno.
-- Cuidados: lavar en agua fría. No usar lejía. No meter en la secadora. No planchar. No lavar en seco.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D3R7QV85{{</world>}}

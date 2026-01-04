@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza ¡No te lo pienses más y consigue nuestro archivador Grupo Erik!
-- PENSAMOS EN NUESTROS CLIENTES - ¿Te resulta complicado organizar tus documentos de estudio o trabajo? Con esta bonita carpeta todo será más sencillo y mantendrás todos tus documentos siempre en orden
 - DISEÑO PREMIUM - Sus portadas estan forradas en un papel láminado para proporcionar un color y un efecto increíble. Hemos usado las licencias oficiales más demandadas por nuestra público y hemos creado diseños premium únicos ¡Te encantarán nuestra nueva gama de carpetas Grupo Erik!
 - ARCHIVADOR ESCOLAR - El nuevo curso ya está aquí y que mejor manera de comenzarlo con un artículo esencial de material escolar ¡Nuestra carpeta Stranger Things! Un archivador con 2 anillas A4 perfecto para guardar tus apuntes y tenerlos siempre organizados
+- PENSAMOS EN NUESTROS CLIENTES - ¿Te resulta complicado organizar tus documentos de estudio o trabajo? Con esta bonita carpeta todo será más sencillo y mantendrás todos tus documentos siempre en orden
+- ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza ¡No te lo pienses más y consigue nuestro archivador Grupo Erik!
 - CARPETA A4 - Ahora con nuestra nueva gama de archivadores A4 ordenar tus apuntes y tenerlos siempre a tu alcance será más sencillo. Esta carpeta anillas posee una tapa dura de cartón rígida y una goma elástica para tener protegido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

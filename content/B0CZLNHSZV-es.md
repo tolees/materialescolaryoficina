@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: 15 cm x 31 cm x 44 cm
 - Correas acolchadas y ajustables para los hombros
 - 100% poliéster (reciclado)
-- Bolsillos laterales sin cierre
 - Bolsillo frontal con cremallera
+- Bolsillos laterales sin cierre
+- Dimensiones: 15 cm x 31 cm x 44 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZLNHSZV{{</world>}}
