@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimentación: 2 pilas AAA
 - Calculadora científica M240 serie Silver color turquesa con resistente carcasa protectora con acabado plateado Silver.
+- Alimentación: 2 pilas AAA
 - Pantalla de 2 líneas de lectura, de 10+2 dígitos.
 - Incluye instrucciones
 - 240 funciones integradas, incluyendo 124 científicas.

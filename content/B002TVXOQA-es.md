@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolígrafo con punta de bola
-- Proporciona una experiencia de escritura agradable
 - Incluye 50 unidades
+- Proporciona una experiencia de escritura agradable
+- Bolígrafo con punta de bola
 - Clip metálico y cuerpo lacado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

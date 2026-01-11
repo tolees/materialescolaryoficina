@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para técnicas de limpieza y plantillas o efectos versátiles en combinación con tizas, disolventes
 - La consistencia suave permite una aplicación suave y una mezcla muy fácil
-- Resistente al agua, sin ácidos, certificado CE
-- Cantidad de unidades: 6.0
-- Orientación de la mano: ambidiestro
 - Prácticas tizas en colores fluorescentes con alta cobertura
-- Resistente al agua
+- Orientación de la mano: ambidiestro
 - Adecuado para papel fuerte, así como para cartón, lino, madera
+- Cantidad de unidades: 6.0
+- Ideal para técnicas de limpieza y plantillas o efectos versátiles en combinación con tizas, disolventes
+- Resistente al agua, sin ácidos, certificado CE
+- Resistente al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCK2PX1Y{{</world>}}

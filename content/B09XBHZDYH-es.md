@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Carro metálico con cinta de color azul y logo Oxford bordado
-- Fabricado en Poliéster resistente, su goma elástica permite acoplarlo fácilmente a los cuadernos y de esta forma poder transportarlo cómodamente
-- Es muy estable y se mantiene en pie sobre la mesa para poder acceder fácilmente
 - Estuche con triple compartimento de gran capacidad. Medidas: 22,5 x 11 x 7 cm
 - Triple cremallera y forro interior de tela a juego con el estuche
+- Fabricado en Poliéster resistente, su goma elástica permite acoplarlo fácilmente a los cuadernos y de esta forma poder transportarlo cómodamente
+- Es muy estable y se mantiene en pie sobre la mesa para poder acceder fácilmente
+- Carro metálico con cinta de color azul y logo Oxford bordado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XBHZDYH{{</world>}}

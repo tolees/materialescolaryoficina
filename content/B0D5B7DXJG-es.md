@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resistente al agua y muy fácil de limpiar.
 - Estuche funcional, minimalista, flexible y moldeable, con cremallera esmaltada.
-- Medida del estuche: 185 x 55 x 75 mm
 - Estuche de silicona rectangular color azul de la gama UpNorth Collection.
 - Silicona de alta calidad con acabado tacto suave.
+- Resistente al agua y muy fácil de limpiar.
+- Medida del estuche: 185 x 55 x 75 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D5B7DXJG{{</world>}}

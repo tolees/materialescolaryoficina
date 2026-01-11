@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Se presenta en un estuche alargable de silicona con forma de koala. Este estuche alargable con forma de koala esconde una sorpresa: nada menos que 6 bolis borrables Bo-Bo para darlo todo.
-- Colores de las tintas: azul, negro, verde, rojo, rosa y naranja.
+- Material del estuche: silicona.
 - El set incluye 6 bolis borrables, con 6 Bo-Bo originales.
 - Set con 6 bolis borrables Bo-Bo originales, con los siguientes personajes: Rita la Margarita, Mole el Aguacate, Naiala la Koala, Miranda la Osa Panda, Felipe el Tigre y Julieta la Planeta. Colores de las tintas: azul, negro, verde, rojo, rosa y naranja.
-- Material del estuche: silicona.
+- Colores de las tintas: azul, negro, verde, rojo, rosa y naranja.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DKXK4K8M{{</world>}}

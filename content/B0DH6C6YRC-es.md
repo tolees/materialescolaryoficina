@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca "UNDER ARMOUR"
 - Vida al aire libre
+- Tiene detalles distintivos de la marca "UNDER ARMOUR"
 - Mochila de uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

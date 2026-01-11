@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sujeción de caucho ondulada muy cómoda con un clip metálico sólido
-- La revolucionaria tinta Energel, basada en una tinta de gel más liquida, de baja viscosidad y gran intensidad, proporciona una gran suavidad en la escritura
 - Secado más rápido que con el gel normal, más similar a la tinta líquida, es ideal para zurdos
 - No necesita regulador capilar para controlar el fluido de la tinta, puesto que la fluye directamente desde su depósito o recambio, hasta la punta en una suave transición
+- La revolucionaria tinta Energel, basada en una tinta de gel más liquida, de baja viscosidad y gran intensidad, proporciona una gran suavidad en la escritura
 - La familia de productos Energel le ofrecen una sensación de escritura única: ultrasuave, muy fluida y de secado rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

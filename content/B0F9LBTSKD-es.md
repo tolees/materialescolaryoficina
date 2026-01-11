@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - CONTENIDO: Plan anual desplegable, planificación anual fija, horario, calendarios, anualidad y 6 meses complementarios Quincena a la vista.
 - INTERIOR: Semana Vista Vertical. Visión de la semana completa en vertical. Idioma del artículo: español. Con información de los festivos de España.
-- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 - DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
+- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 - MATERIAL: Papel - 80 g/m².
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vida al aire libre
 - Tiene detalles distintivos de la marca, la misma es Puma
+- Vida al aire libre
 - Mochila de uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

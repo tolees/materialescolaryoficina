@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 📐 CALENDARIO A3 de 420 x 296 mm fabricado en papel de 140 g/m² con certificación FSC. Gran formato ideal para ver todo de un vistazo y organizarte sin perder detalle.
 - 📅 CALENDARIO DE PARED 2026 12 meses (Enero 2026 - Diciembre 2026) con espiral doble y pieza metálica para colgar. Planifica cada mes con comodidad y estilo, ideal para tener siempre a la vista tus planes y compromisos.
-- 🔝 DESCUBRE EL CALENDARIO MIQUELRIUS 2026 más completo para tu día a día, con diseño limpio, contenido detallado y una estética moderna y funcional.
 - ✏ PLANIFICADOR 2026 con casillas amplias para anotar tus citas, eventos y recordatorios. Visualiza el mes completo de un vistazo y consulta también el mes anterior y posterior.
 - ☑ INCLUYE calendario anual en el reverso con festivos nacionales, autonómicos y de capitales, fases lunares, signos del zodiaco, horario solar, planning 2027 y más.
+- 🔝 DESCUBRE EL CALENDARIO MIQUELRIUS 2026 más completo para tu día a día, con diseño limpio, contenido detallado y una estética moderna y funcional.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHKZNHDH{{</world>}}

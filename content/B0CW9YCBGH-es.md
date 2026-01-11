@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Doble compartimento principal para los libros, libretas o carpetas, y con un bolsillo para guardar accesorios o incluso la tablet.
-- Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda y banda trasera para adaptar la mochila a un carro opcional o llevarla enganchada a la maleta.
-- Dos bolsillos laterales y dos bolsillos frontales de cremallera.
 - Mochila de 30 cm x 40 cm x 12 cm fabricada en Poliéster.
+- Doble compartimento principal para los libros, libretas o carpetas, y con un bolsillo para guardar accesorios o incluso la tablet.
+- Dos bolsillos laterales y dos bolsillos frontales de cremallera.
+- Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda y banda trasera para adaptar la mochila a un carro opcional o llevarla enganchada a la maleta.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CW9YCBGH{{</world>}}

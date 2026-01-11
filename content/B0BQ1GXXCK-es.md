@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mini marcador negro adicional
 - Diseño de graffiti genial
-- Mini subrayador - plena potencia
 - Tecnología antisecado de 4 horas
 - STABILO Calidad fabricada en Alemania
+- Mini subrayador - plena potencia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQ1GXXCK{{</world>}}
