@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contiene 100 hojas
-- Tecnología de la impresora: inyección de tinta
 - Acabado brillante de papel
 - Papel de 140 g/m²
+- Tecnología de la impresora: inyección de tinta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002YNZORA{{</world>}}

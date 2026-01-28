@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo de usar
 - Producto deportivo
+- Cómodo de usar
 - Mejora tu experiencia deportiva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

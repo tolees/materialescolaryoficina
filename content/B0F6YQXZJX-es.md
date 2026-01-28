@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfecto para líneas finas o gruesas
 - Su punta delgada y cónica permite mucha flexibilidad para trabajar la curva de la línea de las pestañas.
 - Waterproof y a prueba de manchas.
+- Perfecto para líneas finas o gruesas
 - Este perfilador de ojos líquido en formato rotulador proporciona un negro intenso que dura hasta 24 horas
 - No transfiere ni se corre.
 

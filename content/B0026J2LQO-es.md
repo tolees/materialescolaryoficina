@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lápices Ø 6,8 mm de grosor con mina de calidad superior, de diámetro Ø 3,3 mm
 - Colores alegres e intensos
-- Barnizados en el color de la mina con esquinas plateadas
 - Lápices de colores hexagonales
+- Barnizados en el color de la mina con esquinas plateadas
 - Disponen de espacio para escribir el nombre
+- Lápices Ø 6,8 mm de grosor con mina de calidad superior, de diámetro Ø 3,3 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0026J2LQO{{</world>}}

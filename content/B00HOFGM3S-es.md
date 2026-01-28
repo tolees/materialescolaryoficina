@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- FORMATO: Aproximadamente 23 metros por rollo; pack de 10 unidades, con lo que se obtienen unos 230 m de longitud de papel térmico
 - IMPRESIÓN a través de transferencia de calor sin necesidad de tinta; especialmente indicado para recibos, tickets y facturas de cajas registradoras, sistemas TPV
 - PACK 10 rollos de papel térmico de gramaje 55 g/m² y tamaño 57 x 45 x 12 mm (ancho del ticket x diámetro del rollo x diámetro del mandril)
 - CALIDAD APLI: Papel térmico de gran calidad, libre de Bisphenol-A (BPA) y de bajo residuo, manteniendo la impresora libre de impurezas
-- FORMATO: Aproximadamente 23 metros por rollo; pack de 10 unidades, con lo que se obtienen unos 230 m de longitud de papel térmico
 - En APLI ofrecemos packs de rollos de papel térmico, papel clásico Electra para impresiones con tinta y papel autocopiativo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

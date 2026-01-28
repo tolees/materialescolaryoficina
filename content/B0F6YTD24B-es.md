@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Larga duración
-- De larga duración; definir; efecto tinte; color intenso
-- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 - Punta precisa para una aplicación sencilla
-- Fórmula acuosa y altamente pigmentada
+- De larga duración; definir; efecto tinte; color intenso
 - La siguiente información se aplica a cada unidad del paquete
+- Larga duración
+- Fórmula acuosa y altamente pigmentada
+- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F6YTD24B{{</world>}}

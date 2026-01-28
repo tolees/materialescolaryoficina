@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un set perfecto para regalar, una vez realizado resulta muy decorativo. Con materiales sostenibles, papel y cartón.
 - La caja incluye todos los elementos necesarios para crear tu orquídea de nuestra nueva serie Floral Art.
-- Kit de manualidad para realizar una orquídea en papel sin necesidad de pegamento, ni tijeras.
-- Contenido: - Cartón troquelado, hojas de papel pretoqueladas impresas a dos caras, tubo de plástico cortado a diferentes medidas, parrilla de plástico de color verde, parrilla plástico color amarillo.
 - Cada flor tiene hojas decorativas de altura y posición regulable de los tallos, estos se pueden girar, subir y bajar a lo largo del tallo. La planta se puede montar con diferentes estructuras según se vayan colocando los conectores. Recomendado a partir de 14 años.
+- Kit de manualidad para realizar una orquídea en papel sin necesidad de pegamento, ni tijeras.
+- Un set perfecto para regalar, una vez realizado resulta muy decorativo. Con materiales sostenibles, papel y cartón.
+- Contenido: - Cartón troquelado, hojas de papel pretoqueladas impresas a dos caras, tubo de plástico cortado a diferentes medidas, parrilla de plástico de color verde, parrilla plástico color amarillo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4R6VPY4{{</world>}}

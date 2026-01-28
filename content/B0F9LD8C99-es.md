@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
-- CONTENIDOS: Plan anual desplegable, planificación anual fija, horario, calendarios, anualidad y 2 meses complementarios Quincena Vista.
 - Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 - MATERIAL: Papel - 80 g/m².
+- CONTENIDOS: Plan anual desplegable, planificación anual fija, horario, calendarios, anualidad y 2 meses complementarios Quincena Vista.
+- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
 - INTERIOR: 2 Días Página. Amplitud de escritura para cada día. Con espacio para concretar horario. Idioma del artículo: catalán. Con información de los festivos de Cataluña.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

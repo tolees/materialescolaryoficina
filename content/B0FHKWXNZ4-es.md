@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 📑 CONTENIDO VARIADO Y MUY COMPLETO 📑 Planning mensual, fechas importantes, calendarios trianuales, secciones para notas, direcciones y visión bimensual.
+- 🗓️ PLANIFICACIÓN DETALLADA DÍA A DÍA 🗓️ Cada jornada cuenta con su propia página de enero a diciembre 2026. Sábado y domingo también disponen de espacio completo.
+- 📐 TAMAÑO PLUS 155 × 213 mm 📐 Medida ideal para quienes escriben mucho. Similar a un A5+, ofrece amplitud sin dejar de ser cómodo de transportar.
 - 🌍 AGENDA 2026 EN TRES IDIOMAS 🌍 Español, inglés y portugués. Incluye festivos nacionales e iconos para eventos destacados como cambio horario, inicio de estaciones, año nuevo chino, carnaval, lluvia de estrellas…
 - ♻️ CUBIERTA RESISTENTE Y PAPEL FSC ♻️ Tapa plástica de polipropileno con año serigrafiado. Papel extra opaco de 80 g/m², certificado FSC Mix Credit y microperforado.
-- 📐 TAMAÑO PLUS 155 × 213 mm 📐 Medida ideal para quienes escriben mucho. Similar a un A5+, ofrece amplitud sin dejar de ser cómodo de transportar.
-- 🗓️ PLANIFICACIÓN DETALLADA DÍA A DÍA 🗓️ Cada jornada cuenta con su propia página de enero a diciembre 2026. Sábado y domingo también disponen de espacio completo.
+- 📑 CONTENIDO VARIADO Y MUY COMPLETO 📑 Planning mensual, fechas importantes, calendarios trianuales, secciones para notas, direcciones y visión bimensual.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FHKWXNZ4{{</world>}}

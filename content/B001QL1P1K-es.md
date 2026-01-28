@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punta biselada ultrasuave de aproximadamente 1 y 5 mm de ancho; perfecto para escribir en papel, fax y fotocopias
-- Gran depósito de tinta recargable que, junto al cuerpo y capuchón en polipropileno, otorgan una alta durabilidad; es seguro para viajar en avión
 - Paquete de 8 fluorescentes de colores surtidos presentados en un estuche de plástico transparente, ideal para un almacenamiento eficiente
+- Punta biselada ultrasuave de aproximadamente 1 y 5 mm de ancho; perfecto para escribir en papel, fax y fotocopias
 - Colores brillantes e intensos; los colores turquesa y violeta permanecen visibles en fotocopias; resistentes a la luz durante años
+- Gran depósito de tinta recargable que, junto al cuerpo y capuchón en polipropileno, otorgan una alta durabilidad; es seguro para viajar en avión
 - Ink jet safe; tinta permanente de secado rápido; no emborrona las impresiones a chorro de tinta ni los textos manuscritos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

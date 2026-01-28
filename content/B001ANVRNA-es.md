@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lápices sin madera hecha de resina sintética
-- Incluye 60 lápices ajustable con el afilador estándar
-- Producto 50% reciclable
 - Cuerpo hexagonal con mina resistente a morder o caer
+- Producto 50% reciclable
+- Incluye 60 lápices ajustable con el afilador estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001ANVRNA{{</world>}}

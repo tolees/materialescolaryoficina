@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Llévatelo a donde quieras; nuevo CONECTOR BABY en formato libro con boli con luz y sonido; juego de preguntas y respuestas para los pequeños con los temas interesantes como: colores, formas, siluetas, los animales, y muchos
 - Juego educativo para asocias preguntas con respuestas donde los niños estimularan la observación, precepción visual, discriminación etc
+- Llévatelo a donde quieras; nuevo CONECTOR BABY en formato libro con boli con luz y sonido; juego de preguntas y respuestas para los pequeños con los temas interesantes como: colores, formas, siluetas, los animales, y muchos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D67BW2HC{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - 6 marcadores con colores variados de tonalidades pastel presentados en una caja transparente, ideal para un almacenamiento eficiente.
 - Ink Jet Safe. Tinta permanente de secado rápido, que no emborrona las impresiones a chorro de tinta ni los textos manuscritos
-- Punta biselada ultrasuave de aproximadamente 1 y 5 mm de ancho; perfecto para escribir en papel, fax y fotocopias
 - Marcadores fluorescentes de gran calidad, recomendados para subrayar, resaltar y colorear superficies amplias.
+- Punta biselada ultrasuave de aproximadamente 1 y 5 mm de ancho; perfecto para escribir en papel, fax y fotocopias
 - Gran depósito de tinta recargable que, junto al cuerpo y capuchón en polipropileno, otorgan una alta durabilidad; es seguro para viajar en avión
 
 [🛒 Visítala!!!]({{< param buyurl >}})

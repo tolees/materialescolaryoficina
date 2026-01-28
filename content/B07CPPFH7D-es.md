@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para decorar y escribir sobre tejidos, por ejemplo sobre camisetas infantiles, cojines o bolsas de tela; la punta redonda de 2-3 mm es ideal para colorear
 - Tinta resistente a la luz y a lavados de hasta 60 °C. Se puede fijar con calor utilizando la plancha (sin vapor). Casi inodora, de secado rápido
-- El juego incluye 5 marcadores textiles en negro, azul, azul claro, verde claro y azul oriental
+- Para decorar y escribir sobre tejidos, por ejemplo sobre camisetas infantiles, cojines o bolsas de tela; la punta redonda de 2-3 mm es ideal para colorear
 - Los marcadores de textiles de edding están disponibles en 20 colores brillantes; para líneas más precisas prueba el rotulador textil delgado edding 4600
+- El juego incluye 5 marcadores textiles en negro, azul, azul claro, verde claro y azul oriental
 - Rotulador textil para obtener resultados duraderos y resistentes al lavado sobre la mayoría de tejidos de color claro, como algodón, seda y lino
 
 [🛒 Visítala!!!]({{< param buyurl >}})

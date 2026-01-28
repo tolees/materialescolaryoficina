@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego fácil y divertido: solo se deben rascar los dibujos de las láminas con el lápiz de madera y descubrir los colores ocultos que hay debajo
-- Cada bloc contiene 8 láminas y un palito rascador de madera
-- Bloc de láminas para rascar modelo hadas
 - Juego ideal para poder llevarse de viaje; recomendado para niños a partir de 3 años
+- Cada bloc contiene 8 láminas y un palito rascador de madera
 - Cada ilustración incluye una imagen con un diseño de muestra, pero el niño puede dibujar marcando líneas y motivos diferentes
+- Bloc de láminas para rascar modelo hadas
+- Juego fácil y divertido: solo se deben rascar los dibujos de las láminas con el lápiz de madera y descubrir los colores ocultos que hay debajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B078GQ41FK{{</world>}}

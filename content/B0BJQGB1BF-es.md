@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
 - Tiene cierre de cremallera que ofrece un fácil acceso en todas las condiciones
+- Tiene detalles distintivos de la marca
 - Cuenta con tirantes acolchados ajustables para un ajuste cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

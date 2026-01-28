@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estadística; menú MathBox
-- Alimentación solar; hoja de cálculo; código QR; distribuciones de probabilidad; 12 dígitos
 - Más de 560 funciones; constantes científicas; cálculo vectorial y de matrices; conversión de unidades
+- Alimentación solar; hoja de cálculo; código QR; distribuciones de probabilidad; 12 dígitos
 - Integrales definidas y derivadas en un punto; cálculos con números complejos
+- Estadística; menú MathBox
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4MJXZ9{{</world>}}
