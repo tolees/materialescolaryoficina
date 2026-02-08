@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa acolchada
 - Cremallera
+- Correa acolchada
 - Correa ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

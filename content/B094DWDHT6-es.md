@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido duradero
-- Gran compartimento principal
 - Correas de hombro acolchadas y ajustables
+- Gran compartimento principal
+- Tejido duradero
 - Detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

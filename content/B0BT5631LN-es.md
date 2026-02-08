@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Optimo para que los niños aprendan a desarrollar la habilidad manual, el conocimiento espacial y estimular la creatividad y la imaginación; para niños y niñas a partir de 3 años de edad
+- La estructura de la casa tiene una puerta y 2 ventanas que se pueden abrir, una chimenea, y varias aperturas como un buzón y una cerradura en la puerta y ventana en la parte superior
 - La Carton House de FEBER, es una idea para transformar las clásicas casas de juegos infantiles en un juego más artístico y creativo
 - Esta casita infantil es de cartón blanco, por lo que es ecológica, biodegradable y respetuosa con el medio ambiente; además, después de jugar con ella se puede plegar y guardar de forma fácil y cómoda para que no ocupe espacio
 - Se puede pintar y decorar de todas las formas que te imagines; el pack incluye más de 25 pegatinas con diseños diferentes de animales y plantas para ayudarte a decorarla como quieras
-- La estructura de la casa tiene una puerta y 2 ventanas que se pueden abrir, una chimenea, y varias aperturas como un buzón y una cerradura en la puerta y ventana en la parte superior
+- Optimo para que los niños aprendan a desarrollar la habilidad manual, el conocimiento espacial y estimular la creatividad y la imaginación; para niños y niñas a partir de 3 años de edad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT5631LN{{</world>}}

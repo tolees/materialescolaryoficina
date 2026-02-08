@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
 - 48.5 x 25.4 mm
-- Formato de las etiquetas predefinido en la mayoría de softwares
 - De la marca Apli
+- Formato de las etiquetas predefinido en la mayoría de softwares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0081YQ1KU{{</world>}}

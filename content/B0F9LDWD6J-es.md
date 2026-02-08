@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONTENIDOS: La anualidad del calendario incluye la información relativa a: festivos internacionales, fases lunares y cambios de estación. El calendario dispone de contenidos extra: calendarios reducidos de septiembre a diciembre del año anterior, planning anual, plantilla de horario, calendario anual del año y del año siguiente, listado de festivos internacionales y códigos de países.
 - INTERIOR: Mes Vista. Para planificarse a nivel mensual. Idioma del artículo: catalán. Con información de los festivos de Cataluña.
-- MATERIAL: Espiral doble metálica y papel 120 g/m².
 - DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
+- MATERIAL: Espiral doble metálica y papel 120 g/m².
+- CONTENIDOS: La anualidad del calendario incluye la información relativa a: festivos internacionales, fases lunares y cambios de estación. El calendario dispone de contenidos extra: calendarios reducidos de septiembre a diciembre del año anterior, planning anual, plantilla de horario, calendario anual del año y del año siguiente, listado de festivos internacionales y códigos de países.
 - Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

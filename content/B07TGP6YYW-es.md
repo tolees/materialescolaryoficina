@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Correas en forma de S
+- Dimensión 30.50X44.00X7.50 cm
 - Espaldar ergonómico
 - Consigue el toque más retro y alternativo con el modelo Vetus.
 - Organizador con llavero extraíble
-- Dimensión 30.50X44.00X7.50 cm
-- Correas en forma de S
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TGP6YYW{{</world>}}

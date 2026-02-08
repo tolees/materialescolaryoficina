@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rotuladores no permanentes de color azul (5 unidades)
 - 5 rotuladores de punta media de 1,5 mm con un paño para borrar fácilmente tus notas y dibujos.
 - Olor neutro e inodoro.
 - Los rotuladores se borran fácilmente incluso después de varios días en la superficie.
 - Se puede borrar en seco sobre pizarras blancas y pizarras.
+- Rotuladores no permanentes de color azul (5 unidades)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0748BGYR9{{</world>}}

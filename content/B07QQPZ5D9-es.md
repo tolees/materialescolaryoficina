@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Rotuladores dobles en estuche de 10 unidades.
 - Grosor de trazo 0, 5 y 1,5 mm.
-- Con punta asegurada.
 - 8 colores neón y 2 lápices negros.
 - Punta fina para líneas finas y punta gruesa para pintar en superficie.
-- Rotuladores dobles en estuche de 10 unidades.
+- Con punta asegurada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07QQPZ5D9{{</world>}}

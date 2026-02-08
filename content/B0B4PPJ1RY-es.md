@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correas en forma de S
 - Dimensión 42.00X30.00X12.50 cm
+- Correas en forma de S
 - La mochila Palencia es perfecta para llevar tus dispositivos y accesorios perfectamente organizados a todas partes.
 - Organizador con llavero extraíble
 - Espaldar ergonómico
