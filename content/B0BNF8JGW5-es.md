@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: aprox. 20,5 x 18 x 1,2 cm
-- Diseño: TOPModel Iceworld Crea tu amigo de fantasía de Depesche - libro para colorear con criaturas y animales de fantasía preimpresos
 - Libro de pegatinas y colorear con encuadernación en espiral para diseñar, colorear y pegar en el tiempo libre creativo
 - Libro creativo con 12 motivos y 11 hojas de adhesivos con maravillosas pegatinas para decorar y añadir al libro
+- Diseño: TOPModel Iceworld Crea tu amigo de fantasía de Depesche - libro para colorear con criaturas y animales de fantasía preimpresos
+- Dimensiones: aprox. 20,5 x 18 x 1,2 cm
 - Libro de colorear para niñas y mentes creativas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

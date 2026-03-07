@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
-- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
-- CONTENIDOS: La anualidad de la agenda incluye la información relativa a: onomástica, festivos nacionales, cambios de estación e inicios de los años nuevos chino, musulmán, ortodoxo y hebreo. La agenda dispone también de otros contenidos extra: datos personales, horarios, calendarios, planificación anual del año y del año siguiente, festivos internacionales, cómo buscar en Google, usos del teclado, mapa de Europa y de los husos horarios, hojas para notas y hojas para teléfonos, direcciones y e-mails.
 - MATERIAL: Tapas de polipropileno, espiral simple metálica y papel. 80 g/m².
 - INTERIOR: Semana Vista Horizontal. Visión de la semana completa en horizontal que permite la escritura natural. Con espacio para concretar horario. Idioma del artículo: catalán. Con información de los festivos de Cataluña.
+- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
+- CONTENIDOS: La anualidad de la agenda incluye la información relativa a: onomástica, festivos nacionales, cambios de estación e inicios de los años nuevos chino, musulmán, ortodoxo y hebreo. La agenda dispone también de otros contenidos extra: datos personales, horarios, calendarios, planificación anual del año y del año siguiente, festivos internacionales, cómo buscar en Google, usos del teclado, mapa de Europa y de los husos horarios, hojas para notas y hojas para teléfonos, direcciones y e-mails.
+- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9LHK5SS{{</world>}}

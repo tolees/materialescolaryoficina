@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marcador Permanente punta extrafina disponible en cuatro colores basicos; negro, rojo, azul y verde.
 - Apto para casi todas las superficies.
+- Marcador Permanente punta extrafina disponible en cuatro colores basicos; negro, rojo, azul y verde.
 - Precio competitivo y de larga duración.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

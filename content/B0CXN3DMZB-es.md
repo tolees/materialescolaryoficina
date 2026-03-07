@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sujeción interior para la bolsa de hidratación.
-- Pequeño bolsillo interior ideal para llaves y cartera.
-- Soporte para luz
-- Ajuste de pecho.
-- Porta bastones mediante cordón elástico y tanca
 - Bolsillo principal y uno frontal.
+- Ajuste de pecho.
+- Soporte para luz
+- Porta bastones mediante cordón elástico y tanca
+- Pequeño bolsillo interior ideal para llaves y cartera.
+- Sujeción interior para la bolsa de hidratación.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CXN3DMZB{{</world>}}

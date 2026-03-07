@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pastillas de acuarela Giotto de colores luminosos, intensos y cubrientes
 - El estuche incluye un pincel sintético nº3
 - Diseño del estuche y forma de la pastilla de acuarela diseñados para facilitar su uso y evitar derrames de agua
-- Pastillas de acuarela Giotto de colores luminosos, intensos y cubrientes
 - Diámetro de Ø 30 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

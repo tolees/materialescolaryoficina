@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Función: rotuladores acrílicos con punta de Ø 2 mm que se activa fácilmente y no se seca al aire. Colores resistentes a la luz, al sol y al agua
-- Producto: Estuche rígido con 8 rotuladores acrílicos, tinta acrílica superpigmentada, excelente fluidez para un rendimiento óptimo en todas las superficies
-- Extra: Código EAN en cada rotulador, nombre del color en el rotulador.
 - Color: Surtido
+- Producto: Estuche rígido con 8 rotuladores acrílicos, tinta acrílica superpigmentada, excelente fluidez para un rendimiento óptimo en todas las superficies
+- Función: rotuladores acrílicos con punta de Ø 2 mm que se activa fácilmente y no se seca al aire. Colores resistentes a la luz, al sol y al agua
 - Uso: Rotulador acrilico de alta calidad con gran fluidez de tinta, para un rendimiento superior en diversos tipos de superficie
+- Extra: Código EAN en cada rotulador, nombre del color en el rotulador.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKLVP127{{</world>}}

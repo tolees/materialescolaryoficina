@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfectas para identificar envíos de correspondencia, objetos, paquetería o para clasificar
-- Excelente calidad de impresión en impresoras inkjet, láser o fotocopiadoras
-- Etiquetas blancas cantos rectos tamaño 210 x 148 mm con adhesivo permanente para múltiples usos
 - Pack con 100 hojas (200 etiquetas)
+- Perfectas para identificar envíos de correspondencia, objetos, paquetería o para clasificar
+- Etiquetas blancas cantos rectos tamaño 210 x 148 mm con adhesivo permanente para múltiples usos
+- Excelente calidad de impresión en impresoras inkjet, láser o fotocopiadoras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KJO5JS{{</world>}}

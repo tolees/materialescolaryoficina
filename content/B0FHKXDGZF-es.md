@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ☑ INCLUYE calendario anual 2026 en el reverso de cada mes, festivos nacionales y autonómicos, onomástica, fases lunares, planning 2027 y carátula explicativa.
-- 📐 FORMATO A5 DE SOBREMESA (210 x 148,5 mm), fabricado con papel de 120 g/m² con certificación FSC Mix Credit. Práctico, resistente y sostenible.
-- ✏ ESPACIO PARA ANOTAR con casillas amplias para registrar citas, recordatorios o eventos. Vista mensual completa con referencias del mes anterior y posterior.
 - 📅 CALENDARIO DE SOBREMESA 2026 de 12 meses (enero a diciembre) con espiral doble y base de cartón. Ideal para tener siempre a la vista tu planificación en el escritorio, en casa o en la oficina.
+- ☑ INCLUYE calendario anual 2026 en el reverso de cada mes, festivos nacionales y autonómicos, onomástica, fases lunares, planning 2027 y carátula explicativa.
+- ✏ ESPACIO PARA ANOTAR con casillas amplias para registrar citas, recordatorios o eventos. Vista mensual completa con referencias del mes anterior y posterior.
 - 💙 DISEÑO CROMÁTICO EXCLUSIVO donde cada mes se presenta en un color distinto de una paleta de 9 tonos. Una forma colorida y organizada de planificar tu año.
+- 📐 FORMATO A5 DE SOBREMESA (210 x 148,5 mm), fabricado con papel de 120 g/m² con certificación FSC Mix Credit. Práctico, resistente y sostenible.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHKXDGZF{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - VERSÁTILES: combina y mezcla los 36 lápices de colores de primera calidad para crear todas tus mejores obras, ya seas un artista profesional o un aficionado a la pintura
+- INCLUYE: 36 lápices de colores en 1 caja metálica. Cumplen con la norma ASTM 6901 y la escala de lana azul ISO 105
+- COMBÍNALOS: son perfectos para utilizar con el papel resistente a luz de la misma gama de Derwent para conseguir un resultado increíble
 - COLOR ETERNO: el núcleo de 4 mm de los colores combate los rayos UV, evita la decoloración de tus dibujos y garantiza un color vivo por hasta 100 años
 - CALIDAD PROFESIONAL: los lápices están elaborados con una sólida base de aceite que aporta una mayor vitalidad a los colores y un efecto profesional a tus obras
-- COMBÍNALOS: son perfectos para utilizar con el papel resistente a luz de la misma gama de Derwent para conseguir un resultado increíble
-- INCLUYE: 36 lápices de colores en 1 caja metálica. Cumplen con la norma ASTM 6901 y la escala de lana azul ISO 105
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BQ32VDV{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Programable: no
+- Batería: no
 - Funciones financieras: no
 - Reloj: no
 - Diseño: calculadora de mano
-- Batería: no
-- Programable: no
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CG9CXWNJ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tinta con base al agua
 - Ideal para regalar
+- Tinta con base al agua
 - 2 anchos de trazo
 - Color naranja
 

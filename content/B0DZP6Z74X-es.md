@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de gran calidad, fabricado en España. Recomendado por los educadores escolares.
-- Es un regalo ideal para los niños, es educativo y divertido. ¡Diversión asegurada con la plastilina de toda la vida! Inspira su imaginación y creatividad. Podrán hacer sus propios diseños y explorar diferentes técnicas jugando y haciendo manualidades. Ideal para niños y niñas a partir de 3 años.
 - Plastilina que no se seca, es reutilizable y muy fácil de limpiar.
+- Es un regalo ideal para los niños, es educativo y divertido. ¡Diversión asegurada con la plastilina de toda la vida! Inspira su imaginación y creatividad. Podrán hacer sus propios diseños y explorar diferentes técnicas jugando y haciendo manualidades. Ideal para niños y niñas a partir de 3 años.
 - Pasta de modelar base vegetal, libre de los principales alérgenos, no tóxica y que no contiene gluten.
+- Producto de gran calidad, fabricado en España. Recomendado por los educadores escolares.
 - ¡NUEVO! PLASTILINA QUE BRILLA EN LA OSCURIDAD! Kit de plastilina Jovi - 10 barritas de 50 gramos. El pack contiene plastilina de tonalidades distintas, lleva 8 colores básicos y 2 que BRILLAN EN LA OSCURIDAD. Modelable con una gran plasticidad, perfecto para crear figuras con utensilios en 3D o en plano.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

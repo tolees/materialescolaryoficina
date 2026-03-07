@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: plateado niebla, gris galáctico, malva
-- PUMA Mochila Phase Colorblock
 - Número de modelo: 090468
+- PUMA Mochila Phase Colorblock
+- Color: plateado niebla, gris galáctico, malva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKTGTYS5{{</world>}}

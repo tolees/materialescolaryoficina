@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lápices de colores hexagonales, con tonos que simulan los colores de la piel humana
-- Lápices de Ø 6,8 mm de grosor con mina de calidad superior
-- Colores alegres e intensos mezclables entre sí, ¡para crear tantas tonalidades como pieles existen!
 - Estuche de 12 lápices de colores
+- Colores alegres e intensos mezclables entre sí, ¡para crear tantas tonalidades como pieles existen!
+- Lápices de Ø 6,8 mm de grosor con mina de calidad superior
 - Ideales para la escuela y para trabajar la igualdad y diversidad en el aula
+- Lápices de colores hexagonales, con tonos que simulan los colores de la piel humana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071Z1YVDQ{{</world>}}

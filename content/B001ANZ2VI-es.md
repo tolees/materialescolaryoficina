@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diversas funciones en álgebra, trigonometría y aritmética
 - Resultados fáciles de leer gracias a la pantalla de la calculadora
+- Diversas funciones en álgebra, trigonometría y aritmética
 - La calculadora facilita a los estudiantes el acceso a las matemáticas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

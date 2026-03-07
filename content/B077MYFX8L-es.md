@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marcador con dos puntas de pincel para los mejores dibujos sobre papel.
-- Anchura de la línea: punta del pincel ancho de 1 a 6 mm y punta del pincel fino de 0,5 mm a 0,8 mm.
-- Rotuladores dobles de tinta de colores variados con una punta de anchura fina y una punta de anchura ultrafina.
-- Tinta a base de agua y colorantes alimentarios, lavable en la mayoría de los tejidos .
 - El cuerpo y el capuchón están fabricados en polipropileno ventilado (ISO 11540) lo cual garantiza una larga vida útil.
+- Tinta a base de agua y colorantes alimentarios, lavable en la mayoría de los tejidos .
+- Rotuladores dobles de tinta de colores variados con una punta de anchura fina y una punta de anchura ultrafina.
+- Anchura de la línea: punta del pincel ancho de 1 a 6 mm y punta del pincel fino de 0,5 mm a 0,8 mm.
+- Marcador con dos puntas de pincel para los mejores dibujos sobre papel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B077MYFX8L{{</world>}}

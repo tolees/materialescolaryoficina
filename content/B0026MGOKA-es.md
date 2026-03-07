@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Debido al área de agarre más grande, se necesita menos presión para sostener el bolígrafo o el lápiz
-- Punto resistente a la presión
 - Tapa ventilada
 - Ancho de escritura aprox. 0.7 mm
+- Punto resistente a la presión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0026MGOKA{{</world>}}

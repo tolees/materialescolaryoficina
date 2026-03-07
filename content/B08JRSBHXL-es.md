@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gama de instrumentos realizados en resina
 - Presentado en estuche para regalo
 - Cargado con recambio tinta gel negra grosor medio (ref. 8523)
+- Gama de instrumentos realizados en resina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08JRSBHXL{{</world>}}

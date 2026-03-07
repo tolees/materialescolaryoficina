@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Disponible en 65 colores, incluidos 6 colores fluorescentes
-- Adecuado para reglas y plantillas.
 - Punta revestida de metal para una larga vida útil
+- Adecuado para reglas y plantillas.
 - Ancho de línea 0,4 mm
 - Alta protección contra el secado sin tapón.
 

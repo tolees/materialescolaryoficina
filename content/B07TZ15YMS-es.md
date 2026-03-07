@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 0,47 kg de peso, volumen de 13 l
-- Repelente al agua
-- 100 % poliamida
-- 33,5 cm de alto x 27 cm de ancho x 19 cm de profundidad
 - Mochila pequeña
+- 0,47 kg de peso, volumen de 13 l
+- 100 % poliamida
+- Repelente al agua
+- 33,5 cm de alto x 27 cm de ancho x 19 cm de profundidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TZ15YMS{{</world>}}

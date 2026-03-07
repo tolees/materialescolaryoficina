@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ☑ INCLUYE calendario anual en el dorso de cada mes, festivos, onomástica, fases lunares, planning 2027 y carátula explicativa.
 - 🔝 CALENDARIO DE SOBREMESA RECICLADO MIQUELRIUS 2026: elegante, ecológico y funcional. Ideal para quienes buscan papelería responsable con el medioambiente.
 - ✏ CADA MES a la vista con espacio generoso para anotar eventos, reuniones o tareas diarias. Diseño práctico y fácil de consultar.
-- 📐 FORMATO A5 (210 x 148,5 mm) fabricado con papel 100 % reciclado post-consumo de 120 g/m². Certificación FSC Mix Credit, Blue Angel y EU Label.
+- ☑ INCLUYE calendario anual en el dorso de cada mes, festivos, onomástica, fases lunares, planning 2027 y carátula explicativa.
 - 🗓 CALENDARIO DE SOBREMESA 2026 12 meses (Enero 2026 - Diciembre 2026) con espiral doble y base de cartón. Ideal para escritorios, escritoras o mesas de trabajo.
+- 📐 FORMATO A5 (210 x 148,5 mm) fabricado con papel 100 % reciclado post-consumo de 120 g/m². Certificación FSC Mix Credit, Blue Angel y EU Label.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHKYH9R5{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nº pompones por bolsa: 78
+- Colores: amarillo, naranja, rojo, lila, azul, verde, blanco y negro
 - Medidas: Ø 8 mm, Ø 10 mm, Ø 12 mm, Ø 15 mm y Ø 20 mm
 - Producto básico para escuelas y talleres infantiles, ideales para crear guirnaldas, decoraciones, collares, disfraces, aplicaciones en ropa o usar en otras manualidades
-- Colores: amarillo, naranja, rojo, lila, azul, verde, blanco y negro
+- Nº pompones por bolsa: 78
 - Pompones de colores y medidas surtidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
