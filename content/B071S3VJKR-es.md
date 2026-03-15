@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Similar a la arcilla
-- Disponible en 3 colores básicos
 - No se requiere proceso de quemado
 - Pasta de modelar secado al aire
+- Disponible en 3 colores básicos
+- Similar a la arcilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B071S3VJKR{{</world>}}

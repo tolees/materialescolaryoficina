@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cartulina 7/10e 600 g/m2
-- Cierre con gomas
-- Colores surtidos : amarillo - azul - negro - rojo - rosa - turquesa - verde - violín
 - Se sirven montadas - 25x33 cm para A4
+- Cartulina 7/10e 600 g/m2
+- Colores surtidos : amarillo - azul - negro - rojo - rosa - turquesa - verde - violín
+- Cierre con gomas
 - Lomo de 25mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

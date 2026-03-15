@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Realizado en rPET, un material 100 % reciclable obtenido a partir del reciclaje de botellas de plástico.
 - Cuidados: lavar en agua fría. No usar lejía. No meter en la secadora. No planchar. No lavar en seco.
+- Realizado en rPET, un material 100 % reciclable obtenido a partir del reciclaje de botellas de plástico.
 - Estuche con tres compartimentos individuales y cierre de cremallera. El tirador de esta cremallera tiene forma de margarita Mr. Wonderful (que también es la protagonista del diseño central), lo que le confiere originalidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

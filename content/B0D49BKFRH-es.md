@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido: El pack incluye 4 colores de 150 g cada de plastilina para niños a partir de 12 meses. La plastilina para niños de CARIOCA se seca al aire y no ensucia las manos
-- Extra: La plastilina de CARIOCA lleva trigo. El set incluye figuras muy divertidas y vistosas para jugar
 - Uso: Apta para niños a partir de 1 año, idónea para las primeras interacciones con el tacto de los más pequeños
 - Función: Da rienda suelta a tu creatividad: Los 4 colores del set de plastilina son luminosos y se pueden mezclar para conseguir infinidad de colores
+- Extra: La plastilina de CARIOCA lleva trigo. El set incluye figuras muy divertidas y vistosas para jugar
+- Contenido: El pack incluye 4 colores de 150 g cada de plastilina para niños a partir de 12 meses. La plastilina para niños de CARIOCA se seca al aire y no ensucia las manos
 - Color: Surtido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

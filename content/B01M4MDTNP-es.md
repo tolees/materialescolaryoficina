@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tamaño: 44cm*28cm*14cm; de gran capacidad, cabe una cámara, flash y 5-6 lentes y al lado izquierdo, un tripode.
+- Mochila para cámara y portatil cuenta con compartimiento para ordenador de 13.3” y bolsillos en la parte delantera para filtros, móvil y llaves. También se puede usar como mochila cotidiana.
+- 8 separadores ajustables de la mochila fotografia hechos de tablero de panal duradero y resistente protegen su cámara de choque.
 - Con el peso neto sólo de 1.05kg, es muy ligero; diseño de Ergonomics favorece en llevarla en viajes largos.
 - Aplicado material nylón impermeable, evita gota de lluvia， salpicadura de agua o rocío.
-- Tamaño: 44cm*28cm*14cm; de gran capacidad, cabe una cámara, flash y 5-6 lentes y al lado izquierdo, un tripode.
-- 8 separadores ajustables de la mochila fotografia hechos de tablero de panal duradero y resistente protegen su cámara de choque.
-- Mochila para cámara y portatil cuenta con compartimiento para ordenador de 13.3” y bolsillos en la parte delantera para filtros, móvil y llaves. También se puede usar como mochila cotidiana.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01M4MDTNP{{</world>}}

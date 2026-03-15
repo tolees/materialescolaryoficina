@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este kit Blend & Spray es perfecto para dibujar a todo color. Incluye 12 colores, plantillas y un aerografo. ¡Todo lo que necesitas para ser un gran artista!
-- Perfecto para pequeños artistas, para niños y niñas a partir de 6 años. ¡Desarrolla tu creatividad y conviertete en un artista!
-- Rotuladores con doble punta para hacer degradados increibles.Junta ambas puntas, aprieta y veras como los colores se mezclan, ¡cuando dibujes harás degradados increibles!
 - El aerografo que incluye el pack te permite colorear de forma diferente y divertida. Coloca el rotulador en el aerografo, sopla y veras como salen los colores, ¡parece un spray de graffiti!
+- Este kit Blend & Spray es perfecto para dibujar a todo color. Incluye 12 colores, plantillas y un aerografo. ¡Todo lo que necesitas para ser un gran artista!
+- Rotuladores con doble punta para hacer degradados increibles.Junta ambas puntas, aprieta y veras como los colores se mezclan, ¡cuando dibujes harás degradados increibles!
+- Perfecto para pequeños artistas, para niños y niñas a partir de 6 años. ¡Desarrolla tu creatividad y conviertete en un artista!
 - Las plantillas incluyen algunos secretos: cuando dibujes verás que los dibujos tienen texturas diferentes, ¡descubrelas pintando con los Blendy Pens!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

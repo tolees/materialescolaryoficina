@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Correas ajustables
 - 2 bolsillos frontales con cremallera
 - Resistente al agua
-- Correas ajustables
 - Monito de peluche de Kipling
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Profundidad de 65 mm; diseño compacto que cabe en cualquier estuche o maletín y para mantener ordenado el escritorio
-- Grapas 26/6: pueden grapar hasta 15 folios de papel 80 gsm de una sola vez; grapas 24/6: pueden grapar hasta 20 folios de papel 80 gsm; recarga fácil
-- Contenido: 1 x rexel grapadora compacta de media carga meteor; dimensiones (an x al x p): 13.4 x 5.8 x 3.8 cm; peso: 209g; azul; 2100020
-- La sufridera giratoria permite un grapado abierto; cerrado y clavado; apta para un gran volumen de grapado en casa o la oficina
 - Grapadora de media carga meteor con cuerpo de metal y capacidad para hasta 20 hojas
+- La sufridera giratoria permite un grapado abierto; cerrado y clavado; apta para un gran volumen de grapado en casa o la oficina
+- Contenido: 1 x rexel grapadora compacta de media carga meteor; dimensiones (an x al x p): 13.4 x 5.8 x 3.8 cm; peso: 209g; azul; 2100020
+- Grapas 26/6: pueden grapar hasta 15 folios de papel 80 gsm de una sola vez; grapas 24/6: pueden grapar hasta 20 folios de papel 80 gsm; recarga fácil
+- Profundidad de 65 mm; diseño compacto que cabe en cualquier estuche o maletín y para mantener ordenado el escritorio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0032W2ZEM{{</world>}}

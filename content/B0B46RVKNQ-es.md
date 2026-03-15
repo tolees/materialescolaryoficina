@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Decora tus 3 personajes con pegatinas brillantes, pedrería y un rotulador; magia, tus creaciones brillan en la oscuridad
 - Dimensiones: L22 x P8 x H12 cm
 - Contiene: 1 Figura de Unicornio fosforescente para decorar, 1 figura gatito fosforescente para decorar, 1 figura dinosaurio fosforescente para decorar, 3 hojas de pegatinas con purpurina, 1 hoja de gemas y 1 rotulador
-- Decora tus 3 personajes con pegatinas brillantes, pedrería y un rotulador; magia, tus creaciones brillan en la oscuridad
 - A partir de los 6 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

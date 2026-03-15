@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La encuadernación con anillas hace que pasar las páginas sea un juego de niños
 - Diseño: Dino World de Depesche
 - Con 23 motivos preimpresos que se pueden adornar y completar con las huellas dactilares
 - Incluye 4 almohadillas de tinta en naranja, rojo, verde y azul
-- La encuadernación con anillas hace que pasar las páginas sea un juego de niños
 - Libro para colorear para niños a partir de 4 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})

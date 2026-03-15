@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estabilidad Sobresaliente: Con un resistente marco de acero sólido y conectores de columna elevadora de grado aeroespacial, este escritorio elevable eléctrico mantiene estabilidad y seguridad incluso después de 50,000 pruebas. Proporciona una base firme para tu trabajo, incluso a máxima altura.
-- Espacio de Trabajo Elegante: Esta mesa de escritorio elevable grande, con medidas de 160 cm x 80 cm, ofrece amplio espacio para todos tus elementos esenciales de trabajo. Ideal para diseñadores, escritores y profesionales que necesitan un espacio de trabajo ordenado y eficiente.
 - Ajuste de Altura Suave: Ajusta sin esfuerzo este escritorio elevable de 72 cm a 118 cm con un mecanismo eléctrico suave. Perfecto para cambiar entre posiciones de sentado y de pie, ideal para hogares, oficinas y espacios de trabajo.
+- Espacio de Trabajo Elegante: Esta mesa de escritorio elevable grande, con medidas de 160 cm x 80 cm, ofrece amplio espacio para todos tus elementos esenciales de trabajo. Ideal para diseñadores, escritores y profesionales que necesitan un espacio de trabajo ordenado y eficiente.
+- Estabilidad Sobresaliente: Con un resistente marco de acero sólido y conectores de columna elevadora de grado aeroespacial, este escritorio elevable eléctrico mantiene estabilidad y seguridad incluso después de 50,000 pruebas. Proporciona una base firme para tu trabajo, incluso a máxima altura.
 - Motor Mejorado: Con una capacidad de hasta 80 kg y funcionando por debajo de 45 dB, el motor mejorado garantiza una experiencia de elevación silenciosa y eficiente, manteniendo un entorno de trabajo tranquilo.
 - Control de Memoria Sin Esfuerzo: Este escritorio elevable eléctrico cuenta con 4 memorias, lo que te permite guardar fácilmente y alternar entre tus alturas preestablecidas. Disfruta de una experiencia ergonómica cada vez.
 

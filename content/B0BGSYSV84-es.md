@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Perfecto para practicar fácilmente la técnica del Lettering, el arte de dibujar letras, jugar con texturas y elementos gráficos
 - Contiene el bloc de Canson, papel blanco de grano fino
 - Set súper creativo ideal para dibujar y colorear
-- Perfecto para practicar fácilmente la técnica del Lettering, el arte de dibujar letras, jugar con texturas y elementos gráficos
 - Contiene: 10 Giotto Turbo Soft Brush, 12 Giotto Acuarelas 30 mm, 1 Turbo Maxi color negro, 1 Giotto Happy Gomma, 1 lápiz de grafito, 1 sacapuntas de metal, 1 bloc de Canson Lettering de 20 hojas en formato A4, 1 guía creativa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

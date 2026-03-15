@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DISEÑO DIARIO: Cada página del planificador está dedicada a un solo día del año, para poder anotar cada detalle.
 - DISEÑO ICÓNICO: La agenda presenta las esquinas redondeadas, el cierre elástico, el marcador de cinta y el aviso "en caso de pérdida" en la portada. Papel libre de ácido color marfil de 70 g/m²
-- 12 MESES: Comienza el año con la agenda diaria de 12 meses que cubre todo el año, de enero a diciembre de 2026
+- DISEÑO DIARIO: Cada página del planificador está dedicada a un solo día del año, para poder anotar cada detalle.
 - EMBALAJE: incluye una agenda diaria, disponible en varios formatos y colores, y adhesivos para personalizar tus programas.
 - FUNCIONALIDAD: Entre las herramientas de planificación de la agenda, encontrarás el calendario, una sección para la planificación de viajes, ideas y objetivos, y páginas rayadas para tomar notas dispersas.
+- 12 MESES: Comienza el año con la agenda diaria de 12 meses que cubre todo el año, de enero a diciembre de 2026
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP119YRX{{</world>}}

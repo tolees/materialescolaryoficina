@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Set de 8 rotuladores con tinta metalizada.
 - Colores de las tintas: lila, azul, turquesa, verde, amarillo, naranja, fucsia y rojo.
+- Set de 8 rotuladores con tinta metalizada.
 - Indicaciones para el funcionamiento de los rotuladores: agitar, presionar con la punta en el papel y escribir.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

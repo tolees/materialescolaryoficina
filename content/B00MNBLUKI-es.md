@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De alta calidad
 - Diseño funcional
 - Ideal para su colección de oficina
+- De alta calidad
 - Con un diseño moderno y elegante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 📒 [SECCIONES IMPRESCINDIBLES]: Agenda con 302 páginas con distintas secciones como horario, calendarios, planning o amplios espacios para notas. Incluye cabecera bilingüe en español e inglés.
 - 📒 [4 PÁGINAS DE PEGATINAS]: Decora tu agenda con divertidas pegatinas y señala los días importantes. Viajes, cumpleaños, vacaciones y muchísimo más. ¡Añade creatividad y color a tu día a día!
-- 📒 [AGENDA ESCOLAR DÍA POR PÁGINA]: Esta agenda escolar para el curso 2024-2025 te da el poder de organizar tus días de clase de manera eficiente. Con formato Día por Página para que puedas escribir todas tus notas, eventos, citas o tareas con todo el espacio que necesitas. Incluye meses de septiembre a junio.
-- 📒 [COMODIDAD Y SEGURIDAD]: Incluye tapa dura de cartón resistente ante golpes y caídas. Con su cierre de anillas podrás abrir la agenda cómodamente en 360º. Además, cuenta con goma elástica para proteger aún mejor todas las páginas y su contenido.
 - 📒 [TAMAÑO A6]: Su tamaño A6 (12x17 cm) la hace compacta y perfecta para transportarla y guardarla en cualquier espacio. Tan ligera que podrás tenerla siempre a mano en el aula o en casa para anotar en ella todo lo que necesites.
+- 📒 [SECCIONES IMPRESCINDIBLES]: Agenda con 302 páginas con distintas secciones como horario, calendarios, planning o amplios espacios para notas. Incluye cabecera bilingüe en español e inglés.
+- 📒 [COMODIDAD Y SEGURIDAD]: Incluye tapa dura de cartón resistente ante golpes y caídas. Con su cierre de anillas podrás abrir la agenda cómodamente en 360º. Además, cuenta con goma elástica para proteger aún mejor todas las páginas y su contenido.
+- 📒 [AGENDA ESCOLAR DÍA POR PÁGINA]: Esta agenda escolar para el curso 2024-2025 te da el poder de organizar tus días de clase de manera eficiente. Con formato Día por Página para que puedas escribir todas tus notas, eventos, citas o tareas con todo el espacio que necesitas. Incluye meses de septiembre a junio.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D54HWQBD{{</world>}}

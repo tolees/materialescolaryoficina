@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compacta y pequeña grapadora de recarga superior
-- Base de goma antideslizante ofreciendo estabilidad
-- Utiliza grapas 26/6 mm y 24/6 mm
-- Larga - 112 mm x Ancha - 30 mm x Alta - 52 mm
 - Capacidad: 20 hojas
+- Larga - 112 mm x Ancha - 30 mm x Alta - 52 mm
+- Compacta y pequeña grapadora de recarga superior
+- Utiliza grapas 26/6 mm y 24/6 mm
+- Base de goma antideslizante ofreciendo estabilidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000I5SAYK{{</world>}}

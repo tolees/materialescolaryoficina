@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Función: set para dibujar y pintar con amplia variedad de colores
-- Color: Surtido
-- Producto: Set especial de 65 piezas. Contiene 30 rotuladores punta fina con colores surtidos y brillantes, 30 lápices de colores TITA con colores cuerpo hexagonal y mina que no se astilla ni se rompe, 2 lápices HB, 2 gomas de borrar y 1 sacapuntas
 - Uso: Ideal para los niños que quieren dejar volar su creatividad. Apto para el colegio y el tiempo libre
+- Color: Surtido
+- Función: set para dibujar y pintar con amplia variedad de colores
+- Producto: Set especial de 65 piezas. Contiene 30 rotuladores punta fina con colores surtidos y brillantes, 30 lápices de colores TITA con colores cuerpo hexagonal y mina que no se astilla ni se rompe, 2 lápices HB, 2 gomas de borrar y 1 sacapuntas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CVQR3RBP{{</world>}}

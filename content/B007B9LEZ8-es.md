@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pegamento blanco líquido
-- 65 gramos
 - Ancho: 3 x Alto: 3 x Largo: 11,3 cm
+- 65 gramos
+- Pegamento blanco líquido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B007B9LEZ8{{</world>}}

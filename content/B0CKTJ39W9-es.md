@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Correas de hombro ajustables
 - Cierre: cremallera
 - Compartimentos: bolsillo delantero
-- Correas de hombro ajustables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKTJ39W9{{</world>}}

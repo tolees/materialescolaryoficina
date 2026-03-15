@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 - INTERIOR: 2 Páginas Día. Dos páginas para cada día de la semana, sábados y domingos inclusive. Idioma del artículo: español. Con información de los festivos de España.
-- CONTENIDO: La anualidad incluye la información relativa a: onomástica, festivos nacionales, festivos de las CC. AA., fases lunares, días trascurridos y días que faltan por transcurrir, cambios de estación e inicios de los años nuevos chino, musulmán, ortodoxo y hebreo. Dispone también del calendario del año y del año siguiente.
 - DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
+- CONTENIDO: La anualidad incluye la información relativa a: onomástica, festivos nacionales, festivos de las CC. AA., fases lunares, días trascurridos y días que faltan por transcurrir, cambios de estación e inicios de los años nuevos chino, musulmán, ortodoxo y hebreo. Dispone también del calendario del año y del año siguiente.
 - MATERIAL: Papel - 70 g/m².
 
 [🛒 Comprar!!!]({{< param buyurl >}})
