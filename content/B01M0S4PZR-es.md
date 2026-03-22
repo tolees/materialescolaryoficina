@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tinta base al agua
 - Calidad Alemana
 - Gama de 15 colores
+- Tinta base al agua
 - Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Seguridad certificada: Las piezas importantes como los reposabrazos, el respaldo, el asiento y el elevador de gas han superado la prueba BIFMA. Nuestra silla, capaz de soportar hasta 136 kg, está certificada por SGS (Informe nº SDHL241202405001FT). Su elevador de gas ha superado 100.000 pruebas de impacto y 120.000 de giro, aportando durabilidad, estabilidad y resistencia para su uso diario
 - Materiales selectos: La silla de escritorio está fabricada con malla transpirable, la base robusta con ruedas de nailon, el elevador de gas certificado por SGS y paneles de asiento de madera certificada por FSC, capaz de soportar hasta 136 kg
 - Silla con soporte lumbar transpirable: Silla con resplado correspondiente a la curva del cuerpo ofrece reposo lumbar cómodo, lo hecho de malla tejido deja aire pasar favoreciendo la transpiración, igual del asiento que no le sude.
-- Silla ergonimica regulable en altura: Silla regulable en altura del asiento desde 35 – 45 cm, a través de tirar la palanca se realiza la función de mecedora, que permite pasar un tiempo de ocio durante el trabajo.
 - Silla sólida y estable: La base grande de diámetro de 60 cm ofrece a toda la silla suficiente estabilidad. La base completa mejora la estabilidad, además de ser resistente y duradera. Las ruedas de nylon no raye al suelo y causa poco ruido.
+- Silla ergonimica regulable en altura: Silla regulable en altura del asiento desde 35 – 45 cm, a través de tirar la palanca se realiza la función de mecedora, que permite pasar un tiempo de ocio durante el trabajo.
+- Seguridad certificada: Las piezas importantes como los reposabrazos, el respaldo, el asiento y el elevador de gas han superado la prueba BIFMA. Nuestra silla, capaz de soportar hasta 136 kg, está certificada por SGS (Informe nº SDHL241202405001FT). Su elevador de gas ha superado 100.000 pruebas de impacto y 120.000 de giro, aportando durabilidad, estabilidad y resistencia para su uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07XRXT21R{{</world>}}

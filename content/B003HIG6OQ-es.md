@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lápices de alta calidad para escribir y dibujar
-- Adecuado para escuela y oficina
 - Resistentes gracias a la fórmula especial de plomo
+- Adecuado para escuela y oficina
 - Nivel de dureza 2 (HB2)
+- Lápices de alta calidad para escribir y dibujar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003HIG6OQ{{</world>}}

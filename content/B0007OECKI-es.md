@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resistente al agua y permanente
-- Mina de 3.8 mm de diámetro
 - Trazo suave de brillante e intenso colorido
-- Colores altamente resistentes a la acción de la luz
 - Gran resistencia a la rotura gracias a un encolado elástico entre mina y madera
+- Colores altamente resistentes a la acción de la luz
+- Mina de 3.8 mm de diámetro
+- Resistente al agua y permanente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0007OECKI{{</world>}}

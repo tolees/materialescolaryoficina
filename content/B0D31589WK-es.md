@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de calidad
 - Ofrece un resultado óptimo y adecuado
+- Material de calidad
 - Sencillo de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

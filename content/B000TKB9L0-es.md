@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dos anchos de trazo, 2 y 5 mm
 - Paquete con 48 unidades - 24 amarillo, 6 rosa, 6 naranja, 6 azul, 6 verde
 - Tinta base agua
-- Dos anchos de trazo, 2 y 5 mm
-- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse, para un trabajo más concentrado
 - Calidad alemana
+- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse, para un trabajo más concentrado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000TKB9L0{{</world>}}

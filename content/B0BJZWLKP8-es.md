@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correas ajustables, asa de mano y bandolera de 70cm
 - Dimensiones: 35,5 x 29 x 15 cm
+- Correas ajustables, asa de mano y bandolera de 70cm
 - Compartimento acolchado para dispositivos electrónicos
 - Interior forrado con bolsillos para móvil y objetos pequeños
 - Mochila espaciosa con dos compartimentos y bolsillo frontal

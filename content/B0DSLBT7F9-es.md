@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Color rosa. Colección MILAN nata 624 since 1918, inspirada en los colores y diseño originales de las gomas de borrar MILAN, fabricadas en España desde 1918.
+- Cuaderno A4 con tapa dura y espiral.
 - 80 hojas de papel cuadriculado (5 x 5 mm).
 - Papel de 95 gr/m² de alta calidad, microperforado y con 4 taladros. Iniciador de corte para facilitar la separación de cada hoja.
-- Cuaderno A4 con tapa dura y espiral.
-- Color rosa. Colección MILAN nata 624 since 1918, inspirada en los colores y diseño originales de las gomas de borrar MILAN, fabricadas en España desde 1918.
 - Cubierta de cartón rígido con dos acabados distintos, brillante y mate. Espiral de plástico flexible y resistente, no se deforma.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

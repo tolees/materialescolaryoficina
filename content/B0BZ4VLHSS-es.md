@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Graduación: B. Color: océano metálico
-- Hola, Sparkle! Lápices de grafito en los tres nuevos colores cósmicos metalizados: océano metalizado, violeta metalizado y rosa metalizado
 - Con llamativo botón de purpurina y cuerpo a base de puntos de realce brillantes
-- Producción neutra en carbono. Fabricado en Alemania
+- Graduación: B. Color: océano metálico
 - Mina resistente a roturas gracias al proceso especial de encolado (SV). Forma triangular ergonómica
+- Hola, Sparkle! Lápices de grafito en los tres nuevos colores cósmicos metalizados: océano metalizado, violeta metalizado y rosa metalizado
+- Producción neutra en carbono. Fabricado en Alemania
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZ4VLHSS{{</world>}}

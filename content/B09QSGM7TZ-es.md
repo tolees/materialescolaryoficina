@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puede lavarse fácilmente sobre la mayoría de tejidos (poner la prenda en remojo en agua fría durante una hora y lavar a máquina, también con agua fría).
-- Ideal para caligrafía y pintar con distintos trazos mezclando sus colores. 6 colores metalizados: dorado, rojo, lila, azul, verde y plateado.
-- Rotuladores que ofrecen un trazo de pincel desde 0,5 mm a 6 mm.
 - Con capuchón de seguridad ventilado. Incluye bandeja interior.
+- Rotuladores que ofrecen un trazo de pincel desde 0,5 mm a 6 mm.
+- Ideal para caligrafía y pintar con distintos trazos mezclando sus colores. 6 colores metalizados: dorado, rojo, lila, azul, verde y plateado.
+- Puede lavarse fácilmente sobre la mayoría de tejidos (poner la prenda en remojo en agua fría durante una hora y lavar a máquina, también con agua fría).
 - Punta flexible de nylon. Tinta a base de agua que proporciona unos colores brillantes de fácil aplicación y mezclables entre sí.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

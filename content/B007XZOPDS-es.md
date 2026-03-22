@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Números grandes
 - Diseño y funcionalidad
+- Números grandes
 - Artículo tipo calculadora
 
 [🛒 Visítala!!!]({{< param buyurl >}})

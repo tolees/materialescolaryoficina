@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MATERIAL: Espiral doble metálica y papel 150 g/m².
-- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
-- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses) + Sep.-Dic. 2025 (4 meses) reducidos
 - CONTENIDO: La anualidad del calendario incluye la información relativa a: festivos internacionales, fases lunares y cambios de estación. El calendario dispone de contenidos extra: calendarios reducidos de septiembre a diciembre del año anterior, planning anual, plantilla de horario, calendario anual del año y del año siguiente, listado de festivos internacionales y códigos de países.
+- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 - INTERIOR: Mes Vista. Para planificarse a nivel mensual. Artículo multilingüe: inglés, francés, italiano, alemán, español, neerlandés y portugués. Con información en la anualidad de los festivos de los siguientes países: Argentina, Australia, Bélgica, Brasil, Suiza, Chile, Alemania, España, Francia, Reino Unido, Irlanda, Italia, Luxemburgo, Mónaco, México, Países Bajos, Polonia, Portugal, Rumanía, Rusia, Suecia, Ucrania y Estados Unidos.
+- MATERIAL: Espiral doble metálica y papel 150 g/m².
+- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses) + Sep.-Dic. 2025 (4 meses) reducidos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9LBV7J5{{</world>}}

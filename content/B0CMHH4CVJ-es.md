@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Libro para colorear para niños a partir de 4 años
-- Diseño: Dino World de Depesche
 - La encuadernación con anillas hace que pasar las páginas sea un juego de niños
-- Incluye 4 almohadillas de tinta en naranja, rojo, verde y azul
 - Con 23 motivos preimpresos que se pueden adornar y completar con las huellas dactilares
+- Incluye 4 almohadillas de tinta en naranja, rojo, verde y azul
+- Diseño: Dino World de Depesche
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CMHH4CVJ{{</world>}}

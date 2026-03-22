@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El cuaderno incluye dos sets de adhesivos para personalizar tus notas, con una selección de citas e ilustraciones del libro que invitan a la reflexión.
 - El estuche incluye un cuaderno de edición limitada El Principito, formato large, tapa dura negra, páginas rayadas.
+- Cuaderno caracterizado por páginas rayadas y enriquecido con ilustraciones originales, tapa dura negra con estampado dorado y cita en francés tomada del texto original.
 - Con esquinas redondeadas, cierre elástico, marcapáginas de cinta, papel marfil de 100 g/m² libre de ácido, adhesivos y bolsillo interior.
 - Edición limitada Le Petit Prince con cuaderno lleno de ilustraciones y citas del relato original, presentado en una gift box especial reutilizable.
-- Cuaderno caracterizado por páginas rayadas y enriquecido con ilustraciones originales, tapa dura negra con estampado dorado y cita en francés tomada del texto original.
+- El cuaderno incluye dos sets de adhesivos para personalizar tus notas, con una selección de citas e ilustraciones del libro que invitan a la reflexión.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCYXC5W8{{</world>}}

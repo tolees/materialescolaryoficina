@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO COMPACTO Y PRÁCTICO. Estuche fino y ligero, ideal para guardar bolígrafos, lápices o pequeños accesorios en el trabajo, la escuela o durante los viajes. Su tamaño compacto permite guardarlo fácilmente en mochilas, carteras y maletines. Medidas: 20 x 12 x 1 cm.
-- MODA SOSTENIBLE Y GARANTÍA. Está fabricado con materiales responsables y está diseñado para durar. Incluye un año de garantía y 100 días para devoluciones. (**Más información en berliner-bags.com/1year/).
-- CREMALLERA YKK RESISTENTE. Equipado con un cierre YKK de alta durabilidad, conocido por su fiabilidad y suavidad. Mantiene tus bolígrafos y accesorios protegidos y bien organizados durante el uso diario.
-- DISEÑADO EN BERLÍN. Está fabricado con materiales duraderos y un estilo atemporal que combina estética y funcionalidad. Un estuche premium pensado para acompañarte en tu día a día, en cualquier ocasión.
 - CUERO AUTÉNTICO DE VACUNO. Está fabricado a mano con piel de vaca 100 % auténtica, suave, resistente y con un elegante acabado vintage. Gracias a las variaciones naturales del cuero, cada pieza es única. Certificado por TÜV por su alta calidad.
+- CREMALLERA YKK RESISTENTE. Equipado con un cierre YKK de alta durabilidad, conocido por su fiabilidad y suavidad. Mantiene tus bolígrafos y accesorios protegidos y bien organizados durante el uso diario.
+- MODA SOSTENIBLE Y GARANTÍA. Está fabricado con materiales responsables y está diseñado para durar. Incluye un año de garantía y 100 días para devoluciones. (**Más información en berliner-bags.com/1year/).
+- DISEÑADO EN BERLÍN. Está fabricado con materiales duraderos y un estilo atemporal que combina estética y funcionalidad. Un estuche premium pensado para acompañarte en tu día a día, en cualquier ocasión.
+- DISEÑO COMPACTO Y PRÁCTICO. Estuche fino y ligero, ideal para guardar bolígrafos, lápices o pequeños accesorios en el trabajo, la escuela o durante los viajes. Su tamaño compacto permite guardarlo fácilmente en mochilas, carteras y maletines. Medidas: 20 x 12 x 1 cm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DBVNM1FY{{</world>}}

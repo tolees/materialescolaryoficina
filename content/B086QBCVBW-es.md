@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TRAZADO: Cuenta con más de 1.000 metros de escritura, con una punta cónica gruesa de gran cobertura de 2mm de trazo.
-- USOS: Óptimo para personas que quieren darle a su trabajo un estilo ingenioso con otro tipo de instrumento más original. Se puede utilizar sobre distintas superficies: papel y cartón, plástico, cristal, metal, goma y madera. El caballete se deberá probar ante para saber si es permanente o no.
-- CARACTERÍSTICAS: Herramienta industrial con cuerpo de aluminio apto para casi todas las superficies y para entornos exigentes. Color: Negro, Rojo, Azul y Verde. Packs: 4
-- ESTILO: Este marcador indeleble contiene una punta de fibra muy cómoda que no se deforma y que permite el acabado brillante y duradero.
 - MODELO: Este rotulador te permitirá pintar más rápido y de manera menos precisa y más genérica.
+- TRAZADO: Cuenta con más de 1.000 metros de escritura, con una punta cónica gruesa de gran cobertura de 2mm de trazo.
+- ESTILO: Este marcador indeleble contiene una punta de fibra muy cómoda que no se deforma y que permite el acabado brillante y duradero.
+- CARACTERÍSTICAS: Herramienta industrial con cuerpo de aluminio apto para casi todas las superficies y para entornos exigentes. Color: Negro, Rojo, Azul y Verde. Packs: 4
+- USOS: Óptimo para personas que quieren darle a su trabajo un estilo ingenioso con otro tipo de instrumento más original. Se puede utilizar sobre distintas superficies: papel y cartón, plástico, cristal, metal, goma y madera. El caballete se deberá probar ante para saber si es permanente o no.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086QBCVBW{{</world>}}

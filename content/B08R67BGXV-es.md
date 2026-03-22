@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- GRATIS goma de borrar diseño Noris
 - Edición limitada 120 Aniversario Noris
-- Lápices de grafito Noris HB de alta calidad
+- GRATIS goma de borrar diseño Noris
 - Afilalápices con depósito y diseño Noris
 - Ideal para uso escolar y de oficina
+- Lápices de grafito Noris HB de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08R67BGXV{{</world>}}

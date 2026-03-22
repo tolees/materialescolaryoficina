@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior: 100% poliéster
 - La Dublin es una mochila para todos los días; úsala para ir al trabajo, para una visita rápida al gimnasio o para un paseo informal por el bosque; cuenta con dos espaciosos compartimentos principales, una funda para el portátil, doble portabotellas exterior y cómodos tirantes ajustables
+- Exterior: 100% poliéster
 - Artículos entregados: 1x Helly Hansen Unisex Mochila Dublin 2;0,STD,Fiordo Profundo
 - Nuestra mochila más popular para todo el día y todos los días
 

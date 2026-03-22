@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lápices con colores brillantes y una amplia gama de tonalidades, excelentes para trabajos creativos y artísticos.
-- Lápiz acuarelable de alta calidad, de diseño hexagonal. Óptimos para dibujar, pintar y esbozar.
 - Lapiceros ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
 - Mina de 2 mm de diámetro resistente a la rotura, que ofrece trazos especialmente suaves e intensos.
 - Lápices de dibujo con minas acuarelables, que pueden usarse en seco o con pincel mezcladas con agua.
+- Lápiz acuarelable de alta calidad, de diseño hexagonal. Óptimos para dibujar, pintar y esbozar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Q7LQRTH{{</world>}}

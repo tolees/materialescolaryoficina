@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 2 puertas que se pueden abrir por separado
-- Incluye 2 nidos y 2 perchas
 - Con ventana deslizante para una circulación de aire variable
+- Incluye 2 nidos y 2 perchas
+- 2 puertas que se pueden abrir por separado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D97XTKY{{</world>}}

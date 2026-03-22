@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pequeño estuche para lápices realizado en PU, con una goma elástica en su parte trasera, ideal para engancharlo a la portada de la agenda o de cualquier otra libreta de tamaño A5.
 - Con cierre de cremallera.
-- Indicaciones: no lavar (las manchas pueden eliminarse frotando suavemente con un paño húmedo)
 - En su parte frontal cuenta con una regla impresa en el mismo estuche, de 15 cm, que puede resultar muy útil. Asimismo, cuenta con un pequeño bolsillo vertical en el que encontramos un bonito bolígrafo con tinta negra.
+- Indicaciones: no lavar (las manchas pueden eliminarse frotando suavemente con un paño húmedo)
+- Pequeño estuche para lápices realizado en PU, con una goma elástica en su parte trasera, ideal para engancharlo a la portada de la agenda o de cualquier otra libreta de tamaño A5.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQ57LJVM{{</world>}}

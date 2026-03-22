@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MATERIAL: Espiral doble metálica y papel 140 g/m².
 - DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
-- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
+- MATERIAL: Espiral doble metálica y papel 140 g/m².
 - INTERIOR: Mes Vista. Para planificarse a nivel mensual. Con espacio para notas. Idioma del artículo: español. Con información de los festivos de España.
+- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 - CONTENIDO: La anualidad del calendario contiene: onomástica, festivos nacionales, fases lunares, cambios de estación y días señalados. El calendario también dispone de contenidos extra: espacios para notas en cada mes, planning anual, plantilla de horario, calendarios del año en curso y del año siguiente, listado de festivos de las CC. AA. y de las capitales de provincia e inicios de los años nuevos chino, musulmán, ortodoxo y hebreo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

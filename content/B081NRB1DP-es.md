@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lápiz de color acuarelable STABILOaquacolor ARTY - Estuche con 24 colores'
-date: 2026-03-13 00:28:55
+date: 2026-03-21 22:38:47
 image: 'https://m.media-amazon.com/images/I/51eOACDhBgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B081NRB1DP/?tag=tolees-21'
 descuento: '46.73'
-average: '7.91125'
+average: '7.649'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponible en 36 colores.
-- Diámetro de la mina: 2,8 mm.
-- Efectos de color increíbles
-- Colores intensos.
 - Lápices de colores de alta calidad con agua
+- Disponible en 36 colores.
+- Colores intensos.
+- Efectos de color increíbles
+- Diámetro de la mina: 2,8 mm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081NRB1DP{{</world>}}

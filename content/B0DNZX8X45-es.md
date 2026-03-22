@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FUNCIONALIDAD: Entre las herramientas de planificación de la agenda, encontrarás el calendario, una sección para la planificación de viajes, ideas y objetivos, y páginas rayadas para tomar notas dispersas.
-- AGENDA MENSUAL: Cada mes ocupa dos páginas de la agenda, seguidas de dos páginas para las notas entre los meses individuales. Al final se incluyen otras 51 páginas rayadas para la organización del año.
 - DISEÑO ICÓNICO: La agenda presenta esquinas redondeadas, cierre elástico, marcador de cinta y el aviso "en caso de pérdida". El papel es libre de ácido color marfil de 70 g/m².
-- 12 MESES: Comienza el año las agendas mensuales 2026, que cubren todo el año de enero a diciembre
+- FUNCIONALIDAD: Entre las herramientas de planificación de la agenda, encontrarás el calendario, una sección para la planificación de viajes, ideas y objetivos, y páginas rayadas para tomar notas dispersas.
 - EMBALAJE: incluye una agenda mensual disponible en varios formatos y adhesivos para personalizar tus programas
+- AGENDA MENSUAL: Cada mes ocupa dos páginas de la agenda, seguidas de dos páginas para las notas entre los meses individuales. Al final se incluyen otras 51 páginas rayadas para la organización del año.
+- 12 MESES: Comienza el año las agendas mensuales 2026, que cubren todo el año de enero a diciembre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNZX8X45{{</world>}}

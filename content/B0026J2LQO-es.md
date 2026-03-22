@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Barnizados en el color de la mina con esquinas plateadas
+- Disponen de espacio para escribir el nombre
 - Colores alegres e intensos
 - Lápices Ø 6,8 mm de grosor con mina de calidad superior, de diámetro Ø 3,3 mm
-- Disponen de espacio para escribir el nombre
+- Barnizados en el color de la mina con esquinas plateadas
 - Lápices de colores hexagonales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Álbum de fotos
 - Ofrece un resultado óptimo y adecuado
+- Álbum de fotos
 - Material de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

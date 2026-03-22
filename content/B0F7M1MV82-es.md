@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🍸 VUELVE ANA MARIN Y SU DULZURA - Frases inspiradoras en español, ilustraciones que transmiten calma y un diseño pensado para que organizarse sea un placer diario ¡A por la vuelta al cole! 🍸
+- DISEÑO ÚNICO ERIK. - Grupo Erik cuenta con más de 25 años de experiencia en el diseño de material escolar divertido y merchandising creativo de los productos oficiales más demandados. Nuestras agendas 2025 2026 semana vista cuentan con certificado FSC y su envío se realiza en bolsas biodegradables, un packaging sostenible garantizando un envío seguro
+- TODO ORGANIZADO - Incluye apartados súper útiles como el horario semanal de clases, un planificador mensual antes de cada mes... Así es más fácil visualizar exámenes, entregas y actividades con antelación. Sus páginas son punteadas con un buen grosor, son ideales para escribir con comodidad sin que la tinta traspase. Su contenido interior esta editado en Español
 - PLANIFICAR ES FÁCIL - Con su práctico formato semana vista, esta agenda semanal permite visualizar tareas, exámenes y actividades de un solo vistazo para mantener toda la semana bajo control. Su tamaño A5 ofrece el equilibrio perfecto entre espacio de escritura y comodidad, ideal para llevarla en una mochila escolar y consultarla en cualquier momento
 - HECHA PARA DURAR TODO EL CURSO - Diseñada para acompañar cada aventura del curso, de agosto 2025 a julio 2026. Con una cubierta rígida, una encuadernación con anillas metálicas y una banda elástica, esta agenda A5 semana vista resiste el uso diario sin deteriorarse
-- TODO ORGANIZADO - Incluye apartados súper útiles como el horario semanal de clases, un planificador mensual antes de cada mes... Así es más fácil visualizar exámenes, entregas y actividades con antelación. Sus páginas son punteadas con un buen grosor, son ideales para escribir con comodidad sin que la tinta traspase. Su contenido interior esta editado en Español
-- DISEÑO ÚNICO ERIK. - Grupo Erik cuenta con más de 25 años de experiencia en el diseño de material escolar divertido y merchandising creativo de los productos oficiales más demandados. Nuestras agendas 2025 2026 semana vista cuentan con certificado FSC y su envío se realiza en bolsas biodegradables, un packaging sostenible garantizando un envío seguro
+- 🍸 VUELVE ANA MARIN Y SU DULZURA - Frases inspiradoras en español, ilustraciones que transmiten calma y un diseño pensado para que organizarse sea un placer diario ¡A por la vuelta al cole! 🍸
 - EXTRAS QUE LA HACEN DIFERENTE - Esta agenda 2025 2026 españo incluye marcapáginas, ilustraciones con frases motivacionales y pegatinas que permiten personalizar la agenda escolar infantil 2025-2026 y darle un estilo único. Accesorios ideales para destacar tareas, recordar fechas clave o añadir un toque creativo y divertido a la organización diaria
 
 [🛒 Visítala!!!]({{< param buyurl >}})

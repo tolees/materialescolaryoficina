@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de calidad
 - Ropa deportiva cómoda de llevar
+- Material de calidad
 - Tiene el logo distintivo de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

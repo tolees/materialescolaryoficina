@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tamaño: A4+ de 24x32cm que te permitirá guardar fácilmente tus hojas de formato 21 x 29,7 cm
 - Carpeta de cartón lustrado de 400 g/m2, resistente y brillante, con certificado FSC y fabricada en Francia
-- Juego de 11 carpetas elásticas con 3 solapas en papel brillante, 10 colores surtidos
+- Colores surtidos: azul, gris, amarillo, naranja, rosa, rojo, verde claro, turquesa, verde y morado
+- Tamaño: A4+ de 24x32cm que te permitirá guardar fácilmente tus hojas de formato 21 x 29,7 cm
 - Acabado de papel: lustroso
 - 10 carpetas + 1; las carpetas Exacompta son una garantía de calidad inigualable; fácil itan la vida cotidiana y permiten clasificar los documentos con fácil idad
-- Colores surtidos: azul, gris, amarillo, naranja, rosa, rojo, verde claro, turquesa, verde y morado
+- Juego de 11 carpetas elásticas con 3 solapas en papel brillante, 10 colores surtidos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NZS99D7{{</world>}}

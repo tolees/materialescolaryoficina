@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Asiento basculante elevable en altura.
-- Respaldo transpirable tapizado con tejido 3D.
 - Silla para oficina, escritorio o despacho.
-- Base giratoria con 5 ruedas para parquet y patas cromadas.
 - Asiento acolchado y comodos reposabrazos fijos.
+- Base giratoria con 5 ruedas para parquet y patas cromadas.
+- Respaldo transpirable tapizado con tejido 3D.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07MS8PW9Y{{</world>}}

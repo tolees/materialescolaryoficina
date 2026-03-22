@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La innovadora funcionalidad y la navegación basada en menús simplifican el uso de la calculadora para los estudiantes. Las abreviaturas y los accesos directos de teclado se prescinden en gran medida.
-- Con la función de código QR se pueden visualizar los resultados y funciones de la calculadora con el smartphone o tablet.
 - La calculadora FX-991DE CW es el modelo más potente de calculadoras técnico-científicas con 696 funciones
 - Las expresiones matemáticas como raíces, fracciones y logaritmos se representan en notación natural.
+- Con la función de código QR se pueden visualizar los resultados y funciones de la calculadora con el smartphone o tablet.
+- La innovadora funcionalidad y la navegación basada en menús simplifican el uso de la calculadora para los estudiantes. Las abreviaturas y los accesos directos de teclado se prescinden en gran medida.
 - Con el Mathebox se pueden simular los intentos de lanzamiento de dados y monedas. Se pueden enumerar las frecuencias relativas de los totales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

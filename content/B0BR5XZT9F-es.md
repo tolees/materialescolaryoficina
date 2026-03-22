@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Calculadora con pantalla de 2 líneas de lectura de 10+2 dígitos.
 - Calculadora amarilla con carcasa protectora de color amarillo translúcido.
 - Alimentación: 2 pilas de 1,5 V (incluidas). Medidas: 14,3 x 7,4 x 1,4 cm. Incluye instrucciones.
+- Calculadora con pantalla de 2 líneas de lectura de 10+2 dígitos.
 - 228 funciones integradas, funciones logarítmicas y trigonométricas, porcentajes y fracciones. Serie Acid.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

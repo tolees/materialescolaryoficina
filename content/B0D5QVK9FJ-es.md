@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Mono robot Kipling
 - Empuñadura superior
-- Empuñadura superior
 - Bolsillo trasero con cremallera
+- Empuñadura superior
 - Correas de mochila ajustables
 
 [🛒 Comprar!!!]({{< param buyurl >}})

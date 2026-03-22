@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuerpo lacado en azul mate Primrose, inspirado en Londres
 - Producto presentado en un inconfundible estuche de regalo Parker
+- Cuerpo lacado en azul mate Primrose, inspirado en Londres
 - El icónico bolígrafo Jotter con un cuerpo más grande, perfecto para todos aquellos que disfrutan de la comodidad que ofrece un bolígrafo de mayor tamaño
 - Equipado con tecnología de tinta Quinkflow para una escritura más fluida, limpia y homogénea
 - Este bolígrafo ligero y simplificado cuenta con un diseño retráctil que permite su apertura con un característico clic
