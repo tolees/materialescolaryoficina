@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 12 colores surtidos
-- Fácil afilado
-- Forma hexagonal clásica
 - Lápices de colores sin madera
+- Forma hexagonal clásica
+- Fácil afilado
+- 12 colores surtidos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01CJQX2MK{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - INTERIOR: Mes Vista. Para planificarse a nivel mensual. Idioma del artículo: español. Con información de los festivos de España.
-- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses) + Sep.-Dic. 2025 (4 meses) reducidos
-- CONTENIDO: La anualidad del calendario incluye la información relativa a: onomástica, festivos nacionales, festivos de las CC. AA., días señalados, fases lunares y cambios de estación. Detrás de la hoja de cada mes se puede consultar el calendario anual. El calendario dispone también de otros contenidos extra: calendarios reducidos de septiembre a diciembre del año anterior, calendario anual del año y del año siguiente, planning anual, listado de festivos de las CC. AA. y de las capitales de provincia e inicios de los años nuevos chino, musulmán, ortodoxo y hebreo.
 - MATERIAL: Espiral doble metálica y papel 150 g/m².
+- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses) + Sep.-Dic. 2025 (4 meses) reducidos
 - Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
+- CONTENIDO: La anualidad del calendario incluye la información relativa a: onomástica, festivos nacionales, festivos de las CC. AA., días señalados, fases lunares y cambios de estación. Detrás de la hoja de cada mes se puede consultar el calendario anual. El calendario dispone también de otros contenidos extra: calendarios reducidos de septiembre a diciembre del año anterior, calendario anual del año y del año siguiente, planning anual, listado de festivos de las CC. AA. y de las capitales de provincia e inicios de los años nuevos chino, musulmán, ortodoxo y hebreo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9LDY5KK{{</world>}}

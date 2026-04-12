@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un diseño moderno y elegante
 - Diseño funcional
+- Con un diseño moderno y elegante
 - De alta calidad
 - Ideal para su colección de oficina
 

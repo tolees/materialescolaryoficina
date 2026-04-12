@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO ERGONÓMICO: Los lápices de colores tienen una forma triangular ergonómica que garantiza un agarre cómodo
-- SILVICULTURA SOSTENIBLE: Los lápices de colores Faber Castell están fabricados con madera procedente de silvicultura sostenible certificada
-- FABER-CASTEL: Enriqueciendo la vida con creatividad y autoexpresión, inspirando confianza y alegría a través de productos prácticos e innovadores para todas las edades
 - COLORES VIBRANTES: Estos lápices Black edition ofrecen pigmentos ricos para resultados vibrantes, funcionan bien incluso sobre papel oscuro, haciendo que tus obras de arte destaquen vívidamente
+- DISEÑO ERGONÓMICO: Los lápices de colores tienen una forma triangular ergonómica que garantiza un agarre cómodo
+- FABER-CASTEL: Enriqueciendo la vida con creatividad y autoexpresión, inspirando confianza y alegría a través de productos prácticos e innovadores para todas las edades
+- SILVICULTURA SOSTENIBLE: Los lápices de colores Faber Castell están fabricados con madera procedente de silvicultura sostenible certificada
 - RESISTENTES A LA ROTURA Y DURABLES: La mina de 3,3 mm y el proceso de encolado (SV), proporcionan una excelente retención de la punta, un fácil afilado y máxima resistencia a la rotura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

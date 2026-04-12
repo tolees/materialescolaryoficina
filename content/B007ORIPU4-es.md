@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los gomets ayudan a trabajar varias capacidades y habilidades como el conocimiento de los colores, las formas geométricas y los tamaños; el desarrollo de la lógica y la creatividad
 - Los gomets APLI cumplen con las más estrictas normas de calidad y seguridad
 - El formato perfecto para usar en escuelas, guarderías, talleres infantiles o cualquier otro colectivo que trate con niños
 - Rollo de gomets redondos de Ø 20 mm en color negro
 - Jugar y crear con gomets es una actividad básica que permite desarrollar la psicomotricidad fina
+- Los gomets ayudan a trabajar varias capacidades y habilidades como el conocimiento de los colores, las formas geométricas y los tamaños; el desarrollo de la lógica y la creatividad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B007ORIPU4{{</world>}}

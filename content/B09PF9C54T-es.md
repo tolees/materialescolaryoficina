@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - DISEÑO DE NARUTO: Nuestra mochila escolar cuenta con un estampado característico y reconocible para todos los amantes de los animes. Se trata de un diseño de los personajes perteneciente a la serie japonesa Naruto, con el logo en la parte superior.
-- COLECCIÓN NARUTO: Seleccionamos las mochilas y estuches con los diseños más divertidos y electrizantes de tus personajes favoritos de Naruto. Diferentes tamaños y características, pero en todos algo en común, las características más épicas del anime.
 - ETAPA ESCOLAR: Nuestros estuches y mochilas son ideales para que tu pequeño vaya completamente equipado al colegio. Sabemos la importancia que tiene para ellos sentirse cómodos y respaldados, por eso diseñamos nuestros modelos pensando en ellos.
+- COLECCIÓN NARUTO: Seleccionamos las mochilas y estuches con los diseños más divertidos y electrizantes de tus personajes favoritos de Naruto. Diferentes tamaños y características, pero en todos algo en común, las características más épicas del anime.
 - VARIEDAD DE COMPARTIMENTOS: Todos nuestros modelos de estuches y mochilas escolares tienen sus propios espacios de almacenamiento. Encontraréis diferentes gamas de productos para elegir los que más se adapten a las necesidades del pequeño de la casa.
 - DIFERENTES TAMAÑOS: En Toybags sabemos lo importante que es que tu hijo lleve en su mochila todos sus apuntes y cuadernos. Por eso, nuestro modelo tiene unas dimensiones de 40 x 31 x 13 cm , ¡el espacio ideal para guardar todo lo que necesita!
 

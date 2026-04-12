@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hasta 24 horas de protección contra el secado sin tapón.
 - Punta robusta (ancho de trazo: 1 mm)
-- En 65 colores, incluidos 6 colores fluorescentes
+- Hasta 24 horas de protección contra el secado sin tapón.
 - Rotulador premium de colores intensos
+- En 65 colores, incluidos 6 colores fluorescentes
 - Alto brillo y luminosidad del color.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

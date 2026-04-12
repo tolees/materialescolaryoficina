@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Álbum de fotos
-- Material de calidad
 - Ofrece un resultado óptimo y adecuado
+- Material de calidad
+- Álbum de fotos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JQLKDC7{{</world>}}

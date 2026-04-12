@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los dos bolígrafos cuentan con el emblemático diseño retráctil mediante pulsador, mientras que el portaminas cuenta con un mecanismo de "clic para avanzar" y una goma debajo del capuchón
 - Bolígrafo de gel de color rojo Kensington de punta mediana y tinta de color negro intenso
-- Portaminas de acero inoxidable precargado con una mina de 0,7 mm
 - Bolígrafo de color azul Royal de punta mediana y tinta de color azul
+- Los dos bolígrafos cuentan con el emblemático diseño retráctil mediante pulsador, mientras que el portaminas cuenta con un mecanismo de "clic para avanzar" y una goma debajo del capuchón
+- Portaminas de acero inoxidable precargado con una mina de 0,7 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B074WFY36T{{</world>}}

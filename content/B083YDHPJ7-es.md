@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Correas ajustables
 - Mono de peluche de Kipling
-- Acabado repelente al agua
+- Correas ajustables
 - Asa superior
+- Acabado repelente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B083YDHPJ7{{</world>}}

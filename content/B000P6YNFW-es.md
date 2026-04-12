@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IDEAL PARA DETALLES: Estos lápices son ideales para cualquier trabajo con pasteles y para crear líneas finas y nítidas, así como dibujos detallados.
 - 72 LÁPICES: Contiene toda la gama de 72 lápices de colores, vibrantes de alta intensidad y tintas naturales (también disponibles individualmente, en cajas de metal de 12, 24, 36 o 72 o en cajas de madera de 48 o 72 lápices).
-- AMPLIA GAMA: La amplia gama de colores disponibles, permite a artistas utilizar diferentes colores para crear nuevos tonos y matices; se pueden mezclar y combinar fácilmente.
 - PARA NO ENSUCIARTE: Caja metálica con 72 lápices de colores Pastel para trabajar ensuciándote las manos, pero con los lápices pastel de Derwent, eso no es necesario. La mina de color ancha es polvorienta y suave, por lo que puedes mezclar y difuminar con mucha facilidad (siempre que no difumines con los dedos).
 - CONTENIDO: 1 x Caja metálica con 72 lápices de colores Pastel de Derwent.
+- AMPLIA GAMA: La amplia gama de colores disponibles, permite a artistas utilizar diferentes colores para crear nuevos tonos y matices; se pueden mezclar y combinar fácilmente.
+- IDEAL PARA DETALLES: Estos lápices son ideales para cualquier trabajo con pasteles y para crear líneas finas y nítidas, así como dibujos detallados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000P6YNFW{{</world>}}

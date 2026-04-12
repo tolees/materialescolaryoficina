@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuaderno con tapa de cartón de color, esquinas redondeadas y hojas
-- Adecuado para tomar notas en el trabajo o en la universidad o para dar rienda suelta a tu creatividad con lápices de colores
-- Las últimas 16 páginas son separables y hay una solapa para guardar las notas tomadas en hojas separadas; cada uno de los 3 cuadernos presenta la historia de Moleskine
-- El papel de color marfil, sin ácido, está delicadamente calibrado para satisfacer las diferentes necesidades creativas y adaptarse a todas las herramientas de escritura y dibujo
 - El Cuaderno es un cuaderno con una tapa robusta de cartón flexible personalizable y con costuras en el canto
+- Las últimas 16 páginas son separables y hay una solapa para guardar las notas tomadas en hojas separadas; cada uno de los 3 cuadernos presenta la historia de Moleskine
+- Adecuado para tomar notas en el trabajo o en la universidad o para dar rienda suelta a tu creatividad con lápices de colores
+- Cuaderno con tapa de cartón de color, esquinas redondeadas y hojas
+- El papel de color marfil, sin ácido, está delicadamente calibrado para satisfacer las diferentes necesidades creativas y adaptarse a todas las herramientas de escritura y dibujo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07J3G1Y3B{{</world>}}

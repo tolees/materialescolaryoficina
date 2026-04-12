@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 8 bolígrafos Paper Mate Kilometrico (tinta negra): proporciona una experiencia de escritura suave con láser que no se puede copiar
 - 4 bolígrafos Paper Mate InkJoy 100ST y 4 bolígrafos InkJoy 300RT (negro, azul, rojo, verde): tinta ultrasuave que mantiene tus pensamientos fluyendo y facilita el proceso de escritura
+- 8 bolígrafos Paper Mate Kilometrico (tinta negra): proporciona una experiencia de escritura suave con láser que no se puede copiar
 - Una colección esencial de suministros de papelería, con todo lo que necesitas para volver a la escuela o a la oficina
 - 5 portaminas Paper Mate Artio (60 mm de mina 2B de 0,7 mm). Fácil de sostener, diseño delgado que incluye un agarre texturizado para un uso prolongado y cómodo
 - 4 rotuladores Sharpie S-Note (Papaya, Limonada, Verde Mar y Periwinkle): Rotuladores versátiles y creativos en una gama de colores brillantes y llamativos que hacen que tu trabajo destaque. La punta de cincel 2 en 1 te permite cambiar rápidamente entre líneas precisas y amplias

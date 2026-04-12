@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye 2 de cada uno de los 5 colores pastel de cuerpo: morado, verde, amarillo, azul y naranja
-- La punta media de 1,00 mm traza líneas de 0,32 mm de grosor en tinta azul y además es recargable
 - El icónico diseño hexagonal del cuerpo es un emblema de la marca, para que sepas que es un auténtico bolígrafo BIC Cristal
+- La punta media de 1,00 mm traza líneas de 0,32 mm de grosor en tinta azul y además es recargable
+- Incluye 2 de cada uno de los 5 colores pastel de cuerpo: morado, verde, amarillo, azul y naranja
 - El bolígrafo BIC Cristal Pastel está cuidadosamente calibrado para un flujo de tinta uniforme y una escritura duradera
 - Esta caja contiene 10 bolígrafos BIC Cristal Pastel con cuerpo y capuchón a juego en tonos suaves de moda
 

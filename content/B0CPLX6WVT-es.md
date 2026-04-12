@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EDUCATIVO: Jugar con pegatinas es una actividad básica que permite a los niños desarrollar la psicomotricidad fina y trabajar múltiples capacidades y habilidades cognitivas.
-- CONTENIDO: el juego contiene 1 póster gigante de tamaño 70 x 50 cm y 4 hojas de pegatinas removibles (total de 100 stickers)
 - EDAD: Recomendado a partir de 3 años
 - JUEGO DE PEGATINAS: Póster gigante con stickers removibles con temática de la Ciudad.
+- CONTENIDO: el juego contiene 1 póster gigante de tamaño 70 x 50 cm y 4 hojas de pegatinas removibles (total de 100 stickers)
+- EDUCATIVO: Jugar con pegatinas es una actividad básica que permite a los niños desarrollar la psicomotricidad fina y trabajar múltiples capacidades y habilidades cognitivas.
 - EL JUEGO consiste en rellenar el póster de la ciudad con 100 pegatinas de este temática. ¡Puedes pegar y despegar las pegatinas tantas veces como quieras!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

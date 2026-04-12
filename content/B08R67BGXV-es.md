@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Lápices de grafito Noris HB de alta calidad
 - GRATIS goma de borrar diseño Noris
+- Ideal para uso escolar y de oficina
 - Afilalápices con depósito y diseño Noris
 - Edición limitada 120 Aniversario Noris
-- Ideal para uso escolar y de oficina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08R67BGXV{{</world>}}

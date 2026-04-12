@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Memoria RAM de 4GB en placa LPDDR4x
-- Pantalla de 14" Full HD 1920 x 1080 pixeles 250 nits
 - Sistema Operativo: ChromeOS
-- Almacenamiento de 64GB eMMC
-- Tarjeta gráfica integrada ARM Mali-G52 MC2
 - Procesador MediaTek Kompanio 520 (8C/OctaCore 2.05GHz, 1MB)
+- Tarjeta gráfica integrada ARM Mali-G52 MC2
+- Pantalla de 14" Full HD 1920 x 1080 pixeles 250 nits
+- Almacenamiento de 64GB eMMC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSKH2YQ1{{</world>}}

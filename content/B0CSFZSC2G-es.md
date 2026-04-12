@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compartimento principal con cremallera
 - Correas para el hombro ajustables
+- Compartimento principal con cremallera
 - Con detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

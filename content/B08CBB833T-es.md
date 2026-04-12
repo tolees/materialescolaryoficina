@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Producto de la marca Faber-Castell
 - Punta biselada en 3 grosores de trazo: 5 mm, 2 mm y 1 mm
-- Para toda clase de papel normal
 - Tinta a base de agua
+- Para toda clase de papel normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CBB833T{{</world>}}

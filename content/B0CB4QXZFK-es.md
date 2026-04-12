@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CARACTERÍSTICAS: Resolución de 12 megapíxeles / Doble objetivo delantero y trasero / Calidad de impresión de 200 ppp / Pantalla LCD en color de 2 pulgadas / Personalizable con 5 filtros y 22 marcos / Soporte de almacenamiento compatible: tarjeta micro-SD (no incluida). No necesita una tarjeta micro-SD para imprimir fotos / Batería integrada con cable USB incluido / Compatible con ordenadores, portátiles y tabletas con puerto USB.
 - ERGONÓMICO E INTUITIVO: este producto se ha desarrollado especialmente para niños a partir de 4 años. La forma del dispositivo y la disposición de los botones están pensadas para un uso intuitivo y un fácil manejo.
+- UNA CÁMARA DE FOTOGRAFÍA DIGITAL INNOVADORA Y ECONÓMICA DE IMPRESIÓN INSTANTÁNEA PARA NIÑOS A PARTIR DE 4 AÑOS: Haz una foto de tu entorno, tu familia o tus amigos e imprímela al instante. La pantalla LCD en color facilita la navegación por los menús y el encuadre/visualización de las fotos.
 - DISEÑO DE LA CASA DE MUÑECAS DE GABBY: ¡Una cámara con un diseño único de Gabby y todos sus amigos! Los filtros y pegatinas suministrados también son del dibujo animado, ¡para que puedas personalizar tus fotos! Haz fotos en modo retrato, paisaje o selfie con la doble lente. Después, con un solo clic, imprímelas al instante en blanco y negro y crea tu propio estilo personalizándolas con los rotuladores y pegatinas incluidos.
 - SIN TINTA: la impresión se realiza por transferencia térmica y no requiere tiempo de secado. Papel térmico garantizado sin BPA.
-- UNA CÁMARA DE FOTOGRAFÍA DIGITAL INNOVADORA Y ECONÓMICA DE IMPRESIÓN INSTANTÁNEA PARA NIÑOS A PARTIR DE 4 AÑOS: Haz una foto de tu entorno, tu familia o tus amigos e imprímela al instante. La pantalla LCD en color facilita la navegación por los menús y el encuadre/visualización de las fotos.
 - 3 EN 1: Además de las funciones de fotografía e impresión instantánea, puedes utilizar la interfaz para insertar una tarjeta micro-SD (no incluida) para grabar vídeos, guardar tus fotos para verlas más tarde o transferirlas para compartirlas con tu familia y/o amigos.
+- CARACTERÍSTICAS: Resolución de 12 megapíxeles / Doble objetivo delantero y trasero / Calidad de impresión de 200 ppp / Pantalla LCD en color de 2 pulgadas / Personalizable con 5 filtros y 22 marcos / Soporte de almacenamiento compatible: tarjeta micro-SD (no incluida). No necesita una tarjeta micro-SD para imprimir fotos / Batería integrada con cable USB incluido / Compatible con ordenadores, portátiles y tabletas con puerto USB.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4QXZFK{{</world>}}

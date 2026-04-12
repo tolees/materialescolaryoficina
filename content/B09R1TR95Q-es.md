@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración: para un curso escolar de lunes a viernes, sin incluir períodos vacacionales: 199 jornadas.
 - Material: Papel FSC 80gr/m2. Tapas de polipropileno. Espiral simple metálica.
-- Contenido: Datos personales, hojas de contenido libre para pegar documentos importantes del centro, horarios, planos de la clase, fechas de reuniones, fechas de entrevistas, fechas de actividades y salidas, checklist, ideas y proyectos de innovación, aniversarios, planificación mensual sin fecha, 24 hojas de listas/evaluaciones (para 40 alumnos), 7 hojas de reuniones, links, formaciones y contactos, set de adhesivos temáticos y dos fundas transparentes con capacidad para documentos DIN A4.
 - Interior: 1 Día Página sin fecha. Amplio espacio de escritura diario para planificar hasta 8 clases y/o horas lectivas diarias. Idioma del artículo: catalán.
+- Duración: para un curso escolar de lunes a viernes, sin incluir períodos vacacionales: 199 jornadas.
 - Conoce más detalles de este artículo en la descripción de producto. Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella. Comprando Finocam adquieres productos de calidad.
+- Contenido: Datos personales, hojas de contenido libre para pegar documentos importantes del centro, horarios, planos de la clase, fechas de reuniones, fechas de entrevistas, fechas de actividades y salidas, checklist, ideas y proyectos de innovación, aniversarios, planificación mensual sin fecha, 24 hojas de listas/evaluaciones (para 40 alumnos), 7 hojas de reuniones, links, formaciones y contactos, set de adhesivos temáticos y dos fundas transparentes con capacidad para documentos DIN A4.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09R1TR95Q{{</world>}}

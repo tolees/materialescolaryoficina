@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Práctico y ergonómico: su mango ergonómico garantiza un agarre cómodo y facilita el movimiento de la lupa en la página, para un uso fluido y sin esfuerzo, ya sea en la escuela o en casa.
-- DESDE 6 AÑOS: Recomendado por profesores, esta lupa es perfecta para niños desde 6 años, ayudándoles a desarrollar sus habilidades de lectura y concentrarse mejor en el texto.
 - GRASO X3 Y X1.5: Esta lupa de lectura Maped ofrece un doble aumento: una lente principal con un aumento x3 y una lupa secundaria x1.5 para una lectura clara y precisa de letras y detalles pequeños.
 - REPERA VISUAL ROJO: Equipado con una marca visual roja, esta lupa permite a tu hijo seguir fácilmente cada línea de texto. Una herramienta ideal para lectores jóvenes o niños con dificultades para concentrarse en la lectura.
+- DESDE 6 AÑOS: Recomendado por profesores, esta lupa es perfecta para niños desde 6 años, ayudándoles a desarrollar sus habilidades de lectura y concentrarse mejor en el texto.
+- Práctico y ergonómico: su mango ergonómico garantiza un agarre cómodo y facilita el movimiento de la lupa en la página, para un uso fluido y sin esfuerzo, ya sea en la escuela o en casa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DV5P2F1V{{</world>}}

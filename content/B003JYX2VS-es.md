@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lápices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
-- Lápices clásicos de dureza media, HB 2, con los que se obtiene una escritura suave y equilibrada.
-- Tiene resistencia a la rotura gracias a la especial formulación de la mina y a su doble encoladura de 2 mm.
 - Lápiz de alta calidad, de diseño hexagonal, óptimo para escribir, dibujar y esbozar.
 - Diseño ergonómico y cómodo que permite una experiencia única de escritura, apta para uso profesional y uso escolar.
+- Tiene resistencia a la rotura gracias a la especial formulación de la mina y a su doble encoladura de 2 mm.
+- Lápices clásicos de dureza media, HB 2, con los que se obtiene una escritura suave y equilibrada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003JYX2VS{{</world>}}

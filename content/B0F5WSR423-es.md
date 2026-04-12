@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Funciona con pilas: 3 AA
 - Producto de calidad
+- Funciona con pilas: 3 AA
 - Reproduce a tus personajes favoritos, permite crear distintos cómics en base a guiones diseñados por el propio niño.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

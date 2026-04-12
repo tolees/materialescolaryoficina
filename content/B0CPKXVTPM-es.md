@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una corbata, un cinturón llamativo y unas mallas de tela de araña rematan el uniforme de la Academia Nevermore de Miércoles. Las botas de plataforma gruesa llevan su violonchelo en un tacón y su querido escorpión Nero en el otro.
-- Esta muñeca de Miércoles Addams, espectacular con su emblemático atuendo negro, reproduce a la perfección al personaje principal de la serie y refleja su icónico estilo gótico desde el punto de vista de Monster High.
 - Echa un vistazo a toda la línea Monster High x Miércoles para descubrir más muñecas encantadoramente espantosas. Son regalos inolvidables tanto para coleccionistas como para fans. Se venden por separado y están sujetas a disponibilidad.
+- Esta muñeca de Miércoles Addams, espectacular con su emblemático atuendo negro, reproduce a la perfección al personaje principal de la serie y refleja su icónico estilo gótico desde el punto de vista de Monster High.
 - La colección Monster High x Miércoles rinde homenaje a la terroríficamente ingeniosa y espeluznante serie de televisión con una línea de muñecas que son el último grito.
 - Viene acompañada de su fiel confidente Cosa, con sus emblemáticas cicatrices, y de una brillante mochila negra con detalles de calaveras y telarañas.
 

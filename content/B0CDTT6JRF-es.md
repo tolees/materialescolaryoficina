@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💙 3 CUADERNOS A5 STITCH - En su interior encontrarás 3 bloc de notas A5 de diferentes diseños: liso, punteado y rayado ¡Completa tu material de papalería escolar!
 - 💙 BLOC DE NOTAS ADHESIVAS Y CLIPS - Este set contiene notas adhesivas Disney Stitch de diferentes tamaños para darle un toque divertido y dulce a tus anotaciones. Además, podrás mantener tus documentos ordenados con sus clips más divertidos
-- 💛 Stitch ha llegado a esta vuelta al cole con más ganas que nunca de formar parte de tu material escolar con su nuevo pack papeleria que no le falta detalle ¡Completa tu material de papalería escolar!
 - 💛 ESTUCHE TRANSPARENTE - Todo los accesorios papelería lo encontrarás dentro de un estuche Disney Stitch, el cual podrás usarlo como portalapices llevando todo lo necesario para este nuevo curso de la manera más cómoda ¡La papeleria Stitch es perfecta!
 - 💛 PACK SUBRAYADORES DE COLORES - Pack de 4 marcadores colores ideales para la vuelta al cole que te ayudarán a seguir el ritmo en el nuevo curso. Te encantarán ya que vienen en una funda fabricada en PVC para llevarlos a cualquier lugar ¡Estos marcadores doble punta son ideales!
+- 💛 Stitch ha llegado a esta vuelta al cole con más ganas que nunca de formar parte de tu material escolar con su nuevo pack papeleria que no le falta detalle ¡Completa tu material de papalería escolar!
+- 💙 3 CUADERNOS A5 STITCH - En su interior encontrarás 3 bloc de notas A5 de diferentes diseños: liso, punteado y rayado ¡Completa tu material de papalería escolar!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDTT6JRF{{</world>}}

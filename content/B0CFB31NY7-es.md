@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SOBRE NOSOTROS: Brindarle a cada niño el poder de cambiar el mundo con sus manos, es la razón de ser de Maped. Con nuestros valores de espíritu pionero, responsabilidad y compromiso ciudadano trasladamos nuestro carácter creativo y comprometido.
 - ESTUDIO DE LUZ AVATAR: ¡Personaliza tu avatar y hazlo único! Simplemente coloca la plantilla sobre la caja con proyección de luz y tu peque estará listo para empezar a crear sus propias composiciones. Además, podrá combinar 36 láminas de dibujo.
-- LÍNEA MAPED CREATIV: ¿Aún no sabes el poder de las manos? Creemos que en las manos está la capacidad para contar, descubrir, jugar y, sobre todo, expresar. Te ofrecemos artículos para primera infancia, artístico, moldeado, moda o máquinas de dibujo.
 - ¡LUZ, LÁMINA, ACCIÓN!: El funcionamiento de esta tabla de dibujo es muy sencillo. Simplemente tendrán que colocar la lámina del diseño que quieran, colocar un folio, activar la luz y ¡listo! Horas y horas de diversión, imaginación y diseños.
+- LÍNEA MAPED CREATIV: ¿Aún no sabes el poder de las manos? Creemos que en las manos está la capacidad para contar, descubrir, jugar y, sobre todo, expresar. Te ofrecemos artículos para primera infancia, artístico, moldeado, moda o máquinas de dibujo.
+- SOBRE NOSOTROS: Brindarle a cada niño el poder de cambiar el mundo con sus manos, es la razón de ser de Maped. Con nuestros valores de espíritu pionero, responsabilidad y compromiso ciudadano trasladamos nuestro carácter creativo y comprometido.
 - ¡CALCA Y COLOREA!: Con esta caja de luz tu hijo podrá sacar el verdadero artista que lleva dentro. Aprenderá a realizar trazos más precisos y mejorará sus habilidades de motricidad fina de una forma divertida. ¡Su creatividad no tendrá limite!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

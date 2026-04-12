@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Anchura de la línea: punta del pincel ancho de 3 mm y punta del pincel fino de 0,5 mm a 0,8 mm.
 - Bolígrafo con dos puntas de pincel para las mejores creatividades y caligrafías sobre papel.
 - Rotuladores dobles de tinta de colores variados con una punta de anchura fina y una punta de anchura ultrafina.
-- El cuerpo y el capuchón están fabricados en polipropileno ventilado (ISO 11540) lo cual garantiza una larga vida útil.
+- Anchura de la línea: punta del pincel ancho de 3 mm y punta del pincel fino de 0,5 mm a 0,8 mm.
 - Marcadores apropiados para escritura a mano y otros estilos de caligrafía, así como para ilustraciones, manga y coloraciones.
+- El cuerpo y el capuchón están fabricados en polipropileno ventilado (ISO 11540) lo cual garantiza una larga vida útil.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Q6GYKCY{{</world>}}

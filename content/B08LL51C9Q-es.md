@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- En estuche de cartón de 24 unidades
+- Tinta lavable de la mayoría de los tejidos.
 - Colores intensos y brillantes.
 - Ideal para colorear y pintar
-- Tinta lavable de la mayoría de los tejidos.
-- En estuche de cartón de 24 unidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08LL51C9Q{{</world>}}

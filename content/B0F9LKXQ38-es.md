@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - CONTENIDO: La anualidad contiene: onomástica, festivos nacionales, cambios de estación e inicios de los años nuevos chino, musulmán, ortodoxo y hebreo. Dispone de contenidos extra: datos personales, horarios, fechas para destacar, calendarios, plan anual (2 años), planificación de viajes, festivos nacionales y de las CC. AA., festivos internacionales, usos del teclado, cómo buscar en Google, mapa de Europa y de husos horarios, hojas para anotaciones y tareas, y hojas para teléfonos, direcciones y e-mails.
-- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
 - MATERIAL: Tapas de cartón forrado con peliculado mate antirrayaduras y papel 80 g/m².
 - Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 - INTERIOR: Semana Vista Vertical. Visión de la semana completa en vertical. Con horas. Artículo en español con anualidad multilingüe: español, francés, portugués, euskera e inglés. Con información de los festivos de España.
+- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F9LKXQ38{{</world>}}

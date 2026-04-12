@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Morado le encanta hacer un desfile de moda con sus amigas Jade, Sky y Lavender. ¡Colecciona todas o juega con tus amigas!
-- Descubre violeta: le encanta el morado y las flores. Le encantan las flores, especialmente las flores moradas. Colorea su chaqueta en su color favorito
 - Contiene 1 muñeca Colour NStyle, 1 prenda de clip, 3 rotuladores de borrado en seco. A partir de 3 años.
 - Vuelve a empezar tantas veces como quieras. Elimina tu creación con un paño y pasa el pelo de morado bajo el agua
 - Inventa los looks modernos hasta el infinito. Personaliza la ropa, el pelo e incluso la piel de violeta con los rotuladores de colores
+- Descubre violeta: le encanta el morado y las flores. Le encantan las flores, especialmente las flores moradas. Colorea su chaqueta en su color favorito
+- Morado le encanta hacer un desfile de moda con sus amigas Jade, Sky y Lavender. ¡Colecciona todas o juega con tus amigas!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BB2R8NK1{{</world>}}

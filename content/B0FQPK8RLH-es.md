@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal como regalo o autorregalo irresistible
-- Portada de diseño exclusivo en colaboración con Mafalda.
-- El contenido de la agenda se reparte de la siguiente manera: · Página inicial para anotar los datos personales · Calendarios de 2026 y 2027 · Páginas de la izquierda con planificación semanal · Páginas de la derecha para notas · Hojas pautadas de notas al final de la agenda · 2 hojas de pegatinas
-- El set incluye también un bolígrafo borrable Bo-Bo con Mafalda en su extremo, con tinta azul.
 - Set compuesto por una agenda y un bolígrafo borrable Bo-Bo. La agenda es de tamaño A5 y de organización semanal, sencilla y básica.
+- Portada de diseño exclusivo en colaboración con Mafalda.
+- El set incluye también un bolígrafo borrable Bo-Bo con Mafalda en su extremo, con tinta azul.
+- Ideal como regalo o autorregalo irresistible
+- El contenido de la agenda se reparte de la siguiente manera: · Página inicial para anotar los datos personales · Calendarios de 2026 y 2027 · Páginas de la izquierda con planificación semanal · Páginas de la derecha para notas · Hojas pautadas de notas al final de la agenda · 2 hojas de pegatinas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FQPK8RLH{{</world>}}

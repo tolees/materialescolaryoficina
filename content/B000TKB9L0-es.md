@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calidad alemana
-- Paquete con 48 unidades - 24 amarillo, 6 rosa, 6 naranja, 6 azul, 6 verde
-- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse, para un trabajo más concentrado
 - Dos anchos de trazo, 2 y 5 mm
+- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse, para un trabajo más concentrado
+- Paquete con 48 unidades - 24 amarillo, 6 rosa, 6 naranja, 6 azul, 6 verde
 - Tinta base agua
+- Calidad alemana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000TKB9L0{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología antisecado de 4 horas
-- STABILO Calidad fabricada en Alemania
 - Mini subrayador - plena potencia
 - Mini marcador negro adicional
+- Tecnología antisecado de 4 horas
+- STABILO Calidad fabricada en Alemania
 - Diseño de graffiti genial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

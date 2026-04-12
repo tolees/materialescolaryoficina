@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CARACTERÍSTICAS: Cola de acetato de polivinilo. Permite rectificar. Se puede lijar y taladrar. Uso en interior.
-- APLICACIONES: Ideal para trabajos de carpintería, montaje, ensamblaje, revestimientos y bricolaje en madera y otros materiales.
-- MODO DE EMPLEO: LIMPIAR y secar bien las superficies. REMOVER la cola antes de usar. APLICAR una capa fina sobre una de las superficies. UNIR y LIMPIAR.
-- FORMATO: 1 KG.
 - MATERIALES: Maderas duras y blandas, aglomerados, laminados, DM, estratificados, papel, cartón, tela, cerámica, cuero, corcho, fieltro.
+- APLICACIONES: Ideal para trabajos de carpintería, montaje, ensamblaje, revestimientos y bricolaje en madera y otros materiales.
+- CARACTERÍSTICAS: Cola de acetato de polivinilo. Permite rectificar. Se puede lijar y taladrar. Uso en interior.
+- FORMATO: 1 KG.
+- MODO DE EMPLEO: LIMPIAR y secar bien las superficies. REMOVER la cola antes de usar. APLICAR una capa fina sobre una de las superficies. UNIR y LIMPIAR.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00RZAYFOU{{</world>}}

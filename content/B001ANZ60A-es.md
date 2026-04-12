@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Punta súper resistente de Ø 2,8 mm
 - Capuchón ventilado y punta bloqueada que no se hunde
 - Tintas seguras base de agua, de muy larga duración y lavables de la piel con agua y jabón
-- Rotulador completo y seguro gracias a su tapón de seguridad
 - Se pueden eliminar de la ropa utilizando un ciclo normal de lavado a máquina de 40º
-- Punta súper resistente de Ø 2,8 mm
+- Rotulador completo y seguro gracias a su tapón de seguridad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001ANZ60A{{</world>}}

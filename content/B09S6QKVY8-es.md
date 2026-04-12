@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Una vez abierto, utiliza el paquete bandeja para guardar fácilmente tus notas adhesivas.
 - Las notas recicladas Post-it están fabricadas 100 % con papel reciclado - Certificación PEFC RECYCLED
-- Adhesivo de fuentes renovables fabricado en un 60 % con una planta que vuelve a crecer cada año
 - Descarga la aplicación gratuita Post-it para guardar tu trabajo al instante, compartir notas con el equipo y no tener retrasos ni repeticiones
 - Estas notas adhesivas tienen un tamaño de 76 mm x 76 mm y vienen en un paquete bandeja de cartón reciclado de 6 blocs de notas de 100 hojas, sin embalado individual
+- Adhesivo de fuentes renovables fabricado en un 60 % con una planta que vuelve a crecer cada año
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09S6QKVY8{{</world>}}

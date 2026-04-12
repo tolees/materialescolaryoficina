@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libertad Creativa Ilimitada - Desata tu imaginación con total libertad creativa. Ya seas un principiante o un artista experimentado, estos rotuladores de lettering te brindan la flexibilidad para explorar y expresar tu estilo único de lettering con facilidad.
+- Doble Punta Creativa - Experimenta en tus creaciones gracias a nuestros rotuladores para mandalas, que ofrecen versatilidad con una punta pincel para trazos amplios y una punta fina de 0,4mm para detalles precisos.
 - 100 Colores Vibrantes - Sumérgete en un espectro de colores ricos y vibrantes con nuestro set de 100 rotuladores doble punta. Desde tonos sutiles hasta colores intensos, este set abarca todas las tonalidades que necesitas para dar vida a tus creaciones de lettering.
 - Regalo Perfecto Para Artistas - Presentado en una elegante caja cilíndrica con el diseño de un templo griego clásico, este set no solo inspira creatividad, sino que también es un regalo perfecto para cualquier ocasión. Nunca te olvidarán!
-- Doble Punta Creativa - Experimenta en tus creaciones gracias a nuestros rotuladores para mandalas, que ofrecen versatilidad con una punta pincel para trazos amplios y una punta fina de 0,4mm para detalles precisos.
+- Libertad Creativa Ilimitada - Desata tu imaginación con total libertad creativa. Ya seas un principiante o un artista experimentado, estos rotuladores de lettering te brindan la flexibilidad para explorar y expresar tu estilo único de lettering con facilidad.
 - Belleza Clásica en Cada Trazo - Experimenta la belleza clásica en cada trazo con nuestro diseño de caja cilíndrica inspirada en la Grecia clásica. No solo es funcional para organizar los 100 rotuladores, sino que también agrega un toque estético a tu espacio creativo, combinando lo práctico con lo elegante.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

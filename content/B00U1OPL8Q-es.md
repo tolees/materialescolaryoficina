@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Envío y detalles – Loctite Super Glue-3 Power Gel Mini Trio, tubo de gel pegamento flexible, adhesivo con una nueva fórmula de etilcianoacrilato, transparente, 3x1 g tubo, n.º artículo: 2056169
-- Máxima fuerza de unión – Este pegamento universal con una fuerza de unión máxima es resistente a vibraciones. Es multimaterial* e ideal para pegar materiales flexibles.
 - Gel flexible – La fórmula del pegamento rápido Loctite Super Glue-3 Power Gel Mini Trio está enriquecida con caucho y garantiza un acabado flexible y resistente.
+- Envío y detalles – Loctite Super Glue-3 Power Gel Mini Trio, tubo de gel pegamento flexible, adhesivo con una nueva fórmula de etilcianoacrilato, transparente, 3x1 g tubo, n.º artículo: 2056169
 - Diseño funcional – Este pegamento fuerte con tapón antiobstrucción garantiza precisión. Además, es transparente para obtener unas uniones limpias e invisibles y se seca en pocos segundos.
+- Máxima fuerza de unión – Este pegamento universal con una fuerza de unión máxima es resistente a vibraciones. Es multimaterial* e ideal para pegar materiales flexibles.
 - Superficies verticales – Este pegamento flexible cuenta con una fórmula antigoteo que permite una aplicación limpia. Es ideal para superficies verticales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

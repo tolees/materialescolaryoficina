@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Dos bolsillos laterales para llevar la botella de agua, los pañuelos o cualquier otro accesorio pequeño.
 - Compartimento principal de gran capacidad para guardar libros y libretas.
 - Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda y posibilidad de incorporarle un carro opcional o de llevarla enganchada a la maleta gracias a su banda trasera.
-- Mochila de 30 cm x 38 cm x 12 cm fabricada en Poliéster.
 - Dos bolsillos frontales de diferentes tamaños para guardar los accesorios más pequeños.
+- Mochila de 30 cm x 38 cm x 12 cm fabricada en Poliéster.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTDKNRKK{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
-- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 - CONTENIDO: La anualidad de la agenda contiene: onomástica, festivos nacionales e internacionales, cambios de estación e inicios del nuevo año chino, musulmán, ortodoxo y hebreo. Con pestañas troquelada y espacio para notas en cada trimestre. Otros contenidos extra: datos personales, tutorial de My Personal Plan con consejos de organización, calendarios, festivos internacionales, códigos de países, fechas para recordar, horarios, planificación anual en columnas (2 años), planificación mensual cuadriculada (12 meses), hojas para anotaciones y tareas, listas microperforadas para arrancar, adhesivos temáticos, funda transparente y set de notas engomadas.
-- INTERIOR: 1 Día Página. Amplio espacio de escritura para cada día. Una columna para los compromisos asociados a una hora específica, y otra para asignar los objetivos que te hayas propuesto cumplir durante la jornada. Artículo en español con anualidad multilingüe: español, euskera, gallego y catalán. Con información de los festivos de España.
 - MATERIAL: Tapas de polipropileno, espiral doble metálica y papel. 80 g/m².
+- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
+- INTERIOR: 1 Día Página. Amplio espacio de escritura para cada día. Una columna para los compromisos asociados a una hora específica, y otra para asignar los objetivos que te hayas propuesto cumplir durante la jornada. Artículo en español con anualidad multilingüe: español, euskera, gallego y catalán. Con información de los festivos de España.
+- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9LLVLSS{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Valores: juguete que desarrolla la coordinación ojo-mano, la habilidad manual y la creatividad
-- Incluye: 1 mesa luminosa, 1 carpeta organizadora, plantillas de estarcido, pegatinas para decorar tus dibujos o la propia mesa de dibujo, rotuladores perfumados y normales, tijeras, folios con actividades y manual de instrucciones
 - Edad: recomendado a partir de 5 años
 - Stitch: este set de dibujo te transporta directamente al mágico universo de Disney, donde las travesuras de Stitch cobran vida a través de ilustraciones que invitan a recrear sus aventuras más divertidas
+- Incluye: 1 mesa luminosa, 1 carpeta organizadora, plantillas de estarcido, pegatinas para decorar tus dibujos o la propia mesa de dibujo, rotuladores perfumados y normales, tijeras, folios con actividades y manual de instrucciones
 - Mesa luminosa: la luz incorporada permite calcar y dibujar con facilidad. Tiene unas medidas de 42x7x27 cm y funciona con 4 pilas AA (no incluidas)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
