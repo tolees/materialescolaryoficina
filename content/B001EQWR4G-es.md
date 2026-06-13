@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de perforación: encolado en la parte superior.
-- Perforación: 4 agujeros.
-- Tipo de encuadernación: encolado en la parte superior.
 - Descripción del artículo: bloc escolar.
+- Tipo de encuadernación: encolado en la parte superior.
+- Perforación: 4 agujeros.
 - Tipo de producto: diseño de Brunnen.
+- Tipo de perforación: encolado en la parte superior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001EQWR4G{{</world>}}

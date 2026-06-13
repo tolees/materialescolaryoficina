@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 1 compartimento grande
 - Espalda acolchada Airmesh
 - Dos bolsillos laterales con cremallera
 - Bolsillo exterior
-- 1 compartimento grande
 - Correa de skate exterior
 
 [🛒 Visítala!!!]({{< param buyurl >}})

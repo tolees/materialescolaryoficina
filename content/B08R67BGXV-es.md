@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ideal para uso escolar y de oficina
-- Edición limitada 120 Aniversario Noris
-- Lápices de grafito Noris HB de alta calidad
 - GRATIS goma de borrar diseño Noris
+- Lápices de grafito Noris HB de alta calidad
+- Edición limitada 120 Aniversario Noris
 - Afilalápices con depósito y diseño Noris
 
 [🛒 Visítala!!!]({{< param buyurl >}})

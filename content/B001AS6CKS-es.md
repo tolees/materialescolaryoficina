@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gama de 24 colores
 - Fabricado con madera certificada FSC
 - Forma hexagonal clásica
-- Gama de 24 colores
-- Diseño de rayas blancas
 - Calidad alemana
+- Diseño de rayas blancas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001AS6CKS{{</world>}}

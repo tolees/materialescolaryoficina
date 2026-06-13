@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rotuladores de punta cónica 5 mm Ø, que permite realizar trazos desde 0,75 mm a 3 mm.
-- Por su tipo de punta se recomiendan para rellenar superficies de color. Puede lavarse fácilmente sobre la mayoría de tejidos. Con capuchón de seguridad ventilado.
 - Tinta a base de agua que proporciona unos colores brillantes de fácil aplicación y mezclables entre sí.
-- 8 colores Pastel: amarillo, naranja, rosa, lila, violeta, azul, turquesa y verde.
 - Punta resistente a los golpes y a la presión.
+- Por su tipo de punta se recomiendan para rellenar superficies de color. Puede lavarse fácilmente sobre la mayoría de tejidos. Con capuchón de seguridad ventilado.
+- 8 colores Pastel: amarillo, naranja, rosa, lila, violeta, azul, turquesa y verde.
+- Rotuladores de punta cónica 5 mm Ø, que permite realizar trazos desde 0,75 mm a 3 mm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CS3TWDLV{{</world>}}

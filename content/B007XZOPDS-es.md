@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Artículo tipo calculadora
 - Diseño y funcionalidad
 - Números grandes
+- Artículo tipo calculadora
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007XZOPDS{{</world>}}

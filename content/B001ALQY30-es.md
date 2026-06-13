@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lamas de fibra de vidrio que solamente cortan papel
+- 0
 - De alta calidad y con un diseño moderno y elegante
 - Ideal para su colección de oficina
-- 0
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001ALQY30{{</world>}}

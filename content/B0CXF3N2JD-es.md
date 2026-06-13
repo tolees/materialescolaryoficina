@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mina resistente a la rotura gracias a la punta de mina
+- Cuerpo de plástico translúcido con zona de agarre de goma
 - Con goma de borrar integrada
 - Avance de la mina automático, no es necesario sacar la mina apretando
-- Cuerpo de plástico translúcido con zona de agarre de goma
+- Mina resistente a la rotura gracias a la punta de mina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXF3N2JD{{</world>}}

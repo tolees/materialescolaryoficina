@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CALIDAD PREMIUM: Este cuaderno de notas presenta papel libre de ácido color marfil (70 g/m²), proveniente de bosques gestionados de manera sostenible
 - DISEÑO: Descubre este cuaderno rayado con cubierta flexible de cartón, ilustraciones de los Peanuts y una cita que celebra la alegría de escribir
+- CALIDAD PREMIUM: Este cuaderno de notas presenta papel libre de ácido color marfil (70 g/m²), proveniente de bosques gestionados de manera sostenible
 - PEANUTS X MOLESKINE: Esta colección no solo encarna el encanto atemporal de los Peanuts, sino que también destaca los beneficios cognitivos comprobados de la escritura a mano
 - PRATICIDAD: El cuaderno está equipado con un marcador de papel y un bolsillo para las notas tomadas en hojas sueltas. Las últimas 16 páginas son desprendibles.
 

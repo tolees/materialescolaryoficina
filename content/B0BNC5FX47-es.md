@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CRAYOLA PASTEL: una línea caracterizada por soluciones coloridas y creativas en colores pastel para un efecto extremadamente creativo que sorprenderá.
-- IDEALES PARA CUALQUIER OCASIÓN: ideales para la escuela y el tiempo libre para dibujar, colorear y hacer trabajos de caligrafía y escritura a mano.
 - PARA NIÑOS Y ADULTOS: ideales para cualquier tipo de proyecto creativo para pasar horas de diversión a todo color.
-- PUNTA de fibra muy resistente en 20 colores pastel variados.
 - UNA PUNTA, DOS EFECTOS: punta cónica para doble trazo de escritura según la inclinación del rotulador - trazo fino con el rotulador vertical y trazo grueso con el rotulador inclinado.
+- PUNTA de fibra muy resistente en 20 colores pastel variados.
+- IDEALES PARA CUALQUIER OCASIÓN: ideales para la escuela y el tiempo libre para dibujar, colorear y hacer trabajos de caligrafía y escritura a mano.
+- CRAYOLA PASTEL: una línea caracterizada por soluciones coloridas y creativas en colores pastel para un efecto extremadamente creativo que sorprenderá.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNC5FX47{{</world>}}

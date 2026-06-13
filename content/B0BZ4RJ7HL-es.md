@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los rotuladores se lavan en la mayoría de los tejidos
-- El set de rotuladores Black Edition consta de 10 rotuladores de punta de fibra con punta de pincel.
 - Son ideales para escribir a mano, pintar o colorear en áreas
+- El set de rotuladores Black Edition consta de 10 rotuladores de punta de fibra con punta de pincel.
 - La punta blanda del pincel permite dibujar tanto trazos finos como gruesos.
 - Los colores vivos de los rotuladores son adecuados para papel claro
 

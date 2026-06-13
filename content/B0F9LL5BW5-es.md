@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
+- MATERIAL: Tapas de cartón forrado con peliculado mate antirrayaduras. Espiral doble metálica y papel 70 g/m².
 - INTERIOR: 1 Día Página. Amplio espacio de escritura para cada día. Con horas. Sábados y domingos en página completa. Artículo en español con anualidad multilingüe: español, euskera, gallego y catalán. Con información de los festivos de España.
 - CONTENIDO: La anualidad de la agenda incluye la información relativa a: onomástica, festivos nacionales, cambios de estación e inicios de los años nuevos chino, musulmán, ortodoxo y hebreo. La agenda dispone también de otros contenidos extra: datos personales, calendarios, horarios, objetivos del año, plan anual, fechas importantes, otras fechas, hojas para checklist, hojas para notas, hoja para ocio, hojas para teléfonos, direcciones y e-mails y dos hojas de pegatinas orientadas a la organización personal.
-- MATERIAL: Tapas de cartón forrado con peliculado mate antirrayaduras. Espiral doble metálica y papel 70 g/m².
 - DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

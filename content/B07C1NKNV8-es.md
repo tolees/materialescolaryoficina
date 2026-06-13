@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Espiral simple negra
+- 80 hojas con cuadrícula 4mm x 4mm con margen
+- Nuevo color
 - Tapa plástico, resistencia y ligereza en uno. Cantos romos para evitar que las tapas se deterioren
 - Formato Fº
-- 80 hojas con cuadrícula 4mm x 4mm con margen
-- Espiral simple negra
-- Nuevo color
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07C1NKNV8{{</world>}}

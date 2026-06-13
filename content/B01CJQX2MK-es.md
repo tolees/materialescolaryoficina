@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lápices de colores sin madera
-- 12 colores surtidos
 - Forma hexagonal clásica
+- 12 colores surtidos
 - Fácil afilado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

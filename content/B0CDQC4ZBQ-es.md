@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Uso doble: la punta fina se utiliza en cualquier lugar donde se trate de líneas exactas. La segunda punta es una punta de pincel flexible, cuyo grosor de trazo varía según la presión aplicada
 - Creatividad ilimitada: expresa tu creatividad y utiliza nuestros bolígrafos de doble pincel para escribir a mano, acuarela, ilustraciones, diario de balas, estampar, dibujar manga y mandalas
 - RESISTENCIA Y TRADICIÓN: Tombow es una empresa familiar japonesa que produce instrumentos de escritura fiables y de alta calidad y ayuda a las personas creativas en su trabajo
-- Ventajas especiales: el ABT es uno de los bolígrafos Brush Pen y no tiene que decidir si es un bolígrafo o un pincel, simplemente tienes ambos. Puedes pintar y dibujar de manera uniforme sin que te quedes sin color
 - Fabricado a base de agua: los colores se pueden mezclar entre sí y son acuarelables con magníficos degradados de color. Son libres de ácidos, no tóxicos e inodoros
+- Uso doble: la punta fina se utiliza en cualquier lugar donde se trate de líneas exactas. La segunda punta es una punta de pincel flexible, cuyo grosor de trazo varía según la presión aplicada
+- Ventajas especiales: el ABT es uno de los bolígrafos Brush Pen y no tiene que decidir si es un bolígrafo o un pincel, simplemente tienes ambos. Puedes pintar y dibujar de manera uniforme sin que te quedes sin color
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDQC4ZBQ{{</world>}}

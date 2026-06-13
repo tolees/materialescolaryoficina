@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rotulador Stabilo
 - Material de calidad
 - Producto adecuado para oficina, despacho o estudio
+- Rotulador Stabilo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MZWINDL{{</world>}}

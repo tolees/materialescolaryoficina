@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NUEVO FORMATO DE RECAMBIO: contiene 3 cachorros de color pastel para ampliar la colección y continuar con la diversión, ¡además de 3 rotuladores lavables y un cepillo!
-- DESCUBRE LOS WASHIMALS CRAYOLA: adorables cachorros de pelo aterciopelado para colorear y decorar de muchas formas dando rienda suelta a tu imaginación durante horas de diversión creativa.
 - BAÑA Y VUELVE A COLOREAR: usa el cepillo para bañar a tus cachorros. El agua eliminará la tinta y tus nuevos amigos estarán listos para empezar un nuevo juego.
+- NUEVO FORMATO DE RECAMBIO: contiene 3 cachorros de color pastel para ampliar la colección y continuar con la diversión, ¡además de 3 rotuladores lavables y un cepillo!
 - COLOREA: diviértete decorando a tus cachorros con rotuladores con puntas especiales y tintas no tóxicas y ultra lavables, fáciles de limpiar de las manos y la ropa.
+- DESCUBRE LOS WASHIMALS CRAYOLA: adorables cachorros de pelo aterciopelado para colorear y decorar de muchas formas dando rienda suelta a tu imaginación durante horas de diversión creativa.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRLH65B5{{</world>}}

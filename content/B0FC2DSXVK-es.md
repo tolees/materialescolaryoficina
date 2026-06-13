@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Materiales Selectos: La silla gaming está hecha con metal galvanizado y tapicería de polipiel resistente al agua. Su elevador de gas certificado SGS permite ajustar la altura con suavidad y seguridad, soportando hasta 136 kg. Su asiento está fabricado con tableros de madera con certificación FSC, procedentes de bosques bien gestionados para una experiencia de asiento más segura
 - Función de Inclinación: El respaldo alto de la silla de juegos se reclina y bloquea entre 90° y 135°, lo que permite una transición fluida entre el juego, el trabajo, la siesta y la relajación para una comodidad personalizada
+- Materiales Selectos: La silla gaming está hecha con metal galvanizado y tapicería de polipiel resistente al agua. Su elevador de gas certificado SGS permite ajustar la altura con suavidad y seguridad, soportando hasta 136 kg. Su asiento está fabricado con tableros de madera con certificación FSC, procedentes de bosques bien gestionados para una experiencia de asiento más segura
 - Masaje Vibratorio Integrado: Disfrute de relajación entre sesiones de juego activando la función de masaje en el apoyo lumbar. Para una fácil conectividad, la silla gaming incluye un puerto USB con interruptor de botón
 - Diseño Ergonómico: La silla gaming ergonómica tiene un respaldo de 75 cm con laterales alados, reposabrazos acolchados, almohada lumbar de espuma y reposapiés retráctil, dándole comodidad durante sesiones de juego o trabajo
 - Altura Ajustable: Según su estatura y sus hábitos personales, puede subir y bajar la silla gaming profesional entre 48-57,5 cm con la palanca debajo, logrando la posición ideal para jugar y disfrutar al máximo

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Trazo : 0,4 mm
-- De alta calidad
 - Marca : stabilo
 - Tipo : de fibra
+- De alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MYQYOSL{{</world>}}

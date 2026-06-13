@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hauptfach
-- Compartimento para raquetas
-- Dos bolsillos laterales de malla
-- Estructura reforzada
 - Compartimento para zapatillas
+- Compartimento para raquetas
+- Estructura reforzada
+- Hauptfach
+- Dos bolsillos laterales de malla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G3Q5XPV9{{</world>}}

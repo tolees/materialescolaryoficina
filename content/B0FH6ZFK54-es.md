@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño: Dino World de Depesche
+- Dimensiones: aprox. 19,5 x 8,2 x 1 cm, diámetro: 7 mm, embalado en un estuche de cartón a juego
 - Un extra genial: cada lápiz viene con una goma de borrar de color a juego para borrar lo que hayas dibujado
 - Estuche de 10 lápices de colores para colorear y diseñar
 - Incluye 10 lápices de colores vivos: amarillo, naranja, rojo, rosa, morado, azul oscuro, azul claro, verde, marrón y negro.
-- Dimensiones: aprox. 19,5 x 8,2 x 1 cm, diámetro: 7 mm, embalado en un estuche de cartón a juego
+- Diseño: Dino World de Depesche
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FH6ZFK54{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lengüeta de índice hecha de cartón reciclado
-- Tiene el tamaño A4
-- Con un grosor de 220 g/m²
 - Es útil para la oficina
+- Con un grosor de 220 g/m²
+- Tiene el tamaño A4
+- Lengüeta de índice hecha de cartón reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00911FQDU{{</world>}}

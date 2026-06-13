@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Staedtler Noris 185 CD36 Lápices Ecológicos Caja Con 36 Lápices de Colores Variados Multicolor'
-date: 2026-05-17 14:10:11
+date: 2026-06-12 21:58:45
 image: 'https://m.media-amazon.com/images/I/51jhyuUdT2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07CXYN3DR-es Staedtler Noris 185 CD36 Lápices Ecológicos Caja Con 36...'
 sku: 'B07CXYN3DR-es'
 tags: [ 'lápices','🇪🇸', ]
-actualPrice: 7.31 EUR
+actualPrice: 7.2 EUR
 currency: EUR
-price: 7.31
+price: 7.2
 comparePrice: 12.25 EUR
 prodname: 'Staedtler Noris 185 CD36 Lápices Ecológicos Caja Con 36 Lápices de Colores Variados Multicolor'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXYN3DR/?tag=tolees-21'
-descuento: '40.33'
-average: '7.77964285714285'
+descuento: '41.22'
+average: '7.741'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La mina homogénea es especialmente resistente a la rotura y no se astilla cuando se rompe
-- Lápices de colores brillantes y variados, de diseño tradicional hexagonal, óptimos para colorear y dibujar
-- Fabricados en WOPEX, innovador material formado por grafito, WPC y una cobertura especial para la superficie del lápiz
-- Lapiceros ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 - Diseño ergonómico que ofrece una experiencia única de escritura, más cómodos de usar por su alta densidad y mayor peso
+- Fabricados en WOPEX, innovador material formado por grafito, WPC y una cobertura especial para la superficie del lápiz
+- Lápices de colores brillantes y variados, de diseño tradicional hexagonal, óptimos para colorear y dibujar
+- La mina homogénea es especialmente resistente a la rotura y no se astilla cuando se rompe
+- Lapiceros ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07CXYN3DR{{</world>}}

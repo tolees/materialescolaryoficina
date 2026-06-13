@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No inflamable
-- ALTA RESISTENCIA
-- Lograr el cumplimiento
 - Ligero y cómodo
+- Lograr el cumplimiento
+- ALTA RESISTENCIA
+- No inflamable
 - Resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

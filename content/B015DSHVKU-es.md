@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GRAN CAPACIDAD - Potente grapadora capaz de grapar hasta 100 hojas de papel de 80 g/m², útil para propuestas comerciales, manuscritos, informes, proyectos escolares, trabajos académicos, de investigación y mucho más
-- ECO MATERIAL - Grapadora en ABS fabricada con un alto porcentaje de materiales reciclados y con un chasis resistente totalmente metálico
 - GRAPAS COMPATIBLES - Cargador de carga frontal y apertura con botón para facilitar la carga de grapas de tipo 923 de 6mm a 12mm o de tipo 24 de 6mm a 8mm de longitud; Se recomienda encarecidamente utilizar grapas Rapesco para obtener resultados óptimos
+- ECO MATERIAL - Grapadora en ABS fabricada con un alto porcentaje de materiales reciclados y con un chasis resistente totalmente metálico
 - GRAPADORA DE GRUESOS - La grapadora de escritorio HD-100 tiene un elegante acabado negro que se adapta a cualquier escritorio; se suministra con 2000 grapas de tipo 923/10 mm para un uso inmediato
-- DIMENSIONES - Larga - 254 mm x Ancha - 59 mm x Alta - 115 mm
+- GRAN CAPACIDAD - Potente grapadora capaz de grapar hasta 100 hojas de papel de 80 g/m², útil para propuestas comerciales, manuscritos, informes, proyectos escolares, trabajos académicos, de investigación y mucho más
 - USO CONVENIENTE - Cuenta con una empuñadura suave al tacto para mayor comodidad del usuario, base antideslizante para mayor estabilidad y guía del papel ajustable para un grapado preciso y consistente de hojas de diferentes tamaños
+- DIMENSIONES - Larga - 254 mm x Ancha - 59 mm x Alta - 115 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B015DSHVKU{{</world>}}

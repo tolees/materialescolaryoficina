@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tirantes ajustables de cincha de correas
 - Bolsillo delantero con cremallera
+- Tirantes ajustables de cincha de correas
 - Poliéster reciclado 600 Denier
 - Un compartimento principal
 

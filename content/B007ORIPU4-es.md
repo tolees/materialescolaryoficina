@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El formato perfecto para usar en escuelas, guarderías, talleres infantiles o cualquier otro colectivo que trate con niños
 - Jugar y crear con gomets es una actividad básica que permite desarrollar la psicomotricidad fina
 - Los gomets APLI cumplen con las más estrictas normas de calidad y seguridad
+- El formato perfecto para usar en escuelas, guarderías, talleres infantiles o cualquier otro colectivo que trate con niños
 - Los gomets ayudan a trabajar varias capacidades y habilidades como el conocimiento de los colores, las formas geométricas y los tamaños; el desarrollo de la lógica y la creatividad
 - Rollo de gomets redondos de Ø 20 mm en color negro
 

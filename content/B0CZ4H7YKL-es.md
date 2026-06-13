@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Características: apertura de 3 compartimentos con cremallera. Elásticos interiores para lápices. Logotipo serigrafiado en el dorso. Cremalleras de extracción personalizadas.
 - Tejido: Poliéster translúcido impreso
+- Características: apertura de 3 compartimentos con cremallera. Elásticos interiores para lápices. Logotipo serigrafiado en el dorso. Cremalleras de extracción personalizadas.
 - Dimensiones: 12,5 x 19,7 x 7 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

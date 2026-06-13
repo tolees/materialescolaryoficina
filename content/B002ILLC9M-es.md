@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El contenido del paquete tiene 50 piezas
-- Material del producto: cárton
 - Dimensiones del producto: 24 x 32 cm
+- Material del producto: cárton
+- El contenido del paquete tiene 50 piezas
 - Productos para la oficina y para uso personal
 - Adecuado para mantener documentos organizados y protegidos
 

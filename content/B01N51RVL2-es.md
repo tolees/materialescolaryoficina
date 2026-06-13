@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Correcciones precisas en ambos lados gracias a la función push & pull: pull para corregir frases enteras, push para corregir letras individuales
-- Cartucho de recambio para el rodillo corrector Pritt Refill Flex Roller Midway 9H PRR4H y 9H PRR4M
-- Volumen de suministro práctico: cartucho de recambio para el rodillo corrector Pritt Refill Flex Roller Midway; anchura 4,2 mm, longitud 12 m
-- Punta retráctil para una mayor duración
 - La punta flexible se ajusta al ángulo de aplicación y evita que la cinta se rompa
+- Correcciones precisas en ambos lados gracias a la función push & pull: pull para corregir frases enteras, push para corregir letras individuales
+- Punta retráctil para una mayor duración
+- Volumen de suministro práctico: cartucho de recambio para el rodillo corrector Pritt Refill Flex Roller Midway; anchura 4,2 mm, longitud 12 m
+- Cartucho de recambio para el rodillo corrector Pritt Refill Flex Roller Midway 9H PRR4H y 9H PRR4M
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N51RVL2{{</world>}}

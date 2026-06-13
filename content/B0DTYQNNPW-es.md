@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🛡️ DURADERA Y PRÁCTICA: Esta libreta con cubierta de cartón forrado y plastificado mate es perfecta para la vuelta al cole, el instituto o cualquier actividad diaria. Compacta y resistente, es ideal para llevar en mochilas, bolsos o donde prefieras, manteniendo tus notas siempre protegidas.
 - 📐 CUADERNO CUADRICULADO 5x5 mm: Ideal para crear diagramas, tomar notas técnicas o escribir de manera ordenada. Diseñado para adaptarse a las necesidades de estudiantes, profesionales y mentes creativas, combinando funcionalidad y versatilidad en cada página.
-- 📖 LIBRETA CUADRICULADA CON SECCIONES: Organiza tus notas de manera sencilla con 120 hojas divididas en cuatro colores distintos, ideales para clasificar proyectos, materias o tareas. Una opción práctica y funcional para mantener todo bien organizado y a la vista.
 - 📝 LIBRETA A4 CON PAPEL EXTRA OPACO: Papel de 70 g/m² diseñado para evitar traspasos de tinta, proporcionando una experiencia perfecta con bolígrafos, marcadores y lápices. Incluye hojas microperforadas que garantizan un arranque limpio, preciso y sin esfuerzo, ideal para un uso práctico y profesional.
+- 📖 LIBRETA CUADRICULADA CON SECCIONES: Organiza tus notas de manera sencilla con 120 hojas divididas en cuatro colores distintos, ideales para clasificar proyectos, materias o tareas. Una opción práctica y funcional para mantener todo bien organizado y a la vista.
 - 🔗 ORGANIZACIÓN PERFECTA CON 4 TALADROS: Diseñados para carpetas de 4 anillas, estos taladros hacen que organizar y archivar tus hojas sueltas sea más fácil que nunca. Mantén todo en orden y a tu alcance, ideal para tener tus documentos siempre listos y organizados.
+- 🛡️ DURADERA Y PRÁCTICA: Esta libreta con cubierta de cartón forrado y plastificado mate es perfecta para la vuelta al cole, el instituto o cualquier actividad diaria. Compacta y resistente, es ideal para llevar en mochilas, bolsos o donde prefieras, manteniendo tus notas siempre protegidas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTYQNNPW{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de utilizar
 - Estuche de 18 colores
+- Fácil de utilizar
 - Producto de calidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

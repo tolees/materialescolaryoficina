@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No permanente: tinta soluble en agua, se puede borrar con un paño húmedo de láminas y superficies lisas, se seca en segundos, excelente brillo de color, negro resistente a la luz.
-- Contenido del envío: 8 lápices en 4 colores (rojo, azul, verde y negro) en una caja estable de Staedtler-box, ancho de línea F aprox. 0,6 mm
-- Permanente: tinta permanente, inodora, excelente resistencia a manchas y al agua en casi todas las superficies, resistente a la luz (negro y marrón) y resistente a la intemperie (negro), se seca en segundos.
 - Xilol y tolueno, Airplane Safe, rellenable con gasolinera 487, apto para proyección de retroproyector, fabricado en Alemania.
+- No permanente: tinta soluble en agua, se puede borrar con un paño húmedo de láminas y superficies lisas, se seca en segundos, excelente brillo de color, negro resistente a la luz.
+- Permanente: tinta permanente, inodora, excelente resistencia a manchas y al agua en casi todas las superficies, resistente a la luz (negro y marrón) y resistente a la intemperie (negro), se seca en segundos.
+- Contenido del envío: 8 lápices en 4 colores (rojo, azul, verde y negro) en una caja estable de Staedtler-box, ancho de línea F aprox. 0,6 mm
 - El cuerpo y el capuchón de PP garantizan una larga vida útil y la tinta no se evapora.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

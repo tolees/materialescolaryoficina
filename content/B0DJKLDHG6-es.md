@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAPACIDAD Y RESISTENCIA: Creamos nuestra mochila pequeña para que tu peque tenga el espacio que necesita para salir a comerse el mundo. Sus cómodas asas permitirán que disfrute de una total libertad de movimiento.
 - MATERIALES DE CALIDAD: Diseñamos nuestras colecciones en España, empleando materiales de calidad que nos permiten aumentar la durabilidad y resistencia de los productos. ¡Para que nada frene sus ganas de pasarlo en grande!
 - MOCHILA DE HELLO KITTY: Hemos creado esta mochila infantil con cuero sintético para que sea la compañera ideal para sus aventuras fuera de casa. Gracias a sus asas y su cierre de cremallera les será de lo más cómodo llevarla a todas partes.
+- CAPACIDAD Y RESISTENCIA: Creamos nuestra mochila pequeña para que tu peque tenga el espacio que necesita para salir a comerse el mundo. Sus cómodas asas permitirán que disfrute de una total libertad de movimiento.
 - CERDÁ LIFES LITTLE MOMENTS: Llevamos más de 35 años ofreciendo productos de las licencias más importantes. Nuestra experiencia nos ha llevado a crecer y crear cientos de diseños y referencias para todas las edades. ¡Descubre todas nuestras opciones!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

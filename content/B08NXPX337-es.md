@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Superficie pintada, agradable agarre
-- Lápiz hexagonal con diseño clásico de rayas
 - Mina irrompible
 - 10 grados de dureza finamente graduados, desde bastante suave (4B) hasta muy duro (4H)
+- Lápiz hexagonal con diseño clásico de rayas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NXPX337{{</world>}}

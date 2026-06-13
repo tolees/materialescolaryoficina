@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【DIMENSIÓN Y ACCESORIOS】 Volumen interior: 10-12 L, dimensiones exteriores aprox. 31x14x42 cm Material: EVA, nailon 1200D, poliéster; Accesorios incluidos: Capota impermeable, correas X-Cross x2.
-- 【Correas X-Cross】】La mochila para cámara TR-H está equipada con versátiles correas X-Cross en la parte delantera, que se pueden usar para sujetar drones más grandes, sacos de dormir y bolsas para lentes. Hay clips de liberación rápida para un desmontaje rápido y hebillas en cada correa para ajustar según sea necesario.
+- 【A PRUEBA DE ROBO】 Solo se puede acceder al compartimiento de la cámara y la computadora portátil desde la parte posterior, asegurado con cremalleras dobles. Debido a la construcción de carcasa dura, no hay brechas de seguridad para los ladrones.
 - 【Gran capacidad】Compartimento grande para cámara con divisores modulares y dos bolsillos para trípode y accesorios en cada lado con correas de seguridad. La mochila fotográfica TR-H tiene capacidad para 1-2 cámaras, 5-6 lentes y accesorios. En la parte trasera hay una funda para portátil de 14,5" y bolsillos multiusos adicionales para una libreta y accesorios.
 - 【Protección de carcasa dura】 Estuche rígido de EVA (alrededor) con acolchado interior grueso. A prueba de golpes, resistente al agua y a la abrasión, soporta una gran presión de peso y es liviano (solo 1,5 kg (3,3 lb)). Protección integral para tu cámara y equipo de drones.
-- 【A PRUEBA DE ROBO】 Solo se puede acceder al compartimiento de la cámara y la computadora portátil desde la parte posterior, asegurado con cremalleras dobles. Debido a la construcción de carcasa dura, no hay brechas de seguridad para los ladrones.
+- 【DIMENSIÓN Y ACCESORIOS】 Volumen interior: 10-12 L, dimensiones exteriores aprox. 31x14x42 cm Material: EVA, nailon 1200D, poliéster; Accesorios incluidos: Capota impermeable, correas X-Cross x2.
+- 【Correas X-Cross】】La mochila para cámara TR-H está equipada con versátiles correas X-Cross en la parte delantera, que se pueden usar para sujetar drones más grandes, sacos de dormir y bolsas para lentes. Hay clips de liberación rápida para un desmontaje rápido y hebillas en cada correa para ajustar según sea necesario.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XMJV7X9{{</world>}}

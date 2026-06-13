@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color verde.
-- Diseño original de los productos creado por el departamento de I+D. Medidas bolígrafo: 14,1 x 1,7 cm. 1 cm Ø. Medidas portaminas: 14,4 x 1,5 x 1,1 cm. Medidas afilaborra: 6,5 x 3,5 x 2,4 cm.
+- Gomas y minas de recambio disponibles.
 - Set de escritura de la serie Lava, inspirada en las erupciones volcánicas y en el movimiento de la roca fundida, ideal para regalo.
 - Contiene un bolígrafo P1 con tinta azul, un portaminas de 0,5 mm de grosor y dureza HB con goma MILAN extra-larga con mecanismo rotatorio, y un afilaborra diseño CAPSULE con goma de borrar y sacapuntas con depósito y cuchilla de seguridad.
-- Gomas y minas de recambio disponibles.
+- Diseño original de los productos creado por el departamento de I+D. Medidas bolígrafo: 14,1 x 1,7 cm. 1 cm Ø. Medidas portaminas: 14,4 x 1,5 x 1,1 cm. Medidas afilaborra: 6,5 x 3,5 x 2,4 cm.
+- Color verde.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW4HMBD3{{</world>}}

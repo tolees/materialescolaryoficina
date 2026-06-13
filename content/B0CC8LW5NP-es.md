@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- A stylus that can do more. Dual shortcut keys make switching functions so easy with just a click. A digital eraser in the tail removes unwanted marks effortlessly. Look chic in black-and-grey color. Dimension: 14.45x156.27mm Package includes: 4 x felt nibs; 4 x standard nibs
 - *Nota: El paquete viene con un cable USB-C a USB-C para conectar la tableta gráfica y su dispositivo, si su ordenador no tiene puerto USB-C, deberá comprar un cable 3 en 1 adicional para conectarse.
 - XPPEN Artist Pro 16 (Generación 2) Tableta gráfica equipada con un Lápiz Inteligente con el Chip X3 Pro de niveles de presión de 16K que es innovación líder en la industria. La tasa de la primera respuesta disminuye a 90 ms*, 1,5x* más rápido que nunca. La precisión aumenta en un 20 %* para que cada proyecto arte presente lo que quiera más precisamente.
 - La tableta gráfica profesional es compatible con Windows 7 (o posterior), macOS 10.10 (o posterior), Android (USB3.1 DP1.2), Chrome OS 88 (o posterior), Linux. Soporta software digital de arte popular como Adobe Photoshop, Illustrator, SAI, CDR, GIMP, Krita, MediBang, FireAlpaca, Toonboom, Maya y Blender3D, etc.
 - La tableta para dibujar combinada con Teclado inalambrico para control conveniente y creación eficiente, con soporte plegable incorporado y X-Reposamuñecas ergonómico al borde realizará la creación con comodidad. Conexión de cable USB-C es fácil para iniciar el trabajo.
-- A stylus that can do more. Dual shortcut keys make switching functions so easy with just a click. A digital eraser in the tail removes unwanted marks effortlessly. Look chic in black-and-grey color. Dimension: 14.45x156.27mm Package includes: 4 x felt nibs; 4 x standard nibs
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CC8LW5NP{{</world>}}

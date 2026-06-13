@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colores surtidos: blanco y rosa. Medidas goma: 2,8 x 2,8 x 1,3 cm.
 - La clásica goma MILAN 430 es una de las más vendidas.
+- Colores surtidos: blanco y rosa. Medidas goma: 2,8 x 2,8 x 1,3 cm.
 - Para borrar una amplia gama de lápices de grafito sobre toda clase de papeles.
 - Goma suave de caucho sintético tipo miga de pan cuadrada.
 

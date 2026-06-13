@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CALIDAD PREMIUM: Lápices de madera robustos y gomas suaves para uso escolar.
-- GARANTÍA Maped: Confiabilidad y durabilidad en productos de papelería para niños.
 - CREATIVIDAD ILIMITADA: Incentiva la expresión artística en niños con lápices de colores y gomas de borrar.
-- EDUCACIÓN DIVERTIDA: Desarrolla habilidades motrices y fomenta la concentración en niños.
+- GARANTÍA Maped: Confiabilidad y durabilidad en productos de papelería para niños.
 - DISEÑO ATRACTIVO: Tema de Barbie que hace del colorear una actividad divertida.
+- CALIDAD PREMIUM: Lápices de madera robustos y gomas suaves para uso escolar.
+- EDUCACIÓN DIVERTIDA: Desarrolla habilidades motrices y fomenta la concentración en niños.
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

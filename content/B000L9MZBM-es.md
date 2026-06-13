@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las etiquetas de dirección auténticas de DYMO hacen que enviar cartas y paquetes resulte muy sencillo
-- Etiquetas empaquetadas en rollos para que pueda imprimir rápidamente una etiqueta LW o cientos de ellas sin residuos
-- El embalaje de Dymo LabelWriter está hecho de una mezcla de materiales 80% reciclados y con certificación FSC y las etiquetas de papel tienen certificación FSC
 - Las etiquetas con reverso fácil de retirar ofrecen un uso sencillo para un etiquetado exacto y rápido
+- Etiquetas empaquetadas en rollos para que pueda imprimir rápidamente una etiqueta LW o cientos de ellas sin residuos
+- Las etiquetas de dirección auténticas de DYMO hacen que enviar cartas y paquetes resulte muy sencillo
+- El embalaje de Dymo LabelWriter está hecho de una mezcla de materiales 80% reciclados y con certificación FSC y las etiquetas de papel tienen certificación FSC
 - La impresión térmica directa elimina la necesidad de disponer de cartuchos de tinta o tóneres caros y engorrosos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
