@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma hexagonal clásica
-- Gama de 24 colores
 - Fabricado con madera certificada fsc
+- Gama de 24 colores
 - Diseño de rayas blancas
+- Forma hexagonal clásica
 - Calidad alemana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

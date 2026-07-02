@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolígrafos recargables
 - Incluye goma de borrar
+- Bolígrafos recargables
 - Trazo medio de 0.7 mm
 - Con tinta borrable
 

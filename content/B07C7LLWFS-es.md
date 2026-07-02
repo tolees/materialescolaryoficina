@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Colores vivos e intensos, ideales para el uso en la escuela primaria
-- Cuerpo triangular de Ø 6,8 mm y mina de Ø 3,0 mm
 - Lápices de colores Giotto con mina acuarelable, realizados en madera de calidad
+- Cuerpo triangular de Ø 6,8 mm y mina de Ø 3,0 mm
 - Cuerpo lacado en el color de la mina con espacio para personalizarlo con el nombre
 - El estuche incluye 36 lápices de colores acuarelables surtidos
 

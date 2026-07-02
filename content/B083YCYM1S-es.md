@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua
-- Correas ajustables
 - Monito de peluche de Kipling
 - 2 bolsillos frontales con cremallera
+- Resistente al agua
+- Correas ajustables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083YCYM1S{{</world>}}

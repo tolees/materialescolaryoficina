@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pasta de modelar secado al aire
 - Similar a la arcilla
+- Pasta de modelar secado al aire
 - Disponible en 3 colores básicos
 - No se requiere proceso de quemado
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este kit incluye: 4 barritas de plastilina baby de 38 gramos, colores rojo, verde, amarillo y azul, a demás Incorpora diferentes propuestas de actividades en el interior de packaging.
 - Nueva fórmula SÚPER blanda para niños a partir de 1 año, con ella disfrutarán amasando, aplastando y estimulando su creatividad, ideal para iniciar en el mundo del modelaje y desarrollen su expresión artística.
 - Plastilina Baby: Segura, NO contiene gluten y está libre de los principales alérgenos. El regalo ideal, sobre todo divertido y con gran valor didáctico. Hecha en España.
 - ¿Te has olvidado de guardarla en un bote al terminar de jugar con ella? No PASA NADA, esta nueva fórmula NO se seca, así podrán jugar con ella tantas veces como quieran.
 - La NUEVA pasta de modelar de Jovi para los más pequeños, nueva PLASTILINA BABY, fórmula que no se seca, mucho más blandita y modelable que la plastilina habitual para que nuestros pequeñines puedan disfrutar del modelado ayudándoles a ganar movilidad y fortaleciendo sus músculos de los dedos y manos. Ideal para experimentar nuevas texturas y fomentar su estimulación sensorial.
+- Este kit incluye: 4 barritas de plastilina baby de 38 gramos, colores rojo, verde, amarillo y azul, a demás Incorpora diferentes propuestas de actividades en el interior de packaging.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F198GYY6{{</world>}}

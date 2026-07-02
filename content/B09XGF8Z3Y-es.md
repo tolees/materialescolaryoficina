@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La vida útil de 750 m de escritura te acompañará en tus proyectos desde el principio hasta el final
-- La punta cerrada de metal garantiza la máxima resistencia, con una duración sin capuchón larga para evitar que se seque
 - Da rienda suelta a tu creatividad con estos bolígrafos de colores de punta fina, ideales para escribir, dibujar, tomar apuntes y mucho más
-- La punta de 0,4 mm traza líneas finas para un trabajo preciso y detallado
 - Tinta vibrante a base de agua que no traspasa el papel para unos resultados nítidos
+- La punta de 0,4 mm traza líneas finas para un trabajo preciso y detallado
+- La punta cerrada de metal garantiza la máxima resistencia, con una duración sin capuchón larga para evitar que se seque
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09XGF8Z3Y{{</world>}}

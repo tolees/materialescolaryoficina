@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Secado rápido de tinta a base de agua;
+- Punta de fuerte para limpiar transparente escritura y dibujo;
 - Disponible en 24 colores;
 - Exclusivo de nylon punta produce bold, líneas nítidas;
 - Línea de 0,8 mm, Ancho Tip; mediano.
-- Secado rápido de tinta a base de agua;
-- Punta de fuerte para limpiar transparente escritura y dibujo;
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01N6B8RWI{{</world>}}

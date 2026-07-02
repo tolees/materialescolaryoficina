@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ÓPTIMO PARA CADA OCASIÓN: Excelente en la escuela y en tu tiempo libre para dibujar, colorear y realizar trabajos de caligrafía, lettering y escritura a mano
-- COLOR CON CRAYOLA: Marcadores con punta de fibra fuerte en 12 colores variados, reluciente y vibrantes
-- INFORMACIÓN ÚTIL: Materiales no tóxicos, fácilmente lavables de la piel, la ropa y los tejidos, aptos para niños a partir de 3 años para uso en el colegio o en su tiempo libre
 - UNA PUNTA, DOS EFECTOS: Punta cónica para doble trazo de escritura según el ángulo del rotulador, trazo fino con rotulador vertical, trazo grueso con rotulador angulado
+- ÓPTIMO PARA CADA OCASIÓN: Excelente en la escuela y en tu tiempo libre para dibujar, colorear y realizar trabajos de caligrafía, lettering y escritura a mano
+- INFORMACIÓN ÚTIL: Materiales no tóxicos, fácilmente lavables de la piel, la ropa y los tejidos, aptos para niños a partir de 3 años para uso en el colegio o en su tiempo libre
+- COLOR CON CRAYOLA: Marcadores con punta de fibra fuerte en 12 colores variados, reluciente y vibrantes
 - PARA NIÑOS Y ADOLESCENTES: Diseñados para estimular la creatividad de jóvenes y mayores con sus colores reluciente y vibrantes, son óptimo para cualquier tipo de proyecto creativo durante horas de diversión con el color
 
 [🛒 Visítala!!!]({{< param buyurl >}})

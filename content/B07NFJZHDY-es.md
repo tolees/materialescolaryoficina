@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Con una punta media de 0,8 mm, este rotulador le dará un toque de color a todas tus tareas diarias y hará que tus escritos cobren vida
 - Tanto para escribir como para dibujar, este versátil rotulador se desliza con gran suavidad gracias a su duradera punta de nailon
-- Resultados siempre adecuados: una vez seca, su tinta con base de agua no se corre, no mancha ni se expande en la mayoría de papeles
 - En un blíster con 12 colores vivos, este rotulador es adecuado para tomar notas y tareas más creativas, como llevar un bullet journal
+- Resultados siempre adecuados: una vez seca, su tinta con base de agua no se corre, no mancha ni se expande en la mayoría de papeles
 - El tapón, del mismo color que la tinta, está equipado con un clip que evita que ruede por la mesa y facilita su agarre a un cuaderno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

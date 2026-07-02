@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Marca : stabilo
 - Tipo : de fibra
 - De alta calidad
 - Trazo : 1 mm
-- Marca : stabilo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MZZOISO{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No es científica
-- El número de dígitos es 10, el formato es pequeño
 - El tipo de alimentación es Pilas
-- La marca es Milan
 - No permite impresión
+- El número de dígitos es 10, el formato es pequeño
+- La marca es Milan
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BVFIPY0{{</world>}}

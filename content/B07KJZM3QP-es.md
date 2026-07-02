@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Casio FX-82MS-2-S-ET-B  Calculadora Científica  1  Gris Oscuro'
-date: 2025-08-25 17:57:57
-image: 'https://m.media-amazon.com/images/I/31i3H02V4mL._SL500_._SL400_.jpg'
+title: 'Casio FX-82MS-2-S-ET-B Calculadora Científica 1 Gris Oscuro'
+date: 2026-07-01 13:04:38
+image: 'https://m.media-amazon.com/images/I/31TA1ZvUJFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07KJZM3QP-es Casio FX-82MS-2-S-ET-B Calculadora Científica 1 Gris Oscuro'
 sku: 'B07KJZM3QP-es'
-tags: [ 'Arborist Merchandising Root','Calculadoras','Calculadoras científicas','Electrónica de oficina','Oficina y papelería','Self Service','Special Features Stores','Top Brands Office Selection','Top Brands Office Stationary','calculadora','casio','ea2646c3-be00-45fe-8702-34c4f95305c9_0','ea2646c3-be00-45fe-8702-34c4f95305c9_4301','🇪🇸', ]
-actualPrice: 12.39 EUR
+tags: [ 'calculadora','🇪🇸', ]
+actualPrice: 11.99 EUR
 currency: EUR
-price: 12.39
+price: 11.99
 comparePrice: 16.9 EUR
-prodname: 'Casio FX-82MS-2-S-ET-B  Calculadora Científica  1  Gris Oscuro'
+prodname: 'Casio FX-82MS-2-S-ET-B Calculadora Científica 1 Gris Oscuro'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Casio'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJZM3QP/?tag=tolees-21'
-descuento: '26.69'
-average: '10.8756521739131'
+descuento: '29.05'
+average: '10.9648000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Espectacular producto de la marca CASIO, modelo FX-82MS-2.
+- Gran botón de cursor para navegar, recuperar y editar cálculos; cómodo sistema de menús para cálculos estadísticos
+- Funciones de trigonometría, Conversión de coordenadas polares en coordenadas rectangulares y viceversa, Funciones hiperbólicas e hiperbólicas inversas
+- Pantalla de clara disposición como, p; ej., símbolo de separación de millares, indicación exponencial como símbolo x10, mayor presentación de la línea superior, etc
+- Cálculos en grado centesimal, grado sexagesimal y medida de arco, transformación de sexagesimal a decimal y viceversa, sistema automático de cálculo de fracciones
+- 1 memoria de medias, 8 memorias de constantes, Función SCI/FIX/ENG, Cálculo de porcentajes, 24 niveles de paréntesis
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KJZM3QP{{</world>}}

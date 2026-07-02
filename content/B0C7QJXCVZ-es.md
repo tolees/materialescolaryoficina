@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punta robusta biselada con doble ancho de trazo (1+5 mm), perfecta para trazos gruesos y finos
-- Tinta a base de agua ideal para diversas aplicaciones: dibujar, escribir, colorear o pintar con acuarela
-- Rotulador premium de colores intensos con punta biselada gruesa
-- Dura hasta 12 horas sin tapón
 - Colores intensos y brillantes. Diseñado para todos aquellos a los que les gusta expresar su creatividad usando líneas llamativas y colores fuertes.
+- Dura hasta 12 horas sin tapón
+- Punta robusta biselada con doble ancho de trazo (1+5 mm), perfecta para trazos gruesos y finos
+- Rotulador premium de colores intensos con punta biselada gruesa
+- Tinta a base de agua ideal para diversas aplicaciones: dibujar, escribir, colorear o pintar con acuarela
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7QJXCVZ{{</world>}}

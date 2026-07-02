@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un cepillo incluido en la parte opuesta de la goma, para recoger y limpiar los residuos producidos al borrar
-- Goma de borrar de plástico de alta calidad, para unos resultados de borrado de primera
-- Sin ftalatos ni látex, respetuosa con el medio ambiente y eficiente para el usuario
 - Lápiz para borrar ecológico, fabricado con nadera certificada, procedente de bosques de gestión sostenible
+- Goma de borrar de plástico de alta calidad, para unos resultados de borrado de primera
+- Con un cepillo incluido en la parte opuesta de la goma, para recoger y limpiar los residuos producidos al borrar
 - Máxima limpieza; no deja huellas, rastros ni residuos al borrar, ni mancha o tiñe el papel
+- Sin ftalatos ni látex, respetuosa con el medio ambiente y eficiente para el usuario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PVBB9DG{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🎨 DISEÑO ELEGANTE 🎨 Acabado símil piel liso, colores sobrios y grabado del año, ideal para trabajo, oficina o uso personal.
-- 📝 CALIDAD EN CADA DETALLE 📝 Cubierta cosida en símil piel, encuadernación con cinta marcador y papel marfil FSC 80 g/m² agradable para escribir.
 - 📅 PLANIFICACIÓN SEMANAL PRÁCTICA 📅 Agenda 2026 con visión semanal vertical clara, en español, inglés y portugués, festivos nacionales y portugueses destacados.
+- 🎨 DISEÑO ELEGANTE 🎨 Acabado símil piel liso, colores sobrios y grabado del año, ideal para trabajo, oficina o uso personal.
 - 📐 TAMAÑO VERSÁTIL 📐 155 x 213 mm, amplio para escritorio pero ligero para llevar en bolso o mochila cuando lo necesites.
+- 📝 CALIDAD EN CADA DETALLE 📝 Cubierta cosida en símil piel, encuadernación con cinta marcador y papel marfil FSC 80 g/m² agradable para escribir.
 - 🌿 FUNCIONES ÚTILES 🌿 Goma elástica, calendarios, planning mensual, direcciones, notas e iconos que te ayudan a recordar fechas importantes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

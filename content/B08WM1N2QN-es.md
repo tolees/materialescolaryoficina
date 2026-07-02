@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lápiz khôl para el interior del ojo
-- Su fórmula fundente y fluida garantiza un maquillaje gráfico y preciso, con una consistencia del color intensa e inmediata en tonos de tendencia
-- Mirada delineada y ojos protagonistas con un color intenso y de tendencia
 - Un lápiz kajal de textura suave y cremosa para aplicar en la línea interior del ojo
+- Su fórmula fundente y fluida garantiza un maquillaje gráfico y preciso, con una consistencia del color intensa e inmediata en tonos de tendencia
+- Lápiz khôl para el interior del ojo
+- Mirada delineada y ojos protagonistas con un color intenso y de tendencia
 - El lápiz de madera cuenta con un tapón de color, para distinguir la tonalidad a primera vista
 
 [🛒 Visítala!!!]({{< param buyurl >}})

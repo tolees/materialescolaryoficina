@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Graduación HB
+- Forma triangular ergonómica
 - Barniz ecológico a base de agua
 - Mina protegida contra la rotura por el proceso de encolado SV
-- Forma triangular ergonómica
+- Graduación HB
 - Zona de agarre suave a base de puntos de realce antideslizantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

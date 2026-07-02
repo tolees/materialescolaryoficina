@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Apto para usarlo a diario en todos tus proyectos de dibujo, pensamientos, bocetos, ideas; una hoja en blanco para colorear a tu gusto
 - Cuaderno de bocetos con papel pigmentado adecuado para el uso de goma de borrar; un soporte excelente para bolígrafos, lápices, carboncillos y plumas estilográficas
 - Observa, imagina, dibuja, dibuja en este cuaderno con papel de gran calidad creado específicamente para las profesiones artísticas
-- Práctico, de gran formato para llevar cómodamente en la mochila o en el bolso con 104 páginas; dimensiones 13 x 21 cm
 - Convierte tu cuaderno de bocetos en un archivo de tus obras de arte, crea bocetos y dibujos a partir de tu imaginación
-- Apto para usarlo a diario en todos tus proyectos de dibujo, pensamientos, bocetos, ideas; una hoja en blanco para colorear a tu gusto
+- Práctico, de gran formato para llevar cómodamente en la mochila o en el bolso con 104 páginas; dimensiones 13 x 21 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B075ZB7J3D{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El cuerpo hexagonal evita que el lápiz se deslice para que permanezca donde lo necesita
-- El cuerpo completamente metálica ofrece un equilibrio perfecto entre peso y sensibilidad
-- El indicador del grado de dureza del plomo está situado en el cuerpo para identificar y ajustar los grados de plomo a medida que trabaja
 - El agarre metalizado estriado antideslizante es cómodo para escribir y dibujar con frecuencia
+- El cuerpo hexagonal evita que el lápiz se deslice para que permanezca donde lo necesita
+- El indicador del grado de dureza del plomo está situado en el cuerpo para identificar y ajustar los grados de plomo a medida que trabaja
+- El cuerpo completamente metálica ofrece un equilibrio perfecto entre peso y sensibilidad
 - Mecanismo de latón que permite el avance guiado de la mina
 
 [🛒 Comprar!!!]({{< param buyurl >}})

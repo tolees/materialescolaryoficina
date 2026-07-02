@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Realice cálculos en la notación matemática adecuada; trace, explore y anime funciones, ecuaciones y desiguldades; agregue funciones y cree actividades STEM enriquecidas
-- Combine la funcionalidad de la hoja de cálculo con operaciones matemáticas; plug and play recopilación de datos y análisis científico
-- Todas las mismas características que hacen que las calculadoras gráficas TI-Nspire CX sean óptimos para matemáticas y ciencias desde los grados intermedios hasta la universidad se encuentran en los modelos TI-Nspire CX II-T
 - Brand: Texas Instruments
+- Realice cálculos en la notación matemática adecuada; trace, explore y anime funciones, ecuaciones y desiguldades; agregue funciones y cree actividades STEM enriquecidas
+- Todas las mismas características que hacen que las calculadoras gráficas TI-Nspire CX sean óptimos para matemáticas y ciencias desde los grados intermedios hasta la universidad se encuentran en los modelos TI-Nspire CX II-T
+- Combine la funcionalidad de la hoja de cálculo con operaciones matemáticas; plug and play recopilación de datos y análisis científico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DT61JQJ{{</world>}}

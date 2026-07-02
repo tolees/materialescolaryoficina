@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de la marca Stabilo
 - Material de calidad
 - Producto adecuado para oficina, despacho o estudio
+- Producto de la marca Stabilo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TL11MBK{{</world>}}

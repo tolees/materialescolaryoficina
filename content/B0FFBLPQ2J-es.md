@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - RESISTENTE E IMPERMEABLE - Estuche vertical perfecto para el cole. Fabricado en silicona flexible, suave al tacto y fácil de limpiar, con cierre de cremallera que mantiene el material escolar protegido en la mochila y evita pérdidas en el día a día
-- ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias más actuales del mercado
 - Dulce, alegre y muy expresiva - Inspirado en Cony, este estuche infantil destaca por su diseño divertido. Perfecto para dar un toque adorable a tu material escolar
 - GRAN CAPACIDAD - Más espacio sin ocupar más volumen. Diseño extensible que permite guardar lápices, bolígrafos y accesorios manteniendo un formato compacto ideal para mochila o escritorio
+- ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias más actuales del mercado
 - FORMATO 2 EN 1 - Estuche silicona y portalápices en un solo producto. Se transforma fácilmente en portalápices vertical, permitiéndote ver y coger tus bolígrafos y lápices sin tener que buscar dentro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

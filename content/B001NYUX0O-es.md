@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jeringa para aceite de precisión
 - Fácil de usar
 - 140 mm
+- Jeringa para aceite de precisión
 - Con forma de bolígrafo que llega a los ángulos y esquinas más pequeñas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

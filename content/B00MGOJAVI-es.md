@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Lleva contigo tu tecnología con la funda acolchada para portátiles de 15 pulgadas
 - Incorpora un compartimento principal con cierre de cremallera de fácil acceso
-- Ergonómica gracias a las correas y a la parte trasera acolchadas
 - Altura: 43cm, Ancho: 29,5cm, Fondo: 25cm
+- Ergonómica gracias a las correas y a la parte trasera acolchadas
 - Fabricada con 60% nylon y 40% poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

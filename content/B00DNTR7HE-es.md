@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Siempre agarre superior, quitagrapas integrados
-- Ofrece un grapado ligero y sin errores gracias a la tecnología patentada Direct Impact
 - Grapa hasta 30 hojas de papel con un grosor de 80 g/m²
+- Ofrece un grapado ligero y sin errores gracias a la tecnología patentada Direct Impact
 - Yunque giratorio permite abiertas y cerradas 2 pliegues, para clavar será el grapadora para 180° desplegada; para Leitz Power Performance P3 grapas 24/6 y 26/6
 
 [🛒 Visítala!!!]({{< param buyurl >}})

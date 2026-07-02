@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- MATERIAL: Papel - 80 g/m².
 - DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
 - INTERIOR: Semana Vista Vertical. Visión de la semana completa en vertical. Idioma del artículo: catalán. Con información de los festivos de Cataluña.
 - Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
-- MATERIAL: Papel - 80 g/m².
 - CONTENIDOS: Plan anual desplegable, planificación anual fija, horario, calendarios, anualidad y 6 meses complementarios Quincena a la vista.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

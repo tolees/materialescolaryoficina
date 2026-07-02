@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El gran depósito de recogida para las virutas y los residuos de punta minimiza la limpieza después del afilado
-- Gracias al agregado de fresado de metal de alta calidad se consigue un resultado óptimo
-- Con el sacapuntas negro es posible afilar lápices y lápices de colores fácilmente
-- El manejo de la máquina de punta es especialmente fácil gracias a la manivela de marcha suave
 - El sacapuntas con manivela es adecuado para lápices de madera redondos, triangulares y hexagonales. La guía del pasador se puede ajustar individualmente hasta un diámetro de 8,4 mm
+- El gran depósito de recogida para las virutas y los residuos de punta minimiza la limpieza después del afilado
+- El manejo de la máquina de punta es especialmente fácil gracias a la manivela de marcha suave
+- Con el sacapuntas negro es posible afilar lápices y lápices de colores fácilmente
+- Gracias al agregado de fresado de metal de alta calidad se consigue un resultado óptimo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQK9TJZV{{</world>}}

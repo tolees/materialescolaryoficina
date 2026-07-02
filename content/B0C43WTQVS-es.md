@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Escritura natural, pantalla de 4 a 6 líneas de alta resolución
+- Funciones trigonométricas, hiperbólicas, exponenciales y logarítmicas; estadística
 - Más de 300 funciones; simplificación de fracciones, factorización en números primos, MCM y MCD
 - Código QR; menú MathBox
-- Funciones trigonométricas, hiperbólicas, exponenciales y logarítmicas; estadística
+- Escritura natural, pantalla de 4 a 6 líneas de alta resolución
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C43WTQVS{{</world>}}

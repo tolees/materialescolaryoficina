@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calculadora de bolsillo de 8 dígitos serie Sunset.
 - Alimentación dual: célula solar y pila de 1,5 V. Apagado automático. Colores: rosa, amarillo y lila.
 - Teclas con tacto suave. 3 teclas de memoria y raíz cuadrada.
+- Calculadora de bolsillo de 8 dígitos serie Sunset.
 - Medidas calculadora: 9,7 x 6,2 x 0,8 cm. Caja de cartón con colgador.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

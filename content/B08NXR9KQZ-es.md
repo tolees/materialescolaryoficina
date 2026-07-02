@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología STABILO Anti-Secadot: 4 horas destapado sin secarse
 - Acabado de alta calidad, tinta y comodidad de escritura.
-- Disponible en 9 colores brillantes y 14 colores pastel.
+- Tecnología STABILO Anti-Secadot: 4 horas destapado sin secarse
 - Diseño clásico y calidad alemana desde 1971.
+- Disponible en 9 colores brillantes y 14 colores pastel.
 - Recargable con el recambio STABILO BOSS.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

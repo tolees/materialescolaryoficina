@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las etiquetas auténticas de DYMO proporcionan texto claro y legible para la entrega precisa de paquetes o para la administración de visitantes
-- Las etiquetas con reverso fácil de retirar ofrecen un uso sencillo para un etiquetado exacto y rápido
 - El embalaje de Dymo LabelWriter está hecho de una mezcla de materiales 80% reciclados y con certificación FSC y las etiquetas de papel tienen certificación FSC
+- Las etiquetas con reverso fácil de retirar ofrecen un uso sencillo para un etiquetado exacto y rápido
 - La impresión térmica directa elimina la necesidad de disponer de cartuchos de tinta o tóneres caros y engorrosos
 - Etiquetas empaquetadas en rollos para que pueda imprimir rápidamente una etiqueta LW o cientos de ellas sin residuos
 

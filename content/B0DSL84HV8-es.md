@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Papel de 95 gr/m² de alta calidad, microperforado y con 4 taladros. Iniciador de corte para facilitar la separación de cada hoja.
-- Color azul. Colección MILAN nata 624 since 1918, inspirada en los colores y diseño originales de las gomas de borrar MILAN, fabricadas en España desde 1918.
-- Cubierta de cartón rígido con dos acabados distintos, brillante y mate. Espiral de plástico flexible y resistente, no se deforma.
 - 80 hojas de papel cuadriculado (5 x 5 mm).
+- Cubierta de cartón rígido con dos acabados distintos, brillante y mate. Espiral de plástico flexible y resistente, no se deforma.
+- Color azul. Colección MILAN nata 624 since 1918, inspirada en los colores y diseño originales de las gomas de borrar MILAN, fabricadas en España desde 1918.
 - Cuaderno A4 con tapa dura y espiral.
+- Papel de 95 gr/m² de alta calidad, microperforado y con 4 taladros. Iniciador de corte para facilitar la separación de cada hoja.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSL84HV8{{</world>}}

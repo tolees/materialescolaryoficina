@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este set fomenta la creatividad, concentración y coordinación motora, ideal para niños en edad escolar que disfrutan del dibujo, la pintura y el diseño en casa o en el colegio.
 - Diseñado para niños y jóvenes fanáticos del fútbol que desean llevar su pasión al aula o al hogar mientras desarrollan su creatividad con productos de excelente calidad y acabados llamativos.
 - Es un regalo perfecto para cumpleaños, celebraciones especiales, Navidad o regreso a clases, ideal para sorprender a cualquier fanático del Real Madrid con un kit funcional y decorativo.
+- Este set fomenta la creatividad, concentración y coordinación motora, ideal para niños en edad escolar que disfrutan del dibujo, la pintura y el diseño en casa o en el colegio.
 - Incluye una gran variedad de útiles escolares como lápices de colores, rotuladores, otros accesorios escolares y más, todos decorados con el escudo y colores oficiales del Real Madrid.
 - Los materiales escolares están cuidadosamente ilustrados con temática del Real Madrid, convirtiendo las tareas cotidianas y actividades artísticas en una experiencia deportiva y divertida.
 

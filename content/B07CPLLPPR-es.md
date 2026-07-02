@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Rotulador textil para obtener resultados duraderos y resistentes al lavado sobre la mayoría de tejidos de color claro, como algodón, seda y lino
-- Los marcadores de textiles de edding están disponibles en 20 colores brillantes; el marcador textil edding 4500 es ideal para colorear grandes áreas
 - Para decorar, caligrafiar y escribir sobre telas, (camisetas infantiles, cojines o bolsas de tela); la punta fina es ideal para dibujar líneas finas y precisas
 - El juego contiene 10 rotuladores textiles finos en color negro, rojo, azul, verde, amarillo, naranja, marrón, violeta, rosa y azul claro
+- Los marcadores de textiles de edding están disponibles en 20 colores brillantes; el marcador textil edding 4500 es ideal para colorear grandes áreas
+- Rotulador textil para obtener resultados duraderos y resistentes al lavado sobre la mayoría de tejidos de color claro, como algodón, seda y lino
 - Tinta resistente a la luz y a lavados de hasta 60 °C. Se puede fijar con calor utilizando la plancha (sin vapor). Casi inodora, de secado rápido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

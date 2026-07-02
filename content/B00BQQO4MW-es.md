@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con cera de abeja auténtica
-- Con estuche de plástico resellable
-- Con banda de papel
-- Trazo muy suave
 - Colores resistentes al agua y brillantes
+- Con estuche de plástico resellable
+- Trazo muy suave
+- Con cera de abeja auténtica
+- Con banda de papel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00BQQO4MW{{</world>}}

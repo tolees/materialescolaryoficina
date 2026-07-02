@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Incluye muchos accesorios espectraculares para inspirar la imaginación: una mochila, un micrófono, una partitura felina, un espejo roto para la buena suerte, un iAtaúd, una botella de agua y gafas de sol.
 - Con su terrorífico y adorable gato esfinge Amulette a su lado, Catty Noir está lista para divertirse, da igual si es cantando en el escenario o pasando el rato con amigos monstruitos en clase.
-- ¡La muñeca Catty Noir de Monster High tiene la elegancia de un gato con su conjunto para actuar! Incluye una gran variedad de piezas temáticas que fomentan la narración de historias terroríficas y la diversión de crear estilos.
 - Esta muñeca gatuna tiene un pelo rosa espectracular que destaca por sus minitrenzas y lleva un vestido ferozmente elegante con estampado de espejos rotos, mangas llamativas y botas hasta la rodilla.
+- ¡La muñeca Catty Noir de Monster High tiene la elegancia de un gato con su conjunto para actuar! Incluye una gran variedad de piezas temáticas que fomentan la narración de historias terroríficas y la diversión de crear estilos.
 - Echa un vistazo a toda la colección de muñecas y conjuntos de juego Monster High para divertirte aún más con la moda y vivir miles de aventuras espectraculares. Se venden por separado y están sujetas a disponibilidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

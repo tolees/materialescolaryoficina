@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 🌟 APOYA A UCRANIA: Colores de la bandera de Ucrania azul y amarillo con "MANTÉN LA FUERZA UCRANIA", "ESTOY CON UCRANIA", "ORACIÓN POR UCRANIA", "GLORIA A UCRANIA" y emblemas de Tryzub: muestra tu apoyo con orgullo.
 - 🔖 EVENTOS Y REGALOS: Perfecto para eventos comunitarios, campañas de concienciación, recaudaciones de fondos, aulas, mostradores de oficinas, voluntarios y organizaciones que apoyan a Ucrania.
 - 5️⃣ VALOR PAQUETE DE 60: Incluye 60 bolígrafos de Ucrania de tinta negra a granel — duraderos, ligeros y listos para grupos grandes. La punta sellada con cera mantiene la tinta fresca antes del primer uso, siempre lista para escribir.
 - 3️⃣ Clic y fiable: diseño fácil de hacer clic para escribir con un clip fuerte para bolsillos, planificadores, menús y cuadernos, ideal para profesores, estudiantes, recepciones y entornos de trabajo ajetreados.
-- 🌟 APOYA A UCRANIA: Colores de la bandera de Ucrania azul y amarillo con "MANTÉN LA FUERZA UCRANIA", "ESTOY CON UCRANIA", "ORACIÓN POR UCRANIA", "GLORIA A UCRANIA" y emblemas de Tryzub: muestra tu apoyo con orgullo.
 - 🔹 ESCRITURA SUAVE: La punta de bola de tinta negra de 1,0 mm ofrece líneas limpias y sin saltos, perfectas para notas diarias, diarios, trabajo de oficina y tareas escolares. Bolígrafos de escritura fiables para el uso diario.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

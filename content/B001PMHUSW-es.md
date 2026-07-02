@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Retractable and refillable with any energel refill
-- Textured grirovides comfort while you write
 - Pentel energel alloy gel pen with a silver barrel
-- The combined qualities of liquid and gel ink give smooth writing
+- Textured grirovides comfort while you write
 - 0.7mm metal ticreates medium lines of black ink
+- The combined qualities of liquid and gel ink give smooth writing
+- Retractable and refillable with any energel refill
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001PMHUSW{{</world>}}

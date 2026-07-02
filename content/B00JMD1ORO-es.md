@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño 28 cm
 - Escuadra técnico para uso escolar y profesional
 - Muy útil para ti y tu hogar
+- Tamaño 28 cm
 - Sin graduar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

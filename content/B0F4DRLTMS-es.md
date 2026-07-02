@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño: 45 cm × 30 cm
 - Capacidad: 33 L
 - 100 % poliéster (reciclado)
+- Tamaño: 45 cm × 30 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4DRLTMS{{</world>}}

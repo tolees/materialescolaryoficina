@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1 x rexel grapadora compacta de media carga meteor; dimensiones (an x al x p): 13.4 x 5.8 x 3.8 cm; peso: 209g; negro; 2100019
-- Grapadora de media carga meteor con cuerpo de metal y capacidad para hasta 20 hojas
-- Profundidad de 65 mm; diseño compacto que cabe en cualquier estuche o maletín y para mantener ordenado el escritorio
 - La sufridera giratoria permite un grapado abierto; cerrado y clavado; apta para un gran volumen de grapado en casa o la oficina
+- Grapadora de media carga meteor con cuerpo de metal y capacidad para hasta 20 hojas
+- Contenido: 1 x rexel grapadora compacta de media carga meteor; dimensiones (an x al x p): 13.4 x 5.8 x 3.8 cm; peso: 209g; negro; 2100019
+- Profundidad de 65 mm; diseño compacto que cabe en cualquier estuche o maletín y para mantener ordenado el escritorio
 - Grapas 26/6: pueden grapar hasta 15 folios de papel 80 gsm de una sola vez; grapas 24/6: pueden grapar hasta 20 folios de papel 80 gsm; recarga fácil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

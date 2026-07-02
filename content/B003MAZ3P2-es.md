@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calidad Alemana
-- Tapón ventilado
-- Punta de 0,7mm
 - Tinta lavable
+- Calidad Alemana
+- Punta de 0,7mm
+- Tapón ventilado
 - Zona de sujeción triangular ergonómica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

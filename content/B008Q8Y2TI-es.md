@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Mina resistente a la rotura gracias a un encolado especial
+- Madera procedente de bosques gestionados de manera sostenible
 - Lavable en la mayoría de los tejidos
 - Lápices de colores Ergonomics con diseño triangular ergonómico
-- Madera procedente de bosques gestionados de manera sostenible
-- Mina resistente a la rotura gracias a un encolado especial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B008Q8Y2TI{{</world>}}

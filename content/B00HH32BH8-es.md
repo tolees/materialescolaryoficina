@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gama de 46 colores
-- Hasta 24 horas destapado sin secarse
 - Calidad Alemana
+- Gama de 46 colores
 - Gran diversidad de estuches
+- Hasta 24 horas destapado sin secarse
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00HH32BH8{{</world>}}

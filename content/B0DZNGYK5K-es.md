@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de afilar
-- La siguiente información se aplica a cada unidad del paquete
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- La forma hexagonal evita que se deslicen de la mesa
-- Ceras Noris Junior extra grandes con funda de papel, ideal para colorear grandes superficies
-- 12 colores surtidos en caja de cartón de materiales reciclados
 - El formato grueso se adapta perfectamente a las manos pequeñas de los niños
+- La siguiente información se aplica a cada unidad del paquete
+- 12 colores surtidos en caja de cartón de materiales reciclados
+- Fácil de afilar
+- La forma hexagonal evita que se deslicen de la mesa
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Ceras Noris Junior extra grandes con funda de papel, ideal para colorear grandes superficies
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZNGYK5K{{</world>}}

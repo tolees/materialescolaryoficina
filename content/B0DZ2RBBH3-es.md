@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 📖 DISEÑO COMPACTO Y RESISTENTE 📖 Tamaño 117 × 174 mm, fácil de llevar en mochilas o bolsos. Cubierta plastificada brillante que protege y aporta durabilidad.
 - 📆 AGENDA ESCOLAR DIARIA 📆 Planificación día por página (D/P) de septiembre 2025 a junio 2026, con julio y agosto en vista semanal. Control diario perfecto para todo el curso escolar.
-- 🎒 TODO LO NECESARIO PARA EL CURSO 🎒 Incluye calendario escolar, planning mensual, exámenes, horarios, ausencias, comunicación y más herramientas útiles.
 - 💗 WRITE ROSA 💗 Rosa pastel con la frase “Planifica, Actúa, Diviértete” y espiral blanco metálico. Motivación y funcionalidad para organizar cada día.
 - 🌍 PAPEL CERTIFICADO Y BILINGÜE 🌍 Papel 80 g/m² FSC Mix Credit, escritura fluida y sin transparencias. Edición en español-inglés ideal para estudiantes bilingües.
+- 📖 DISEÑO COMPACTO Y RESISTENTE 📖 Tamaño 117 × 174 mm, fácil de llevar en mochilas o bolsos. Cubierta plastificada brillante que protege y aporta durabilidad.
+- 🎒 TODO LO NECESARIO PARA EL CURSO 🎒 Incluye calendario escolar, planning mensual, exámenes, horarios, ausencias, comunicación y más herramientas útiles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DZ2RBBH3{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - MATERIAL: Papel - 80 g/m².
-- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
-- CONTENIDOS: La anualidad de la agenda incluye la información relativa a: onomástica, festivos nacionales, días transcurridos y días por transcurrir e inicios de los años nuevos chino, musulmán, ortodoxo y hebreo. La agenda dispone también de otros contenidos extra: datos personales, calendarios y plan anual desplegable.
 - INTERIOR: Semana Vista Vertical. Visión de la semana completa en vertical. Idioma del artículo: español. Con información de los festivos de España.
+- Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 - DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
+- CONTENIDOS: La anualidad de la agenda incluye la información relativa a: onomástica, festivos nacionales, días transcurridos y días por transcurrir e inicios de los años nuevos chino, musulmán, ortodoxo y hebreo. La agenda dispone también de otros contenidos extra: datos personales, calendarios y plan anual desplegable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9LFPXW4{{</world>}}

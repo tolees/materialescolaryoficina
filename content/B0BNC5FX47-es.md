@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- UNA PUNTA, DOS EFECTOS: punta cónica para doble trazo de escritura según la inclinación del rotulador - trazo fino con el rotulador vertical y trazo grueso con el rotulador inclinado.
+- PUNTA de fibra muy resistente en 20 colores pastel variados.
 - CRAYOLA PASTEL: una línea caracterizada por soluciones coloridas y creativas en colores pastel para un efecto extremadamente creativo que sorprenderá.
 - PARA NIÑOS Y ADULTOS: ideales para cualquier tipo de proyecto creativo para pasar horas de diversión a todo color.
-- UNA PUNTA, DOS EFECTOS: punta cónica para doble trazo de escritura según la inclinación del rotulador - trazo fino con el rotulador vertical y trazo grueso con el rotulador inclinado.
 - IDEALES PARA CUALQUIER OCASIÓN: ideales para la escuela y el tiempo libre para dibujar, colorear y hacer trabajos de caligrafía y escritura a mano.
-- PUNTA de fibra muy resistente en 20 colores pastel variados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNC5FX47{{</world>}}

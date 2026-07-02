@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FUNCIONALIDAD: Entre las herramientas de planificación útiles, encontrarás el calendario, una sección para la planificación de viajes, ideas y objetivos, y páginas rayadas para tomar notas dispersas.
 - EMBALAJE: incluye una agenda semanal, disponible en varios formatos y colores, y adhesivos para personalizar tus programas.
+- FUNCIONALIDAD: Entre las herramientas de planificación útiles, encontrarás el calendario, una sección para la planificación de viajes, ideas y objetivos, y páginas rayadas para tomar notas dispersas.
+- DISEÑO ICÓNICO: La agenda presenta esquinas redondeadas, cierre elástico, marcador de cinta y el aviso "en caso de pérdida" en la portada. Papel libre de ácido color marfil de 70 g/m²
 - DISEÑO SEMANAL: a la izquierda encontrarás una página con los días para las citas de la semana y, a la derecha, una página con líneas para tomar notas y organizar las ideas.
 - 12 MESES: Comienza el año con la agenda semanal 2026, que cubre todo el año de enero a diciembre
-- DISEÑO ICÓNICO: La agenda presenta esquinas redondeadas, cierre elástico, marcador de cinta y el aviso "en caso de pérdida" en la portada. Papel libre de ácido color marfil de 70 g/m²
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP18JZXZ{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estación de trabajo todo en uno: Incluye un banco de trabajo, herramientas y estación personalizada para facilitar la elaboración.
-- Creatividad brillante: Inspira la imaginación y fomenta la autoexpresión a través del juego creativo.
-- Diseña tus propios bolígrafos: Personaliza cada bolígrafo con cuentas, pegatinas, letras y accesorios coloridos.
 - Artesanía italiana: Diseñado y fabricado por expertos en Italia para calidad y seguridad.
+- Estación de trabajo todo en uno: Incluye un banco de trabajo, herramientas y estación personalizada para facilitar la elaboración.
+- Diseña tus propios bolígrafos: Personaliza cada bolígrafo con cuentas, pegatinas, letras y accesorios coloridos.
+- Creatividad brillante: Inspira la imaginación y fomenta la autoexpresión a través del juego creativo.
 - Diversión para desarrollar habilidades: Apoya el desarrollo motor fino y la coordinación de una manera lúdica.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

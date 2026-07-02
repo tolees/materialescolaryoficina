@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PLUS: También incluye un calendario, un planificador de viajes, páginas rayadas para notas y una página "En caso de pérdida" impresa en la portada
 - LAYOUT HORIZONTAL: La agenda presenta cada semana en dos páginas a la vista, para tener una visión general de los compromisos semanales de un vistazo
-- VARIEDAD: Las agendas semanales de 18 meses están disponibles en una variedad de colores y tamaños, manteniendo el estilo clásico y elegante que caracteriza a Moleskine
 - 18 MESES: Agenda semanal 2025/2026 que cubre 18 meses, desde julio de 2025 hasta diciembre de 2026 para marcar tus citas y actividades diarias y semanales
+- PLUS: También incluye un calendario, un planificador de viajes, páginas rayadas para notas y una página "En caso de pérdida" impresa en la portada
 - DISEÑO: Esta agenda horizontal presenta esquinas redondeadas, cierre con elástico y marcador de página coordinado. El papel es libre de ácido, de 70 g/m² y color marfil
+- VARIEDAD: Las agendas semanales de 18 meses están disponibles en una variedad de colores y tamaños, manteniendo el estilo clásico y elegante que caracteriza a Moleskine
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP14SYHR{{</world>}}

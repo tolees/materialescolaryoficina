@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este bolígrafo está disponible en una gama de colores de tinta clásicos, pero este paquete contiene 5 bolígrafos azules
 - No confundir con su homónimo, el boli BIC Cristal Original el cuerpo hexagonal de esta versión está ligeramente tintado
+- Este bolígrafo está disponible en una gama de colores de tinta clásicos, pero este paquete contiene 5 bolígrafos azules
 - El cuidado diseño del bolígrafo garantiza la uniformidad y fluidez del flujo de tinta, para que escribir sea un auténtico placer
-- Los capuchones y los tapones son del mismo color que la tinta, para que localices a la primera el boli que buscas
 - El mítico boli BIC Cristal, ahora también disponible con una amplia punta de 1,6 mm que facilita la legibilidad
+- Los capuchones y los tapones son del mismo color que la tinta, para que localices a la primera el boli que buscas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9L2WDQ6{{</world>}}

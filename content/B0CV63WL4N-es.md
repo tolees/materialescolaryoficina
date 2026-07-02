@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La tinta de gran resistencia se seca rápidamente y resiste la decoloración y el agua
-- Rotuladores permanentes Sharpie con tinta que marca sobre papel, plástico, metal y la mayoría de superficies
-- La punta fina infinitamente versátil consigue unos trazos muy detallados y llamativos
 - 34 rotuladores permanentes de colores surtidos
+- Rotuladores permanentes Sharpie con tinta que marca sobre papel, plástico, metal y la mayoría de superficies
 - Los colores Glam Pop presentan tonalidades llamativas y brillantes de cada color para conseguir unos trazos vibrantes
+- La tinta de gran resistencia se seca rápidamente y resiste la decoloración y el agua
+- La punta fina infinitamente versátil consigue unos trazos muy detallados y llamativos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CV63WL4N{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MATERIAL: Papel - 80 g/m².
-- INTERIOR: 2 Días Página. Amplitud de escritura para cada día. Con espacio para concretar horario. Idioma del artículo: catalán. Con información de los festivos de Cataluña.
 - Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
-- CONTENIDOS: Plan anual desplegable, planificación anual fija, horario, calendarios, anualidad y 2 meses complementarios Quincena Vista.
+- INTERIOR: 2 Días Página. Amplitud de escritura para cada día. Con espacio para concretar horario. Idioma del artículo: catalán. Con información de los festivos de Cataluña.
 - DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
+- CONTENIDOS: Plan anual desplegable, planificación anual fija, horario, calendarios, anualidad y 2 meses complementarios Quincena Vista.
+- MATERIAL: Papel - 80 g/m².
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9LD8C99{{</world>}}

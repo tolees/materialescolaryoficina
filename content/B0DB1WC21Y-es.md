@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juego INCLUYE: 16 láminas ilustradas, 8 hojas de gomets removibles y 1 librito de ejemplos de cómo rellenar los diferentes diseños.
 - PEGATINAS removibles, permiten al niño corregir si se equivoca
 - DISEÑADO para los más pequeños de la familia, recomendado para niños a partir de 3 años
 - JUEGO de gomets modelo Laberintos en caja de cartón; El objetivo del juego es completar los dibujos de las fichas usando gomets temáticos de distintas formas y tamaños
+- El juego INCLUYE: 16 láminas ilustradas, 8 hojas de gomets removibles y 1 librito de ejemplos de cómo rellenar los diferentes diseños.
 - EDUCATIVO, desarrollado con el soporte de pedagogos, contiene un alto valor didáctico: estimula la psicomotricidad fina, desarrolla el pensamiento matemático, ayuda en la concentración…
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

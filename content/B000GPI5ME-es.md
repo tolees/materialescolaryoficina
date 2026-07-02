@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Graduación HB
+- Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 - Punto fino de 2 mm
 - Caja con 12 lápices de la misma graduación
-- Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000GPI5ME{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Revolucionario diseño RND S-Bow: El exclusivo diseño de mástil relajado proporciona la máxima comodidad al músico a la vez que mejora la respuesta y la proyección del tono: un verdadero avance en el diseño de saxofones.
 - Cuerpo y llaves de latón: Fabricado con el mejor latón, el TS-302 combina tonos cálidos con sobretonos precisos, apoyados por las llaves perfectamente construidas del saxofón tenor.
-- Almohadillas PISONI y boquilla USA: El TS-302 está equipado con las almohadillas PISONI de alta calidad, que proporcionan un sellado excepcional, y una boquilla USA, que perfecciona brillantemente el sonido.
 - Accesorios y transporte: Además del rascador y la correa de transporte acolchada, el saxofón cuenta con un ligero estuche rectangular que ofrece la máxima comodidad de transporte gracias a su función de mochila retráctil.
 - Volumen de suministro: Saxofón tenor Sib Roy Benson TS-302 - diseño premium Relaxed Neck con arco en S RND - con llave de Fa# agudo y balancín de Si/B - boquilla USA - almohadillas PISONI - estuche rectangular ligero - función de mochila retráctil.
+- Revolucionario diseño RND S-Bow: El exclusivo diseño de mástil relajado proporciona la máxima comodidad al músico a la vez que mejora la respuesta y la proyección del tono: un verdadero avance en el diseño de saxofones.
+- Almohadillas PISONI y boquilla USA: El TS-302 está equipado con las almohadillas PISONI de alta calidad, que proporcionan un sellado excepcional, y una boquilla USA, que perfecciona brillantemente el sonido.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003JMU7WM{{</world>}}

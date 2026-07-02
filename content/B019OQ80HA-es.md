@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hechas de material de madera
-- Mina de 2.5 mm
-- Forma hexagonal
 - Resistentes y fáciles de afilar
+- Forma hexagonal
+- Mina de 2.5 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B019OQ80HA{{</world>}}

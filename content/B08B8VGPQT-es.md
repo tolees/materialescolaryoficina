@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Lápices de colores sin madera para niñas y niños a partir de 3 años
 - Bote de 84 unidades; 7 unidades de 12 colores diferentes
 - Colores vivos e intensos; no se astillan al romperse y es muy fácil hacerles punta
-- Lápices de colores ideales para dibujar y colorear
 - Forma triangular y ergonómica; punta resistente
-- Lápices de colores sin madera para niñas y niños a partir de 3 años
+- Lápices de colores ideales para dibujar y colorear
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08B8VGPQT{{</world>}}
