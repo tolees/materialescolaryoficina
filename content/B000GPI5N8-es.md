@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para la escuela y la oficina
 - Tiene resistencia a la rotura gracias a la especial formulación de la mina y a su doble encoladura
+- Adecuado para la escuela y la oficina
 - Lápiz de alta calidad con goma de borrar incorporada
 - Hecho de madera, con mina HB y goma de borrar sin PVC ni látex
 

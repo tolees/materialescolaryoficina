@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capacidad: 27 l
 - Dos bolsillos interiores sin cremallera, compartimento exterior acolchado para portátil de hasta 14"
-- Compartimento principal con cremallera bidireccional
 - Dimensiones: 47,5 cm (alt.) x 28 cm (an.) x 17 cm (prof.)
+- Compartimento principal con cremallera bidireccional
+- Capacidad: 27 l
 - Correas acolchadas y ajustables con el logotipo PUMA Cat en una de ellas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

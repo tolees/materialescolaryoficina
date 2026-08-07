@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- USO: Jugar y crear con gomets es una actividad básica que permite desarollar la psicomotricidad fina y trabajar, al mismo tiempo, varias capacidades y habilidades como el conocimiento de los colores, las formas geométricas y los tamaños, el desarrollo de la lógica y la creatividad; el trabajo en equipo o el dominio del espacio, entre otros.
-- FORMATO perfecto para usar en escuelas, guarderías, talleres infantiles o cualquier otro colectivo que trate con niños.
 - TAMAÑO: Cada rollo contiene 30 hojas pretroqueladas para una fácil separación, un total de 2.460 gomets por rollo.
+- FORMATO perfecto para usar en escuelas, guarderías, talleres infantiles o cualquier otro colectivo que trate con niños.
 - ROLLO DE GOMETS en forma de MOSAICO con colores azul, verde y amarillo, y con adhesivo removible
+- USO: Jugar y crear con gomets es una actividad básica que permite desarollar la psicomotricidad fina y trabajar, al mismo tiempo, varias capacidades y habilidades como el conocimiento de los colores, las formas geométricas y los tamaños, el desarrollo de la lógica y la creatividad; el trabajo en equipo o el dominio del espacio, entre otros.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVR5MDNR{{</world>}}

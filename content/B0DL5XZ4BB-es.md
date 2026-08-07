@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 24 colores brillantes, incluye 5 colores True Colour (colores con pigmentos puros)
 - Fácil de abrir y práctico 8 porciones para mezclar fácilmente
 - Compatible con FIMO profesional, suave, efecto y niños
+- 24 colores brillantes, incluye 5 colores True Colour (colores con pigmentos puros)
 - Especialmente flexible y muy estable, se puede acondicionar exactamente, la más alta calidad para resultados de filigrana
 - Contenido del envío: producto individual beige
 

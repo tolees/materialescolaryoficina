@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punta robusta (grosor de trazo: 1 mm)
 - Rotulador de fieltro premium de color intenso
+- Punta robusta (grosor de trazo: 1 mm)
 - Colores muy brillantes y luminosos.
 - Juego de mesa de alta calidad para llevar y reutilizar.
 - Hasta 24 horas de protección de secado sin tapón

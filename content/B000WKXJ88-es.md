@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fluorescentes
-- Tipo de punta: Cincel
-- Color del texto: multi
-- Paquete de 8 unidades
 - Tipo de tinta: tinta a base de agua
+- Tipo de punta: Cincel
+- Paquete de 8 unidades
+- Color del texto: multi
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000WKXJ88{{</world>}}

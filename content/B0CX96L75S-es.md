@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Indeleble
+- Recambio XB para una escritura extrasuave
 - Bolígrafo con un atractivo diseño mate
 - Color de la tinta: azul
-- Recambio XB para una escritura extrasuave
 - Partes del producto fabricadas con un 63% de plástico reciclado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

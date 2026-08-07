@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se pueden realizar tarjetas 3D para colorear y montar
-- Contiene: 12 Giotto Cera bicolor = 24 colores, 4 Giotto pasteles en colores fluo (amarillo, rosa, verde y naranja), 1 Giotto Collage Glue 120 g, 1 tijera, 1 Bloc de Cartulina Iris Canson Neon en formato A4 con 20 hojas en colores neon (amarillo, rosa, naranja y verde ), 1 Libro creativo
-- Ideal para ayudar a desarrollar habilidades manuales y aprender nuevas técnicas artísticas
 - Set súper creativo ideal para dibujar y colorear
+- Ideal para ayudar a desarrollar habilidades manuales y aprender nuevas técnicas artísticas
+- Contiene: 12 Giotto Cera bicolor = 24 colores, 4 Giotto pasteles en colores fluo (amarillo, rosa, verde y naranja), 1 Giotto Collage Glue 120 g, 1 tijera, 1 Bloc de Cartulina Iris Canson Neon en formato A4 con 20 hojas en colores neon (amarillo, rosa, naranja y verde ), 1 Libro creativo
+- Se pueden realizar tarjetas 3D para colorear y montar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGSY61SK{{</world>}}

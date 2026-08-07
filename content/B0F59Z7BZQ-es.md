@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - 100 % poliéster (100 % reciclado)
 - Estructura de sarga acolchada
-- Bolsillo lateral para botellín
-- Dimensiones: 40 cm x 28 cm
 - Capacidad: 21,8 L
+- Dimensiones: 40 cm x 28 cm
+- Bolsillo lateral para botellín
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F59Z7BZQ{{</world>}}

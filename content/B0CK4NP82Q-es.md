@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Dermatológicamente testado
+- El color es uniforme y el producto es fácil de aplicar
 - Su textura, cremosa y ligera, proporciona un acabado mate durante horas; fórmula resistente al agua
 - Lápiz automático para el contorno de los labios
-- El color es uniforme y el producto es fácil de aplicar
-- Dermatológicamente testado
 - Un packaging moderno con sacapuntas y difuminador integrados, sistema SmartTouch para una fácil sujeción y un mecanismo giratorio para extraer y esconder la mina, según sea necesario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

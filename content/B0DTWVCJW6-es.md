@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punta de bolígrafo de diseño experto con tinta de secado rápido que permite disfrutar de una experiencia de escritura fluida
-- Bolígrafo de gran personalidad inspirado en una paleta de tonos tierra neutros transestacionales, con elegante acabado y una silueta estilizada
 - Cuerpo y capuchón de color rojo cobre con acabado en laca metalizada, clip y adorno de doble rama revestidos de oro claro
+- Punta de bolígrafo de diseño experto con tinta de secado rápido que permite disfrutar de una experiencia de escritura fluida
 - Montaje a mano en Francia, aprovechando los 140 años de artesanía propia de Waterman
+- Bolígrafo de gran personalidad inspirado en una paleta de tonos tierra neutros transestacionales, con elegante acabado y una silueta estilizada
 - Presentación en estuche de regalo premium Waterman: el regalo perfecto para usted o para un ser querido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

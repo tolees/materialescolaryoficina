@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crea efectos de acuarela con tinta a base de agua
 - Rotulador de punta de fieltro de alta calidad con colores intensos
-- Alto brillo de color y luminosidad
 - Muchos colores brillantes, incluyendo colores neón y pastel
+- Crea efectos de acuarela con tinta a base de agua
+- Alto brillo de color y luminosidad
 - Punta M robusta (ancho de línea de aproximadamente 1 mm) para una aplicación uniforme del color
 
 [🛒 Comprar!!!]({{< param buyurl >}})

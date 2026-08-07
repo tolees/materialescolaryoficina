@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paquete de 12 unidades
-- Rotuladores de punta media
 - Resistente al agua
+- Rotuladores de punta media
+- Paquete de 12 unidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01NADLD9I{{</world>}}

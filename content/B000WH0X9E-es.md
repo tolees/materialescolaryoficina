@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'STAEDTLER Noris 550 Set compás escolar – Ø 30 cm adaptador universal'
-date: 2026-08-05 07:31:18
-image: 'https://m.media-amazon.com/images/I/41erOYdfOTL._SL500_._SL400_.jpg'
+date: 2026-08-07 08:21:10
+image: 'https://m.media-amazon.com/images/I/41h9wZgqpAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WH0X9E/?tag=tolees-21'
 descuento: '55.33'
-average: '4.77267441860466'
+average: '4.75284090909092'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diámetro máximo del círculo de 300 mm aproximadamente
-- Con obtusángulo y aguja roma antilesiones
-- Dibujo técnico
-- Escolar
-- Compás de precisión para la iniciación al dibujo
-- Longitud de 124 mm
 - Compás
+- Compás de precisión para la iniciación al dibujo
+- Con obtusángulo y aguja roma antilesiones
+- Escolar
+- Dibujo técnico
+- Longitud de 124 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000WH0X9E{{</world>}}

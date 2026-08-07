@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño moderno
 - Marca: staedtler
 - Tipo: base de agua
-- Diseño moderno
 - Color: negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,11 +30,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tablero magnético de borrado en seco para el hogar o la oficina.
 - Superficie suave y magnética – perfecto para escribir notas o recordatorios.
-- ADVERTENCIA para los marcadores de pizarra blanca: INFLAMABLE; evite el contacto con los ojos y la piel; enjuague con agua corriente inmediatamente si este producto entra en contacto con los ojos o la piel
-- Medidas: 150 cm de ancho por 100 cm de alto.
 - Diseño de aluminio duradero. Incluye: bandeja para rotuladores y montaje para pared.
 - También incluye 6 imanes, 1 borrador y 2 rotuladores de borrado en seco.
+- ADVERTENCIA para los marcadores de pizarra blanca: INFLAMABLE; evite el contacto con los ojos y la piel; enjuague con agua corriente inmediatamente si este producto entra en contacto con los ojos o la piel
 - Incluye: 6 imanes, 1 borrador y 2 rotuladores de borrado en seco
+- Medidas: 150 cm de ancho por 100 cm de alto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B078C9XLVH{{</world>}}

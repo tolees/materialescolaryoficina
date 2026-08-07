@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - DESTACA EN SUPERFICIES CLARAS Y OSCURAS: pinta con audacia sobre metal, madera, cerámica, vidrio, roca, lienzo, etc.
-- INCLUYE: 12 rotuladores de punta de bala con base de agua en colores surtidos
-- NO HACE FALTA AGITAR: disfruta de un gran acabado similar a la pintura, sin el engorro de una primera capa; solo destapa y crea (para mejores resultados, guarda los rotuladores en posición horizontal)
 - CAPAS SIN MEZCLA: añade dimensión a tus creaciones con colores que se superponen a la perfección sin mezclarse
+- NO HACE FALTA AGITAR: disfruta de un gran acabado similar a la pintura, sin el engorro de una primera capa; solo destapa y crea (para mejores resultados, guarda los rotuladores en posición horizontal)
+- INCLUYE: 12 rotuladores de punta de bala con base de agua en colores surtidos
 - TINTA SIMILAR A LA PINTURA: rotuladores creativos en diversos colores vibrantes que no dejan borrones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

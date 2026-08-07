@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingredientes de calidad: nuestro objetivo es desarrollar cosméticos seguros y de la mejor calidad. Siempre que sea posible, utilizamos ingredientes naturales y veganos
 - Resultados intensos y definidos: este lápiz kajal giratorio ofrece un color intenso y una cobertura uniforme, ideal para trazos intensos y definidos y looks de maquillaje de ojos expresivos
-- Resistente al agua y con una duración de hasta 18 horas: su fórmula resistente al agua dura hasta 18 horas y ofrece resultados duraderos. El mecanismo giratorio permite una aplicación precisa y sencilla
-- Essence cares: ¿Belleza sin escrúpulos? ¡Ni hablar! Nuestros productos no han sido testados en animales (conforme a la legislación de la UE). Creemos que ningún ser vivo debería sufrir por nuestra belleza
 - Para looks de ojos definidos o ahumados: aplica el kajal en la línea interior del ojo superior o inferior para definir la mirada. Para un efecto suave y ahumado, aplícalo a lo largo de la línea de las pestañas y difumina los bordes
+- Essence cares: ¿Belleza sin escrúpulos? ¡Ni hablar! Nuestros productos no han sido testados en animales (conforme a la legislación de la UE). Creemos que ningún ser vivo debería sufrir por nuestra belleza
+- Resistente al agua y con una duración de hasta 18 horas: su fórmula resistente al agua dura hasta 18 horas y ofrece resultados duraderos. El mecanismo giratorio permite una aplicación precisa y sencilla
+- Ingredientes de calidad: nuestro objetivo es desarrollar cosméticos seguros y de la mejor calidad. Siempre que sea posible, utilizamos ingredientes naturales y veganos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0038E8OOO{{</world>}}

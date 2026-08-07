@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Opciones de colores: Incluye una serie de edición limitada de 18 rotuladores permanentes Sharpie - Perfectos para la vuelta al cole
 - La punta fina infinitamente versátil consigue unos trazos muy detallados y llamativos
-- Tinta orgullosamente permanente que marca sobre papel, plástico, metal y la mayoría de superficies
 - La tinta de gran resistencia se seca rápidamente y resiste la decoloración y el agua
+- Tinta orgullosamente permanente que marca sobre papel, plástico, metal y la mayoría de superficies
+- Opciones de colores: Incluye una serie de edición limitada de 18 rotuladores permanentes Sharpie - Perfectos para la vuelta al cole
 - colores de brillante intensidad que crean impresiones llamativas y llenas de vida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

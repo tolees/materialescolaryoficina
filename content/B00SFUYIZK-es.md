@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Se desliza con facilidad
-- Para un maquillaje óptimo
 - Producto de calidad óptima
+- Para un maquillaje óptimo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00SFUYIZK{{</world>}}

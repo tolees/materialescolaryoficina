@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CÓDIGO POSTAL
 - Correa ajustable
+- CÓDIGO POSTAL
 - Correa acolchada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Cada caja contiene 1.000 grapas
 - Patilla de 6 mm de largo
 - Grapas mod 24 (23/6), para una grapadora petrus
-- Contenido: 1 petrus grapas modelo 24 (23/6), largo 6 mm, 55718
 - Para grapar hasta 30 hojas (80 g/m²)
+- Contenido: 1 petrus grapas modelo 24 (23/6), largo 6 mm, 55718
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JMFZGTY{{</world>}}

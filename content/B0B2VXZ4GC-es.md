@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BOLÍGRAFOS DE GEL DE ESCRITURA SUAVE — La tinta de gel fluye de forma continua, sin saltos, para escribir y colorear con líneas nítidas. Secado rápido y bajo olor; tinta sin ácido para trabajos duraderos.
-- ESTUCHE ORGANIZADOR Y PORTÁTIL — Los 120 bolis vienen en un estuche con ranuras individuales y una bolsa resistente al agua, fáciles de guardar y llevar en la mochila. Perfectos para tener tu papelería siempre ordenada.
-- ROTULADORES PURPURINA Y ACABADO BRILLANTE — La tinta con purpurina y los tonos metalizados dan un acabado brillante, ideal para lettering, mandalas y decoración. Rotuladores brillantes que lucen tanto sobre papel claro como oscuro.
 - IDEAL PARA COLOREAR Y REGALAR — Bolígrafos bonitos para libros de colorear de adultos, mandalas, bullet journal, scrapbook y manualidades. Un regalo original de papelería para cumpleaños, Reyes Magos o el amigo invisible.
+- ESTUCHE ORGANIZADOR Y PORTÁTIL — Los 120 bolis vienen en un estuche con ranuras individuales y una bolsa resistente al agua, fáciles de guardar y llevar en la mochila. Perfectos para tener tu papelería siempre ordenada.
 - 120 BOLÍGRAFOS DE GEL DE COLORES (60 BOLIS + 60 RECAMBIOS) — Set de bolígrafos de colores con 4 tipos de tinta: metálica, neón, pastel y purpurina, para trazos vivos y luminosos. Bolis bonitos y variados que rinden el doble gracias a los recambios incluidos.
+- ROTULADORES PURPURINA Y ACABADO BRILLANTE — La tinta con purpurina y los tonos metalizados dan un acabado brillante, ideal para lettering, mandalas y decoración. Rotuladores brillantes que lucen tanto sobre papel claro como oscuro.
+- BOLÍGRAFOS DE GEL DE ESCRITURA SUAVE — La tinta de gel fluye de forma continua, sin saltos, para escribir y colorear con líneas nítidas. Secado rápido y bajo olor; tinta sin ácido para trabajos duraderos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2VXZ4GC{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diámetro de la mina: 2,8 mm
+- Lápiz de color de alta calidad
 - Disponible en 36 colores
 - Colores intensos
 - Increíbles efectos de color
-- Lápiz de color de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B081NQKWS2{{</world>}}

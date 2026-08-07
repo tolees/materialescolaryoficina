@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa para el hombro acolchada y ajustable para llevar cómodamente
 - Bolsillo lateral de malla para botellas
+- Correa para el hombro acolchada y ajustable para llevar cómodamente
 - Mochila de uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})

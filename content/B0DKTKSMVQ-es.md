@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
+- Tamaño de la cinta correctora: 4,2 mm ancho x 12 m largo
 - Cinta correctora de larga duración con cinta ultrarresistente de poliéster
 - Cinta correctora lateral para ver lo que está corrigiendo
+- La siguiente información se aplica a cada unidad del paquete
 - Corrección precisa, escritura instantánea con la cinta Tipp-Ex
-- Tamaño de la cinta correctora: 4,2 mm ancho x 12 m largo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKTKSMVQ{{</world>}}

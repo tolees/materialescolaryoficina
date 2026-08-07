@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altura: 42 cm, Ancho: 32 cm, Fondo: 26 cm
 - organización con las correas de compresión, el organizador frontal y el llavero
 - Altura: 42 cm, Ancho: 32 cm, Fondo: 26 cm
 - Compartimentos dobles, un bolsillo interior con cremallera y otro frontal
+- Altura: 42 cm, Ancho: 32 cm, Fondo: 26 cm
 - Fabricada 100% en poliéster y con un auténtico tacto vaquero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

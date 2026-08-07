@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El lápiz de madera cuenta con un tapón de color, para distinguir la tonalidad a primera vista
-- Lápiz para el interior del ojo
-- Un lápiz de textura suave y cremosa para aplicar en la línea interior del ojo
 - Su fórmula fundente y fluida da un maquillaje gráfico y preciso, con una consistencia del color intensa e inmediata en tonos de tendencia
 - Mirada delineada y ojos protagonistas con un color intenso y de tendencia
+- Lápiz para el interior del ojo
+- Un lápiz de textura suave y cremosa para aplicar en la línea interior del ojo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078DFXKLM{{</world>}}

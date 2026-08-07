@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este bolígrafo roller contiene una tinta líquida de secado rápido que permite escribir, dibujar y crear con una nitidez constante
-- La punta de aguja (0,5 mm) se ha diseñado para la precisión, y es ideal para el dibujo técnico y la toma de notas, entre otras aplicaciones
-- El esbelto anillo situado en la parte superior del cuerpo indica el color de la tinta para identificarla con rapidez
 - El clip metálico de primera calidad y el estilizado cuerpo aportan un acabado profesional
+- La punta de aguja (0,5 mm) se ha diseñado para la precisión, y es ideal para el dibujo técnico y la toma de notas, entre otras aplicaciones
+- Este bolígrafo roller contiene una tinta líquida de secado rápido que permite escribir, dibujar y crear con una nitidez constante
+- El esbelto anillo situado en la parte superior del cuerpo indica el color de la tinta para identificarla con rapidez
 - Incluye 12 bolígrafos rollerball azules de punta fina (0,7 mm)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

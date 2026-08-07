@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Capuchón ventilado y punta bloqueada que no se hunde
-- Tintas a base de agua, de muy larga duración y lavables de la piel con agua y jabón
-- Rotulador completo gracias a su tapón de seguridad
-- Punta resistente de Ø 5 mm
 - 2 x 24 colores
+- Punta resistente de Ø 5 mm
+- Rotulador completo gracias a su tapón de seguridad
+- Tintas a base de agua, de muy larga duración y lavables de la piel con agua y jabón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Y2YBYKL{{</world>}}

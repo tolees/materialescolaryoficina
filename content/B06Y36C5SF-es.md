@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lápiz hexagonal HB recomendado para escritura y dibujo
-- Artículo con cuchilla de acero al carbono afilada y resistente
 - facil de usar
 - Goma de borrar MILAN 430 de miga de pan; para borrar una amplia gama de lápices de grafito sobre toda clase de papeles
+- Lápiz hexagonal HB recomendado para escritura y dibujo
+- Artículo con cuchilla de acero al carbono afilada y resistente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06Y36C5SF{{</world>}}

@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Almacenamiento adicional para smartphones, tabletas y ordenadores con puerto USB-C
 - Capacidad de 128 GB
 - Contenido del envío: Intenso cMobile Line 128GB Memoria flash USB
-- Velocidad máxima de transferencia de datos: hasta 70 MB/seg*
 - Función 2 en 1 : Memoria USB-C / USB-A 3.2 Gen 1x1 para una fácil transferencia de datos entre dispositivos móviles con soporte USB OTG ( "on-the-go") y ordenador
+- Velocidad máxima de transferencia de datos: hasta 70 MB/seg*
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3CXDJZR{{</world>}}

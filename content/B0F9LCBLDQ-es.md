@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INTERIOR: 1 Día Página. Amplio espacio de escritura para cada día. Con horas desde las 8:00h hasta las 22:00h. Idioma del artículo: español. Con información de los festivos de España.
-- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
 - MATERIAL: Papel - 70 g/m².
-- CONTENIDO: Plan anual desplegable, planificación anual fija, horario, calendarios, anualidad y 2 meses complementarios Quincena Vista.
+- INTERIOR: 1 Día Página. Amplio espacio de escritura para cada día. Con horas desde las 8:00h hasta las 22:00h. Idioma del artículo: español. Con información de los festivos de España.
 - Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
+- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
+- CONTENIDO: Plan anual desplegable, planificación anual fija, horario, calendarios, anualidad y 2 meses complementarios Quincena Vista.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9LCBLDQ{{</world>}}

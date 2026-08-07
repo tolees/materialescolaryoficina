@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño triangular ergonómico
-- El blanco de todas las miradas gracias al acabado perlado y el tapón brillante
 - Lápiz moderno con efecto brillante a la moda
+- El blanco de todas las miradas gracias al acabado perlado y el tapón brillante
 - Mina resistente a la rotura gracias a un encolado especial
+- Diseño triangular ergonómico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CWR84VTL{{</world>}}

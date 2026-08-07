@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Piezas de repuesto - Se aplican tornillos anti-sueltos para asegurar el uso seguro. Cada tipo de tornillos y la rueda tienen uno extra de repuesto
-- Estable y confiable - Los accesorios principales, como apoyabrazos, bandeja de metal, ruedas y muelle de gas, son mejorados de alta seguridad, han pasado la prueba BIFMA. La base estrella (5 pies) tiene el diámetro de 70 cm, cuya estabilidad es verificada por SGS. La silla puede soportar hasta 150 kg
 - Altura total: 110.5-120 cm, Respaldo: altura de aprox. 67 cm, Diámetro de la base: aprox. 70 cm, Asiento: aprox. 55 cm x 51.5 cm, Altura del reposabrazos: 68-77.5 cm, Altura regulable del asiento: aprox. 47-56,5 cm
 - Alta calidad - Cubierta hecha de PU, robusto y fácil de limpiar; asiento tapizado con relleno de esponja extragruesa, con buena elásticidad y cómodo, resistente a la deformación; ruedas de poliuretano, apenas hacen ruido
+- Piezas de repuesto - Se aplican tornillos anti-sueltos para asegurar el uso seguro. Cada tipo de tornillos y la rueda tienen uno extra de repuesto
+- Estable y confiable - Los accesorios principales, como apoyabrazos, bandeja de metal, ruedas y muelle de gas, son mejorados de alta seguridad, han pasado la prueba BIFMA. La base estrella (5 pies) tiene el diámetro de 70 cm, cuya estabilidad es verificada por SGS. La silla puede soportar hasta 150 kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01AJ6OWKI{{</world>}}

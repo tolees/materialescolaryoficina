@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marcador industrial con cuerpo de aluminio
 - Punta de fibra que no se deforma
+- Marcador industrial con cuerpo de aluminio
 - Más de 1000 metros de escritura
 - Color verde
 - Aptos para casi todas las superficies punta cónica media de 1mm de trazo

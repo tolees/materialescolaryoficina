@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño ergonómico y cómodo que permite una experiencia única de escritura, apta para uso profesional y uso escolar.
-- Lápices clásicos de dureza media, HB 2, con los que se obtiene una escritura suave y equilibrada. Goma de borrar blanca Mars plastic y sacapuntas con depósito incluidos.
-- Lápices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
-- Lápiz de alta calidad, de diseño hexagonal, óptimo para escribir, dibujar y esbozar. Marcador fluorescente recomendado para subrayar.
 - Son resistentes a la rotura gracias a la especial formulación de la mina y a su doble encoladura de 2 mm.
+- Lápices ecológicos, de madera con certificación PEFC, procedente de bosques de gestión sostenible.
+- Lápices clásicos de dureza media, HB 2, con los que se obtiene una escritura suave y equilibrada. Goma de borrar blanca Mars plastic y sacapuntas con depósito incluidos.
+- Lápiz de alta calidad, de diseño hexagonal, óptimo para escribir, dibujar y esbozar. Marcador fluorescente recomendado para subrayar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CNYYBU0{{</world>}}

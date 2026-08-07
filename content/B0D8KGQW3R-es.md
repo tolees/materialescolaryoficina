@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EK30Y|30 años
 - Tela repelente al agua
+- EK30Y|30 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8KGQW3R{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Colores delicados para ideas creativas como el diario
-- STABILO Tecnología antisecado: 4 horas de protección contra la sequedad
 - Disponible en muchos colores brillantes y pastel
 - Acabado de alta calidad, tinta y comodidad de escritura
+- STABILO Tecnología antisecado: 4 horas de protección contra la sequedad
 - Resaltador y diseño clásico desde 1971
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mochila pequeña (con protección para portátil)
 - 35 cm de altura x 25.5 de ancho x 16 cm de profundidad
+- Mochila pequeña (con protección para portátil)
 - Repelente al agua
 - Peso 0.5kg y volumen 14L
 

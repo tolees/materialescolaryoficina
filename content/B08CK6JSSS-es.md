@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Diseño Jumbo con Mina triangular de 5 mm: Cuerpo grueso que facilita el agarre para niños y adultos.
 - Regalo Creativo y Elegante: Perfecto para artistas jóvenes, decoraciones DIY y manualidades escolares.
 - Resaltan sobre Papeles Oscuros: Ideal para tarjetas, invitaciones, lettering y arte en cartulina negra.
-- Textura Suave y Coloreado Fluido: Excelente cobertura y brillo en cada trazo.
 - Acabado Metálico Sofisticado: Incluye dorado, plateado, cobre, azul acero, verde esmeralda y púrpura brillante.
+- Textura Suave y Coloreado Fluido: Excelente cobertura y brillo en cada trazo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CK6JSSS{{</world>}}

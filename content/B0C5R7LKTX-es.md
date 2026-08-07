@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Rendimiento constante
 - Construcción duradera
+- Rendimiento constante
 - COMP1: 100 % poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

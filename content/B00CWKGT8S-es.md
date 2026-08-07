@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin disolventes
 - Lista al uso, no diluir
 - Blanco, transparente al secar
+- Sin disolventes
 - Extra fuerte
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CRAYOLA PASTEL: una línea caracterizada por soluciones coloridas y creativas en colores pastel para un efecto extremadamente creativo que sorprenderá.
 - TODO EN ORDEN: incluye compartimentos especiales, el maletín ayuda a colocar y guardar todo el material necesario para dibujar y colorear en casa, en la escuela o de vacaciones.
+- KIT CREATIVO: 25 rotuladores SuperTips lavables, 20 hojas para colorear, 18 hojas en blanco y 5 hojas de pegatinas en un práctico maletín de plástico con asa
+- CRAYOLA PASTEL: una línea caracterizada por soluciones coloridas y creativas en colores pastel para un efecto extremadamente creativo que sorprenderá.
 - MUCHO ESPACIO PARA LA IMAGINACIÓN: excelente idea de regalo para niñas y niños a partir de 4 años.
 - PRÁCTICO MALETÍN con 65 rotuladores y hojas de papel para tener todo siempre a mano y ordenado.
-- KIT CREATIVO: 25 rotuladores SuperTips lavables, 20 hojas para colorear, 18 hojas en blanco y 5 hojas de pegatinas en un práctico maletín de plástico con asa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNC5S1W4{{</world>}}

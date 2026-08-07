@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 12 Lápices de Colores Giotto Colors 3.0
-- Cuerpo lacado en el color de la mina con espacio para personalizarlo con el nombre
-- Cuerpo hexagonal de diámetro 6,8 mm y mina de diámetro 3,0 mm
 - Colores vivos y intensos, ideales para el uso en la escuela primaria
+- Cuerpo lacado en el color de la mina con espacio para personalizarlo con el nombre
+- 12 Lápices de Colores Giotto Colors 3.0
+- Cuerpo hexagonal de diámetro 6,8 mm y mina de diámetro 3,0 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072KSNRQS{{</world>}}

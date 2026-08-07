@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - CONTENIDO: Set de una bobina de hilo de algodón de color negro y blanco con 30 etiquetas regalo.
 - USO AMPLIO: Aparte de su uso en regalos, es adecuado también para artes y manualidades, floristería, álbumes , encuadernación de libros, proyectos escolares….
-- Son el COMPLEMENTO PERFECTO para tus regalos y para todos tus proyectos de decoración y envoltura durante las celebraciones. Podrás crear regalos memorables y llenos de encanto, desde envolturas elegantes hasta adornos creativos.
 - TAMAÑO del cordel 100 m x 2 mm de grosor. Se puede cortar libremente de acuerdo a la longitud deseada. Las etiquetas miden 7x 3,5 mm y hay 10 de cada color: negras, blancas y grises.
+- Son el COMPLEMENTO PERFECTO para tus regalos y para todos tus proyectos de decoración y envoltura durante las celebraciones. Podrás crear regalos memorables y llenos de encanto, desde envolturas elegantes hasta adornos creativos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB1VG5HS{{</world>}}

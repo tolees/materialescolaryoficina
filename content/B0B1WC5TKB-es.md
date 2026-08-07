@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Compatible con la aplicación gratuita SCRIBZEE que permite escanear tus notas manuscritas para poder tenerlas en el móvil, tablet u ordenador y compartirlas, organizarlas, o consultarlas cuando y donde quieras
-- Cuadrícula 5x5 enmarcado con cabecera para la identificación del tema, poner la fecha, etc; 5 bandas de color vivos ideales para la clasificación por color de las asignaturas
 - Papel Optik Paper: un papel de Oxford con opacidad, lisura y satinado óptimas; la tinta no traspasa de un lado a otro ni se dispersa, resistente a la presión del lápiz y al borrado
+- Cuadrícula 5x5 enmarcado con cabecera para la identificación del tema, poner la fecha, etc; 5 bandas de color vivos ideales para la clasificación por color de las asignaturas
 - Producto certificado PEFC conforme proviene de bosques gestionados de forma sostenible
 - Recambio retractilado de 250 hojas sueltas A4 con 4 taladros; compatibles con carpetas de anillas y archivadores palanca; archiva tus apuntes fácilmente y transporta sólo las hojas que necesites
 

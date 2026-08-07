@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipos de bolsillos: bolsillo frontal, bolsillo sin cremallera, bolsillos laterales, bolsillo para botella de agua, bolsillo interior con cremallera, compartimento principal
-- Capacidad: 22 l
-- Dimensiones: 53 cm (alt.) x 45 cm (an.) x 19,5 cm (prof.)
 - Correas acolchadas y ajustables para los hombros
+- Dimensiones: 53 cm (alt.) x 45 cm (an.) x 19,5 cm (prof.)
+- Capacidad: 22 l
+- Tipos de bolsillos: bolsillo frontal, bolsillo sin cremallera, bolsillos laterales, bolsillo para botella de agua, bolsillo interior con cremallera, compartimento principal
 - Cierre: apertura con cremallera bidireccional
 
 [🛒 Comprar!!!]({{< param buyurl >}})

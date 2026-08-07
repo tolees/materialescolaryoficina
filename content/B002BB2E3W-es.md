@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lápices de colores brillantes enviados en una caja de cartón que contiene 16 tonalidades variadas
 - Ceras blandas que se adhieren a prácticamente todas las superficies; el diámetro de la línea es de 8 mm
+- Lápices de colores brillantes enviados en una caja de cartón que contiene 16 tonalidades variadas
 - Ceras de colores de alta calidad con una faja de papel para escribir el nombre, fabricadas en Alemania
-- Lápices de ceras especilamente indicadas para dibujar, pintar, colorear y para técnicas de raspado
 - Ceras para colorear sobre papel y cartulina, aptas para uso infantil y escolar
+- Lápices de ceras especilamente indicadas para dibujar, pintar, colorear y para técnicas de raspado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B002BB2E3W{{</world>}}

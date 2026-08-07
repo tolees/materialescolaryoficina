@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incluye un palo para cada molde
-- Apto para lavavajillas
 - Tapa para proteger el helado de olores y sabores del congelador
 - Rellenado más fácil en posición horizontal
+- Apto para lavavajillas
 - Incluye recetas fáciles, también sin lactosa y sin gluten
 
 [🛒 Comprar!!!]({{< param buyurl >}})

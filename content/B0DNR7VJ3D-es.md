@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta protección contra el secado sin tapón.
 - Ancho de línea 0,4 mm
 - Punta revestida de metal para una larga vida útil
+- Alta protección contra el secado sin tapón.
 - Disponible en 65 colores, incluidos 6 colores fluorescentes
 - Adecuado para reglas y plantillas.
 

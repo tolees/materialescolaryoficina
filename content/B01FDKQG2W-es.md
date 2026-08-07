@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forma hexagonal del cuerpo
-- Grosor de la mina: 3,6
-- protegido contra roturas gracias a un encolado especial
-- Dureza OH
 - Cuerpo de madera
+- Grosor de la mina: 3,6
+- Forma hexagonal del cuerpo
+- Dureza OH
+- protegido contra roturas gracias a un encolado especial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01FDKQG2W{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punta larga de metal, ideal para usar con reglas y plantillas
-- Se puede borrar cuando se utiliza en papel de dibujo, no se decolora cuando se resalta
 - Paquete de revestimientos de pigmentos surtidos: 0,05, 0,1, 0,3, 0,4, 0,5, 0,6, 0,7, 0,8, 1, 1,2 mm y punta de cincel de 0,3 a 2 mm
 - Fineliner para escribir, dibujar y dibujar
 - Tinta pigmentada, indeleble, resistente a la luz y resistente al agua
+- Punta larga de metal, ideal para usar con reglas y plantillas
+- Se puede borrar cuando se utiliza en papel de dibujo, no se decolora cuando se resalta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SV4X5M2{{</world>}}

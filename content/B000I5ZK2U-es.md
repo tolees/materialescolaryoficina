@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuerpo hexagonal para una escritura confortable
 - Color negro
 - Punta media: 1.0 mm, ancho de línea 0.4 mm
-- Cuerpo hexagonal para una escritura confortable
 - Tinta de calidad, secado rápido y escritura suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

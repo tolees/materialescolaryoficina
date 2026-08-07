@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Compartimento principal con el tamaño ideal para guardar las cositas imprescindibles para el cole o los efectos personales cuando vas de viaje.
 - Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda y posibilidad de incorporarle un carro opcional gracias a su banda trasera y al sistema Magic Fix que permite una mayor sujeción de la mochila al carro.
 - Mochila de 25 cm x 23 cm x 10 cm fabricada en Poliéster.
-- Compartimento principal con el tamaño ideal para guardar las cositas imprescindibles para el cole o los efectos personales cuando vas de viaje.
 - Bolsillo frontal de cremallera para acceder fácilmente a los efectos personales más pequeños. Dos bolsillo laterales para guardar los pequeños accesorios o alguna botellita.
 - Llavero pompón de unicornio que complementa el diseño.
 

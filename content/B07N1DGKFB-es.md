@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Poliamida
 - Hidrófugo
 - Mochila grande con funda para el portátil
-- 43 altura x 29 ancho x 24 profundidad cm
 - 0.89kg peso x 28L volumen
+- 100% Poliamida
+- 43 altura x 29 ancho x 24 profundidad cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07N1DGKFB{{</world>}}
