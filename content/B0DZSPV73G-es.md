@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MOVILIDAD SUAVE: Gira 360° y deslízate sin ruido gracias a las ruedas de PU silenciosas. Desplázate con facilidad sobre moqueta, madera o baldosas sin dañar el suelo ni hacer ruido
 - ASIENTO AJUSTABLE 41-52 CM: Ajusta fácilmente la altura del asiento con el pistón de gas clase tres para adaptarlo a tu escritorio y cuerpo, garantizando una postura ergonómica y cómoda en tu espacio de trabajo
-- RESPALDO TRANSPIRABLE: Disfruta de la frescura que ofrece el respaldo de malla, que se adapta a la forma de tu columna para mantener una postura saludable y aliviar la presión durante largas horas de trabajo
+- MOVILIDAD SUAVE: Gira 360° y deslízate sin ruido gracias a las ruedas de PU silenciosas. Desplázate con facilidad sobre moqueta, madera o baldosas sin dañar el suelo ni hacer ruido
 - MEDIDAS TOTALES: 43x48x78-88 cm (LxANxAL). Medidas del asiento: 43x38,5x41-52 cm (LxANxAL). Carga máxima: 120 kg. Requiere montaje
+- RESPALDO TRANSPIRABLE: Disfruta de la frescura que ofrece el respaldo de malla, que se adapta a la forma de tu columna para mantener una postura saludable y aliviar la presión durante largas horas de trabajo
 - ASIENTO ACOLCHADO: Disfruta de un respaldo cómodo y un asiento de espuma de densidad media que ofrecen soporte equilibrado y confort. Esta silla para oficina con diseño sin brazos permite deslizarla fácilmente bajo la mesa, optimizando el espacio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

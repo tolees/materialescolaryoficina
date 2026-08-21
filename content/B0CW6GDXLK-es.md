@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Papel de 95 gr/m² de alta calidad, microperforado y con 4 taladros. Iniciador de corte para facilitar la separación de cada hoja.
-- Cubierta de cartón rígido y logotipo MILAN brillante en relieve.
+- Espiral flexible con cierre de seguridad que evita enganches con la ropa o rayaduras en muebles.
 - 80 hojas, papel cuadriculado de 5 x 5 mm.
 - Cuaderno A4 con espiral metálica y tapa dura.
-- Espiral flexible con cierre de seguridad que evita enganches con la ropa o rayaduras en muebles.
+- Cubierta de cartón rígido y logotipo MILAN brillante en relieve.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CW6GDXLK{{</world>}}

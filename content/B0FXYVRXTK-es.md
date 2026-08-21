@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - 100% PA6 (100% reciclado)
 - Cierre de hebilla
 - Dimensiones: 33 × 23 cm
-- Confección en tejido técnico
 - Capacidad: 8,5 L
+- Confección en tejido técnico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FXYVRXTK{{</world>}}

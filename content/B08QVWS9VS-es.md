@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Nike Mochila DA2571 unisex modelo Child Academy Team color blanco y negro 22 L'
-date: 2026-07-26 22:38:10
-image: 'https://m.media-amazon.com/images/I/31ugLBTdZaL._SL500_._SL400_.jpg'
+date: 2026-08-20 11:16:41
+image: 'https://m.media-amazon.com/images/I/31Mx81FcRqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08QVWS9VS/?tag=tolees-21'
 descuento: '24.25'
-average: '25.985'
+average: '25.786'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hombreras y espalda ajustables
-- Tipo de tela: 100 por ciento poliéster
-- correas de hombro ajustables
 - Tamaño del paquete: 6,4 cm de largo x 46,29 cm de alto x 34,9 cm de ancho
+- correas de hombro ajustables
+- Tipo de tela: 100 por ciento poliéster
+- Hombreras y espalda ajustables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08QVWS9VS{{</world>}}

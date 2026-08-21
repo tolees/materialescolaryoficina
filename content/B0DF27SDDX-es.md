@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 🎨 100 Colores Numerados y Vibrantes: Este set de 100 marcadores acrílicos NICETY incluye 76 tonos clásicos y 24 metálicos. Cada marcador tiene un número para facilitar la identificación y organización de los colores, ofreciendo infinitas posibilidades creativas.
+- 🎨 Punta Media de 3MM para Precisión: Con una punta de 3mm, estos marcadores ofrecen líneas precisas y son ideales tanto para detalles como para áreas más grandes, permitiendo capas adicionales después de secarse.
 - 🎨 Marcadores Versátiles para Múltiples Superficies: Adecuados para madera, piedra, porcelana, cerámica, papel, plástico y metal, estos marcadores garantizan un flujo de pintura uniforme y suave.
 - 🎁 Regalo Ideal para Artistas: Este set de 100 colores es un regalo perfecto para cualquier ocasión especial. Si tienes algún problema, contáctanos.
-- 🎨 Punta Media de 3MM para Precisión: Con una punta de 3mm, estos marcadores ofrecen líneas precisas y son ideales tanto para detalles como para áreas más grandes, permitiendo capas adicionales después de secarse.
 - 🎨 Fácil Almacenamiento y Portabilidad: Después de usarlos, tapa los marcadores y guárdalos en el estuche incluido. El estuche facilita llevarlos a donde quieras.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

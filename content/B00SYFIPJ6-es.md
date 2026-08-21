@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 barras de grafito puro PITT monochrome
-- 3 ecolápices jumbo grafito Castell 9000
 - 6 ecolápices grafito Castell 9000
+- 3 ecolápices jumbo grafito Castell 9000
+- 3 barras de grafito puro PITT monochrome
 - 3 ecolápices de grafito acuarelables
 - 3 grafitos puro PITT monochrome
 

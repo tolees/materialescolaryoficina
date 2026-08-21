@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LÁPICES DE COLORES: Con este pack de 12 lapiceros de colores tus hijos podrán poner color a todo su mundo de imaginación. Está presente toda la gama cromática, por lo que las posibilidades decorativas son infinitas.
 - LÍNEA MAPED: Aunque somos la gama clásica, apostamos por renovarnos y adaptarnos a los nuevos tiempos. Entre las diferentes colecciones contamos con: mini cute, nightfall, pastel, color, escolar, escritura, oficina enmarcado y trade marketing.
-- SMILING PLANET: Esta gama de productos está elaborada utilizando fibra de madera procedente de plantaciones sostenibles. De esta manera, nuestro material escolar es igual de resistente pero mucho menos contaminante.
+- LÁPICES DE COLORES: Con este pack de 12 lapiceros de colores tus hijos podrán poner color a todo su mundo de imaginación. Está presente toda la gama cromática, por lo que las posibilidades decorativas son infinitas.
 - SOBRE NOSOTROS: Brindarle a cada niño el poder de cambiar el mundo con sus manos, es la razón de ser de Maped. Con nuestros valores de espíritu pionero, responsabilidad y compromiso ciudadano trasladamos nuestro carácter creativo y comprometido.
+- SMILING PLANET: Esta gama de productos está elaborada utilizando fibra de madera procedente de plantaciones sostenibles. De esta manera, nuestro material escolar es igual de resistente pero mucho menos contaminante.
 - MINA ANTI-ROTURAS: Diseñamos nuestros lápices con una mina muy resistente que evitará que se rompa mientras tus hijos colorean. De esta manera, no tendrán que sacar punta cada vez que se les rompa, lo que incrementará su vida útil.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

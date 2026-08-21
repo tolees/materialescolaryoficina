@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Características: punta fina de ancho de línea de 0,4 mm. La tinta es totalmente soluble en agua, sin rayas y no traspasa el papel. Las tapas y el cuerpo de los marcadores están hechos de material 100% reciclado y pueden mostrar variaciones de color debido a la producción. La tinta es inodora, sin ácidos y pH neutro.
-- Marca de estudio creativo: permite a los artistas aspirantes y aficionados expresar y disfrutar de su creatividad y ofrece todo lo que necesitan para hacerlo: productos de alta calidad para dibujar y pintar, materiales de apoyo inspiradores y una gama incomparable de oportunidades.
-- Uso: herramienta ideal tanto para técnicas secas como húmedas.
 - Marcador dual: una herramienta creativa moderna para un público grande. Cuenta con una punta gruesa para líneas finas a gruesas y áreas más grandes y una punta delgada para dibujar, contornos, letras y acentos.
+- Uso: herramienta ideal tanto para técnicas secas como húmedas.
+- Marca de estudio creativo: permite a los artistas aspirantes y aficionados expresar y disfrutar de su creatividad y ofrece todo lo que necesitan para hacerlo: productos de alta calidad para dibujar y pintar, materiales de apoyo inspiradores y una gama incomparable de oportunidades.
 - Colores: disponible en 60 atractivos tonos que cubren todo el espectro de aplicaciones.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

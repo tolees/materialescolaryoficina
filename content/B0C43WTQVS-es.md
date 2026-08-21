@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Más de 300 funciones; simplificación de fracciones, factorización en números primos, MCM y MCD
 - Funciones trigonométricas, hiperbólicas, exponenciales y logarítmicas; estadística
 - Escritura natural, pantalla de 4 a 6 líneas de alta resolución
-- Más de 300 funciones; simplificación de fracciones, factorización en números primos, MCM y MCD
 - Código QR; menú MathBox
 
 [🛒 Aquí!!!]({{< param buyurl >}})

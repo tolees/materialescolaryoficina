@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descripción de la mina: mina grande internacional en formato G2 con tecnología ViscoGlide revolucionaria.
+- Tipo de producto: Slider 755.
 - Usos del producto: para cualquier modelo Schneider y bolígrafo de gel, con forma universal, para bolígrafos con sistema G2.
 - Grosor: extraancho
 - Descripción del producto: recambio para bolígrafos
-- Tipo de producto: Slider 755.
+- Descripción de la mina: mina grande internacional en formato G2 con tecnología ViscoGlide revolucionaria.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B006Y8O3BO{{</world>}}

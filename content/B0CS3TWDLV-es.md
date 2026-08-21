@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tinta a base de agua que proporciona unos colores brillantes de fácil aplicación y mezclables entre sí.
-- Por su tipo de punta se recomiendan para rellenar superficies de color. Puede lavarse fácilmente sobre la mayoría de tejidos. Con capuchón de seguridad ventilado.
 - Rotuladores de punta cónica 5 mm Ø, que permite realizar trazos desde 0,75 mm a 3 mm.
-- 8 colores Pastel: amarillo, naranja, rosa, lila, violeta, azul, turquesa y verde.
 - Punta resistente a los golpes y a la presión.
+- 8 colores Pastel: amarillo, naranja, rosa, lila, violeta, azul, turquesa y verde.
+- Por su tipo de punta se recomiendan para rellenar superficies de color. Puede lavarse fácilmente sobre la mayoría de tejidos. Con capuchón de seguridad ventilado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CS3TWDLV{{</world>}}

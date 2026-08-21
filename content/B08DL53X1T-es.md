@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack de material escolar económico
 - 24 lápices colores borrables con goma
-- Lápices con mina suave y resistente de 3mm
 - Colores surtidos
-- 12 ceras Plastialpino
 - Rotuladores con tinta súper lavable
+- 12 ceras Plastialpino
+- Lápices con mina suave y resistente de 3mm
+- Pack de material escolar económico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08DL53X1T{{</world>}}

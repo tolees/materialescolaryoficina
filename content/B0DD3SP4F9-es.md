@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Asas dobles en los extremos.
 - Inspirada en la bolsa de lona Base Camp, es una mochila sencilla pero súper duradera ideal para viajar.
+- Asas dobles en los extremos.
 - Abertura en forma de D con cremallera y solapa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

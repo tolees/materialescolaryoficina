@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SISTEMA retráctil, muy útil para su conservación y para evitar manchas en estuches o apuntes.
 - PUNTA biselada de 4 mm de ancho. Rotuladores recomendados para marcar y subrayar textos destacados en agendas, libretas, calendarios...
 - RECOMENDADOS para subrayar en el colegio, en casa o en la oficina.
-- SISTEMA retráctil, muy útil para su conservación y para evitar manchas en estuches o apuntes.
 - MEDIDA: 145 mm de largo. Diseño en forma de rotulador con cuerpo estrecho, para ofrecer un mejor agarre y aprovechar el espacio de los estuches escolares.
 - PACK de 4 marcadores o subrayadores retractables en colores pastel: amarillo, azul, rosa y verde turquesa.
 

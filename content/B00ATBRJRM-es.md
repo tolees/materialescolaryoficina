@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Punta 0,4 mm de fibra con refuerzo de metal
+- Gama de 30 colores
 - Calidad alemana
 - Número 1 en Europa
-- Gama de 30 colores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ATBRJRM{{</world>}}

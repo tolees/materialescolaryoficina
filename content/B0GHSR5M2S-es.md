@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- IDEALES PARA LA ESCUELA: tinta lavable que se limpia fácilmente de la piel y la mayoría de tejidos lavables
-- VERSÁTILES Y FÁCILES DE USAR: agarre cómodo y punta siempre lista para casa, colegio o viaje
-- PUNTA CÓNICA 2 EN 1: permite trazos finos y gruesos para colorear, dibujar y escribir
-- 10 COLORES PASTEL: tonos vivos para actividades creativas; seguros y no tóxicos desde 6 años
 - NUEVO CONCEPTO DE ROTULADOR: mecanismo retráctil para evitar capuchones perdidos y tinta seca
+- PUNTA CÓNICA 2 EN 1: permite trazos finos y gruesos para colorear, dibujar y escribir
+- IDEALES PARA LA ESCUELA: tinta lavable que se limpia fácilmente de la piel y la mayoría de tejidos lavables
+- 10 COLORES PASTEL: tonos vivos para actividades creativas; seguros y no tóxicos desde 6 años
+- VERSÁTILES Y FÁCILES DE USAR: agarre cómodo y punta siempre lista para casa, colegio o viaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GHSR5M2S{{</world>}}

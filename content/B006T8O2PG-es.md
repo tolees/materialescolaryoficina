@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para borrar una amplia gama de lápices de grafito sobre toda clase de papeles.
 - La clásica goma MILAN 430 es una de las más vendidas.
-- Goma suave de caucho sintético tipo miga de pan cuadrada.
 - Colores surtidos: blanco y rosa. Medidas goma: 2,8 x 2,8 x 1,3 cm.
+- Goma suave de caucho sintético tipo miga de pan cuadrada.
+- Para borrar una amplia gama de lápices de grafito sobre toda clase de papeles.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B006T8O2PG{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - CARACTERÍSTICAS: Resistentes al agua, se recomienda el uso de bolígrafos o lápices con tinta a base de aceite para un secado más rápido y evitar borrados accidentales.
-- APLICACIÓN: ideales para hacer anotaciones rápidas, resaltar información importante en documentos, sin perder la visibilidad del texto o la imagen original, o para estudiar sin necesidad de marcar los libros en caso de ser prestados
-- FORMATO: Bloc individual de 50 hojas de medida 75 x75 mm en un blíster con eurohole
 - NOTAS ADHESIVAS TRANSPARENTES de color AMARILLO multiusos
+- FORMATO: Bloc individual de 50 hojas de medida 75 x75 mm en un blíster con eurohole
+- APLICACIÓN: ideales para hacer anotaciones rápidas, resaltar información importante en documentos, sin perder la visibilidad del texto o la imagen original, o para estudiar sin necesidad de marcar los libros en caso de ser prestados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C81N3LTC{{</world>}}

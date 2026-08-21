@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diario con encuadernación en espiral
-- Tapas rígidas en forma de personaje con candado y llaves
 - 80 hojas blancas con motivo decorativo
-- Bolígrafo 6 colores con mecanismo retráctil
+- Diario con encuadernación en espiral
 - Dimensiones (caja): 2,5 x 23 x 24 cm
+- Bolígrafo 6 colores con mecanismo retráctil
+- Tapas rígidas en forma de personaje con candado y llaves
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FX4YHTH1{{</world>}}

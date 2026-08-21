@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El juego contiene 10 rotuladores con punta de pincel flexible: negro, rojo, azul, verde, amarillo, naranja, marrón, violeta, rosa, azul claro
-- Tinta a base de agua para degradados de color creativos y efectos acuarela; la tinta no traspasa al otro lado del papel
+- Rotuladores para bullet journal con punta versátil para detalles finos y grandes áreas; el ancho de línea puede variar ajustando la presión sobre la punta
 - Rotulador con punta fina de pincel luminoso, colores mezclables para papel claro; punta de pincel blanda y flexible para resultados óptimos y radiantes
 - Los rotuladores con punta de pincel edding están disponibles en 20 colores; pueden combinarse muy bien con los rotuladores edding 55, edding 1300 y edding 1200
-- Rotuladores para bullet journal con punta versátil para detalles finos y grandes áreas; el ancho de línea puede variar ajustando la presión sobre la punta
+- Tinta a base de agua para degradados de color creativos y efectos acuarela; la tinta no traspasa al otro lado del papel
+- El juego contiene 10 rotuladores con punta de pincel flexible: negro, rojo, azul, verde, amarillo, naranja, marrón, violeta, rosa, azul claro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B019R7SPVM{{</world>}}

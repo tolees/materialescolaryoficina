@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Correas ajustables y acolchadas
-- Capacidad: 22,83 L
-- 100% poliéster (100% reciclado)
 - Tejido técnico resistente
-- Dimensiones: 44 × 31 cm
 - Bolsillo frontal con cremallera
+- 100% poliéster (100% reciclado)
+- Dimensiones: 44 × 31 cm
+- Capacidad: 22,83 L
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4DQ2GZC{{</world>}}

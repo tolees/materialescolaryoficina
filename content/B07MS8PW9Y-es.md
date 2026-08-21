@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Base giratoria con 5 ruedas para parquet y patas cromadas.
 - Asiento basculante elevable en altura.
-- Respaldo transpirable tapizado con tejido 3D.
 - Asiento acolchado y comodos reposabrazos fijos.
+- Base giratoria con 5 ruedas para parquet y patas cromadas.
+- Respaldo transpirable tapizado con tejido 3D.
 - Silla para oficina, escritorio o despacho.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

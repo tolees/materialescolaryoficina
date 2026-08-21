@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punta de fieltro fiable que soporta la presión y el uso frecuente
 - La tinta a base de agua no traspasa el papel, con lo que sus trabajos permanecerán donde corresponde
-- La punta mediana traza líneas atrevidas y expresivas que le permitirán comunicarse con un estilo propio
 - Disponible en 32 colores brillantes que harán destacar todos sus trabajos
+- Punta de fieltro fiable que soporta la presión y el uso frecuente
+- La punta mediana traza líneas atrevidas y expresivas que le permitirán comunicarse con un estilo propio
 - Ligero y compacto, perfecto para dejarse llevar por la inspiración sobre la marcha
 
 [🛒 Visítala!!!]({{< param buyurl >}})

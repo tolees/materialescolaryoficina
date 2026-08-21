@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marcador industrial con cuerpo de aluminio
-- Aptos para casi todas las superficies punta cónica media de 1mm de trazo
 - Más de 1000 metros de escritura
 - Punta de fibra que no se deforma
 - Color verde
+- Aptos para casi todas las superficies punta cónica media de 1mm de trazo
+- Marcador industrial con cuerpo de aluminio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B075V2QYGN{{</world>}}

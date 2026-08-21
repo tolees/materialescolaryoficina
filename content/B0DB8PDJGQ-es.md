@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Peso 0.5kg y volumen 14L
-- Repelente al agua
 - 35 cm de altura x 25.5 de ancho x 16 cm de profundidad
 - Mochila pequeña (con protección para portátil)
+- Repelente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DB8PDJGQ{{</world>}}

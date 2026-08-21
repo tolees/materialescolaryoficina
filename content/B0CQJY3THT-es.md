@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Voor een optimaal effect wordt de gel aangebracht op de gedroogde dekkende kleuren
 - Glitterset met 2 tubes regenboogglitter en 2 tubes glow in the dark glitter, elk 12 ml
+- Voor een optimaal effect wordt de gel aangebracht op de gedroogde dekkende kleuren
 - De regenboogglitter zorgt voor een glinsterende look op de kleuren die elk kunstwerk zullen laten schitteren
 - Het lichtgevende effect van de Glow in the Dark glitter zorgt voor een opvallende verschijning in het donker, ideaal voor creatieve projecten en speciale effecten
 - De set is een fantastische manier om een unieke en opvallende touch toe te voegen aan kunstwerken en knutselprojecten

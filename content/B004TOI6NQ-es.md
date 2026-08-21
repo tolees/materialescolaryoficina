@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paqueteage Dimensiones: 2.0 L x 31.0 H x 22.0 W (centimeters)
 - 16 cm
 - Material duradero
 - Recomendada para manualidades y Scrapbooking.
+- Paqueteage Dimensiones: 2.0 L x 31.0 H x 22.0 W (centimeters)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004TOI6NQ{{</world>}}

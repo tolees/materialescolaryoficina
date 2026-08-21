@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Calcetines alpinos
 - Panel de malla en la parte superior del pie
 - Combinaciones de hilos para un gran rendimiento general
 - Artículos entregados: 1x Helly Hansen Unisex Alpine Sock Medium - Socks BLACK 39-41
-- Calcetines alpinos
 - Un gran calcetín alpino en lana merino rastreable con características técnicas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

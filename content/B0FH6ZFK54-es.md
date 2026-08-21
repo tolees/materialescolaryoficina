@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 10 lápices de colores vivos: amarillo, naranja, rojo, rosa, morado, azul oscuro, azul claro, verde, marrón y negro.
-- Un extra genial: cada lápiz viene con una goma de borrar de color a juego para borrar lo que hayas dibujado
-- Estuche de 10 lápices de colores para colorear y diseñar
 - Diseño: Dino World de Depesche
+- Estuche de 10 lápices de colores para colorear y diseñar
+- Un extra genial: cada lápiz viene con una goma de borrar de color a juego para borrar lo que hayas dibujado
 - Dimensiones: aprox. 19,5 x 8,2 x 1 cm, diámetro: 7 mm, embalado en un estuche de cartón a juego
+- Incluye 10 lápices de colores vivos: amarillo, naranja, rojo, rosa, morado, azul oscuro, azul claro, verde, marrón y negro.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FH6ZFK54{{</world>}}

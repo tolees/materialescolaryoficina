@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color : gris azulado claro
+- Tipo : de fibra
 - Marca : stabilo
 - Trazo : 0,4 mm
-- Tipo : de fibra
+- Color : gris azulado claro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NADLBLQ{{</world>}}

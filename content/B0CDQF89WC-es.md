@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DIMENSIONES: 35 x 50 x 17 cm; VOLUMEN 46 L
-- CARACTERÍSTICAS: cinta de pecho ajustable, cintas laterales para ajuste de volumen, asa acolchada superior y lateral para el transporte, correa para la ropa; TEJIDO: 100% poliéster reciclado, certificado grs
-- COMODIDAD: La mochila es agradable de llevar, gracias a los hombros acolchados y revestidos de tela, bajo correas de malla, totalmente oculta en el respaldo; respaldo: acolchado y recubierto de tela principal
 - DISEÑO ITALIANO: estilo creativo 100% italiano: éste ha sido el lema durante más de 50 años; se ha acumulado la experiencia y conocimientos en el diseño y fabricación de mochilas de montaña y se han aplicado a las colecciones actuales; el resultado es un producto de calidad y que satisface las altas exigencias en términos de funcionalidad, estilo y tendencias
 - PRÁCTICA: bolsillo frontal grande con divisor interior, bolsillo lateral para botellas, compartimento exterior acolchado para portátil de hasta 15,6 pulgadas (35 x 24 x 2,3 cm) con cierre de seguridad, bolsillo en el respaldo para documentos, bolsillos para organización interior
+- COMODIDAD: La mochila es agradable de llevar, gracias a los hombros acolchados y revestidos de tela, bajo correas de malla, totalmente oculta en el respaldo; respaldo: acolchado y recubierto de tela principal
+- CARACTERÍSTICAS: cinta de pecho ajustable, cintas laterales para ajuste de volumen, asa acolchada superior y lateral para el transporte, correa para la ropa; TEJIDO: 100% poliéster reciclado, certificado grs
+- DIMENSIONES: 35 x 50 x 17 cm; VOLUMEN 46 L
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDQF89WC{{</world>}}

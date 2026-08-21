@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MUNDO DE ENLACES: Tenemos un universo de mundos a tu disposición! Creamos artículos de calidad siempre diferentes, coloridos, positivos y divertidos, perfectos para cada persona y para cada estado de ánimo. En Legami siempre puedes encontrar tu mundo ideal para descubrir y explorar día a día: un mundo de felicidad para cuando estás algo deprimido, mundo de sorpresas para cuando te aburres, un mundo de inspiraciones para cuando te faltan ideas, un mundo de emociones diferentes en constante evolución.
-- Características: sistema Two-Way-Power o proporciona energía incluso en situaciones de ausencia de luz. En la parte posterior está el juego Ball Maze Game, laberinto de bolas. Se apaga automáticamente después de 6 minutos de inactividad.
 - Material: plástico
+- MUNDO DE ENLACES: Tenemos un universo de mundos a tu disposición! Creamos artículos de calidad siempre diferentes, coloridos, positivos y divertidos, perfectos para cada persona y para cada estado de ánimo. En Legami siempre puedes encontrar tu mundo ideal para descubrir y explorar día a día: un mundo de felicidad para cuando estás algo deprimido, mundo de sorpresas para cuando te aburres, un mundo de inspiraciones para cuando te faltan ideas, un mundo de emociones diferentes en constante evolución.
 - Batería: 1 pila LR1130 incluida
 - DESCRIPCIÓN: La hora de las matemáticas puede ser genial. ¿No lo crees? Presentamos Calcoolator, la calculadora Genius de Legami: intentará ayudarte a hacer las cuentas y, cuando te rindas, te acompañará con el laberinto en la parte posterior. ¡Los mejores compañeros de banco son así!
+- Características: sistema Two-Way-Power o proporciona energía incluso en situaciones de ausencia de luz. En la parte posterior está el juego Ball Maze Game, laberinto de bolas. Se apaga automáticamente después de 6 minutos de inactividad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CTCR8GW2{{</world>}}

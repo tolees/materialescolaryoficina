@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pompones de colores y medidas surtidas
 - Producto básico para escuelas y talleres infantiles, ideales para crear guirnaldas, decoraciones, collares, disfraces, aplicaciones en ropa o usar en otras manualidades
 - Nº pompones por bolsa: 78
 - Colores: amarillo, naranja, rojo, lila, azul, verde, blanco y negro
+- Pompones de colores y medidas surtidas
 - Medidas: Ø 8 mm, Ø 10 mm, Ø 12 mm, Ø 15 mm y Ø 20 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Punta fina para líneas precisas, lo que añade una precisión óptima y proporciona la tinta de manera suave
 - Su soberbia tinta permanente marca en papel, plástico, metal y en casi cualquier otro tipo de superficie
 - Contiene 12 rotuladores permanentes Sharpie de color negro
+- Punta fina para líneas precisas, lo que añade una precisión óptima y proporciona la tinta de manera suave
 - Colores intensos y brillantes que crean impresiones personalizadas y vibrantes
 - Sorprendentemente resistente, la tinta se seca con rapidez y aguanta el desgaste y el contacto con el agua
 

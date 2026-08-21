@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BIC Box Collection contiene 9 intensos, 6 colores pasteles, y el 1 de agarre de goma para mayor comodidad y control. 15 unidades en total
-- Además de ser un gran regalo, su tinta a base de agua no mancha el papel, por lo que es perfecto para el fotocopiado
 - BIC de resaltado Collection Box es una caja de metal reutilizable que contiene los marcadores en diversos colores ideales para la oficina y la escuela
 - Esta punta modular permite que las líneas gruesas para ser marcados trazos más finos y subrayan
+- BIC Box Collection contiene 9 intensos, 6 colores pasteles, y el 1 de agarre de goma para mayor comodidad y control. 15 unidades en total
+- Además de ser un gran regalo, su tinta a base de agua no mancha el papel, por lo que es perfecto para el fotocopiado
 - Marcadores intensos cuentan con la tecnología anti-secado: pueden permanecer sin tapar durante hasta 8 horas y marcadores pasteles hasta 24 horas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

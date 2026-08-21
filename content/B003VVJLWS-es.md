@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fundas ligeramente granuladas y antireflejo. Tamaño: 24x32cm
-- Carpeta de 10 fundas A4+ Polipropileno ECO Color Verde oscuro
-- Color: Verde oscuro
 - Polipropileno ECO Opaco y flexible - Grosor 3/10e
+- Carpeta de 10 fundas A4+ Polipropileno ECO Color Verde oscuro
+- Fundas ligeramente granuladas y antireflejo. Tamaño: 24x32cm
+- Color: Verde oscuro
 - 10 fundas (20 vistas)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

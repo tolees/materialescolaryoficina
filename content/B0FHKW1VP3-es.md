@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 🎯 DETALLES FUNCIONALES 🎯 Bolsillo interior, cierre elástico, portabolígrafos y cinta marcador; todo pensado para organizar tu semana.
 - 🖊️ PAPEL FSC DE CALIDAD 🖊️ Papel marfil 80 g/m² certificado FSC; escritura fluida y cómoda para tus planes semanales.
 - 🌎 DÍA POR PÁGINA 🌎 Sábado y domingo juntos en una página. Planificador diario en español, inglés y portugués; incluye iconos útiles y festivos nacionales y portugueses.
 - 📐 FORMATO PASSPORT 📐 Agenda 2026 Passport 90 x 140 mm, práctica y muy portátil; perfecta para llevar en bolso o mochila.
-- 🎯 DETALLES FUNCIONALES 🎯 Bolsillo interior, cierre elástico, portabolígrafos y cinta marcador; todo pensado para organizar tu semana.
 - 📕 DISEÑO ROBUSTO 📕 Cubiertas rígidas plastificadas mate y encuadernación cosida; resistente y con estilo compacto.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

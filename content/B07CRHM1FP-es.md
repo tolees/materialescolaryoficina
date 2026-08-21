@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disponible en 32 colores brillantes para hacer que todas tus páginas destaquen
+- El paquete incluye 5 rotuladores de punta de fieltro Blue Paper Mate Flair, punta media
 - La punta media produce líneas atrevidas y expresivas que van con tu personalidad
 - La tinta a base de agua no traspasa el papel para que tu escritura se mantenga en su lugar
-- El paquete incluye 5 rotuladores de punta de fieltro Blue Paper Mate Flair, punta media
 - Resistente a las manchas y a la decoloración, para mantener tu página agradable y ordenada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

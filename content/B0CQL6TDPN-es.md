@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marcador de larga duración: el marcador STABILO BOSS permite hasta 350 metros de resaltado; su tinta a base de agua ofrece un color de resaltado intenso y resistente a la luz en todos los papeles
-- Dibujo versátil: la punta biselada del marcador STABILO BOSS ORIGINAL ofrece 2 anchos de trazado de 2 y 5 mm; permite resaltar con un trazo grueso o subrayar con un trazo más fino; ideal para resaltar, dibujar, sombrear, enmarcar, decorar, colorear
-- Tecnología Anti-Ssecado: Hasta 4 horas destapado sin secarse para un trabajo concentrado
 - Colores intensos: la tinta a base de agua ofrece un color intenso y resistente a la luz en todos los papeles; este juego de 23 marcadores contiene 8 colores flúo, 8 colores pastel, 6 colores naturales y 1 marcador negro
+- Dibujo versátil: la punta biselada del marcador STABILO BOSS ORIGINAL ofrece 2 anchos de trazado de 2 y 5 mm; permite resaltar con un trazo grueso o subrayar con un trazo más fino; ideal para resaltar, dibujar, sombrear, enmarcar, decorar, colorear
 - Set de escritorio práctico: soporte de material reciclado para 23 marcadores STABILO BOSS ORIGINAL
+- Marcador de larga duración: el marcador STABILO BOSS permite hasta 350 metros de resaltado; su tinta a base de agua ofrece un color de resaltado intenso y resistente a la luz en todos los papeles
+- Tecnología Anti-Ssecado: Hasta 4 horas destapado sin secarse para un trabajo concentrado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQL6TDPN{{</world>}}

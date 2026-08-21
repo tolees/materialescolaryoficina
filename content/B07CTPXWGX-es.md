@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De alta calidad y con un diseño moderno y elegante
 - 12 colores brillantes y de gran cobertura
+- De alta calidad y con un diseño moderno y elegante
 - Diseñado para oficinas y para uso diario
 - Lápices de madera de gran calidad
 
