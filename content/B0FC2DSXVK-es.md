@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Yaheetech Silla Gaming con Masajeador Silla Oficina con Reposapiés Negro'
+date: 2026-08-12 02:21:31
+image: 'https://m.media-amazon.com/images/I/41IM90288LL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FC2DSXVK-es Yaheetech Silla Gaming con Masajeador Silla Oficina con...'
+sku: 'B0FC2DSXVK-es'
+tags: [ 'oficina','silla','🇪🇸', ]
+actualPrice: 93.66 EUR
+currency: EUR
+price: 93.66
+comparePrice: 125.99 EUR
+prodname: 'Yaheetech Silla Gaming con Masajeador Silla Oficina con Reposapiés Negro'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FC2DSXVK/?tag=tolees-21'
+descuento: '25.66'
+average: '95.2250000000001'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Altura Ajustable: Según su estatura y sus hábitos personales, puede subir y bajar la silla gaming profesional entre 48-57,5 cm con la palanca debajo, logrando la posición ideal para jugar y disfrutar al máximo
+- Función de Inclinación: El respaldo alto de la silla de juegos se reclina y bloquea entre 90° y 135°, lo que permite una transición fluida entre el juego, el trabajo, la siesta y la relajación para una comodidad personalizada
+- Diseño Ergonómico: La silla gaming ergonómica tiene un respaldo de 75 cm con laterales alados, reposabrazos acolchados, almohada lumbar de espuma y reposapiés retráctil, dándole comodidad durante sesiones de juego o trabajo
+- Seguridad Certificadas: Nuestra silla gaming, con la base estable de diámetro de 72 cm, es capaz de soportar hasta 150 kg. Su elevador de gas ha superado 100.000 pruebas de impacto y 120.000 de giro, aportando durabilidad, estabilidad y resistencia para su uso diario
+- Masaje Vibratorio Integrado: Disfrute de relajación entre sesiones de juego activando la función de masaje en el apoyo lumbar. Para una fácil conectividad, la silla gaming incluye un puerto USB con interruptor de botón
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B0FC2DSXVK{{</world>}}
