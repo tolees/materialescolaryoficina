@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'DYMO LT plástico etiquetas | Negro sobre amarillo | 12 mm x 4m | para las etiquetadoras LetraTag | autoadhesivo | 2 unidades'
+date: 2026-09-08 09:17:43
+image: 'https://m.media-amazon.com/images/I/51VMthoP85L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B098D3K3ZQ-es DYMO LT plástico etiquetas | Negro sobre amarillo | 12 mm...'
+sku: 'B098D3K3ZQ-es'
+tags: [ 'dymo','🇪🇸', ]
+actualPrice: 10.69 EUR
+currency: EUR
+price: 10.69
+comparePrice: 14.89 EUR
+prodname: 'DYMO LT plástico etiquetas | Negro sobre amarillo | 12 mm x 4m | para las etiquetadoras LetraTag | autoadhesivo | 2 unidades'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B098D3K3ZQ/?tag=tolees-21'
+descuento: '28.21'
+average: '11.6757142857143'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Etiquetas coloridas y antirroturas para su uso creativo en casa
+- Las etiquetas de plástico Dymo LetraTag tienen certificación FSC y los cartuchos exteriores están hechos de materiales 100% reciclados
+- La impresión térmica elimina la necesidad de usar tinta o tóner
+- Los cartuchos se pueden cambiar rápidamente, lo cual resulta práctico cuando está trabajando para terminar un proyecto
+- La cinta de poliéster se puede limpiar, es resistente a las roturas, duradera y fácil de usar
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B098D3K3ZQ{{</world>}}
