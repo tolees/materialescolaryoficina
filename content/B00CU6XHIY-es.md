@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tinta con base de agua.
-- 6 colores diferentes: negro, rojo, amarillo, azul, verde y violeta.
-- Grosor variable según la presión que se ejerza.
-- Ideal para dibujo técnico, diseño, manga o caligrafía.
 - 6 rotuladores de punta blanda.
+- Ideal para dibujo técnico, diseño, manga o caligrafía.
+- Grosor variable según la presión que se ejerza.
+- 6 colores diferentes: negro, rojo, amarillo, azul, verde y violeta.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CU6XHIY{{</world>}}

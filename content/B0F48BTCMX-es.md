@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Adecuado para uso en papel fotográfico y recubierto/brillante
+- Mattehop lleva la tinta de gel a otro nivel
 - Excelente para dibujar y colorear. Da el máximo impacto a dibujos animados e ilustraciones de estilo cómic
 - Color brillante que escribe maravillosamente en papel claro y de color
-- Mattehop lleva la tinta de gel a otro nivel
 - Tinta de alta opacidad con un acabado mate de aspecto plástico cuando está seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

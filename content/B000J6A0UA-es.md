@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rotulador universal para escribir sobre casi todas las superficies
+- Se puede limpiar con un paño húmedo
 - Tinta soluble en agua y de secado rápido
 - Ancho medio de la línea de 1.0 mm
-- Se puede limpiar con un paño húmedo
+- Rotulador universal para escribir sobre casi todas las superficies
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000J6A0UA{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Cristal Fine Bolígrafos de Punta Fina 0 80 mm - Colores de Tinta Surtidos Caja de Edición Especial de 27'
-date: 2026-09-10 15:37:07
+date: 2026-09-12 11:34:26
 image: 'https://m.media-amazon.com/images/I/4171KQn7lUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F9L2VMCZ/?tag=tolees-21'
 descuento: '39.04'
-average: '6.97272727272726'
+average: '6.84833333333332'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

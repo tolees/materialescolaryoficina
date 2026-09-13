@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- __Tratamiento de la Tejido:__ refuerzo de TPE resistente al agua
 - __Tejido:__ poliéster reciclado
+- __Tratamiento de la Tejido:__ refuerzo de TPE resistente al agua
 - __Peso del tejido:__ 600T, 312 g/m2
-- __Conscious by Nature:__ poliéster reciclado
 - Tejido de sarga
+- __Conscious by Nature:__ poliéster reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP4G61Q6{{</world>}}

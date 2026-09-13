@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elige entre distintos tamaños y colores.
-- Papel rayado marfil 70 g/m² sin cloro, sección "In case of loss" para tu información personal.
-- Cierre Elástico robusto y marcapáginas, bolsillo expandible posterior.
-- Faja trasera reutilizable, añade herramientas extra y biografía Moleskine. Apertura total XL.
 - Cuaderno XL rigido azul zafiro, para creatividad, notas y proyectos profesionales.
+- Faja trasera reutilizable, añade herramientas extra y biografía Moleskine. Apertura total XL.
+- Elige entre distintos tamaños y colores.
+- Cierre Elástico robusto y marcapáginas, bolsillo expandible posterior.
+- Papel rayado marfil 70 g/m² sin cloro, sección "In case of loss" para tu información personal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01K03DAXK{{</world>}}

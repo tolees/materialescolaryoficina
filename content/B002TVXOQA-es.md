@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Proporciona una experiencia de escritura agradable
-- Clip metálico y cuerpo lacado
-- Bolígrafo con punta de bola
 - Incluye 50 unidades
+- Bolígrafo con punta de bola
+- Clip metálico y cuerpo lacado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002TVXOQA{{</world>}}

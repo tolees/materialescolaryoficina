@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Frases motivacionales para cada día del año
 - Agenda diaria completa con planificación detallada día a día
 - 368 páginas de papel FSC de 90 gsm
-- Incluye pegatinas, separadores mensuales, regla y bolsillo interior
+- Frases motivacionales para cada día del año
 - Planificador mensual, calendarios, tablas de ahorro y extras
+- Incluye pegatinas, separadores mensuales, regla y bolsillo interior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GTHVWQ9F{{</world>}}

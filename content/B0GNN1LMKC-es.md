@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Este paquete contiene los 5 divertidos animales kawaii con barriles pastel: una vaca, unicornio, lagarto, delfín y pollo
 - Deja volar tu imaginación: los bolígrafos BIC Cristal Pastel cuentan con alegres personajes de animales que añaden diversión a la escritura diaria
 - Disfruta de la comodidad del diseño clásico de Cristal, ahora aún más encantador con figuras 3D que hacen que cada bolígrafo sea divertido de usar y coleccionar
-- Descubre un colorido mundo de amigos escribiendo en cada bolígrafo para añadir imaginación y narración a notas, dibujos e ideas
 - Con tonos pastel suaves y tinta azul confiable, estos bolígrafos ofrecen el rendimiento icónico de BIC combinado con personajes alegres
+- Descubre un colorido mundo de amigos escribiendo en cada bolígrafo para añadir imaginación y narración a notas, dibujos e ideas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GNN1LMKC{{</world>}}

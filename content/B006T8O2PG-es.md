@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goma de borrar milan 430 blister 4 Unidades Paquete de 1'
-date: 2026-09-10 08:55:32
+date: 2026-09-11 21:42:33
 image: 'https://m.media-amazon.com/images/I/411si5IWxkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B006T8O2PG/?tag=tolees-21'
 descuento: '22.48'
-average: '1.18216957605986'
+average: '1.18126550868488'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

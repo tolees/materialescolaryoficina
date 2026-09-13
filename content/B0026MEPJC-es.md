@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Asegúrese Este para por Entrada Su Modelo Número
-- Cable Diámetro 2.5mm
-- Rico Color Aplicación
 - Clásico Calidad para Colorear Lápiz - Ideal para Escuela
+- Rico Color Aplicación
+- Cable Diámetro 2.5mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0026MEPJC{{</world>}}

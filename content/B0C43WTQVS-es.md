@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio FX-82SP CW - Calculadora Científica Recomendada para el Curriculum Español y Portugués 5 Idiomas más de 300 Funciones Color Gris Oscuro'
-date: 2026-09-10 12:20:33
+date: 2026-09-11 21:20:33
 image: 'https://m.media-amazon.com/images/I/419-Te-n4KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C43WTQVS/?tag=tolees-21'
 descuento: '18.90'
-average: '17.843'
+average: '17.7618181818182'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

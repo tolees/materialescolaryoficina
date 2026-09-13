@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Etiqueta con nombre y dirección
 - Bolsillo interior con cremallera de malla
-- 2 bolsillos exteriores con cremallera para objetos de valor
 - Transporte cómodo gracias a hombreras anatómicamente moldeadas y acolchadas
+- 2 bolsillos exteriores con cremallera para objetos de valor
 - Soporte tipo daisy chain
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

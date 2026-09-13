@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una caja con 10 correctores Tipp-Ex Pocket Mouse que despliegan 10 m de “alfombra blanca” en forma de cinta adhesiva de calidad premium
-- Cinta de plástico ultrarresistente a roturas y desgarros
-- Al funcionar en seco, esta cinta adhesiva elimina las esperas, por lo que basta con deslizarla para poder escribir encima
 - El capuchón rojo del ratón es un tapón que protege la cinta correctora
+- Cinta de plástico ultrarresistente a roturas y desgarros
+- Una caja con 10 correctores Tipp-Ex Pocket Mouse que despliegan 10 m de “alfombra blanca” en forma de cinta adhesiva de calidad premium
+- Al funcionar en seco, esta cinta adhesiva elimina las esperas, por lo que basta con deslizarla para poder escribir encima
 - Muy fácil de aplicar, sin necesidad de apretar, se despliega sin esfuerzo hasta el final y se puede rebobinar si te pasas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

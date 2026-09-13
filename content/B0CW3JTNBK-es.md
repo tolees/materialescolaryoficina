@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Agenda escolar estilo Wonder de Mr. Wonderful, con organización diaria, va de septiembre de 2024 a finales de agosto de 2025.
 - Regla de plástico interior. 8 hojas de pegatinas. Juegos y extras entretenidísimos. Horarios y calendarios (del último trimestre de 2024 y de 2025 y 2026 completos).
 - Playlist exclusiva. Páginas para anotar contactos. Tablas de ahorro. Cierre con goma elástica. Planificador mensual al inicio de cada mes. Blocs de notas adhesivas con formas. Frases mensuales superdivertidas.
-- Agenda escolar estilo Wonder de Mr. Wonderful, con organización diaria, va de septiembre de 2024 a finales de agosto de 2025.
 - 368 páginas de papel de 90 gr con la certificación FSC. Frases diarias motivacionales. Separadores con pestaña para cada mes. Bolsillo interior de cartón.
 - Medidas: 12,4 x 17,3 x 2,6 centímetros.
 

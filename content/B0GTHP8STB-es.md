@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tintas en azul, rojo y negro
+- 160 páginas FSC de 100 gsm
+- Perfecto como regalo
 - Incluye pegatinas Hello Kitty y extras
 - Set con agenda semanal pequeña y 3 bolígrafos borrables Bo-Bo
-- 160 páginas FSC de 100 gsm
-- Tintas en azul, rojo y negro
-- Perfecto como regalo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GTHP8STB{{</world>}}

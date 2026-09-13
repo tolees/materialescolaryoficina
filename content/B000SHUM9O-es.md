@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color azul
 - 2 anchos de trazo
+- Color azul
 - Tinta con base al agua
 - Producto de la marca STABILO
 

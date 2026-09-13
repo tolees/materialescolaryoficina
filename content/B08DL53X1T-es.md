@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ceras de trazo suave: cubren bien el papel, se afilan con facilidad y no manchan las manos; perfectas para rellenar y mezclar tonos
-- Seguridad certificada: cada rotulador incorpora un capuchón con sistema de superventilación para prevenir riesgos de asfixia y utilizan tintas no tóxicas; todos nuestros productos cumplen las normativas europeas de seguridad EN71
 - Tinta ultra lavable: la fórmula con base de agua de los rotuladores garantiza una limpieza rápida y sencilla en la mayoría de los tejidos y superficies
-- Corrige sin rastro: lápices de forma hexagonal con goma incorporada del mismo color; mina de 3 mm de grosor; estructura diseñada para ofrecer alta resistencia a la rotura; ideal para un uso escolar intensivo y duradero
+- Ceras de trazo suave: cubren bien el papel, se afilan con facilidad y no manchan las manos; perfectas para rellenar y mezclar tonos
 - Pack completo para la vuelta al cole: incluye 24 lápices de colores borrables, 24 rotuladores y 12 ceras; para pintar, colorear y crear en casa y en clase
+- Corrige sin rastro: lápices de forma hexagonal con goma incorporada del mismo color; mina de 3 mm de grosor; estructura diseñada para ofrecer alta resistencia a la rotura; ideal para un uso escolar intensivo y duradero
+- Seguridad certificada: cada rotulador incorpora un capuchón con sistema de superventilación para prevenir riesgos de asfixia y utilizan tintas no tóxicas; todos nuestros productos cumplen las normativas europeas de seguridad EN71
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08DL53X1T{{</world>}}

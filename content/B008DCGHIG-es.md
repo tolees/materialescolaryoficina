@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caja de cartón con 12 unidades
 - Colores surtidos
+- Caja de cartón con 12 unidades
 - Lápices Alpino
 - Acuarelables
 

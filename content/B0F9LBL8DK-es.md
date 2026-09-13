@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- INTERIOR: Mes Vista. Para planificarse a nivel mensual. Idioma del artículo: español. Con información de los festivos de España.
 - CONTENIDO: La anualidad del calendario contiene: onomástica, festivos nacionales, festivos de las CC. AA., fases lunares, horario de salida y puesta del sol, signos del zodíaco, días trascurridos y días que faltan por transcurrir, cambios de estación y eclipses solares/lunares. Otros contenidos extra: planificación anual y listado de festivos de las capitales de provincia.
 - MATERIAL: Espiral doble metálica y papel 120 g/m².
 - DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
-- INTERIOR: Mes Vista. Para planificarse a nivel mensual. Idioma del artículo: español. Con información de los festivos de España.
 - Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

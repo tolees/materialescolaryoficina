@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CAPAS SIN MEZCLA: añade dimensión a tus creaciones con colores que se superponen a la perfección sin mezclarse
-- DESTACA EN SUPERFICIES CLARAS Y OSCURAS: pinta con audacia sobre metal, madera, cerámica, vidrio, roca, lienzo, etc.
-- TINTA SIMILAR A LA PINTURA: rotuladores creativos en diversos colores vibrantes que no dejan borrones
-- Contiene 6 bolígrafos de pintura a base de agua en tinta Blanco
 - NO HACE FALTA AGITAR: disfruta de un gran acabado similar a la pintura, sin el engorro de una primera capa; solo destapa y crea (para mejores resultados, guarda los rotuladores en posición horizontal)
+- CAPAS SIN MEZCLA: añade dimensión a tus creaciones con colores que se superponen a la perfección sin mezclarse
+- Contiene 6 bolígrafos de pintura a base de agua en tinta Blanco
+- TINTA SIMILAR A LA PINTURA: rotuladores creativos en diversos colores vibrantes que no dejan borrones
+- DESTACA EN SUPERFICIES CLARAS Y OSCURAS: pinta con audacia sobre metal, madera, cerámica, vidrio, roca, lienzo, etc.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWSTK5W3{{</world>}}

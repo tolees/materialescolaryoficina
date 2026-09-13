@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tela 600D hecha de 100% poliéster reciclado
 - Bolsillo expandible para botella de agua
-- Correas de hombro acolchadas de EVA
-- Funda acolchada flotante para portátil de 15 y 16 pulgadas
 - Organizador de bolsillo frontal y clip para llaves
+- Funda acolchada flotante para portátil de 15 y 16 pulgadas
+- Correas de hombro acolchadas de EVA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3B2P1TD{{</world>}}

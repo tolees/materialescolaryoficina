@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - TOTTO: Somos una marca líder en la comercialización de mochilas, maletas y accesorios que nace con la misión de desarrollar productos renovados, sostenibles y de excelente calidad. Queremos estar cerca de ti, acompañarte en cada etapa y en cada aventura.
 - CÓMODA Y RESISTENTE: La mochila escolar destaca por su durabilidad y resistencia, garantizando una larga vida útil en el día a día. Además, sus correas en forma de S ofrecen comodidad al distribuir el peso de manera uniforme sobre los hombros de los niños.
-- ERGONÓMICA Y TRANSPIRABLE: La mochila escolar está diseñada con un espaldar ergonómico que proporciona un ajuste cómodo y adecuado a la espalda del estudiante, además de contar con un sistema de flujo de aire que ayuda a mantener una ventilación adecuada.
 - PRÁCTICOS BOLSILLOS: Esta mochila grande cuenta con un bolsillo específico para llevar protegido un portátil hasta 14 pulgadas, 2 bolsillos laterales para botella o paraguas y 1 bolsillo con organizador interno con llavero extraíble para pequeños objetos.
+- ERGONÓMICA Y TRANSPIRABLE: La mochila escolar está diseñada con un espaldar ergonómico que proporciona un ajuste cómodo y adecuado a la espalda del estudiante, además de contar con un sistema de flujo de aire que ayuda a mantener una ventilación adecuada.
 - MOCHILA ESCOLAR GRANDE: La mochila escolar grande modelo Rayol cuenta con tres compartimentos para garantizar una buena organización de los útiles escolares. Además, está elaborada a partir de botellas de plástico recicladas y tiene protectores en PVC.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

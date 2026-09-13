@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BAÑA Y RECREA: Utiliza el cepillito para bañar a tus cachorros y sumérgelos en la bañera con forma de boca de lobo; si pulsas el botón, ¡el agua caerá de verdad! Tus nuevos amigos estarán listos para comenzar una nueva y emocionante misión.
-- UNA NUEVA AVENTURA CREATIVA CON EL EQUIPO DE PATRULLA DE LOS WASHIMALS: Adorables cachorros de peluche aterciopelado para colorear y decorar de diversas formas imaginativas para pasar horas de diversión creativa.
+- RICH ACTIVITY SET con 5 cachorros: Chase, Rubble, Marshall, Rocky y Skye, además de 8 rotuladores lavables y una fabulosa boca de incendios.
 - COLOR: Diviértete decorando a tus mascotas con rotuladores con puntas especiales y tintas no tóxicas, ultra lavables y fáciles de quitar de las manos y la ropa.
 - UN REGALO PARA NIÑOS Y NIÑAS A PARTIR DE 3 AÑOS A QUIENES LES ENCANTA LA PATRULLA CANINA: para cumpleaños, celebraciones y cualquier ocasión especial, este juego será un regalo excelente para expresar la creatividad divirtiéndose en compañía de sus cachorros preferidos.
-- RICH ACTIVITY SET con 5 cachorros: Chase, Rubble, Marshall, Rocky y Skye, además de 8 rotuladores lavables y una fabulosa boca de incendios.
+- BAÑA Y RECREA: Utiliza el cepillito para bañar a tus cachorros y sumérgelos en la bañera con forma de boca de lobo; si pulsas el botón, ¡el agua caerá de verdad! Tus nuevos amigos estarán listos para comenzar una nueva y emocionante misión.
+- UNA NUEVA AVENTURA CREATIVA CON EL EQUIPO DE PATRULLA DE LOS WASHIMALS: Adorables cachorros de peluche aterciopelado para colorear y decorar de diversas formas imaginativas para pasar horas de diversión creativa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DR99MTGT{{</world>}}

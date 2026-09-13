@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para mandalas y arte terapia
-- Calidad alemana
 - Punta 0.4 mm de fibra con refuerzo de metal
+- Calidad alemana
+- Ideal para mandalas y arte terapia
 - Gama de 46 colores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

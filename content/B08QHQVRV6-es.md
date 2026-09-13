@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Uso: apto para niños y adultos, para colorear y pintar en el colegio y durante el tiempo libre.
-- Función: 6 botes de témpera pastel con colores super cubrientes, mezclables entre ellos. Ayudan a liberar la creatividad de niños y adultos.
-- Extra: . Se puede usar sobre papel, cartulina, cartón y otras superficies porosas
 - Color: Surtido pastel
+- Extra: . Se puede usar sobre papel, cartulina, cartón y otras superficies porosas
+- Función: 6 botes de témpera pastel con colores super cubrientes, mezclables entre ellos. Ayudan a liberar la creatividad de niños y adultos.
 - Producto: Bote de témperas de colores pastel. 6 botes de 25 ml con colores surtidos, brillantes y vivos. Pincel incluido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

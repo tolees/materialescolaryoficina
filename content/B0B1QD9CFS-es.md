@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lápiz de color redondo de la más alta calidad con un trazo suave y brillante
 - Ideal para colorear y dibujar tanto en blanco como en papeles de color
 - Fabricados con madera de cedro con certificación PEFC
+- Lápiz de color redondo de la más alta calidad con un trazo suave y brillante
 - Lápices de color con mina permanente, intensa y brillante para conseguir contornos finos y exactos, así como para zonas de colores vivos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

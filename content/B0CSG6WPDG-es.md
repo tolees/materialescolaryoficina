@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un compartimento principal
-- Bolsillo delantero con cremallera
 - Poliéster reciclado 600 Denier
+- Bolsillo delantero con cremallera
+- Un compartimento principal
 - Tirantes ajustables de cincha de correas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Cristal Original Fine Bolígrafos Punta Fina 0 8 mm - Rojo Caja de 50 Unidades'
-date: 2026-09-10 08:26:37
+date: 2026-09-12 06:52:36
 image: 'https://m.media-amazon.com/images/I/41QSblRE7oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0028A4OMA/?tag=tolees-21'
 descuento: '40.95'
-average: '9.56363636363636'
+average: '9.39230769230769'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ACCESORIOS EN SU INTERIOR - Agenda escolar semana vista 2026 2027 que cuenta con láminas decorativas, marcapáginas, bolsillo interior para guardar papeles y pegatinas para destacar lo importante
-- AGENDA DONDE ESTA WALLY ESCOLAR - Organiza tus tareas de forma divertida con esta agenda escolar para niños de ¿Dónde está Wally?, con láminas decorativas y pegatinas a juego que convierten cada semana de clase en un juego visual
-- AGUANTARÁ TODO EL CURSO ESCOLAR - Agenda 26/27 con tapas duras y encuadernación resistente en wire-o diseñadas para el uso diario en la mochila. Sus páginas son punteadas y están fabricadas en un papel grueso, evitando que la tinta traspase y hacer la escritura más cómoda cada día
+- AGENDA 2026 2027 SEMANA VISTA - Su formato semana vista permite visualizar de un solo vistazo todas las tareas y exámenes de la semana, y organizar la semana con antelación. Esta agenda semanal, de agosto a julio, posee un tamaño compacto que no ocupa espacio de más y se adapta al día a día escolar
 - APARTADOS FUNCIONALES - Esta agenda 2026 2027 semanal cuenta con: página con datos personales, planificador mensual antes de cada mes, calendario 2026 y 2027, horarios, páginas de notas… Su contenido interior esta editado en Español, Inglés, Francés, Italiano y Alemán
 - DISEÑO OFICIAL ERIK. - Grupo Erik cuenta con más de 25 años de experiencia en el diseño de material escolar divertido y merchandising creativo de los productos oficiales más demandados. Nuestras agendas escolares 2026-2027 semana vista cuentan con certificado FSC y su envío se realiza en bolsas biodegradables, un packaging sostenible garantizando un envío seguro
-- AGENDA 2026 2027 SEMANA VISTA - Su formato semana vista permite visualizar de un solo vistazo todas las tareas y exámenes de la semana, y organizar la semana con antelación. Esta agenda semanal, de agosto a julio, posee un tamaño compacto que no ocupa espacio de más y se adapta al día a día escolar
+- AGENDA DONDE ESTA WALLY ESCOLAR - Organiza tus tareas de forma divertida con esta agenda escolar para niños de ¿Dónde está Wally?, con láminas decorativas y pegatinas a juego que convierten cada semana de clase en un juego visual
+- AGUANTARÁ TODO EL CURSO ESCOLAR - Agenda 26/27 con tapas duras y encuadernación resistente en wire-o diseñadas para el uso diario en la mochila. Sus páginas son punteadas y están fabricadas en un papel grueso, evitando que la tinta traspase y hacer la escritura más cómoda cada día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GZHHV6XP{{</world>}}

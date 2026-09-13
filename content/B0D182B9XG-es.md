@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [PACK DE 50 CARTULINAS BLANCAS]: Versatilidad para todos tus proyectos con este packde 50 cartulinas blancas A4 de alta calidad, perfectas para manualidades, impresiones y proyectos escolares
-- [APTAS PARA IMPRESIÓN]: Podrás imprimir en fotocopiadoras, impresoras con inyección de tinta y láser.
-- [RESPETUOSAS CON EL PLANETA]: Cartulinas fabricadas libres de ácido y de cloro elemental. Utilizan colorantes directos biodegradables, asegurando un impacto ambiental reducido.
 - [CREA SIN LÍMITES]: Son ideales para dibujar, pintar, cortar y pegar, y encuadernación. El lienzo perfecto para dejar volar tu imaginación y realizar manualidades increíbles.
+- [RESPETUOSAS CON EL PLANETA]: Cartulinas fabricadas libres de ácido y de cloro elemental. Utilizan colorantes directos biodegradables, asegurando un impacto ambiental reducido.
 - [TAMAÑO A4]: Con dimensiones de 21x29,7 cm, estas cartulinas se adaptan perfectamente a tus necesidades de diseño y creación
+- [APTAS PARA IMPRESIÓN]: Podrás imprimir en fotocopiadoras, impresoras con inyección de tinta y láser.
+- [PACK DE 50 CARTULINAS BLANCAS]: Versatilidad para todos tus proyectos con este packde 50 cartulinas blancas A4 de alta calidad, perfectas para manualidades, impresiones y proyectos escolares
 - [GROSOR IDEAL]: Resistencia y durabilidad para tus proyectos gracias a su grosor de 180 g/m²
 
 [🛒 Comprar!!!]({{< param buyurl >}})

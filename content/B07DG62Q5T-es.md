@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño y funcionalidad
 - Bolígrafo
+- Diseño y funcionalidad
 - 0
 - 0
 

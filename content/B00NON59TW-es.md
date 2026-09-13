@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dureza hb
-- Calidad alemana
-- Diseño moderno
 - Superficie barnizada
+- Diseño moderno
+- Calidad alemana
+- Dureza hb
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00NON59TW{{</world>}}

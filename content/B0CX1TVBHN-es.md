@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alto: 44 cm Ancho: 29,5 cm Fondo: 22 cm
-- El compartimento principal dispone de bolsillos interior y delantero
 - Correas ajustables para los hombros y panel de la espalda acolchados
+- El compartimento principal dispone de bolsillos interior y delantero
 - Confección en 100 % nailon
 - Funda acolchada para portátiles de hasta 13 pulgadas
 

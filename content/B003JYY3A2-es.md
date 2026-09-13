@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack de 5 lápices hecho de madera certificada PEFC
 - Adecuado para la escuela y la oficina
+- Pack de 5 lápices hecho de madera certificada PEFC
 - Lápiz de alta calidad para escribir, dibujar y esbozar
 - Tiene resistencia a la rotura gracias a la especial formulación de la mina y a su doble encoladura
 

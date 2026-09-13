@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STABILO - rotulador punta fina - point 88'
-date: 2026-09-07 13:58:28
+date: 2026-09-11 22:40:38
 image: 'https://m.media-amazon.com/images/I/61sqTjsL-nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B002GJL9US/?tag=tolees-21'
 descuento: '46.07'
-average: '11.4060869565219'
+average: '11.1912000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,14 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paquete de 20 unidades
-- Con un diseño hexagonal de finas líneas inconfundible
-- Tinta con base al agua
-- Tapón ventilado
-- Multicolor
-- Apta para usar con reglas y plantillas
-- Tipo de punta: fina con una anchura del trazo de 0.4 mm
-- Punta con refuerzo de metal para una larga vida
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002GJL9US{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuaderno imprescindible para llevar siempre contigo: para marcar todas las cosas que tienes que hacer, listas, números, contactos, objetivos del día, mes y año
-- Diseño interno con resúmenes, páginas introductorias para los puntos clave, notas y agenda, lista de tareas desmontable
 - Libreta con tapa blanda, esquinas redondeadas y cierre elástico, tamaño XL 19 x 25 cm, color verde bosque
-- El cuaderno adecuado para tus negocio, proyectos, ideas y objetivos, gracias a un diseño estructurado para organizar y planificar mejor tu trabajo
 - 192 páginas en papel color marfil de 70 g/m²; las últimas 8 hojas son desmontables
+- Cuaderno imprescindible para llevar siempre contigo: para marcar todas las cosas que tienes que hacer, listas, números, contactos, objetivos del día, mes y año
+- El cuaderno adecuado para tus negocio, proyectos, ideas y objetivos, gracias a un diseño estructurado para organizar y planificar mejor tu trabajo
+- Diseño interno con resúmenes, páginas introductorias para los puntos clave, notas y agenda, lista de tareas desmontable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07B12HNDL{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- También incluye 3 bolígrafos BIC 4 Color Shine con el cuerpo en un elegante color plata metalizado que te hará destacar
-- Contiene 1 bolígrafo BIC 4 Colores Grip Fashion con un cuerpo morado con sus tintas en rosa, morado, turquesa y verde lima, dispondrás de 4 exclusivos y llamativos colores para animar tus notas
 - Cambia el color de tu bolígrafo y anima tus apuntes diarios con este práctico bote con forma de bolígrafo de 4 colores BIC 4 Color
 - Los tonos veraniegos los aporta el bolígrafo BIC 4 Color Sun y su diseño en blanco y amarillo- Dale un toque de sol a tus escritos
+- Contiene 1 bolígrafo BIC 4 Colores Grip Fashion con un cuerpo morado con sus tintas en rosa, morado, turquesa y verde lima, dispondrás de 4 exclusivos y llamativos colores para animar tus notas
+- También incluye 3 bolígrafos BIC 4 Color Shine con el cuerpo en un elegante color plata metalizado que te hará destacar
 - El bolígrafo BIC 4 Color Mini Fashion será tu compañero de viaje ideal gracias a su práctico y divertido formato reducido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

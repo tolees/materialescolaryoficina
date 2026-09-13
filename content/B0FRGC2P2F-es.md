@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - 📄 HOJAS DE 70 g/m²: incorpora 2 taladros para facilitar el archivo y la organización de los apuntes; papel certificado FSC y cuaderno fabricado en España
 - 🌀 CUBIERTA DE CARTÓN RÍGIDO: acabado plastificado mate y espiral cobre para abrir el cuaderno con comodidad y acceder fácilmente a cada sección en el día a día
 - 🌲 POPPIES - HIGHLAND DAYS: diseño floral en verdes y rojos profundos con detalles en stamping dorado, dentro de la estética invernal de Highland Days
-- 📚 CUADERNO A5 MULTIASIGNATURA: 4 secciones de color distribuyen sus 100 hojas para organizar materias, proyectos, notas y contenidos dentro de una libreta
 - ✏️ CUADRÍCULA 5x5 mm PARA APUNTES: distribución regular con espacio para títulos, útil para escritura, operaciones, esquemas, gráficos y organización visual
+- 📚 CUADERNO A5 MULTIASIGNATURA: 4 secciones de color distribuyen sus 100 hojas para organizar materias, proyectos, notas y contenidos dentro de una libreta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FRGC2P2F{{</world>}}

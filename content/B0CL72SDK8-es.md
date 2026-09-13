@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Superficie antideslizante de tacto suave
 - Zona de agarre suave que asegura una escritura muy cómoda
 - Forma triangular ergonómica para una escritura incansable
+- Superficie antideslizante de tacto suave
 - Color de la tinta: azul, inalterable en documentos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Transparente
 - Hecha de material de polipropileno adhesivo
 - Viene en paquete de 6 unidades
-- Transparente
 - Con unas dimensiones de 50 mm x 66 m
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

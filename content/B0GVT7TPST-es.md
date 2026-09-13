@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Rayado cuadrícula 5x5 enmarcado con cabecera para la identificación del tema, poner la fecha, etc.
-- 6 taladros de archivo compatibles con carpetas de 2 y 4 anillas, Europeanbinder y archivadores palanca.
 - Producto certificado PEFC conforme proviene de bosques gestionados de forma sostenible.
+- 6 taladros de archivo compatibles con carpetas de 2 y 4 anillas, Europeanbinder y archivadores palanca.
 - Hojas microperforadas con iniciador de desgarre para poder arrancarlas fácilmente y archivarlas
 - Espiral con cierre de seguridad coil-lock para no dañar al usuario y evitar que se enganche con otra espiral
 

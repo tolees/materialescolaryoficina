@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AGENDA 2026 2027 DIA POR PÁGINA - Su formato día página permite anotar tareas, exámenes y recordatorios con espacio suficiente. Esta agenda diaria, de agosto a junio, posee un tamaño compacto que no ocupa espacio de más y se adapta al día a día escolar
-- AGENDA REAL MADRID ESCOLAR - Organiza tus tareas con diversión gracias a esta agenda escolar para niños con láminas decorativas y pegatinas a juego que aportan un toque divertido y desenfadado a cada día de clase, ideal para estudiantes amantes del fútbol que quieren mostrar la pasión por su equipo
 - ACCESORIOS EN SU INTERIOR - Agenda escolar dia por pagina que cuenta con láminas decorativas, bolsillo interior para guardar papeles y pegatinas para destacar lo importante
 - APARTADOS FUNCIONALES - Esta agenda 26 27 dia por pagina cuenta con: página con datos personales, calendario 2026 y 2027, planificador anual, horarios, cumpleaños, páginas de notas… Su contenido interior esta editado en Español, Inglés, Francés, Italiano y Alemán
+- AGENDA 2026 2027 DIA POR PÁGINA - Su formato día página permite anotar tareas, exámenes y recordatorios con espacio suficiente. Esta agenda diaria, de agosto a junio, posee un tamaño compacto que no ocupa espacio de más y se adapta al día a día escolar
+- AGENDA REAL MADRID ESCOLAR - Organiza tus tareas con diversión gracias a esta agenda escolar para niños con láminas decorativas y pegatinas a juego que aportan un toque divertido y desenfadado a cada día de clase, ideal para estudiantes amantes del fútbol que quieren mostrar la pasión por su equipo
 - AGUANTARÁ TODO EL CURSO ESCOLAR - Agenda 26/27 con tapas duras y encuadernación resistente en wire-o diseñadas para el uso diario en la mochila. Sus páginas son cuadrículadas y están fabricadas en un papel grueso, evitando que la tinta traspase y hacer la escritura más cómoda cada día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

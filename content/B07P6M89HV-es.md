@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones: 52 x 33 x 20 cm (capacidad: 33 litros)
-- Compartimento para portátil: funda acolchada para portátil en el compartimento principal (para portátiles de hasta 15 pulgadas)
-- Material: 100 % poliéster reciclado. Material aprobado por Bluesign
-- Compartimentos: dos principales, un pequeño bolsillo delantero y otro más pequeño, todos con cremallera. Dos bolsillos laterales para botellas y un bolsillo afelpado para gafas. Base acolchada. Bolsillo térmico delantero mantiene frescos alimentos
 - Asas de hombro: mochila escolar con asas de hombro acolchadas y tira ajustable al pecho con hebilla de apertura rápida
+- Material: 100 % poliéster reciclado. Material aprobado por Bluesign
+- Compartimento para portátil: funda acolchada para portátil en el compartimento principal (para portátiles de hasta 15 pulgadas)
+- Dimensiones: 52 x 33 x 20 cm (capacidad: 33 litros)
+- Compartimentos: dos principales, un pequeño bolsillo delantero y otro más pequeño, todos con cremallera. Dos bolsillos laterales para botellas y un bolsillo afelpado para gafas. Base acolchada. Bolsillo térmico delantero mantiene frescos alimentos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07P6M89HV{{</world>}}

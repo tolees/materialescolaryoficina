@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Forma triangular, diámetro grueso de 10 mm
-- Ergonómico, pensado para que el niño aprenda a sujetar bien el lápiz
 - Lápiz diseñado para las primeras etapas del dibujo
 - Multicolor
+- Ergonómico, pensado para que el niño aprenda a sujetar bien el lápiz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00MNAXEG2{{</world>}}

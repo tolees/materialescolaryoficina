@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Asa superior
 - Logo de metal de Kipling
+- Asa superior
 - Correas de mochila ajustables
 - Llavero de metal del mono de Kipling
 

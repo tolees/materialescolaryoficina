@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✨SIN MANCHAS : la tinta termosensible de los recambios borrables FriXion desaparece bajo el efecto del calor generado por su borrador incorporado, indestructible; No hace falta tachar nada, basta con borrar una letra, una línea o un párrafo entero con un solo golpe de la goma; La tinta se borra completamente sin arrugar ni dañar el papel.Tu trabajo queda limpio, claro y legible
 - ✍PRACTICIDAD Y FLUIDEZ : minas de recambio de 07 mm con punta cónica, tamaño de escritura medio, adecuadas para FriXion Ball y FriXion Ball Clicker. Como la tinta Frixion se puede borrar, no recomendamos usarla en documentos oficiales
 - ♻️RECARGABLE: gracias a los cartuchos FriXion, adaptados a los bolígrafos recargables de la gama FriXion, cambias la tinta, no el bolígrafo. Cambiar el recambio es fácil y rápido.
 - ✒️TINTA ULTRASUAVE Y BORRABLE : disponible en juegos de 3 ó 6 recambio. Los cartuchos FriXion proporcionan una escritura suave y sin esfuerzo para todos tus bolígrafos Pilot FriXion
 - 🎨16 COLORES : con punta fina o media, recambios de bolígrafo borrable son indispensables en tu lista de material escolar o de oficina
+- ✨SIN MANCHAS : la tinta termosensible de los recambios borrables FriXion desaparece bajo el efecto del calor generado por su borrador incorporado, indestructible; No hace falta tachar nada, basta con borrar una letra, una línea o un párrafo entero con un solo golpe de la goma; La tinta se borra completamente sin arrugar ni dañar el papel.Tu trabajo queda limpio, claro y legible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07SJS8PP9{{</world>}}

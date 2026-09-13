@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack de 10 puntas de tinta negro de 1 mm, que no daña superficies sensibles como CD/DVD/Blu-ray
-- No emborrona y es resistente al agua sobre casi todas las superficies
 - Seca en segundos, adecuado para usuarios zurdos
+- Pack de 10 puntas de tinta negro de 1 mm, que no daña superficies sensibles como CD/DVD/Blu-ray
 - Con Dry Safe, puede permanecer destapado durante días sin secarse
+- No emborrona y es resistente al agua sobre casi todas las superficies
 - La tinta no daña los datos grabados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

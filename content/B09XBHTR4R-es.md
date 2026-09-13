@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oxford Estuche Escolar 3 Compartimentos Goma Elástica 3 Cremalleras Color Rosa Fucsia'
-date: 2026-09-10 07:03:57
+date: 2026-09-12 06:29:33
 image: 'https://m.media-amazon.com/images/I/31MSwwq8-1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

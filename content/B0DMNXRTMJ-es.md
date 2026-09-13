@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funda para portátil con forro suave y capacidad para un MacBook Pro de 15" u ordenadores de tamaño similar
 - Tecnología UA Storm resistente al agua que mantiene las cosas secas
 - Panel inferior duradero con revestimiento de PU
+- Funda para portátil con forro suave y capacidad para un MacBook Pro de 15" u ordenadores de tamaño similar
 - 2 bolsillos laterales para botellas de agua
 - Tratamiento repelente al agua sin flúor
 

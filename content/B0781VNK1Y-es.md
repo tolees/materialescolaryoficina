@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Kids Evolution - Lápices para colorear blíster de 36 unidades para actividades creativas en casa y el colegio colores surtidos Multicolor'
-date: 2026-09-10 13:50:47
+date: 2026-09-12 14:20:42
 image: 'https://m.media-amazon.com/images/I/51vMBkfSChL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781VNK1Y/?tag=tolees-21'
 descuento: '15.02'
-average: '7.14517241379311'
+average: '7.12225806451614'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

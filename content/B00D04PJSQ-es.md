@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- diámetro de mina 2 mm
-- Fácil de borrar
-- Madera certificada PEFC
 - Doble encolado de mina contra roturas
 - Gomas de borrar calidad Premium sin ftalatos ni látex
+- Madera certificada PEFC
+- Fácil de borrar
+- diámetro de mina 2 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00D04PJSQ{{</world>}}

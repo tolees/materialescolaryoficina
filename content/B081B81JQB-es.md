@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- En nuestra tienda de marcas encontrará otros fantásticos artículos de la gama Faber-Castell. Para ello, haga clic en el nombre de la marca «Faber-Castell» debajo del título del producto
+- Con función de ajuste fino mediante rueda central
 - Nuevo y moderno diseño de las patas
 - Con dos articulaciones, incluye una caja con piezas de repuesto y minas
 - Diámetro máximo del círculo de dibujo: 340 mm, longitud 170 mm
-- Con función de ajuste fino mediante rueda central
-- En nuestra tienda de marcas encontrará otros fantásticos artículos de la gama Faber-Castell. Para ello, haga clic en el nombre de la marca «Faber-Castell» debajo del título del producto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081B81JQB{{</world>}}

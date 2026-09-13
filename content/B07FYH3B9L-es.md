@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para tus esbozos, elige el portaminas recargable BIC Velocity de 0,7 mm de color rosa intenso
 - 3 rotuladores permanentes BIC Marking en 3 tonos de rosa completan el set en el bonito estuche metálico rosa
-- Disfruta de una escritura suave con el rotulador rosa BIC Intensity Fine y el rotulador de escritura BIC Intensity y el bolígrafo de gel rosa, pensados para tomar notas y para la escritura creativa
 - Este conjunto contiene 1 boli BIC 4 Colores Shine rosa y 1 boli BIC Cristal Fun con capuchón rosa a juego con el color de la tinta
+- Para tus esbozos, elige el portaminas recargable BIC Velocity de 0,7 mm de color rosa intenso
+- Disfruta de una escritura suave con el rotulador rosa BIC Intensity Fine y el rotulador de escritura BIC Intensity y el bolígrafo de gel rosa, pensados para tomar notas y para la escritura creativa
 - Para que lo veas todo color de rosa- El set BIC Pink & Purple reúne los instrumentos de escritura necesarios en un mismo estuche
 
 [🛒 Comprar!!!]({{< param buyurl >}})

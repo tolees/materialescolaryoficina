@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lápices de colores Giotto, realizados en madera de calidad
 - Contiene 24 colores surtidos
 - Cuerpo hexagonal de Ø 6,8 mm y mina de Ø 3,0 mm
+- Lápices de colores Giotto, realizados en madera de calidad
 - Colores vivos y intensos, ideales para el uso en la escuela primaria
 - Cuerpo lacado en el color de la mina con espacio para personalizarlo con el nombre
 

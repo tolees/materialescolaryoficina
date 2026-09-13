@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EXTRAS FUNCIONES - Marcador de Cinta | Cierre Elástico | Regla de Marcapáginas | Pestaña Mensual | Bolsillo Plegable | Esquina de Arranque Fácil | Portabolígrafo Autoadhesivo | Cuenta Regresiva de Fecha
-- VISTA SEMANAL - 2 páginas por semana vista vertical a partir del lunes, intervalos de 30 min (una hora en fin de semana), con amplio espacio de líneas para escritura, tamaño A5, dimensión de la hoja 14,8 x 21 cm, medida total 15,3 x 21,5 cm
 - AGENDA 2026 2027 - Esta agenda cubre 18 meses de Julio 2026 a Diciembre 2027, perfecta para ayudarte a organizar mejor tu nuevo curso, trabajo, vida y más, y es una herramienta genial de anotación y planificación
-- CALIDAD CONFIABLE - Suave piel de PU de tacto agradable que puede enrollarse y guardarse, embalado en caja de cartón, encuadernación de doble espiral, papel blanco inocuo de 80 g/m², resistente a la penetración de la tinta
+- EXTRAS FUNCIONES - Marcador de Cinta | Cierre Elástico | Regla de Marcapáginas | Pestaña Mensual | Bolsillo Plegable | Esquina de Arranque Fácil | Portabolígrafo Autoadhesivo | Cuenta Regresiva de Fecha
 - PÁGINAS ADICIONALES - Plan Anual 26-28 | Plan Mensual | Horario x 4 | Calendario 26 y 27 | Páginas de Viaje / Gastos / Notas Punteadas / Contacto / Días Festivos en España
+- VISTA SEMANAL - 2 páginas por semana vista vertical a partir del lunes, intervalos de 30 min (una hora en fin de semana), con amplio espacio de líneas para escritura, tamaño A5, dimensión de la hoja 14,8 x 21 cm, medida total 15,3 x 21,5 cm
+- CALIDAD CONFIABLE - Suave piel de PU de tacto agradable que puede enrollarse y guardarse, embalado en caja de cartón, encuadernación de doble espiral, papel blanco inocuo de 80 g/m², resistente a la penetración de la tinta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FRZHYJY4{{</world>}}

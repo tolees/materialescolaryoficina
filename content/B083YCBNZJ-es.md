@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Acabado repelente al agua
 - Mono de peluche de Kipling
 - Asa superior
-- Acabado repelente al agua
 - Correas ajustables
 
 [🛒 Aquí!!!]({{< param buyurl >}})

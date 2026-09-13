@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 📄 RESISTENTE Y SOSTENIBLE con papel de 80 g/m² con certificación FSC Mix Credit, cubiertas plastificadas mate, encuadernación de espiral doble, cierre con goma y contenidos en català e inglés.
-- 🌼 SOLES con flores tipo margarita y hojas en un diseño fresco y natural, con encuadernación Wire-O metálica color cobre. Incluye calendario del curso, planificación mensual, seguimiento académico, retos del mes, páginas extra y contenidos de apoyo.
 - 🗓️ AGENDA 2026 2027 SEMANA VISTA(S/V) de 12 meses, desde septiembre 2026 a agosto 2027, con organización semanal clara para ver toda la semana de un vistazo.
-- ✨ TODO LO QUE NECESITAS PARA EL DÍA A DÍA con planning mensual al inicio de cada mes, páginas de notas, 2 páginas de pegatinas, un bolsillo doble interior y regla marcapáginas.
+- 📄 RESISTENTE Y SOSTENIBLE con papel de 80 g/m² con certificación FSC Mix Credit, cubiertas plastificadas mate, encuadernación de espiral doble, cierre con goma y contenidos en català e inglés.
 - 📏 FORMATO COMPACTO (123 × 178 mm), un poco más grande que A6, cómodo para llevar en la mochila o el bolso, en secundaria y bachillerato, y práctico para planificar cada semana.
+- 🌼 SOLES con flores tipo margarita y hojas en un diseño fresco y natural, con encuadernación Wire-O metálica color cobre. Incluye calendario del curso, planificación mensual, seguimiento académico, retos del mes, páginas extra y contenidos de apoyo.
+- ✨ TODO LO QUE NECESITAS PARA EL DÍA A DÍA con planning mensual al inicio de cada mes, páginas de notas, 2 páginas de pegatinas, un bolsillo doble interior y regla marcapáginas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GRWKKHPN{{</world>}}

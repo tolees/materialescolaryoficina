@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Prensado en frío y con anillas
 - Dimensiones de 12 x 18 cm
-- Grano fino y sin acido
 - Incluye 12 hojas
+- Grano fino y sin acido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004HG4OQY{{</world>}}

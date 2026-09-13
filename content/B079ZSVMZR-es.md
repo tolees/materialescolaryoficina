@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Libreta con tapa blanda, esquinas redondeadas y cierre elástico, en formato grande 13 x 21 cm, color negro
+- Diseño interno con resúmenes, páginas introductorias para los puntos clave, notas y agenda, lista de tareas desmontable
 - Cuaderno imprescindible para llevar siempre contigo: para marcar todas las cosas que tienes que hacer, listas, números, contactos, objetivos del día, mes y año
 - El cuaderno adecuado para tus negocio, proyectos, ideas y objetivos, gracias a un diseño estructurado para organizar y planificar mejor tu trabajo
-- Diseño interno con resúmenes, páginas introductorias para los puntos clave, notas y agenda, lista de tareas desmontable
 - 192 páginas en papel color marfil de 70 g/m²; las últimas 8 hojas son desmontables
 
 [🛒 Comprar!!!]({{< param buyurl >}})

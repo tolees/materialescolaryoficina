@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ACCESORIOS EN SU INTERIOR - Agenda escolar semana vista 2026 2027 que cuenta con láminas decorativas, marcapáginas, bolsillo interior para guardar papeles y pegatinas para destacar lo importante
 - APARTADOS FUNCIONALES - Esta agenda 2026 2027 semanal cuenta con: página con datos personales, planificador mensual antes de cada mes, calendario 2026 y 2027, horarios, páginas de notas… Su contenido interior esta editado en Español, Inglés, Francés, Italiano y Alemán
-- AGENDA 2026 2027 SEMANA VISTA - Su formato semana vista permite visualizar de un solo vistazo todas las tareas y exámenes de la semana, y organizar la semana con antelación. Esta agenda semanal, de agosto a julio, posee un tamaño compacto que no ocupa espacio de más y se adapta al día a día escolar
 - AGENDA ONE PIECE ESCOLAR - Organiza tus tareas con espíritu aventurero gracias a esta agenda escolar para niños de One Piece Gear 5, con láminas decorativas y pegatinas a juego inspiradas en el universo del anime
+- AGENDA 2026 2027 SEMANA VISTA - Su formato semana vista permite visualizar de un solo vistazo todas las tareas y exámenes de la semana, y organizar la semana con antelación. Esta agenda semanal, de agosto a julio, posee un tamaño compacto que no ocupa espacio de más y se adapta al día a día escolar
 - AGUANTARÁ TODO EL CURSO ESCOLAR - Agenda 26/27 con tapas duras y encuadernación resistente en wire-o diseñadas para el uso diario en la mochila. Sus páginas son lisas y están fabricadas en un papel grueso, evitando que la tinta traspase y hacer la escritura más cómoda cada día
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

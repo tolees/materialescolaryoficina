@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Capacidad: 27,5 l
-- Bolsillo frontal con cremallera
 - Dimensiones: 15 cm x 31 cm x 44 cm
+- Bolsillo frontal con cremallera
 - Material Principal: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Acolchado: 100% Polietileno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto de calidad óptima
-- Se desliza con facilidad
 - La siguiente información se aplica a cada unidad del paquete
+- Se desliza con facilidad
 - Color verde oliva
 
 [🛒 Aquí!!!]({{< param buyurl >}})

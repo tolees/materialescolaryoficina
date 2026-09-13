@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: 2 x 2 x 15 Centímetros
 - Producto de alta calidad
+- Medidas: 2 x 2 x 15 Centímetros
 - Marca: Bic
 
 [🛒 Aquí!!!]({{< param buyurl >}})
