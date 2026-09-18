@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Staedtler 185 C24 - Lápices de colores 24 Unidades Paquete de 1 Multicolor'
+date: 2026-09-16 16:20:24
+image: 'https://m.media-amazon.com/images/I/516qoeevfNL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00SF4NTF6-es Staedtler 185 C24 - Lápices de colores 24 Unidades Paquete...'
+sku: 'B00SF4NTF6-es'
+tags: [ 'lápices','🇪🇸', ]
+actualPrice: 4.21 EUR
+currency: EUR
+price: 4.21
+comparePrice: 8.39 EUR
+prodname: 'Staedtler 185 C24 - Lápices de colores 24 Unidades Paquete de 1 Multicolor'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B00SF4NTF6/?tag=tolees-21'
+descuento: '49.82'
+average: '5.21358974358975'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B00SF4NTF6{{</world>}}
