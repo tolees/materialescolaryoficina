@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Amplio bolsillo delantero para guardar los objetos más pequeños
 - Correas de hombro acolchadas con un cómodo panel trasero acolchado
-- Altura: 40cm, Ancho: 30cm, Fondo: 18cm
 - Compartimento principal amplio con resistente base de piel
+- Altura: 40cm, Ancho: 30cm, Fondo: 18cm
 - Fabricada 100% en nylon
 
 [🛒 Comprar!!!]({{< param buyurl >}})

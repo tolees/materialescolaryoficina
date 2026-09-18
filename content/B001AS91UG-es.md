@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Adecuado para mantener documentos organizados y protegidos
-- El contenido del paquete tiene 10 piezas
-- Dimensiones del producto: 24 x 32 cm
-- Productos para la oficina y para uso personal
 - Material del producto: cárton
+- Productos para la oficina y para uso personal
+- Dimensiones del producto: 24 x 32 cm
+- El contenido del paquete tiene 10 piezas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001AS91UG{{</world>}}

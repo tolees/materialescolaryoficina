@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gomas de borrar calidad Premium sin ftalatos ni látex
 - Doble encolado de mina contra roturas
-- diámetro de mina 2 mm
 - Madera certificada PEFC
+- diámetro de mina 2 mm
+- Gomas de borrar calidad Premium sin ftalatos ni látex
 - Fácil de borrar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Unisex adulto UA Undeniable 5.0 Duffle XS Backpack'
-date: 2026-09-15 09:09:59
+date: 2026-09-17 10:51:38
 image: 'https://m.media-amazon.com/images/I/31njdMDbwvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B093LSDBZL/?tag=tolees-21'
 descuento: '40.03'
-average: '21.309642857143'
+average: '21.2883333333335'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

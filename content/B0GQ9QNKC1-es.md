@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mini bolígrafo de grabado inalámbrica con 48 kits y pantalla led pluma inalámbrica de 5 velocidades para metal madera vidrio plástico y todos los materiales regalo de artesanía recargable USB'
-date: 2026-09-13 17:33:12
+date: 2026-09-17 17:57:39
 image: 'https://m.media-amazon.com/images/I/41waLmBwfzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GQ9QNKC1/?tag=tolees-21'
 descuento: '28.76'
-average: '29.49'
+average: '29.3471428571428'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

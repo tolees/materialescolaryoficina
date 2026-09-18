@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colores alegres e intensos
-- Lápices de colores hexagonales
 - Disponen de espacio para escribir el nombre
+- Lápices de colores hexagonales
 - Lápices Ø 6,8 mm de grosor con mina de calidad superior, de diámetro Ø 3,3 mm
 - Barnizados en el color de la mina con esquinas plateadas
+- Colores alegres e intensos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0026J2LQO{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Práctico clip y forma plana, perfecto para viajes
-- 2 anchos de trazo: 1 + 4 mm
-- Tecnología STABILO Anti-secado: Hasta 4 horas destapado sin secarse
 - Set y embalaje fabricados con cartón con certificado FSC
+- Tecnología STABILO Anti-secado: Hasta 4 horas destapado sin secarse
+- 2 anchos de trazo: 1 + 4 mm
+- Práctico clip y forma plana, perfecto para viajes
 - Diseño elegante en colaboración con la conocida diseñadora Marina Hoermanseder
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye un pincel
 - La mina está protegida contra roturas gracias a un encolado especial
-- La mina es totalmente acuarelable
+- Incluye un pincel
 - Con forma hexagonal
+- La mina es totalmente acuarelable
 - Lápices de colores en estuche de 12 unidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})

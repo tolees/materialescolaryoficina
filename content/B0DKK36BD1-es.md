@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo : Beanie
 - Modo de vida : Al aire libre
+- Artículo : Beanie
 - Detalles : Detalle del logo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

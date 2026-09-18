@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con cera de abeja auténtica
-- Colores resistentes al agua y brillantes
 - Con estuche de plástico resellable
 - Con banda de papel
+- Colores resistentes al agua y brillantes
 - Trazo muy suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

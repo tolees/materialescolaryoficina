@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta divertida forma de burbuja de voz ayuda a que tus mensajes se noten
 - 225 hojas por bloc
+- Esta divertida forma de burbuja de voz ayuda a que tus mensajes se noten
 - Bloc de notas Post-it en forma de burbuja de habla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

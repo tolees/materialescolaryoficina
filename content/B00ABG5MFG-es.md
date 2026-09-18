@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puede borrarse fácilmente de superficies lisas como cristales y espejos usando un paño húmedo
-- Rotuladores de punta fina, 1-2 mm, de colores: oro y plata. Destacan idóneamente sobre fondos negros.
 - Marcadores metalizados de punta redonda, con tinta pigmentada en base de agua, para uso inmediato, sin agitado ni bombeo.
+- Rotuladores de punta fina, 1-2 mm, de colores: oro y plata. Destacan idóneamente sobre fondos negros.
 - Marcadores idóneos para escribir sobre papel y cartulinas claros y oscuros, así como pizarras de cristal.
 - Recomendados para trabajos de manualidades, DIY, hazlo tú mismo, tarjetas, decoración, regalos, scrapbooking.
 

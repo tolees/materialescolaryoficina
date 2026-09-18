@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Recargable
-- Disponible en 9 colores
 - 2 anchos de linea - 2 y 5 mm
+- Disponible en 9 colores
 - Tinta base al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})

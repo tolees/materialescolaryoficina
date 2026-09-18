@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Set de 4 marcadores flourescentes en tonos pastel - ocre, rosa palo, menta y verde claro
 - Tamaño perfecto para transportar cómodamente en estuches y mochilas sin ocupar mucho espacio
 - Ideal para resaltar textos, organizar apuntes y crear códigos de color en documentos y libros; Excelentes resultados de marcación con una aplicación uniforme del color
 - Subrayadores con tinta a base de agua; ; 3 grosores de trazo: 1, 2 y 5 mm, punta biselada
-- Set de 4 marcadores flourescentes en tonos pastel - ocre, rosa palo, menta y verde claro
 - Fabricado con plástico 100% reciclado en el barril y la tapa, manteniendo la calidad superior de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

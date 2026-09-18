@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Punta de 0,7mm
 - Zona de sujeción triangular ergonómica
 - Calidad alemana
-- Punta de 0,7mm
-- Tapón ventilado
 - Tinta lavable
+- Tapón ventilado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002HWRB6K{{</world>}}

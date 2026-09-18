@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Trazo : 0,4 mm
 - Marca : stabilo
+- Trazo : 0,4 mm
 - Tipo : de fibra
 - Color : gris azulado claro
 

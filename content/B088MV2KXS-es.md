@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Set de reglas escolares transparentes
-- Graduación en centímetros y milímetros
 - CONTENIDO DEL PACK: Regla de 30 cm, Escuadra 16 cm, Cartabón 22 cm y Medidor de Ángulos
+- Graduación en centímetros y milímetros
+- Set de reglas escolares transparentes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B088MV2KXS{{</world>}}

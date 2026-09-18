@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DYMO LetraTag Etiquetas auténticas en Colores Pastel Starter Pack | verde pistacho azul claro y rosa | 12 mm x 4m X3 | para las etiquetadoras LetraTag | autoadhesivo'
-date: 2026-09-09 19:33:48
+date: 2026-09-18 08:30:32
 image: 'https://m.media-amazon.com/images/I/41AFTPZebmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DZJXMXZ7-es DYMO LetraTag Etiquetas auténticas en Colores Pastel...'
 sku: 'B0DZJXMXZ7-es'
 tags: [ 'dymo','🇪🇸', ]
-actualPrice: 11.99 EUR
+actualPrice: 11.29 EUR
 currency: EUR
-price: 11.99
+price: 11.29
 comparePrice: 21.95 EUR
 prodname: 'DYMO LetraTag Etiquetas auténticas en Colores Pastel Starter Pack | verde pistacho azul claro y rosa | 12 mm x 4m X3 | para las etiquetadoras LetraTag | autoadhesivo'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DZJXMXZ7/?tag=tolees-21'
-descuento: '45.38'
-average: '11.99'
+descuento: '48.56'
+average: '11.64'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 2 bolsillos exteriores con cremallera para objetos de valor
 - Soporte tipo daisy chain
 - Etiqueta con nombre y dirección
-- 2 bolsillos exteriores con cremallera para objetos de valor
 - Bolsillo interior con cremallera de malla
 - Transporte cómodo gracias a hombreras anatómicamente moldeadas y acolchadas
 

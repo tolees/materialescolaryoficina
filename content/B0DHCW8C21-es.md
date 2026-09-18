@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estuche para lápices
 - Tiene detalles distintivos de la marca
 - Cierre de cremallera
-- Estuche para lápices
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHCW8C21{{</world>}}

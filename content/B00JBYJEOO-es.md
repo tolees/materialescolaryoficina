@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pastillas pre-divididas en 8 porciones, con certificado CE
 - Pasta de modelar suave de secado al horno, diseñada para niños
 - Colores brillantes para una mezcla precisa
 - Envase resellable
-- Pastillas pre-divididas en 8 porciones, con certificado CE
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JBYJEOO{{</world>}}

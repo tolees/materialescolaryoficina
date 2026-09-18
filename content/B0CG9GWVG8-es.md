@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Teclas con tacto suave. 3 teclas de memoria y raíz cuadrada.
-- Medidas calculadora: 9,7 x 6,2 x 0,8 cm. Caja de cartón con colgador.
 - Alimentación dual: célula solar y pila de 1,5 V. Apagado automático. Colores: rosa, amarillo y lila.
+- Medidas calculadora: 9,7 x 6,2 x 0,8 cm. Caja de cartón con colgador.
+- Teclas con tacto suave. 3 teclas de memoria y raíz cuadrada.
 - Calculadora de bolsillo de 8 dígitos serie Sunset.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

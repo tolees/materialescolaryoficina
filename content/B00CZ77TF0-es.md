@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Adecuado para escribir a mano, garabatos o dibujos que luego se puede realzar con polvos y la pistola de calor
-- Tiene un punto fino que permite dibujar y escribir
 - Contiene una tinta de estampación claro
-- Dispone de un punto cónico que permite hacer caligrafía
 - NOTA: Las etiquetas en el bolígrafo estarán en negro
+- Dispone de un punto cónico que permite hacer caligrafía
+- Tiene un punto fino que permite dibujar y escribir
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CZ77TF0{{</world>}}

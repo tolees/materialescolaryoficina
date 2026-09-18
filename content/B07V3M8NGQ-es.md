@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 0,24 kg de peso y 15 L de volumen
 - Mochila mediana (con cordón)
-- 45 cm de alto x 39,5 cm de ancho x 0 cm de profundidad
 - 100% poliamida
 - Repele el agua
+- 45 cm de alto x 39,5 cm de ancho x 0 cm de profundidad
+- 0,24 kg de peso y 15 L de volumen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07V3M8NGQ{{</world>}}

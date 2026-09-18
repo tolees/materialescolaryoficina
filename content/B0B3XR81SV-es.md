@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base revestida muy resistente al desgaste
-- Correas acolchadas y ajustables para los hombros
 - Dimensiones: 50 cm x 30 cm x 19 cm
-- Bolsillos laterales de malla
 - Compartimento para las botas con cierre de cremallera
+- Correas acolchadas y ajustables para los hombros
+- Base revestida muy resistente al desgaste
+- Bolsillos laterales de malla
 - Tejido técnico 100% poliéster reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fellowes 5 Packs de 100 Funda de Plastificar A4 Brillo 160 Micras Acabado de Ideal para Fotos y Avisos Informativos'
-date: 2026-09-13 21:21:13
+date: 2026-09-17 04:50:56
 image: 'https://m.media-amazon.com/images/I/51tskx4Cv8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B71ZZVKS/?tag=tolees-21'
 descuento: '26.63'
-average: '31.475'
+average: '31.2533333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

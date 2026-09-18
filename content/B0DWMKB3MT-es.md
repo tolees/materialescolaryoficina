@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño moderno
 - Para tomar notas
+- Diseño moderno
 - Adecuado para regalar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NF00CF9C4GZ
 - Cómodo panel trasero de malla acolchado con canal y capa para la columna vertebral
+- NF00CF9C4GZ
 - Cinturón extraíble
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Su fórmula fundente y fluida da un maquillaje gráfico y preciso, con una consistencia del color intensa e inmediata en tonos de tendencia
-- Lápiz para el interior del ojo
 - Mirada delineada y ojos protagonistas con un color intenso y de tendencia
 - Un lápiz de textura suave y cremosa para aplicar en la línea interior del ojo
+- Lápiz para el interior del ojo
 - El lápiz de madera cuenta con un tapón de color, para distinguir la tonalidad a primera vista
 
 [🛒 Aquí!!!]({{< param buyurl >}})

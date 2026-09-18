@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Colores vivos e intensos; no se astillan al romperse y es muy fácil hacerles punta
-- Forma triangular y ergonómica; punta resistente
 - Lápices de colores ideales para dibujar y colorear
 - Bote de 84 unidades; 7 unidades de 12 colores diferentes
+- Colores vivos e intensos; no se astillan al romperse y es muy fácil hacerles punta
+- Forma triangular y ergonómica; punta resistente
 - Lápices de colores sin madera para niñas y niños a partir de 3 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BiC Bolígrafos retráctiles de 4 colores brillantes y degradados punta media 1 00 mm en plata metálica oro rosa oro rosa y pastel degradado paquete de 5'
-date: 2026-09-10 14:17:55
+date: 2026-09-17 13:17:36
 image: 'https://m.media-amazon.com/images/I/514CuqZCxAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nº palos por bolsa: 50
-- Producto básico para escuelas y talleres infantiles, ideales para crear decoraciones, construcción de estructuras, marionetas, maquetas o usar en otras manualidades
 - Palos polo de madera en color natural de tamaño 114 x 10 mm
+- Producto básico para escuelas y talleres infantiles, ideales para crear decoraciones, construcción de estructuras, marionetas, maquetas o usar en otras manualidades
+- Nº palos por bolsa: 50
 - Palos polo de gran resistencia, fáciles de pegar, pintar e incluso cortar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

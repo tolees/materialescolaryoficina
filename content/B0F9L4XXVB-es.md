@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Cristal Original Bolígrafos de Punta Media 1 00 mm - Colores de Tinta Surtidos Caja de Edición Especial de 27'
-date: 2026-09-16 11:03:21
+date: 2026-09-17 12:51:26
 image: 'https://m.media-amazon.com/images/I/51g4mnen-LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F9L4XXVB/?tag=tolees-21'
 descuento: '30.48'
-average: '6.52'
+average: '6.48142857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

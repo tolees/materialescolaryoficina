@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER Lumocolor 31 Rotuladores permanentes – negro pack 4 S/F/M/B'
-date: 2026-09-12 19:35:00
+date: 2026-09-17 13:16:25
 image: 'https://m.media-amazon.com/images/I/41H6GEW+FoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COLORES INTENSAMENTE BRILLANTES: Crea impresiones llamativas y vibrantes en todo tipo de proyectos artísticos en casa, en la escuela y fuera de ella.
-- TINTA ORGULLOSAMENTE PERMANENTE: Marca sobre papel, plástico, metal y la mayoría de superficies
 - PUNTAS VERSÁTILES: Los rotuladores de punta fina hacen marcas impresionantemente audaces y detalladas
+- TINTA ORGULLOSAMENTE PERMANENTE: Marca sobre papel, plástico, metal y la mayoría de superficies
+- COLORES INTENSAMENTE BRILLANTES: Crea impresiones llamativas y vibrantes en todo tipo de proyectos artísticos en casa, en la escuela y fuera de ella.
 - RESISTE LA DECOLORACIÓN: Tinta extraordinariamente resistente que se seca rápidamente y es duradera, para que la creatividad perdure.
 - INCLUYE: 24 rotuladores finos en un surtido de colores de tinta
 

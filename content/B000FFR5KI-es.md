@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gama de 18 colores
-- Punta de 10 mm
 - Pinta sobre diversas superficies: cartón, cristal, metal…
 - De madera certificada PEFC
+- Punta de 10 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000FFR5KI{{</world>}}

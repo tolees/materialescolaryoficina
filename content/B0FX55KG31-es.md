@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capacidad: 22 litros
+- Bolsillo frontal con organizador
 - HELL: 100 % poliéster, revestimiento de poliuretano, forro: 100 % poliéster, revestimiento de poliuretano, EOD
 - Bolsillo para botella de agua
-- Bolsillo frontal con organizador
 - Funda para portátil que se adapta a la mayoría de portátiles de 15 pulgadas
-- Capacidad: 22 litros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FX55KG31{{</world>}}

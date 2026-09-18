@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOTTO - Mochila Escolar Adaptable a Carro Modelo Acuareles Capacidad 20 L Bolsillo para Pc 14" 2 Bolsillo Botella Espaldar Ergonómico con Flujo de Aire Correas en S Estampado Moroccan Blue'
-date: 2026-09-16 09:04:17
+date: 2026-09-17 20:58:04
 image: 'https://m.media-amazon.com/images/I/31K1DSoJ5gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

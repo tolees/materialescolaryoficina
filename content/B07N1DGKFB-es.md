@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Class Room Mochila Mediana Bridal Rose Rosa'
-date: 2026-09-13 07:05:29
+date: 2026-09-18 08:22:39
 image: 'https://m.media-amazon.com/images/I/31GMCP7HmAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1DGKFB/?tag=tolees-21'
 descuento: '60.00'
-average: '71.3787500000002'
+average: '70.0388461538464'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

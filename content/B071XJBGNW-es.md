@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene 24 colores surtidos
-- Cuerpo lacado en el color de la mina con espacio para personalizarlo con el nombre
-- Colores vivos y intensos, ideales para el uso en la escuela primaria
 - Cuerpo hexagonal de Ø 6,8 mm y mina de Ø 3,0 mm
+- Colores vivos y intensos, ideales para el uso en la escuela primaria
+- Contiene 24 colores surtidos
 - Lápices de colores Giotto, realizados en madera de calidad
+- Cuerpo lacado en el color de la mina con espacio para personalizarlo con el nombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071XJBGNW{{</world>}}

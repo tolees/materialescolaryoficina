@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuerpo triangular de Ø 6,8 mm y mina de Ø 3,0 mm
-- El estuche incluye 24 lápices de colores acuarelables surtidos
 - Lápices de colores Giotto con mina acuarelable, realizados en madera de calidad
-- Colores vivos e intensos, ideales para el uso en la escuela primaria
+- El estuche incluye 24 lápices de colores acuarelables surtidos
 - Cuerpo lacado en el color de la mina con espacio para personalizarlo con el nombre
+- Cuerpo triangular de Ø 6,8 mm y mina de Ø 3,0 mm
+- Colores vivos e intensos, ideales para el uso en la escuela primaria
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07C84CQL9{{</world>}}

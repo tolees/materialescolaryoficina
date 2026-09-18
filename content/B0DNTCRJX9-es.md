@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clásico cuerpo hexagonal de BIC: diseño sencillo, funcional e icónico que maximiza su eficiencia; tapones del mismo color que la tinta
 - Tomar notas es fácil y rápido con la bola perfectamente redonda de este bolígrafo y su flujo de tinta constante y uniforme
 - Deja una huella más intensa con la punta de 1,6 mm; la escritura nunca ha estado tan llena de vida y colores
-- Este bolígrafo está disponible en colores clásicos y llamativos (que incluye 2 en neón); un cóctel de colores para alegrar tu cuaderno.
 - El pack de 27 tiene tintas clásicas (azul, negro, verde, rojo), alegres (turquesa, verde lima, rosa, morado) y neón (naranja, amarillo)
+- Clásico cuerpo hexagonal de BIC: diseño sencillo, funcional e icónico que maximiza su eficiencia; tapones del mismo color que la tinta
+- Este bolígrafo está disponible en colores clásicos y llamativos (que incluye 2 en neón); un cóctel de colores para alegrar tu cuaderno.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNTCRJX9{{</world>}}

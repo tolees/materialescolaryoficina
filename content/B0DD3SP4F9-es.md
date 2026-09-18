@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Inspirada en la bolsa de lona Base Camp, es una mochila sencilla pero súper duradera ideal para viajar.
-- Abertura en forma de D con cremallera y solapa
 - Asas dobles en los extremos.
+- Abertura en forma de D con cremallera y solapa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DD3SP4F9{{</world>}}

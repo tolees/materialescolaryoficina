@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ideal para rotulación con pincel, dibujos, ilustraciones o colorear
+- Rotulador de punta de fibra de alta calidad con punta de pincel de firmeza media
 - Fielidad del color en una amplia gama de superficies, incluso después de una larga exposición a la luz
 - Paquete de 6 bolígrafos de pincel de pigmento en varios colores pastel
-- Rotulador de punta de fibra de alta calidad con punta de pincel de firmeza media
 - Nueva tecnología Multi Ink con pigmentos de alta gama: combina brillo de color y resistencia extrema a la luz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Llamativo: libro de visitas y tarjetas de felicitación, decoración creativa
 - Embalaje fuerte – en caja de almacenamiento hermética y reutilizable
 - Fuegos artificiales con efecto, para pintar con detalles brillantes
+- Llamativo: libro de visitas y tarjetas de felicitación, decoración creativa
 - Diversidad multicolor: 6 colores diferentes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

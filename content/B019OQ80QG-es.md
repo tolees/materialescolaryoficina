@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Cuerpo de madera
 - punta de 2 5mm
 - Ideal para el colegio
-- Calidad alemana
 - Gama de 24 colores
+- Calidad alemana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B019OQ80QG{{</world>}}

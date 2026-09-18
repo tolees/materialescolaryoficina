@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: negro
 - Marca: staedtler
 - Tipo: base de agua
+- Color: negro
 - Diseño moderno
 
 [🛒 Aquí!!!]({{< param buyurl >}})

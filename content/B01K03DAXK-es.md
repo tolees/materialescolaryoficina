@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Papel rayado marfil 70 g/m² sin cloro, sección "In case of loss" para tu información personal.
-- Elige entre distintos tamaños y colores.
 - Cuaderno XL rigido azul zafiro, para creatividad, notas y proyectos profesionales.
+- Elige entre distintos tamaños y colores.
 - Cierre Elástico robusto y marcapáginas, bolsillo expandible posterior.
 - Faja trasera reutilizable, añade herramientas extra y biografía Moleskine. Apertura total XL.
 

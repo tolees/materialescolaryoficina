@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Exterior/forro: 100 % poliéster, revestimiento de poliuretano, EOD y EOE
+- Bolsillo para botella de agua
 - Capacidad: 18 litros
 - Bolsillo interior deslizante
-- Exterior/forro: 100 % poliéster, revestimiento de poliuretano, EOD y EOE
 - Dimensiones: 15.5 x 11.5 x 4.5 pulgadas
-- Bolsillo para botella de agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FX52T3BD{{</world>}}

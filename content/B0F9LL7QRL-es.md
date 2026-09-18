@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONTENIDO: La anualidad de la agenda incluye la información relativa a la onomástica y a los festivos nacionales. La agenda dispone también de otros contenidos extra: datos personales, calendarios, horario, planificación anual en columnas, planificación mensual cuadriculada, fechas para destacar, hojas para tareas y anotaciones y hojas para teléfonos, direcciones y e-mails.
-- MATERIAL: Poliuretano y papel 80 g/m².
-- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
 - INTERIOR: Semana Vista Horizontal. Visión de la semana completa en horizontal que permite la escritura natural. Artículo en español con anualidad multilingüe: español, inglés, portugués, gallego, catalán y euskera. Con información de los festivos de España.
+- DURACIÓN: Enero 2026 - Diciembre 2026 (12 meses)
+- MATERIAL: Poliuretano y papel 80 g/m².
+- CONTENIDO: La anualidad de la agenda incluye la información relativa a la onomástica y a los festivos nacionales. La agenda dispone también de otros contenidos extra: datos personales, calendarios, horario, planificación anual en columnas, planificación mensual cuadriculada, fechas para destacar, hojas para tareas y anotaciones y hojas para teléfonos, direcciones y e-mails.
 - Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

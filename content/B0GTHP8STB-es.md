@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Perfecto como regalo
 - 160 páginas FSC de 100 gsm
-- Set con agenda semanal pequeña y 3 bolígrafos borrables Bo-Bo
 - Tintas en azul, rojo y negro
 - Incluye pegatinas Hello Kitty y extras
-- Perfecto como regalo
+- Set con agenda semanal pequeña y 3 bolígrafos borrables Bo-Bo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GTHP8STB{{</world>}}

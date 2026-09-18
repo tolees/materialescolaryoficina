@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento impermeable con acabado hidrófugo duradero
-- Ayuda a mantener seco el contenido de la bolsa.
 - Nailon duradero de 200 D
+- Ayuda a mantener seco el contenido de la bolsa.
+- Revestimiento impermeable con acabado hidrófugo duradero
 - Correa ajustable para el hombro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

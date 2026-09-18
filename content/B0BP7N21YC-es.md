@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HYC00 Mochila Escolar Adolescente Mochilas de Mujer para Ordenador Portatil 14" Impermeable Bolsillo Antirrobo Mochila Universidad Mujer Grande Ligera Mochilas Colegio Instituto School Backapck Negro'
-date: 2026-09-14 16:09:22
+date: 2026-09-17 19:54:13
 image: 'https://m.media-amazon.com/images/I/31Zd6Ntnb4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

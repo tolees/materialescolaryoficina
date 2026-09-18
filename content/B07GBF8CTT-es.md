@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con cuerpo de plástico amarillo fluo y con botón a presión que facilita la recarga de grapas y visor de grapas.
-- Grapas: 24/6 26/6.
-- No incluye grapas.
 - Capacidad de grapado: 20 hojas (2,2 mm).
+- No incluye grapas.
+- Grapas: 24/6 26/6.
+- Con cuerpo de plástico amarillo fluo y con botón a presión que facilita la recarga de grapas y visor de grapas.
 - Capacidad de carga aproximada: 70 grapas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

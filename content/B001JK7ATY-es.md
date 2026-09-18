@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - No ensucia las manos y no raya
-- Antipolvo, para minimizar los riesgos de alergia
-- Dermatológicamente testada
 - Tiza de la Champagne (Francia)
+- Dermatológicamente testada
+- Antipolvo, para minimizar los riesgos de alergia
 - Especialmente recomendada para niños con problemas asmáticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
