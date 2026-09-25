@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Kids Ceras de Colores para Niños Plastidecor Colores Surtidos Óptimo Para Colorear y Dibujar Material Escolar 36 Unidad Paquete de 1 Clásico Modelo Surtido'
-date: 2026-09-19 17:27:55
+date: 2026-09-22 20:10:10
 image: 'https://m.media-amazon.com/images/I/51hQ8BQLIkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JQJ54MK/?tag=tolees-21'
 descuento: '22.25'
-average: '6.92283783783786'
+average: '6.92545454545457'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

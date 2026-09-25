@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Tipp-Ex Cinta Correctora Blanca de Bolígrafos Óptimo para Material Escolar Micro Tape Twist 8m x 5mm Con Cabezal Rotativo Caja de 10'
-date: 2026-09-20 16:41:35
+date: 2026-09-23 15:52:38
 image: 'https://m.media-amazon.com/images/I/41l32mcYKnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B001PH60OM/?tag=tolees-21'
 descuento: '20.15'
-average: '15.4481578947369'
+average: '15.4882500000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

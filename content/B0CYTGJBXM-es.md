@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THE NORTH FACE NF0A52VYJK31 Y COURT JESTER Sports backpack Unisex TNF BLACK Tamaño OS'
-date: 2026-09-04 21:08:01
+date: 2026-09-25 17:39:19
 image: 'https://m.media-amazon.com/images/I/31cVI5TFbiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CYTGJBXM-es THE NORTH FACE NF0A52VYJK31 Y COURT JESTER Sports backpack...'
 sku: 'B0CYTGJBXM-es'
 tags: [ 'backpack','🇪🇸', ]
-actualPrice: 46.95 EUR
+actualPrice: 47.06 EUR
 currency: EUR
-price: 46.95
+price: 47.06
 comparePrice: 57.0 EUR
 prodname: 'THE NORTH FACE NF0A52VYJK31 Y COURT JESTER Sports backpack Unisex TNF BLACK Tamaño OS'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CYTGJBXM/?tag=tolees-21'
-descuento: '17.63'
-average: '44.3333333333333'
+descuento: '17.44'
+average: '45.015'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos bolsillos para botellas de agua
-- Amplio compartimento interno con cremallera
-- Reflectividad de 360 grados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYTGJBXM{{</world>}}

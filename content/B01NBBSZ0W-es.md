@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Calidad alemana
 - Punta 0.4 mm de fibra con refuerzo de metal
 - Gama de 46 colores
-- Calidad alemana
 - Ideal para mandalas y arte terapia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

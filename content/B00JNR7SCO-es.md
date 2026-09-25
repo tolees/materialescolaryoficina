@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diámetro de la bola: 0.5 mm
-- Punta de aguja; mina Retractil
 - Tinta resistente al agua
+- Punta de aguja; mina Retractil
+- Diámetro de la bola: 0.5 mm
 - Ancho de línea: F
 
 [🛒 Visítala!!!]({{< param buyurl >}})

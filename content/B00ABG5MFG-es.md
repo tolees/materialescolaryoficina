@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Marcadores metalizados de punta redonda, con tinta pigmentada en base de agua, para uso inmediato, sin agitado ni bombeo.
-- Marcadores idóneos para escribir sobre papel y cartulinas claros y oscuros, así como pizarras de cristal.
-- Puede borrarse fácilmente de superficies lisas como cristales y espejos usando un paño húmedo
-- Recomendados para trabajos de manualidades, DIY, hazlo tú mismo, tarjetas, decoración, regalos, scrapbooking.
 - Rotuladores de punta fina, 1-2 mm, de colores: oro y plata. Destacan idóneamente sobre fondos negros.
+- Recomendados para trabajos de manualidades, DIY, hazlo tú mismo, tarjetas, decoración, regalos, scrapbooking.
+- Puede borrarse fácilmente de superficies lisas como cristales y espejos usando un paño húmedo
+- Marcadores idóneos para escribir sobre papel y cartulinas claros y oscuros, así como pizarras de cristal.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ABG5MFG{{</world>}}

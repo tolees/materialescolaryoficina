@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- HB (con 2, 2 mm de diámetro
-- Estrecho vástago
+- Triangular ergonómica de lápiz para diestros
 - Antideslizante mango
 - De madera con certificado PEFC
-- Triangular ergonómica de lápiz para diestros
+- HB (con 2, 2 mm de diámetro
+- Estrecho vástago
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HFLS737{{</world>}}

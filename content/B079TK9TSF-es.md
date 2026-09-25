@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Calidad Alemana
 - 2 anchos de trazo: 2 y 5 mm
+- Calidad Alemana
 - Colores pastel
 - Tecnología Anti-Secado STABILO: 4 horas destapado sin secarse
 - Modelo plano de bolsillo, ideal para la generacióm móbil

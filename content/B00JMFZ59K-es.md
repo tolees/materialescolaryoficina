@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Petrus 44709 - Grapadora Metálica de Oficina Mod. 226C Capacidad 30 Hojas Tecnología de Impacto Directo Patentada Apertura 180° para Grapado Cerrado Abierto y Clavado Acabado Cromado Elegante'
-date: 2026-09-19 07:49:07
+date: 2026-09-24 09:03:05
 image: 'https://m.media-amazon.com/images/I/41CgW3Ft6QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dimensiones: 47 x 30 x 18 cm (capacidad: 25 litros)
-- Asas de hombro: mochila escolar con asas de hombro acolchadas y tira ajustable al pecho con hebilla de apertura rápida
 - Compartimentos: dos principales, un pequeño bolsillo delantero y otro más pequeño, todos con cremallera. Dos bolsillos laterales para botellas y un bolsillo afelpado para gafas. Base acolchada. Bolsillo térmico delantero mantiene frescos alimentos
 - Compartimento para portátil: funda acolchada para portátil en el compartimento principal (para portátiles de hasta 15 pulgadas)
+- Asas de hombro: mochila escolar con asas de hombro acolchadas y tira ajustable al pecho con hebilla de apertura rápida
 - Material: 100 % poliéster reciclado. Material aprobado por Bluesign
 
 [🛒 Aquí!!!]({{< param buyurl >}})

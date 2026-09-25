@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Kids Lápices de Colores para Niños Óptimo para material escolar Tropicolors Colores Surtidos 2 9mm Blíster de 24'
-date: 2026-09-17 05:17:42
+date: 2026-09-24 18:45:42
 image: 'https://m.media-amazon.com/images/I/417uFgsoxpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B006QW7Z7M/?tag=tolees-21'
 descuento: '22.04'
-average: '3.72925925925925'
+average: '3.73160583941605'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

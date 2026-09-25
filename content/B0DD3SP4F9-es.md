@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THE NORTH FACE NF0A52TG53R BC TRAVEL CANISTER - S Sports backpack Hombre TNF Black-TNF White-NPF Tamaño OS'
-date: 2026-08-31 20:21:54
+date: 2026-09-22 19:46:01
 image: 'https://m.media-amazon.com/images/I/21uoo+DKudL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DD3SP4F9-es THE NORTH FACE NF0A52TG53R BC TRAVEL CANISTER - S Sports...'
 sku: 'B0DD3SP4F9-es'
 tags: [ 'backpack','🇪🇸', ]
-actualPrice: 28.0 EUR
+actualPrice: 30.95 EUR
 currency: EUR
-price: 28.0
+price: 30.95
 comparePrice: 37.0 EUR
 prodname: 'THE NORTH FACE NF0A52TG53R BC TRAVEL CANISTER - S Sports backpack Hombre TNF Black-TNF White-NPF Tamaño OS'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DD3SP4F9/?tag=tolees-21'
-descuento: '24.32'
-average: '28.0'
+descuento: '16.35'
+average: '28.9833333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Asas dobles en los extremos.
-- Abertura en forma de D con cremallera y solapa
-- Inspirada en la bolsa de lona Base Camp, es una mochila sencilla pero súper duradera ideal para viajar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DD3SP4F9{{</world>}}

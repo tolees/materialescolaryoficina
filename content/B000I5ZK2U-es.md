@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bic Cristal Original 8373631 - Caja de 50 Unidades Bolígrafos Punta Media 1 0 Mm Color Negro'
-date: 2026-09-20 05:22:29
+date: 2026-09-25 10:16:52
 image: 'https://m.media-amazon.com/images/I/41Ybt+3b4eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000I5ZK2U/?tag=tolees-21'
 descuento: '35.52'
-average: '10.3614516129033'
+average: '10.3235937500001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

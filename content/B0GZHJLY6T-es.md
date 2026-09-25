@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grupo Erik Agenda escolar 2026 2027 Semana Vista Ana Marin en Español'
-date: 2026-09-18 07:01:05
+date: 2026-09-22 15:08:06
 image: 'https://m.media-amazon.com/images/I/51U5ih3EzeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GZHJLY6T/?tag=tolees-21'
 descuento: '29.87'
-average: '14.4066666666667'
+average: '14.3025'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

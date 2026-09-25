@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Rotulador turbocolor
-- Tintas seguras de base de agua, de muy larga duración y lavables de la piel con agua y jabón
-- Se pueden eliminar de la ropa utilizando un ciclo normal de lavado a máquina de 40º
-- Bote de 96 unidades
-- 12 colores por 8 unidades de cada color (repetidos)
 - Colores surtidos
+- 12 colores por 8 unidades de cada color (repetidos)
+- Tintas seguras de base de agua, de muy larga duración y lavables de la piel con agua y jabón
+- Bote de 96 unidades
+- Se pueden eliminar de la ropa utilizando un ciclo normal de lavado a máquina de 40º
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B001AO2GRA{{</world>}}

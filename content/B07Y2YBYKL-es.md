@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tintas a base de agua, de muy larga duración y lavables de la piel con agua y jabón
 - Punta resistente de Ø 5 mm
-- Rotulador completo gracias a su tapón de seguridad
 - Capuchón ventilado y punta bloqueada que no se hunde
 - 2 x 24 colores
+- Rotulador completo gracias a su tapón de seguridad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Y2YBYKL{{</world>}}

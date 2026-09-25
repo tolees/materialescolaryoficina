@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ACUARELABLE Y MEZCLABLE – Totalmente soluble en agua; permite transiciones suaves, degradados armoniosos y efectos intensos para pintura acuarelada.
 - COLOR Rojo BRILLANTE – Lápiz acuarelable altamente pigmentado con intensa liberación de color; ideal para dibujos, bocetos, acuarelas y técnicas mixtas.
 - ALTA CALIDAD – Mina gruesa de 3,6 mm resistente a la rotura; resistente a la luz, de alta intensidad de color y fabricada de manera sostenible con madera certificada.
 - DISEÑO HEXAGONAL ERGONÓMICO – Diseño clásico que garantiza un agarre cómodo y preciso; perfecto para escuela, estudio o uso artístico.
+- ACUARELABLE Y MEZCLABLE – Totalmente soluble en agua; permite transiciones suaves, degradados armoniosos y efectos intensos para pintura acuarelada.
 - COMPATIBLE CON ACCESORIOS – Para mejores resultados, se recomienda el sacapuntas doble Mars 510 25 o Noris 512 002; combinable con otros lápices acuarelables STAEDTLER.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

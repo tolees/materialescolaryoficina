@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MATEIN Mochila Viaje Cabina Avion 55x35x25 Expandible Mochila Cabina Avion'
-date: 2026-09-19 09:15:56
+date: 2026-09-22 14:37:29
 image: 'https://m.media-amazon.com/images/I/41W-at4mpNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

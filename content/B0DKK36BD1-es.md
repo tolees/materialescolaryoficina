@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Artículo : Beanie
 - Detalles : Detalle del logo
 - Modo de vida : Al aire libre
-- Artículo : Beanie
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKK36BD1{{</world>}}

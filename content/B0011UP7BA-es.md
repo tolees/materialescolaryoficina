@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alta pigmentación que garantiza gran luminosidad y opacidad
-- Gama de 60 colores
-- Los asteriscos indican la resistencia a la luz
 - Lápiz de color tiza-pastel
 - Trazo seco
+- Gama de 60 colores
+- Alta pigmentación que garantiza gran luminosidad y opacidad
+- Los asteriscos indican la resistencia a la luz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0011UP7BA{{</world>}}

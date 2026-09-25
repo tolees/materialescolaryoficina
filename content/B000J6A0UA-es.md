@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Se puede limpiar con un paño húmedo
 - Tinta soluble en agua y de secado rápido
 - Rotulador universal para escribir sobre casi todas las superficies
 - Ancho medio de la línea de 1.0 mm
-- Se puede limpiar con un paño húmedo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000J6A0UA{{</world>}}

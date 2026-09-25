@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bloc con tapa de cartón de color, esquinas redondeadas y hojas rayadas
 - 16 páginas desprendibles, bolsillo, historia Moleskine
 - Perfecto para notas laborales, universitarias o creatividad con lápices y colores
-- Papel marfil sin ácido, calibrado para creatividad y adaptable a todo útil
 - El cuaderno Cahier rosa cinético es un diario con tapa robusta de cartón flexible, personalizable y costura en el lomo
+- Bloc con tapa de cartón de color, esquinas redondeadas y hojas rayadas
+- Papel marfil sin ácido, calibrado para creatividad y adaptable a todo útil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07J3H1DQM{{</world>}}

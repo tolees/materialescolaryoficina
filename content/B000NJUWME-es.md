@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fellowes Pack de 100 fundas plastificar A4 brillo formato A4 80 micras con flechas direccionales ImageLast fundas para plastificadora adecuadas para fotos y avisos'
-date: 2026-09-20 08:03:13
+date: 2026-09-21 14:33:23
 image: 'https://m.media-amazon.com/images/I/412j4Jy71LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NJUWME/?tag=tolees-21'
 descuento: '35.04'
-average: '7.86358208955223'
+average: '7.82376811594202'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

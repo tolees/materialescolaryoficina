@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuadrícula 5x5, enmarcado con cabecera para la identificación del tema, poner la fecha, etc. 8 colores de banda para varios temas o asignaturas en un mismo cuaderno, 1 color para cada asignatura o tema
-- Cuaderno A4+ con tapas de plástico opaco para los que buscan resistencia y ligereza. Cantos romos para evitar que las tapas se deterioren y aguanten todo el curso
-- Papel OptikPaper: un papel exclusivo de Oxford único por su opacidad, lisura y satinado. La tinta no traspasa de un lado a otro ni se dispersa, resistente a la presión del lápiz y al borrado. Permite la escritura en ambas caras de la hoja
 - Compatible con la aplicación gratuita SCRIBZEE de OXFORD que permite escanear tus notas manuscritas para poder tenerlas en el móvil, tablet u ordenador
+- Papel OptikPaper: un papel exclusivo de Oxford único por su opacidad, lisura y satinado. La tinta no traspasa de un lado a otro ni se dispersa, resistente a la presión del lápiz y al borrado. Permite la escritura en ambas caras de la hoja
+- Cuaderno A4+ con tapas de plástico opaco para los que buscan resistencia y ligereza. Cantos romos para evitar que las tapas se deterioren y aguanten todo el curso
+- Cuadrícula 5x5, enmarcado con cabecera para la identificación del tema, poner la fecha, etc. 8 colores de banda para varios temas o asignaturas en un mismo cuaderno, 1 color para cada asignatura o tema
 - 160 Hojas microperforadas para poder arrancarlas fácilmente y archivarlas, compatibles con Europeanbinders, carpetas de anillas y archivador palanca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mini bolígrafo de grabado inalámbrica con 48 kits y pantalla led pluma inalámbrica de 5 velocidades para metal madera vidrio plástico y todos los materiales regalo de artesanía recargable USB'
-date: 2026-09-17 17:57:39
+date: 2026-09-21 06:38:13
 image: 'https://m.media-amazon.com/images/I/41waLmBwfzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0GQ9QNKC1-es Mini bolígrafo de grabado inalámbrica con 48 kits y...'
 sku: 'B0GQ9QNKC1-es'
 tags: [ 'bolígrafo','🇪🇸', ]
-actualPrice: 28.49 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 28.49
+price: 29.99
 comparePrice: 39.99 EUR
 prodname: 'Mini bolígrafo de grabado inalámbrica con 48 kits y pantalla led pluma inalámbrica de 5 velocidades para metal madera vidrio plástico y todos los materiales regalo de artesanía recargable USB'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GQ9QNKC1/?tag=tolees-21'
-descuento: '28.76'
-average: '29.3471428571428'
+descuento: '25.01'
+average: '29.4274999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

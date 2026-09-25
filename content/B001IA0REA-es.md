@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calidad alemana
 - Forma hexagonal clásica
-- Fabricado con madera certificada fsc
 - Gama de 24 colores
+- Calidad alemana
+- Fabricado con madera certificada fsc
 - Diseño de rayas blancas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tracer Lápiz de construcción de agujero profundo con funda Site 120 mm lápiz de construcción extensible 2B con sacapuntas integrado'
-date: 2026-09-18 16:54:22
+date: 2026-09-25 10:27:11
 image: 'https://m.media-amazon.com/images/I/41S9LNo-abL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

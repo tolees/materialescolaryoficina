@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
 - Gran capacidad
+- Tiene detalles distintivos de la marca
 - Producto de calidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

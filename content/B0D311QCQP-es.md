@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran capacidad
 - Mochila de uso diario
+- Gran capacidad
 - Tiene detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

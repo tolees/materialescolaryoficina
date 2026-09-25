@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Compartimento para zapatillas
-- Estructura reforzada
 - Compartimento para raquetas
+- Estructura reforzada
 - Dos bolsillos laterales de malla
 - Hauptfach
 

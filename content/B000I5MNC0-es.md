@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Graduaciones: 8B, 7B, 6B, 5B, 4B, 3B, 2B, B, HB, F, H, 2H
-- Barniz a base de agua
 - Especial para grabados, dibujos, bellas artes y escritura.
+- Barniz a base de agua
 - Estuche metal que contiene 12 lápices Castell 9000
 - Mina protegida contra la rotura gracias a su proceso de encolado SV
 

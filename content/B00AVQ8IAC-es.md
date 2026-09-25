@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STABILO - bolígrafo retráctil - pointball'
-date: 2026-09-14 17:34:46
+date: 2026-09-25 06:27:15
 image: 'https://m.media-amazon.com/images/I/61i5HPCN0ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

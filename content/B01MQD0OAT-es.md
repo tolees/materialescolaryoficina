@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpino AL010600 - Lápices de colores 36 unidades'
-date: 2026-09-19 08:21:23
+date: 2026-09-24 03:37:31
 image: 'https://m.media-amazon.com/images/I/51Lu73ngHxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQD0OAT/?tag=tolees-21'
 descuento: '31.54'
-average: '7.28090909090909'
+average: '7.17823529411765'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

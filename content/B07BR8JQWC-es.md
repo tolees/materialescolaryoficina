@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paper Mate Flexgrip Ultra bolígrafo retráctil | punta mediana 1 0 mm | negro | paquete de 5'
-date: 2026-09-15 20:55:40
+date: 2026-09-21 18:37:07
 image: 'https://m.media-amazon.com/images/I/510ek+JKppL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BR8JQWC/?tag=tolees-21'
 descuento: '54.42'
-average: '8.06583333333334'
+average: '7.78357142857143'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

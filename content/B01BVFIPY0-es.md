@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No permite impresión
+- No es científica
 - La marca es Milan
 - El tipo de alimentación es Pilas
-- No es científica
 - El número de dígitos es 10, el formato es pequeño
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

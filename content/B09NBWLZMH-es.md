@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Renew Business Backpack Mochila para Portátil de 17.3 pulgadas Poliéster Reciclado Resistente al Agua Cremallera Negro'
-date: 2026-09-17 19:05:34
+date: 2026-09-25 11:47:51
 image: 'https://m.media-amazon.com/images/I/31hfIgaWT4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09NBWLZMH/?tag=tolees-21'
 descuento: '35.01'
-average: '30.6334615384617'
+average: '30.4614814814816'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

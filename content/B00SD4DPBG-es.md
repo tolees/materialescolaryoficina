@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Punta acero inoxidable
 - Colores básicos
 - Tinta de gel; especial para mándalas
-- Punta acero inoxidable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00SD4DPBG{{</world>}}

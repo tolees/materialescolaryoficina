@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correas acolchadas ajustables
 - Empuñadura superior
 - Compartimento principal con cremallera y bolsillo con cremallera
 - Mochilas Kipling Faster Solar Navy C
+- Correas acolchadas ajustables
 - Bolsillo frontal con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

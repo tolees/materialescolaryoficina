@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño DIN A4. 80 hojas
 - Color azul
-- Tapa dura, de cartón brillo
+- Tamaño DIN A4. 80 hojas
 - Con cuadrícula C5
+- Tapa dura, de cartón brillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JMD36CK{{</world>}}

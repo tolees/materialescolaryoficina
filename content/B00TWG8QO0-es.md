@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ideal para colorear, dibujar, caligrafiar y escribir a mano
-- Excelente para niños y adultos, para usar tanto en la escuela como en su tiempo libre
 - CRAYOLA LAVABILISSIMI: rotuladores en 12 colores surtidos brillantes y vivos; un nuevo nivel de lavabilidad con la fórmula Ultra-Clean Washable
-- ULTRA LAVABLES: Fáciles de lavar en piel y en tejidos con agua fría a 30° y también de superficies no porosas
 - PUNTA MAXI: Punta maxi cónica súper resistente, ideal para colorear grandes superficies y para dibujar con líneas delgadas
+- Excelente para niños y adultos, para usar tanto en la escuela como en su tiempo libre
+- ULTRA LAVABLES: Fáciles de lavar en piel y en tejidos con agua fría a 30° y también de superficies no porosas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TWG8QO0{{</world>}}

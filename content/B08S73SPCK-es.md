@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STABILO - rotulador punta fina - point 88'
-date: 2026-09-14 19:44:34
+date: 2026-09-24 21:21:08
 image: 'https://m.media-amazon.com/images/I/41CbZ0G7oqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08S73SPCK/?tag=tolees-21'
 descuento: '23.94'
-average: '16.881'
+average: '16.8407142857142'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

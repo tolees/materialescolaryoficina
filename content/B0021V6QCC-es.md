@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lápices de colores hexagonales barnizados en el color de la mina
-- Fáciles de afilar, ideales para el colegio
 - Lápices de Ø 6,8 mm de grosor con mina de calidad superior, de diámetro Ø 3,3 mm
-- Colores alegres e intensos
 - Disponen de espacio para escribir el nombre
+- Fáciles de afilar, ideales para el colegio
+- Colores alegres e intensos
+- Lápices de colores hexagonales barnizados en el color de la mina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0021V6QCC{{</world>}}

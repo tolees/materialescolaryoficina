@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 24 colores intensos y pegatinas de unicornios: tonos vivos para imágenes creativas, mandalas y proyectos escolares
-- Forma ergonómica del lápiz: forma hexagonal para un agarre seguro y un dibujo agradable
 - Minuscle resistentes a roturas: robustas y duraderas, ideales también para un uso intensivo
 - Diseño mágico de unicornio: el divertido motivo de unicornio entusiasma a los pequeños artistas
+- 24 colores intensos y pegatinas de unicornios: tonos vivos para imágenes creativas, mandalas y proyectos escolares
+- Forma ergonómica del lápiz: forma hexagonal para un agarre seguro y un dibujo agradable
 - Estuche práctico: para guardar todo en orden y adecuado para llevar de viaje, al colegio o para el tiempo libre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dimensiones: aprox. 16,4 x 6,5 x 1,2 cm, embalado en un estuche de cartón a juego
-- Diseño: TOPModel by Depesche
-- Todos los rotuladores tienen una punta ancha y otra fina, lo que los hace adecuados para colorear grandes áreas, escribir y rotular a mano.
 - Incluye 6 bolígrafos de colores pastel: rosa, naranja, morado, menta, azul claro y amarillo.
 - Pack de 6 bolígrafos para niñas y mentes creativas
+- Diseño: TOPModel by Depesche
+- Todos los rotuladores tienen una punta ancha y otra fina, lo que los hace adecuados para colorear grandes áreas, escribir y rotular a mano.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F8N92LY1{{</world>}}

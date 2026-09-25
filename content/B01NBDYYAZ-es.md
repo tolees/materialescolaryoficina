@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CARACTERÍSTICAS: 80 hojas de 110 grs, tamaño 29.7x21 cm, grano fino
 - USO: Perfecto para dibujar con carboncillo, a lápiz, rotulador, ceras o pinturas
-- BELLAS ARTES: El regalo perfecto para amantes del arte y el diseño, también para niños incursionando en el arte
-- ALTA CALIDAD: Papel de excelente calidad para mantener tus dibujos en perfecto estado
 - BLOC DE DIBUJO: contiene una tapa blanda ideal para todo tipos de trabajos secos, sujeta en doble espiral, tanto para artistas profesionales como principiantes
+- CARACTERÍSTICAS: 80 hojas de 110 grs, tamaño 29.7x21 cm, grano fino
+- ALTA CALIDAD: Papel de excelente calidad para mantener tus dibujos en perfecto estado
+- BELLAS ARTES: El regalo perfecto para amantes del arte y el diseño, también para niños incursionando en el arte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NBDYYAZ{{</world>}}

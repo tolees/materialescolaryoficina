@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr. Wonderful - Set Agenda escolar 2026-2027 Semanal Pequeña + 3 Bolígrafos Borrables – Planificador Compacto con Pegatinas y Extras – Ready'
-date: 2026-09-18 07:37:15
+date: 2026-09-22 16:32:52
 image: 'https://m.media-amazon.com/images/I/41V1DXB5uCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

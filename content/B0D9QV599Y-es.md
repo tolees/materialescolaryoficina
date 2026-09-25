@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Respaldo ergonómico en forma de cubo que se amolda a la forma de la espalda
-- Acabado de calidad con funda de poliuretano fácil de limpiar, costuras y logotipo totalmente bordados, reposabrazos acolchados
-- Robusta estructura de acero, la silla de juego está diseñada para resistir el paso del tiempo gracias a su mecanismo de ajuste "gas lift" de clase 3
-- Altura regulable y función mecedora
 - Asiento cómodo con espuma de alta densidad, de 5 cm de grosor para una sentada prolongada y optimizado para una larga vida útil de la silla
+- Respaldo ergonómico en forma de cubo que se amolda a la forma de la espalda
+- Altura regulable y función mecedora
+- Robusta estructura de acero, la silla de juego está diseñada para resistir el paso del tiempo gracias a su mecanismo de ajuste "gas lift" de clase 3
+- Acabado de calidad con funda de poliuretano fácil de limpiar, costuras y logotipo totalmente bordados, reposabrazos acolchados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9QV599Y{{</world>}}

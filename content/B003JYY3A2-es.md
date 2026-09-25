@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER Noris 120 Lápices – HB pack 6 hexagonal'
-date: 2026-09-19 18:04:24
+date: 2026-09-24 13:40:34
 image: 'https://m.media-amazon.com/images/I/41Pr8wYNoEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JYY3A2/?tag=tolees-21'
 descuento: '41.40'
-average: '3.88363636363636'
+average: '3.87846153846155'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Academy Team Sports Backpack Unisex University Red/Black/White MISC'
-date: 2026-09-19 17:38:29
+date: 2026-09-22 06:44:46
 image: 'https://m.media-amazon.com/images/I/41cToEf2T6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08R3THMSG/?tag=tolees-21'
 descuento: '30.31'
-average: '22.198'
+average: '22.2911764705882'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

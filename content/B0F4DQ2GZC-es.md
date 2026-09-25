@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bolsillo frontal con cremallera
-- Tejido técnico resistente
-- Dimensiones: 44 × 31 cm
 - 100% poliéster (100% reciclado)
 - Capacidad: 22,83 L
+- Dimensiones: 44 × 31 cm
+- Tejido técnico resistente
 - Correas ajustables y acolchadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

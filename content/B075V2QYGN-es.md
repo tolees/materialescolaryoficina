@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punta de fibra que no se deforma
 - Aptos para casi todas las superficies punta cónica media de 1mm de trazo
 - Más de 1000 metros de escritura
+- Punta de fibra que no se deforma
 - Color verde
 - Marcador industrial con cuerpo de aluminio
 

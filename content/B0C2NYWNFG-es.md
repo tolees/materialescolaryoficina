@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DYMO LetraTag LT-100H etiquetadora | Impresora de etiquetas portátil | Teclado ABC / Pantalla LCD de 13 caracteres | Perfecta para la oficina o para el hogar | Rosa'
-date: 2026-09-14 14:02:19
+date: 2026-09-25 10:40:11
 image: 'https://m.media-amazon.com/images/I/41zF3TLunHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C2NYWNFG/?tag=tolees-21'
 descuento: '38.17'
-average: '33.304'
+average: '33.03'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
