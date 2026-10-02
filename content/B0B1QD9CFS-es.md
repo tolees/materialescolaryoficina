@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Lápices de color con mina permanente, intensa y brillante para conseguir contornos finos y exactos, así como para zonas de colores vivos
-- Fabricados con madera de cedro con certificación PEFC
-- Lápiz de color redondo de la más alta calidad con un trazo suave y brillante
 - Ideal para colorear y dibujar tanto en blanco como en papeles de color
+- Lápiz de color redondo de la más alta calidad con un trazo suave y brillante
+- Fabricados con madera de cedro con certificación PEFC
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B1QD9CFS{{</world>}}

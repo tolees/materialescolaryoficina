@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Correa acolchada
-- Correa ajustable
 - CREMALLERA
+- Correa ajustable
+- Correa acolchada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09NYGYSM7{{</world>}}

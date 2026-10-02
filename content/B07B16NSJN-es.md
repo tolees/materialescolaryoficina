@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Papel marfil sin ácido 70 g/m², Páginas Punteadas. 16 páginas traseras desprendibles
-- Cuadernos flexibles y ligeros para tomar notas diarias y uso académico
+- Las tapas de cartón añaden un toque artesanal, las 16 últimas páginas desprendibles son perfectas para listas y notas a compartir
 - Disponibles en paquetes de tres, permiten desarrollar diferentes proyectos, tareas y planes
 - Set de 3 cuadernos negros, large 13x21 cm
-- Las tapas de cartón añaden un toque artesanal, las 16 últimas páginas desprendibles son perfectas para listas y notas a compartir
+- Cuadernos flexibles y ligeros para tomar notas diarias y uso académico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07B16NSJN{{</world>}}

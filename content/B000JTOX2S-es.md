@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Apto para 4 cajas de archivo (lomo 80 mm), 3 cajas de archivo (lomo 100 mm), 5 archivadores de palanca A4, 40 carpetas colgantes A4 o 8 carpetas de anillas
+- Cartón de doble grosor en paredes y base, material 100% reciclado y reciclable, certificación FSC
+- Montaje automático Fastfold, mucho más rápido y sencillo que el montaje manual
 - Apilable a 4 alturas
 - Permite guardar y conservar los documentos, carpetas, archivadores, dossiers, etc. que ya no vas a utilizar de forma frecuente
-- Montaje automático Fastfold, mucho más rápido y sencillo que el montaje manual
-- Cartón de doble grosor en paredes y base, material 100% reciclado y reciclable, certificación FSC
-- Apto para 4 cajas de archivo (lomo 80 mm), 3 cajas de archivo (lomo 100 mm), 5 archivadores de palanca A4, 40 carpetas colgantes A4 o 8 carpetas de anillas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000JTOX2S{{</world>}}

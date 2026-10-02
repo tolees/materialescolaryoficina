@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ALTA RESISTENCIA
-- Lograr el cumplimiento
-- No inflamable
 - Resistente al agua
+- No inflamable
+- Lograr el cumplimiento
 - Ligero y cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

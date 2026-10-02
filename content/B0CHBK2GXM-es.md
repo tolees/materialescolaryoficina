@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Polvera Aqua Make up Blanco. Colores versátiles: ¡siéntete todo un artista! Crea colores únicos y llamativos con las polveras alpino, mézclalas fácilmente y obtén combinaciones increíbles que te ayudarán a elevar tu look en tan solo unos minutos. ¡Ideales para todas las ocasiones!
-- Fácil de aplicar: ¡usar las polveras alpino es muy sencillo! Solo debes añadir un poco de agua con un pincel y deslizarlo suavemente sobre la polvera, haz el diseño que quieras y espera unos minutos, esta se secará rápidamente. No es necesario aplicar base u otro producto cosmético sobre la piel antes de poner el maquillaje.
-- Son aptas para aplicar sobre pieles delicadas y no tienen olor.
 - Base agua: Su fórmula base agua hace que sean muy fáciles de quitar, retira la pintura con un poco de agua y jabón, frotando suavemente la piel durante unos segundos
+- Polvera Aqua Make up Blanco. Colores versátiles: ¡siéntete todo un artista! Crea colores únicos y llamativos con las polveras alpino, mézclalas fácilmente y obtén combinaciones increíbles que te ayudarán a elevar tu look en tan solo unos minutos. ¡Ideales para todas las ocasiones!
+- Son aptas para aplicar sobre pieles delicadas y no tienen olor.
+- Fácil de aplicar: ¡usar las polveras alpino es muy sencillo! Solo debes añadir un poco de agua con un pincel y deslizarlo suavemente sobre la polvera, haz el diseño que quieras y espera unos minutos, esta se secará rápidamente. No es necesario aplicar base u otro producto cosmético sobre la piel antes de poner el maquillaje.
 - Suaves con la piel: Las polveras Alpino están fabricadas con ingredientes de calidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

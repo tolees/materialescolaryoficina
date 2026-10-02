@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics Mochila Clásica/de Diario/Escolar Negro 1 Unidad'
-date: 2026-09-26 21:23:46
+date: 2026-09-30 02:08:51
 image: 'https://m.media-amazon.com/images/I/31x6KU8uU8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B013TGEJEE/?tag=tolees-21'
 descuento: '50.00'
-average: '10.4561904761904'
+average: '10.2843478260869'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

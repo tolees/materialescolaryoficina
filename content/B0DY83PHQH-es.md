@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con etiqueta de identificación en la parte trasera para escribir el nombre.
-- Tirantes anchos y ajustables que se adaptan perfectamente a la espalda.
 - Mochila de 23 cm x 25 cm x 10 cm fabricada en Poliéster.
+- Tirantes anchos y ajustables que se adaptan perfectamente a la espalda.
 - Dos bolsillos laterales y bolsillo frontal para guardar la botellita de agua, pequeños accesorios y el almuerzo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

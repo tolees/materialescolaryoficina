@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr. Wonderful - Agenda escolar 2026-2027 Diaria con Espiral y Pegatinas – Planificador Diario Completo Septiembre 2026 a Agosto 2027 con Extras – Si la vida te da limones'
-date: 2026-09-16 11:53:38
+date: 2026-10-01 07:37:15
 image: 'https://m.media-amazon.com/images/I/51o6lJDD-+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTHNZ7Z1/?tag=tolees-21'
 descuento: '30.07'
-average: '15.35'
+average: '12.28'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

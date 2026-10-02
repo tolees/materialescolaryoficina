@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bolígrafo
 - 0
-- Diseño y funcionalidad
 - 0
+- Diseño y funcionalidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DG62Q5T{{</world>}}

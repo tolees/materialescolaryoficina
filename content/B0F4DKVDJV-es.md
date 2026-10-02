@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Capacidad: 27,5 l
+- Dimensiones: 15 cm x 31 cm x 44 cm
 - Bolsillos laterales sin cierre
 - Bolsillo frontal con cremallera
 - Correas acolchadas y ajustables para los hombros
-- Capacidad: 27,5 l
-- Dimensiones: 15 cm x 31 cm x 44 cm
 - 100% poliéster (reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

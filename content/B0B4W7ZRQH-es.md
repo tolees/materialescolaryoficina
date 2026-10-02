@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con una gran cremallera central
-- De la marca Totto
 - Para ir a clase con todo lo necesario
+- De la marca Totto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4W7ZRQH{{</world>}}

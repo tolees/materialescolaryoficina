@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Este blíster contiene 3 dispensadores de cinta correctora blanca aptos para diestros y zurdos en rosa, morado y azul (para todos los gustos)
-- Diseñada para deslizarse suavemente por la página sin atascarse, y además se puede rebobinar
 - Tipp-Ex Micro Tape Twist es una cinta correctora bastante ingeniosa: el cabezal giratorio patentado protege la punta de posibles daños
+- Diseñada para deslizarse suavemente por la página sin atascarse, y además se puede rebobinar
+- Este blíster contiene 3 dispensadores de cinta correctora blanca aptos para diestros y zurdos en rosa, morado y azul (para todos los gustos)
 - Esta película de plástico ultrarresistente aplica cinta correctora blanca con una gran cobertura y que no requiere tiempo de secado
 - Dentro del Tipp-Ex Micro Tape Twist hay 8m de cinta correctora
 

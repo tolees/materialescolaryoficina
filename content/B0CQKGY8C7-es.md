@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STABILO - rotulador punta fina - point 88'
-date: 2026-09-24 12:12:17
+date: 2026-10-01 05:47:54
 image: 'https://m.media-amazon.com/images/I/61LQNBjWqHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

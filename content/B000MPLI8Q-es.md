@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Superficie antideslizante y suave al tacto
-- Indeleble
 - Forma triangular ergonómica
-- Mina estándar de gran capacidad
+- Indeleble
+- Superficie antideslizante y suave al tacto
 - Gran comodidad al escribir
+- Mina estándar de gran capacidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000MPLI8Q{{</world>}}

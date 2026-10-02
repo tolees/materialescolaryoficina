@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tinta base de aceite
-- Bolígrafo punta de bola
+- Recargable
 - Retráctil
 - Con grip
-- Recargable
+- Bolígrafo punta de bola
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B073X1C2LH{{</world>}}

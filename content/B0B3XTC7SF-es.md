@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido técnico 100% poliéster reciclado
-- Dimensiones: 50 cm x 30 cm x 19 cm
-- Correas acolchadas y ajustables para los hombros
 - Compartimento para las botas con cierre de cremallera
 - Bolsillos laterales de malla
+- Dimensiones: 50 cm x 30 cm x 19 cm
+- Tejido técnico 100% poliéster reciclado
+- Correas acolchadas y ajustables para los hombros
 - Base revestida muy resistente al desgaste
 
 [🛒 Visítala!!!]({{< param buyurl >}})

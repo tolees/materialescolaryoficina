@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Marcador Textliner rellenable con tinta con base al agua
 - Ideal para papel convencional; Alto rendimiento con una cobertura uniforme
-- 3 anchos distintos de 1, 2 y 5 mm
-- Colores verde, amarillo, rosa naranja
 - Luminosos colores neón
+- Colores verde, amarillo, rosa naranja
+- 3 anchos distintos de 1, 2 y 5 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX5KPPFZ{{</world>}}

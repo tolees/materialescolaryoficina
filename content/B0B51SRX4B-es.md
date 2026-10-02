@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- CÓDIGO POSTAL
 - Correa ajustable
 - Correa acolchada
-- CÓDIGO POSTAL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B51SRX4B{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mochila infantil
-- 100% Poliamida
 - 28 altura x 21 ancho x 19 profundidad cm
+- 100% Poliamida
 - 0.26kg peso x 7L volumen
 - Hidrófugo
 

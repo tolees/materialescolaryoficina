@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exacompta 57745E - Divisor Multicolor Papel 160 g/m² Pack of 10'
-date: 2026-09-24 18:06:07
+date: 2026-09-30 05:53:13
 image: 'https://m.media-amazon.com/images/I/31yDhsgeUmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

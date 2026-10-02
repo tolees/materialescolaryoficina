@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Metapen Air8 Lápiz para Apple iPad 2018-2026 Rechazo Palma Alta Precisión'
-date: 2026-09-26 14:42:00
+date: 2026-10-01 23:13:15
 image: 'https://m.media-amazon.com/images/I/11zq0PlnRuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DDPMQJVH/?tag=tolees-21'
 descuento: '20.84'
-average: '17.90875'
+average: '17.9723529411765'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

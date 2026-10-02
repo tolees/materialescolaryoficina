@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ideal para estuches
-- 2 anchos de linea - 2 y 5 mm
-- Con práctico clip
 - Tecnología Antisecado STABILO: Hasta 4 horas destapado sin secarse
+- 2 anchos de linea - 2 y 5 mm
 - Disponible en 8 colores
+- Con práctico clip
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000JTN9KU{{</world>}}

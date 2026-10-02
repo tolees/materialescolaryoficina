@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sus 4 puntas medias de 1,0 mm ofrecen una escritura limpia y precisa para todo tipo de usos, "bullet journal" incluido
-- El BIC 4 Colores es recargable y de larga duración: cada uno de sus recambios escribe una media de 2 km, o un total de 8 km
 - El cuerpo de estos 5 bolis presenta un aspecto natural: color madera natural, madera azul marino, madera verde oscuro y madera rosa
+- El BIC 4 Colores es recargable y de larga duración: cada uno de sus recambios escribe una media de 2 km, o un total de 8 km
+- Sus 4 puntas medias de 1,0 mm ofrecen una escritura limpia y precisa para todo tipo de usos, "bullet journal" incluido
 - El bolígrafo BIC 4 Colores Wood Style es una nueva versión del BIC 4 Colours Original, que ahora permite cambiar el cuerpo a voluntad
 - Fabricado en Francia con el mínimo de materiales necesarios
 

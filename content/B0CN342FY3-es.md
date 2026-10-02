@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material: poliéster
 - Marca: Vans
 - Color: gris
-- Material: poliéster
 - Modelo: mochila
 - Artículo: VN000H4XBA5
 

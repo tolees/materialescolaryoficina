@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Unisex adulto Classic Three Stripes Back To School Backpack Black/White One Size'
-date: 2026-09-29 05:45:14
+date: 2026-10-01 00:08:30
 image: 'https://m.media-amazon.com/images/I/41YgZJbau3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZLP3F2N/?tag=tolees-21'
 descuento: '39.29'
-average: '18.7700000000001'
+average: '18.5733333333334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

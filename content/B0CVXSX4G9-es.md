@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Punta de 0,7mm
+- Calidad Alemana
 - Zona de sujeción triangular ergonómica
 - La siguiente información se aplica a cada unidad del paquete
 - Tinta lavable
-- Calidad Alemana
+- Punta de 0,7mm
 - Tapón ventilado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

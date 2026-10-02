@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estuche de 18 colores
-- Fácil de utilizar
 - Producto de calidad óptima
+- Fácil de utilizar
+- Estuche de 18 colores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NXRY7HL{{</world>}}

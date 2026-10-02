@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BAÑO Y COLOR: Usa el cepillo para bañar a tus cachorros. El agua les quitará el color y tus nuevos amigos estarán listos para empezar una nueva partida.
-- DESCUBRE LOS WASHIMALS DE CRAYOLA: Adorables cachorros de peluche aterciopelado para colorear y decorar de muchas formas siguiendo tu imaginación durante horas de diversión creativa.
-- UNA NUEVA FORMA DE JUGAR: ¡Jenny tiene cabeza y patas que se mueven para crear nuevas aventuras! Más superficie para colorear y decorar con los rotuladores incluidos.
 - TAMAÑO MÁXIMO PARA LA MÁXIMA DIVERSIÓN: ¡La dulce gatita Jenny ha crecido hasta la friolera de 15 cm!
+- UNA NUEVA FORMA DE JUGAR: ¡Jenny tiene cabeza y patas que se mueven para crear nuevas aventuras! Más superficie para colorear y decorar con los rotuladores incluidos.
+- DESCUBRE LOS WASHIMALS DE CRAYOLA: Adorables cachorros de peluche aterciopelado para colorear y decorar de muchas formas siguiendo tu imaginación durante horas de diversión creativa.
+- BAÑO Y COLOR: Usa el cepillo para bañar a tus cachorros. El agua les quitará el color y tus nuevos amigos estarán listos para empezar una nueva partida.
 - COLOR: Diviértete decorando con rotuladores con puntas especiales y tintas no tóxicas y ultra lavables que se eliminan fácilmente de las manos y la ropa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

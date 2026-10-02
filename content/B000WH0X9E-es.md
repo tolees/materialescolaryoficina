@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER Noris 550 Set compás escolar – Ø 30 cm adaptador universal'
-date: 2026-09-27 23:09:56
+date: 2026-09-30 00:31:42
 image: 'https://m.media-amazon.com/images/I/41aVOQKdO+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WH0X9E/?tag=tolees-21'
 descuento: '22.14'
-average: '4.77928571428572'
+average: '4.7709'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

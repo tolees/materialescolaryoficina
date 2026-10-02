@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Cristal Original Caja de 50 unidades - bolígrafos punta media 1 0 mm color rojo - material oficina material escolar'
-date: 2026-09-28 17:36:35
+date: 2026-09-30 04:52:27
 image: 'https://m.media-amazon.com/images/I/41GNowHluqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000I5SCF2/?tag=tolees-21'
 descuento: '22.92'
-average: '10.1504000000001'
+average: '10.1185185185187'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
