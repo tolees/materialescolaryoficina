@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Calidad Alemana
 - Modelo plano de bolsillo, ideal para la generacióm móbil
-- Colores pastel
 - Tecnología Anti-Secado STABILO: 4 horas destapado sin secarse
 - 2 anchos de trazo: 2 y 5 mm
+- Colores pastel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079TK9TSF{{</world>}}

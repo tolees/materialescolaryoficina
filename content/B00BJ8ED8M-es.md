@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Es resistente a los borrones y no pierde color, para que las páginas siempre estén limpias y bonitas
-- Disponible en 32 colores brillantes que harán destacar todos sus trabajos
 - Incluye 12 rotuladores Paper Mate Flair verdes con punta de fieltro mediana
 - La tinta a base de agua no traspasa el papel para que su escritura se mantenga inalterable
+- Disponible en 32 colores brillantes que harán destacar todos sus trabajos
 - La punta mediana traza líneas atrevidas y expresivas que le permitirán comunicarse con un estilo propio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

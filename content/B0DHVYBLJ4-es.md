@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Brooklyn Colors Mochila Escolar Beige'
-date: 2026-10-03 21:47:23
+date: 2026-10-15 07:40:24
 image: 'https://m.media-amazon.com/images/I/31Fk4MdxhgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

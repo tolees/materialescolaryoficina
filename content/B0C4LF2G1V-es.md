@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IMEDIO Cola Blanca 40g'
-date: 2026-10-11 02:10:08
+date: 2026-10-16 03:47:24
 image: 'https://m.media-amazon.com/images/I/31C-NH3q2GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Giotto Colors 3.0 Estuche de 12 Lápices de Color'
-date: 2026-09-29 12:12:19
+title: 'Giotto Colors 3.0 Estuche de 12 Lápices de Color | Colores surtidos para niños fiestas y escuelas primarias'
+date: 2026-10-15 09:31:30
 image: 'https://m.media-amazon.com/images/I/41ONpLytEbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B072KSNRQS-es Giotto Colors 3.0 Estuche de 12 Lápices de Color'
+slug: 'B072KSNRQS-es Giotto Colors 3.0 Estuche de 12 Lápices de Color | Colores...'
 sku: 'B072KSNRQS-es'
 tags: [ 'lápices','🇪🇸', ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85
 comparePrice: 3.5 EUR
-prodname: 'Giotto Colors 3.0 Estuche de 12 Lápices de Color'
+prodname: 'Giotto Colors 3.0 Estuche de 12 Lápices de Color | Colores surtidos para niños fiestas y escuelas primarias'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KSNRQS/?tag=tolees-21'
 descuento: '47.14'
-average: '2.60148148148149'
+average: '2.54965517241381'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

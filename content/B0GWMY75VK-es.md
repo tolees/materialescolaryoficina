@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MINECRAFT GRAFFITI - Mochila Escolar Infantil Ideal para Niños de Diferentes Edades Cómoda y Versátil Calidad y Resistencia 32x16x44 cm'
-date: 2026-10-14 21:15:58
+date: 2026-10-16 03:28:43
 image: 'https://m.media-amazon.com/images/I/41A4iGRy-8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

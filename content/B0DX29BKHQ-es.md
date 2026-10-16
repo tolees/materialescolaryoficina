@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paquete de 24 bolígrafos de doble punta para colorear en varios colores
-- Ideal para dibujar, escribir y colorear
-- Ancho de trazo aprox. 3 mm y aprox. 0,5 - 0,8 mm
 - Un bolígrafo: dos puntas para trazos estrechos y amplios
+- Paquete de 24 bolígrafos de doble punta para colorear en varios colores
+- Ancho de trazo aprox. 3 mm y aprox. 0,5 - 0,8 mm
+- Ideal para dibujar, escribir y colorear
 - Punta estable y resistente a la presión
 
 [🛒 Comprar!!!]({{< param buyurl >}})

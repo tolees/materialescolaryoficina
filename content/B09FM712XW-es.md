@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un compartimento principal
-- Bolsillo frontal con cierre
-- Bolsillo frontal con solapa
 - Dimensiones: 42 x 32 x 14 cm
+- Un compartimento principal
+- Bolsillo frontal con solapa
+- Bolsillo frontal con cierre
 - Funda acolchada para portátil 15 pulgadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

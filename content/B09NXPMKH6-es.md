@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Práctico clip y forma de bolígrafo extrafina, perfecto para viajes
 - Superficie antideslizante con aspecto translúcido
 - 2 grosores de trazo: 1 + 4 mm
+- Práctico clip y forma de bolígrafo extrafina, perfecto para viajes
 - Tecnología STABILO Anti-Secado: Hasta 4 horas destapado sin secarse
 - Disponible en muchos colores brillantes y pastel
 

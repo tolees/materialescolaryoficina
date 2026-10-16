@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Roller punta de bola
-- Visor de tinta
-- No recargable
 - Tinta Líquida
+- No recargable
+- Visor de tinta
 - Con capuchón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

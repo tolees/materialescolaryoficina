@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La cinta de poliéster se puede limpiar, es resistente a las roturas, duradera y fácil de usar
-- Etiquetas coloridas y anti roturas para su uso creativo en casa
 - El embalaje de Dymo LetraTag está hecho de una mezcla de materiales 60% reciclados y con certificación FSC
 - La impresión térmica elimina la necesidad de usar tinta o tóner
+- Etiquetas coloridas y anti roturas para su uso creativo en casa
 - Los cartuchos se pueden cambiar rápidamente, lo cual resulta práctico cuando está trabajando para terminar un proyecto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- US Cooper Daypack 8070 BRANDIT olive OS UNISEX ADULTOS
 - Correas de hombro ajustables
-- Correa de pecho ajustable
+- US Cooper Daypack 8070 BRANDIT olive OS UNISEX ADULTOS
 - Correa ajustable y extraíble
+- Correa de pecho ajustable
 - Correas de hombro acolchadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

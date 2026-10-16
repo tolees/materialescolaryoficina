@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Colores surtidos de 16
-- La tinta a base de agua no traspasa el papel para que su escritura se mantenga inalterable
 - Disponible en 32 colores brillantes que harán destacar todos sus trabajos
-- Es resistente a los borrones y no pierde color, para que las páginas siempre estén limpias y bonitas
 - La punta mediana traza líneas atrevidas y expresivas que le permitirán comunicarse con un estilo propio
+- Es resistente a los borrones y no pierde color, para que las páginas siempre estén limpias y bonitas
+- La tinta a base de agua no traspasa el papel para que su escritura se mantenga inalterable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00C3CTKN6{{</world>}}

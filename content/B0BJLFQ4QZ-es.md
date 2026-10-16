@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Unisex adulto UA Contain Micro Backpack'
-date: 2026-09-13 16:17:54
+date: 2026-10-16 05:25:25
 image: 'https://m.media-amazon.com/images/I/41HTF0K1rLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BJLFQ4QZ/?tag=tolees-21'
 descuento: '40.05'
-average: '12.7011111111111'
+average: '12.63'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

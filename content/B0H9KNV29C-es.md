@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Android 16 Tablet 13 4 Pulgadas en Gemini AI Tableta en Funda Teclado Ratón & Lápiz Unisoc T615 Octa-Core 40 GB RAM + 256 GB ROM + 1 TB TF 1920x1200 Pantalla HD Cámara Doble 5MP+13MP 10000 mAh'
-date: 2026-10-11 19:42:40
+date: 2026-10-16 02:54:39
 image: 'https://m.media-amazon.com/images/I/51xwxMcLZoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

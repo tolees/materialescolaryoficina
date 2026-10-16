@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 2 anchos de línea: 1 + 4 mm
+- Disponible en muchos colores brillantes, pastel y terrosos.
 - Superficie antideslizante con aspecto translúcido.
 - Marcador plano extrafino con práctico clip, perfecto para llevar
-- Disponible en muchos colores brillantes, pastel y terrosos.
 - Tecnología STABILO Anti-Secado: 4 horas destapado sin secarse, para un trabajo concentrado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

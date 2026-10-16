@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio FX-82MS-2-S-ET-B Calculadora Científica 1 Gris Oscuro'
-date: 2026-10-13 04:38:36
+date: 2026-10-15 07:19:26
 image: 'https://m.media-amazon.com/images/I/41F13v5Jh0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJZM3QP/?tag=tolees-21'
 descuento: '38.93'
-average: '10.7260465116278'
+average: '10.7079999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

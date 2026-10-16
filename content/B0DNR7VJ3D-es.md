@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disponible en 65 colores, incluidos 6 colores fluorescentes
-- Punta revestida de metal para una larga vida útil
 - Ancho de línea 0,4 mm
+- Punta revestida de metal para una larga vida útil
+- Disponible en 65 colores, incluidos 6 colores fluorescentes
 - Adecuado para reglas y plantillas.
 - Alta protección contra el secado sin tapón.
 

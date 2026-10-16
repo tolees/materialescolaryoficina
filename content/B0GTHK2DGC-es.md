@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr. Wonderful - Agenda escolar 2026-2027 Diaria con Espiral y Pegatinas – Planificador Diario Completo Septiembre 2026 a Agosto 2027 con Extras Regla Bolsillo y Organización – La pausa perfecta'
-date: 2026-10-12 15:50:36
+date: 2026-10-15 03:01:16
 image: 'https://m.media-amazon.com/images/I/41dIV-SeUsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTHK2DGC/?tag=tolees-21'
 descuento: '50.11'
-average: '13.15'
+average: '12.4166666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

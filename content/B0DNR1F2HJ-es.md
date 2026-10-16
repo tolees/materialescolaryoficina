@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bolsillo frontal para guardar los pequeños accesorios y bolsillo lateral.
-- Compartimento principal para llevar efectos personales.
 - Mochila de 24 cm x 32 cm x 13 cm fabricada en poliéster.
+- Compartimento principal para llevar efectos personales.
 - Tirantes ajustables para llevarla cómodamente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

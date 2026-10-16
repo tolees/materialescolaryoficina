@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Muy práctico
 - Muy útil para la oficina
+- Muy práctico
 - Alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

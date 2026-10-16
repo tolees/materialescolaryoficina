@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Entrada lateral para portátil de hasta 18
-- Compatimento ajustable
 - Protectores de goma en la base para evitar rozaduras en el tejido
+- Compatimento ajustable
 - Water resistant Nylon 420D
 - Bolsillos organizados para todo tipo de material extra: 4 formas de llavarla
 

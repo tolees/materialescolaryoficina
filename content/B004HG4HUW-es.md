@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 60 fundas (120 vistas)
-- Fundas ligeramente granuladas y antireflejo. Tamaño: 24x32cm
-- Polipropileno ECO Opaco y flexible - Grosor 3/10e
-- Carpeta de 60 fundas A4+ Polipropileno ECO Color Azul
 - Color: Azul
+- 60 fundas (120 vistas)
+- Polipropileno ECO Opaco y flexible - Grosor 3/10e
+- Fundas ligeramente granuladas y antireflejo. Tamaño: 24x32cm
+- Carpeta de 60 fundas A4+ Polipropileno ECO Color Azul
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004HG4HUW{{</world>}}

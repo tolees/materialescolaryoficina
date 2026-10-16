@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Faber-Castell 180984 - Sacapuntas con Manivela de Escritorio - Negro'
-date: 2026-06-25 06:40:22
+title: 'FABER-CASTELL - Sacapuntas con manivela negro | Afiladora manual para lápices de grafito y de colores de hasta 8 4 mm; dimensiones de la afiladora: 5 5 x 6 5 x 9 cm'
+date: 2026-10-16 04:03:07
 image: 'https://m.media-amazon.com/images/I/41vX3ulOmFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CQK9TJZV-es Faber-Castell 180984 - Sacapuntas con Manivela de...'
+slug: 'B0CQK9TJZV-es FABER-CASTELL - Sacapuntas con manivela negro | Afiladora...'
 sku: 'B0CQK9TJZV-es'
-tags: [ 'faber-castell','sacapuntas','🇪🇸', ]
-actualPrice: 7.64 EUR
+tags: [ 'faber-castell','lápices','sacapuntas','🇪🇸', ]
+actualPrice: 8.6 EUR
 currency: EUR
-price: 7.64
-comparePrice: 10.0 EUR
-prodname: 'Faber-Castell 180984 - Sacapuntas con Manivela de Escritorio - Negro'
+price: 8.6
+comparePrice: 10.16 EUR
+prodname: 'FABER-CASTELL - Sacapuntas con manivela negro | Afiladora manual para lápices de grafito y de colores de hasta 8 4 mm; dimensiones de la afiladora: 5 5 x 6 5 x 9 cm'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CQK9TJZV/?tag=tolees-21'
-descuento: '23.60'
-average: '7.64'
+descuento: '15.35'
+average: '8.12'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El gran depósito de recogida para las virutas y los residuos de punta minimiza la limpieza después del afilado
-- Con el sacapuntas negro es posible afilar lápices y lápices de colores fácilmente
-- Gracias al agregado de fresado de metal de alta calidad se consigue un resultado óptimo
-- El manejo de la máquina de punta es especialmente fácil gracias a la manivela de marcha suave
-- El sacapuntas con manivela es adecuado para lápices de madera redondos, triangulares y hexagonales. La guía del pasador se puede ajustar individualmente hasta un diámetro de 8,4 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQK9TJZV{{</world>}}

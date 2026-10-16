@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño: 11 cm × 26 cm × 40 cm
 - Cierre con cremallera
+- Tamaño: 11 cm × 26 cm × 40 cm
 - 100% poliéster (reciclado)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

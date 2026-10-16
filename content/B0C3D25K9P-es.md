@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Giotto Turbo Maxi Rotuladores con punta de fibra de tinta fluorescente Punta Ancha Mina de 5 mm Colores Fluo Surtidos 8 unidades'
-date: 2026-09-29 05:34:38
+date: 2026-10-15 00:31:48
 image: 'https://m.media-amazon.com/images/I/51nerE0qElL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

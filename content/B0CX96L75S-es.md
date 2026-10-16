@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Partes del producto fabricadas con un 63% de plástico reciclado
 - Recambio XB para una escritura extrasuave
-- Indeleble
-- Color de la tinta: azul
+- Partes del producto fabricadas con un 63% de plástico reciclado
 - Bolígrafo con un atractivo diseño mate
+- Color de la tinta: azul
+- Indeleble
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX96L75S{{</world>}}

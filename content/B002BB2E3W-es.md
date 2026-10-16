@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ceras blandas que se adhieren a prácticamente todas las superficies; el diámetro de la línea es de 8 mm
+- Ceras para colorear sobre papel y cartulina, aptas para uso infantil y escolar
 - Ceras de colores de alta calidad con una faja de papel para escribir el nombre, fabricadas en Alemania
 - Lápices de ceras especilamente indicadas para dibujar, pintar, colorear y para técnicas de raspado
-- Ceras para colorear sobre papel y cartulina, aptas para uso infantil y escolar
+- Ceras blandas que se adhieren a prácticamente todas las superficies; el diámetro de la línea es de 8 mm
 - Lápices de colores brillantes enviados en una caja de cartón que contiene 16 tonalidades variadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

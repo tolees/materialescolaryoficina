@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dimensiones: 14 cm x 27,5 cm x 45 cm
-- Exterior: 100% poliéster (reciclado); Interior: 100% elastómero termoplástico
 - Capacidad: 18,5 l
+- Exterior: 100% poliéster (reciclado); Interior: 100% elastómero termoplástico
 - Bolsillo frontal con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Cristal Bolígrafos Original Óptimo para material escolar Azul Punta Media 1 0mm Material Oficina y Papelaria Caja de 50 Bolis'
-date: 2026-09-20 10:07:52
+date: 2026-10-16 03:57:04
 image: 'https://m.media-amazon.com/images/I/41yr-vnFC+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000I5VY8Y/?tag=tolees-21'
 descuento: '18.68'
-average: '10.5024338624337'
+average: '10.502390158172'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

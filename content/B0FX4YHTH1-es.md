@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Dimensiones (caja): 2,5 x 23 x 24 cm
 - Diario con encuadernación en espiral
 - Tapas rígidas en forma de personaje con candado y llaves
-- 80 hojas blancas con motivo decorativo
 - Bolígrafo 6 colores con mecanismo retráctil
+- 80 hojas blancas con motivo decorativo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FX4YHTH1{{</world>}}

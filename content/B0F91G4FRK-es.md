@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- PÁGINAS ADICIONALES: Páginas dedicadas para contraseñas, notas, contactos, presupuesto navideño, registro de gastos, Días festivos internacionales y Calendario anuales de 2026 2027
 - Agenda 2026 Semanal Vista Horizontal A5, de enero a diciembre de 2026: Formato A5 (15,7 x 21,4 cm), tapa de plástico impermeable, Carta Spessa 100gsm sin sangre. (Versión en inglés, pero es fácil de entender)
 - VISTA COMPLETA: Incluye vista semanal en dos páginas, vista mensual con pestañas, sección de notas y planificador anual 2026, ideal para planificación detallada de actividades. que el calendario anual te ayuda a planificar a largo plaz
-- PÁGINAS ADICIONALES: Páginas dedicadas para contraseñas, notas, contactos, presupuesto navideño, registro de gastos, Días festivos internacionales y Calendario anuales de 2026 2027
 - MULTIFUNCIONAL: Perfecta para uso escolar, profesional o personal, esta agenda te ayudará a mantener todos tus compromisos organizados con estilo
 - CARACTERÍSTICAS PRÁCTICAS: Separadores mensuales coloridos facilitan la navegación rápida, Cierre elástico para proteger las páginas, bolsillo trasero para documentos importantes, espiral doble metálico duradero Y Papel de alta calidad que evita el traspaso de tinta
 

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran compartimento principal
 - Fácil de transportar
+- Gran compartimento principal
 - Logotipo de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
