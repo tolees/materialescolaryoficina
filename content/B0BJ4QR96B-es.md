@@ -28,22 +28,22 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sport type: Ejercicio_&_Fitness
-- Theme: Animales
+- Item depth width height: 15.0 centimeters
+- Under Armour Negro Mochila Essential Lite
 - Recommended uses for product: Deporte
 - Pocket description: Bolsillo de utilidad
-- Water resistance level: waterproof
-- Special feature: Impermeable
-- Under Armour Negro Mochila Essential Lite
 - Storage volume: 25.5 liters
-- Strap type: Correas de espalda
-- Item dimensions: 11.8 inches
-- Material: Poliéster
-- Care instructions: Limpieza con un paño húmedo
-- Pattern: Sólido
-- Model number: 1380476
-- Item depth width height: 15.0 centimeters
 - Lining description: Poliéster
+- Theme: Animales
+- Model number: 1380476
+- Special feature: Impermeable
+- Material: Poliéster
+- Pattern: Sólido
+- Strap type: Correas de espalda
+- Care instructions: Limpieza con un paño húmedo
+- Sport type: Ejercicio_&_Fitness
+- Water resistance level: waterproof
+- Item dimensions: 11.8 inches
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJ4QR96B{{</world>}}

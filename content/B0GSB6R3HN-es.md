@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 3 EN 1, TODO EN UNO: combina lápices de colores, ceras y lápices acuarelables en un solo producto y funciona sobre papel, papel oscuro, cartón, vidrio y muchas otras superficies.
-- NÚCLEO DE COLOR SUAVE: se pueden conseguir colores intensos sin ejercer mucha presión, lo que permite a las manos de los niños pequeños experimentar un rápido éxito creativo.
 - DISEÑO DE PEPPA PIG: los colores vivos del diseño de Peppa Pig proporcionan diversión creativa para colorear en el jardín de infancia, la guardería y en casa.
 - SOSTENIBLE Y SEGURO: la madera utilizada procede de bosques certificados y ha sido sometida a pruebas dermatológicas para garantizar actividades creativas sin preocupaciones en el día a día.
 - FORMA ERGONÓMICA DEL LÁPIZ: la forma hexagonal se adapta perfectamente a la mano, evita que se caiga de la mesa y favorece un agarre natural al dibujar.
+- 3 EN 1, TODO EN UNO: combina lápices de colores, ceras y lápices acuarelables en un solo producto y funciona sobre papel, papel oscuro, cartón, vidrio y muchas otras superficies.
+- NÚCLEO DE COLOR SUAVE: se pueden conseguir colores intensos sin ejercer mucha presión, lo que permite a las manos de los niños pequeños experimentar un rápido éxito creativo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GSB6R3HN{{</world>}}

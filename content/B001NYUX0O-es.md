@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fácil de usar
-- 140 mm
-- Con forma de bolígrafo que llega a los ángulos y esquinas más pequeñas
 - Jeringa para aceite de precisión
+- Con forma de bolígrafo que llega a los ángulos y esquinas más pequeñas
+- 140 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001NYUX0O{{</world>}}

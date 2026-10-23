@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grupo Erik Agenda escolar 2026 2027 Semana Vista Ana Marin en Español | Agenda Semana Vista A5 Niñas Universidad e Instituto Curso 26/27 Anillas Tapa dura Pegatinas Pestañas e Ilustraciones'
-date: 2026-10-21 07:59:08
+date: 2026-10-23 06:36:11
 image: 'https://m.media-amazon.com/images/I/51U5ih3EzeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GZHJLY6T/?tag=tolees-21'
 descuento: '49.97'
-average: '12.8616666666667'
+average: '12.45'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

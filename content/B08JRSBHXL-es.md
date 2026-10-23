@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cargado con recambio tinta gel negra grosor medio (ref. 8523)
 - Gama de instrumentos realizados en resina
+- Cargado con recambio tinta gel negra grosor medio (ref. 8523)
 - Presentado en estuche para regalo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

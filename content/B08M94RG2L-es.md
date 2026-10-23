@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio MS-100EM - Calculadora de Escritorio con Pantalla Extra-Grande de 10 dígitos con energía Solar/batería con cálculo avanzado de Porcentaje conversión de Moneda en Euros Azul'
-date: 2026-10-21 11:32:14
+date: 2026-10-22 18:22:42
 image: 'https://m.media-amazon.com/images/I/41-V6hOmYPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08M94RG2L/?tag=tolees-21'
 descuento: '47.60'
-average: '10.1049999999999'
+average: '10.1488888888888'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER Noris 185 C24. Lápices de colores ecológicos. Caja de 24 unidades.'
-date: 2026-10-17 20:45:24
+date: 2026-10-22 21:20:19
 image: 'https://m.media-amazon.com/images/I/51Tptj1JfCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SF4NTF6/?tag=tolees-21'
 descuento: '49.82'
-average: '4.8733898305085'
+average: '4.85163934426232'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

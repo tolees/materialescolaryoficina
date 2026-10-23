@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo frontal con organizador
-- Bolsillo para botella de agua
 - Capacidad: 22 litros
+- Bolsillo para botella de agua
+- Bolsillo frontal con organizador
 - HELL: 100 % poliéster, revestimiento de poliuretano, forro: 100 % poliéster, revestimiento de poliuretano, EOD
 - Funda para portátil que se adapta a la mayoría de portátiles de 15 pulgadas
 

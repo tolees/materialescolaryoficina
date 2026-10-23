@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones: 19 cm x 29 cm x 42 cm
 - 100% poliéster (reciclado)
 - Bolsillo frontal con cremallera
+- Dimensiones: 19 cm x 29 cm x 42 cm
 - Capacidad: 25,75 l
 
 [🛒 Comprar!!!]({{< param buyurl >}})

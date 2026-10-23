@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El cuerpo hexagonal permite escribir y dibujar sin cansarse, y evita que el producto ruede por la superficie, incluso sobre mesas de dibujo inclinadas
 - Este portaminas de primera calidad con un cuerpo ligero de plástico y un zona de agarre metálica texturizada le aporta comodidad tanto para escribir como para bocetar
-- La carcasa que mantiene fija la mina evita que esta se rompa y no deja rastros en la hoja si se dibuja con regla
 - El mecanismo de latón hace que la mina se deslice con precisión
 - El indicador de dureza de la mina le permite identificar los portaminas con rapidez mientras trabaja
-- El cuerpo hexagonal permite escribir y dibujar sin cansarse, y evita que el producto ruede por la superficie, incluso sobre mesas de dibujo inclinadas
+- La carcasa que mantiene fija la mina evita que esta se rompa y no deja rastros en la hoja si se dibuja con regla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MFDG63D{{</world>}}

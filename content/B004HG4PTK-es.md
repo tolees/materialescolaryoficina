@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Carpeta de 50 fundas A4+ Polipropileno ECO Color Verde oscuro
 - Polipropileno ECO Opaco y flexible - Grosor 3/10e
+- Carpeta de 50 fundas A4+ Polipropileno ECO Color Verde oscuro
 - Fundas ligeramente granuladas y antireflejo. Tamaño: 24x32cm
-- Color: Verde oscuro
 - 50 fundas (100 vistas)
+- Color: Verde oscuro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004HG4PTK{{</world>}}

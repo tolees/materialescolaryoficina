@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EK02Y, 2 años
 - Tela repelente al agua
+- EK02Y, 2 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F62XJX9Y{{</world>}}

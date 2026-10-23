@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colores brillantes
+- Seis lápices de colores Jumbo Grip en estuche de cartón
 - Zona Soft Grip patentada
 - Mina resistente a la rotura gracias a un encolado especial
-- Seis lápices de colores Jumbo Grip en estuche de cartón
+- Colores brillantes
 - Apto para diestros y zurdos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

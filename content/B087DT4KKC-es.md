@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yaheetech Silla Oficina con Reposabrazo Regulable Silla con Ruedas Negra | Silla Escritorio Ergonomica Silla Giratoria con Ruedas Ideal para Espacio Limitado Silla Ahorro de Espacio'
-date: 2026-10-20 20:14:50
+date: 2026-10-22 06:42:59
 image: 'https://m.media-amazon.com/images/I/31FVj+HhB5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tapa ventilada según ISO 11540 y BS 7272-1/2
 - Punta estable y resistente a la presión
-- 10 bolígrafos de doble punta de fibra que proporcionan una variedad de 20 colores por cartera
-- Ancho de la línea: punta fina aprox. 1,0 mm, ancho de la línea, punta ancha aprox. 3 mm
 - Se lava fácilmente de la mayoría de los textiles
+- Ancho de la línea: punta fina aprox. 1,0 mm, ancho de la línea, punta ancha aprox. 3 mm
+- 10 bolígrafos de doble punta de fibra que proporcionan una variedad de 20 colores por cartera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09SV5XTH3{{</world>}}

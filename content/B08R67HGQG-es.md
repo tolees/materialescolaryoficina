@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para escribir y decorar en papel claro y oscuro, así como en cartón
-- Estuche con 10 rotuladores de colores surtidos
-- Se puede limpiar fácilmente con un paño húmedo
 - Rotuladores de caligrafía metálicos de alta calidad
+- Se puede limpiar fácilmente con un paño húmedo
+- Estuche con 10 rotuladores de colores surtidos
+- Para escribir y decorar en papel claro y oscuro, así como en cartón
 - Ideal para diario, álbumes de recortes, tarjetas y manualidades en general
 
 [🛒 Visítala!!!]({{< param buyurl >}})

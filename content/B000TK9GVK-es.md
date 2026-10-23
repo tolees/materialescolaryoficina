@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tinta a base de agua, recargable
-- Calidad Alemana
 - Dos anchos de línea 2 + 5 mm
-- Tecnología Anti-Secado: Hasta 4 horas destapado sin secarse
 - La gama de colores mas amplia del mercado
+- Calidad Alemana
+- Tinta a base de agua, recargable
+- Tecnología Anti-Secado: Hasta 4 horas destapado sin secarse
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000TK9GVK{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Intensidad de color garantizada
-- Trazo suave de colorido intenso
 - Mina gruesa de 3,8 mm resistente al roce y al agua
-- 24 ecolápices polychromos multicolor
 - Pigmentos de máxima calidad
+- Trazo suave de colorido intenso
+- Intensidad de color garantizada
+- 24 ecolápices polychromos multicolor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0007OECK8{{</world>}}

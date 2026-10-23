@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ARIEL PODS Todo en 1 Detergente Lavadora Liquido 60 Capsulas/Pastillas Jabon Frescor Alpino 5 Acciones para una Limpieza Brillante en Frio'
-date: 2026-10-19 13:38:24
+date: 2026-10-22 07:32:50
 image: 'https://m.media-amazon.com/images/I/417cTyDC-5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1D9KQ4R/?tag=tolees-21'
 descuento: '34.59'
-average: '18.9833333333333'
+average: '18.9799999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

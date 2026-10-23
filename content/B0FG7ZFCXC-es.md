@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yankony Mochila Viaje Cabina Avion 40x30x20 para Ryanair 24L | con Bolsillo Antirrobo 40x20x25 Bolsa Viaje para Vueling Equipaje de Mano Hombre Mujer Negro'
-date: 2026-10-18 21:01:01
+date: 2026-10-22 12:24:50
 image: 'https://m.media-amazon.com/images/I/317tgREsz1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

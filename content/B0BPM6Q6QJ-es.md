@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Renovada: la sucesora de la mochila CLUB 5 se presenta con la misma estructura y material y con un diseño levemente modificado con una moderna impresión SIX WINGS
 - Cordón de goma regulable individualmente en la parte frontal;
 - Bolsillos laterales de malla;
-- Bolsa para balones extraíble de material de malla;
 - Compartimento inferior para el almacenamiento de zapatos por separado; (L x An. x Al.) 30x18x45 cm | aprox. 25 litros
+- Bolsa para balones extraíble de material de malla;
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPM6Q6QJ{{</world>}}

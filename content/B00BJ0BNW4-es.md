@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lápiz para niños aprendiendo a escribir a partir de 5 años
 - Diámetro de mina de 3.15 mm
 - Grado de dureza HB
-- Lápiz para niños aprendiendo a escribir a partir de 5 años
 - Diseño triangular y módulos de sujeción anti-deslizante para una sujeción relajada
 - Lápices especialmente diseñados para diestros
 

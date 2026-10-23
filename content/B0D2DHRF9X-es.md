@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para pintar grandes superficies
 - Tinta con colorantes alimentarios a base de agua
+- Ideal para pintar grandes superficies
 - Tapa con conducto de aire de respiración según ISO 11540 y BS 7272-1/2
 - Especialmente para manos de niños pequeños
 - Contenido del envío: estuche de cartón con 6 rotuladores Jumbo en colores surtidos

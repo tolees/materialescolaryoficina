@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tirantes ajustables
-- Tiene detalles distintivos de la marca
 - Mochila para uso diario
+- Tiene detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F7HY1WYP{{</world>}}

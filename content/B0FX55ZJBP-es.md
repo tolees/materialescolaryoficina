@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Capacidad: 22 litros
-- Exterior/forro: 100 % poliéster, revestimiento de poliuretano, EOD
 - Bolsillo frontal con organizador
+- Exterior/forro: 100 % poliéster, revestimiento de poliuretano, EOD
 - Funda para portátil que se adapta a la mayoría de portátiles de 15 pulgadas
 - Bolsillo para botella de agua
 

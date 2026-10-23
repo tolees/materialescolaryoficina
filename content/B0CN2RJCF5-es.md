@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las ceras de colores BIC Kids Plastidecor son óptimas para que los niños a partir de 30 meses den sus primeros pasos en el dibujo
-- Sacar punta a estas ceras es fácil, por lo que los niños pueden hacerlo por sí solos
-- El plástico protector que rodea el cuerpo de las ceras permite mantener la ropa y las manos limpias; buena idea
-- La siguiente información se aplica a cada unidad del paquete
 - Con sus 12 colores, tonos oro y plata incluidos, los peques se sentirán libres para crear sus propias obras de arte
+- El plástico protector que rodea el cuerpo de las ceras permite mantener la ropa y las manos limpias; buena idea
+- Sacar punta a estas ceras es fácil, por lo que los niños pueden hacerlo por sí solos
+- La siguiente información se aplica a cada unidad del paquete
 - Las 12 ceras de este blíster duran más que las ceras para colorear normales y pesan poco, aunque son resistentes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

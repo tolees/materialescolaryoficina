@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Exfolia y contribuye a alisar las uña
 - Dermatológicamente testado
 - Tratamiento exfoliante para cutículas en formato lápiz, con aceite de Kukui
-- Facilita la eliminación del exceso de cutícula
 - El dosificador libera una cantidad idónea de producto, fácil de aplicar gracias a su suave aplicador
-- Exfolia y contribuye a alisar las uña
+- Facilita la eliminación del exceso de cutícula
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07DQMYRK9{{</world>}}

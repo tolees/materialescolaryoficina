@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mina resistente a la rotura gracias a la punta de mina
 - Con goma de borrar integrada
+- Mina resistente a la rotura gracias a la punta de mina
 - Avance de la mina automático, no es necesario sacar la mina apretando
 - Cuerpo de plástico translúcido con zona de agarre de goma
 

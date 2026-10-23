@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Olor neutro e inodoro.
-- Se puede borrar en seco sobre pizarras blancas y pizarras.
 - Los rotuladores se borran fácilmente incluso después de varios días en la superficie.
+- Se puede borrar en seco sobre pizarras blancas y pizarras.
 - 5 rotuladores de punta media de 1,5 mm con un paño para borrar fácilmente tus notas y dibujos.
 - Rotuladores no permanentes de color azul (5 unidades)
 

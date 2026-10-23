@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'P11 Android 16 Tablet 11 Pulgadas 48GB RAM + 128GB ROM/2TB TF T7250 Octa-Core 90Hz 8800mAh 13MP+5MP Gemini AI Widevine L1 Face ID GPS OTG Doble altavoz Tablet con Teclado y Lápiz Negro'
-date: 2026-10-20 14:32:14
+date: 2026-10-23 10:39:32
 image: 'https://m.media-amazon.com/images/I/51gAgo+v2rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GZZG61ZR/?tag=tolees-21'
 descuento: '33.33'
-average: '167.99'
+average: '159.989999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

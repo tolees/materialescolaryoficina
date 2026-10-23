@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Un lavado normal en la lavadora es suficiente para eliminar las manchas de la ropa
 - Caja de cartón de 96 rotuladores 12 colores diferentes
 - Caja de rotuladores de colores para niños y niñas a partir de 3 años
-- Un lavado normal en la lavadora es suficiente para eliminar las manchas de la ropa
 - Rotuladores de punta gruesa de 5,8 milímetros; tapón de seguridad con capuchón ventilado
 - De gran precisión y fidelidad, de trazo homogéneo en grosor e intensidad
 

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo expandible para botella de agua
 - Tela 600D hecha de 100% poliéster reciclado
+- Bolsillo expandible para botella de agua
 - Organizador de bolsillo frontal y clip para llaves
 - Funda acolchada flotante para portátil de 15 y 16 pulgadas
 - Correas de hombro acolchadas de EVA

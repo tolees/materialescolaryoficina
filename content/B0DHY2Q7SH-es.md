@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones: 14 cm x 27,5 cm x 45 cm
 - Bolsillo frontal con cremallera
-- Base revestida muy resistente al desgaste
 - Correas ajustables y acolchadas para los hombros
+- Dimensiones: 14 cm x 27,5 cm x 45 cm
 - Bolsillos laterales sin cierre
+- Base revestida muy resistente al desgaste
 - Exterior: 100% poliéster (reciclado); Interior: 100% elastómero termoplástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
