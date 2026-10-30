@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Para dibujar, escribir y esbozar
-- Con pinza de sujeción resistente
 - Grado de dureza: B
+- Con pinza de sujeción resistente
 - Cuerpo hexagonal con ranuras ergonómicas para el agarre
 - Grosor: 2 mm
 

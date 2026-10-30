@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiza de la Champagne (Francia)
-- No ensucia las manos y no raya
 - Especialmente recomendada para niños con problemas asmáticos
+- No ensucia las manos y no raya
 - Dermatológicamente testada
 - Antipolvo, para minimizar los riesgos de alergia
+- Tiza de la Champagne (Francia)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B001JK7ATY{{</world>}}

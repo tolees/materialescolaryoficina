@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER 185 C24 - Lápices de colores 24 Unidades Paquete de 2 Multicolor'
-date: 2026-10-27 15:39:56
+date: 2026-10-30 11:37:14
 image: 'https://m.media-amazon.com/images/I/51EbftO4aZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

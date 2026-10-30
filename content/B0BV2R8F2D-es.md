@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SONGMICS Silla de Escritorio Ergonómica Giratoria con Ruedas | Silla de Oficina Altura Ajustable Carga de 110 kg Tela de Aspecto Lino Marrón Camello Colección TYRA OBG019K01'
-date: 2026-10-23 12:01:43
+date: 2026-10-29 14:04:23
 image: 'https://m.media-amazon.com/images/I/41Bk8BJaU6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BV2R8F2D/?tag=tolees-21'
 descuento: '20.32'
-average: '63.14'
+average: '63.29'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

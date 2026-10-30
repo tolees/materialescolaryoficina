@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contiene tinta a base de agua
-- Incluye 20 unidades
 - Ancho de línea 0.3 mm
+- Incluye 20 unidades
 - Punta de metal superfina y resistente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

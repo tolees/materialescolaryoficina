@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tinta de gel fluida; punta mediana de 0,7 mm para una escritura clara y uniforme
+- Contiene: 4 bolígrafos de gel negros
 - El bolígrafo de gel negro retráctil ofrece una experiencia de escritura fluida y cómoda con un diseño elegante
 - La punta con realce de acero inoxidable confiere una apariencia elegante al bolígrafo
-- Contiene: 4 bolígrafos de gel negros
-- Tinta de gel fluida; punta mediana de 0,7 mm para una escritura clara y uniforme
 - El agarre en relieve y el cuerpo completamente recubierto de goma le permiten sujetarlo cómodamente en cualquier posición
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

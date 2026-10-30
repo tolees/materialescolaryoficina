@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tres anchos de trazo: 5.0mm, 2.0mm y 1.0mm
-- Punta biselada
 - Larga duración
+- Punta biselada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX1YDTR5{{</world>}}

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - 8 teclas memoria y Tecla de símbolo + / -
 - Subdivisión en miles y Tecla de corrección rápida
+- Pantalla LC grande de 10 dígitos
 - Raíz Cuadrada y Cálculo de unidades de tiempo
 - Calculación de impuestos y de porcentajes
-- Pantalla LC grande de 10 dígitos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08VVZQ8W7{{</world>}}

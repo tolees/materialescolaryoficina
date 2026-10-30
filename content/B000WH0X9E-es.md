@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER Noris 550 Set compás escolar – Ø 30 cm adaptador universal | Portaminas & adaptador universal punta de seguridad – estuche con regla – Art.-Nr. 550 60'
-date: 2026-10-24 05:37:55
+date: 2026-10-30 17:56:24
 image: 'https://m.media-amazon.com/images/I/41aVOQKdO+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WH0X9E/?tag=tolees-21'
 descuento: '22.14'
-average: '4.76284313725491'
+average: '4.74764150943397'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

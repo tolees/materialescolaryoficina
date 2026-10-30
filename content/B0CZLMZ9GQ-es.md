@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% poliéster (reciclado)
 - Correas ajustables y acolchadas para los hombros
+- 100% poliéster (reciclado)
 - Capacidad: 22,75 l
 - Dimensiones: 16 cm x 27 cm x 46 cm
 

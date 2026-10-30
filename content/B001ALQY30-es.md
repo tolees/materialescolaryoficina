@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 0
-- Lamas de fibra de vidrio que solamente cortan papel
 - Ideal para su colección de oficina
+- Lamas de fibra de vidrio que solamente cortan papel
+- 0
 - De alta calidad y con un diseño moderno y elegante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Loctite Super Glue-3 Creative Pen adhesivo transparente con forma de bolígrafo pegamento instantáneo y universal antigoteo fácil de usar y de gran precisión 1x4 g El embalaje puede variar'
-date: 2026-10-23 05:06:37
+date: 2026-10-30 16:52:00
 image: 'https://m.media-amazon.com/images/I/412ecEBSKWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KTOZO84/?tag=tolees-21'
 descuento: '24.35'
-average: '6.74785714285713'
+average: '6.76399999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

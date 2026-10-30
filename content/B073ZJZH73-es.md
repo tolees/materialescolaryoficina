@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Capacidad de 64 GB
 - Color plata
 - Conector USB-C y USB 3.0
 - Tipo de conectividad: USB Type-C
-- Capacidad de 64 GB
 - Gracias a USB 3.0, el stick alcanza tasas de transferencia de datos de hasta 70 MB/s
 
 [🛒 Aquí!!!]({{< param buyurl >}})

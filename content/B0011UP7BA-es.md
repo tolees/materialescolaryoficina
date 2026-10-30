@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Trazo seco
-- Lápiz de color tiza-pastel
-- Alta pigmentación que garantiza gran luminosidad y opacidad
 - Los asteriscos indican la resistencia a la luz
+- Lápiz de color tiza-pastel
+- Trazo seco
+- Alta pigmentación que garantiza gran luminosidad y opacidad
 - Gama de 60 colores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

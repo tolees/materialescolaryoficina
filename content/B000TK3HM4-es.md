@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Marca : uniball
 - Trazo : 0,5 mm
 - Tipo : rollers
 - Color : rosa
-- Marca : uniball
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000TK3HM4{{</world>}}

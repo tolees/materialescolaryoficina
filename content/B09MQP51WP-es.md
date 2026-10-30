@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elementos reflectantes
 - Cómoda espalda acolchada y suave
+- Etiqueta con el nombre en el interior
 - Bucle de material
 - Correa pectoral de ajuste infinito
-- Etiqueta con el nombre en el interior
+- Elementos reflectantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MQP51WP{{</world>}}

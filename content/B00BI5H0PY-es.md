@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color de la tinta: azul
 - Tipo de punta: medio
+- Color de la tinta: azul
 - Tipo de producto: Bolígrafo de bola retráctil
 - Grosor del trazo: pointe acier extra grande
 

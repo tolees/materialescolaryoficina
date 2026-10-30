@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Logotipo de Kipling
-- Compartimento con cierre magnético
 - Cierre con cordón
+- Compartimento con cierre magnético
 - Llaveros 2D de mono y conejito
 
 [🛒 Aquí!!!]({{< param buyurl >}})

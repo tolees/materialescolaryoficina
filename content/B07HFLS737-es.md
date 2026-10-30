@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Triangular ergonómica de lápiz para diestros
 - Estrecho vástago
-- Antideslizante mango
 - De madera con certificado PEFC
+- Antideslizante mango
 - HB (con 2, 2 mm de diámetro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se desliza con facilidad
 - La siguiente información se aplica a cada unidad del paquete
+- Se desliza con facilidad
 - Color verde oliva
 - Producto de calidad óptima
 

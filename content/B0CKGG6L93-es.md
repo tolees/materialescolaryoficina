@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Colores brillantes, lavables y fáciles de borrar
 - Certificado a partir de los 24 meses
+- Colores brillantes, lavables y fáciles de borrar
 - Tizas de color sin polvo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

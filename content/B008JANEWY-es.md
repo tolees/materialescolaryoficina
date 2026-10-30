@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Una unidad
-- Tamaño: 12 x 66 mm
-- Material de calidad
 - Cinta adhesiva
+- Material de calidad
+- Tamaño: 12 x 66 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008JANEWY{{</world>}}

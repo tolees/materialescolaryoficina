@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mochila de uso diario
-- Tiene detalles distintivos de la marca, la misma es Puma
 - Vida al aire libre
+- Tiene detalles distintivos de la marca, la misma es Puma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D91ZNV6D{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad: 27,4 L
-- Correas ajustables para los hombros
 - Refuerzos resistentes al desgaste
-- Dimensiones: 440 × 310 mm
+- Correas ajustables para los hombros
+- Capacidad: 27,4 L
 - Material Principal: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Acolchado: 100% Polietileno
+- Dimensiones: 440 × 310 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FVML1TDG{{</world>}}

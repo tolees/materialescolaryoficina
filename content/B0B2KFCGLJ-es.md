@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compartimentos para portátil y tablet acolchados.
 - Dos bolsillos laterales elásticos.
 - Compartimentos en interior y exterior con cierres de cremallera.
+- Compartimentos para portátil y tablet acolchados.
 - Bolsillo frontal con cremallera y mosquetón para llaves.
 - Soportes para enganchar una luz.
 

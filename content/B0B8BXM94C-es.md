@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dermatológicamente testado, no comedogénico
 - Lápiz de labios de larga duración con un color intenso y uniforme para delinear con precisión el contorno de labios
+- Dermatológicamente testado, no comedogénico
 - Su composición, no-transfer y resistente al agua, permite una aplicación libre de imperfecciones y aumenta la duración de la barra de labios
 - Su textura es fácil de aplicar y difuminar
 

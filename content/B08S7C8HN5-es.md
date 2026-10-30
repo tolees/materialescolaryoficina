@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pintar incluso en superficies lisas
-- Lápiz, acuarela y crayón en un lápiz
-- Ideal para las manos de los niños
 - Mina dúo para doble diversión
+- Lápiz, acuarela y crayón en un lápiz
+- Pintar incluso en superficies lisas
+- Ideal para las manos de los niños
 - Perfecto para grandes superficies y diversas técnicas de pintura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

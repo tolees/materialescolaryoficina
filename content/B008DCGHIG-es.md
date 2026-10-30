@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Colores surtidos
-- Lápices Alpino
 - Acuarelables
+- Lápices Alpino
+- Colores surtidos
 - Caja de cartón con 12 unidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})

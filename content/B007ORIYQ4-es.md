@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paquete de 5 colores de índices de película
 - Un producto de calidad
 - Colores: azul neón, verde neón, amarillo neón, naranja neón, rosa neón, tamaño: 45 x 12 mm
+- Paquete de 5 colores de índices de película
 - Fácil de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

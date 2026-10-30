@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Unisex adulto Classic Three Stripes Back To School Backpack Dark Blue/White One Size'
-date: 2026-10-21 08:25:11
+date: 2026-10-30 21:12:36
 image: 'https://m.media-amazon.com/images/I/31CzBM8LkZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CZLKVGCR-es adidas Unisex adulto Classic Three Stripes Back To School...'
 sku: 'B0CZLKVGCR-es'
 tags: [ 'backpack','🇪🇸', ]
-actualPrice: 17.99 EUR
+actualPrice: 14.95 EUR
 currency: EUR
-price: 17.99
+price: 14.95
 comparePrice: 28.0 EUR
 prodname: 'adidas Unisex adulto Classic Three Stripes Back To School Backpack Dark Blue/White One Size'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZLKVGCR/?tag=tolees-21'
-descuento: '35.75'
-average: '18.58125'
+descuento: '46.61'
+average: '18.1777777777777'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

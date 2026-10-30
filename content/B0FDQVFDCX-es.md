@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenor Aire Fresco Suavizante Para Ropa Frescor Alpino 36 Lavados 6 X 504ml Frescor Resistente Al Secar En Ambientes Húmedos O Al Sol Intenso'
-date: 2026-10-27 23:19:22
+date: 2026-10-29 12:46:36
 image: 'https://m.media-amazon.com/images/I/5162H7n-gcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDQVFDCX/?tag=tolees-21'
 descuento: '27.16'
-average: '16.4156249999998'
+average: '16.3917647058821'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

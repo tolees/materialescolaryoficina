@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estuche escolar con tres compartimentos y diseño compacto perfecto para ir a clase con todo lo necesario.
 - Dimensión 22.00X11.00X3.50 cm
+- Estuche escolar con tres compartimentos y diseño compacto perfecto para ir a clase con todo lo necesario.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4W9CFQ2{{</world>}}

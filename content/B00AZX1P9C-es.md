@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Portaminas
-- Rotring 600 0,7 mm
 - Cuerpo plateado
+- Rotring 600 0,7 mm
+- Portaminas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00AZX1P9C{{</world>}}

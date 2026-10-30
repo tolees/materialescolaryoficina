@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr. Wonderful - Agenda escolar Hello Kitty 2026-2027 Semanal con Pegatinas y Extras – Planificador Completo Septiembre 2026 a Agosto 2027'
-date: 2026-10-27 14:31:48
+date: 2026-10-30 09:03:07
 image: 'https://m.media-amazon.com/images/I/41ZmXEhcoyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

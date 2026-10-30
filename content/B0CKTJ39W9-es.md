@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compartimentos: bolsillo delantero
 - Cierre: cremallera
+- Compartimentos: bolsillo delantero
 - Correas de hombro ajustables
 
 [🛒 Comprar!!!]({{< param buyurl >}})

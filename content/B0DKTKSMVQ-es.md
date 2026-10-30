@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cinta correctora de larga duración con cinta ultrarresistente de poliéster
 - La siguiente información se aplica a cada unidad del paquete
 - Corrección precisa, escritura instantánea con la cinta Tipp-Ex
-- Cinta correctora de larga duración con cinta ultrarresistente de poliéster
 - Tamaño de la cinta correctora: 4,2 mm ancho x 12 m largo
 - Cinta correctora lateral para ver lo que está corrigiendo
 

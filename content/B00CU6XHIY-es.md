@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 6 rotuladores de punta blanda.
 - Tinta con base de agua.
-- Ideal para dibujo técnico, diseño, manga o caligrafía.
-- 6 colores diferentes: negro, rojo, amarillo, azul, verde y violeta.
 - Grosor variable según la presión que se ejerza.
+- 6 rotuladores de punta blanda.
+- 6 colores diferentes: negro, rojo, amarillo, azul, verde y violeta.
+- Ideal para dibujo técnico, diseño, manga o caligrafía.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CU6XHIY{{</world>}}

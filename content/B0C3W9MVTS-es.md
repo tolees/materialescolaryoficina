@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de usar
 - Duradero y de diseño
+- Fácil de usar
 - Buena relación calidad-precio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

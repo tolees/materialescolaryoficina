@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Punta resistente de Ø 2.8 mm
 - Tintas a base de agua, de muy larga duración y lavables de la piel con agua y jabón
 - Rotulador completo gracias a su tapón de seguridad
-- 12 x 12 colores
 - Capuchón ventilado y punta bloqueada que no se hunde
+- 12 x 12 colores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EANIX1A{{</world>}}

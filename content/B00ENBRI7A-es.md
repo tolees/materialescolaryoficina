@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lápices de colores en estuche de 12 unidades
 - Incluye un pincel
-- La mina está protegida contra roturas gracias a un encolado especial
 - Con forma hexagonal
+- Lápices de colores en estuche de 12 unidades
+- La mina está protegida contra roturas gracias a un encolado especial
 - La mina es totalmente acuarelable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

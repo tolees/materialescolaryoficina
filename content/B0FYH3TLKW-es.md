@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COMPATIBLE CON ACCESORIOS – Para mejores resultados, se recomienda el sacapuntas doble Mars 510 25 o Noris 512 002; combinable con otros lápices acuarelables STAEDTLER.
-- DISEÑO HEXAGONAL ERGONÓMICO – Diseño clásico que garantiza un agarre cómodo y preciso; perfecto para escuela, estudio o uso artístico.
 - ACUARELABLE Y MEZCLABLE – Totalmente soluble en agua; permite transiciones suaves, degradados armoniosos y efectos intensos para pintura acuarelada.
 - ALTA CALIDAD – Mina gruesa de 3,6 mm resistente a la rotura; resistente a la luz, de alta intensidad de color y fabricada de manera sostenible con madera certificada.
+- COMPATIBLE CON ACCESORIOS – Para mejores resultados, se recomienda el sacapuntas doble Mars 510 25 o Noris 512 002; combinable con otros lápices acuarelables STAEDTLER.
+- DISEÑO HEXAGONAL ERGONÓMICO – Diseño clásico que garantiza un agarre cómodo y preciso; perfecto para escuela, estudio o uso artístico.
 - COLOR Púrpura violeta claro BRILLANTE – Lápiz acuarelable altamente pigmentado con intensa liberación de color; ideal para dibujos, bocetos, acuarelas y técnicas mixtas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

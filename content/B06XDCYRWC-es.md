@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - La tinta a base de alcohol contenida en estos marcadores permanentes es poco olorosa y se seca rápidamente. ¿Quién hubiera creído que la tinta podría ser tan cariñosa
 - Electrifica tu vida con este pack de 5 colores metálicos, elegidos al azar entre oro, plata, azul, rosa, púrpura, bronce o verde
-- Están disponibles en 5 colores metálicos: dorado, plateado, azul, morado y rosa o dorado, plateado, azul, bronce y verde (al azar), no se pueden elegir a mano.
 - Sus empuñaduras de goma texturizada proporcionan la máxima comodidad y líneas controladas
+- Están disponibles en 5 colores metálicos: dorado, plateado, azul, morado y rosa o dorado, plateado, azul, bronce y verde (al azar), no se pueden elegir a mano.
 - Las puntas en forma de bola de tamaño mediano permiten escribir fácilmente líneas de espesor uniforme
 - BIC Los marcadores permanentes Marking Metallic Colors escriben sobre superficies claras y oscuras. Ideal para materiales porosos como papel y cartón
 
