@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rotuladores Finos Maped Graph Peps Set de 20 Colores Surtidos Punta Metálica de 0.4mm Tinta Suave y Duradera Diseño Ergonómico Ideales para Escritura Bocetos Dibujo Notas y Bullet Journal'
-date: 2026-11-12 16:48:31
+date: 2026-11-13 20:21:47
 image: 'https://m.media-amazon.com/images/I/51Om-4kLJcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IXQQ624/?tag=tolees-21'
 descuento: '60.46'
-average: '7.4678947368421031'
+average: '7.3957142857142841'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

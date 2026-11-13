@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
 - Estuche para lápices
+- Tiene detalles distintivos de la marca
 - Cierre de cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

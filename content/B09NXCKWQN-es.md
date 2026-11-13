@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto adecuado para oficina, despacho o estudio
 - Material de calidad
+- Producto adecuado para oficina, despacho o estudio
 - Producto de la marca Stabilo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

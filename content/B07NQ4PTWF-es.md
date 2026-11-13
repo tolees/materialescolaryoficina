@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mochila de uso diario
 - Bolsillo lateral de malla para botellas
+- Mochila de uso diario
 - Correa para el hombro acolchada y ajustable para llevar cómodamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

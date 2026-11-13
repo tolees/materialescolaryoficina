@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fuente de energía: batería/solar
-- Tipo de pantalla: LCD
 - Descripción del producto: Texas Instruments TI-30XB MultiView
+- Tipo de pantalla: LCD
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B005HNU62C{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 0
-- Bolígrafo
 - 0
+- Bolígrafo
 - Diseño y funcionalidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Asa de transporte y cierre con cremallera
 - Funda interna acolchada para un portátil de 15 pulgadas
 - Un gran compartimento principal y un bolsillo secundario con solapa y organizador
+- Asa de transporte y cierre con cremallera
 - Cuadrado de amarre de piel sintética, panel trasero totalmente acolchado
 - Tirantes acolchados forrados de malla
 

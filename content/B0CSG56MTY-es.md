@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tirantes de cincha ajustables
 - Un compartimento principal
 - Poliéster reciclado 600 Denier
+- Tirantes de cincha ajustables
 - Bolsillo delantero con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

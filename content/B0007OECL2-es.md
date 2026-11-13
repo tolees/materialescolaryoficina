@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Mina resistente a la rotura gracias a un encolado especial
+- Zona Soft Grip patentada
 - Colores brillantes
 - Seis lápices de colores Jumbo Grip en estuche de cartón
 - Apto para diestros y zurdos
-- Mina resistente a la rotura gracias a un encolado especial
-- Zona Soft Grip patentada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0007OECL2{{</world>}}

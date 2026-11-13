@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Superficie antideslizante con aspecto translúcido
 - Práctico clip y forma de bolígrafo extra delgada, perfecto para viajes
 - Disponible en muchos colores brillantes y pastelitos
-- 2 grosores de trazo, 14 mm
 - Tecnología antisecado, 4 horas de protección contra la deshidratación
+- 2 grosores de trazo, 14 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NXH85JY{{</world>}}

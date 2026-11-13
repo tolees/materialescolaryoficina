@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene una tinta de estampación claro
-- Tiene un punto fino que permite dibujar y escribir
 - Adecuado para escribir a mano, garabatos o dibujos que luego se puede realzar con polvos y la pistola de calor
-- NOTA: Las etiquetas en el bolígrafo estarán en negro
+- Contiene una tinta de estampación claro
 - Dispone de un punto cónico que permite hacer caligrafía
+- NOTA: Las etiquetas en el bolígrafo estarán en negro
+- Tiene un punto fino que permite dibujar y escribir
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CZ77TF0{{</world>}}

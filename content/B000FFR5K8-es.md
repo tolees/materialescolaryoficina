@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye sacapuntas
-- Fabricado con madera certificada 100% PEFC
-- Multifunción: lápiz de color, cera y acuarela
 - También escribe sobre superficies como cristal, metal
+- Multifunción: lápiz de color, cera y acuarela
+- Fabricado con madera certificada 100% PEFC
+- Incluye sacapuntas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000FFR5K8{{</world>}}

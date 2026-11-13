@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El diseño de tapa de color le permite reconocer e identificar cada color fácilmente
-- Set de 9 rotuladores cuya tinta cambia de color al pasar por encima del dibujo un décimo rotulador de color blanco (incluido en el set)
 - Adecuado para líneas de diario, cuaderno de bocetos, libro de matemáticas y otras
+- Set de 9 rotuladores cuya tinta cambia de color al pasar por encima del dibujo un décimo rotulador de color blanco (incluido en el set)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DH4XF3XP{{</world>}}

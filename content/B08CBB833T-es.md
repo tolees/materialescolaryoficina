@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Para toda clase de papel normal
 - Tinta a base de agua
 - Punta biselada en 3 grosores de trazo: 5 mm, 2 mm y 1 mm
-- Para toda clase de papel normal
 - Producto de la marca Faber-Castell
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El llavero puede variar
+- Serie: Basic Plus
 - Tipo de cierre: cremallera
 - Soporte para llaves
-- El llavero puede variar
 - Volumen en L aprox. 0-10 de EE. UU
-- Serie: Basic Plus
 - Características: compartimento para teléfono móvil, bolsillo con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

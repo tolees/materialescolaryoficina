@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Explora nuestra gama de productos
 - Diseño y funcionalidad
 - Nuestra calidad es lo que nos recomienda
+- Explora nuestra gama de productos
 - Este producto fue creado con atención al detalle
 
 [🛒 Aquí!!!]({{< param buyurl >}})

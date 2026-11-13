@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HEAD Mochila Tour'
-date: 2026-10-12 03:35:47
+date: 2026-11-13 12:18:39
 image: 'https://m.media-amazon.com/images/I/31fDvAUGGGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B000NCWL9I-es HEAD Mochila Tour'
 sku: 'B000NCWL9I-es'
 tags: [ 'mochila','🇪🇸', ]
-actualPrice: 49.95 EUR
+actualPrice: 47.39 EUR
 currency: EUR
-price: 49.95
+price: 47.39
 comparePrice: 80.0 EUR
 prodname: 'HEAD Mochila Tour'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NCWL9I/?tag=tolees-21'
-descuento: '37.56'
-average: '49.95'
+descuento: '40.76'
+average: '48.67'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

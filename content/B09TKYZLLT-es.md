@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Muchos colores brillantes, incluyendo colores neón y pastel
-- Punta M robusta (ancho de línea de aproximadamente 1 mm) para una aplicación uniforme del color
-- Crea efectos de acuarela con tinta a base de agua
 - Rotulador de punta de fieltro de alta calidad con colores intensos
 - Alto brillo de color y luminosidad
+- Crea efectos de acuarela con tinta a base de agua
+- Punta M robusta (ancho de línea de aproximadamente 1 mm) para una aplicación uniforme del color
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TKYZLLT{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Blíster calculadora científica M240 Sunset rosa
 - 0
+- Blíster calculadora científica M240 Sunset rosa
 - 0
 - 0
 

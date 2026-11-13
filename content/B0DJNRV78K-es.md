@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Material Principal: Exterior: 100% Poliéster(100% Reciclado) / Interior: 100% Elastomeros Termoplasticos / Forro: 100% Poliéster(100% Reciclado) / Acolchado: 100% Polietileno
 - CLIMACOOL
-- Capacidad: 20,0 l
 - Tamaño: 45 cm × 26,5 cm
+- Capacidad: 20,0 l
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJNRV78K{{</world>}}

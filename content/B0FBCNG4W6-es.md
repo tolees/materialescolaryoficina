@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CALIDAD PREMIUM: Papel marfil libre de ácido (70 g/m²), procedente de bosques gestionados de forma responsable
-- CUADERNO VOLANT: Cuaderno con páginas blancas y tapa blanda fosforescente, con un diseño inspirado en la NASA
-- HOJAS DESPRENDIBLES: Todas las páginas son desprendibles, perfectas para compartir notas y bocetos fácilmente
 - IDEA DE REGALO: Este cuaderno es un regalo ideal para cualquier persona apasionada por la exploración espacial
+- CUADERNO VOLANT: Cuaderno con páginas blancas y tapa blanda fosforescente, con un diseño inspirado en la NASA
+- CALIDAD PREMIUM: Papel marfil libre de ácido (70 g/m²), procedente de bosques gestionados de forma responsable
+- HOJAS DESPRENDIBLES: Todas las páginas son desprendibles, perfectas para compartir notas y bocetos fácilmente
 - COLECCIÓN NASA: Rinde homenaje a los logros humanos en el espacio con esta colección pensada para soñadores e innovadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

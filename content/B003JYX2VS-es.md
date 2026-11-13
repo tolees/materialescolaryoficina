@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER Noris 120 Lápices – HB pack 10 hexagonal | Lápiz HB hexagonal resistente a la rotura para escritura diaria – fibras de madera reciclada – Art.-Nr. 120-2BK10D'
-date: 2026-11-06 16:21:47
+date: 2026-11-13 15:52:54
 image: 'https://m.media-amazon.com/images/I/41OnK7msxdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JYX2VS/?tag=tolees-21'
 descuento: '40.75'
-average: '5.2541517857143152'
+average: '5.2574222222222513'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

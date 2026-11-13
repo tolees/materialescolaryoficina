@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuerpo ergonómico triangular grueso
 - Calidad alemana
-- Gama de 12 colores
 - Mina de 4,2mm
 - Fabricado con madera certificada FSC
+- Cuerpo ergonómico triangular grueso
+- Gama de 12 colores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002TMEYMC{{</world>}}

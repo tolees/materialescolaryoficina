@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capuchón ventilado y punta bloqueada que no se hunde
 - Tintas a base de agua, de muy larga duración y lavables de la piel con agua y jabón
+- Capuchón ventilado y punta bloqueada que no se hunde
 - Rotulador completo gracias a su tapón de seguridad
 - 12 x 12 colores
 - Punta resistente de Ø 2.8 mm

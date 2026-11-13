@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: Bolígrafo de bola retráctil
 - Color de la tinta: azul
 - Tipo de punta: medio
 - Grosor del trazo: pointe acier extra grande
+- Tipo de producto: Bolígrafo de bola retráctil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BI5H0PY{{</world>}}

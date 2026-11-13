@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Para tomar notas
-- Diseño moderno
 - Adecuado para regalar
+- Diseño moderno
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWMKB3MT{{</world>}}

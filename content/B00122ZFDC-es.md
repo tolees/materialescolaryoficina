@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No es necesario bombearlo
 - Rotulador para pizarra blanca. Realizado con materiales reciclados
-- Color negro
+- No es necesario bombearlo
 - Punta de fibra cónica. Flujo de tinta constante gracias al sistema TPF
+- Color negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00122ZFDC{{</world>}}

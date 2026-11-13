@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'American Tourister Urban Track - Maleta de cabina Ryanair 25 x 20 x 40 cm 24.5 L 0.50 kg Equipaje de mano Mochila de avión S Underseater Grün Dark Khaki'
-date: 2026-11-09 16:50:27
+date: 2026-11-13 09:30:30
 image: 'https://m.media-amazon.com/images/I/415qLg3ISPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C1CQZZV5/?tag=tolees-21'
 descuento: '55.00'
-average: '35.517857142857139'
+average: '35.699999999999996'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tinta con base al agua
-- 2 anchos de trazo
 - Muy útil para ti y tu hogar
+- 2 anchos de trazo
+- Tinta con base al agua
 - Color rosa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

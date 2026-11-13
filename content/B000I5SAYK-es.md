@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Larga - 112 mm x Ancha - 30 mm x Alta - 52 mm
-- Base de goma antideslizante ofreciendo estabilidad
 - Capacidad: 20 hojas
+- Larga - 112 mm x Ancha - 30 mm x Alta - 52 mm
 - Utiliza grapas 26/6 mm y 24/6 mm
+- Base de goma antideslizante ofreciendo estabilidad
 - Compacta y pequeña grapadora de recarga superior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
