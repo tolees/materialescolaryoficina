@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La mina está protegida contra roturas gracias a un encolado especial
+- Con forma hexagonal
 - Incluye un pincel
 - Lápices de colores en estuche de 12 unidades
-- Con forma hexagonal
 - La mina es totalmente acuarelable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

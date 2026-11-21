@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido resistente
 - Máximo confort diseñado para acompañar cada movimiento de forma natural.
 - El icónico estilo deportivo de Nike, ideal tanto para entrenar como para el tiempo libre.
 - Compartimento principal grande
+- Tejido resistente
 - Correas de hombro acolchadas y ajustables
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Gran logotipo serigrafiado en la parte delantera o impresión de superficie completa
 - Organizador de accesorios en el interior
-- 2 compartimentos principales
 - Daypack
+- 2 compartimentos principales
 - Tejido de poliéster reciclado 600D
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EASTPAK BENCHMARK Single Estuche para lápices'
-date: 2026-11-20 00:13:23
+date: 2026-11-21 09:45:28
 image: 'https://m.media-amazon.com/images/I/41J7sBnCxWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O58RWD6/?tag=tolees-21'
 descuento: '35.71'
-average: '7.6907567567567723'
+average: '7.7047593582887854'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEXIBOOK Disney Stitch Pizarra Mágica CRT10D | Pantalla 28 cm 1 lápiz y 6 plantillas dibujos multicolor azul'
-date: 2026-11-12 06:09:18
+date: 2026-11-20 22:05:57
 image: 'https://m.media-amazon.com/images/I/51GSUQyZ11L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

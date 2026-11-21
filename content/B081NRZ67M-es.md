@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diámetro de la mina: 2,8 mm.
+- Efectos de color increíbles
 - Lápices de colores de alta calidad con agua
 - Disponible en 36 colores.
-- Efectos de color increíbles
 - Colores intensos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Parker Sonnet bolígrafo | lacado en negro con adorno dorado | punta media | en estuche de regalo'
-date: 2026-11-19 20:46:52
+date: 2026-11-21 06:17:32
 image: 'https://m.media-amazon.com/images/I/31OgOsEe8ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B015N3QTIK/?tag=tolees-21'
 descuento: '46.81'
-average: '56.883333333333333'
+average: '58.286'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

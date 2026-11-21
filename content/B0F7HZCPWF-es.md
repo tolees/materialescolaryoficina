@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mochila para uso diario
 - Tiene detalles distintivos de la marca
+- Mochila para uso diario
 - Tirantes ajustables
 
 [🛒 Visítala!!!]({{< param buyurl >}})

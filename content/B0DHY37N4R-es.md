@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Unisex adulto Classic 3Bars Backpack wonder alumina/white One size'
-date: 2026-07-26 13:36:47
+date: 2026-11-20 19:23:21
 image: 'https://m.media-amazon.com/images/I/31EW6ENQ7wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DHY37N4R-es adidas Unisex adulto Classic 3Bars Backpack wonder...'
 sku: 'B0DHY37N4R-es'
 tags: [ 'backpack','🇪🇸', ]
-actualPrice: 15.99 EUR
+actualPrice: 13.75 EUR
 currency: EUR
-price: 15.99
+price: 13.75
 comparePrice: 25.0 EUR
 prodname: 'adidas Unisex adulto Classic 3Bars Backpack wonder alumina/white One size'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHY37N4R/?tag=tolees-21'
-descuento: '36.04'
-average: '12.792'
+descuento: '45.00'
+average: '13.065714285714286'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material Principal: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Acolchado: 100% Polietileno
-- Bolsillo frontal con cremallera
-- Dimensiones: 15 cm x 31 cm x 44 cm
-- Capacidad: 27,5 l
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHY37N4R{{</world>}}

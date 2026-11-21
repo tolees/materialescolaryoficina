@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tinta base al agua
-- Estuche de 6 unidades
+- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
 - Calidad Alemana
 - Gama de 15 colores
-- Tecnología Anti-Secado STABILO: Hasta 4 horas destapado sin secarse
+- Estuche de 6 unidades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LXOQ1KJ{{</world>}}

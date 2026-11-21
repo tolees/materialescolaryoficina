@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El cuerpo hexagonal permite escribir y dibujar sin cansarse, y evita que el producto ruede por la superficie, incluso sobre mesas de dibujo inclinadas
 - El agarre metálico moleteado impide que el instrumento se le resbale de las manos
 - El mecanismo de latón hace que la mina se deslice con precisión
 - Este bolígrafo multicolor y portaminas 3 en 1 hace que cambiar de modo de escritura sea una tarea rápida y sencilla
+- El cuerpo hexagonal permite escribir y dibujar sin cansarse, y evita que el producto ruede por la superficie, incluso sobre mesas de dibujo inclinadas
 - La carcasa que mantiene fija la mina evita que esta se rompa y no deja rastros en la hoja si se dibuja con regla
 
 [🛒 Comprar!!!]({{< param buyurl >}})

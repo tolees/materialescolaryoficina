@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El paquete incluye 10 unidades
 - Bloc de cartulinas de 170 g/m²
 - Color: blanco
-- El paquete incluye 10 unidades
 - Tamaño de la cartulina: 32 x 24 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

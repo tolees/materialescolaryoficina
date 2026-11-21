@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EASTPAK PADDED PAK R Mochila 24 L - Sunday Grey Gris'
-date: 2026-11-20 00:12:00
+date: 2026-11-21 07:49:45
 image: 'https://m.media-amazon.com/images/I/41Fydr0AUHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003OJ8RAE/?tag=tolees-21'
 descuento: '52.73'
-average: '28.395517241379395'
+average: '28.240967741935563'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

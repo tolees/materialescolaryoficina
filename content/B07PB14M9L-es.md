@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Multicolor
 - Resistente y con diseño funcional
+- Multicolor
 - Producto de alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Lumea serie 8000 dispositivo de depilación IPL alternativa de depilación láser tecnología SenseIQ 4 accesorios para el cuerpo lápiz recortador compacto satén BRI949/00'
-date: 2026-11-19 12:07:57
+date: 2026-11-20 17:46:26
 image: 'https://m.media-amazon.com/images/I/41wGVudohTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HX2KMXK/?tag=tolees-21'
 descuento: '51.73'
-average: '352.34517241379143'
+average: '349.93333333333175'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

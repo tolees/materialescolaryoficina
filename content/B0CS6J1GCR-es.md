@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Ashland Mochila pequeña Negro 25x35x11 5 cms Poliéster 10 06L by Joumma Bags Talla única'
-date: 2026-11-19 06:08:29
+date: 2026-11-21 00:58:51
 image: 'https://m.media-amazon.com/images/I/31uyxj-+iQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CS6J1GCR/?tag=tolees-21'
 descuento: '37.24'
-average: '12.105714285714285'
+average: '12.003749999999998'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

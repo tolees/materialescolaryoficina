@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para dibujar, escribir y colorear
 - Punta estable y resistente a la presión
+- Un bolígrafo: dos puntas para trazos estrechos y amplios
 - Ancho de trazo aprox. 3 mm y aprox. 0,5 - 0,8 mm
 - Paquete de 24 bolígrafos de doble punta para colorear en varios colores
-- Un bolígrafo: dos puntas para trazos estrechos y amplios
+- Ideal para dibujar, escribir y colorear
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DX29BKHQ{{</world>}}

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'STABILO - rotulador premium punta de pincel - Pen 68 brush | ancho de línea variable ARTY pack de 18'
-date: 2026-11-19 12:18:48
-image: 'https://m.media-amazon.com/images/I/51i23X0Vf1L._SL500_._SL400_.jpg'
+date: 2026-11-20 19:01:26
+image: 'https://m.media-amazon.com/images/I/61A8vcXQK3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08NXRY7HL/?tag=tolees-21'
 descuento: '61.15'
-average: '16.415'
+average: '15.925833333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calculación de impuestos y de porcentajes
-- 8 teclas memoria y Tecla de símbolo + / -
 - Raíz Cuadrada y Cálculo de unidades de tiempo
+- Calculación de impuestos y de porcentajes
 - Subdivisión en miles y Tecla de corrección rápida
+- 8 teclas memoria y Tecla de símbolo + / -
 - Pantalla LC grande de 10 dígitos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

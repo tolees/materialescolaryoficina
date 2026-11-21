@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsonite Mysight - Mochila Para Portátil con ruedas de 17 3 Pulgadas Mochila con ruedas de 48 cm con funciones inteligentes Ergonómica 25 5 L Negra'
-date: 2026-11-17 07:52:15
+date: 2026-11-21 04:09:16
 image: 'https://m.media-amazon.com/images/I/31mTKF5SlQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mina de 4,2mm
-- Fabricado con madera certificada FSC
 - Gama de 12 colores
 - Calidad alemana
 - Cuerpo ergonómico triangular grueso
+- Mina de 4,2mm
+- Fabricado con madera certificada FSC
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002TMEYMC{{</world>}}

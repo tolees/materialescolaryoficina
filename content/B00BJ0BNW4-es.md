@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseño triangular y módulos de sujeción anti-deslizante para una sujeción relajada
-- Lápiz para niños aprendiendo a escribir a partir de 5 años
-- Grado de dureza HB
-- Diámetro de mina de 3.15 mm
 - Lápices especialmente diseñados para diestros
+- Lápiz para niños aprendiendo a escribir a partir de 5 años
+- Diámetro de mina de 3.15 mm
+- Grado de dureza HB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00BJ0BNW4{{</world>}}

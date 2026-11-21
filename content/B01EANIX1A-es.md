@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Capuchón ventilado y punta bloqueada que no se hunde
+- Rotulador completo gracias a su tapón de seguridad
 - 12 x 12 colores
 - Punta resistente de Ø 2.8 mm
-- Rotulador completo gracias a su tapón de seguridad
 - Tintas a base de agua, de muy larga duración y lavables de la piel con agua y jabón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

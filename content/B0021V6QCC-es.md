@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colores alegres e intensos
 - Lápices de colores hexagonales barnizados en el color de la mina
-- Lápices de Ø 6,8 mm de grosor con mina de calidad superior, de diámetro Ø 3,3 mm
 - Disponen de espacio para escribir el nombre
+- Lápices de Ø 6,8 mm de grosor con mina de calidad superior, de diámetro Ø 3,3 mm
+- Colores alegres e intensos
 - Fáciles de afilar, ideales para el colegio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

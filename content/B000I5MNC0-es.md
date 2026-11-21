@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Especial para grabados, dibujos, bellas artes y escritura.
 - Mina protegida contra la rotura gracias a su proceso de encolado SV
 - Estuche metal que contiene 12 lápices Castell 9000
-- Especial para grabados, dibujos, bellas artes y escritura.
 - Graduaciones: 8B, 7B, 6B, 5B, 4B, 3B, 2B, B, HB, F, H, 2H
 - Barniz a base de agua
 

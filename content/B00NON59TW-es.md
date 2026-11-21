@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Superficie barnizada
 - Diseño moderno
 - Calidad alemana
+- Superficie barnizada
 - Dureza hb
 
 [🛒 Comprar!!!]({{< param buyurl >}})

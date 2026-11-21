@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FABER-CASTELL - Set Black Edition 24 lápices estuche de cartón | Lápices de colores brillantes para papel claro y oscuro con un trazo suave resistentes a la rotura y ergonómicos'
-date: 2026-11-20 01:48:12
+date: 2026-11-21 03:40:43
 image: 'https://m.media-amazon.com/images/I/51ZppH95rRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WNZXH7/?tag=tolees-21'
 descuento: '58.90'
-average: '7.58'
+average: '6.9700000000000006'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

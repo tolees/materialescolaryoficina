@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EASTPAK PINNACLE Mochila'
-date: 2026-11-17 07:12:48
+date: 2026-11-20 19:31:08
 image: 'https://m.media-amazon.com/images/I/41tVBNug5-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

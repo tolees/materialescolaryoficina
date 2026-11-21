@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - De larga duración; definir; efecto tinte; color intenso
-- Fórmula acuosa y altamente pigmentada
-- Punta precisa para una aplicación sencilla
 - La siguiente información se aplica a cada unidad del paquete
+- Punta precisa para una aplicación sencilla
 - Larga duración
+- Fórmula acuosa y altamente pigmentada
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

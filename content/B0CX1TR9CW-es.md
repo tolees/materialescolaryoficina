@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EASTPAK Double BENCHMARK Estuche para lápices'
-date: 2026-11-20 00:20:16
+date: 2026-11-21 01:39:41
 image: 'https://m.media-amazon.com/images/I/318rV0PsARL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

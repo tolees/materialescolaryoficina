@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tinta a base de agua, soluble en agua antes del secado
-- Rotuladores con punta de fibra que se desliza de forma suave para escribir y dibujar en papel claro, tomar notas y hacer bocetos y diseños
 - Disponible en diferentes colores y presentaciones
+- Rotuladores con punta de fibra que se desliza de forma suave para escribir y dibujar en papel claro, tomar notas y hacer bocetos y diseños
 - Tonos Pastel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

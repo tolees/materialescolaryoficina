@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Stabilo Carbothello
 - Estuche de metal
 - Estuche metal 60 uds surtidas+ 1 afilalápices 4514 + 1 goma de borrar 1183 + 1 difumino
-- Stabilo Carbothello
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0013N3TRE{{</world>}}

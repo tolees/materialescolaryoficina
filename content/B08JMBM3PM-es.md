@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'THE NORTH FACE Mochila Connector TNF Black 28 L'
-date: 2026-10-07 03:58:16
+title: 'THE NORTH FACE Mochila Connector TNF Black 28 L | Unisex'
+date: 2026-11-21 11:35:21
 image: 'https://m.media-amazon.com/images/I/31ztdm6P-mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08JMBM3PM-es THE NORTH FACE Mochila Connector TNF Black 28 L'
+slug: 'B08JMBM3PM-es THE NORTH FACE Mochila Connector TNF Black 28 L | Unisex'
 sku: 'B08JMBM3PM-es'
 tags: [ 'mochila','🇪🇸', ]
-actualPrice: 63.0 EUR
+actualPrice: 47.5 EUR
 currency: EUR
-price: 63.0
+price: 47.5
 comparePrice: 95.0 EUR
-prodname: 'THE NORTH FACE Mochila Connector TNF Black 28 L'
+prodname: 'THE NORTH FACE Mochila Connector TNF Black 28 L | Unisex'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JMBM3PM/?tag=tolees-21'
-descuento: '33.68'
-average: '58.9166666666667'
+descuento: '50.00'
+average: '56.062500000000021'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER 364 CWP4PAST - Rotuladores fluorescentes Textsurfer Estuche con 4 marcadores de colores pastel'
-date: 2026-11-13 21:13:23
+date: 2026-11-21 01:25:34
 image: 'https://m.media-amazon.com/images/I/41KeTgvCl3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFXXCW4/?tag=tolees-21'
 descuento: '49.04'
-average: '4.009999999999998'
+average: '3.9529999999999985'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

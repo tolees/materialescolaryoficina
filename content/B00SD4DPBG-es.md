@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colores básicos
 - Punta acero inoxidable
 - Tinta de gel; especial para mándalas
+- Colores básicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00SD4DPBG{{</world>}}
