@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Old Skool Flying V Mochila color negro'
-date: 2026-11-25 19:53:58
+date: 2026-11-27 06:45:34
 image: 'https://m.media-amazon.com/images/I/412EuWNbFFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FX4YY1JC/?tag=tolees-21'
 descuento: '48.82'
-average: '28.725'
+average: '25.633333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

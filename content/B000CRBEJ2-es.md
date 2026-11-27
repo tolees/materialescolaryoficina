@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EASTPAK PADDED PAK R Mochila 24 L - Black Negro'
-date: 2026-11-20 03:45:45
+date: 2026-11-26 05:26:26
 image: 'https://m.media-amazon.com/images/I/31xAm4TKdfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000CRBEJ2/?tag=tolees-21'
 descuento: '63.65'
-average: '33.554393939394'
+average: '33.155441176470646'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

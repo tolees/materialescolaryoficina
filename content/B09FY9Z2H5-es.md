@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Unisex Ozsee Sackpack Bolsa de deporte resistente al agua con cierre de cordón seguro Mochila deportiva y duradera para actividades al aire libre y viajesBlack / / Steel OSFA'
-date: 2026-11-24 06:56:27
+date: 2026-11-26 10:50:26
 image: 'https://m.media-amazon.com/images/I/4180M+aeXML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09FY9Z2H5/?tag=tolees-21'
 descuento: '50.00'
-average: '12.408000000000001'
+average: '11.840000000000002'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

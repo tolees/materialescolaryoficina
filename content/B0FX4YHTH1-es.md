@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolígrafo 6 colores con mecanismo retráctil
 - 80 hojas blancas con motivo decorativo
 - Diario con encuadernación en espiral
-- Dimensiones (caja): 2,5 x 23 x 24 cm
 - Tapas rígidas en forma de personaje con candado y llaves
+- Bolígrafo 6 colores con mecanismo retráctil
+- Dimensiones (caja): 2,5 x 23 x 24 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FX4YHTH1{{</world>}}

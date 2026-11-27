@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colores de las tintas: lila, azul, turquesa, verde, amarillo, naranja, fucsia y rojo.
 - Indicaciones para el funcionamiento de los rotuladores: agitar, presionar con la punta en el papel y escribir.
+- Colores de las tintas: lila, azul, turquesa, verde, amarillo, naranja, fucsia y rojo.
 - Set de 8 rotuladores con tinta metalizada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

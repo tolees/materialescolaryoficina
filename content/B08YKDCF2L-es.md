@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de transportar
 - Gran compartimento principal
+- Fácil de transportar
 - Logotipo de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

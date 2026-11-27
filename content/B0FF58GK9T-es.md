@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Ashland Mochila Gris para portátil 15 6" | 31 5x45x15 cms'
-date: 2026-11-24 20:44:32
+date: 2026-11-26 15:33:19
 image: 'https://m.media-amazon.com/images/I/316lYuGzROL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FF58GK9T/?tag=tolees-21'
 descuento: '50.66'
-average: '16.77'
+average: '15.66'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

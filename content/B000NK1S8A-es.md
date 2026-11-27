@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con cualquier marca de plastificadoras
-- Adecuadas para plastificar documentos formato A4
 - Acabado brillo, mejoran la apariencia del documento y realzan el contraste
+- Adecuadas para plastificar documentos formato A4
+- Compatible con cualquier marca de plastificadoras
 - Fundas de plastificar de 100 micras de grosor, proporcionan un excelente acabado al plastificar tus documentos
 - Ideales para plastificar documentos personales, notas informativas, listados, documentos personales, horarios, diplomas, certificados
 

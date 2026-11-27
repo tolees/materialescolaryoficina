@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de calidad
 - Producto de la marca Stabilo
+- Material de calidad
 - Producto adecuado para oficina, despacho o estudio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

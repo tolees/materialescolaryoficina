@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correas de hombro acolchadas y ajustables
+- Tejido resistente
 - El icónico estilo deportivo de Nike, ideal tanto para entrenar como para el tiempo libre.
 - Máximo confort diseñado para acompañar cada movimiento de forma natural.
-- Tejido resistente
+- Correas de hombro acolchadas y ajustables
 - Compartimento principal grande
 
 [🛒 Comprar!!!]({{< param buyurl >}})

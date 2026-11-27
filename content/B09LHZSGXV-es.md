@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsonite Happy Sammies Eco - Mochila para niños S+ 32 cm 11 L Red Ladybug Lally'
-date: 2026-11-25 13:58:36
+date: 2026-11-26 20:49:37
 image: 'https://m.media-amazon.com/images/I/31uTN6OUp+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09LHZSGXV/?tag=tolees-21'
 descuento: '47.31'
-average: '32.62'
+average: '31.406666666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

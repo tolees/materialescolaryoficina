@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Serie: Basic Plus
 - Características: compartimento para teléfono móvil, bolsillo con cremallera
 - Tipo de cierre: cremallera
 - Volumen en L aprox. 0-10 de EE. UU
 - El llavero puede variar
 - Soporte para llaves
+- Serie: Basic Plus
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TVPYG42{{</world>}}

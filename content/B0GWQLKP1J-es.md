@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KONO Mochila Viaje Cabina Avión 40x20x25 una Mochila Hombre de Cabina Que Sirve como Equipaje de Mano con Apertura de 180° Correa para Equipaje y Espalda Transpirable Azul'
-date: 2026-11-25 11:06:55
+date: 2026-11-26 19:02:47
 image: 'https://m.media-amazon.com/images/I/411GUDV2pcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GWQLKP1J/?tag=tolees-21'
 descuento: '21.25'
-average: '13.635000000000002'
+average: '13.584000000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

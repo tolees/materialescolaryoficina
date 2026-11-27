@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STABILO - marcador - BOSS ORIGINAL Pastel | set de mesa con 15 colores pastel - con peana para mantenerlos todos ordenados y con fácil acceso'
-date: 2026-11-23 11:56:37
+date: 2026-11-26 07:20:55
 image: 'https://m.media-amazon.com/images/I/610++O7nbNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08S76ZLVJ/?tag=tolees-21'
 descuento: '33.91'
-average: '14.42320000000004'
+average: '14.373506493506532'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

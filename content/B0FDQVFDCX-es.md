@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenor Aire Fresco Suavizante Para Ropa Frescor Alpino 36 Lavados 6 X 504ml Frescor Resistente Al Secar En Ambientes Húmedos O Al Sol Intenso'
-date: 2026-10-29 12:46:36
+date: 2026-11-26 23:41:25
 image: 'https://m.media-amazon.com/images/I/5162H7n-gcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'alpino','🇪🇸', ]
 actualPrice: 16.01 EUR
 currency: EUR
 price: 16.01
-comparePrice: 21.98 EUR
+comparePrice: 19.6 EUR
 prodname: 'Lenor Aire Fresco Suavizante Para Ropa Frescor Alpino 36 Lavados 6 X 504ml Frescor Resistente Al Secar En Ambientes Húmedos O Al Sol Intenso'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDQVFDCX/?tag=tolees-21'
-descuento: '27.16'
-average: '16.3917647058821'
+descuento: '18.32'
+average: '16.370555555555317'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

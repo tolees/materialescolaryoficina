@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puedes confiar en que el plástico resistente a los desgarros de la cinta no se romperá, y además no necesita tiempo de secado
-- Esta práctica cinta correctora está diseñada para deslizarse suavemente con la mano derecha o izquierda
 - Los tonos pastel morado, verde, amarillo, azul y coral son semiopacos y el blanco tiene una parte transparente para comprobar la cinta
 - El corrector Tipp-Ex Mini Pocket Mouse despliega una "alfombra blanca" en forma de cinta correctora de 6 m solo para ti
+- Esta práctica cinta correctora está diseñada para deslizarse suavemente con la mano derecha o izquierda
 - Un pack de 6 correctores Tipp-Ex Mini Pocket Mouse: 5 decorados con tonos pastel y 1 dispensador normal blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

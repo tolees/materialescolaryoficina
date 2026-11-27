@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistente al agua
 - Rotuladores de punta media
+- Resistente al agua
 - Paquete de 12 unidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})

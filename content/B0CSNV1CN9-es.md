@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 2 compartimentos principales con cremallera
+- Mochila grande con compartimento para portátil
 - Repelente al agua
 - Correas de mochila ajustables y acolchadas
-- Mochila grande con compartimento para portátil
-- 2 compartimentos principales con cremallera
 - Compartimento para portátil de hasta 15 pulgadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

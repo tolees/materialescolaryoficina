@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La siguiente información se aplica a cada unidad del paquete
 - Color verde oliva
 - Producto de calidad óptima
-- La siguiente información se aplica a cada unidad del paquete
 - Se desliza con facilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

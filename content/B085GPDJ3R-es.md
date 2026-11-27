@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfecto para acudir a clase con todo tu material escolar
 - Gran capacidad y color negro
+- Dimensiones del portatodo: 23x8 cm
+- Perfecto para acudir a clase con todo tu material escolar
 - Con cómoda asa de agarre y tiradores laterales
 - Cremallera con práctico tirador de goma
-- Dimensiones del portatodo: 23x8 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B085GPDJ3R{{</world>}}

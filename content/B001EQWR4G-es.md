@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de producto: diseño de Brunnen.
-- Tipo de encuadernación: encolado en la parte superior.
 - Tipo de perforación: encolado en la parte superior.
+- Tipo de encuadernación: encolado en la parte superior.
+- Tipo de producto: diseño de Brunnen.
 - Perforación: 4 agujeros.
 - Descripción del artículo: bloc escolar.
 

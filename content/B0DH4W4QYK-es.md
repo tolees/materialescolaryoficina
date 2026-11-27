@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr. Wonderful - Boli + lápiz infinito 2 en 1 - Te lo digo yo - Herramienta de escritura doble - Bolígrafo tinta negra'
-date: 2026-11-26 00:17:12
+date: 2026-11-27 12:11:37
 image: 'https://m.media-amazon.com/images/I/31TwW2NiTaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El estuche contiene 6 colores glitter
-- Tinta base agua, lavable de la mayoría de tejidos
-- Rotuladores de punta de fibra con tinta glitter que permite lograr un efecto chispeante
 - Con capuchón y tapón de seguridad
+- Rotuladores de punta de fibra con tinta glitter que permite lograr un efecto chispeante
+- Tinta base agua, lavable de la mayoría de tejidos
+- El estuche contiene 6 colores glitter
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P5SMNJK{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela 600D hecha de 100% poliéster reciclado
 - Organizador de bolsillo frontal y clip para llaves
 - Correas de hombro acolchadas de EVA
+- Tela 600D hecha de 100% poliéster reciclado
 - Bolsillo expandible para botella de agua
 - Funda acolchada flotante para portátil de 15 y 16 pulgadas
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un pack de 3 correctores Tipp-Ex Mini Pocket Mouse, cada uno con 6 m de "alfombra blanca" de cinta solo para ti
 - Diseñada para deslizarse con fluidez para su uso tanto con la mano derecha como con la mano izquierda
 - Esta cinta correctora no necesita tiempo de secado, por lo que se la considera la "mejor solución correctora de Europa
+- Un pack de 3 correctores Tipp-Ex Mini Pocket Mouse, cada uno con 6 m de "alfombra blanca" de cinta solo para ti
 - Su diseño mini hace que este Pocket Mouse se adapte perfectamente a todo tipo de estuches
 - Cinta de plástico resistente a roturas y desgarros
 

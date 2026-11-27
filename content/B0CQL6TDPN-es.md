@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STABILO - marcador fluorescente - BOSS ORIGINAL | set de mesa de 23 8 neón + 8 pastel + 6 colores naturales + 1 marcador negro'
-date: 2026-11-20 12:45:17
+date: 2026-11-26 17:02:13
 image: 'https://m.media-amazon.com/images/I/31FeIWPXGPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CQL6TDPN/?tag=tolees-21'
 descuento: '29.31'
-average: '19.3825'
+average: '19.282'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

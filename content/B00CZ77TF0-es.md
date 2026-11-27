@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiene un punto fino que permite dibujar y escribir
-- Dispone de un punto cónico que permite hacer caligrafía
 - Adecuado para escribir a mano, garabatos o dibujos que luego se puede realzar con polvos y la pistola de calor
+- Dispone de un punto cónico que permite hacer caligrafía
 - NOTA: Las etiquetas en el bolígrafo estarán en negro
 - Contiene una tinta de estampación claro
 

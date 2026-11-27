@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SONGMICS Silla de Escritorio Ergonómica Malla Apoyabrazos Abatibles | Soporte Lumbar Silla Oficina 64 x 64 x 110-118 cm Inclinable Negro Tinta Colección Kime OBN37BK'
-date: 2026-11-21 10:31:27
+date: 2026-11-26 11:37:13
 image: 'https://m.media-amazon.com/images/I/413H0dMFIiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCM9YH1/?tag=tolees-21'
 descuento: '19.25'
-average: '70.817878787878655'
+average: '70.461999999999875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

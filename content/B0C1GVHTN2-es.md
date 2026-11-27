@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vida al aire libre
 - Tirantes ajustables
+- Vida al aire libre
 - Producto de calidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

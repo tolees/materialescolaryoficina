@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grupo Erik Harry Potter Estuche Escolar | Material escolar y papeleria Back To School Estuche Harry Potter para colegio con Asa y Cremallera'
-date: 2026-11-22 20:28:25
+date: 2026-11-26 21:06:12
 image: 'https://m.media-amazon.com/images/I/31WfsBu403L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
